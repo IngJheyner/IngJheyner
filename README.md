@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065'>¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/unity-debe-popularidad-como-motor-desarrollo-videojuegos-2669951.jpg' alt='¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075'>Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comprueba-calidad-aire-casa-simple-medidor-amazon-oferta-totalmente-compatible-alexa-1042075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-smart-air-quality-monitor-2669981.jpg' alt='Comprueba la calidad del aire en tu casa con este simple medidor de Amazon en oferta, totalmente compatible con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-modificar-borrador-declaracion-renta-2021-1040715'>Cómo modificar el borrador de la declaración de la Renta 2021</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-modificar-borrador-declaracion-renta-2021-1040715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-2667399.jpg' alt='Cómo modificar el borrador de la declaración de la Renta 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-studio-display-review-opinion-1041553'>Apple Studio Display, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-studio-display-review-opinion-1041553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-studio-display-analisis-opinion-2670109.jpg' alt='Apple Studio Display, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217'>¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-1041217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiempo-hara-manana-webs-apps-fiables-prediccion-tiempo-2668207.jpg' alt='¿Qué tiempo hará mañana? Las webs y apps más fiables para la predicción del tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-mit-te-viste-aunque-te-estes-moviendo-1042483'>El robot del MIT que te viste aunque te estés moviendo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-mit-te-viste-aunque-te-estes-moviendo-1042483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mit-crea-robot-capaz-vestirte-aunque-te-muevas-2670701.jpg' alt='El robot del MIT que te viste aunque te estés moviendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/rascacielos-residencial-delgado-todo-occidente-nueva-york-1042481'>Este es el rascacielos residencial más delgado de todo occidente y está en Nueva York</a></h4>
-    <a href='https://computerhoy.com/noticias/life/rascacielos-residencial-delgado-todo-occidente-nueva-york-1042481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/111-west-57th-2670697.jpg' alt='Este es el rascacielos residencial más delgado de todo occidente y está en Nueva York' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pegatina-intel-inside-intel-envia-gratis-como-pedirla-1041783'>¿Tu PC no tiene la pegatina Intel Inside? Así puedes pedirla gratis a Intel para que te la envíe, incluso con PCs de segunda mano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pegatina-intel-inside-intel-envia-gratis-como-pedirla-1041783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pc-no-tiene-etiqueta-intel-inside-intel-te-envia-gratis-casa-incluso-ordenadores-segunda-mano-2669321.jpg' alt='¿Tu PC no tiene la pegatina Intel Inside? Así puedes pedirla gratis a Intel para que te la envíe, incluso con PCs de segunda mano' />
     </a>
 </div>
 
