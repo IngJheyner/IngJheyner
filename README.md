@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363'>Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer</a></h4>
+    <a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-mini-thermo-flask-2672039.jpg' alt='Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mejores-coches-familiares-electricos-electric-awards-2022-1043173'>Los mejores coches familiares eléctricos de los Electric Awards 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mejores-coches-familiares-electricos-electric-awards-2022-1043173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-coche-electrico-2074799.jpg' alt='Los mejores coches familiares eléctricos de los Electric Awards 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341'>Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg' alt='Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392'>Estas son las mejores alternativas online a Paint</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2672015.jpg' alt='Estas son las mejores alternativas online a Paint' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303'>El reconocimiento facial de toda Europa estará concentrado en una sola base de datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El reconocimiento facial de toda Europa estará concentrado en una sola base de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/podcast-ch-episodio-14-dygma-raise-motorola-edge-30-pro-series-pelis-semana-1043315'>Podcast CH Episodio 14: Dygma Raise, Motorola Edge 30 Pro y series y pelis de la semana</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/podcast-ch-episodio-14-dygma-raise-motorola-edge-30-pro-series-pelis-semana-1043315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89wf85.jpg' alt='Podcast CH Episodio 14: Dygma Raise, Motorola Edge 30 Pro y series y pelis de la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301'>La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-pip-2488359.jpg' alt='La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)' />
     </a>
 </div>
 
