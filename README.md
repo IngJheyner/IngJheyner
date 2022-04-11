@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403'>La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/metal-gear-solid-3-2497967.jpg' alt='La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399'>Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/amazon-echo-2020-2240691.jpg' alt='Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373'>Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-2672075.jpg' alt='Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375'>Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-longevas-hbo-max-alargara-temporadas-cambiar-formula-2672063.jpg' alt='Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula' />
     </a>
 </div>
 
