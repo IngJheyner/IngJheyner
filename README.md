@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205'>Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ios-16-2671675.jpg' alt='Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hidrogeno-puede-dejar-ser-combustible-verde-futuro-1043193'>El hidrógeno puede dejar de ser el combustible verde del futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hidrogeno-puede-dejar-ser-combustible-verde-futuro-1043193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/hidrogeno_1.jpg' alt='El hidrógeno puede dejar de ser el combustible verde del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171'>OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless</a></h4>
+    <a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-2671627.jpg' alt='OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-realme-q5-pro-cual-tendra-edicion-ira-juego-zapatillas-1043131'>Así será el realme Q5 Pro, el cual tendrá una edición que irá a juego con tus zapatillas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-realme-q5-pro-cual-tendra-edicion-ira-juego-zapatillas-1043131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-q5-pro-2671631.jpg' alt='Así será el realme Q5 Pro, el cual tendrá una edición que irá a juego con tus zapatillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003'>Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eve-energy-enchufe-inteligente-homekit-2671357.jpg' alt='Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primavera-sangre-altera-xx-emoticonos-calientes-1043099'>La primavera la sangre altera: los 10 emoticonos más calientes</a></h4>
-    <a href='https://computerhoy.com/noticias/primavera-sangre-altera-xx-emoticonos-calientes-1043099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primavera-sangre-altera-10-emoticonos-calientes-2671587.jpg' alt='La primavera la sangre altera: los 10 emoticonos más calientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/llega-lidl-competencia-directa-inflador-portatil-xiaomi-precio-ganga-1043125'>Llega a Lidl la competencia directa del inflador portátil de Xiaomi a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/llega-lidl-competencia-directa-inflador-portatil-xiaomi-precio-ganga-1043125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/inflar-ruedas-coche-compresor-inflador-2465209.jpg' alt='Llega a Lidl la competencia directa del inflador portátil de Xiaomi a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-aterrizara-oficialmente-hbo-max-lunes-18-abril-1043091'>The Batman aterrizará oficialmente en HBO Max el lunes 18 de abril</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/batman-aterrizara-oficialmente-hbo-max-lunes-18-abril-1043091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2639953.jpg' alt='The Batman aterrizará oficialmente en HBO Max el lunes 18 de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/implante-te-permite-pagar-mano-1043073'>El implante que te permite pagar con tu mano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/implante-te-permite-pagar-mano-1043073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/implante-te-permite-pagar-mano-2671387.jpg' alt='El implante que te permite pagar con tu mano' />
     </a>
 </div>
 
