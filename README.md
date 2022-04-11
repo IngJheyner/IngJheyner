@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-recibiria-dentro-poco-caracteristica-usuarios-llevan-meses-pidiendo-1043279'>El Google Pixel 6 Pro recibiría dentro de poco una característica que los usuarios llevan meses pidiendo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-recibiria-dentro-poco-caracteristica-usuarios-llevan-meses-pidiendo-1043279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604409.jpg' alt='El Google Pixel 6 Pro recibiría dentro de poco una característica que los usuarios llevan meses pidiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-poco-conocidas-android-muy-interesantes-dia-dia-1042795'>7 aplicaciones poco conocidas de Android muy interesantes para el día a día</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-poco-conocidas-android-muy-interesantes-dia-dia-1042795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='7 aplicaciones poco conocidas de Android muy interesantes para el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149'>Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/selfie-1876605.jpg' alt='Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215'>Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215'>Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensor-imagen-2640923.jpg' alt='Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-ceo-1043185'>¿Qué significa CEO?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-ceo-1043185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lisa-ceo-amd-2157877.jpg' alt='¿Qué significa CEO?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205'>Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ios-16-2671675.jpg' alt='Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...' />
     </a>
 </div>
 
