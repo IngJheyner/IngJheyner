@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-recibiria-dentro-poco-caracteristica-usuarios-llevan-meses-pidiendo-1043279'>El Google Pixel 6 Pro recibiría dentro de poco una característica que los usuarios llevan meses pidiendo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-recibiria-dentro-poco-caracteristica-usuarios-llevan-meses-pidiendo-1043279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604409.jpg' alt='El Google Pixel 6 Pro recibiría dentro de poco una característica que los usuarios llevan meses pidiendo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303'>El reconocimiento facial de toda Europa estará concentrado en una sola base de datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El reconocimiento facial de toda Europa estará concentrado en una sola base de datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-poco-conocidas-android-muy-interesantes-dia-dia-1042795'>7 aplicaciones poco conocidas de Android muy interesantes para el día a día</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-poco-conocidas-android-muy-interesantes-dia-dia-1042795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='7 aplicaciones poco conocidas de Android muy interesantes para el día a día' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/podcast-ch-episodio-14-dygma-raise-motorola-edge-30-pro-series-pelis-semana-1043315'>Podcast CH Episodio 14: Dygma Raise, Motorola Edge 30 Pro y series y pelis de la semana</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/podcast-ch-episodio-14-dygma-raise-motorola-edge-30-pro-series-pelis-semana-1043315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/x89wf85.jpg' alt='Podcast CH Episodio 14: Dygma Raise, Motorola Edge 30 Pro y series y pelis de la semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149'>Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/selfie-1876605.jpg' alt='Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301'>La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-pip-2488359.jpg' alt='La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nissan-apuesta-baterias-solidas-bajar-coste-coche-electrico-1043207'>Nissan apuesta por las baterías sólidas para bajar el coste del coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nissan-apuesta-baterias-solidas-bajar-coste-coche-electrico-1043207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/prueba-nissan-qashqai-13-158-cv-mhev-4x2-2669831.jpg' alt='Nissan apuesta por las baterías sólidas para bajar el coste del coche eléctrico' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-monitor-portable-16-pulgadas-diseno-muy-llamativo-1043309'>LG lanza un monitor portable de 16 pulgadas con un diseño muy llamativo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-monitor-portable-16-pulgadas-diseno-muy-llamativo-1043309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-view-2671929.jpg' alt='LG lanza un monitor portable de 16 pulgadas con un diseño muy llamativo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215'>Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensor-imagen-2640923.jpg' alt='Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/life/sirve-magnesio-1043293'>Para qué sirve el magnesio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirve-magnesio-1043293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/te-sientes-decaido-estos-son-alimentos-llevan-magnesio-vital-300-reacciones-bioquimicas-2217891.jpg' alt='Para qué sirve el magnesio' />
     </a>
 </div>
 
