@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399'>Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/amazon-echo-2020-2240691.jpg' alt='Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387'>Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-2672103.jpg' alt='Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393'>Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-solo-399-euros-2672085.jpg' alt='Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375'>Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-longevas-hbo-max-alargara-temporadas-cambiar-formula-2672063.jpg' alt='Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-32-peliculas-amor-romanticas-ver-pareja-1043191'>Las mejores 32 películas románticas para ver en pareja</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-32-peliculas-amor-romanticas-ver-pareja-1043191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/aun-soltero-japon-inteligencia-artificial-te-busca-pareja-pero-no-fija-edad-gustos-2283853.jpg' alt='Las mejores 32 películas románticas para ver en pareja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367'>Así puedes ahorrar combustible al conducir según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-coche-2672053.jpg' alt='Así puedes ahorrar combustible al conducir según la OCU' />
     </a>
 </div>
 
