@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215'>Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensor-imagen-2640923.jpg' alt='Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-ceo-1043185'>¿Qué significa CEO?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-ceo-1043185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lisa-ceo-amd-2157877.jpg' alt='¿Qué significa CEO?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205'>Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ios-16-2671675.jpg' alt='Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171'>OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless</a></h4>
     <a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-2671627.jpg' alt='OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-realme-q5-pro-cual-tendra-edicion-ira-juego-zapatillas-1043131'>Así será el realme Q5 Pro, el cual tendrá una edición que irá a juego con tus zapatillas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-realme-q5-pro-cual-tendra-edicion-ira-juego-zapatillas-1043131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-q5-pro-2671631.jpg' alt='Así será el realme Q5 Pro, el cual tendrá una edición que irá a juego con tus zapatillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003'>Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eve-energy-enchufe-inteligente-homekit-2671357.jpg' alt='Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros' />
     </a>
 </div>
 
