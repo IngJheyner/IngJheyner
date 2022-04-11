@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-cuando-policia-coche-autonomo-no-llevar-luces-puestas-1043009'>Esto es lo que pasa cuando la policía para a un coche autónomo por no llevar las luces puestas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasa-cuando-policia-coche-autonomo-no-llevar-luces-puestas-1043009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cruise-coche-autonomo-2671335.jpg' alt='Esto es lo que pasa cuando la policía para a un coche autónomo por no llevar las luces puestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849'>RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-desktop-tg01-2090ns-2669443.jpg' alt='RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641'>Cómo silenciar tu micrófono en cualquier app de videollamada</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videollamada-2660241.jpg' alt='Cómo silenciar tu micrófono en cualquier app de videollamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2671289.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
