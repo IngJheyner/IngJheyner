@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393'>Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-solo-399-euros-2672085.jpg' alt='Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373'>Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-2672075.jpg' alt='Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375'>Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/larry-david-curb-your-enthusiam-hbo-max-temporadas-doce-1043375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-longevas-hbo-max-alargara-temporadas-cambiar-formula-2672063.jpg' alt='Una de las series más longevas de HBO Max se alargará más temporadas, y sin cambiar de fórmula' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-32-peliculas-amor-romanticas-ver-pareja-1043191'>Las mejores 32 películas románticas para ver en pareja</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-32-peliculas-amor-romanticas-ver-pareja-1043191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/aun-soltero-japon-inteligencia-artificial-te-busca-pareja-pero-no-fija-edad-gustos-2283853.jpg' alt='Las mejores 32 películas románticas para ver en pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367'>Así puedes ahorrar combustible al conducir según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-coche-2672053.jpg' alt='Así puedes ahorrar combustible al conducir según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-bateria-apple-watch-dura-tan-poco-1043355'>Estos son los motivos por los que la batería de tu Apple Watch dura tan poco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-bateria-apple-watch-dura-tan-poco-1043355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los motivos por los que la batería de tu Apple Watch dura tan poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363'>Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer</a></h4>
-    <a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-mini-thermo-flask-2672039.jpg' alt='Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mejores-coches-familiares-electricos-electric-awards-2022-1043173'>Los mejores coches familiares eléctricos de los Electric Awards 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mejores-coches-familiares-electricos-electric-awards-2022-1043173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cargar-coche-electrico-2074799.jpg' alt='Los mejores coches familiares eléctricos de los Electric Awards 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341'>Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg' alt='Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes' />
     </a>
 </div>
 
