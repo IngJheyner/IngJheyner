@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2671289.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sillas-gamer-ikea-mejores-modelos-1042779'>Sillas gamer de IKEA: estos son los mejores modelos de la tienda sueca</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sillas-gamer-ikea-mejores-modelos-1042779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/silla-gaming-ikea-2671121.jpg' alt='Sillas gamer de IKEA: estos son los mejores modelos de la tienda sueca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667'>Cómo cambiar tu nombre en Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2644365.jpg' alt='Cómo cambiar tu nombre en Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419'>Cómo activar el filtro de luz azul en Windows y dormir mejor</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/viendo-pantallas-2654787.jpg' alt='Cómo activar el filtro de luz azul en Windows y dormir mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-zx-spectrum-dentro-cinta-cassette-1041925'>Se cierra el círculo: consiguen meter un ordenador ZX Spectrum dentro de una cinta de cassette</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-zx-spectrum-dentro-cinta-cassette-1041925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cierra-circulo-consiguen-meter-ordenador-zx-spectrum-dentro-cinta-cassette-2669635.jpg' alt='Se cierra el círculo: consiguen meter un ordenador ZX Spectrum dentro de una cinta de cassette' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819'>La cama gaming de Bauhutte, para jugar como un rey (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-gaming-bauhute-jugar-como-rey-2671151.jpg' alt='La cama gaming de Bauhutte, para jugar como un rey (vídeo)' />
     </a>
 </div>
 
