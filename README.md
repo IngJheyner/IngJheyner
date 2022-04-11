@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-138-kg-peso-windows-11-portatil-huawei-cuesta-mitad-macbook-air-gracias-oferta-1041879'>Solo 1,38 kg de peso y Windows 11: este portátil Huawei cuesta la mitad que un MacBook Air gracias a esta oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solo-138-kg-peso-windows-11-portatil-huawei-cuesta-mitad-macbook-air-gracias-oferta-1041879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-matebook-d-14-2046999.jpg' alt='Solo 1,38 kg de peso y Windows 11: este portátil Huawei cuesta la mitad que un MacBook Air gracias a esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mucho-mejor-reunion-homenaje-better-call-saul-tendra-apariciones-esperadas-1043039'>Mucho mejor que una reunión o un homenaje, Better Call Saul tendrá las apariciones más esperadas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mucho-mejor-reunion-homenaje-better-call-saul-tendra-apariciones-esperadas-1043039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2615953.jpg' alt='Mucho mejor que una reunión o un homenaje, Better Call Saul tendrá las apariciones más esperadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-ser-nuevo-accionista-mayoritario-elon-musk-prefiere-no-trabajar-twitter-1043025'>Pese a ser el nuevo accionista mayoritario, Elon Musk prefiere no trabajar para Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pese-ser-nuevo-accionista-mayoritario-elon-musk-prefiere-no-trabajar-twitter-1043025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Pese a ser el nuevo accionista mayoritario, Elon Musk prefiere no trabajar para Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-cuando-policia-coche-autonomo-no-llevar-luces-puestas-1043009'>Esto es lo que pasa cuando la policía para a un coche autónomo por no llevar las luces puestas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasa-cuando-policia-coche-autonomo-no-llevar-luces-puestas-1043009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cruise-coche-autonomo-2671335.jpg' alt='Esto es lo que pasa cuando la policía para a un coche autónomo por no llevar las luces puestas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849'>RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-desktop-tg01-2090ns-2669443.jpg' alt='RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/6-modos-cambia-fisico-bebedores-empedernidos-1041779'>6 modos en los que cambia el físico de los bebedores empedernidos</a></h4>
-    <a href='https://computerhoy.com/listas/life/6-modos-cambia-fisico-bebedores-empedernidos-1041779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductor-alcohol-2632271.jpg' alt='6 modos en los que cambia el físico de los bebedores empedernidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-tendra-revisar-100000-vehiculos-hibridos-enchufables-todo-planeta-1041769'>Volkswagen tendrá que revisar más de 100.000 híbridos enchufables en todo el planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/volkswagen-tendra-revisar-100000-vehiculos-hibridos-enchufables-todo-planeta-1041769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-passat-gte-2665049.jpg' alt='Volkswagen tendrá que revisar más de 100.000 híbridos enchufables en todo el planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641'>Cómo silenciar tu micrófono en cualquier app de videollamada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videollamada-2660241.jpg' alt='Cómo silenciar tu micrófono en cualquier app de videollamada' />
     </a>
 </div>
 
