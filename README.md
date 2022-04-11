@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149'>Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-sabes-posar-selfies-fotos-app-te-ayuda-miles-poses-1043149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/selfie-1876605.jpg' alt='Si no sabes posar para selfies o fotos, esta app te ayuda con miles de poses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nissan-apuesta-baterias-solidas-bajar-coste-coche-electrico-1043207'>Nissan apuesta por las baterías sólidas para bajar el coste del coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nissan-apuesta-baterias-solidas-bajar-coste-coche-electrico-1043207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/prueba-nissan-qashqai-13-158-cv-mhev-4x2-2669831.jpg' alt='Nissan apuesta por las baterías sólidas para bajar el coste del coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215'>Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx866-rgbw-50-mpx-montaran-proximos-smartphones-top-2022-1043215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sensor-imagen-2640923.jpg' alt='Así es el sensor Sony IMX866 RGBW de 50 Mpx que montarán los próximos smartphones top de 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205'>Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podemos-esperar-ios-16-wwdc22-notificaciones-mejoradas-realidad-virtual-1043205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ios-16-2671675.jpg' alt='Qué podemos esperar de iOS 16 en este WWDC22: notificaciones mejoradas, realidad virtual...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hidrogeno-puede-dejar-ser-combustible-verde-futuro-1043193'>El hidrógeno puede dejar de ser el combustible verde del futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hidrogeno-puede-dejar-ser-combustible-verde-futuro-1043193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/hidrogeno_1.jpg' alt='El hidrógeno puede dejar de ser el combustible verde del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171'>OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless</a></h4>
-    <a href='https://computerhoy.com/noticias/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-1043171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-anuncia-evento-28-abril-presentaran-dos-nuevos-moviles-auriculares-true-wireless-2671627.jpg' alt='OnePlus anuncia un evento el 28 de abril en el que se presentarán dos nuevos móviles y unos auriculares true wireless' />
     </a>
 </div>
 
