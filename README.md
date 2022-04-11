@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849'>RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rtx-3060ti-ryzen-7-pc-gaming-bestia-ahora-rompe-record-precio-1041849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-desktop-tg01-2090ns-2669443.jpg' alt='RTX 3060Ti y Ryzen 7: este PC Gaming es una bestia y ahora rompe su récord de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/6-modos-cambia-fisico-bebedores-empedernidos-1041779'>6 modos en los que cambia el físico de los bebedores empedernidos</a></h4>
+    <a href='https://computerhoy.com/listas/life/6-modos-cambia-fisico-bebedores-empedernidos-1041779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conductor-alcohol-2632271.jpg' alt='6 modos en los que cambia el físico de los bebedores empedernidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/volkswagen-tendra-revisar-100000-vehiculos-hibridos-enchufables-todo-planeta-1041769'>Volkswagen tendrá que revisar más de 100.000 híbridos enchufables en todo el planeta</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/volkswagen-tendra-revisar-100000-vehiculos-hibridos-enchufables-todo-planeta-1041769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-passat-gte-2665049.jpg' alt='Volkswagen tendrá que revisar más de 100.000 híbridos enchufables en todo el planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641'>Cómo silenciar tu micrófono en cualquier app de videollamada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-silenciar-microfono-cualquier-app-videollamada-1036641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/videollamada-2660241.jpg' alt='Cómo silenciar tu micrófono en cualquier app de videollamada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1042985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2671289.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sillas-gamer-ikea-mejores-modelos-1042779'>Sillas gamer de IKEA: estos son los mejores modelos de la tienda sueca</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sillas-gamer-ikea-mejores-modelos-1042779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/silla-gaming-ikea-2671121.jpg' alt='Sillas gamer de IKEA: estos son los mejores modelos de la tienda sueca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667'>Cómo cambiar tu nombre en Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2644365.jpg' alt='Cómo cambiar tu nombre en Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/consejos-todo-debes-saber-quieres-comprar-colchon-online-internet-1034625'>Consejos y todo lo que debes saber si quieres comprar un colchón online por Internet</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/consejos-todo-debes-saber-quieres-comprar-colchon-online-internet-1034625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/colchon-2657229.jpg' alt='Consejos y todo lo que debes saber si quieres comprar un colchón online por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419'>Cómo activar el filtro de luz azul en Windows y dormir mejor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-filtro-luz-azul-windows-dormir-mejor-1033419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/viendo-pantallas-2654787.jpg' alt='Cómo activar el filtro de luz azul en Windows y dormir mejor' />
     </a>
 </div>
 
