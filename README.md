@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392'>Estas son las mejores alternativas online a Paint</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2672015.jpg' alt='Estas son las mejores alternativas online a Paint' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303'>El reconocimiento facial de toda Europa estará concentrado en una sola base de datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-toda-europa-estara-concentrado-sola-base-datos-1043303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reconocimiento-facial-2027051.jpg' alt='El reconocimiento facial de toda Europa estará concentrado en una sola base de datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301'>La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-youtube-lleva-pip-iphone-gratis-1043301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-pip-2488359.jpg' alt='La nueva actualización de YouTube lleva el PiP a los iPhone (y gratis)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-monitor-portable-16-pulgadas-diseno-muy-llamativo-1043309'>LG lanza un monitor portable de 16 pulgadas con un diseño muy llamativo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-monitor-portable-16-pulgadas-diseno-muy-llamativo-1043309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-gram-view-2671929.jpg' alt='LG lanza un monitor portable de 16 pulgadas con un diseño muy llamativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-magnesio-1043293'>Para qué sirve el magnesio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-magnesio-1043293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/te-sientes-decaido-estos-son-alimentos-llevan-magnesio-vital-300-reacciones-bioquimicas-2217891.jpg' alt='Para qué sirve el magnesio' />
     </a>
 </div>
 
