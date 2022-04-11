@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367'>Así puedes ahorrar combustible al conducir según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/puedes-ahorrar-combustible-conducir-ocu-1043367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conducir-coche-2672053.jpg' alt='Así puedes ahorrar combustible al conducir según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-bateria-apple-watch-dura-tan-poco-1043355'>Estos son los motivos por los que la batería de tu Apple Watch dura tan poco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-bateria-apple-watch-dura-tan-poco-1043355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los motivos por los que la batería de tu Apple Watch dura tan poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363'>Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer</a></h4>
     <a href='https://computerhoy.com/noticias/life/xiaomi-inventa-termo-no-nada-tecnologico-pero-seguro-vas-querer-1043363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-mini-thermo-flask-2672039.jpg' alt='Xiaomi inventa un termo que no es nada tecnológico pero seguro que lo vas a querer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341'>Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes</a></h4>
     <a href='https://computerhoy.com/noticias/life/seguros-influencers-son-realidad-algunas-coberturas-son-sorprendentes-1043341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-influencer-2470233.jpg' alt='Los seguros para influencers son una realidad y algunas de sus coberturas son sorprendentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392'>Estas son las mejores alternativas online a Paint</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2672015.jpg' alt='Estas son las mejores alternativas online a Paint' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
     </a>
 </div>
 
