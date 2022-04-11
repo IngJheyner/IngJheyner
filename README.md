@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003'>Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eve-energy-enchufe-inteligente-medidor-consumo-homekit-oferta-1043003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eve-energy-enchufe-inteligente-homekit-2671357.jpg' alt='Este enchufe inteligente con medidor de consumo es compatible con HomeKit y está rebajado a solo 28 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/primavera-sangre-altera-xx-emoticonos-calientes-1043099'>La primavera la sangre altera: los 10 emoticonos más calientes</a></h4>
     <a href='https://computerhoy.com/noticias/primavera-sangre-altera-xx-emoticonos-calientes-1043099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primavera-sangre-altera-10-emoticonos-calientes-2671587.jpg' alt='La primavera la sangre altera: los 10 emoticonos más calientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/implante-te-permite-pagar-mano-1043073'>El implante que te permite pagar con tu mano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/implante-te-permite-pagar-mano-1043073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/implante-te-permite-pagar-mano-2671387.jpg' alt='El implante que te permite pagar con tu mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imagenes-reales-plegable-vivo-x-fold-dejan-claro-otro-competidor-llega-mercado-1043041'>Imágenes reales del plegable vivo X Fold dejan claro que otro competidor llega al mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imagenes-reales-plegable-vivo-x-fold-dejan-claro-otro-competidor-llega-mercado-1043041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x-fold-2671381.jpg' alt='Imágenes reales del plegable vivo X Fold dejan claro que otro competidor llega al mercado' />
     </a>
 </div>
 
