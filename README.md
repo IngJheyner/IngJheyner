@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667'>Cómo cambiar tu nombre en Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-nombre-google-1027667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2644365.jpg' alt='Cómo cambiar tu nombre en Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/consejos-todo-debes-saber-quieres-comprar-colchon-online-internet-1034625'>Consejos y todo lo que debes saber si quieres comprar un colchón online por Internet</a></h4>
     <a href='https://computerhoy.com/reportajes/life/consejos-todo-debes-saber-quieres-comprar-colchon-online-internet-1034625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/colchon-2657229.jpg' alt='Consejos y todo lo que debes saber si quieres comprar un colchón online por Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819'>La cama gaming de Bauhutte, para jugar como un rey (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/cama-gaming-bauhutte-jugar-como-rey-video-1042819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-gaming-bauhute-jugar-como-rey-2671151.jpg' alt='La cama gaming de Bauhutte, para jugar como un rey (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791'>Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicleta-electrica-plegable-1042791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-electrica-pliega-mitad-ideal-meterla-maletero-ya-venta-amazon-2671145.jpg' alt='Esta bicicleta eléctrica se pliega por la mitad, es ideal para meterla en el maletero, y ya está a la venta en Amazon por 549 euros' />
     </a>
 </div>
 
