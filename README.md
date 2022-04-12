@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123'>Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029'>Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-ideal-casa-mascotas-baja-precio-70-cuesta-solo-99-euros-2672929.jpg' alt='Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915'>Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/jurassic-world-2019663.jpg' alt='Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-agua-xiaomi-vela-salud-tambien-te-hace-ahorrar-1044109'>El purificador de agua de Xiaomi que vela por tu salud y también te hace ahorrar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-agua-xiaomi-vela-salud-tambien-te-hace-ahorrar-1044109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mijia-water-purifier-1000g-2673197.jpg' alt='El purificador de agua de Xiaomi que vela por tu salud y también te hace ahorrar' />
     </a>
 </div>
 
