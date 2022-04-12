@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hackear-algoritmo-spotify-cantante-anitta-1044085'>Así hackearon el algoritmo de Spotify para convertir a la cantante brasileña Anitta en número 1 mundial</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hackear-algoritmo-spotify-cantante-anitta-1044085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hackearon-algoritmo-spotify-convertir-cantante-brasilena-anitta-numero-1-mundial-2673151.jpg' alt='Así hackearon el algoritmo de Spotify para convertir a la cantante brasileña Anitta en número 1 mundial' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029'>Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-ideal-casa-mascotas-baja-precio-70-cuesta-solo-99-euros-2672929.jpg' alt='Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-tecnologias-formula-1-puede-lleves-coche-saberlo-1043895'>Las 5 tecnologías de Fórmula 1 que puede que lleves en tu coche sin saberlo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-tecnologias-formula-1-puede-lleves-coche-saberlo-1043895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/motor-gt-112-m297-v12-pagani-zonda-2654251.jpg' alt='Las 5 tecnologías de Fórmula 1 que puede que lleves en tu coche sin saberlo' />
+    <h4><a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119'>Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuidado-sufres-apnea-sueno-podria-impedirte-conducir-dia-2673253.jpg' alt='Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075'>TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-2673059.jpg' alt='TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reparto-paquetes-utilizando-drones-amazon-no-termina-despegar-estas-son-principales-razones-1044091'>El reparto de paquetes utilizando drones de Amazon no termina de despegar y estas son las principales razones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reparto-paquetes-utilizando-drones-amazon-no-termina-despegar-estas-son-principales-razones-1044091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-logo-2672959.jpg' alt='El reparto de paquetes utilizando drones de Amazon no termina de despegar y estas son las principales razones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-media-markt-ebay-1043787'>Liquidación en productos de MediaMarkt en eBay: hasta un 60% de descuento</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-media-markt-ebay-1043787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/portatil-pagina-web-mediamarkt-ebay-2672647.jpg' alt='Liquidación en productos de MediaMarkt en eBay: hasta un 60% de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915'>Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/jurassic-world-2019663.jpg' alt='Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059'>El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513191.jpg' alt='El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-agua-xiaomi-vela-salud-tambien-te-hace-ahorrar-1044109'>El purificador de agua de Xiaomi que vela por tu salud y también te hace ahorrar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-agua-xiaomi-vela-salud-tambien-te-hace-ahorrar-1044109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mijia-water-purifier-1000g-2673197.jpg' alt='El purificador de agua de Xiaomi que vela por tu salud y también te hace ahorrar' />
     </a>
 </div>
 
