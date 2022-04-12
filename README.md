@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613'>¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/madres-60-anos-empresa-biotech-celmatix-asegura-puede-retrasar-menopausia-15-anos-2672295.jpg' alt='¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407'>Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish</a></h4>
     <a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/descubren-han-aparecido-menos-20-zapatillas-pies-humanos-costa-salish-2672109.jpg' alt='Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387'>Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-2672103.jpg' alt='Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393'>Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-solo-399-euros-2672085.jpg' alt='Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros' />
     </a>
 </div>
 
