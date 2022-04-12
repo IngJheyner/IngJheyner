@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639'>Unihertz presenta TiTAN slim, un dispositivo idéntico al mítico BlackBerry Key2</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681'>Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12-lite-5g-2672371.jpg' alt='Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ya-decide-hospitales-estadounidenses-orden-atender-urgencias-1043685'>La IA ya decide en hospitales estadounidenses el orden para atender en Urgencias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-ya-decide-hospitales-estadounidenses-orden-atender-urgencias-1043685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/hospital-standford.jpg' alt='La IA ya decide en hospitales estadounidenses el orden para atender en Urgencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639'>Intentan resucitar el espíritu blackberry Key2 con un nuevo smartphone mediante crowfounding</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Unihertz presenta TiTAN slim, un dispositivo idéntico al mítico BlackBerry Key2' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Intentan resucitar el espíritu blackberry Key2 con un nuevo smartphone mediante crowfounding' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019'>Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-plegable-kugoo-kirin-b1-2671339.jpg' alt='Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/climatologicamente-surada-nos-azotara-semana-santa-1043239'>Qué es es climatológicamente una surada y por qué nos azotará en Semana Santa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/climatologicamente-surada-nos-azotara-semana-santa-1043239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/huracan-2135821.jpg' alt='Qué es es climatológicamente una surada y por qué nos azotará en Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621'>El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuartel-general-razer-asia-como-trabajar-game-room-2672303.jpg' alt='El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)' />
     </a>
 </div>
 
