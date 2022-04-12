@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135'>Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-2673331.jpg' alt='Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fifa-plus-servicio-streaming-1044133'>La FIFA lanza FIFA+, un servicio de streaming gratuito que este año retransmitirá más de 40.000 partidos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fifa-plus-servicio-streaming-1044133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fifa-lanza-fifa-servicio-streaming-gratuito-ano-retransmitira-40000-partidos-2673327.jpg' alt='La FIFA lanza FIFA+, un servicio de streaming gratuito que este año retransmitirá más de 40.000 partidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123'>Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119'>Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir</a></h4>
     <a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuidado-sufres-apnea-sueno-podria-impedirte-conducir-dia-2673253.jpg' alt='Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reparto-paquetes-utilizando-drones-amazon-no-termina-despegar-estas-son-principales-razones-1044091'>El reparto de paquetes utilizando drones de Amazon no termina de despegar y estas son las principales razones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reparto-paquetes-utilizando-drones-amazon-no-termina-despegar-estas-son-principales-razones-1044091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-logo-2672959.jpg' alt='El reparto de paquetes utilizando drones de Amazon no termina de despegar y estas son las principales razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915'>Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-crearon-rugido-tyrannosaurus-rex-jurassic-park-1043915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/jurassic-world-2019663.jpg' alt='Cómo crearon el rugido del Tyrannosaurus rex para Jurassic Park' />
     </a>
 </div>
 
