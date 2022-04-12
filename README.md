@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407'>Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish</a></h4>
+    <a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/descubren-han-aparecido-menos-20-zapatillas-pies-humanos-costa-salish-2672109.jpg' alt='Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403'>La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/metal-gear-solid-3-2497967.jpg' alt='La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393'>Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-1043393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/televisor-4k-hdr-55-pulgadas-baja-precio-minimo-solo-399-euros-2672085.jpg' alt='Este televisor 4K con HDR de 55 pulgadas baja a su precio mínimo, solo 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373'>Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-1043373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-2672075.jpg' alt='Netflix cambia su sistema de puntuación para que le digas si la serie que has visto te gusta o te encanta' />
     </a>
 </div>
 
