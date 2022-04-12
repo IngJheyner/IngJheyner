@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639'>Unihertz presenta TiTAN slim, un dispositivo idéntico al mítico BlackBerry Key2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Unihertz presenta TiTAN slim, un dispositivo idéntico al mítico BlackBerry Key2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/google-dedica-montserrat-caballe-doodle-hoy-89o-aniversario-1043635'>Google dedica a Montserrat Caballé el Doodle de hoy por su 89º aniversario</a></h4>
+    <a href='https://computerhoy.com/noticias/life/google-dedica-montserrat-caballe-doodle-hoy-89o-aniversario-1043635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-dedica-montserrat-caballe-doodle-hoy-89-anos-2672325.jpg' alt='Google dedica a Montserrat Caballé el Doodle de hoy por su 89º aniversario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019'>Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-plegable-kugoo-kirin-b1-2671339.jpg' alt='Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621'>El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuartel-general-razer-asia-como-trabajar-game-room-2672303.jpg' alt='El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/aqui-tienes-mapa-gratuito-te-ensena-donde-estan-radares-invisibles-dgt-1043233'>Aquí tienes el mapa gratuito que te enseña dónde están los radares invisibles de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/aqui-tienes-mapa-gratuito-te-ensena-donde-estan-radares-invisibles-dgt-1043233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/mapa-radares-2011623.jpg' alt='Aquí tienes el mapa gratuito que te enseña dónde están los radares invisibles de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2672299.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
