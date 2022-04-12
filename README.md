@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703'>Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-2672507.jpg' alt='Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apps-imprescindibles-no-te-pierdas-nada-semana-santa-2022-1043825'>Las apps imprescindibles para que no te pierdas nada de la Semana Santa 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/apps-imprescindibles-no-te-pierdas-nada-semana-santa-2022-1043825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/semana-santa-2672597.jpg' alt='Las apps imprescindibles para que no te pierdas nada de la Semana Santa 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-descubren-como-almacenar-energia-solar-18-anos-manera-liquida-1043807'>Científicos descubren cómo almacenar energía solar hasta 18 años de manera líquida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-descubren-como-almacenar-energia-solar-18-anos-manera-liquida-1043807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/solarcity-2655723.jpg' alt='Científicos descubren cómo almacenar energía solar hasta 18 años de manera líquida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-1043775'>China modera su restrictiva normativa y vuelve a aprobar licencias de videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-1043775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-2672513.jpg' alt='China modera su restrictiva normativa y vuelve a aprobar licencias de videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803'>Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-ace-2672539.jpg' alt='Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/problemas-volante-sufres-fatiga-cronica-dgt-1043695'>Los problemas al volante si sufres fatiga crónica según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/problemas-volante-sufres-fatiga-cronica-dgt-1043695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/conducir-2409011.jpg' alt='Los problemas al volante si sufres fatiga crónica según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/200-euros-descuento-nuevo-macbook-pro-m1-pro-amazon-precio-historico-1043031'>Más de 200 euros de descuento en el nuevo MacBook Pro con M1 Pro en Amazon, su precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/200-euros-descuento-nuevo-macbook-pro-m1-pro-amazon-precio-historico-1043031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Más de 200 euros de descuento en el nuevo MacBook Pro con M1 Pro en Amazon, su precio histórico más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-polemico-cambio-mostraba-tuits-blanco-1043667'>Twitter da marcha atrás con este polémico cambio que mostraba tuits en blanco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-polemico-cambio-mostraba-tuits-blanco-1043667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter da marcha atrás con este polémico cambio que mostraba tuits en blanco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681'>Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12-lite-5g-2672371.jpg' alt='Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W' />
     </a>
 </div>
 
