@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2672299.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Mejores ordenadores de sobremesa que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613'>¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/madres-60-anos-empresa-biotech-celmatix-asegura-puede-retrasar-menopausia-15-anos-2672295.jpg' alt='¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403'>La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/metal-gear-solid-3-2497967.jpg' alt='La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399'>Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-plantar-arbol-salir-salon-gracias-alexa-1043399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/amazon-echo-2020-2240691.jpg' alt='Ahora podrás plantar un árbol sin salir de tu salón gracias a Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387'>Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-1043387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x-fold-telefono-plegable-aspira-competir-samsung-galaxy-z-fold-3-2672103.jpg' alt='Llegó el día: vivo X Fold y vivo Pad ya presentados y tienen un diseño exquisito' />
     </a>
 </div>
 
