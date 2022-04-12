@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047'>El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037'>El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/stranger-things-4-1867989.jpg' alt='El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-reportar-whatsapp-1044033'>¿Qué significa reportar en WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-reportar-whatsapp-1044033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='¿Qué significa reportar en WhatsApp?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917'>Así es como el Perseverance de la NASA surca las áridas tierras de Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rover-perseverance-2506951.jpg' alt='Así es como el Perseverance de la NASA surca las áridas tierras de Marte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897'>Cuál es el idioma más hablado del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Cuál es el idioma más hablado del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/queda-gama-tv-tcl-2022-opciones-todo-tipo-usuarios-bolsillos-1043973'>Así queda la gama de TV TCL 2022: opciones para todo tipo de usuarios (y bolsillos)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/queda-gama-tv-tcl-2022-opciones-todo-tipo-usuarios-bolsillos-1043973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tcl-tv-2672847.jpg' alt='Así queda la gama de TV TCL 2022: opciones para todo tipo de usuarios (y bolsillos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nubia-lanza-redmagic-7-pro-telefono-gaming-pantalla-ultranitida-snapdragon-8-gen-1-1043931'>Nubia lanza el RedMagic 7 Pro, un teléfono gaming con pantalla ultranítida y Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nubia-lanza-redmagic-7-pro-telefono-gaming-pantalla-ultranitida-snapdragon-8-gen-1-1043931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nubia-redmagic-7-pro-2672737.jpg' alt='Nubia lanza el RedMagic 7 Pro, un teléfono gaming con pantalla ultranítida y Snapdragon 8 Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701'>La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2672431.jpg' alt='La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon' />
     </a>
 </div>
 
