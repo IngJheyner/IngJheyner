@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hackear-algoritmo-spotify-cantante-anitta-1044085'>Así hackearon el algoritmo de Spotify para convertir a la cantante brasileña Anitta en número 1 mundial</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hackear-algoritmo-spotify-cantante-anitta-1044085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hackearon-algoritmo-spotify-convertir-cantante-brasilena-anitta-numero-1-mundial-2673151.jpg' alt='Así hackearon el algoritmo de Spotify para convertir a la cantante brasileña Anitta en número 1 mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-tecnologias-formula-1-puede-lleves-coche-saberlo-1043895'>Las 5 tecnologías de Fórmula 1 que puede que lleves en tu coche sin saberlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-tecnologias-formula-1-puede-lleves-coche-saberlo-1043895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/motor-gt-112-m297-v12-pagani-zonda-2654251.jpg' alt='Las 5 tecnologías de Fórmula 1 que puede que lleves en tu coche sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075'>TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-2673059.jpg' alt='TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059'>El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513191.jpg' alt='El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047'>El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037'>El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/stranger-things-4-1867989.jpg' alt='El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones' />
     </a>
 </div>
 
