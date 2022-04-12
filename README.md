@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917'>Así es como el Perseverance de la NASA surca las áridas tierras de Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rover-perseverance-2506951.jpg' alt='Así es como el Perseverance de la NASA surca las áridas tierras de Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897'>Cuál es el idioma más hablado del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Cuál es el idioma más hablado del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701'>La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2672431.jpg' alt='La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165'>Las mejores películas para ver en Semana Santa</a></h4>
-    <a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-semana-santa-2672675.jpg' alt='Las mejores películas para ver en Semana Santa' />
     </a>
 </div>
 
