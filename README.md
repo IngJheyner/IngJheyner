@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019'>Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-plegable-kugoo-kirin-b1-2671339.jpg' alt='Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/climatologicamente-surada-nos-azotara-semana-santa-1043239'>Qué es es climatológicamente una surada y por qué nos azotará en Semana Santa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/climatologicamente-surada-nos-azotara-semana-santa-1043239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/huracan-2135821.jpg' alt='Qué es es climatológicamente una surada y por qué nos azotará en Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621'>El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/cuartel-general-razer-asia-video-1043621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuartel-general-razer-asia-como-trabajar-game-room-2672303.jpg' alt='El cuartel general de Razer en Asia es como trabajar en una game room (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aqui-tienes-mapa-gratuito-te-ensena-donde-estan-radares-invisibles-dgt-1043233'>Aquí tienes el mapa gratuito que te enseña dónde están los radares invisibles de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aqui-tienes-mapa-gratuito-te-ensena-donde-estan-radares-invisibles-dgt-1043233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/mapa-radares-2011623.jpg' alt='Aquí tienes el mapa gratuito que te enseña dónde están los radares invisibles de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1043617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2672299.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Mejores ordenadores de sobremesa que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613'>¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/madres-60-anos-empresa-biotech-celmatix-retrasar-menopausia-15-anos-1043613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/madres-60-anos-empresa-biotech-celmatix-asegura-puede-retrasar-menopausia-15-anos-2672295.jpg' alt='¿Madres a los 60 años? La empresa biotech Celmatix asegura que puede retrasar la menopausia 15 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407'>Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish</a></h4>
-    <a href='https://computerhoy.com/noticias/life/misterio-zapatillas-pies-humanos-costa-salish-1043407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/descubren-han-aparecido-menos-20-zapatillas-pies-humanos-costa-salish-2672109.jpg' alt='Descubren por qué han aparecido al menos 20 zapatillas con pies humanos en la costa de Salish' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403'>La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/filtracion-nvidia-leak-real-kingdom-hearts-iv-otros-25-faltan-1043403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/metal-gear-solid-3-2497967.jpg' alt='La filtración NVIDIA Leak es real: Kingdom Hearts IV ya se ha confirmado, estos son otros 25 juegos que faltan ' />
     </a>
 </div>
 
