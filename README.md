@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075'>TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-1044075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-apunta-realidad-aumentada-cualquiera-podra-crear-propios-efectos-2673059.jpg' alt='TikTok se apunta a la realidad aumentada y cualquiera podrá crear sus propios efectos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-media-markt-ebay-1043787'>Liquidación en productos de MediaMarkt en eBay: hasta un 60% de descuento</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-productos-media-markt-ebay-1043787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/portatil-pagina-web-mediamarkt-ebay-2672647.jpg' alt='Liquidación en productos de MediaMarkt en eBay: hasta un 60% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059'>El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-te-avisaria-cuando-sea-hora-tomarte-pastilla-tension-arterial-elevada-1044059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513191.jpg' alt='El nuevo Apple Watch te avisaría cuando sea la hora de tomarte la pastilla y si tu tensión arterial es elevada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047'>El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar</a></h4>
     <a href='https://computerhoy.com/noticias/motor/combustible-contaminante-gasolina-estados-unidos-acaba-aprobar-1044047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='El combustible que es más contaminante que la gasolina que Estados Unidos acaba de aprobar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037'>El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-cuarta-temporada-stranger-things-ya-aqui-deja-claras-intenciones-1044037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/stranger-things-4-1867989.jpg' alt='El nuevo tráiler de la cuarta temporada de Stranger Things ya está aquí y deja claras sus intenciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-reportar-whatsapp-1044033'>¿Qué significa reportar en WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-reportar-whatsapp-1044033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='¿Qué significa reportar en WhatsApp?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917'>Así es como el Perseverance de la NASA surca las áridas tierras de Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-perseverance-nasa-surca-aridas-tierras-marte-1043917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rover-perseverance-2506951.jpg' alt='Así es como el Perseverance de la NASA surca las áridas tierras de Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897'>Cuál es el idioma más hablado del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-idioma-hablado-mundo-1043897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/infografias-curiosas-sobra-casi-7000-lenguas-hablan-mundo-2605163.jpg' alt='Cuál es el idioma más hablado del mundo' />
     </a>
 </div>
 
