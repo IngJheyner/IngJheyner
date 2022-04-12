@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165'>Las mejores películas para ver en Semana Santa</a></h4>
+    <a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-semana-santa-2672675.jpg' alt='Las mejores películas para ver en Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-sistema-antirrastreo-android-airtags-dispositivos-localizadores-bluetooth-similares-1043817'>Así funciona el sistema antirrastreo de Android para AirTags y dispositivos localizadores Bluetooth similares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-sistema-antirrastreo-android-airtags-dispositivos-localizadores-bluetooth-similares-1043817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Así funciona el sistema antirrastreo de Android para AirTags y dispositivos localizadores Bluetooth similares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 7 mejores impresoras baratas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 7 mejores impresoras baratas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lees-juegas-cama-soporte-ajustable-13-euros-sera-imprescindible-vida-1043169'>Si lees o juegas en la cama, este soporte ajustable de 13 euros será imprescindible en tu vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lees-juegas-cama-soporte-ajustable-13-euros-sera-imprescindible-vida-1043169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/soporte-ajustable-tablet-2671625.jpg' alt='Si lees o juegas en la cama, este soporte ajustable de 13 euros será imprescindible en tu vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703'>Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-2672507.jpg' alt='Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apps-imprescindibles-no-te-pierdas-nada-semana-santa-2022-1043825'>Las apps imprescindibles para que no te pierdas nada de la Semana Santa 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/apps-imprescindibles-no-te-pierdas-nada-semana-santa-2022-1043825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/semana-santa-2672597.jpg' alt='Las apps imprescindibles para que no te pierdas nada de la Semana Santa 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-descubren-como-almacenar-energia-solar-18-anos-manera-liquida-1043807'>Científicos descubren cómo almacenar energía solar hasta 18 años de manera líquida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-descubren-como-almacenar-energia-solar-18-anos-manera-liquida-1043807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/solarcity-2655723.jpg' alt='Científicos descubren cómo almacenar energía solar hasta 18 años de manera líquida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-1043775'>China modera su restrictiva normativa y vuelve a aprobar licencias de videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-1043775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/china-modera-restrictiva-normativa-vuelve-aprobar-licencias-videojuegos-2672513.jpg' alt='China modera su restrictiva normativa y vuelve a aprobar licencias de videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803'>Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-ace-2672539.jpg' alt='Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100' />
     </a>
 </div>
 
