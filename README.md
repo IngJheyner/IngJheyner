@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145'>El primer catamarán de hidrógeno podrá verse en la Copa América de Barcelona (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primer-catamaran-hidrogeno-podra-verse-copa-america-barcelona-2673431.jpg' alt='El primer catamarán de hidrógeno podrá verse en la Copa América de Barcelona (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135'>Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-2673331.jpg' alt='Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029'>Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-ideal-casa-mascotas-baja-precio-70-cuesta-solo-99-euros-2672929.jpg' alt='Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119'>Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/apnea-sueno-conducir-perder-carnet-conducir-1044119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuidado-sufres-apnea-sueno-podria-impedirte-conducir-dia-2673253.jpg' alt='Cuidado si sufres apnea del sueño sin saberlo, podría impedirte conducir de día y hacerte perder el carnet de conducir' />
     </a>
 </div>
 
