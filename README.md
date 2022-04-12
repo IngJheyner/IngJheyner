@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701'>La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-barata-ebay-cuesta-279-euros-bastante-debajo-precio-oficial-tiene-amazon-1043701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2672431.jpg' alt='La Nintendo Switch más barata está en eBay y cuesta 279 euros, bastante por debajo de su precio oficial y del que tiene Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165'>Las mejores películas para ver en Semana Santa</a></h4>
     <a href='https://computerhoy.com/listas/life/7-mejores-peliculas-semana-santa-26165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-semana-santa-2672675.jpg' alt='Las mejores películas para ver en Semana Santa' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurre-cometes-asesinato-metaverso-cuales-son-limites-mundo-virtual-1043853'>Esto es lo que ocurre si cometes un asesinato en el metaverso. ¿Cuáles son los límites del mundo virtual?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocurre-cometes-asesinato-metaverso-cuales-son-limites-mundo-virtual-1043853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ocurre-cometes-asesinato-metaverso-cuales-son-limites-mundos-virtuales-2672679.jpg' alt='Esto es lo que ocurre si cometes un asesinato en el metaverso. ¿Cuáles son los límites del mundo virtual?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/orange-entra-lucha-contenidos-hace-derechos-rakuten-tv-espana-1043905'>Orange entra en la lucha de contenidos y se hace con los derechos de Rakuten TV en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/orange-entra-lucha-contenidos-hace-derechos-rakuten-tv-espana-1043905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-stand-mwc-2633893.jpg' alt='Orange entra en la lucha de contenidos y se hace con los derechos de Rakuten TV en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-sistema-antirrastreo-android-airtags-dispositivos-localizadores-bluetooth-similares-1043817'>Así funciona el sistema antirrastreo de Android para AirTags y dispositivos localizadores Bluetooth similares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-sistema-antirrastreo-android-airtags-dispositivos-localizadores-bluetooth-similares-1043817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Así funciona el sistema antirrastreo de Android para AirTags y dispositivos localizadores Bluetooth similares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 7 mejores impresoras baratas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 7 mejores impresoras baratas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lees-juegas-cama-soporte-ajustable-13-euros-sera-imprescindible-vida-1043169'>Si lees o juegas en la cama, este soporte ajustable de 13 euros será imprescindible en tu vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lees-juegas-cama-soporte-ajustable-13-euros-sera-imprescindible-vida-1043169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/soporte-ajustable-tablet-2671625.jpg' alt='Si lees o juegas en la cama, este soporte ajustable de 13 euros será imprescindible en tu vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703'>Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-1043703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coinbase-anuncia-trilogia-peliculas-famoso-club-monos-aburridos-2672507.jpg' alt='Coinbase anuncia una trilogía de películas del famoso club de los monos aburridos' />
     </a>
 </div>
 
