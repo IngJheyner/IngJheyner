@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803'>Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luce-oneplus-ace-carga-super-rapida-150w-dimensity-8100-1043803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-ace-2672539.jpg' alt='Así luce el OnePlus Ace con carga súper rápida de 150W y Dimensity 8100' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/problemas-volante-sufres-fatiga-cronica-dgt-1043695'>Los problemas al volante si sufres fatiga crónica según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/problemas-volante-sufres-fatiga-cronica-dgt-1043695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/conducir-2409011.jpg' alt='Los problemas al volante si sufres fatiga crónica según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/200-euros-descuento-nuevo-macbook-pro-m1-pro-amazon-precio-historico-1043031'>Más de 200 euros de descuento en el nuevo MacBook Pro con M1 Pro en Amazon, su precio histórico más bajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/200-euros-descuento-nuevo-macbook-pro-m1-pro-amazon-precio-historico-1043031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Más de 200 euros de descuento en el nuevo MacBook Pro con M1 Pro en Amazon, su precio histórico más bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-polemico-cambio-mostraba-tuits-blanco-1043667'>Twitter da marcha atrás con este polémico cambio que mostraba tuits en blanco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-da-marcha-atras-polemico-cambio-mostraba-tuits-blanco-1043667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/twitter-2360933.jpg' alt='Twitter da marcha atrás con este polémico cambio que mostraba tuits en blanco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681'>Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-5g-descubierto-sera-modesto-hardware-pero-no-pierde-carga-rapida-67-w-1043681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12-lite-5g-2672371.jpg' alt='Xiaomi 12 Lite 5G al descubierto: será más modesto en hardware pero no pierde la carga rápida de 67 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ya-decide-hospitales-estadounidenses-orden-atender-urgencias-1043685'>La IA ya decide en hospitales estadounidenses el orden para atender en Urgencias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-ya-decide-hospitales-estadounidenses-orden-atender-urgencias-1043685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/hospital-standford.jpg' alt='La IA ya decide en hospitales estadounidenses el orden para atender en Urgencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639'>Intentan resucitar el espíritu blackberry Key2 con un nuevo smartphone mediante crowfounding</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/unihertz-presenta-titan-slim-dispositivo-identico-mitico-blackberry-key2-1043639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Intentan resucitar el espíritu blackberry Key2 con un nuevo smartphone mediante crowfounding' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/google-dedica-montserrat-caballe-doodle-hoy-89o-aniversario-1043635'>Google dedica a Montserrat Caballé el Doodle de hoy por su 89º aniversario</a></h4>
-    <a href='https://computerhoy.com/noticias/life/google-dedica-montserrat-caballe-doodle-hoy-89o-aniversario-1043635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-dedica-montserrat-caballe-doodle-hoy-89-anos-2672325.jpg' alt='Google dedica a Montserrat Caballé el Doodle de hoy por su 89º aniversario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019'>Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/supercompacta-25-km-autonomia-bicicleta-electrica-plegable-rompe-records-precio-solo-359-euros-1043019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-plegable-kugoo-kirin-b1-2671339.jpg' alt='Supercompacta y con 25 km de autonomía: esta bicicleta eléctrica plegable rompe récords con un precio de solo 359 euros' />
     </a>
 </div>
 
