@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573'>El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/crema-cacahuetes-mercadona-1888227.jpg' alt='El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509'>Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies</a></h4>
+    <a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cookies-2353537.jpg' alt='Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537'>Qué horario de apertura tiene Mercadona en Semana Santa 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Qué horario de apertura tiene Mercadona en Semana Santa 2022' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459'>Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/12/136965-pebble-time-mejores-smartwatch-2015.jpg' alt='Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/porque-llegada-programa-reparacion-certificada-terceros-smartphones-samsung-1044505'>El porqué de la llegada del programa de reparación certificada de terceros para smartphones Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/porque-llegada-programa-reparacion-certificada-terceros-smartphones-samsung-1044505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-a33-5g-galaxy-a53-5g-2647683.jpg' alt='El porqué de la llegada del programa de reparación certificada de terceros para smartphones Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-drive-ni-icloud-ni-dropbox-disco-duro-wifi-puede-ser-nube-personal-ahora-mitad-precio-1044463'>Ni Drive, ni iCloud, ni Dropbox: este disco duro con WiFi puede ser tu nube personal y ahora está a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-drive-ni-icloud-ni-dropbox-disco-duro-wifi-puede-ser-nube-personal-ahora-mitad-precio-1044463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/wd-my-cloud-home-2211419.jpg' alt='Ni Drive, ni iCloud, ni Dropbox: este disco duro con WiFi puede ser tu nube personal y ahora está a mitad de precio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pebble-2673929.jpg' alt='Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años' />
     </a>
 </div>
 
