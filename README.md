@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-oneplus-ace-muestran-parte-trasera-dos-texturas-diferentes-1044705'>El OnePlus 10R y OnePlus Ace muestran su parte trasera con dos texturas diferentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-oneplus-ace-muestran-parte-trasera-dos-texturas-diferentes-1044705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-ace-2674257.jpg' alt='El OnePlus 10R y OnePlus Ace muestran su parte trasera con dos texturas diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-tension-normal-persona-1044689'>Cuál es la tensión normal de una persona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-tension-normal-persona-1044689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/presion-arterial-2674243.jpg' alt='Cuál es la tensión normal de una persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797'>Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/manta-isotermica-emergencias-1992349.jpg' alt='Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585'>El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-2673991.jpg' alt='El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647'>Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-2674159.jpg' alt='Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597'>¿Por qué tu mascota te mira fijamente?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mascotas-2_6.jpg' alt='¿Por qué tu mascota te mira fijamente?' />
     </a>
 </div>
 
