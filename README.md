@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585'>El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-2673991.jpg' alt='El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647'>Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo</a></h4>
     <a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-2674159.jpg' alt='Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799'>Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609'>Duovox Mate Pro: la cámara que promete hacer de la noche el día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/duovox-mate-pro-2674039.jpg' alt='Duovox Mate Pro: la cámara que promete hacer de la noche el día' />
     </a>
 </div>
 
