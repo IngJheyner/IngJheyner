@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-holographic-version-recibe-actualizacion-22h1-estas-son-novedades-1044439'>Windows Holographic Version recibe la actualización 22H1 y estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-holographic-version-recibe-actualizacion-22h1-estas-son-novedades-1044439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hololens-2606583.jpg' alt='Windows Holographic Version recibe la actualización 22H1 y estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-impresionantes-fotografias-ganadores-sony-world-photo-awards-2022-1044481'>Estas son las impresionantes fotografías de los ganadores de los Sony World Photo Awards 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-impresionantes-fotografias-ganadores-sony-world-photo-awards-2022-1044481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-fotografias-2673779.jpg' alt='Estas son las impresionantes fotografías de los ganadores de los Sony World Photo Awards 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/muestras-foto-vivo-x80-pro-confirman-camara-imx866-va-ser-revolucion-fotografia-baja-luz-1044477'>Muestras de foto del vivo X80 Pro confirman que su cámara IMX866 va a ser una revolución en fotografía en baja luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/muestras-foto-vivo-x80-pro-confirman-camara-imx866-va-ser-revolucion-fotografia-baja-luz-1044477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x80-2673769.jpg' alt='Muestras de foto del vivo X80 Pro confirman que su cámara IMX866 va a ser una revolución en fotografía en baja luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-modo-retro-waze-todo-puedes-hacer-1044399'>Llega el Modo Retro de Waze: todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llega-modo-retro-waze-todo-puedes-hacer-1044399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/llega-modo-retro-waze-todo-puedes-hacer-2673709.jpg' alt='Llega el Modo Retro de Waze: todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453'>La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg' alt='La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultima-pelicula-ryan-reynolds-rompe-registros-netflix-coloca-parte-alta-tabla-historica-1044425'>La última película de Ryan Reynolds rompe los registros de Netflix y se coloca en la parte alta de la tabla histórica</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ultima-pelicula-ryan-reynolds-rompe-registros-netflix-coloca-parte-alta-tabla-historica-1044425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/adam-project-2673717.jpg' alt='La última película de Ryan Reynolds rompe los registros de Netflix y se coloca en la parte alta de la tabla histórica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971'>Cómo ver las procesiones de Semana Santa sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/semana-santa-2672799.jpg' alt='Cómo ver las procesiones de Semana Santa sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-614-computer-hoy-1040703'>¡Ya está en tu quiosco el número 614 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-614-computer-hoy-1040703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/computer-hoy-614-2669741.jpg' alt='¡Ya está en tu quiosco el número 614 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387'>El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-6a-2673665.jpg' alt='El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo' />
     </a>
 </div>
 
