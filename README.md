@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771'>Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/seguridad-mark-zuckerberg.jpg' alt='Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759'>Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767'>El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/amazfit-stratos-3-2289457.jpg' alt='El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753'>WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/metaverso-lunas-coches-holograktor-1044755'>El metaverso llega a las lunas de los coches</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/metaverso-lunas-coches-holograktor-1044755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/metaverso-llega-lunas-coches-2674461.jpg' alt='El metaverso llega a las lunas de los coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743'>TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación' />
     </a>
 </div>
 
