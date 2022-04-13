@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-holographic-version-recibe-actualizacion-22h1-estas-son-novedades-1044439'>Windows Holographic Version recibe la actualización 22H1 y estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-holographic-version-recibe-actualizacion-22h1-estas-son-novedades-1044439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hololens-2606583.jpg' alt='Windows Holographic Version recibe la actualización 22H1 y estas son sus novedades' />
+    <h4><a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537'>Qué horario de apertura tiene Mercadona en Semana Santa 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Qué horario de apertura tiene Mercadona en Semana Santa 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-impresionantes-fotografias-ganadores-sony-world-photo-awards-2022-1044481'>Estas son las impresionantes fotografías de los ganadores de los Sony World Photo Awards 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-impresionantes-fotografias-ganadores-sony-world-photo-awards-2022-1044481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-fotografias-2673779.jpg' alt='Estas son las impresionantes fotografías de los ganadores de los Sony World Photo Awards 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-usar-funcion-doble-dedo-arriba-netflix-deberias-hacerlo-1044531'>Cómo usar la función del doble dedo arriba en Netflix y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-usar-funcion-doble-dedo-arriba-netflix-deberias-hacerlo-1044531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encantanetflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-2672073.jpg' alt='Cómo usar la función del doble dedo arriba en Netflix y por qué deberías hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/muestras-foto-vivo-x80-pro-confirman-camara-imx866-va-ser-revolucion-fotografia-baja-luz-1044477'>Muestras de foto del vivo X80 Pro confirman que su cámara IMX866 va a ser una revolución en fotografía en baja luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/muestras-foto-vivo-x80-pro-confirman-camara-imx866-va-ser-revolucion-fotografia-baja-luz-1044477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x80-2673769.jpg' alt='Muestras de foto del vivo X80 Pro confirman que su cámara IMX866 va a ser una revolución en fotografía en baja luz' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459'>Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/12/136965-pebble-time-mejores-smartwatch-2015.jpg' alt='Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-modo-retro-waze-todo-puedes-hacer-1044399'>Llega el Modo Retro de Waze: todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-modo-retro-waze-todo-puedes-hacer-1044399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/llega-modo-retro-waze-todo-puedes-hacer-2673709.jpg' alt='Llega el Modo Retro de Waze: todo lo que puedes hacer con él' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/porque-llegada-programa-reparacion-certificada-terceros-smartphones-samsung-1044505'>El porqué de la llegada del programa de reparación certificada de terceros para smartphones Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/porque-llegada-programa-reparacion-certificada-terceros-smartphones-samsung-1044505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-a33-5g-galaxy-a53-5g-2647683.jpg' alt='El porqué de la llegada del programa de reparación certificada de terceros para smartphones Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453'>La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg' alt='La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-drive-ni-icloud-ni-dropbox-disco-duro-wifi-puede-ser-nube-personal-ahora-mitad-precio-1044463'>Ni Drive, ni iCloud, ni Dropbox: este disco duro con WiFi puede ser tu nube personal y ahora está a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-drive-ni-icloud-ni-dropbox-disco-duro-wifi-puede-ser-nube-personal-ahora-mitad-precio-1044463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/wd-my-cloud-home-2211419.jpg' alt='Ni Drive, ni iCloud, ni Dropbox: este disco duro con WiFi puede ser tu nube personal y ahora está a mitad de precio' />
     </a>
 </div>
 
