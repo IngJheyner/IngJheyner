@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365'>¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/durante-cuanto-tiempo-pueden-consumir-alimentos-probioticos-2673633.jpg' alt='¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145'>El primer catamarán de hidrógeno podrá verse en la Copa América de Vela de Barcelona (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primer-catamaran-hidrogeno-podra-verse-copa-america-barcelona-2673431.jpg' alt='El primer catamarán de hidrógeno podrá verse en la Copa América de Vela de Barcelona (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123'>Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029'>Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-mascotas-chollo-99-euros-1044029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-ideal-casa-mascotas-baja-precio-70-cuesta-solo-99-euros-2672929.jpg' alt='Este robot aspirador ideal para casas con mascotas baja de precio un 70% y cuesta solo... ¡99 euros!' />
     </a>
 </div>
 
