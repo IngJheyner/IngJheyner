@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453'>La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/justificacion-tim-cook-exigencia-europea-poder-instalar-apps-fuera-app-store-ios-1044453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg' alt='La justificación de Tim Cook ante la exigencia Europea de poder instalar apps desde fuera de la App Store en iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultima-pelicula-ryan-reynolds-rompe-registros-netflix-coloca-parte-alta-tabla-historica-1044425'>La última película de Ryan Reynolds rompe los registros de Netflix y se coloca en la parte alta de la tabla histórica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ultima-pelicula-ryan-reynolds-rompe-registros-netflix-coloca-parte-alta-tabla-historica-1044425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/adam-project-2673717.jpg' alt='La última película de Ryan Reynolds rompe los registros de Netflix y se coloca en la parte alta de la tabla histórica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971'>Cómo ver las procesiones de Semana Santa sin salir de casa</a></h4>
     <a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/semana-santa-2672799.jpg' alt='Cómo ver las procesiones de Semana Santa sin salir de casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387'>El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-6a-2673665.jpg' alt='El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-larkbox-pro-oferta-amazon-descuento-1043089'>No encontrarás otro Mini PC tan pequeño y capaz como este: Chuwi Larkbox está en oferta por solo 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-larkbox-pro-oferta-amazon-descuento-1043089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/chuwi-larkbox-pro-2671439.jpg' alt='No encontrarás otro Mini PC tan pequeño y capaz como este: Chuwi Larkbox está en oferta por solo 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947'>Así puedes descargar vídeos sin marca de agua en TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Así puedes descargar vídeos sin marca de agua en TikTok' />
     </a>
 </div>
 
