@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2673635.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-viaje-semana-santa-1043937'>10 gadgets imprescindibles si vas a viajar en esta Semana Santa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-viaje-semana-santa-1043937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-relajandose-playa-2672751.jpg' alt='10 gadgets imprescindibles si vas a viajar en esta Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365'>¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/durante-cuanto-tiempo-pueden-consumir-alimentos-probioticos-2673633.jpg' alt='¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135'>Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-2673331.jpg' alt='Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fifa-plus-servicio-streaming-1044133'>La FIFA lanza FIFA+, un servicio de streaming gratuito que este año retransmitirá más de 40.000 partidos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fifa-plus-servicio-streaming-1044133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fifa-lanza-fifa-servicio-streaming-gratuito-ano-retransmitira-40000-partidos-2673327.jpg' alt='La FIFA lanza FIFA+, un servicio de streaming gratuito que este año retransmitirá más de 40.000 partidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123'>Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-estaria-preparando-nuevo-modelo-mac-mini-1044123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Los últimos rumores apuntan a que Apple estaría preparando un nuevo modelo del Mac Mini' />
     </a>
 </div>
 
