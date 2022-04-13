@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609'>Duovox Mate Pro: la cámara que promete hacer de la noche el día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/duovox-mate-pro-2674039.jpg' alt='Duovox Mate Pro: la cámara que promete hacer de la noche el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021'>Las cinco cosas que puedes hacer con Hotmail en 2022 y no sabías hasta ahora</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/outlook.jpg' alt='Las cinco cosas que puedes hacer con Hotmail en 2022 y no sabías hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-actualiza-aplicaciones-edicion-video-imovie-final-cut-pro-grandes-novedades-1044543'>Apple actualiza sus aplicaciones de edición de vídeo, iMovie y Final Cut Pro, con grandes novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-actualiza-aplicaciones-edicion-video-imovie-final-cut-pro-grandes-novedades-1044543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/final-cut-pro-x-apple-1903109.jpg' alt='Apple actualiza sus aplicaciones de edición de vídeo, iMovie y Final Cut Pro, con grandes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573'>El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos</a></h4>
     <a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/crema-cacahuetes-mercadona-1888227.jpg' alt='El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509'>Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies</a></h4>
     <a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cookies-2353537.jpg' alt='Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537'>Qué horario de apertura tiene Mercadona en Semana Santa 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horario-apertura-tiene-mercadona-semana-santa-2022-1044537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Qué horario de apertura tiene Mercadona en Semana Santa 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-usar-funcion-doble-dedo-arriba-netflix-deberias-hacerlo-1044531'>Cómo usar la función del doble dedo arriba en Netflix y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-usar-funcion-doble-dedo-arriba-netflix-deberias-hacerlo-1044531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encantanetflix-cambia-sistema-puntuacion-digas-serie-has-visto-te-gusta-te-encanta-2672073.jpg' alt='Cómo usar la función del doble dedo arriba en Netflix y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459'>Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fue-hizo-pebble-smartwatches-no-triunfasen-hace-10-anos-1044459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pebble-2673929.jpg' alt='Qué fue lo que hizo que Pebble y sus smartwatches no triunfasen hace 10 años' />
     </a>
 </div>
 
