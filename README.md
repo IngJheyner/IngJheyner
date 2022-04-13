@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971'>Cómo ver las procesiones de Semana Santa sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-ver-procesiones-semana-santa-salir-casa-1043971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/semana-santa-2672799.jpg' alt='Cómo ver las procesiones de Semana Santa sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-614-computer-hoy-1040703'>¡Ya está en tu quiosco el número 614 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-614-computer-hoy-1040703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/computer-hoy-614-2669741.jpg' alt='¡Ya está en tu quiosco el número 614 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387'>El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-realidad-estaria-disponible-google-i-mayo-1044387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-6a-2673665.jpg' alt='El Google Pixel 6a es una realidad, y estaría disponible en el Google I/O de mayo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-larkbox-pro-oferta-amazon-descuento-1043089'>No encontrarás otro Mini PC tan pequeño y capaz como este: Chuwi Larkbox está en oferta por solo 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-chuwi-larkbox-pro-oferta-amazon-descuento-1043089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/chuwi-larkbox-pro-2671439.jpg' alt='No encontrarás otro Mini PC tan pequeño y capaz como este: Chuwi Larkbox está en oferta por solo 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947'>Así puedes descargar vídeos sin marca de agua en TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Así puedes descargar vídeos sin marca de agua en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gastos-asociados-coche-renting-te-puedes-desgravar-eres-autonomo-1043925'>Los gastos asociados al coche de renting que te puedes desgravar si eres autónomo</a></h4>
-    <a href='https://computerhoy.com/noticias/gastos-asociados-coche-renting-te-puedes-desgravar-eres-autonomo-1043925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/llave-coche-2278625.jpg' alt='Los gastos asociados al coche de renting que te puedes desgravar si eres autónomo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2673635.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-viaje-semana-santa-1043937'>10 gadgets imprescindibles si vas a viajar en esta Semana Santa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-viaje-semana-santa-1043937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-relajandose-playa-2672751.jpg' alt='10 gadgets imprescindibles si vas a viajar en esta Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365'>¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/durante-cuanto-tiempo-pueden-consumir-alimentos-probioticos-2673633.jpg' alt='¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?' />
     </a>
 </div>
 
