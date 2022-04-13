@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767'>El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/amazfit-stratos-3-2289457.jpg' alt='El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-1044763'>El nuevo juego de los creadores de Pokémon Go te permitirá tener una mascota en realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-1044763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-2674471.jpg' alt='El nuevo juego de los creadores de Pokémon Go te permitirá tener una mascota en realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753'>WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743'>TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuanto-tiempo-tardaras-ver-serie-aqui-resultado-dias-horas-minutos-1044493'>¿Cuánto tiempo tardarás en ver una serie? Aquí el resultado en días, horas y minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuanto-tiempo-tardaras-ver-serie-aqui-resultado-dias-horas-minutos-1044493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-ver-fin-semana-2668945.jpg' alt='¿Cuánto tiempo tardarás en ver una serie? Aquí el resultado en días, horas y minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-admitiria-conexion-satelite-emergencias-funcionaria-1044741'>iPhone 14 admitiría conexión satélite para emergencias y así funcionaría</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-admitiria-conexion-satelite-emergencias-funcionaria-1044741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg' alt='iPhone 14 admitiría conexión satélite para emergencias y así funcionaría' />
     </a>
 </div>
 
