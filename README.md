@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145'>El primer catamarán de hidrógeno podrá verse en la Copa América de Vela de Barcelona (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145'>Este es el primer catamarán de hidrógeno, que podrá verse en la Copa América de Vela de Barcelona (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primer-catamaran-hidrogeno-podra-verse-copa-america-barcelona-2673431.jpg' alt='El primer catamarán de hidrógeno podrá verse en la Copa América de Vela de Barcelona (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primer-catamaran-hidrogeno-podra-verse-copa-america-barcelona-2673431.jpg' alt='Este es el primer catamarán de hidrógeno, que podrá verse en la Copa América de Vela de Barcelona (vídeo)' />
     </a>
 </div>
 
