@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947'>Así puedes descargar vídeos sin marca de agua en TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/puedes-descargar-videos-marca-agua-tiktok-1043947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Así puedes descargar vídeos sin marca de agua en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gastos-asociados-coche-renting-te-puedes-desgravar-eres-autonomo-1043925'>Los gastos asociados al coche de renting que te puedes desgravar si eres autónomo</a></h4>
+    <a href='https://computerhoy.com/noticias/gastos-asociados-coche-renting-te-puedes-desgravar-eres-autonomo-1043925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/llave-coche-2278625.jpg' alt='Los gastos asociados al coche de renting que te puedes desgravar si eres autónomo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1044367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2673635.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365'>¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-consumir-alimentos-probioticos-1044365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/durante-cuanto-tiempo-pueden-consumir-alimentos-probioticos-2673633.jpg' alt='¿Durante cuánto tiempo se pueden consumir los alimentos probióticos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145'>Este es el primer catamarán de hidrógeno, que podrá verse en la Copa América de Vela de Barcelona (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/catamaran-hidrogeno-copa-america-barcelona-1044145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primer-catamaran-hidrogeno-podra-verse-copa-america-barcelona-2673431.jpg' alt='Este es el primer catamarán de hidrógeno, que podrá verse en la Copa América de Vela de Barcelona (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135'>Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-1044135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-spotify-apostar-contenidos-originales-listas-musica-pensadas-mascotas-2673331.jpg' alt='Lo nuevo de Spotify es apostar por contenidos originales y por listas de música pensadas para mascotas' />
     </a>
 </div>
 
