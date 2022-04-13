@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647'>Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-1044647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tunel-atravesara-alpes-suizos-conectar-escandinavia-mediterraneo-2674159.jpg' alt='Este es el túnel que atravesará los Alpes Suizos para conectar Escandinavia con el Mediterráneo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597'>¿Por qué tu mascota te mira fijamente?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mascotas-2_6.jpg' alt='¿Por qué tu mascota te mira fijamente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/steam-deck-esteroides-corriendo-juegos-top-4k-60-fps-pero-tiene-truco-1044617'>Steam Deck con esteroides corriendo juegos top a 4K y 60 FPS, pero tiene truco</a></h4>
+    <a href='https://computerhoy.com/noticias/steam-deck-esteroides-corriendo-juegos-top-4k-60-fps-pero-tiene-truco-1044617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/steam-deck-2674087.jpg' alt='Steam Deck con esteroides corriendo juegos top a 4K y 60 FPS, pero tiene truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799'>Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609'>Duovox Mate Pro: la cámara que promete hacer de la noche el día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/duovox-mate-pro-camara-promete-hacer-noche-dia-1044609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/duovox-mate-pro-2674039.jpg' alt='Duovox Mate Pro: la cámara que promete hacer de la noche el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021'>Las cinco cosas que puedes hacer con Hotmail en 2022 y no sabías hasta ahora</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/outlook.jpg' alt='Las cinco cosas que puedes hacer con Hotmail en 2022 y no sabías hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-actualiza-aplicaciones-edicion-video-imovie-final-cut-pro-grandes-novedades-1044543'>Apple actualiza sus aplicaciones de edición de vídeo, iMovie y Final Cut Pro, con grandes novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-actualiza-aplicaciones-edicion-video-imovie-final-cut-pro-grandes-novedades-1044543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/final-cut-pro-x-apple-1903109.jpg' alt='Apple actualiza sus aplicaciones de edición de vídeo, iMovie y Final Cut Pro, con grandes novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573'>El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/producto-fitness-mercadona-triunfo-mejora-ahora-trocitos-1044573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/crema-cacahuetes-mercadona-1888227.jpg' alt='El producto fitness con el que Mercadona triunfó, mejora: ahora con trocitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509'>Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies</a></h4>
-    <a href='https://computerhoy.com/noticias/fin-ia-llega-solucionarte-algo-dia-dia-extension-navegador-popups-cookies-1044509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cookies-2353537.jpg' alt='Por fin la IA llega para solucionarte algo del día a día: la extensión de navegador para los popups de cookies' />
     </a>
 </div>
 
