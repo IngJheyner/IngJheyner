@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-caso-apple-watch-no-encienda-1044697'>Esto es lo que tienes que hacer en caso de que tu Apple Watch no se encienda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-hacer-caso-apple-watch-no-encienda-1044697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610045.jpg' alt='Esto es lo que tienes que hacer en caso de que tu Apple Watch no se encienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>7 móviles baratos para usar WhatsApp y poco más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-9c-2672887.jpg' alt='7 móviles baratos para usar WhatsApp y poco más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-cursos-online-seguridad-informatica-te-abriran-nuevas-oportunidades-trabajo-1041913'>5 cursos online de seguridad informática que te abrirán nuevas oportunidades de trabajo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-cursos-online-seguridad-informatica-te-abriran-nuevas-oportunidades-trabajo-1041913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciberseguridad-2669609.jpg' alt='5 cursos online de seguridad informática que te abrirán nuevas oportunidades de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-oneplus-ace-muestran-parte-trasera-dos-texturas-diferentes-1044705'>El OnePlus 10R y OnePlus Ace muestran su parte trasera con dos texturas diferentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10r-oneplus-ace-muestran-parte-trasera-dos-texturas-diferentes-1044705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-ace-2674257.jpg' alt='El OnePlus 10R y OnePlus Ace muestran su parte trasera con dos texturas diferentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-tension-normal-persona-1044689'>Cuál es la tensión normal de una persona</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-tension-normal-persona-1044689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/presion-arterial-2674243.jpg' alt='Cuál es la tensión normal de una persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797'>Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/manta-isotermica-emergencias-1992349.jpg' alt='Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juega-gratis-semana-santa-100-juegos-nube-ubisoft-1044651'>Juega gratis en esta Semana Santa a más de 100 juegos en la nube con Ubisoft+</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juega-gratis-semana-santa-100-juegos-nube-ubisoft-1044651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ubisoft-2620597.jpg' alt='Juega gratis en esta Semana Santa a más de 100 juegos en la nube con Ubisoft+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585'>El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-2673991.jpg' alt='El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video' />
     </a>
 </div>
 
