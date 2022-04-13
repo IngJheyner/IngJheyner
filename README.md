@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797'>Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-emergencia-android-fueran-necesarias-momento-dado-1042797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/manta-isotermica-emergencias-1992349.jpg' alt='Las mejores aplicaciones de emergencia para Android por si las fueran necesarias en un momento dado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juega-gratis-semana-santa-100-juegos-nube-ubisoft-1044651'>Juega gratis en esta Semana Santa a más de 100 juegos en la nube con Ubisoft+</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juega-gratis-semana-santa-100-juegos-nube-ubisoft-1044651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ubisoft-2620597.jpg' alt='Juega gratis en esta Semana Santa a más de 100 juegos en la nube con Ubisoft+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585'>El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-1044585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/deporte-sigue-avanzando-streaming-ultimo-movimiento-llega-prime-video-2673991.jpg' alt='El deporte sigue avanzando en el streaming y el último movimiento llega desde Prime Video' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597'>¿Por qué tu mascota te mira fijamente?</a></h4>
     <a href='https://computerhoy.com/noticias/life/mascota-te-mira-fijamente-1044597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mascotas-2_6.jpg' alt='¿Por qué tu mascota te mira fijamente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/steam-deck-esteroides-corriendo-juegos-top-4k-60-fps-pero-tiene-truco-1044617'>Steam Deck con esteroides corriendo juegos top a 4K y 60 FPS, pero tiene truco</a></h4>
-    <a href='https://computerhoy.com/noticias/steam-deck-esteroides-corriendo-juegos-top-4k-60-fps-pero-tiene-truco-1044617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/steam-deck-2674087.jpg' alt='Steam Deck con esteroides corriendo juegos top a 4K y 60 FPS, pero tiene truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799'>Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pon-google-tv-viejo-televisor-aparato-realme-solo-31-euros-1043799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-4k-smart-tv-stick-2600947.jpg' alt='Pon Google TV en tu viejo televisor con este aparato de realme, y por solo 31 euros' />
     </a>
 </div>
 
