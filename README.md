@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753'>WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-sigue-teniendo-bizum-punto-mira-prueba-gran-escala-india-1044753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='WhatsApp sigue teniendo a Bizum en el punto de mira, prueba a gran escala en La India' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/metaverso-lunas-coches-holograktor-1044755'>El metaverso llega a las lunas de los coches</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/metaverso-lunas-coches-holograktor-1044755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/metaverso-llega-lunas-coches-2674461.jpg' alt='El metaverso llega a las lunas de los coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743'>TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-sigue-pasos-youtube-boton-no-me-gusta-llegara-aplicacion-1044743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok sigue los pasos de YouTube y el botón de no me gusta llegará a la aplicación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-admitiria-conexion-satelite-emergencias-funcionaria-1044741'>iPhone 14 admitiría conexión satélite para emergencias y así funcionaría</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-admitiria-conexion-satelite-emergencias-funcionaria-1044741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg' alt='iPhone 14 admitiría conexión satélite para emergencias y así funcionaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/agua-grifo-ya-gratis-hosteleria-ley-1044739'>El agua del grifo ya es gratis en hostelería, y por ley</a></h4>
-    <a href='https://computerhoy.com/noticias/life/agua-grifo-ya-gratis-hosteleria-ley-1044739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/agua-restaurante-2674419.jpg' alt='El agua del grifo ya es gratis en hostelería, y por ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-rusos-denuncian-netflix-cerrar-plataforma-rusia-1044737'>Usuarios rusos denuncian a Netflix por cerrar la plataforma en Rusia, teniendo meses contratados</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-rusos-denuncian-netflix-cerrar-plataforma-rusia-1044737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/usuarios-rusos-denuncian-netflix-cerrar-plataforma-rusia-2674417.jpg' alt='Usuarios rusos denuncian a Netflix por cerrar la plataforma en Rusia, teniendo meses contratados' />
     </a>
 </div>
 
