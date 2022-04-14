@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273'>Cómo modificar una declaración ya presentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2668307.jpg' alt='Cómo modificar una declaración ya presentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-apps-te-permiten-desconectar-vivir-plenamente-momento-1039251'>Las 8 Apps que te permiten desconectar y vivir plenamente el momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-apps-te-permiten-desconectar-vivir-plenamente-momento-1039251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/feliz-movil-2665105.jpg' alt='Las 8 Apps que te permiten desconectar y vivir plenamente el momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983'>La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-2674737.jpg' alt='La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811'>Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-buds-3-pro-2672561.jpg' alt='Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-cable-marshall-mode-2671703.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975'>El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban</a></h4>
-    <a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/polemico-truco-usa-policia-california-youtube-borre-rapidamente-videos-donde-aparecen-2674691.jpg' alt='El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-engorda-torrija-1044773'>¿Cuántas calorías tiene una torrija?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-engorda-torrija-1044773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuanto-engorda-torrija-2674505.jpg' alt='¿Cuántas calorías tiene una torrija?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771'>Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/seguridad-mark-zuckerberg.jpg' alt='Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos' />
     </a>
 </div>
 
