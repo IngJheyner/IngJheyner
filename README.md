@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031'>Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-vas-vacaciones-alarma-low-cost-apenas-60-euros-te-dara-tranquilidad-solo-pagas-vez-1043823'>Si te vas de vacaciones, esta alarma low cost de apenas 60 euros te dará tranquilidad ¡y solo la pagas una vez!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-vas-vacaciones-alarma-low-cost-apenas-60-euros-te-dara-tranquilidad-solo-pagas-vez-1043823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alarma-domestica-2672583.jpg' alt='Si te vas de vacaciones, esta alarma low cost de apenas 60 euros te dará tranquilidad ¡y solo la pagas una vez!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009'>Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-2674789.jpg' alt='Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273'>Cómo modificar una declaración ya presentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2668307.jpg' alt='Cómo modificar una declaración ya presentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-apps-te-permiten-desconectar-vivir-plenamente-momento-1039251'>Las 8 Apps que te permiten desconectar y vivir plenamente el momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-apps-te-permiten-desconectar-vivir-plenamente-momento-1039251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/feliz-movil-2665105.jpg' alt='Las 8 Apps que te permiten desconectar y vivir plenamente el momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983'>La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-2674737.jpg' alt='La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina' />
     </a>
 </div>
 
