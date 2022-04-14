@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971'>Cómo empezar a usar TikTok y sumarte a las nuevas tendencias</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Cómo empezar a usar TikTok y sumarte a las nuevas tendencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-comprar-100-twitter-ofrece-542-dolares-accion-1045101'>Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-comprar-100-twitter-ofrece-542-dolares-accion-1045101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-quieres-iniciar-mundo-freidoras-aceite-modelo-3l-perfecto-pro-solo-65eu-1044025'>Si te quieres iniciar en el mundo de las freidoras sin aceite, este modelo de 3L es perfecto pro solo 65€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-quieres-iniciar-mundo-freidoras-aceite-modelo-3l-perfecto-pro-solo-65eu-1044025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aceite-homcom-2672921.jpg' alt='Si te quieres iniciar en el mundo de las freidoras sin aceite, este modelo de 3L es perfecto pro solo 65€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041'>Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/06/606146-michael-bay-sumergira-realidad-virtual-rogue-initiative.jpg' alt='Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas' />
     </a>
 </div>
 
