@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077'>El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155'>Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2675107.jpg' alt='Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121'>Así puedes proteger tu casa con dispositivos domésticos inteligentes </a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/casa-conectada-smart-home-1855191.jpg' alt='Así puedes proteger tu casa con dispositivos domésticos inteligentes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971'>Cómo empezar a usar TikTok y sumarte a las nuevas tendencias</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Cómo empezar a usar TikTok y sumarte a las nuevas tendencias' />
     </a>
 </div>
 
