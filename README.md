@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091'>Estas son las 4 mejores playas españolas según un prestigioso ranking europeo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-2674987.jpg' alt='Estas son las 4 mejores playas españolas según un prestigioso ranking europeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121'>Así puedes proteger tu casa con dispositivos domésticos inteligentes </a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/casa-conectada-smart-home-1855191.jpg' alt='Así puedes proteger tu casa con dispositivos domésticos inteligentes ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059'>La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/among-us-2065169.jpg' alt='La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-nuevos-records-planeta-estrella-galaxia-lejanos-1044993'>Estos son los nuevos récords de planeta, estrella y galaxia más lejanos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-nuevos-records-planeta-estrella-galaxia-lejanos-1044993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='Estos son los nuevos récords de planeta, estrella y galaxia más lejanos' />
     </a>
 </div>
 
