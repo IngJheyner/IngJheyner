@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155'>Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2675107.jpg' alt='Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-estrena-modo-festival-ligues-facil-conciertos-eventos-musicales-1045153'>Tinder estrena un modo festival para que ligues más fácil en los conciertos y eventos musicales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-estrena-modo-festival-ligues-facil-conciertos-eventos-musicales-1045153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conciertos-tinder-2675101.jpg' alt='Tinder estrena un modo festival para que ligues más fácil en los conciertos y eventos musicales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091'>Estas son las 4 mejores playas españolas según un prestigioso ranking europeo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-2674987.jpg' alt='Estas son las 4 mejores playas españolas según un prestigioso ranking europeo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971'>Cómo empezar a usar TikTok y sumarte a las nuevas tendencias</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-empezar-usar-tiktok-sumarte-nuevas-tendencias-1019971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tiktok-introduce-nuevas-esperadas-funciones-creadores-contenido-2420851.jpg' alt='Cómo empezar a usar TikTok y sumarte a las nuevas tendencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-quiere-transformar-twitter-ofrece-542-dolares-accion-1045101'>Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-quiere-transformar-twitter-ofrece-542-dolares-accion-1045101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059'>La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/among-us-2065169.jpg' alt='La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us' />
     </a>
 </div>
 
