@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811'>Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-buds-3-pro-2672561.jpg' alt='Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-cable-marshall-mode-2671703.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771'>Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos</a></h4>
     <a href='https://computerhoy.com/noticias/industria/meta-gasto-seguridad-mark-zuckerberg-2021-1044771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/seguridad-mark-zuckerberg.jpg' alt='Meta gastó más que nunca para proteger la vida de Mark Zuckerberg en 2021: 15 veces más que la seguridad de Jeff Bezos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759'>Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook' />
     </a>
 </div>
 
