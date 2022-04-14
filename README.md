@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-comprar-100-twitter-ofrece-542-dolares-accion-1045101'>Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-comprar-100-twitter-ofrece-542-dolares-accion-1045101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk quiere comprar el 100% de Twitter y ofrece 54,2 dólares por acción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059'>La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/propia-plataforma-steam-filtra-fecha-salida-nuevo-juego-vr-among-us-1045059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/among-us-2065169.jpg' alt='La propia plataforma de Steam filtra la fecha de salida del nuevo juego VR de Among Us' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-son-nuevos-records-planeta-estrella-galaxia-lejanos-1044993'>Estos son los nuevos récords de planeta, estrella y galaxia más lejanos</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-son-nuevos-records-planeta-estrella-galaxia-lejanos-1044993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='Estos son los nuevos récords de planeta, estrella y galaxia más lejanos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041'>Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/06/606146-michael-bay-sumergira-realidad-virtual-rogue-initiative.jpg' alt='Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031'>Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-vas-vacaciones-alarma-low-cost-apenas-60-euros-te-dara-tranquilidad-solo-pagas-vez-1043823'>Si te vas de vacaciones, esta alarma low cost de apenas 60 euros te dará tranquilidad ¡y solo la pagas una vez!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-vas-vacaciones-alarma-low-cost-apenas-60-euros-te-dara-tranquilidad-solo-pagas-vez-1043823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alarma-domestica-2672583.jpg' alt='Si te vas de vacaciones, esta alarma low cost de apenas 60 euros te dará tranquilidad ¡y solo la pagas una vez!' />
     </a>
 </div>
 
