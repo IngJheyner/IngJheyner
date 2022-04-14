@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009'>Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-2674789.jpg' alt='Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-trabajando-duro-poner-dia-youtube-music-competir-spotify-apple-music-1044989'>Google está trabajando duro para poner al día YouTube Music y así competir con Spotify y Apple Music</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-trabajando-duro-poner-dia-youtube-music-competir-spotify-apple-music-1044989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg' alt='Google está trabajando duro para poner al día YouTube Music y así competir con Spotify y Apple Music' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983'>La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-1044983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-2674737.jpg' alt='La primera generación de gafas de realidad aumentada de Meta está a la vuelta de la esquina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811'>Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-xiaomi-son-baratos-oferta-ademas-cancelacion-tienen-carga-inalambrica-1043811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-buds-3-pro-2672561.jpg' alt='Los AirPods de Xiaomi sí que son baratos en esta oferta, y además de cancelación tienen carga inalámbrica' />
     </a>
 </div>
 
