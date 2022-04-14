@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-quieres-iniciar-mundo-freidoras-aceite-modelo-3l-perfecto-pro-solo-65eu-1044025'>Si te quieres iniciar en el mundo de las freidoras sin aceite, este modelo de 3L es perfecto pro solo 65€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-quieres-iniciar-mundo-freidoras-aceite-modelo-3l-perfecto-pro-solo-65eu-1044025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aceite-homcom-2672921.jpg' alt='Si te quieres iniciar en el mundo de las freidoras sin aceite, este modelo de 3L es perfecto pro solo 65€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041'>Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/armas-secretas-michael-bay-nueva-pelicula-ambulance-drones-fpv-camaras-red-8k-personalizadas-1045041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/06/606146-michael-bay-sumergira-realidad-virtual-rogue-initiative.jpg' alt='Las armas secretas de Michael Bay en su nueva película Ambulance: drones FPV y cámaras RED 8K personalizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031'>Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-enfrenta-primera-demanda-parte-accionista-twitter-1045031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk ya se enfrenta a su primera demanda por parte de los accionista de Twitter ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009'>Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-1045009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empieza-explotar-burbuja-nft-nadie-quiso-dar-280-euros-primer-tweet-pagaron-millones-originalmente-2674789.jpg' alt='Empieza a explotar la burbuja de los NFT: ofrecen sólo 280 euros por el primer tweet y pagaron millones por él originalmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-trabajando-duro-poner-dia-youtube-music-competir-spotify-apple-music-1044989'>Google está trabajando duro para poner al día YouTube Music y así competir con Spotify y Apple Music</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-trabajando-duro-poner-dia-youtube-music-competir-spotify-apple-music-1044989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg' alt='Google está trabajando duro para poner al día YouTube Music y así competir con Spotify y Apple Music' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273'>Cómo modificar una declaración ya presentada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-modificar-declaracion-ya-presentada-1041273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2668307.jpg' alt='Cómo modificar una declaración ya presentada' />
     </a>
 </div>
 
