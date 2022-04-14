@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/auriculares-cable-marshall-mode-2671703.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975'>El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban</a></h4>
     <a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/polemico-truco-usa-policia-california-youtube-borre-rapidamente-videos-donde-aparecen-2674691.jpg' alt='El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759'>Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-motivos-no-debes-aceptar-solicitudes-desconocidos-facebook-1044759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-quien-ha-entrado-2504691.jpg' alt='Estos son los motivos por los que no debes aceptar solicitudes de desconocidos en Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767'>El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/amazfit-stratos-3-2289457.jpg' alt='El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España' />
     </a>
 </div>
 
