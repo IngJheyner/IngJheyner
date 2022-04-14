@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975'>El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban</a></h4>
+    <a href='https://computerhoy.com/noticias/life/polemico-truco-policia-california-youtube-borre-videos-1044975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/polemico-truco-usa-policia-california-youtube-borre-rapidamente-videos-donde-aparecen-2674691.jpg' alt='El polémico truco de la policía de California para que YouTube borre rápidamente los vídeos que les graban' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-engorda-torrija-1044773'>¿Cuántas calorías tiene una torrija?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-engorda-torrija-1044773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cuanto-engorda-torrija-2674505.jpg' alt='¿Cuántas calorías tiene una torrija?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767'>El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-amazfit-stratos-oferta-1044767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/amazfit-stratos-3-2289457.jpg' alt='El smartwatch Amazfit Stratos recibe un 54% de descuento y baja a 55€, con envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-1044763'>El nuevo juego de los creadores de Pokémon Go te permitirá tener una mascota en realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-1044763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-juego-creadores-pokemon-go-te-permitira-tener-mascota-realidad-aumentada-2674471.jpg' alt='El nuevo juego de los creadores de Pokémon Go te permitirá tener una mascota en realidad aumentada' />
     </a>
 </div>
 
