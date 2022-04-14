@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157'>Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077'>El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091'>Estas son las 4 mejores playas españolas según un prestigioso ranking europeo</a></h4>
     <a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-2674987.jpg' alt='Estas son las 4 mejores playas españolas según un prestigioso ranking europeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121'>Así puedes proteger tu casa con dispositivos domésticos inteligentes </a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-proteger-casa-dispositivos-domesticos-inteligentes-1045121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/casa-conectada-smart-home-1855191.jpg' alt='Así puedes proteger tu casa con dispositivos domésticos inteligentes ' />
     </a>
 </div>
 
