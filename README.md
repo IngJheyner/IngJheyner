@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-principales-diferencias-google-maps-waze-1025687'>Estas son las principales diferencias entre Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-principales-diferencias-google-maps-waze-1025687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/waze-2640885.jpg' alt='Estas son las principales diferencias entre Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157'>Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-estrena-modo-festival-ligues-facil-conciertos-eventos-musicales-1045153'>Tinder estrena un modo festival para que ligues más fácil en los conciertos y eventos musicales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-estrena-modo-festival-ligues-facil-conciertos-eventos-musicales-1045153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conciertos-tinder-2675101.jpg' alt='Tinder estrena un modo festival para que ligues más fácil en los conciertos y eventos musicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091'>Estas son las 4 mejores playas españolas según un prestigioso ranking europeo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-1045091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estas-son-4-mejores-playas-espanolas-prestigioso-ranking-europeo-2674987.jpg' alt='Estas son las 4 mejores playas españolas según un prestigioso ranking europeo' />
     </a>
 </div>
 
