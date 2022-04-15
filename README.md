@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849'>Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585311.jpg' alt='Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231'>9 trucos para jugar a Fortnite</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fortnite-2671733.jpg' alt='9 trucos para jugar a Fortnite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217'>Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157'>Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-4-ataques-comunes-atentan-contrasenas-como-protegerte-1045157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Estos son los 4 ataques más comunes que atentan contra tus contraseñas y cómo protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077'>El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-1045077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Vacuum Mop 2S superventas de Xiaomi está disponible por 199€ ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155'>Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-fraudes-circulan-aprovecharse-campana-renta-2021-1045155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/declaracion-renta-2675107.jpg' alt='Estos son los fraudes que circulan para aprovecharse de la campaña de la Renta 2021' />
     </a>
 </div>
 
