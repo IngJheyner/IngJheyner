@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399'>Así funcionan las Comunidades de WhatsApp, que pretenden cambiar la forma de comunicarnos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/funcionan-comunidades-whatsapp-pretenden-cambiar-forma-comunicarnos-2675345.jpg' alt='Así funcionan las Comunidades de WhatsApp, que pretenden cambiar la forma de comunicarnos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173'>Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217'>Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-principales-diferencias-google-maps-waze-1025687'>Estas son las principales diferencias entre Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-principales-diferencias-google-maps-waze-1025687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/waze-2640885.jpg' alt='Estas son las principales diferencias entre Google Maps y Waze' />
     </a>
 </div>
 
