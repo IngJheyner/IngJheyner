@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501'>Este es el punto débil del antivirus de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Este es el punto débil del antivirus de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497'>Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/project-cambria-2675493.jpg' alt='Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069'>Los mejores GPS de mano que puedes comprar para no perderte en tus rutas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-realizando-senderismo-bosque-finlandia-2673149.jpg' alt='Los mejores GPS de mano que puedes comprar para no perderte en tus rutas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2674347.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera' />
     </a>
 </div>
 
