@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487'>Se presenta el vivo X Note, y viene con un meteorito lunar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nueva-version-vivo-x-note-viene-meteorito-lunar-2675471.jpg' alt='Se presenta el vivo X Note, y viene con un meteorito lunar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069'>Los mejores GPS de mano que puedes comprar para no perderte en tus rutas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-realizando-senderismo-bosque-finlandia-2673149.jpg' alt='Los mejores GPS de mano que puedes comprar para no perderte en tus rutas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2674347.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471'>Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peso-solo-54-gramos-camara-gopro-hero10-black-bones-pensada-engancharla-dron-2675431.jpg' alt='Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-viaje-espacial-1045427'>Qué películas ver este fin de semana en HBO Max, Prime Video y Netflix: un justiciero enmascarado, Superman y una viaje espacial</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-viaje-espacial-1045427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-2675403.jpg' alt='Qué películas ver este fin de semana en HBO Max, Prime Video y Netflix: un justiciero enmascarado, Superman y una viaje espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-gastar-tienda-puedes-conseguirlos-1044529'>Amazon regala 15€ para gastar en su tienda: así puedes conseguirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-gastar-tienda-puedes-conseguirlos-1044529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/15-euros-2673845.jpg' alt='Amazon regala 15€ para gastar en su tienda: así puedes conseguirlos' />
     </a>
 </div>
 
