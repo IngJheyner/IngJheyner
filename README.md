@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2674347.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/aplicaciones-entrenamiento-mejorar-punteria-raton-1001135'>Aplicaciones y entrenamiento para mejorar la puntería con el ratón</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/aplicaciones-entrenamiento-mejorar-punteria-raton-1001135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-jugando-pc-gaming-teclado-raton-rgb-2494995.jpg' alt='Aplicaciones y entrenamiento para mejorar la puntería con el ratón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471'>Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peso-solo-54-gramos-camara-gopro-hero10-black-bones-pensada-engancharla-dron-2675431.jpg' alt='Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-viaje-espacial-1045427'>Qué películas ver este fin de semana en HBO Max, Prime Video y Netflix: un justiciero enmascarado, Superman y una viaje espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-viaje-espacial-1045427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-hbo-max-prime-video-netflix-justiciero-enmascarado-superman-2675403.jpg' alt='Qué películas ver este fin de semana en HBO Max, Prime Video y Netflix: un justiciero enmascarado, Superman y una viaje espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-gastar-tienda-puedes-conseguirlos-1044529'>Amazon regala 15€ para gastar en su tienda: así puedes conseguirlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-15eu-gastar-tienda-puedes-conseguirlos-1044529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/15-euros-2673845.jpg' alt='Amazon regala 15€ para gastar en su tienda: así puedes conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-comision-47-metaverso-apple-habla-hipocresia-1045459'>Tras criticar a Apple por su comisión del 30%, Meta pone una comisión del 47% en su metaverso, y Apple habla de "hipocresía" </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-comision-47-metaverso-apple-habla-hipocresia-1045459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Tras criticar a Apple por su comisión del 30%, Meta pone una comisión del 47% en su metaverso, y Apple habla de "hipocresía" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485'>¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coros-apex-pro-2673819.jpg' alt='¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-1045453'>La NASA teletransporta virtualmente a un doctor desde la Tierra a la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-1045453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-2675411.jpg' alt='La NASA teletransporta virtualmente a un doctor desde la Tierra a la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435'>El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fbi-desvela-pais-detras-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-2675401.jpg' alt='El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity' />
     </a>
 </div>
 
