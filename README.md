@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173'>Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173'>Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)' />
     </a>
 </div>
 
