@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497'>Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/project-cambria-2675493.jpg' alt='Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-administracion-twitter-anuncia-plan-evitar-elon-musk-1045495'>El Consejo de Administración de Twitter anuncia un plan para evitar que Elon Musk compre la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejo-administracion-twitter-anuncia-plan-evitar-elon-musk-1045495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='El Consejo de Administración de Twitter anuncia un plan para evitar que Elon Musk compre la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487'>Se presenta el vivo X Note, y viene con un meteorito lunar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nueva-version-vivo-x-note-viene-meteorito-lunar-2675471.jpg' alt='Se presenta el vivo X Note, y viene con un meteorito lunar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723'>Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-hbo-max-familia-hombre-casi-feliz-cocinera-1044723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-fin-semana-2674347.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y HBO Max: una familia, un hombre casi feliz y una cocinera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/aplicaciones-entrenamiento-mejorar-punteria-raton-1001135'>Aplicaciones y entrenamiento para mejorar la puntería con el ratón</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/aplicaciones-entrenamiento-mejorar-punteria-raton-1001135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-jugando-pc-gaming-teclado-raton-rgb-2494995.jpg' alt='Aplicaciones y entrenamiento para mejorar la puntería con el ratón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471'>Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gopro-hero10-black-bones-camara-dron-1045471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peso-solo-54-gramos-camara-gopro-hero10-black-bones-pensada-engancharla-dron-2675431.jpg' alt='Con un peso de solo 54 gramos, la cámara GoPro Hero10 Black Bones está pensada para engancharla a un dron' />
     </a>
 </div>
 
