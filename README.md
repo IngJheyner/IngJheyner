@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-comision-47-metaverso-apple-habla-hipocresia-1045459'>Después de criticar a Apple por su comisión del 30%, Meta pone una comisión del 47% en su metaverso, y Apple habla de "hipocresía" </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-comision-47-metaverso-apple-habla-hipocresia-1045459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Después de criticar a Apple por su comisión del 30%, Meta pone una comisión del 47% en su metaverso, y Apple habla de "hipocresía" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485'>¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coros-apex-pro-2673819.jpg' alt='¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415'>Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399'>Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/funcionan-comunidades-whatsapp-pretenden-cambiar-forma-comunicarnos-2675345.jpg' alt='Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos' />
     </a>
 </div>
 
