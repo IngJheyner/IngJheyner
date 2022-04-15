@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485'>¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-correr-trail-running-no-te-puedes-perder-oferta-coros-apex-pro-premium-solo-399eu-1044485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coros-apex-pro-2673819.jpg' alt='¿Te gusta correr o el trail running? No te puedes perder esta oferta por el Coros Apex Pro Premium: sólo 399€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-1045453'>La NASA teletransporta virtualmente a un doctor desde la Tierra a la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-1045453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nasa-teletransporta-virtualmente-doctor-tierra-estacion-espacial-internacional-2675411.jpg' alt='La NASA teletransporta virtualmente a un doctor desde la Tierra a la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435'>El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fbi-desvela-pais-detras-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-2675401.jpg' alt='El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399'>Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/funcionan-comunidades-whatsapp-pretenden-cambiar-forma-comunicarnos-2675345.jpg' alt='Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173'>Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-1045173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Increíble vuelo de dron dentro de la Gigafactoría Tesla en Berlín (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849'>Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585311.jpg' alt='Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis' />
     </a>
 </div>
 
