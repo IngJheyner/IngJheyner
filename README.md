@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435'>El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fbi-desvela-pais-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-1045435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fbi-desvela-pais-detras-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-2675401.jpg' alt='El FBI desvela el país que está detrás del robo de 560 millones de euros en criptomonedas del juego NFT Axie Infinity' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415'>Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849'>Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-portatiles-hemos-probado-baja-599-euros-viene-auriculares-mochila-totalmente-gratis-1043849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585311.jpg' alt='Uno de los mejores portátiles que hemos probado baja a 599 euros, y viene con auriculares y mochila totalmente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231'>9 trucos para jugar a Fortnite</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fortnite-2671733.jpg' alt='9 trucos para jugar a Fortnite' />
     </a>
 </div>
 
