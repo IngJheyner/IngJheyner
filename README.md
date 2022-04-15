@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511'>Tres formas de exterminar las cucarachas de las casas sin usar productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tres-formas-exterminar-cucarachas-casas-usar-productos-quimicos-2675503.jpg' alt='Tres formas de exterminar las cucarachas de las casas sin usar productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505'>El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/aspirador-xiaomi-dreame-xr-inalambrico-entra-stock-amazon-249-euros-2675499.jpg' alt='El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-administracion-twitter-anuncia-plan-evitar-elon-musk-1045495'>El Consejo de Administración de Twitter anuncia un plan para evitar que Elon Musk compre la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consejo-administracion-twitter-anuncia-plan-evitar-elon-musk-1045495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='El Consejo de Administración de Twitter anuncia un plan para evitar que Elon Musk compre la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487'>Se presenta el vivo X Note, y viene con un meteorito lunar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-note-caracteristicas-especificaciones-precio-1045487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nueva-version-vivo-x-note-viene-meteorito-lunar-2675471.jpg' alt='Se presenta el vivo X Note, y viene con un meteorito lunar' />
     </a>
 </div>
 
