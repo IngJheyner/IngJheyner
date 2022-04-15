@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399'>Así funcionan las Comunidades de WhatsApp, que pretenden cambiar la forma de comunicarnos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415'>Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesadores-apple-m2-m2-pro-m2-max-especificaciones-ordenadores-1045415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Procesadores Apple M2, M2 Pro y M2 Max: se filtran  algunas especificaciones y 9 ordenadores que los usarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399'>Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comunidades-whatsapp-novedades-2022-1045399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/funcionan-comunidades-whatsapp-pretenden-cambiar-forma-comunicarnos-2675345.jpg' alt='Así funcionan las Comunidades de WhatsApp, que pretenden cambiar la forma de comunicarnos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/funcionan-comunidades-whatsapp-pretenden-cambiar-forma-comunicarnos-2675345.jpg' alt='Así funcionan las Comunidades de WhatsApp: pretenden cambiar la forma de comunicarnos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231'>9 trucos para jugar a Fortnite</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-jugar-fortnite-1043231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fortnite-2671733.jpg' alt='9 trucos para jugar a Fortnite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217'>Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-gran-capacidad-puedes-comprar-1043217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Discos duros de gran capacidad: los mejores modelos desde 8 TB que puedes comprar' />
     </a>
 </div>
 
