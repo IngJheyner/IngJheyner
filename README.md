@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963'>Webs para encontrar pueblos fantasma</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pueblos-fantasma-2646413.jpg' alt='Webs para encontrar pueblos fantasma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-placas-solares-1044517'>Baterías portátiles para placas solares que te pueden ayudar a reducir la factura de la luz</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-placas-solares-1044517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anker-521-portable-power-station-2673887.jpg' alt='Baterías portátiles para placas solares que te pueden ayudar a reducir la factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385'>Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78</a></h4>
     <a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arreglan-tejado-iglesia-italiana-encuentran-docenas-balones-llevaban-encajados-mundial-78-2673661.jpg' alt='Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739'>Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano</a></h4>
     <a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-fabricado-baba-magnetica-puede-extraer-objetos-interior-cuerpo-humano-2664197.jpg' alt='Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/camaras-fotos-instantaneas-polaroid-1007263'>Cámaras de fotos instantáneas tipo Polaroid: tipos, coste de los consumibles y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/camaras-fotos-instantaneas-polaroid-1007263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/polaroid-2607567.jpg' alt='Cámaras de fotos instantáneas tipo Polaroid: tipos, coste de los consumibles y mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511'>Tres formas de exterminar las cucarachas de las casas sin usar productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tres-formas-exterminar-cucarachas-casas-usar-productos-quimicos-2675503.jpg' alt='Tres formas de exterminar las cucarachas de las casas sin usar productos químicos' />
     </a>
 </div>
 
