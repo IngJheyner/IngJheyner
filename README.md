@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789'>Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mankeel-bicicleta-electrica-mk012-2672523.jpg' alt='Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653'>Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qualcomm-2666255.jpg' alt='Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963'>Webs para encontrar pueblos fantasma</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pueblos-fantasma-2646413.jpg' alt='Webs para encontrar pueblos fantasma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385'>Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78</a></h4>
     <a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arreglan-tejado-iglesia-italiana-encuentran-docenas-balones-llevaban-encajados-mundial-78-2673661.jpg' alt='Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559'>Diferencias entre USB-A y USB-C</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='Diferencias entre USB-A y USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739'>Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-fabricado-baba-magnetica-puede-extraer-objetos-interior-cuerpo-humano-2664197.jpg' alt='Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano' />
     </a>
 </div>
 
