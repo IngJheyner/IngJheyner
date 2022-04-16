@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385'>Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arreglan-tejado-iglesia-italiana-encuentran-docenas-balones-llevaban-encajados-mundial-78-2673661.jpg' alt='Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559'>Diferencias entre USB-A y USB-C</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='Diferencias entre USB-A y USB-C' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511'>Tres formas de exterminar las cucarachas de las casas sin usar productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/tres-formas-exterminar-cucarachas-sin-productos-quimicos-1045511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tres-formas-exterminar-cucarachas-casas-usar-productos-quimicos-2675503.jpg' alt='Tres formas de exterminar las cucarachas de las casas sin usar productos químicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505'>El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/aspirador-xiaomi-dreame-xr-inalambrico-entra-stock-amazon-249-euros-2675499.jpg' alt='El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros' />
     </a>
 </div>
 
