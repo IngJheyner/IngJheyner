@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775'>Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mini-pc-ryzen-7-windows-10-2675875.jpg' alt='Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/south-park-supera-juego-tronos-como-serie-solicitada-hbo-max-1045769'>South Park supera a Juego de Tronos como la serie más solicitada de HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/south-park-supera-juego-tronos-como-serie-solicitada-hbo-max-1045769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/south-park-2618553.jpg' alt='South Park supera a Juego de Tronos como la serie más solicitada de HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055'>Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todo-gas-2673041.jpg' alt='Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759'>Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xbox-game-pass-2675843.jpg' alt='Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749'>JBL Quantum 610, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jbl-quantum-610-2666667.jpg' alt='JBL Quantum 610, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-opcion-privacidad-avanzada-llegara-whatsapp-1045755'>Esta es la nueva opción de privacidad avanzada que llegará a WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-opcion-privacidad-avanzada-llegara-whatsapp-1045755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/privacidad-whatsapp-2675839.jpg' alt='Esta es la nueva opción de privacidad avanzada que llegará a WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-3-windows-11-pc-menos-500-euros-perfecto-trabajar-estudiar-casa-1044563'>Ryzen 3 y Windows 11: este PC de menos de 500 euros es perfecto para trabajar y estudiar en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-3-windows-11-pc-menos-500-euros-perfecto-trabajar-estudiar-casa-1044563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-22-dd0000ns-2673945.jpg' alt='Ryzen 3 y Windows 11: este PC de menos de 500 euros es perfecto para trabajar y estudiar en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555'>Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eco-worthy-84wh-2673925.jpg' alt='Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros' />
     </a>
 </div>
 
