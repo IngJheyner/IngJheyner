@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749'>JBL Quantum 610, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jbl-quantum-610-2666667.jpg' alt='JBL Quantum 610, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-opcion-privacidad-avanzada-llegara-whatsapp-1045755'>Esta es la nueva opción de privacidad avanzada que llegará a WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-opcion-privacidad-avanzada-llegara-whatsapp-1045755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/privacidad-whatsapp-2675839.jpg' alt='Esta es la nueva opción de privacidad avanzada que llegará a WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ryzen-3-windows-11-pc-menos-500-euros-perfecto-trabajar-estudiar-casa-1044563'>Ryzen 3 y Windows 11: este PC de menos de 500 euros es perfecto para trabajar y estudiar en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ryzen-3-windows-11-pc-menos-500-euros-perfecto-trabajar-estudiar-casa-1044563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-22-dd0000ns-2673945.jpg' alt='Ryzen 3 y Windows 11: este PC de menos de 500 euros es perfecto para trabajar y estudiar en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555'>Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eco-worthy-84wh-2673925.jpg' alt='Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679'>¿Qué es PlayStation Spartacus?</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/playstation-spartacus-2673781.jpg' alt='¿Qué es PlayStation Spartacus?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195'>Huawei MatePad Pro de 12,6", análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665643.jpg' alt='Huawei MatePad Pro de 12,6", análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-subir-libros-gratuitos-kindle-1035993'>Cómo subir libros gratuitos a tu Kindle</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-subir-libros-gratuitos-kindle-1035993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-kindle-2611541.jpg' alt='Cómo subir libros gratuitos a tu Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789'>Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mankeel-bicicleta-electrica-mk012-2672523.jpg' alt='Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653'>Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qualcomm-2666255.jpg' alt='Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías' />
     </a>
 </div>
 
