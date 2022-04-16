@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429'>J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-2673729.jpg' alt='J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995'>Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801'>Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783'>Más ordenadores utilizan Windows XP que Windows 11 según este informe</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Más ordenadores utilizan Windows XP que Windows 11 según este informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781'>Así podrás editar tuits en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Así podrás editar tuits en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775'>Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mini-pc-ryzen-7-windows-10-2675875.jpg' alt='Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros' />
     </a>
 </div>
 
