@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801'>Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595'>Mejores cursos de fotografía que puedes hacer online en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografo-2674157.jpg' alt='Mejores cursos de fotografía que puedes hacer online en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783'>Más ordenadores utilizan Windows XP que Windows 11 según este informe</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Más ordenadores utilizan Windows XP que Windows 11 según este informe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775'>Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mini-pc-ryzen-7-windows-10-2675875.jpg' alt='Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/south-park-supera-juego-tronos-como-serie-solicitada-hbo-max-1045769'>South Park supera a Juego de Tronos como la serie más solicitada de HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/south-park-supera-juego-tronos-como-serie-solicitada-hbo-max-1045769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/south-park-2618553.jpg' alt='South Park supera a Juego de Tronos como la serie más solicitada de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055'>Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todo-gas-2673041.jpg' alt='Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad' />
     </a>
 </div>
 
