@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195'>Huawei MatePad Pro de 12,6", análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665643.jpg' alt='Huawei MatePad Pro de 12,6", análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-subir-libros-gratuitos-kindle-1035993'>Cómo subir libros gratuitos a tu Kindle</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-subir-libros-gratuitos-kindle-1035993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amazon-kindle-2611541.jpg' alt='Cómo subir libros gratuitos a tu Kindle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789'>Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña</a></h4>
     <a href='https://computerhoy.com/noticias/motor/plegable-bateria-extraible-bicicleta-electrica-plegable-sirve-ciudad-montana-1043789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mankeel-bicicleta-electrica-mk012-2672523.jpg' alt='Plegable y con batería extraíble: esta bicicleta eléctrica plegable sirve para la ciudad y la montaña' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963'>Webs para encontrar pueblos fantasma</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pueblos-fantasma-2646413.jpg' alt='Webs para encontrar pueblos fantasma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-placas-solares-1044517'>Baterías portátiles para placas solares que te pueden ayudar a reducir la factura de la luz</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-placas-solares-1044517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anker-521-portable-power-station-2673887.jpg' alt='Baterías portátiles para placas solares que te pueden ayudar a reducir la factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385'>Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tejado-iglesia-italiana-docenas-balones-mundial-78-1044385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/arreglan-tejado-iglesia-italiana-encuentran-docenas-balones-llevaban-encajados-mundial-78-2673661.jpg' alt='Arreglan el tejado de una iglesia italiana y encuentran docenas de balones que llevaban encajados desde el Mundial 78' />
     </a>
 </div>
 
