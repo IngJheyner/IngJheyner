@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759'>Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xbox-game-pass-2675843.jpg' alt='Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749'>JBL Quantum 610, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jbl-quantum-610-2666667.jpg' alt='JBL Quantum 610, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555'>Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bateria-viene-panel-solar-puede-darte-64-horas-iluminacion-ininterrumpida-solo-73-euros-1044555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eco-worthy-84wh-2673925.jpg' alt='Esta batería viene con un panel solar que puede darte hasta 64 horas de iluminación ininterrumpida por solo 73 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679'>¿Qué es PlayStation Spartacus?</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/playstation-spartacus-2673781.jpg' alt='¿Qué es PlayStation Spartacus?' />
     </a>
 </div>
 
