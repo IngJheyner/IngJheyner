@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781'>Así podrás editar tuits en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Así podrás editar tuits en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775'>Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-7-windows-10-te-podras-llevar-vacaciones-donde-quieras-solo-713-euros-1045775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mini-pc-ryzen-7-windows-10-2675875.jpg' alt='Este Mini PC con Ryzen 7 y Windows 10 te lo podrás llevar de vacaciones a donde quieras a solo 713 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759'>Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xbox-game-pass-2675843.jpg' alt='Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749'>JBL Quantum 610, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/jbl-quantum-610-review-opinion-1029749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jbl-quantum-610-2666667.jpg' alt='JBL Quantum 610, análisis y opinión' />
     </a>
 </div>
 
