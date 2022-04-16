@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739'>Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-fabricado-baba-magnetica-puede-extraer-objetos-interior-cuerpo-humano-2664197.jpg' alt='Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/camaras-fotos-instantaneas-polaroid-1007263'>Cámaras de fotos instantáneas tipo Polaroid: tipos, coste de los consumibles y mejores modelos</a></h4>
     <a href='https://computerhoy.com/guia-compra/camaras-fotos-instantaneas-polaroid-1007263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/polaroid-2607567.jpg' alt='Cámaras de fotos instantáneas tipo Polaroid: tipos, coste de los consumibles y mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501'>Este es el punto débil del antivirus de Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Este es el punto débil del antivirus de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497'>Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/serian-gafas-realidad-mixta-meta-quiere-abraces-metaverso-1045497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/project-cambria-2675493.jpg' alt='Así serían las gafas de realidad mixta con las que Meta quiere que abraces el metaverso' />
     </a>
 </div>
 
