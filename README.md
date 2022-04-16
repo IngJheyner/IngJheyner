@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783'>Más ordenadores utilizan Windows XP que Windows 11 según este informe</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Más ordenadores utilizan Windows XP que Windows 11 según este informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781'>Así podrás editar tuits en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podras-editar-tuits-twitter-1045781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/boton-editar-twitter-2666683.jpg' alt='Así podrás editar tuits en Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055'>Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-espectaculares-persecuciones-coche-amantes-velocidad-1044055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todo-gas-2673041.jpg' alt='Las 7 películas más espectaculares con persecuciones en coche para los amantes de la velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759'>Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/microsoft-quiere-construir-mercado-publicitario-xbox-anuncios-virtuales-llegarian-juegos-f2p-ano-1045759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xbox-game-pass-2675843.jpg' alt='Microsoft quiere construir un mercado publicitario en Xbox: los anuncios virtuales llegarían a los juegos F2P este año' />
     </a>
 </div>
 
