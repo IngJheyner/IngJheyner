@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679'>¿Qué es PlayStation Spartacus?</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/playstation-spartacus-1038679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/playstation-spartacus-2673781.jpg' alt='¿Qué es PlayStation Spartacus?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195'>Huawei MatePad Pro de 12,6", análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-matepad-pro-126-review-opinion-1037195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665643.jpg' alt='Huawei MatePad Pro de 12,6", análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653'>Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/infinito-alla-obsesion-qualcomm-drena-bolsillo-baterias-1039653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qualcomm-2666255.jpg' alt='Hasta el infinito y más allá, la obsesión de Qualcomm que drena nuestro bolsillo y las baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963'>Webs para encontrar pueblos fantasma</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/webs-encontrar-pueblos-fantasma-1028963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pueblos-fantasma-2646413.jpg' alt='Webs para encontrar pueblos fantasma' />
     </a>
 </div>
 
