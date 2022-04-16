@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677'>Las 5 apps que te harán la vida más fácil con las hojas de cálculo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hoja-calculo-excel-portatil.jpg' alt='Las 5 apps que te harán la vida más fácil con las hojas de cálculo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429'>J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro</a></h4>
     <a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-2673729.jpg' alt='J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595'>Mejores cursos de fotografía que puedes hacer online en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografo-2674157.jpg' alt='Mejores cursos de fotografía que puedes hacer online en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783'>Más ordenadores utilizan Windows XP que Windows 11 según este informe</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenadores-utilizan-windows-xp-windows-11-informe-1045783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Más ordenadores utilizan Windows XP que Windows 11 según este informe' />
     </a>
 </div>
 
