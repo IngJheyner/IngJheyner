@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559'>Diferencias entre USB-A y USB-C</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/diferencias-usb-usb-c-1029559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='Diferencias entre USB-A y USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739'>Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano</a></h4>
     <a href='https://computerhoy.com/noticias/life/robot-fabricado-baba-magnetica-1038739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-fabricado-baba-magnetica-puede-extraer-objetos-interior-cuerpo-humano-2664197.jpg' alt='Este robot fabricado con "baba" magnética puede extraer objetos del interior del cuerpo humano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505'>El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspirador-xiaomi-dreame-xr-inalambrico-1045505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/aspirador-xiaomi-dreame-xr-inalambrico-entra-stock-amazon-249-euros-2675499.jpg' alt='El Aspirador Xiaomi Dreame XR inalámbrico entra en stock en Amazon a 249 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501'>Este es el punto débil del antivirus de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/punto-debil-antivirus-windows-11-1045501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Este es el punto débil del antivirus de Windows 11' />
     </a>
 </div>
 
