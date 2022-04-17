@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101'>La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-fusion-ethereum-retrasa-meses-mineros-criptomonedas-respiran-aliviados-2676295.jpg' alt='La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357'>7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/cuento-criada.jpg' alt='7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073'>Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-puerta-inteligente-futuro-identificacion-facial-3d-1046065'>Xiaomi inventa la puerta inteligente del futuro con identificación facial 3D</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-puerta-inteligente-futuro-identificacion-facial-3d-1046065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaobai-blade-star-2676221.jpg' alt='Xiaomi inventa la puerta inteligente del futuro con identificación facial 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623'>Cómo configurar Windows para que te lea texto en pantalla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-lee-texto-2596921.jpg' alt='Cómo configurar Windows para que te lea texto en pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055'>Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación' />
     </a>
 </div>
 
