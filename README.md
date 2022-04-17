@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-240-hz-1044707'>Estos son los mejores monitores gaming de 240 Hz que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-240-hz-1044707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/setup-gamer-2674307.jpg' alt='Estos son los mejores monitores gaming de 240 Hz que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889'>¿Qué es la mensajería RCS?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rcs-2606909.jpg' alt='¿Qué es la mensajería RCS?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995'>Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801'>Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV' />
     </a>
 </div>
 
