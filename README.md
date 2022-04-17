@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129'>Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123'>Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú</a></h4>
     <a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktoker-revela-truco-evito-quedarse-calvo-6-anos-usar-champu-2676309.jpg' alt='Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101'>La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-fusion-ethereum-retrasa-meses-mineros-criptomonedas-respiran-aliviados-2676295.jpg' alt='La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357'>7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/cuento-criada.jpg' alt='7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto' />
     </a>
 </div>
 
