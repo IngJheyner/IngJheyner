@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263'>realme GT 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-realme-gt-2-2670255.jpg' alt='realme GT 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917'>Las 7 herramientas perfectas para escribir sin distracciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escribiendo-ordenador-2590251.jpg' alt='Las 7 herramientas perfectas para escribir sin distracciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347'>La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-canasta-inteligente-te-ayuda-mejorar-juego-entrenador-incluido-2672019.jpg' alt='La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-ciudades-peor-contaminacion-aire-toda-europa-hay-varias-espana-1045811'>Estas son las ciudades con la peor contaminación del aire de toda Europa, y hay varias en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-ciudades-peor-contaminacion-aire-toda-europa-hay-varias-espana-1045811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-aire-2675941.jpg' alt='Estas son las ciudades con la peor contaminación del aire de toda Europa, y hay varias en España' />
     </a>
 </div>
 
