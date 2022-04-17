@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073'>Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-87-euros-perfecto-deportistas-huawei-oferta-amazon-1046071'>El reloj inteligente de 87 euros perfecto para deportistas: de Huawei y en oferta en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-87-euros-perfecto-deportistas-huawei-oferta-amazon-1046071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-gt-2e-sport-2072241.jpg' alt='El reloj inteligente de 87 euros perfecto para deportistas: de Huawei y en oferta en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055'>Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-30-review-opinion-1038007'>TCL 30+: análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/tcl-30-review-opinion-1038007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tcl-30-2670501.jpg' alt='TCL 30+: análisis y opinión' />
     </a>
 </div>
 
