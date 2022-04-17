@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403'>10 trucos para acelerar tu smartphone Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/movil-mano-2668705.jpg' alt='10 trucos para acelerar tu smartphone Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263'>realme GT 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-realme-gt-2-2670255.jpg' alt='realme GT 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807'>A este conductor se le queda bloqueado su Tesla a más de 130 km/h</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conductor-queda-bloqueado-tesla-130-km-h-2675939.jpg' alt='A este conductor se le queda bloqueado su Tesla a más de 130 km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347'>La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-canasta-inteligente-te-ayuda-mejorar-juego-entrenador-incluido-2672019.jpg' alt='La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido' />
     </a>
 </div>
 
