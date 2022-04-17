@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107'>Este equipo de fútbol americano cambia el número de las camisetas por un código QR</a></h4>
+    <a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-2676303.jpg' alt='Este equipo de fútbol americano cambia el número de las camisetas por un código QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713'>5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073'>Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-87-euros-perfecto-deportistas-huawei-oferta-amazon-1046071'>El reloj inteligente de 87 euros perfecto para deportistas: de Huawei y en oferta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-87-euros-perfecto-deportistas-huawei-oferta-amazon-1046071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/huawei-watch-gt-2e-sport-2072241.jpg' alt='El reloj inteligente de 87 euros perfecto para deportistas: de Huawei y en oferta en Amazon' />
     </a>
 </div>
 
