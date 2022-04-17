@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-240-hz-1044707'>Estos son los mejores monitores gaming de 240 Hz que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-gaming-240-hz-1044707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/setup-gamer-2674307.jpg' alt='Estos son los mejores monitores gaming de 240 Hz que puedes comprar' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917'>Las 7 herramientas perfectas para escribir sin distracciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escribiendo-ordenador-2590251.jpg' alt='Las 7 herramientas perfectas para escribir sin distracciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889'>¿Qué es la mensajería RCS?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rcs-2606909.jpg' alt='¿Qué es la mensajería RCS?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-sorprendentemente-barato-cuesta-poco-700eu-amazon-incluye-retirada-antiguo-1044549'>Este frigorífico americano es sorprendentemente barato: cuesta poco más de 700€ en Amazon e incluye retirada del antiguo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-sorprendentemente-barato-cuesta-poco-700eu-amazon-incluye-retirada-antiguo-1044549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hisense-rs670n4hw1-2673903.jpg' alt='Este frigorífico americano es sorprendentemente barato: cuesta poco más de 700€ en Amazon e incluye retirada del antiguo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677'>Las 5 apps que te harán la vida más fácil con las hojas de cálculo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hoja-calculo-excel-portatil.jpg' alt='Las 5 apps que te harán la vida más fácil con las hojas de cálculo' />
+    <h4><a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807'>A este conductor se le queda bloqueado su Tesla a más de 130 km/h</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conductor-queda-bloqueado-tesla-130-km-h-2675939.jpg' alt='A este conductor se le queda bloqueado su Tesla a más de 130 km/h' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429'>J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-1044429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jk-rowling-regalo-padre-primera-edicion-dedicada-harry-potter-seguro-adivinas-hizo-libro-2673729.jpg' alt='J.K. Rowling le regaló a su padre una primera edición dedicada de Harry Potter, y seguro que adivinas lo que hizo con el libro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347'>La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huupe-primera-canasta-inteligente-1043347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-canasta-inteligente-te-ayuda-mejorar-juego-entrenador-incluido-2672019.jpg' alt='La primera canasta inteligente te ayuda a mejorar tu juego, con entrenador incluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995'>Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/siente-verdadera-musica-populares-auriculares-cancelacion-ruido-huawei-ahora-oferta-129-euros-1045995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-huawei-freebuds-studio-2126649.jpg' alt='Siente la verdadera música con los populares auriculares con cancelación de ruido de Huawei ahora en oferta a 129 euros' />
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-ciudades-peor-contaminacion-aire-toda-europa-hay-varias-espana-1045811'>Estas son las ciudades con la peor contaminación del aire de toda Europa, y hay varias en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-ciudades-peor-contaminacion-aire-toda-europa-hay-varias-espana-1045811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-aire-2675941.jpg' alt='Estas son las ciudades con la peor contaminación del aire de toda Europa, y hay varias en España' />
     </a>
 </div>
 
