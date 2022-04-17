@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889'>¿Qué es la mensajería RCS?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mensajeria-rcs-1006889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rcs-2606909.jpg' alt='¿Qué es la mensajería RCS?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677'>Las 5 apps que te harán la vida más fácil con las hojas de cálculo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-apps-te-haran-vida-facil-hojas-calculo-958677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hoja-calculo-excel-portatil.jpg' alt='Las 5 apps que te harán la vida más fácil con las hojas de cálculo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801'>Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-tv-13-reducira-consumo-energia-ancho-banda-smart-tv-1045801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg' alt='Android TV 13 reducirá el consumo de energía y ancho de banda de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595'>Mejores cursos de fotografía que puedes hacer online en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-fotografia-udemy-1044595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fotografo-2674157.jpg' alt='Mejores cursos de fotografía que puedes hacer online en Udemy' />
     </a>
 </div>
 
