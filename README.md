@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123'>Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktoker-revela-truco-evito-quedarse-calvo-6-anos-usar-champu-2676309.jpg' alt='Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107'>Este equipo de fútbol americano cambia el número de las camisetas por un código QR</a></h4>
     <a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-2676303.jpg' alt='Este equipo de fútbol americano cambia el número de las camisetas por un código QR' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357'>7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-muestran-sociedades-distintas-algunas-buenas-otras-no-tanto-1043357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/cuento-criada.jpg' alt='7 películas y series en las que se muestran sociedades distintas, algunas buenas y otras no tanto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073'>Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-windows-quiere-robar-accesos-redes-sociales-inicios-sesion-bancarias-1046073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este malware para Windows quiere robar tus accesos a redes sociales e inicios de sesión bancarias' />
     </a>
 </div>
 
