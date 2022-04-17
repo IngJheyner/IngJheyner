@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623'>Cómo configurar Windows para que te lea texto en pantalla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-lee-texto-2596921.jpg' alt='Cómo configurar Windows para que te lea texto en pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055'>Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vas-poder-editar-tuits-twitter-pero-guardara-historial-modificacion-1046055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Vas a poder editar tus tuits en Twitter pero se guardará un historial de la modificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-30-review-opinion-1038007'>TCL 30+: análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/tcl-30-review-opinion-1038007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tcl-30-2670501.jpg' alt='TCL 30+: análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-imita-apple-ya-no-incluira-cargador-nuevos-vehiculos-1046043'>Tesla imita a Apple y ya no incluirá el cargador con sus nuevos vehículos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-imita-apple-ya-no-incluira-cargador-nuevos-vehiculos-1046043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla imita a Apple y ya no incluirá el cargador con sus nuevos vehículos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403'>10 trucos para acelerar tu smartphone Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/movil-mano-2668705.jpg' alt='10 trucos para acelerar tu smartphone Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263'>realme GT 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-gt-2-review-opinion-1039263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-realme-gt-2-2670255.jpg' alt='realme GT 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917'>Las 7 herramientas perfectas para escribir sin distracciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-herramientas-perfectas-escribir-distracciones-997917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/escribiendo-ordenador-2590251.jpg' alt='Las 7 herramientas perfectas para escribir sin distracciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-sorprendentemente-barato-cuesta-poco-700eu-amazon-incluye-retirada-antiguo-1044549'>Este frigorífico americano es sorprendentemente barato: cuesta poco más de 700€ en Amazon e incluye retirada del antiguo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-sorprendentemente-barato-cuesta-poco-700eu-amazon-incluye-retirada-antiguo-1044549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hisense-rs670n4hw1-2673903.jpg' alt='Este frigorífico americano es sorprendentemente barato: cuesta poco más de 700€ en Amazon e incluye retirada del antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807'>A este conductor se le queda bloqueado su Tesla a más de 130 km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/conductor-queda-bloqueado-tesla-130-km-h-1045807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conductor-queda-bloqueado-tesla-130-km-h-2675939.jpg' alt='A este conductor se le queda bloqueado su Tesla a más de 130 km/h' />
     </a>
 </div>
 
