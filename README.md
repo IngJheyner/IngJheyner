@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-puerta-inteligente-futuro-identificacion-facial-3d-1046065'>Xiaomi inventa la puerta inteligente del futuro con identificación facial 3D</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-puerta-inteligente-futuro-identificacion-facial-3d-1046065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaobai-blade-star-2676221.jpg' alt='Xiaomi inventa la puerta inteligente del futuro con identificación facial 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623'>Cómo configurar Windows para que te lea texto en pantalla</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-windows-te-lea-texto-pantalla-1001623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-lee-texto-2596921.jpg' alt='Cómo configurar Windows para que te lea texto en pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-imita-apple-ya-no-incluira-cargador-nuevos-vehiculos-1046043'>Tesla imita a Apple y ya no incluirá el cargador con sus nuevos vehículos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-imita-apple-ya-no-incluira-cargador-nuevos-vehiculos-1046043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla imita a Apple y ya no incluirá el cargador con sus nuevos vehículos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403'>10 trucos para acelerar tu smartphone Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-trucos-acelerar-smartphone-android-1041403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/movil-mano-2668705.jpg' alt='10 trucos para acelerar tu smartphone Android' />
     </a>
 </div>
 
