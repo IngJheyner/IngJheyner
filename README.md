@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-movil-android-te-avise-escuchar-sonido-1030287'>Cómo hacer que tu móvil Android te avise al escuchar un sonido </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-movil-android-te-avise-escuchar-sonido-1030287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sonido-smrtphone-2648983.jpg' alt='Cómo hacer que tu móvil Android te avise al escuchar un sonido ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129'>Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713'>5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101'>La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-proof-of-stake-retraso-1046101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-fusion-ethereum-retrasa-meses-mineros-criptomonedas-respiran-aliviados-2676295.jpg' alt='La gran Fusión de Ethereum se retrasa unos meses y los mineros de criptomonedas respiran aliviados' />
     </a>
 </div>
 
