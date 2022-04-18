@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635'>Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-2677079.jpg' alt='Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627'>Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599'>La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial</a></h4>
     <a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/empleados-planta-ensamblado-iphone-china-2310633.jpg' alt='La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597'>Cada cuánto tiempo se tiene que cambiar el aceite de la freidora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-2676971.jpg' alt='Cada cuánto tiempo se tiene que cambiar el aceite de la freidora' />
     </a>
 </div>
 
