@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-llega-ps4-cientos-peliculas-series-gratis-1046565'>Pluto TV llega a PS4 con cientos de películas y series gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-llega-ps4-cientos-peliculas-series-gratis-1046565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Pluto TV llega a PS4 con cientos de películas y series gratis' />
+    <h4><a href='https://computerhoy.com/noticias/life/gran-reto-ciencia-posible-nueva-pandemia-bill-gates-1046485'>El gran reto de la ciencia ante una posible nueva pandemia, según Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gran-reto-ciencia-posible-nueva-pandemia-bill-gates-1046485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='El gran reto de la ciencia ante una posible nueva pandemia, según Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g52-ya-disponible-espana-pantalla-oled-90-hz-snapdragon-680-1046561'>El Motorola Moto G52 ya disponible en España: pantalla OLED a 90 Hz y Snapdragon 680</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g52-ya-disponible-espana-pantalla-oled-90-hz-snapdragon-680-1046561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/moto-g52-2676917.jpg' alt='El Motorola Moto G52 ya disponible en España: pantalla OLED a 90 Hz y Snapdragon 680' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-poco-f4-gt-nivel-global-1046585'>Ya tenemos fecha para la presentación del POCO F4 GT a nivel global</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-poco-f4-gt-nivel-global-1046585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-evento-2676941.jpg' alt='Ya tenemos fecha para la presentación del POCO F4 GT a nivel global' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/computacion-afectiva-como-ordenadores-pueden-interpretar-emociones-usarlas-como-input-1046483'>Computación Afectiva o cómo los ordenadores pueden interpretar nuestras emociones y usarlas como input</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/computacion-afectiva-como-ordenadores-pueden-interpretar-emociones-usarlas-como-input-1046483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/revoluciona-inteligencia-artificial-doblaje_0.jpg' alt='Computación Afectiva o cómo los ordenadores pueden interpretar nuestras emociones y usarlas como input' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-chivata-intel-avisa-profesor-cuando-aburren-no-entienden-algo-alumnos-clases-online-1046349'>La IA chivata de Intel que avisa al profesor de cuándo se aburren o no entienden algo los alumnos de clases online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-chivata-intel-avisa-profesor-cuando-aburren-no-entienden-algo-alumnos-clases-online-1046349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='La IA chivata de Intel que avisa al profesor de cuándo se aburren o no entienden algo los alumnos de clases online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-fitness-reloj-deportivo-polar-solo-69-euros-varios-colores-corre-vuelan-1046421'>Chollo fitness: un reloj deportivo de Polar por solo 69 euros en varios colores ¡corre, que vuelan!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-fitness-reloj-deportivo-polar-solo-69-euros-varios-colores-corre-vuelan-1046421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/polar-unite-2676639.jpg' alt='Chollo fitness: un reloj deportivo de Polar por solo 69 euros en varios colores ¡corre, que vuelan!' />
+    <h4><a href='https://computerhoy.com/noticias/temperatura-considera-tienes-fiebre-1046563'>A qué temperatura se considera que tienes fiebre</a></h4>
+    <a href='https://computerhoy.com/noticias/temperatura-considera-tienes-fiebre-1046563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/termometro-digital-braun-1898459.jpg' alt='A qué temperatura se considera que tienes fiebre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-productos-sorprendentemente-estan-baratos-hace-ano-1046439'>10 productos que sorprendentemente están más baratos que hace un año</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-productos-sorprendentemente-estan-baratos-hace-ano-1046439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carro-compra-2600055.jpg' alt='10 productos que sorprendentemente están más baratos que hace un año' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bascula-inteligente-realme-barata-xiaomi-gracias-oferta-amazon-1046387'>La báscula inteligente de realme, más barata que la de Xiaomi gracias a esta oferta de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bascula-inteligente-realme-barata-xiaomi-gracias-oferta-amazon-1046387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bascula-inteligente-realme-2676603.jpg' alt='La báscula inteligente de realme, más barata que la de Xiaomi gracias a esta oferta de Amazon' />
     </a>
 </div>
 
