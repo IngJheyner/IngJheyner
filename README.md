@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-roomba-menos-200-euros-1046729'>Un robot de limpieza Roomba por menos de 200 euros: no te frotes los ojos, un descuentazo lo hace posible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-roomba-menos-200-euros-1046729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpieza-roomba-menos-200-euros-no-te-frotes-ojos-descuentazo-hace-posible-2677281.jpg' alt='Un robot de limpieza Roomba por menos de 200 euros: no te frotes los ojos, un descuentazo lo hace posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-thor-love-and-thunder-1046723'>Viejos conocidos y una gran sorpresa en el esperado tráiler de Thor: Love and Thunder</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-thor-love-and-thunder-1046723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/diosa-trueno-guardianes-galaxia-regresan-trailer-thor-love-and-thunder-2677249.jpg' alt='Viejos conocidos y una gran sorpresa en el esperado tráiler de Thor: Love and Thunder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505'>Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/velocimetro-coche-2413421.jpg' alt='Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705'>Qubit Game, el juego de Google que te ayuda a entender la computación cuántica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qubit-game-2677197.jpg' alt='Qubit Game, el juego de Google que te ayuda a entender la computación cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-expulsar-agua-iphone-mojado-1046701'>El truco para extraer el agua de un iPhone mojado en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-expulsar-agua-iphone-mojado-1046701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/truco-expulsar-agua-iphone-mojado-segundos-2677193.jpg' alt='El truco para extraer el agua de un iPhone mojado en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693'>Netflix convertirá Exploding Kittens en un videojuego y también realizará su serie animada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-2677181.jpg' alt='Netflix convertirá Exploding Kittens en un videojuego y también realizará su serie animada' />
     </a>
 </div>
 
