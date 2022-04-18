@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-legales-repetidores-senal-movil-mejorar-cobertura-1046465'>¿Son legales los repetidores de señal móvil para mejorar la cobertura?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-legales-repetidores-senal-movil-mejorar-cobertura-1046465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/compartir-wifi-2458217.jpg' alt='¿Son legales los repetidores de señal móvil para mejorar la cobertura?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-windows-toolbox-supuestamente-instala-google-play-windows-11-pero-malware-peligroso-1046451'>Cuidado con Windows ToolBox, supuestamente instala Google Play en Windows 11 pero es malware peligroso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-windows-toolbox-supuestamente-instala-google-play-windows-11-pero-malware-peligroso-1046451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Cuidado con Windows ToolBox, supuestamente instala Google Play en Windows 11 pero es malware peligroso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soundcore-life-q30-auriculares-cancelacion-ruido-baratos-1046403'>Precio de escándalo para los Soundcore Life Q30: auriculares cómodos con cancelación de ruido por 79€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soundcore-life-q30-auriculares-cancelacion-ruido-baratos-1046403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438221.jpg' alt='Precio de escándalo para los Soundcore Life Q30: auriculares cómodos con cancelación de ruido por 79€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cifra-prohibida-bizum-evitar-problemas-hacienda-1046433'>La cifra prohibida en Bizum para evitar problemas con Hacienda</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cifra-prohibida-bizum-evitar-problemas-hacienda-1046433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg' alt='La cifra prohibida en Bizum para evitar problemas con Hacienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-litio-azufre-gran-descubrimiento-accidental-podria-cambiar-mundo-1046389'>Baterías de litio-azufre, el gran descubrimiento accidental que podría cambiar el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/baterias-litio-azufre-gran-descubrimiento-accidental-podria-cambiar-mundo-1046389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-fabrica-baterias-coches-electricos-2606579.jpg' alt='Baterías de litio-azufre, el gran descubrimiento accidental que podría cambiar el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/neil-degrasse-deja-clara-opinion-pluton-no-planeta-sistema-solar-1046393'>Neil deGrasse deja clara su opinión sobre si Plutón es o no un planeta del Sistema Solar</a></h4>
-    <a href='https://computerhoy.com/noticias/neil-degrasse-deja-clara-opinion-pluton-no-planeta-sistema-solar-1046393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/neil-degrasse-2676611.jpg' alt='Neil deGrasse deja clara su opinión sobre si Plutón es o no un planeta del Sistema Solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-rinde-qualcomm-snapdragon-7-gen-1-frente-generaciones-anteriores-chips-dimensity-mediatek-1046343'>Cómo rinde el Qualcomm Snapdragon 7 Gen 1 frente a generaciones anteriores y a chips Dimensity de MediaTek</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-rinde-qualcomm-snapdragon-7-gen-1-frente-generaciones-anteriores-chips-dimensity-mediatek-1046343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/qualcomm-snapdragon-2050873.jpg' alt='Cómo rinde el Qualcomm Snapdragon 7 Gen 1 frente a generaciones anteriores y a chips Dimensity de MediaTek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/papel-fabricado-piedras-frenara-tala-indiscriminada-arboles-1046361'>El papel fabricado con piedras que frenará la tala indiscriminada de árboles</a></h4>
-    <a href='https://computerhoy.com/noticias/papel-fabricado-piedras-frenara-tala-indiscriminada-arboles-1046361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/bosque-frondoso-1954885.jpg' alt='El papel fabricado con piedras que frenará la tala indiscriminada de árboles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/informe-afirma-elon-musk-privatizara-twitter-seria-incompatible-democracia-1046367'>Un informe afirma que si Elon Musk privatizara Twitter “sería incompatible con la democracia"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/informe-afirma-elon-musk-privatizara-twitter-seria-incompatible-democracia-1046367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Un informe afirma que si Elon Musk privatizara Twitter “sería incompatible con la democracia"' />
     </a>
 </div>
 
