@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497'>Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/triangulo-accidente-coche.jpg' alt='Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-te-puede-ocurrir-hacker-descubre-direccion-ip-1046663'>Esto es todo lo que te puede ocurrir si un hacker descubre tu dirección IP</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-te-puede-ocurrir-hacker-descubre-direccion-ip-1046663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='Esto es todo lo que te puede ocurrir si un hacker descubre tu dirección IP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423'>Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-pesandose-bascula-digital-2676845.jpg' alt='Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-pantalla-enrollable-transparente-samsung-estaria-desarrollo-1046649'>El teléfono con pantalla enrollable y transparente de Samsung estaría en desarrollo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-pantalla-enrollable-transparente-samsung-estaria-desarrollo-1046649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485883.jpg' alt='El teléfono con pantalla enrollable y transparente de Samsung estaría en desarrollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635'>Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-2677079.jpg' alt='Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627'>Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/little-signals-proyecto-google-hacer-organicas-notificaciones-casa-1046629'>Little Signals, el proyecto de Google para hacer más orgánicas las notificaciones en tu casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/little-signals-proyecto-google-hacer-organicas-notificaciones-casa-1046629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ambient-notifications-proyecto-google-hacer-organicas-notificaciones-casa-2677063.jpg' alt='Little Signals, el proyecto de Google para hacer más orgánicas las notificaciones en tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-1042799'>Los 7 mejores juegos gratuitos que hay para Android y que tienes que descargar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-1042799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-2676697.jpg' alt='Los 7 mejores juegos gratuitos que hay para Android y que tienes que descargar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599'>La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/empleados-planta-ensamblado-iphone-china-2310633.jpg' alt='La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial' />
     </a>
 </div>
 
