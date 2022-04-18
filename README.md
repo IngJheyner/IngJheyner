@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/3-meses-gratis-pc-game-pass-1046733'>Así puedes conseguir 3 meses gratis de PC Game Pass</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/3-meses-gratis-pc-game-pass-1046733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/puedes-conseguir-3-meses-gratis-pc-game-pass-2677287.jpg' alt='Así puedes conseguir 3 meses gratis de PC Game Pass' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-roomba-menos-200-euros-1046729'>Un robot de limpieza Roomba por menos de 200 euros: no te frotes los ojos, un descuentazo lo hace posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-roomba-menos-200-euros-1046729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpieza-roomba-menos-200-euros-no-te-frotes-ojos-descuentazo-hace-posible-2677281.jpg' alt='Un robot de limpieza Roomba por menos de 200 euros: no te frotes los ojos, un descuentazo lo hace posible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-cambia-avisar-productos-estrella-pero-no-consigue-enganar-redes-1046713'>Mercadona cambia sin avisar uno de sus productos estrella pero no consigue engañar a las redes</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-cambia-avisar-productos-estrella-pero-no-consigue-enganar-redes-1046713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tableta-chocolate-2677211.jpg' alt='Mercadona cambia sin avisar uno de sus productos estrella pero no consigue engañar a las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705'>Qubit Game, el juego de Google que te ayuda a entender la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qubit-game-2677197.jpg' alt='Qubit Game, el juego de Google que te ayuda a entender la computación cuántica' />
     </a>
 </div>
 
