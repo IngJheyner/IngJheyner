@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046311'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2676535.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-movil-android-te-avise-escuchar-sonido-1030287'>Cómo hacer que tu móvil Android te avise al escuchar un sonido </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-movil-android-te-avise-escuchar-sonido-1030287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sonido-smrtphone-2648983.jpg' alt='Cómo hacer que tu móvil Android te avise al escuchar un sonido ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107'>Este equipo de fútbol americano cambia el número de las camisetas por un código QR</a></h4>
     <a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-2676303.jpg' alt='Este equipo de fútbol americano cambia el número de las camisetas por un código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713'>5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-watch-s1-active-motivos-mejor-reloj-inteligente-1044713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648891.jpg' alt='5 motivos por los que el nuevo Xiaomi Watch S1 Active es el smartwatch que estabas buscando al mejor precio' />
     </a>
 </div>
 
