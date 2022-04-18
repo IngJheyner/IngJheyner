@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693'>Netflix convertirá un popular juego de cartas en un videojuego y también realizará su serie animada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-2677181.jpg' alt='Netflix convertirá un popular juego de cartas en un videojuego y también realizará su serie animada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-gmail-quiere-desconectes-correos-trabajo-1046681'>La nueva actualización de Gmail quiere que desconectes de los correos de trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-gmail-quiere-desconectes-correos-trabajo-1046681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/gmail-movil-ordenador-2468833.jpg' alt='La nueva actualización de Gmail quiere que desconectes de los correos de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497'>Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/triangulo-accidente-coche.jpg' alt='Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423'>Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini</a></h4>
     <a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-pesandose-bascula-digital-2676845.jpg' alt='Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-pantalla-enrollable-transparente-samsung-estaria-desarrollo-1046649'>El teléfono con pantalla enrollable y transparente de Samsung estaría en desarrollo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-pantalla-enrollable-transparente-samsung-estaria-desarrollo-1046649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485883.jpg' alt='El teléfono con pantalla enrollable y transparente de Samsung estaría en desarrollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635'>Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-1046635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telegram-actualiza-sonidos-notificaciones-personalizados-bots-completamente-renovados-2677079.jpg' alt='Telegram se actualiza con sonidos de notificaciones personalizados y bots completamente renovados' />
     </a>
 </div>
 
