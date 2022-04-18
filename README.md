@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ssd-1-tb-cuesta-menos-100-euros-puede-hacerte-olvidar-viejo-disco-duro-vez-todas-1046363'>Lo hemos probado: este SSD de 1 TB cuesta menos de 100 euros y puede hacerte olvidar tu viejo disco duro de una vez por todas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ssd-1-tb-cuesta-menos-100-euros-puede-hacerte-olvidar-viejo-disco-duro-vez-todas-1046363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/analisis-samsung-870-qvo-2003751.jpg' alt='Lo hemos probado: este SSD de 1 TB cuesta menos de 100 euros y puede hacerte olvidar tu viejo disco duro de una vez por todas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-litio-azufre-gran-descubrimiento-accidental-podria-cambiar-mundo-1046389'>Baterías de litio-azufre, el gran descubrimiento accidental que podría cambiar el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/baterias-litio-azufre-gran-descubrimiento-accidental-podria-cambiar-mundo-1046389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/quien-fabrica-baterias-coches-electricos-2606579.jpg' alt='Baterías de litio-azufre, el gran descubrimiento accidental que podría cambiar el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-civi-1s-snapdragon-778g-carga-rapida-67-w-1046357'>Xiaomi Civi 1S: Snapdragon 778G+ y carga rápida de 67 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-civi-1s-snapdragon-778g-carga-rapida-67-w-1046357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-civi-1s-2676583.jpg' alt='Xiaomi Civi 1S: Snapdragon 778G+ y carga rápida de 67 W' />
+    <h4><a href='https://computerhoy.com/noticias/neil-degrasse-deja-clara-opinion-pluton-no-planeta-sistema-solar-1046393'>Neil deGrasse deja clara su opinión sobre si Plutón es o no un planeta del Sistema Solar</a></h4>
+    <a href='https://computerhoy.com/noticias/neil-degrasse-deja-clara-opinion-pluton-no-planeta-sistema-solar-1046393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/neil-degrasse-2676611.jpg' alt='Neil deGrasse deja clara su opinión sobre si Plutón es o no un planeta del Sistema Solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/completo-reloj-inteligente-huawei-watch-gt-3-perfecto-deportistas-personas-quieran-cuidar-salud-ahora-oferta-1046121'>El completo reloj inteligente Huawei Watch GT 3, perfecto para deportistas y personas que quieran cuidar su salud, ahora está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/completo-reloj-inteligente-huawei-watch-gt-3-perfecto-deportistas-personas-quieran-cuidar-salud-ahora-oferta-1046121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585297.jpg' alt='El completo reloj inteligente Huawei Watch GT 3, perfecto para deportistas y personas que quieran cuidar su salud, ahora está en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-rinde-qualcomm-snapdragon-7-gen-1-frente-generaciones-anteriores-chips-dimensity-mediatek-1046343'>Cómo rinde el Qualcomm Snapdragon 7 Gen 1 frente a generaciones anteriores y a chips Dimensity de MediaTek</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-rinde-qualcomm-snapdragon-7-gen-1-frente-generaciones-anteriores-chips-dimensity-mediatek-1046343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/qualcomm-snapdragon-2050873.jpg' alt='Cómo rinde el Qualcomm Snapdragon 7 Gen 1 frente a generaciones anteriores y a chips Dimensity de MediaTek' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-solo-renovara-diseno-modelos-pro-iphone-14-otono-1046331'>Apple solo renovará diseño en los modelos Pro de iPhone 14 de este otoño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-solo-renovara-diseno-modelos-pro-iphone-14-otono-1046331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Apple solo renovará diseño en los modelos Pro de iPhone 14 de este otoño' />
+    <h4><a href='https://computerhoy.com/noticias/papel-fabricado-piedras-frenara-tala-indiscriminada-arboles-1046361'>El papel fabricado con piedras que frenará la tala indiscriminada de árboles</a></h4>
+    <a href='https://computerhoy.com/noticias/papel-fabricado-piedras-frenara-tala-indiscriminada-arboles-1046361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/bosque-frondoso-1954885.jpg' alt='El papel fabricado con piedras que frenará la tala indiscriminada de árboles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-reloj-inteligente-google-espera-google-i-11-mayo-ya-sabemos-detalles-1046131'>El primer reloj inteligente de Google se espera para el Google I/O el 11 de mayo y ya sabemos más detalles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-reloj-inteligente-google-espera-google-i-11-mayo-ya-sabemos-detalles-1046131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294087.jpg' alt='El primer reloj inteligente de Google se espera para el Google I/O el 11 de mayo y ya sabemos más detalles' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/informe-afirma-elon-musk-privatizara-twitter-seria-incompatible-democracia-1046367'>Un informe afirma que si Elon Musk privatizara Twitter “sería incompatible con la democracia"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/informe-afirma-elon-musk-privatizara-twitter-seria-incompatible-democracia-1046367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Un informe afirma que si Elon Musk privatizara Twitter “sería incompatible con la democracia"' />
     </a>
 </div>
 
