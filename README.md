@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gran-reto-ciencia-posible-nueva-pandemia-bill-gates-1046485'>El gran reto de la ciencia ante una posible nueva pandemia, según Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gran-reto-ciencia-posible-nueva-pandemia-bill-gates-1046485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='El gran reto de la ciencia ante una posible nueva pandemia, según Bill Gates' />
+    <h4><a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599'>La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/empleados-planta-ensamblado-iphone-china-2310633.jpg' alt='La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-poco-f4-gt-nivel-global-1046585'>Ya tenemos fecha para la presentación del POCO F4 GT a nivel global</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-poco-f4-gt-nivel-global-1046585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-evento-2676941.jpg' alt='Ya tenemos fecha para la presentación del POCO F4 GT a nivel global' />
+    <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597'>Cada cuánto tiempo se tiene que cambiar el aceite de la freidora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-2676971.jpg' alt='Cada cuánto tiempo se tiene que cambiar el aceite de la freidora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-chivata-intel-avisa-profesor-cuando-aburren-no-entienden-algo-alumnos-clases-online-1046349'>La IA chivata de Intel que avisa al profesor de cuándo se aburren o no entienden algo los alumnos de clases online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-chivata-intel-avisa-profesor-cuando-aburren-no-entienden-algo-alumnos-clases-online-1046349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='La IA chivata de Intel que avisa al profesor de cuándo se aburren o no entienden algo los alumnos de clases online' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-sigue-dando-ejemplo-completando-lista-moviles-actualizan-android-12-1046603'>La compañía realme sigue dando ejemplo completando la lista de móviles que actualizan a Android 12</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-sigue-dando-ejemplo-completando-lista-moviles-actualizan-android-12-1046603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/realme-ui-30-2501041.jpg' alt='La compañía realme sigue dando ejemplo completando la lista de móviles que actualizan a Android 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/temperatura-considera-tienes-fiebre-1046563'>A qué temperatura se considera que tienes fiebre</a></h4>
-    <a href='https://computerhoy.com/noticias/temperatura-considera-tienes-fiebre-1046563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/termometro-digital-braun-1898459.jpg' alt='A qué temperatura se considera que tienes fiebre' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-da-error-actualizar-tranquilo-microsoft-nos-dice-como-solucionarlo-1046509'>Si Windows 11 te da error al actualizar, tranquilo, Microsoft nos dice cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-da-error-actualizar-tranquilo-microsoft-nos-dice-como-solucionarlo-1046509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Si Windows 11 te da error al actualizar, tranquilo, Microsoft nos dice cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bascula-inteligente-realme-barata-xiaomi-gracias-oferta-amazon-1046387'>La báscula inteligente de realme, más barata que la de Xiaomi gracias a esta oferta de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bascula-inteligente-realme-barata-xiaomi-gracias-oferta-amazon-1046387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bascula-inteligente-realme-2676603.jpg' alt='La báscula inteligente de realme, más barata que la de Xiaomi gracias a esta oferta de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-necesitas-disfrutar-netflix-demas-servicios-streaming-1046581'>Qué internet necesitas para disfrutar de Netflix y demás servicios de streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/internet-necesitas-disfrutar-netflix-demas-servicios-streaming-1046581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Qué internet necesitas para disfrutar de Netflix y demás servicios de streaming' />
     </a>
 </div>
 
