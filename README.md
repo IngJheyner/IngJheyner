@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-solo-renovara-diseno-modelos-pro-iphone-14-otono-1046331'>Apple solo renovará diseño en los modelos Pro de iPhone 14 de este otoño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-solo-renovara-diseno-modelos-pro-iphone-14-otono-1046331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Apple solo renovará diseño en los modelos Pro de iPhone 14 de este otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-reloj-inteligente-google-espera-google-i-11-mayo-ya-sabemos-detalles-1046131'>El primer reloj inteligente de Google se espera para el Google I/O el 11 de mayo y ya sabemos más detalles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-reloj-inteligente-google-espera-google-i-11-mayo-ya-sabemos-detalles-1046131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294087.jpg' alt='El primer reloj inteligente de Google se espera para el Google I/O el 11 de mayo y ya sabemos más detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046311'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2676535.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129'>Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-lg-oled-4k-55-pulgadas-dolby-vision-oferta-1046129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Este televisor LG OLED 4K de 55 pulgadas con Dolby Vision baja a 829 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123'>Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tiktoker-revela-truco-calvicie-6-anos-usar-champu-1046123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktoker-revela-truco-evito-quedarse-calvo-6-anos-usar-champu-2676309.jpg' alt='Tiktoker revela el truco con el que evitó quedarse calvo: 6 años sin usar champú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107'>Este equipo de fútbol americano cambia el número de las camisetas por un código QR</a></h4>
-    <a href='https://computerhoy.com/noticias/life/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-1046107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/equipo-futbol-americano-cambia-numero-camisetas-codigo-qr-2676303.jpg' alt='Este equipo de fútbol americano cambia el número de las camisetas por un código QR' />
     </a>
 </div>
 
