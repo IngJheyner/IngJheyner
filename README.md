@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693'>Netflix convertirá un popular juego de cartas en un videojuego y también realizará su serie animada</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505'>Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/velocimetro-coche-2413421.jpg' alt='Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-cambia-avisar-productos-estrella-pero-no-consigue-enganar-redes-1046713'>Mercadona cambia sin avisar uno de sus productos estrella pero no consigue engañar a las redes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-cambia-avisar-productos-estrella-pero-no-consigue-enganar-redes-1046713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tableta-chocolate-2677211.jpg' alt='Mercadona cambia sin avisar uno de sus productos estrella pero no consigue engañar a las redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705'>Qubit Game, el juego de Google que te ayuda a entender la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qubit-game-juego-google-te-ayuda-entender-computacion-cuantica-1046705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/qubit-game-2677197.jpg' alt='Qubit Game, el juego de Google que te ayuda a entender la computación cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-expulsar-agua-iphone-mojado-1046701'>El truco para extraer el agua de un iPhone mojado en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-expulsar-agua-iphone-mojado-1046701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/truco-expulsar-agua-iphone-mojado-segundos-2677193.jpg' alt='El truco para extraer el agua de un iPhone mojado en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693'>Netflix convertirá Exploding Kittens en un videojuego y también realizará su serie animada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-1046693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-2677181.jpg' alt='Netflix convertirá un popular juego de cartas en un videojuego y también realizará su serie animada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-gmail-quiere-desconectes-correos-trabajo-1046681'>La nueva actualización de Gmail quiere que desconectes de los correos de trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-gmail-quiere-desconectes-correos-trabajo-1046681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/gmail-movil-ordenador-2468833.jpg' alt='La nueva actualización de Gmail quiere que desconectes de los correos de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497'>Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funciona-caja-negra-obligatoria-partir-verano-todos-coches-nuevos-1046497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/triangulo-accidente-coche.jpg' alt='Así funciona la caja negra obligatoria a partir de este verano en todos los coches nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-te-puede-ocurrir-hacker-descubre-direccion-ip-1046663'>Esto es todo lo que te puede ocurrir si un hacker descubre tu dirección IP</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-te-puede-ocurrir-hacker-descubre-direccion-ip-1046663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='Esto es todo lo que te puede ocurrir si un hacker descubre tu dirección IP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423'>Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/basculas-inteligentes-operacion-bikini-1046423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-pesandose-bascula-digital-2676845.jpg' alt='Si te has pasado con las torrijas, estas básculas inteligentes te ayudarán a superar la operación bikini' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-convertira-popular-juego-cartas-videojuego-tambien-realizara-serie-animada-2677181.jpg' alt='Netflix convertirá Exploding Kittens en un videojuego y también realizará su serie animada' />
     </a>
 </div>
 
