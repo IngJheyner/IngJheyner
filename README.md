@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627'>Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-google-pixel-6-pro-no-estas-recibiendo-llamadas-podria-ser-motivo-1046627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Si tienes un Google Pixel 6 Pro y no estás recibiendo llamadas, este podría ser el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/little-signals-proyecto-google-hacer-organicas-notificaciones-casa-1046629'>Little Signals, el proyecto de Google para hacer más orgánicas las notificaciones en tu casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/little-signals-proyecto-google-hacer-organicas-notificaciones-casa-1046629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ambient-notifications-proyecto-google-hacer-organicas-notificaciones-casa-2677063.jpg' alt='Little Signals, el proyecto de Google para hacer más orgánicas las notificaciones en tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-1042799'>Los 7 mejores juegos gratuitos que hay para Android y que tienes que descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-1042799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/7-mejores-juegos-gratuitos-hay-android-tienes-descargar-ya-mismo-2676697.jpg' alt='Los 7 mejores juegos gratuitos que hay para Android y que tienes que descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599'>La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial</a></h4>
     <a href='https://computerhoy.com/noticias/industria/guerra-ucrania-desvia-atencion-nueva-gran-amenaza-economia-mundial-1046599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/empleados-planta-ensamblado-iphone-china-2310633.jpg' alt='La guerra de Ucrania desvía la atención sobre una nueva gran amenaza para la economía mundial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597'>Cada cuánto tiempo se tiene que cambiar el aceite de la freidora</a></h4>
     <a href='https://computerhoy.com/noticias/life/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-1046597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cada-cuanto-tiempo-tiene-cambiar-aceite-freidora-2676971.jpg' alt='Cada cuánto tiempo se tiene que cambiar el aceite de la freidora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-realme-sigue-dando-ejemplo-completando-lista-moviles-actualizan-android-12-1046603'>La compañía realme sigue dando ejemplo completando la lista de móviles que actualizan a Android 12</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-realme-sigue-dando-ejemplo-completando-lista-moviles-actualizan-android-12-1046603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/realme-ui-30-2501041.jpg' alt='La compañía realme sigue dando ejemplo completando la lista de móviles que actualizan a Android 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-da-error-actualizar-tranquilo-microsoft-nos-dice-como-solucionarlo-1046509'>Si Windows 11 te da error al actualizar, tranquilo, Microsoft nos dice cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-te-da-error-actualizar-tranquilo-microsoft-nos-dice-como-solucionarlo-1046509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Si Windows 11 te da error al actualizar, tranquilo, Microsoft nos dice cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-necesitas-disfrutar-netflix-demas-servicios-streaming-1046581'>Qué internet necesitas para disfrutar de Netflix y demás servicios de streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/internet-necesitas-disfrutar-netflix-demas-servicios-streaming-1046581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Qué internet necesitas para disfrutar de Netflix y demás servicios de streaming' />
     </a>
 </div>
 
