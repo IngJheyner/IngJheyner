@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-llega-ps4-cientos-peliculas-series-gratis-1046565'>Pluto TV llega a PS4 con cientos de películas y series gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-llega-ps4-cientos-peliculas-series-gratis-1046565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Pluto TV llega a PS4 con cientos de películas y series gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g52-ya-disponible-espana-pantalla-oled-90-hz-snapdragon-680-1046561'>El Motorola Moto G52 ya disponible en España: pantalla OLED a 90 Hz y Snapdragon 680</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g52-ya-disponible-espana-pantalla-oled-90-hz-snapdragon-680-1046561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/moto-g52-2676917.jpg' alt='El Motorola Moto G52 ya disponible en España: pantalla OLED a 90 Hz y Snapdragon 680' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/computacion-afectiva-como-ordenadores-pueden-interpretar-emociones-usarlas-como-input-1046483'>Computación Afectiva o cómo los ordenadores pueden interpretar nuestras emociones y usarlas como input</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/computacion-afectiva-como-ordenadores-pueden-interpretar-emociones-usarlas-como-input-1046483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/revoluciona-inteligencia-artificial-doblaje_0.jpg' alt='Computación Afectiva o cómo los ordenadores pueden interpretar nuestras emociones y usarlas como input' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-fitness-reloj-deportivo-polar-solo-69-euros-varios-colores-corre-vuelan-1046421'>Chollo fitness: un reloj deportivo de Polar por solo 69 euros en varios colores ¡corre, que vuelan!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-fitness-reloj-deportivo-polar-solo-69-euros-varios-colores-corre-vuelan-1046421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/polar-unite-2676639.jpg' alt='Chollo fitness: un reloj deportivo de Polar por solo 69 euros en varios colores ¡corre, que vuelan!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/10-productos-sorprendentemente-estan-baratos-hace-ano-1046439'>10 productos que sorprendentemente están más baratos que hace un año</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-productos-sorprendentemente-estan-baratos-hace-ano-1046439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/carro-compra-2600055.jpg' alt='10 productos que sorprendentemente están más baratos que hace un año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339'>WhatsApp Web: cómo funciona, trucos y consejos de WhatsApp para ordenador</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-sacale-maximo-partido-estos-trucos-420339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/whatsapp%20web_0.jpg' alt='WhatsApp Web: cómo funciona, trucos y consejos de WhatsApp para ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-legales-repetidores-senal-movil-mejorar-cobertura-1046465'>¿Son legales los repetidores de señal móvil para mejorar la cobertura?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-legales-repetidores-senal-movil-mejorar-cobertura-1046465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/compartir-wifi-2458217.jpg' alt='¿Son legales los repetidores de señal móvil para mejorar la cobertura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-windows-toolbox-supuestamente-instala-google-play-windows-11-pero-malware-peligroso-1046451'>Cuidado con Windows ToolBox, supuestamente instala Google Play en Windows 11 pero es malware peligroso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-windows-toolbox-supuestamente-instala-google-play-windows-11-pero-malware-peligroso-1046451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Cuidado con Windows ToolBox, supuestamente instala Google Play en Windows 11 pero es malware peligroso' />
     </a>
 </div>
 
