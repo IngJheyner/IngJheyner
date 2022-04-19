@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389'>Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desvelan-contenidos-suscriptores-han-dado-disney-ganador-te-va-sorprender-2607133.jpg' alt='Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381'>Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-instinct-esports-primer-smartwatch-gamers-tiene-29-descuento-2678509.jpg' alt='Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349'>Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-hp-spectre-x360-2550377.jpg' alt='Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365'>WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta' />
     </a>
 </div>
 
