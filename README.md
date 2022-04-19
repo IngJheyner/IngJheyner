@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393'>Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389'>Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desvelan-contenidos-suscriptores-han-dado-disney-ganador-te-va-sorprender-2607133.jpg' alt='Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159'>Dormir mucho podría ser peor para tu salud que dormir poco</a></h4>
     <a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dormir-sofa-2373373.jpg' alt='Dormir mucho podría ser peor para tu salud que dormir poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349'>Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-hp-spectre-x360-2550377.jpg' alt='Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable' />
     </a>
 </div>
 
