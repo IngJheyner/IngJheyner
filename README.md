@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241'>A qué casa de Hogwarts perteneces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/casa-hogwarts-perteneces-2678177.jpg' alt='A qué casa de Hogwarts perteneces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-1047187'>El juego más vendido de la historia llega a los cines, con Jason Momoa como protagonista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-1047187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-2678071.jpg' alt='El juego más vendido de la historia llega a los cines, con Jason Momoa como protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205'>Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nearby-share-2677997.jpg' alt='Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141'>Los tres primeros modelos de lentilla inteligente que llegarán al mercado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desarrolla-primera-lentilla-verdaderamente-inteligente-mundo-2669733.jpg' alt='Los tres primeros modelos de lentilla inteligente que llegarán al mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-direccion-ip-mi-pc-1047167'>Cómo saber la dirección IP de mi PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-direccion-ip-mi-pc-1047167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Cómo saber la dirección IP de mi PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117'>Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-2677843.jpg' alt='Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago' />
     </a>
 </div>
 
