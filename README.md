@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267'>Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241'>A qué casa de Hogwarts perteneces</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/casa-hogwarts-perteneces-2678177.jpg' alt='A qué casa de Hogwarts perteneces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199'>Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/logitech-lift-2677987.jpg' alt='Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141'>Los tres primeros modelos de lentilla inteligente que llegarán al mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desarrolla-primera-lentilla-verdaderamente-inteligente-mundo-2669733.jpg' alt='Los tres primeros modelos de lentilla inteligente que llegarán al mercado' />
     </a>
 </div>
 
