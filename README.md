@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041'>Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-2677621.jpg' alt='Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065'>Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-arena-2677671.jpg' alt='Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-precio-derribo-estuche-magsafe-199-euros-estos-son-originales-1046997'>Los AirPods Pro, a precio de derribo con estuche MagSafe: por 199 euros, y estos sí que son originales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-precio-derribo-estuche-magsafe-199-euros-estos-son-originales-1046997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airpods-pro-2677577.jpg' alt='Los AirPods Pro, a precio de derribo con estuche MagSafe: por 199 euros, y estos sí que son originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alarma-antirrobo-bicis-patinetes-alertara-todo-barrio-intentan-tocarla-cuesta-menos-20-euros-1046683'>Esta alarma antirrobo para bicis y patinetes alertará a todo el barrio si intentan tocarla y cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alarma-antirrobo-bicis-patinetes-alertara-todo-barrio-intentan-tocarla-cuesta-menos-20-euros-1046683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-aparcada-poste-senal-ciudad-2677179.jpg' alt='Esta alarma antirrobo para bicis y patinetes alertará a todo el barrio si intentan tocarla y cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021'>Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-parece-resolver-errores-extendidos-1046999'>Android Auto 7.6 parece resolver uno de los errores que más extendidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-parece-resolver-errores-extendidos-1046999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Android Auto 7.6 parece resolver uno de los errores que más extendidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-permite-etiquetar-productos-publicaciones-ello-implica-1047015'>Instagram ya permite etiquetar productos en sus publicaciones y lo que ello implica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-permite-etiquetar-productos-publicaciones-ello-implica-1047015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-compras-2677591.jpg' alt='Instagram ya permite etiquetar productos en sus publicaciones y lo que ello implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-ultrasonidos-destruyen-tumores-nueva-arma-cancer-1046993'>Los ultrasonidos que destruyen tumores: nueva y efectiva arma contra el cáncer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-ultrasonidos-destruyen-tumores-nueva-arma-cancer-1046993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conjunto-ultrasonidos-histotripsia-desarrollado-equipo-universidad-michigan-atacar-tumores-2677575.jpg' alt='Los ultrasonidos que destruyen tumores: nueva y efectiva arma contra el cáncer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965'>Así funcionarán las encuestas en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/encuestas-whatsapp-2677513.jpg' alt='Así funcionarán las encuestas en WhatsApp' />
     </a>
 </div>
 
