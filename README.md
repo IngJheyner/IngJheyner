@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-efecto-secundario-champinones-dieta-1046941'>El sorprendente efecto secundario descubierto al añadir champiñones a tu dieta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sorprendente-efecto-secundario-champinones-dieta-1046941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sorprendente-efecto-secundario-descubierto-anadir-champinones-dieta-2677493.jpg' alt='El sorprendente efecto secundario descubierto al añadir champiñones a tu dieta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/green-launch-satelites-orbita-canonazos-video-1046743'>Esta empresa va a poner satélites en órbita... a cañonazos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/green-launch-satelites-orbita-canonazos-video-1046743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empresa-va-poner-satelites-orbita-canonazos-video-2677305.jpg' alt='Esta empresa va a poner satélites en órbita... a cañonazos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-thor-love-and-thunder-1046723'>Viejos conocidos y una gran sorpresa en el esperado tráiler de Thor: Love and Thunder</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trailer-thor-love-and-thunder-1046723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/diosa-trueno-guardianes-galaxia-regresan-trailer-thor-love-and-thunder-2677249.jpg' alt='Viejos conocidos y una gran sorpresa en el esperado tráiler de Thor: Love and Thunder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505'>Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/velocimetros-coches-llegan-240-km-h-ilegal-circular-esa-velocidad-1046505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/velocimetro-coche-2413421.jpg' alt='Por qué los velocímetros de los coches llegan a más de 240 km/h si es ilegal circular a esa velocidad' />
     </a>
 </div>
 
