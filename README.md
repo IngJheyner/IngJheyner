@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373'>HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159'>Dormir mucho podría ser peor para tu salud que dormir poco</a></h4>
+    <a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dormir-sofa-2373373.jpg' alt='Dormir mucho podría ser peor para tu salud que dormir poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349'>Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-hp-tendria-manos-portatil-pantalla-plegable-1047349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-hp-spectre-x360-2550377.jpg' alt='Los últimos rumores apuntan a que HP tendría entre manos un portátil con pantalla plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365'>WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359'>Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/abora-panel-solar-hibrido-mas-eficiente-1047357'>El panel solar más eficiente del mundo es híbrido, y se fabrica en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/abora-panel-solar-hibrido-mas-eficiente-1047357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/panel-solar-eficiente-mundo-hibrido-fabrica-espana-2678441.jpg' alt='El panel solar más eficiente del mundo es híbrido, y se fabrica en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/evolucion-mercado-automocion-chino-copiar-crear-coches-top-1047155'>La evolución del mercado de automoción chino: de copiar a crear coches top</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/evolucion-mercado-automocion-chino-copiar-crear-coches-top-1047155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='La evolución del mercado de automoción chino: de copiar a crear coches top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-no-obligatorio-usar-mascarilla-interiores-salvo-estas-ocasiones-1047347'>Ya no es obligatorio usar mascarilla en interiores salvo en estas ocasiones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-no-obligatorio-usar-mascarilla-interiores-salvo-estas-ocasiones-1047347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mascarillas-ffp2-2239629.jpg' alt='Ya no es obligatorio usar mascarilla en interiores salvo en estas ocasiones' />
     </a>
 </div>
 
