@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-detectar-peligroso-phishing-relacionado-renta-2020-21-denunciado-guardia-civil-1047325'>Cómo detectar el peligroso phishing relacionado con la Renta 2020/21 denunciado por la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-detectar-peligroso-phishing-relacionado-renta-2020-21-denunciado-guardia-civil-1047325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2299113.jpg' alt='Cómo detectar el peligroso phishing relacionado con la Renta 2020/21 denunciado por la Guardia Civil' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365'>WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprovecha-oferta-portatil-i5-19-kg-peso-menos-500-euros-1046443'>Aprovecha esta oferta: portátil con i5 y 1,9 kg de peso por menos de 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aprovecha-oferta-portatil-i5-19-kg-peso-menos-500-euros-1046443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-s15449-2676671.jpg' alt='Aprovecha esta oferta: portátil con i5 y 1,9 kg de peso por menos de 500 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359'>Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-redmi-poco-actualizaran-android-13-ellos-1047293'>Móviles Xiaomi, Redmi y Poco que se actualizarán a Android 13: ¿es el tuyo uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-redmi-poco-actualizaran-android-13-ellos-1047293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Móviles Xiaomi, Redmi y Poco que se actualizarán a Android 13: ¿es el tuyo uno de ellos?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/abora-panel-solar-hibrido-mas-eficiente-1047357'>El panel solar más eficiente del mundo es híbrido, y se fabrica en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/abora-panel-solar-hibrido-mas-eficiente-1047357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/panel-solar-eficiente-mundo-hibrido-fabrica-espana-2678441.jpg' alt='El panel solar más eficiente del mundo es híbrido, y se fabrica en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297'>Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo' />
+    <h4><a href='https://computerhoy.com/noticias/motor/evolucion-mercado-automocion-chino-copiar-crear-coches-top-1047155'>La evolución del mercado de automoción chino: de copiar a crear coches top</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/evolucion-mercado-automocion-chino-copiar-crear-coches-top-1047155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='La evolución del mercado de automoción chino: de copiar a crear coches top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267'>Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/noticias/life/ya-no-obligatorio-usar-mascarilla-interiores-salvo-estas-ocasiones-1047347'>Ya no es obligatorio usar mascarilla en interiores salvo en estas ocasiones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-no-obligatorio-usar-mascarilla-interiores-salvo-estas-ocasiones-1047347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mascarillas-ffp2-2239629.jpg' alt='Ya no es obligatorio usar mascarilla en interiores salvo en estas ocasiones' />
     </a>
 </div>
 
