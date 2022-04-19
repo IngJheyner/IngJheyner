@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965'>Así funcionan las encuestas en WhatsApp</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021'>Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-parece-resolver-errores-extendidos-1046999'>Android Auto 7.6 parece resolver uno de los errores que más extendidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-parece-resolver-errores-extendidos-1046999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Android Auto 7.6 parece resolver uno de los errores que más extendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-permite-etiquetar-productos-publicaciones-ello-implica-1047015'>Instagram ya permite etiquetar productos en sus publicaciones y lo que ello implica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ya-permite-etiquetar-productos-publicaciones-ello-implica-1047015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-compras-2677591.jpg' alt='Instagram ya permite etiquetar productos en sus publicaciones y lo que ello implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-ultrasonidos-destruyen-tumores-nueva-arma-cancer-1046993'>Los ultrasonidos que destruyen tumores: nueva y efectiva arma contra el cáncer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-ultrasonidos-destruyen-tumores-nueva-arma-cancer-1046993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conjunto-ultrasonidos-histotripsia-desarrollado-equipo-universidad-michigan-atacar-tumores-2677575.jpg' alt='Los ultrasonidos que destruyen tumores: nueva y efectiva arma contra el cáncer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965'>Así funcionarán las encuestas en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/encuestas-whatsapp-2677513.jpg' alt='Así funcionan las encuestas en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tercera-temporada-love-death-and-robots-llegara-netflix-mucho-antes-esperado-1046967'>La tercera temporada de Love, Death and Robots llegará a Netflix mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tercera-temporada-love-death-and-robots-llegara-netflix-mucho-antes-esperado-1046967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/love-death-and-robots-serie-netflix.jpg' alt='La tercera temporada de Love, Death and Robots llegará a Netflix mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345'>Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-10c-2676563.jpg' alt='Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dale-descanso-ojos-monitor-27-pulgadas-curvo-huawei-mateview-gt-27-ahora-rebajado-1046125'>Dale un descanso a tus ojos con el monitor de 27 pulgadas curvo Huawei MateView GT 27 ahora que está rebajado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dale-descanso-ojos-monitor-27-pulgadas-curvo-huawei-mateview-gt-27-ahora-rebajado-1046125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-mateview-gt-27-2624207.jpg' alt='Dale un descanso a tus ojos con el monitor de 27 pulgadas curvo Huawei MateView GT 27 ahora que está rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521'>Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/arcade.jpg' alt='Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/encuestas-whatsapp-2677513.jpg' alt='Así funcionarán las encuestas en WhatsApp' />
     </a>
 </div>
 
