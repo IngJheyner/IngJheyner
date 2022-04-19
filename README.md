@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-velocidad-potente-rapido-portatil-huawei-matebook-d-15-descuento-200-euros-1046115'>Consigue más velocidad con este potente y rápido portátil Huawei MateBook D 15 con un descuento de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-velocidad-potente-rapido-portatil-huawei-matebook-d-15-descuento-200-euros-1046115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huawei-matebook-d-15-2021-2294189.jpg' alt='Consigue más velocidad con este potente y rápido portátil Huawei MateBook D 15 con un descuento de 200 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345'>Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-10c-2676563.jpg' alt='Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046945'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1046945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2677499.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dale-descanso-ojos-monitor-27-pulgadas-curvo-huawei-mateview-gt-27-ahora-rebajado-1046125'>Dale un descanso a tus ojos con el monitor de 27 pulgadas curvo Huawei MateView GT 27 ahora que está rebajado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dale-descanso-ojos-monitor-27-pulgadas-curvo-huawei-mateview-gt-27-ahora-rebajado-1046125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-mateview-gt-27-2624207.jpg' alt='Dale un descanso a tus ojos con el monitor de 27 pulgadas curvo Huawei MateView GT 27 ahora que está rebajado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-deshumidificadores-inteligentes-alexa-google-1046671'>Deshumidificadores inteligentes: estos son los mejores que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-deshumidificadores-inteligentes-alexa-google-1046671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ventana-abierta-condensacion-cristales-2677171.jpg' alt='Deshumidificadores inteligentes: estos son los mejores que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521'>Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/arcade.jpg' alt='Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sorprendente-efecto-secundario-champinones-dieta-1046941'>El sorprendente efecto secundario descubierto al añadir champiñones a tu dieta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sorprendente-efecto-secundario-champinones-dieta-1046941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sorprendente-efecto-secundario-descubierto-anadir-champinones-dieta-2677493.jpg' alt='El sorprendente efecto secundario descubierto al añadir champiñones a tu dieta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-matepad-11-oferta-329eu-ademas-tiene-lapiz-digital-sacar-artista-tomar-notas-rapidas-1046119'>Esta tablet Huawei MatePad 11 está en oferta por 329€ y además tiene un lápiz digital para sacar tu artista o tomar notas rápidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-matepad-11-oferta-329eu-ademas-tiene-lapiz-digital-sacar-artista-tomar-notas-rapidas-1046119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-11-2624177.jpg' alt='Esta tablet Huawei MatePad 11 está en oferta por 329€ y además tiene un lápiz digital para sacar tu artista o tomar notas rápidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/green-launch-satelites-orbita-canonazos-video-1046743'>Esta empresa va a poner satélites en órbita... a cañonazos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/green-launch-satelites-orbita-canonazos-video-1046743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/empresa-va-poner-satelites-orbita-canonazos-video-2677305.jpg' alt='Esta empresa va a poner satélites en órbita... a cañonazos (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/motor/3-coches-retro-volvieron-fueron-fracaso-1046511'>Los 3 coches retro que volvieron y fueron un fracaso</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/3-coches-retro-volvieron-fueron-fracaso-1046511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mujer-conduciendo-coche-retrovisor-2490283.jpg' alt='Los 3 coches retro que volvieron y fueron un fracaso' />
     </a>
 </div>
 
