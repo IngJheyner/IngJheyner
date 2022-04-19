@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-a96-snapdragon-680-camara-50-mpx-carga-rapida-33-w-1047109'>Así es el nuevo Oppo A96: Snapdragon 680, cámara de 50 Mpx y carga rápida de 33 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-a96-snapdragon-680-camara-50-mpx-carga-rapida-33-w-1047109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-a96-2677717.jpeg' alt='Así es el nuevo Oppo A96: Snapdragon 680, cámara de 50 Mpx y carga rápida de 33 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencilla-funcion-sorprendentemente-nunca-volveras-ver-windows-1047003'>La sencilla función que sorprendentemente nunca volverás a ver en Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencilla-funcion-sorprendentemente-nunca-volveras-ver-windows-1047003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='La sencilla función que sorprendentemente nunca volverás a ver en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-ahorrar-bateria-mientras-utilizas-whatsapp-1047097'>Trucos rápidos para ahorrar batería mientras utilizas WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-ahorrar-bateria-mientras-utilizas-whatsapp-1047097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Trucos rápidos para ahorrar batería mientras utilizas WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041'>Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-2677621.jpg' alt='Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065'>Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-arena-2677671.jpg' alt='Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-precio-derribo-estuche-magsafe-199-euros-estos-son-originales-1046997'>Los AirPods Pro, a precio de derribo con estuche MagSafe: por 199 euros, y estos sí que son originales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-precio-derribo-estuche-magsafe-199-euros-estos-son-originales-1046997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airpods-pro-2677577.jpg' alt='Los AirPods Pro, a precio de derribo con estuche MagSafe: por 199 euros, y estos sí que son originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alarma-antirrobo-bicis-patinetes-alertara-todo-barrio-intentan-tocarla-cuesta-menos-20-euros-1046683'>Esta alarma antirrobo para bicis y patinetes alertará a todo el barrio si intentan tocarla y cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alarma-antirrobo-bicis-patinetes-alertara-todo-barrio-intentan-tocarla-cuesta-menos-20-euros-1046683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bicicleta-aparcada-poste-senal-ciudad-2677179.jpg' alt='Esta alarma antirrobo para bicis y patinetes alertará a todo el barrio si intentan tocarla y cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021'>Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocurriria-elon-musk-lugar-comprar-twitter-abandona-1047021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Qué ocurriría si Elon Musk en lugar de comprar Twitter, lo abandona' />
     </a>
 </div>
 
