@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-a96-snapdragon-680-camara-50-mpx-carga-rapida-33-w-1047109'>Así es el nuevo Oppo A96: Snapdragon 680, cámara de 50 Mpx y carga rápida de 33 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-a96-snapdragon-680-camara-50-mpx-carga-rapida-33-w-1047109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-a96-2677717.jpeg' alt='Así es el nuevo Oppo A96: Snapdragon 680, cámara de 50 Mpx y carga rápida de 33 W' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141'>Los tres primeros modelos de lentilla inteligente que llegarán al mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desarrolla-primera-lentilla-verdaderamente-inteligente-mundo-2669733.jpg' alt='Los tres primeros modelos de lentilla inteligente que llegarán al mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencilla-funcion-sorprendentemente-nunca-volveras-ver-windows-1047003'>La sencilla función que sorprendentemente nunca volverás a ver en Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencilla-funcion-sorprendentemente-nunca-volveras-ver-windows-1047003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='La sencilla función que sorprendentemente nunca volverás a ver en Windows' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-direccion-ip-mi-pc-1047167'>Cómo saber la dirección IP de mi PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-direccion-ip-mi-pc-1047167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Cómo saber la dirección IP de mi PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-ahorrar-bateria-mientras-utilizas-whatsapp-1047097'>Trucos rápidos para ahorrar batería mientras utilizas WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-rapidos-ahorrar-bateria-mientras-utilizas-whatsapp-1047097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Trucos rápidos para ahorrar batería mientras utilizas WhatsApp' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117'>Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-2677843.jpg' alt='Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041'>Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-1047041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-une-ediciones-especiales-smartphones-version-pokemon-galaxy-z-flip-3-2677621.jpg' alt='Samsung se une a las ediciones especiales de smartphones con su versión Pokemon del Galaxy Z Flip 3' />
+    <h4><a href='https://computerhoy.com/noticias/life/cable-usb-3-1-cargar-cualquier-dispositivos-coche-casa-1047145'>El cable USB 3 en 1 con el que cargar cualquier dispositivos en el coche o en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cable-usb-3-1-cargar-cualquier-dispositivos-coche-casa-1047145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-coche-2541057.jpg' alt='El cable USB 3 en 1 con el que cargar cualquier dispositivos en el coche o en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065'>Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-experiencia-movil-vr-amantes-nba-tambien-compatible-iphone-1047065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-arena-2677671.jpg' alt='Google lanza una experiencia móvil VR para los amantes de la NBA, también compatible con iPhone' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-minimo-historico-samsung-galaxy-s20-fe-128-gb-1047053'>Precio mínimo histórico para este Samsung Galaxy S20 FE con 128 GB: llévatelo a casa por solo 380€ y con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-minimo-historico-samsung-galaxy-s20-fe-128-gb-1047053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-galaxy-s20-fe-5g-2182267.jpg' alt='Precio mínimo histórico para este Samsung Galaxy S20 FE con 128 GB: llévatelo a casa por solo 380€ y con envío gratis' />
     </a>
 </div>
 
