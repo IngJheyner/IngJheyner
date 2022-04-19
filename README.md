@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381'>Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-instinct-esports-primer-smartwatch-gamers-tiene-29-descuento-2678509.jpg' alt='Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373'>HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365'>WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anade-nueva-funcion-sorprendentemente-no-tenia-nadie-habia-dado-cuenta-1047365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='WhatsApp añade una nueva función que sorprendentemente no tenía y nadie se había dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359'>Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fecha-elon-musk-todos-tendremos-robot-humanoide-casa-1047359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='Esta es la fecha en la que según Elon Musk todos tendremos un robot humanoide en casa' />
     </a>
 </div>
 
