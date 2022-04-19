@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965'>Así funcionan las encuestas en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcionan-encuestas-whatsapp-1046965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/encuestas-whatsapp-2677513.jpg' alt='Así funcionan las encuestas en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tercera-temporada-love-death-and-robots-llegara-netflix-mucho-antes-esperado-1046967'>La tercera temporada de Love, Death and Robots llegará a Netflix mucho antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tercera-temporada-love-death-and-robots-llegara-netflix-mucho-antes-esperado-1046967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/love-death-and-robots-serie-netflix.jpg' alt='La tercera temporada de Love, Death and Robots llegará a Netflix mucho antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345'>Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rebajado-nuevo-redmi-xiaomi-10c-ahora-tiene-oferta-lanzamiento-temporal-1046345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-10c-2676563.jpg' alt='Rebajado el nuevo Redmi de Xiaomi, el 10C, que por ahora tiene una oferta de lanzamiento temporal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521'>Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/te-gustan-maquinas-recreativas-paraiso-comunidad-madrid-1046521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/arcade.jpg' alt='Si te gustan las máquinas recreativas... tu paraíso está en la comunidad de Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-matepad-11-oferta-329eu-ademas-tiene-lapiz-digital-sacar-artista-tomar-notas-rapidas-1046119'>Esta tablet Huawei MatePad 11 está en oferta por 329€ y además tiene un lápiz digital para sacar tu artista o tomar notas rápidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-huawei-matepad-11-oferta-329eu-ademas-tiene-lapiz-digital-sacar-artista-tomar-notas-rapidas-1046119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-11-2624177.jpg' alt='Esta tablet Huawei MatePad 11 está en oferta por 329€ y además tiene un lápiz digital para sacar tu artista o tomar notas rápidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/3-coches-retro-volvieron-fueron-fracaso-1046511'>Los 3 coches retro que volvieron y fueron un fracaso</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/3-coches-retro-volvieron-fueron-fracaso-1046511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mujer-conduciendo-coche-retrovisor-2490283.jpg' alt='Los 3 coches retro que volvieron y fueron un fracaso' />
     </a>
 </div>
 
