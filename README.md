@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205'>Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nearby-share-2677997.jpg' alt='Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199'>Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/logitech-lift-2677987.jpg' alt='Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141'>Los tres primeros modelos de lentilla inteligente que llegarán al mercado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tres-primeros-modelos-lentilla-inteligente-llegaran-mercado-1047141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/desarrolla-primera-lentilla-verdaderamente-inteligente-mundo-2669733.jpg' alt='Los tres primeros modelos de lentilla inteligente que llegarán al mercado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117'>Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-1047117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-quiere-recuperar-antiguo-google-wallet-incluir-nuevas-funciones-actual-sistema-pago-2677843.jpg' alt='Google quiere recuperar el antiguo Google Wallet para incluir nuevas funciones en su actual sistema de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cable-usb-3-1-cargar-cualquier-dispositivos-coche-casa-1047145'>El cable USB 3 en 1 con el que cargar cualquier dispositivos en el coche o en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cable-usb-3-1-cargar-cualquier-dispositivos-coche-casa-1047145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargador-usb-coche-2541057.jpg' alt='El cable USB 3 en 1 con el que cargar cualquier dispositivos en el coche o en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-minimo-historico-samsung-galaxy-s20-fe-128-gb-1047053'>Precio mínimo histórico para este Samsung Galaxy S20 FE con 128 GB: llévatelo a casa por solo 380€ y con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-minimo-historico-samsung-galaxy-s20-fe-128-gb-1047053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-galaxy-s20-fe-5g-2182267.jpg' alt='Precio mínimo histórico para este Samsung Galaxy S20 FE con 128 GB: llévatelo a casa por solo 380€ y con envío gratis' />
     </a>
 </div>
 
