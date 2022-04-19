@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297'>Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267'>Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205'>Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nearby-share-google-cada-vez-cerca-convertirse-equivalente-airdrop-android-1047205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nearby-share-2677997.jpg' alt='Nearby Share de Google cada vez más cerca de convertirse en el equivalente de AirDrop para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199'>Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-lift-raton-ergonomico-oficina-pensado-trabajar-casa-1047199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/logitech-lift-2677987.jpg' alt='Logitech Lift: el ratón ergonómico de oficina pensado para trabajar en casa' />
     </a>
 </div>
 
