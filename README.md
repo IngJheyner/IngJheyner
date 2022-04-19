@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-detectar-peligroso-phishing-relacionado-renta-2020-21-denunciado-guardia-civil-1047325'>Cómo detectar el peligroso phishing relacionado con la Renta 2020/21 denunciado por la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-detectar-peligroso-phishing-relacionado-renta-2020-21-denunciado-guardia-civil-1047325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/declaracion-renta-2299113.jpg' alt='Cómo detectar el peligroso phishing relacionado con la Renta 2020/21 denunciado por la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprovecha-oferta-portatil-i5-19-kg-peso-menos-500-euros-1046443'>Aprovecha esta oferta: portátil con i5 y 1,9 kg de peso por menos de 500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aprovecha-oferta-portatil-i5-19-kg-peso-menos-500-euros-1046443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-s15449-2676671.jpg' alt='Aprovecha esta oferta: portátil con i5 y 1,9 kg de peso por menos de 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-redmi-poco-actualizaran-android-13-ellos-1047293'>Móviles Xiaomi, Redmi y Poco que se actualizarán a Android 13: ¿es el tuyo uno de ellos?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moviles-xiaomi-redmi-poco-actualizaran-android-13-ellos-1047293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Móviles Xiaomi, Redmi y Poco que se actualizarán a Android 13: ¿es el tuyo uno de ellos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267'>Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-busca-revolucionar-sector-movil-usando-tecnologia-baterias-apilables-coches-electricos-1047267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung busca revolucionar el sector móvil usando la tecnología de baterías apilables de los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241'>A qué casa de Hogwarts perteneces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/casa-hogwarts-perteneces-1047241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/casa-hogwarts-perteneces-2678177.jpg' alt='A qué casa de Hogwarts perteneces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-1047187'>El juego más vendido de la historia llega a los cines, con Jason Momoa como protagonista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-1047187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/juego-vendido-historia-llega-cines-jason-momoa-como-protagonista-2678071.jpg' alt='El juego más vendido de la historia llega a los cines, con Jason Momoa como protagonista' />
     </a>
 </div>
 
