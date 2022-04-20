@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-ebooks-epub-lector-alternativo-kindle-perfecto-cuesta-solo-79-euros-1047107'>Si quieres leer ebooks en EPUB, este lector alternativo al Kindle es perfecto y cuesta solo 79 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-ebooks-epub-lector-alternativo-kindle-perfecto-cuesta-solo-79-euros-1047107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/woxter-scriba-195-paperlight-2677761.jpg' alt='Si quieres leer ebooks en EPUB, este lector alternativo al Kindle es perfecto y cuesta solo 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-columbia-desarrolla-metodo-dispositivos-no-puedan-espiarte-microfono-1047661'>La Universidad de Columbia desarrolla un método para que tus dispositivos no puedan espiarte con el micrófono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/universidad-columbia-desarrolla-metodo-dispositivos-no-puedan-espiarte-microfono-1047661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/oficio-espia-2207175.jpg' alt='La Universidad de Columbia desarrolla un método para que tus dispositivos no puedan espiarte con el micrófono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diccionario-fbi-jerga-internet-83-paginas-definiciones-abreviaturas-1047633'>El diccionario del FBI sobre la jerga de Internet, 83 páginas de definiciones y abreviaturas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diccionario-fbi-jerga-internet-83-paginas-definiciones-abreviaturas-1047633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario.jpg' alt='El diccionario del FBI sobre la jerga de Internet, 83 páginas de definiciones y abreviaturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-asume-debe-cambiar-anuncia-fin-contrasenas-compartidas-tarifa-barata-anuncios-1047629'>Netflix asume que debe cambiar y anuncia el fin de las contraseñas compartidas y una tarifa más barata con anuncios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-asume-debe-cambiar-anuncia-fin-contrasenas-compartidas-tarifa-barata-anuncios-1047629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Netflix asume que debe cambiar y anuncia el fin de las contraseñas compartidas y una tarifa más barata con anuncios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037'>16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-tg01-1107ns-2677619.jpg' alt='16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/10-peliculas-todo-mundo-decanta-personaje-malo-1047179'>10 películas en las que todo el mundo se decanta por el personaje malo</a></h4>
-    <a href='https://computerhoy.com/reportajes/10-peliculas-todo-mundo-decanta-personaje-malo-1047179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/joker.jpg' alt='10 películas en las que todo el mundo se decanta por el personaje malo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173'>Los coches más caros de 2022... caros de millones de euros</a></h4>
-    <a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fabian-oefner-fotografo-desintegra-coches-deportivos-2346265.jpg' alt='Los coches más caros de 2022... caros de millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2678747.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
