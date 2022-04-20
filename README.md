@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-asume-debe-cambiar-anuncia-fin-contrasenas-compartidas-tarifa-barata-anuncios-1047629'>Netflix asume que debe cambiar y anuncia el fin de las contraseñas compartidas y una tarifa más barata con anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-asume-debe-cambiar-anuncia-fin-contrasenas-compartidas-tarifa-barata-anuncios-1047629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Netflix asume que debe cambiar y anuncia el fin de las contraseñas compartidas y una tarifa más barata con anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037'>16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-tg01-1107ns-2677619.jpg' alt='16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2678747.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253'>Sigue el Xiaomi Fan Festival: estos son sus mejores chollos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-fan-festival-segunda-ronda-2678357.jpg' alt='Sigue el Xiaomi Fan Festival: estos son sus mejores chollos' />
     </a>
 </div>
 
