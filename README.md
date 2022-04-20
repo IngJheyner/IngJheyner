@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sigue-movimientos-tropas-rusas-ucrania-gracias-airpods-robaron-1047733'>Sigue los movimientos de las tropas rusas en Ucrania gracias a los AirPods que le robaron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sigue-movimientos-tropas-rusas-ucrania-gracias-airpods-robaron-1047733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Sigue los movimientos de las tropas rusas en Ucrania gracias a los AirPods que le robaron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/supermercados-tiendas-mantienen-mascarillas-solo-empleados-tambien-clientes-1047731'>Supermercados y tiendas que mantienen las mascarillas: ¿solo para empleados o también clientes?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/supermercados-tiendas-mantienen-mascarillas-solo-empleados-tambien-clientes-1047731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/supermercado.jpg' alt='Supermercados y tiendas que mantienen las mascarillas: ¿solo para empleados o también clientes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-dispositivo-perfecto-separar-galletas-oreo-1047701'>Científicos crean el dispositivo perfecto para separar galletas Oreo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-dispositivo-perfecto-separar-galletas-oreo-1047701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-crean-dispositivo-perfecto-separar-galletas-oreo-2678881.jpg' alt='Científicos crean el dispositivo perfecto para separar galletas Oreo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-llevar-movil-coche-peligro-multas-dgt-1047699'>Cómo llevar el móvil en el coche sin peligro a las multas de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/como-llevar-movil-coche-peligro-multas-dgt-1047699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ugreen-soporte-movil-coche-2555563.jpg' alt='Cómo llevar el móvil en el coche sin peligro a las multas de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-ebooks-epub-lector-alternativo-kindle-perfecto-cuesta-solo-79-euros-1047107'>Si quieres leer ebooks en EPUB, este lector alternativo al Kindle es perfecto y cuesta solo 79 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-ebooks-epub-lector-alternativo-kindle-perfecto-cuesta-solo-79-euros-1047107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/woxter-scriba-195-paperlight-2677761.jpg' alt='Si quieres leer ebooks en EPUB, este lector alternativo al Kindle es perfecto y cuesta solo 79 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-columbia-desarrolla-metodo-dispositivos-no-puedan-espiarte-microfono-1047661'>La Universidad de Columbia desarrolla un método para que tus dispositivos no puedan espiarte con el micrófono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/universidad-columbia-desarrolla-metodo-dispositivos-no-puedan-espiarte-microfono-1047661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/oficio-espia-2207175.jpg' alt='La Universidad de Columbia desarrolla un método para que tus dispositivos no puedan espiarte con el micrófono' />
     </a>
 </div>
 
