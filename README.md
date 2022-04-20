@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979'>Científicos avisan: los mensajes de NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993'>Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975'>VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/faq-vlc_2.jpg' alt='VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979'>Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-avisan-mensajes-nasa-ubicacion-tierra-podrian-llevar-invasion-alienigena-2679649.jpg' alt='Científicos avisan: los mensajes de NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-avisan-mensajes-nasa-ubicacion-tierra-podrian-llevar-invasion-alienigena-2679649.jpg' alt='Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967'>Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-suscripcion-pago-aunque-no-debes-preocuparte-momento-1047961'>WhatsApp prepara una suscripción de pago aunque no debes preocuparte de momento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-suscripcion-pago-aunque-no-debes-preocuparte-momento-1047961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-pago-2679617.jpg' alt='WhatsApp prepara una suscripción de pago aunque no debes preocuparte de momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697'>Dyson Week: liquidación en aspiradoras, secadores y ventiladores </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-cyclone-v10-2356197.jpg' alt='Dyson Week: liquidación en aspiradoras, secadores y ventiladores ' />
     </a>
 </div>
 
