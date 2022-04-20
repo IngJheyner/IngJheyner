@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015'>Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/original-maquina-remo-agua-lidl-plegable-arrasa-ventas-2679759.jpg' alt='Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005'>Cómo escuchar las canciones de tu ordenador a través de Spotify</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-escuchar-canciones-ordenador-traves-spotify-2679715.jpg' alt='Cómo escuchar las canciones de tu ordenador a través de Spotify' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979'>Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-avisan-mensajes-nasa-ubicacion-tierra-podrian-llevar-invasion-alienigena-2679649.jpg' alt='Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965'>Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-palillos-2679627.jpg' alt='Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal' />
     </a>
 </div>
 
