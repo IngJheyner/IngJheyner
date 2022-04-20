@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005'>Cómo escuchar las canciones de tu ordenador a través de Spotify</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-escuchar-canciones-ordenador-traves-spotify-2679715.jpg' alt='Cómo escuchar las canciones de tu ordenador a través de Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993'>Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965'>Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-palillos-2679627.jpg' alt='Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967'>Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa' />
     </a>
 </div>
 
