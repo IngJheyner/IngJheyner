@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037'>16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-intel-core-i7-grafica-rtx-pc-gaming-te-dara-quieres-precio-muy-rebajado-1047037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-pavilion-gaming-tg01-1107ns-2677619.jpg' alt='16 GB de RAM, Intel Core i7 y gráfica RTX: este PC Gaming sí que te dará lo que quieres, y a precio muy rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/10-peliculas-todo-mundo-decanta-personaje-malo-1047179'>10 películas en las que todo el mundo se decanta por el personaje malo</a></h4>
+    <a href='https://computerhoy.com/reportajes/10-peliculas-todo-mundo-decanta-personaje-malo-1047179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/joker.jpg' alt='10 películas en las que todo el mundo se decanta por el personaje malo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173'>Los coches más caros de 2022... caros de millones de euros</a></h4>
     <a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fabian-oefner-fotografo-desintegra-coches-deportivos-2346265.jpg' alt='Los coches más caros de 2022... caros de millones de euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253'>Sigue el Xiaomi Fan Festival: estos son sus mejores chollos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-fan-festival-segunda-ronda-2678357.jpg' alt='Sigue el Xiaomi Fan Festival: estos son sus mejores chollos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605'>6 alimentos que reducen los efectos de la alergia primaveral</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-alimentos-reducen-efectos-alergia-primaveral-2678745.jpg' alt='6 alimentos que reducen los efectos de la alergia primaveral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393'>Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza' />
     </a>
 </div>
 
