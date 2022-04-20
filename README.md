@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/siete-formas-exterminar-hormigas-casas-usar-productos-quimicos-1047805'>Siete formas de exterminar las hormigas de las casas sin usar productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/siete-formas-exterminar-hormigas-casas-usar-productos-quimicos-1047805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='Siete formas de exterminar las hormigas de las casas sin usar productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nord-20-5g-ultimo-oneplus-ciertas-luces-sombras-dentro-segmento-1047747'>Nord 20 5G, lo último de OnePlus: con ciertas luces y sombras dentro de su segmento</a></h4>
     <a href='https://computerhoy.com/noticias/nord-20-5g-ultimo-oneplus-ciertas-luces-sombras-dentro-segmento-1047747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-20-5g-2679049.jpg' alt='Nord 20 5G, lo último de OnePlus: con ciertas luces y sombras dentro de su segmento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-gaming-tiene-ram-portatil-16-gb-ahora-cuesta-menos-mitad-1046537'>Este móvil gaming tiene más RAM que un portátil: 16 GB, y ahora cuesta menos de la mitad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-gaming-tiene-ram-portatil-16-gb-ahora-cuesta-menos-mitad-1046537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lenovo-legion-phone-duel-analisis-opinion-2248703.jpg' alt='Este móvil gaming tiene más RAM que un portátil: 16 GB, y ahora cuesta menos de la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trampas-android-auto-casi-todo-mundo-cae-1047707'>Trampas de Android Auto en las que casi todo el mundo cae</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trampas-android-auto-casi-todo-mundo-cae-1047707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Trampas de Android Auto en las que casi todo el mundo cae' />
     </a>
 </div>
 
