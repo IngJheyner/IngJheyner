@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173'>Los coches más caros de 2022... caros de millones de euros</a></h4>
+    <a href='https://computerhoy.com/noticias/coches-caros-2022-caros-millones-euros-1047173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/fabian-oefner-fotografo-desintegra-coches-deportivos-2346265.jpg' alt='Los coches más caros de 2022... caros de millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1047607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2678747.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253'>Sigue el Xiaomi Fan Festival: estos son sus mejores chollos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/ofertas-segunda-vuelta-xiaomi-fan-festival-1047253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-fan-festival-segunda-ronda-2678357.jpg' alt='Sigue el Xiaomi Fan Festival: estos son sus mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605'>6 alimentos que reducen los efectos de la alergia primaveral</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-alimentos-reducen-efectos-alergia-primaveral-2678745.jpg' alt='6 alimentos que reducen los efectos de la alergia primaveral' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393'>Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza</a></h4>
     <a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389'>Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/episodios-desaparecen-disney-plus-1047389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/desvelan-contenidos-suscriptores-han-dado-disney-ganador-te-va-sorprender-2607133.jpg' alt='Están desapareciendo episodios en Disney+ de una gran cantidad de series, Disney explica lo que ocurre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381'>Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/garmin-instinct-esports-primer-smartwatch-gamers-descuento-1047381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-instinct-esports-primer-smartwatch-gamers-tiene-29-descuento-2678509.jpg' alt='Garmin Instinct Esports, el primer smartwatch para gamers, tiene un 29% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373'>HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito' />
     </a>
 </div>
 
