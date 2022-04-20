@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979'>Científicos avisan: los mensajes de NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-avisan-mensajes-nasa-ubicacion-tierra-podrian-llevar-invasion-alienigena-2679649.jpg' alt='Científicos avisan: los mensajes de NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965'>Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-palillos-inteligentes-hacen-comida-sea-sabrosa-necesidad-anadir-sal-1047965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-palillos-2679627.jpg' alt='Crean unos palillos inteligentes que hacen que la comida sea más sabrosa sin necesidad de añadir sal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967'>Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697'>Dyson Week: liquidación en aspiradoras, secadores y ventiladores </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-cyclone-v10-2356197.jpg' alt='Dyson Week: liquidación en aspiradoras, secadores y ventiladores ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-queria-destronar-twitter-fin-tiene-aplicacion-oficial-play-store-1047933'>La red social que quería destronar a Twitter por fin tiene aplicación oficial en la Play Store</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/red-social-queria-destronar-twitter-fin-tiene-aplicacion-oficial-play-store-1047933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/movil-aplicacion-twitter-2337081.jpg' alt='La red social que quería destronar a Twitter por fin tiene aplicación oficial en la Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923'>El primer iPhone todopantalla no llegaría hasta 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='El primer iPhone todopantalla no llegaría hasta 2024' />
     </a>
 </div>
 
