@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/siete-formas-exterminar-hormigas-casas-usar-productos-quimicos-1047805'>Siete formas de exterminar las hormigas de las casas sin usar productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/siete-formas-exterminar-hormigas-casas-usar-productos-quimicos-1047805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/4-formas-acabar-plagas-hormigas-usando-productos-naturales-2634503.jpg' alt='Siete formas de exterminar las hormigas de las casas sin usar productos químicos' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841'>Cuál es el río más largo del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rio-2679177.jpg' alt='Cuál es el río más largo del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nord-20-5g-ultimo-oneplus-ciertas-luces-sombras-dentro-segmento-1047747'>Nord 20 5G, lo último de OnePlus: con ciertas luces y sombras dentro de su segmento</a></h4>
-    <a href='https://computerhoy.com/noticias/nord-20-5g-ultimo-oneplus-ciertas-luces-sombras-dentro-segmento-1047747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-20-5g-2679049.jpg' alt='Nord 20 5G, lo último de OnePlus: con ciertas luces y sombras dentro de su segmento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-analiza-como-toses-determinara-mediante-machine-learning-tienes-covid-1047835'>La aplicación móvil que analiza cómo toses y determinará, mediante machine learning, si tienes COVID</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-analiza-como-toses-determinara-mediante-machine-learning-tienes-covid-1047835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/resapp-portada-2679129.jpg' alt='La aplicación móvil que analiza cómo toses y determinará, mediante machine learning, si tienes COVID' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-pixel-watch-diseno-completamente-circular-integracion-fitbit-wearos-31-1047745'>El smartwatch Pixel Watch con diseño completamente circular, integración con Fitbit y wearOS 3.1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-pixel-watch-diseno-completamente-circular-integracion-fitbit-wearos-31-1047745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-pixel-watch-2294087.jpg' alt='El smartwatch Pixel Watch con diseño completamente circular, integración con Fitbit y wearOS 3.1' />
+    <h4><a href='https://computerhoy.com/noticias/life/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-1047767'>El secreto para evitar la artritis y la gota está en unos nanocuerpos que generan las llamas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-1047767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-2678997.jpg' alt='El secreto para evitar la artritis y la gota está en unos nanocuerpos que generan las llamas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-selfies-iphone-14-mejorara-notablemente-tendra-autofoco-mayor-apertura-ultima-filtracion-1047769'>La cámara de selfies del iPhone 14 mejorará notablemente: tendrá autofoco y una mayor apertura según una última filtración</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-selfies-iphone-14-mejorara-notablemente-tendra-autofoco-mayor-apertura-ultima-filtracion-1047769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-pro-azul-2580969.jpg' alt='La cámara de selfies del iPhone 14 mejorará notablemente: tendrá autofoco y una mayor apertura según una última filtración' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aliexpress-2507463.jpg' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-gaming-tiene-ram-portatil-16-gb-ahora-cuesta-menos-mitad-1046537'>Este móvil gaming tiene más RAM que un portátil: 16 GB, y ahora cuesta menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-gaming-tiene-ram-portatil-16-gb-ahora-cuesta-menos-mitad-1046537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lenovo-legion-phone-duel-analisis-opinion-2248703.jpg' alt='Este móvil gaming tiene más RAM que un portátil: 16 GB, y ahora cuesta menos de la mitad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alldocube-iwork-gt-clon-ipad-pro-pero-core-i5-windows-11-ya-puedes-comprar-1047681'>ALLDOCUBE iWork GT: así es el clon del iPad Pro pero con Core i5 y Windows 11 que ya puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alldocube-iwork-gt-clon-ipad-pro-pero-core-i5-windows-11-ya-puedes-comprar-1047681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alldocube-iwork-gt-2678847.jpg' alt='ALLDOCUBE iWork GT: así es el clon del iPad Pro pero con Core i5 y Windows 11 que ya puedes comprar' />
     </a>
 </div>
 
