@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967'>Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-no-son-unicos-critican-netflix-elon-musk-suma-causa-1047967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Los usuarios no son los únicos que critican a Netflix, Elon Musk se suma a la causa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-suscripcion-pago-aunque-no-debes-preocuparte-momento-1047961'>WhatsApp prepara una suscripción de pago aunque no debes preocuparte de momento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-suscripcion-pago-aunque-no-debes-preocuparte-momento-1047961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-pago-2679617.jpg' alt='WhatsApp prepara una suscripción de pago aunque no debes preocuparte de momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697'>Dyson Week: liquidación en aspiradoras, secadores y ventiladores </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dyson-week-liquidacion-aspiradoras-secadores-ventiladores-1047697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-cyclone-v10-2356197.jpg' alt='Dyson Week: liquidación en aspiradoras, secadores y ventiladores ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-social-queria-destronar-twitter-fin-tiene-aplicacion-oficial-play-store-1047933'>La red social que quería destronar a Twitter por fin tiene aplicación oficial en la Play Store</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-social-queria-destronar-twitter-fin-tiene-aplicacion-oficial-play-store-1047933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/movil-aplicacion-twitter-2337081.jpg' alt='La red social que quería destronar a Twitter por fin tiene aplicación oficial en la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923'>El primer iPhone todopantalla no llegaría hasta 2024</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='El primer iPhone todopantalla no llegaría hasta 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-completo-diseno-moto-edge-30-junto-precio-euros-1047919'>Se filtra al completo el diseño del Moto Edge 30 junto con su precio en euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-completo-diseno-moto-edge-30-junto-precio-euros-1047919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669405.jpg' alt='Se filtra al completo el diseño del Moto Edge 30 junto con su precio en euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-tecnicas-piratas-burlar-mejoras-ciberseguridad-1047903'>Estas son las nuevas técnicas de los piratas para burlar las mejoras en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-tecnicas-piratas-burlar-mejoras-ciberseguridad-1047903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/microsoft-presenta-agnus-tecnologia-blockchain-ofrecer-recompensas-quienes-denuncien-piratas-forma-anonima-2440725.jpg' alt='Estas son las nuevas técnicas de los piratas para burlar las mejoras en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-1047889'>Renfe utiliza un iPhone de hace 10 años para presentar la nueva imagen de AVE</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-1047889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-2679361.jpg' alt='Renfe utiliza un iPhone de hace 10 años para presentar la nueva imagen de AVE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-grande-mundo-1047877'>Cuál es el país más grande del mundo    </a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-grande-mundo-1047877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='Cuál es el país más grande del mundo    ' />
     </a>
 </div>
 
