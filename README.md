@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-anuncia-mayo-lleno-cine-buen-patron-otros-grandes-titulos-1047867'>Movistar+ anuncia un mayo lleno de cine con El buen patrón y otros grandes títulos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-anuncia-mayo-lleno-cine-buen-patron-otros-grandes-titulos-1047867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/buen-patron-2679301.jpg' alt='Movistar+ anuncia un mayo lleno de cine con El buen patrón y otros grandes títulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841'>Cuál es el río más largo del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rio-2679177.jpg' alt='Cuál es el río más largo del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aliexpress-2507463.jpg' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alldocube-iwork-gt-clon-ipad-pro-pero-core-i5-windows-11-ya-puedes-comprar-1047681'>ALLDOCUBE iWork GT: así es el clon del iPad Pro pero con Core i5 y Windows 11 que ya puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alldocube-iwork-gt-clon-ipad-pro-pero-core-i5-windows-11-ya-puedes-comprar-1047681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alldocube-iwork-gt-2678847.jpg' alt='ALLDOCUBE iWork GT: así es el clon del iPad Pro pero con Core i5 y Windows 11 que ya puedes comprar' />
     </a>
 </div>
 
