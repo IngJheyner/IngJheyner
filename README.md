@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021'>Más de la mitad de los norteamericanos abandonarían Internet si pudiesen</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mitad-norteamericanos-abandonarian-internet-pudiesen-2679765.jpg' alt='Más de la mitad de los norteamericanos abandonarían Internet si pudiesen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015'>Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas</a></h4>
     <a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/original-maquina-remo-agua-lidl-plegable-arrasa-ventas-2679759.jpg' alt='Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975'>VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/faq-vlc_2.jpg' alt='VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979'>Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-avisan-mensajes-nasa-ubicacion-tierra-invasion-alienigena-1047979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cientificos-avisan-mensajes-nasa-ubicacion-tierra-podrian-llevar-invasion-alienigena-2679649.jpg' alt='Científicos avisan: los mensajes interestelares de la NASA con la ubicación de la Tierra podrían llevar a una invasión alienígena' />
     </a>
 </div>
 
