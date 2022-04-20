@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605'>6 alimentos que reducen los efectos de la alergia primaveral</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-alimentos-reducen-efectos-alergia-primaveral-1047605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-alimentos-reducen-efectos-alergia-primaveral-2678745.jpg' alt='6 alimentos que reducen los efectos de la alergia primaveral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393'>Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza</a></h4>
     <a href='https://computerhoy.com/noticias/life/ataud-viviente-fabricado-hongos-living-cocoon-1047393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='Este Ataúd Viviente se fabrica con hongos: convierte el cuerpo en nutrientes para fundirse con la Naturaleza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373'>HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-vive-aumento-suscriptores-3-claves-exito-1047373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hbo-max-vive-aumento-suscriptores-estas-son-3-claves-exito-2678499.jpg' alt='HBO Max vive un aumento de suscriptores: estas son las 3 claves de su éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159'>Dormir mucho podría ser peor para tu salud que dormir poco</a></h4>
-    <a href='https://computerhoy.com/noticias/dormir-mucho-podria-ser-peor-salud-dormir-poco-1047159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dormir-sofa-2373373.jpg' alt='Dormir mucho podría ser peor para tu salud que dormir poco' />
     </a>
 </div>
 
