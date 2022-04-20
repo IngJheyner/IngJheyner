@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/movistar-anuncia-mayo-lleno-cine-buen-patron-otros-grandes-titulos-1047867'>Movistar+ anuncia un mayo lleno de cine con El buen patrón y otros grandes títulos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/movistar-anuncia-mayo-lleno-cine-buen-patron-otros-grandes-titulos-1047867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/buen-patron-2679301.jpg' alt='Movistar+ anuncia un mayo lleno de cine con El buen patrón y otros grandes títulos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923'>El primer iPhone todopantalla no llegaría hasta 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-iphone-todopantalla-no-llegaria-2024-1047923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='El primer iPhone todopantalla no llegaría hasta 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841'>Cuál es el río más largo del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-rio-largo-mundo-1047841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rio-2679177.jpg' alt='Cuál es el río más largo del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-completo-diseno-moto-edge-30-junto-precio-euros-1047919'>Se filtra al completo el diseño del Moto Edge 30 junto con su precio en euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-completo-diseno-moto-edge-30-junto-precio-euros-1047919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669405.jpg' alt='Se filtra al completo el diseño del Moto Edge 30 junto con su precio en euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-analiza-como-toses-determinara-mediante-machine-learning-tienes-covid-1047835'>La aplicación móvil que analiza cómo toses y determinará, mediante machine learning, si tienes COVID</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-movil-analiza-como-toses-determinara-mediante-machine-learning-tienes-covid-1047835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/resapp-portada-2679129.jpg' alt='La aplicación móvil que analiza cómo toses y determinará, mediante machine learning, si tienes COVID' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-tecnicas-piratas-burlar-mejoras-ciberseguridad-1047903'>Estas son las nuevas técnicas de los piratas para burlar las mejoras en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-tecnicas-piratas-burlar-mejoras-ciberseguridad-1047903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/microsoft-presenta-agnus-tecnologia-blockchain-ofrecer-recompensas-quienes-denuncien-piratas-forma-anonima-2440725.jpg' alt='Estas son las nuevas técnicas de los piratas para burlar las mejoras en ciberseguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-1047767'>El secreto para evitar la artritis y la gota está en unos nanocuerpos que generan las llamas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-1047767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/secreto-evitar-artritis-gota-nanocuerpos-generan-llamas-2678997.jpg' alt='El secreto para evitar la artritis y la gota está en unos nanocuerpos que generan las llamas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-1047889'>Renfe utiliza un iPhone de hace 10 años para presentar la nueva imagen de AVE</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-1047889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renfe-utiliza-iphone-hace-10-anos-presentar-nueva-imagen-ave-2679361.jpg' alt='Renfe utiliza un iPhone de hace 10 años para presentar la nueva imagen de AVE' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aliexpress-2507463.jpg' alt='Guía para comprar en AliExpress en 2022: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-grande-mundo-1047877'>Cuál es el país más grande del mundo    </a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-grande-mundo-1047877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='Cuál es el país más grande del mundo    ' />
     </a>
 </div>
 
