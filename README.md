@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407'>Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-jupitor-2602133.jpg' alt='Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363'>Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-2680227.jpg' alt='Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-increible-redmi-note-11-nuevo-movil-xiaomi-hemos-probado-volvera-arrasar-2022-1046475'>Precio increíble en el Redmi Note 11, el nuevo móvil de Xiaomi que hemos probado y que volverá a arrasar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-increible-redmi-note-11-nuevo-movil-xiaomi-hemos-probado-volvera-arrasar-2022-1046475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643043.jpg' alt='Precio increíble en el Redmi Note 11, el nuevo móvil de Xiaomi que hemos probado y que volverá a arrasar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699'>El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg' alt='El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373'>Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/juicio-pone-espada-pared-apple-no-incluir-cargador-movil-1048381'>Un juicio pone entre la espada y la pared a Apple por no incluir cargador con su móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/juicio-pone-espada-pared-apple-no-incluir-cargador-movil-1048381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Un juicio pone entre la espada y la pared a Apple por no incluir cargador con su móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-vuelto-netflix-serie-te-vuelve-loco-bucles-saltos-temporales-1048321'>Ha vuelto a Netflix la serie que te vuelve loco con sus bucles y saltos temporales</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-vuelto-netflix-serie-te-vuelve-loco-bucles-saltos-temporales-1048321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/muneca-rusa-netflix-natasha-lyonne-2643507.jpg' alt='Ha vuelto a Netflix la serie que te vuelve loco con sus bucles y saltos temporales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rectify11-como-instalarlo-ventajas-tiene-frente-windows-11-1048307'>Qué es Rectify11, cómo instalarlo y qué ventajas tiene frente a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rectify11-como-instalarlo-ventajas-tiene-frente-windows-11-1048307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rectify11-2680189.jpg' alt='Qué es Rectify11, cómo instalarlo y qué ventajas tiene frente a Windows 11' />
     </a>
 </div>
 
