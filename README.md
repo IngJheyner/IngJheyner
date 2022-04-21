@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1048243'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1048243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2679973.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ideas-muy-tecnologicas-regalar-dia-madre-1047887'>Ideas muy tecnológicas para regalar el Día de la Madre </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ideas-muy-tecnologicas-regalar-dia-madre-1047887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/regalo-dia-madre-2306957.jpg' alt='Ideas muy tecnológicas para regalar el Día de la Madre ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/liberland-metaverse-ciudad-metaverso-zaha-hadid-architects-video-1048241'>Liberland Metaverse, la ciudad del metaverso diseñada por Zaha Hadid Architects (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/liberland-metaverse-ciudad-metaverso-zaha-hadid-architects-video-1048241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/liberland-metaverse-ciudad-metaverso-disenada-zaha-hadid-architects-2679971.jpg' alt='Liberland Metaverse, la ciudad del metaverso diseñada por Zaha Hadid Architects (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021'>Más de la mitad de los norteamericanos abandonarían Internet si pudiesen</a></h4>
     <a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mitad-norteamericanos-abandonarian-internet-pudiesen-2679765.jpg' alt='Más de la mitad de los norteamericanos abandonarían Internet si pudiesen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015'>Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/maquina-remo-agua-lidl-plegable-arrasa-ventas-1048015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/original-maquina-remo-agua-lidl-plegable-arrasa-ventas-2679759.jpg' alt='Esta original máquina de remo de agua de Lidl es plegable y arrasa en ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005'>Cómo escuchar las canciones de tu ordenador a través de Spotify</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-escuchar-canciones-ordenador-spotify-1048005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-escuchar-canciones-ordenador-traves-spotify-2679715.jpg' alt='Cómo escuchar las canciones de tu ordenador a través de Spotify' />
     </a>
 </div>
 
