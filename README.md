@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1048243'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1048243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2679973.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743'>El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667667.jpg' alt='El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ideas-muy-tecnologicas-regalar-dia-madre-1047887'>Ideas muy tecnológicas para regalar el Día de la Madre </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ideas-muy-tecnologicas-regalar-dia-madre-1047887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/regalo-dia-madre-2306957.jpg' alt='Ideas muy tecnológicas para regalar el Día de la Madre ' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/final-cuentas-compartidas-puede-salirle-muy-caro-netflix-1048299'>El final de las cuentas compartidas puede salirle muy caro a Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/final-cuentas-compartidas-puede-salirle-muy-caro-netflix-1048299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='El final de las cuentas compartidas puede salirle muy caro a Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/liberland-metaverse-ciudad-metaverso-zaha-hadid-architects-video-1048241'>Liberland Metaverse, la ciudad del metaverso diseñada por Zaha Hadid Architects (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/liberland-metaverse-ciudad-metaverso-zaha-hadid-architects-video-1048241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/liberland-metaverse-ciudad-metaverso-disenada-zaha-hadid-architects-2679971.jpg' alt='Liberland Metaverse, la ciudad del metaverso diseñada por Zaha Hadid Architects (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuantos-nucleos-tiene-procesador-windows-1048287'>Cómo saber cuántos núcleos tiene tu procesador en Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuantos-nucleos-tiene-procesador-windows-1048287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Cómo saber cuántos núcleos tiene tu procesador en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/4-cosas-cotidianas-nunca-deberias-tirar-fregadero-1048239'>4 cosas cotidianas que nunca deberías tirar por el fregadero, salvo que quieras atascarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/4-cosas-cotidianas-nunca-deberias-tirar-fregadero-1048239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/5-cosas-cotidianas-nunca-deberias-echar-fregadero-salvo-quieras-atascarlo-2679967.jpg' alt='4 cosas cotidianas que nunca deberías tirar por el fregadero, salvo que quieras atascarlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277'>La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021'>Más de la mitad de los norteamericanos abandonarían Internet si pudiesen</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mitad-norteamericanos-abandonarian-internet-pudiesen-2679765.jpg' alt='Más de la mitad de los norteamericanos abandonarían Internet si pudiesen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-acabara-aplicaciones-grabacion-llamadas-siempre-1048285'>Google acabará con las aplicaciones de grabación de llamadas para siempre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-acabara-aplicaciones-grabacion-llamadas-siempre-1048285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/grabacion-llamadas-nativas-xiaomi-2056649.jpg' alt='Google acabará con las aplicaciones de grabación de llamadas para siempre' />
     </a>
 </div>
 
