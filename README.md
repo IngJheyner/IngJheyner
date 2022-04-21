@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573'>Cuál es mi código postal y cómo descubrirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/adtpostales-tramites-reclamaciones-como-evitar-pago-aduanas-pedidos-internacionales-2164311.jpg' alt='Cuál es mi código postal y cómo descubrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-saca-musculo-mala-semana-netflix-3-millones-suscripciones-1048549'>HBO saca músculo en la mala semana de Netflix con 3 millones de suscripciones más</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-saca-musculo-mala-semana-netflix-3-millones-suscripciones-1048549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='HBO saca músculo en la mala semana de Netflix con 3 millones de suscripciones más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543'>Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galaxy-s20-ultra-2156857.jpg' alt='Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10-mejoraria-caracteristica-clave-oneplus-10-pro-1048535'>Los últimos rumores apuntan a que el OnePlus 10 mejoraría una característica clave del OnePlus 10 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10-mejoraria-caracteristica-clave-oneplus-10-pro-1048535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630079.jpg' alt='Los últimos rumores apuntan a que el OnePlus 10 mejoraría una característica clave del OnePlus 10 Pro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-autoborrado-chat-telegram-1048507'>Cómo activar el autoborrado de un chat de Telegram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-activar-autoborrado-chat-telegram-1048507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-activar-autoborrado-chat-telegram-2680611.jpg' alt='Cómo activar el autoborrado de un chat de Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-aerotermia-1048489'>¿Cómo funciona la aerotermia?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-funciona-aerotermia-1048489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eficiencia-energetica-menos-emisiones-ahorro-hogar-todo-tienes-saber-aerotermia-2499395.jpg' alt='¿Cómo funciona la aerotermia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/parecen-tanto-lidl-aldi-historia-curiosidades-dos-grandes-supermercados-alemanes-894785'>Este es el motivo por el cual Lidl y Aldi se parecen tanto: historia y curiosidades de los dos supermercados alemanes</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/parecen-tanto-lidl-aldi-historia-curiosidades-dos-grandes-supermercados-alemanes-894785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lidl-aldi-2680621.jpg' alt='Este es el motivo por el cual Lidl y Aldi se parecen tanto: historia y curiosidades de los dos supermercados alemanes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pierde-primera-posicion-como-lider-mercado-mundial-smartphones-1048459'>Apple pierde la primera posición como líder del mercado mundial de smartphones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-pierde-primera-posicion-como-lider-mercado-mundial-smartphones-1048459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Apple pierde la primera posición como líder del mercado mundial de smartphones' />
     </a>
 </div>
 
