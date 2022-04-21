@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645'>Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-ruedas-vigilar-mascotas-1048651'>Esta cámara con ruedas para vigilar a tus mascotas es tu nueva necesidad: ya está a la venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-ruedas-vigilar-mascotas-1048651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camara-ruedas-vigilar-mascotas-nueva-necesidad-ya-venta-2681137.jpg' alt='Esta cámara con ruedas para vigilar a tus mascotas es tu nueva necesidad: ya está a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441'>Esta es la una única solución al reto viral matemático del momento</a></h4>
     <a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reto-matematico-viral-2680387.jpg' alt='Esta es la una única solución al reto viral matemático del momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-pierde-michelle-barack-obama-podcast-1048637'>Spotify pierde a la pareja más famosa de sus podcast</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-pierde-michelle-barack-obama-podcast-1048637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spotify-pierde-pareja-famosa-podcast-2681019.jpg' alt='Spotify pierde a la pareja más famosa de sus podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aplaude-ultimas-decisiones-mercadona-1048633'>La DGT aplaude una de las últimas decisiones de Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-aplaude-ultimas-decisiones-mercadona-1048633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camiones-mercadona-2681013.jpg' alt='La DGT aplaude una de las últimas decisiones de Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/significa-codigo-78-carnet-conducir-autoescuelas-quieren-desaparezca-1048425'>¿Qué significa el código 78 del carnet de conducir y por qué las autoescuelas quieren que desaparezca?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/significa-codigo-78-carnet-conducir-autoescuelas-quieren-desaparezca-1048425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/fase-3-puede-renovar-carnet-conducir-1967863.jpg' alt='¿Qué significa el código 78 del carnet de conducir y por qué las autoescuelas quieren que desaparezca?' />
     </a>
 </div>
 
