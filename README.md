@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661'>No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-solo-tiene-problemas-netflix-plataforma-ha-cerrado-pocas-semanas-despues-lanzarse-2681155.jpg' alt='No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657'>Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/patata-tapa-sol-rover-perseverance-graba-marte-increible-eclipse-luna-fobos-video-2681149.jpg' alt='Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441'>Esta es la una única solución al reto viral matemático del momento</a></h4>
     <a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reto-matematico-viral-2680387.jpg' alt='Esta es la una única solución al reto viral matemático del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-no-te-preocupes-almacenamiento-proximos-moviles-van-encargar-ello-1048625'>Xiaomi quiere que no te preocupes por el almacenamiento y sus próximos móviles se van a encargar de ello</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-no-te-preocupes-almacenamiento-proximos-moviles-van-encargar-ello-1048625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi quiere que no te preocupes por el almacenamiento y sus próximos móviles se van a encargar de ello' />
     </a>
 </div>
 
