@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/musk-promete-robotaxis-tesla-2024-coches-autonomos-pedales-ni-volante-1048291'>Musk promete robotaxis Tesla para 2024: coches autónomos sin pedales ni volante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/musk-promete-robotaxis-tesla-2024-coches-autonomos-pedales-ni-volante-1048291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2679601.jpg' alt='Musk promete robotaxis Tesla para 2024: coches autónomos sin pedales ni volante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743'>El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667667.jpg' alt='El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277'>La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-acabara-aplicaciones-grabacion-llamadas-siempre-1048285'>Google acabará con las aplicaciones de grabación de llamadas para siempre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-acabara-aplicaciones-grabacion-llamadas-siempre-1048285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/grabacion-llamadas-nativas-xiaomi-2056649.jpg' alt='Google acabará con las aplicaciones de grabación de llamadas para siempre' />
     </a>
 </div>
 
