@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-funcionamiento-cookies-ahora-puedas-rechazarlas-miramientos-1048603'>Google actualiza el funcionamiento de las cookies para que ahora puedas rechazarlas sin miramientos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-funcionamiento-cookies-ahora-puedas-rechazarlas-miramientos-1048603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cookies-2353537.jpg' alt='Google actualiza el funcionamiento de las cookies para que ahora puedas rechazarlas sin miramientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-ebooks-regalo-dia-madre-1048339'>Si a tu madre le gusta leer estos son los mejores lectores de ebooks que puedes regalar el Día de la Madre</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-ebooks-regalo-dia-madre-1048339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-leyendo-libro-electronico-lector-kobo-2680377.jpg' alt='Si a tu madre le gusta leer estos son los mejores lectores de ebooks que puedes regalar el Día de la Madre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573'>Cuál es mi código postal y cómo descubrirlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/adtpostales-tramites-reclamaciones-como-evitar-pago-aduanas-pedidos-internacionales-2164311.jpg' alt='Cuál es mi código postal y cómo descubrirlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543'>Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galaxy-s20-ultra-2156857.jpg' alt='Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10-mejoraria-caracteristica-clave-oneplus-10-pro-1048535'>Los últimos rumores apuntan a que el OnePlus 10 mejoraría una característica clave del OnePlus 10 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10-mejoraria-caracteristica-clave-oneplus-10-pro-1048535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/oneplus-10-pro-2630079.jpg' alt='Los últimos rumores apuntan a que el OnePlus 10 mejoraría una característica clave del OnePlus 10 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-autoborrado-chat-telegram-1048507'>Cómo activar el autoborrado de un chat de Telegram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-autoborrado-chat-telegram-1048507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-activar-autoborrado-chat-telegram-2680611.jpg' alt='Cómo activar el autoborrado de un chat de Telegram' />
     </a>
 </div>
 
