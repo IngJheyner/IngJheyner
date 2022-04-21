@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aplaude-ultimas-decisiones-mercadona-1048633'>La DGT aplaude una de las últimas decisiones de Mercadona</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-aplaude-ultimas-decisiones-mercadona-1048633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camiones-mercadona-2681013.jpg' alt='La DGT aplaude una de las últimas decisiones de Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/significa-codigo-78-carnet-conducir-autoescuelas-quieren-desaparezca-1048425'>¿Qué significa el código 78 del carnet de conducir y por qué las autoescuelas quieren que desaparezca?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/significa-codigo-78-carnet-conducir-autoescuelas-quieren-desaparezca-1048425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/fase-3-puede-renovar-carnet-conducir-1967863.jpg' alt='¿Qué significa el código 78 del carnet de conducir y por qué las autoescuelas quieren que desaparezca?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-funcionalidad-imessage-whatsapp-deberia-copiar-inmediatamente-1048623'>Apple lanza una funcionalidad en iMessage que WhatsApp debería copiar inmediatamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-funcionalidad-imessage-whatsapp-deberia-copiar-inmediatamente-1048623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mensajes-apple-2681009.jpg' alt='Apple lanza una funcionalidad en iMessage que WhatsApp debería copiar inmediatamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-funcionamiento-cookies-ahora-puedas-rechazarlas-miramientos-1048603'>Google actualiza el funcionamiento de las cookies para que ahora puedas rechazarlas sin miramientos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-funcionamiento-cookies-ahora-puedas-rechazarlas-miramientos-1048603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/cookies-2353537.jpg' alt='Google actualiza el funcionamiento de las cookies para que ahora puedas rechazarlas sin miramientos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-ebooks-regalo-dia-madre-1048339'>Si a tu madre le gusta leer estos son los mejores lectores de ebooks que puedes regalar el Día de la Madre</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-ebooks-regalo-dia-madre-1048339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-leyendo-libro-electronico-lector-kobo-2680377.jpg' alt='Si a tu madre le gusta leer estos son los mejores lectores de ebooks que puedes regalar el Día de la Madre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573'>Cuál es mi código postal y cómo descubrirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/adtpostales-tramites-reclamaciones-como-evitar-pago-aduanas-pedidos-internacionales-2164311.jpg' alt='Cuál es mi código postal y cómo descubrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-saca-musculo-mala-semana-netflix-3-millones-suscripciones-1048549'>HBO saca músculo en la mala semana de Netflix con 3 millones de suscripciones más</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-saca-musculo-mala-semana-netflix-3-millones-suscripciones-1048549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hbo-max-2522703.jpg' alt='HBO saca músculo en la mala semana de Netflix con 3 millones de suscripciones más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543'>Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-s20-ultra-antibalas-salvo-vida-terminal-samsung-soldado-ucraniano-1048543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/galaxy-s20-ultra-2156857.jpg' alt='Un Galaxy S20 Ultra antibalas: así le salvó la vida el terminal de Samsung a un soldado ucraniano' />
     </a>
 </div>
 
