@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/4-cosas-cotidianas-nunca-deberias-tirar-fregadero-1048239'>4 cosas cotidianas que nunca deberías tirar por el fregadero, salvo que quieras atascarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/4-cosas-cotidianas-nunca-deberias-tirar-fregadero-1048239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/5-cosas-cotidianas-nunca-deberias-echar-fregadero-salvo-quieras-atascarlo-2679967.jpg' alt='4 cosas cotidianas que nunca deberías tirar por el fregadero, salvo que quieras atascarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021'>Más de la mitad de los norteamericanos abandonarían Internet si pudiesen</a></h4>
     <a href='https://computerhoy.com/noticias/industria/mitad-norteamericanos-abandonarian-internet-pudiesen-1048021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mitad-norteamericanos-abandonarian-internet-pudiesen-2679765.jpg' alt='Más de la mitad de los norteamericanos abandonarían Internet si pudiesen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993'>Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coche-tiene-conduccion-autonoma-podras-ir-viendo-tv-menos-reino-unido-1047993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/noticia-manana-estoy-haciendo-acabaron-tonterias-tesla-prohibe-jugar-videojuegos-pantalla-mientras-conduces-2570407.jpg' alt='Si tu coche tiene conducción autónoma podrás ir viendo la TV, al menos en Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975'>VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vlc-actualiza-mejoras-como-soporte-hdr-contenidos-8k-1047975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/faq-vlc_2.jpg' alt='VLC se actualiza con mejoras como el soporte para HDR y contenidos 8K' />
     </a>
 </div>
 
