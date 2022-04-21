@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657'>Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/patata-tapa-sol-rover-perseverance-graba-marte-increible-eclipse-luna-fobos-video-2681149.jpg' alt='Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645'>Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-no-te-preocupes-almacenamiento-proximos-moviles-van-encargar-ello-1048625'>Xiaomi quiere que no te preocupes por el almacenamiento y sus próximos móviles se van a encargar de ello</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-no-te-preocupes-almacenamiento-proximos-moviles-van-encargar-ello-1048625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Xiaomi quiere que no te preocupes por el almacenamiento y sus próximos móviles se van a encargar de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-pierde-michelle-barack-obama-podcast-1048637'>Spotify pierde a la pareja más famosa de sus podcast</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-pierde-michelle-barack-obama-podcast-1048637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spotify-pierde-pareja-famosa-podcast-2681019.jpg' alt='Spotify pierde a la pareja más famosa de sus podcast' />
     </a>
 </div>
 
