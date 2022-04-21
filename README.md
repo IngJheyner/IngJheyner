@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/manual-usar-internet-nieta-ha-inventado-abuela-ha-vuelto-viral-1048405'>El manual para usar Internet que una nieta ha inventado para su abuela y que se ha vuelto viral</a></h4>
+    <a href='https://computerhoy.com/noticias/life/manual-usar-internet-nieta-ha-inventado-abuela-ha-vuelto-viral-1048405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/manual-usar-internet-nieta-inventa-abuela-ha-vuelto-viral-2680345.jpg' alt='El manual para usar Internet que una nieta ha inventado para su abuela y que se ha vuelto viral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-hechos-judias-solares-ultima-apuesta-casio-1048435'>Relojes hechos de judías y solares, la última apuesta de Casio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/relojes-hechos-judias-solares-ultima-apuesta-casio-1048435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/casio-2680415.jpg' alt='Relojes hechos de judías y solares, la última apuesta de Casio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/merece-pena-invertir-aislar-piso-casa-ocu-tiene-claro-demuestra-1048385'>¿Merece la pena invertir en aislar tu piso o casa? La OCU lo tiene claro y lo demuestra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/merece-pena-invertir-aislar-piso-casa-ocu-tiene-claro-demuestra-1048385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-unipersonal-2632883.jpg' alt='¿Merece la pena invertir en aislar tu piso o casa? La OCU lo tiene claro y lo demuestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407'>Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-jupitor-2602133.jpg' alt='Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363'>Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-2680227.jpg' alt='Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-increible-redmi-note-11-nuevo-movil-xiaomi-hemos-probado-volvera-arrasar-2022-1046475'>Precio increíble en el Redmi Note 11, el nuevo móvil de Xiaomi que hemos probado y que volverá a arrasar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precio-increible-redmi-note-11-nuevo-movil-xiaomi-hemos-probado-volvera-arrasar-2022-1046475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643043.jpg' alt='Precio increíble en el Redmi Note 11, el nuevo móvil de Xiaomi que hemos probado y que volverá a arrasar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699'>El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg' alt='El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373'>Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk' />
     </a>
 </div>
 
