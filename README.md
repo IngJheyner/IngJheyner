@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/manual-usar-internet-nieta-ha-inventado-abuela-ha-vuelto-viral-1048405'>El manual para usar Internet que una nieta ha inventado para su abuela y que se ha vuelto viral</a></h4>
-    <a href='https://computerhoy.com/noticias/life/manual-usar-internet-nieta-ha-inventado-abuela-ha-vuelto-viral-1048405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/manual-usar-internet-nieta-inventa-abuela-ha-vuelto-viral-2680345.jpg' alt='El manual para usar Internet que una nieta ha inventado para su abuela y que se ha vuelto viral' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-aerotermia-1048489'>¿Cómo funciona la aerotermia?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-funciona-aerotermia-1048489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/eficiencia-energetica-menos-emisiones-ahorro-hogar-todo-tienes-saber-aerotermia-2499395.jpg' alt='¿Cómo funciona la aerotermia?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-hechos-judias-solares-ultima-apuesta-casio-1048435'>Relojes hechos de judías y solares, la última apuesta de Casio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/relojes-hechos-judias-solares-ultima-apuesta-casio-1048435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/casio-2680415.jpg' alt='Relojes hechos de judías y solares, la última apuesta de Casio' />
+    <h4><a href='https://computerhoy.com/reportajes/life/parecen-tanto-lidl-aldi-historia-curiosidades-dos-grandes-supermercados-alemanes-894785'>Este es el motivo por el cual Lidl y Aldi se parecen tanto: historia y curiosidades de los dos supermercados alemanes</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/parecen-tanto-lidl-aldi-historia-curiosidades-dos-grandes-supermercados-alemanes-894785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lidl-aldi-2680621.jpg' alt='Este es el motivo por el cual Lidl y Aldi se parecen tanto: historia y curiosidades de los dos supermercados alemanes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/merece-pena-invertir-aislar-piso-casa-ocu-tiene-claro-demuestra-1048385'>¿Merece la pena invertir en aislar tu piso o casa? La OCU lo tiene claro y lo demuestra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/merece-pena-invertir-aislar-piso-casa-ocu-tiene-claro-demuestra-1048385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/casa-unipersonal-2632883.jpg' alt='¿Merece la pena invertir en aislar tu piso o casa? La OCU lo tiene claro y lo demuestra' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pierde-primera-posicion-como-lider-mercado-mundial-smartphones-1048459'>Apple pierde la primera posición como líder del mercado mundial de smartphones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-pierde-primera-posicion-como-lider-mercado-mundial-smartphones-1048459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-store-2544349.jpg' alt='Apple pierde la primera posición como líder del mercado mundial de smartphones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407'>Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodos-eficaces-sencillos-limpiar-freidora-aire-esfuerzo-1048407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/freidora-aceite-jupitor-2602133.jpg' alt='Los métodos más eficaces y sencillos para limpiar tu freidora de aire sin esfuerzo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-problemas-cobertura-movil-orange-simyo-jazztel-no-smartphone-incidencia-generalizada-1048491'>Si tienes problemas de cobertura móvil Orange, Simyo o Jazztel, no es tu smartphone, es una incidencia generalizada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-problemas-cobertura-movil-orange-simyo-jazztel-no-smartphone-incidencia-generalizada-1048491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/orange-2473837.jpg' alt='Si tienes problemas de cobertura móvil Orange, Simyo o Jazztel, no es tu smartphone, es una incidencia generalizada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363'>Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-1048363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/criptomonedas-alternativas-shiba-inu-mayor-potencial-expertos-2680227.jpg' alt='Criptomonedas alternativas a Shiba Inu con mayor potencial, según los expertos' />
+    <h4><a href='https://computerhoy.com/noticias/amazon-ofrecera-ventajas-prime-incluso-tiendas-externas-1048469'>Amazon ofrecerá las ventajas Prime incluso en tiendas externas</a></h4>
+    <a href='https://computerhoy.com/noticias/amazon-ofrecera-ventajas-prime-incluso-tiendas-externas-1048469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Amazon ofrecerá las ventajas Prime incluso en tiendas externas' />
     </a>
 </div>
 
