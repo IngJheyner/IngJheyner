@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/musk-promete-robotaxis-tesla-2024-coches-autonomos-pedales-ni-volante-1048291'>Musk promete robotaxis Tesla para 2024: coches autónomos sin pedales ni volante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/musk-promete-robotaxis-tesla-2024-coches-autonomos-pedales-ni-volante-1048291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2679601.jpg' alt='Musk promete robotaxis Tesla para 2024: coches autónomos sin pedales ni volante' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699'>El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ligero-potente-te-mereces-huawei-matebook-d-14-ahora-ha-bajado-precio-599eu-1046699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg' alt='El portátil ligero y potente que te mereces es este Huawei MateBook D 14 y ahora ha bajado de precio a 599€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743'>El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-air-procesador-m1-baja-precio-oferta-agresiva-historia-1047743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667667.jpg' alt='El iPad Air con procesador M1 baja de precio en la oferta más agresiva de su historia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373'>Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/peligrosa-dificil-dura-sera-vida-marte-elon-musk-1048373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Peligrosa, difícil y dura: así será la vida en Marte según Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/final-cuentas-compartidas-puede-salirle-muy-caro-netflix-1048299'>El final de las cuentas compartidas puede salirle muy caro a Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/final-cuentas-compartidas-puede-salirle-muy-caro-netflix-1048299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='El final de las cuentas compartidas puede salirle muy caro a Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/juicio-pone-espada-pared-apple-no-incluir-cargador-movil-1048381'>Un juicio pone entre la espada y la pared a Apple por no incluir cargador con su móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/juicio-pone-espada-pared-apple-no-incluir-cargador-movil-1048381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Un juicio pone entre la espada y la pared a Apple por no incluir cargador con su móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuantos-nucleos-tiene-procesador-windows-1048287'>Cómo saber cuántos núcleos tiene tu procesador en Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-cuantos-nucleos-tiene-procesador-windows-1048287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Cómo saber cuántos núcleos tiene tu procesador en Windows' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-vuelto-netflix-serie-te-vuelve-loco-bucles-saltos-temporales-1048321'>Ha vuelto a Netflix la serie que te vuelve loco con sus bucles y saltos temporales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-vuelto-netflix-serie-te-vuelve-loco-bucles-saltos-temporales-1048321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/muneca-rusa-netflix-natasha-lyonne-2643507.jpg' alt='Ha vuelto a Netflix la serie que te vuelve loco con sus bucles y saltos temporales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277'>La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-hara-vida-facil-hora-enviar-fotos-1048277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='La nueva actualización de WhatsApp que te hará la vida más fácil a la hora de enviar fotos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rectify11-como-instalarlo-ventajas-tiene-frente-windows-11-1048307'>Qué es Rectify11, cómo instalarlo y qué ventajas tiene frente a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rectify11-como-instalarlo-ventajas-tiene-frente-windows-11-1048307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rectify11-2680189.jpg' alt='Qué es Rectify11, cómo instalarlo y qué ventajas tiene frente a Windows 11' />
     </a>
 </div>
 
