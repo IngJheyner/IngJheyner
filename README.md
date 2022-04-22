@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077'>Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-2681891.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estas-son-7-mejores-aplicaciones-administrar-contrasenas-telefono-android-1042801'>Estas son las 7 mejores aplicaciones para administrar tus contraseñas en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estas-son-7-mejores-aplicaciones-administrar-contrasenas-telefono-android-1042801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/gestor-contrasenas-2431931.jpg' alt='Estas son las 7 mejores aplicaciones para administrar tus contraseñas en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985'>Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-tumbada-playa-leyendo-libro-2681585.jpg' alt='Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169'>¿Cómo funciona Bitcoin?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-bitcoin-2682067.jpg' alt='¿Cómo funciona Bitcoin?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733'>PayPal para principiantes: crear una cuenta, cómo funciona y consejos comprar online con seguridad</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-funciona-paypal-tutorial-principiantes-8733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/paypal-iphone-x-2155737.jpg' alt='PayPal para principiantes: crear una cuenta, cómo funciona y consejos comprar online con seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-1049197'>Cuál es la montaña más alta del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-1049197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mountains.jpg' alt='Cuál es la montaña más alta del mundo' />
     </a>
 </div>
 
