@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307'>Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/5-ideas-clave-revela-andy-jassy-primer-email-empleados-como-ceo-amazon-2413139.jpg' alt='Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303'>Twitter estaría preparando una nueva característica que no terminaría de tener sentido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter estaría preparando una nueva característica que no terminaría de tener sentido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299'>Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445861.jpg' alt='Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297'>RTVE pone fin a la serie que nos ha acompañado desde 2001</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cuentame-como-paso-2053929.jpg' alt='RTVE pone fin a la serie que nos ha acompañado desde 2001' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-moviles-siguen-riesgo-seguridad-como-comprobar-ellos-1049291'>Millones de móviles siguen en riesgo de seguridad: cómo comprobar si el tuyo es uno de ellos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/millones-moviles-siguen-riesgo-seguridad-como-comprobar-ellos-1049291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Millones de móviles siguen en riesgo de seguridad: cómo comprobar si el tuyo es uno de ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279'>Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-2682431.jpg' alt='Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente' />
     </a>
 </div>
 
