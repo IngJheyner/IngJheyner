@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2681401.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523'>Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563251.jpg' alt='Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881'>El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana</a></h4>
     <a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spray-casero-productos-quimicos-repele-polvo-muebles-2681395.jpg' alt='El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661'>No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-solo-tiene-problemas-netflix-plataforma-ha-cerrado-pocas-semanas-despues-lanzarse-2681155.jpg' alt='No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657'>Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eclipse-solar-luna-fobos-marte-video-1048657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/patata-tapa-sol-rover-perseverance-graba-marte-increible-eclipse-luna-fobos-video-2681149.jpg' alt='Una "patata" tapa el Sol: el rover Perseverance graba desde Marte el increíble eclipse de la luna Fobos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645'>Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2' />
     </a>
 </div>
 
