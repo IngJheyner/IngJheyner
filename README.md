@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143'>¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-chromebook-14a-na1012ns-2677883.jpg' alt='¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/puedes-ganar-dinero-jugando-xbox-pc-1048667'>Así puedes ganar dinero jugando con tu Xbox o PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/puedes-ganar-dinero-jugando-xbox-pc-1048667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xbox-game-pass-2153229.jpg' alt='Así puedes ganar dinero jugando con tu Xbox o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663'>El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/toyota-mirai-2681157.jpg' alt='El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2681401.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523'>Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563251.jpg' alt='Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881'>El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spray-casero-productos-quimicos-repele-polvo-muebles-2681395.jpg' alt='El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mitico-renault-4-latas-vuelve-ponerse-venta-japon-1048671'>El mítico Renault "4 Latas" vuelve a ponerse a la venta... en Japón</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mitico-renault-4-latas-vuelve-ponerse-venta-japon-1048671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/renault-4-ancel-lapin-2605217.jpg' alt='El mítico Renault "4 Latas" vuelve a ponerse a la venta... en Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661'>No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-solo-tiene-problemas-netflix-plataforma-ha-cerrado-pocas-semanas-despues-lanzarse-2681155.jpg' alt='No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse' />
     </a>
 </div>
 
