@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-todo-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-1049121'>No todo son criptomonedas y NFT en la blockchain: 2 nuevos usos que te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-todo-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-1049121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-todos-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-2681973.jpg' alt='No todo son criptomonedas y NFT en la blockchain: 2 nuevos usos que te sorprenderán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-han-subido-precios-mercadona-ano-2022-1049085'>Cuánto han subido los precios en Mercadona este año 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-han-subido-precios-mercadona-ano-2022-1049085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='Cuánto han subido los precios en Mercadona este año 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-ipad-antiguo-no-sabes-obsoleto-te-contamos-todos-modelos-estan-1049109'>¿Tienes un iPad antiguo y no sabes si está obsoleto? Te contamos todos los modelos que sí lo están</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-ipad-antiguo-no-sabes-obsoleto-te-contamos-todos-modelos-estan-1049109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667695.jpg' alt='¿Tienes un iPad antiguo y no sabes si está obsoleto? Te contamos todos los modelos que sí lo están' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075'>Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/simracing-2681761.jpg' alt='Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/famosos-tienen-prohibido-vida-volver-comprar-ferrari-1048975'>Famosos que tienen prohibido de por vida volver a comprar un Ferrari</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/famosos-tienen-prohibido-vida-volver-comprar-ferrari-1048975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/ferrari-calle.jpg' alt='Famosos que tienen prohibido de por vida volver a comprar un Ferrari' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999'>Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/detergente-capsulas-2473687.jpg' alt='Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora' />
     </a>
 </div>
 
