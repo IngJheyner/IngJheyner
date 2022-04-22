@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299'>Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445861.jpg' alt='Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295'>WhatsApp quiere recuperar el “Party-Line” con esta actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere recuperar el “Party-Line” con esta actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279'>Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-2682431.jpg' alt='Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069'>15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana' />
     </a>
 </div>
 
