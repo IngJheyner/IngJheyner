@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985'>Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-tumbada-playa-leyendo-libro-2681585.jpg' alt='Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-1049201'>Los 107 emojis nuevos que llegan a WhatsApp, a cada cual más sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-1049201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-2682115.jpg' alt='Los 107 emojis nuevos que llegan a WhatsApp, a cada cual más sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169'>¿Cómo funciona Bitcoin?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-bitcoin-2682067.jpg' alt='¿Cómo funciona Bitcoin?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-1049197'>Cuál es la montaña más alta del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-1049197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/mountains.jpg' alt='Cuál es la montaña más alta del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-drones-suicidas-estados-unidos-enviando-ucrania-1049171'>Así son los drones suicidas que Estados Unidos está enviando a Ucrania </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-drones-suicidas-estados-unidos-enviando-ucrania-1049171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/drones-desastres-naturales-2369087.jpg' alt='Así son los drones suicidas que Estados Unidos está enviando a Ucrania ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-todo-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-1049121'>No todo son criptomonedas y NFT en la blockchain: 2 nuevos usos que te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-todo-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-1049121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-todos-son-criptomonedas-nft-blockchain-2-nuevos-usos-te-sorprenderan-2681973.jpg' alt='No todo son criptomonedas y NFT en la blockchain: 2 nuevos usos que te sorprenderán' />
     </a>
 </div>
 
