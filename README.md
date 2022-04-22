@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279'>Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-2682431.jpg' alt='Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069'>15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581'>Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tocadiscos-alta-gama-2680995.jpg' alt='Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-semana-2682357.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243'>Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-2682311.jpg' alt='Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077'>Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-2681891.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estas-son-7-mejores-aplicaciones-administrar-contrasenas-telefono-android-1042801'>Estas son las 7 mejores aplicaciones para administrar tus contraseñas en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estas-son-7-mejores-aplicaciones-administrar-contrasenas-telefono-android-1042801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/gestor-contrasenas-2431931.jpg' alt='Estas son las 7 mejores aplicaciones para administrar tus contraseñas en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985'>Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-tumbada-playa-leyendo-libro-2681585.jpg' alt='Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022' />
     </a>
 </div>
 
