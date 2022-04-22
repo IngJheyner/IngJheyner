@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-semana-2682357.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243'>Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-2682311.jpg' alt='Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077'>Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-1049077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-netflix-hbo-max-disney-batman-homicida-jovenes-mitico-robin-williams-2681891.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: The Batman, el homicida de jóvenes y un mítico Robin Williams' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985'>Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-tumbada-playa-leyendo-libro-2681585.jpg' alt='Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-1049201'>Los 107 emojis nuevos que llegan a WhatsApp, a cada cual más sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-1049201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-2682115.jpg' alt='Los 107 emojis nuevos que llegan a WhatsApp, a cada cual más sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169'>¿Cómo funciona Bitcoin?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bitcoin-1049169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-bitcoin-2682067.jpg' alt='¿Cómo funciona Bitcoin?' />
     </a>
 </div>
 
