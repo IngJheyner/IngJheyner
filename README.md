@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881'>El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/spray-casero-sin-productos-quimicos-repele-polvo-muebles-1048881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spray-casero-productos-quimicos-repele-polvo-muebles-2681395.jpg' alt='El spray casero sin productos químicos que repele el polvo de los muebles y retrasa la limpieza una semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/mitico-renault-4-latas-vuelve-ponerse-venta-japon-1048671'>El mítico Renault "4 Latas" vuelve a ponerse a la venta... en Japón</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/mitico-renault-4-latas-vuelve-ponerse-venta-japon-1048671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/renault-4-ancel-lapin-2605217.jpg' alt='El mítico Renault "4 Latas" vuelve a ponerse a la venta... en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661'>No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cnn-plus-cierra-1048661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/no-solo-tiene-problemas-netflix-plataforma-ha-cerrado-pocas-semanas-despues-lanzarse-2681155.jpg' alt='No solo tiene problemas Netflix, esta plataforma ha cerrado pocas semanas después de lanzarse' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645'>Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-colaborando-desarrollo-nuevo-procesador-apple-m2-1048645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-m2-2636327.jpg' alt='Samsung estaría colaborando en el desarrollo del nuevo procesador Apple M2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-ruedas-vigilar-mascotas-1048651'>Esta cámara con ruedas para vigilar a tus mascotas es tu nueva necesidad: ya está a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-ruedas-vigilar-mascotas-1048651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camara-ruedas-vigilar-mascotas-nueva-necesidad-ya-venta-2681137.jpg' alt='Esta cámara con ruedas para vigilar a tus mascotas es tu nueva necesidad: ya está a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441'>Esta es la una única solución al reto viral matemático del momento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/unica-solucion-reto-viral-matematico-momento-1048441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reto-matematico-viral-2680387.jpg' alt='Esta es la una única solución al reto viral matemático del momento' />
     </a>
 </div>
 
