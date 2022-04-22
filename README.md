@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901'>La app que convierte tu smartphone en un radar móvil para coches</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/radar-portatil-trucam-ii-2063413.jpg' alt='La app que convierte tu smartphone en un radar móvil para coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143'>¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-chromebook-14a-na1012ns-2677883.jpg' alt='¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2681401.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523'>Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/realme-book-prime-portatil-ultraligero-temible-rivales-incluso-apple-1046523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563251.jpg' alt='Por qué el realme Book Prime es un portátil ultraligero temible para sus rivales, incluso para Apple' />
     </a>
 </div>
 
