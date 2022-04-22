@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-ipad-antiguo-no-sabes-obsoleto-te-contamos-todos-modelos-estan-1049109'>¿Tienes un iPad antiguo y no sabes si está obsoleto? Te contamos todos los modelos que sí lo están</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-ipad-antiguo-no-sabes-obsoleto-te-contamos-todos-modelos-estan-1049109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667695.jpg' alt='¿Tienes un iPad antiguo y no sabes si está obsoleto? Te contamos todos los modelos que sí lo están' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985'>Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/libros-recomendados-dia-libro-2022-1048985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-tumbada-playa-leyendo-libro-2681585.jpg' alt='Estos son los libros que ComputerHoy.com recomienda para el Día del Libro 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075'>Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/simracing-2681761.jpg' alt='Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999'>Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/detergente-capsulas-2473687.jpg' alt='Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-reglas-oro-negocios-han-convertido-elon-musk-persona-rica-mundo-1048939'>Las 5 reglas de oro en los negocios que han convertido a Elon Musk en la persona más rica del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-reglas-oro-negocios-han-convertido-elon-musk-persona-rica-mundo-1048939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/elon-musk-2370227.jpg' alt='Las 5 reglas de oro en los negocios que han convertido a Elon Musk en la persona más rica del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989'>La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/f1%201.jpg' alt='La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste' />
     </a>
 </div>
 
