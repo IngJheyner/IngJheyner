@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885'>Graban una nueva "palabra" de la ballena jorabada, que nunca se había escuchado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/graban-nueva-palabra-ballena-jorabada-nunca-habia-escuchado-2681405.jpg' alt='Graban una nueva "palabra" de la ballena jorabada, que nunca se había escuchado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319'>Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg' alt='Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303'>Twitter estaría preparando una nueva característica que no terminaría de tener sentido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter estaría preparando una nueva característica que no terminaría de tener sentido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299'>Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-capacidad-bateria-nuevo-samsung-galaxy-z-fold-4-no-sorprende-bien-1049299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445861.jpg' alt='Se filtra la capacidad de la batería del nuevo Samsung Galaxy Z Fold 4 y no sorprende para bien' />
     </a>
 </div>
 
