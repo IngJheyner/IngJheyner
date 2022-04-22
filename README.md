@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295'>WhatsApp quiere recuperar el “Party-Line” con esta actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere recuperar el “Party-Line” con esta actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297'>RTVE pone fin a la serie que nos ha acompañado desde 2001</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cuentame-como-paso-2053929.jpg' alt='RTVE pone fin a la serie que nos ha acompañado desde 2001' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-moviles-siguen-riesgo-seguridad-como-comprobar-ellos-1049291'>Millones de móviles siguen en riesgo de seguridad: cómo comprobar si el tuyo es uno de ellos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/millones-moviles-siguen-riesgo-seguridad-como-comprobar-ellos-1049291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Millones de móviles siguen en riesgo de seguridad: cómo comprobar si el tuyo es uno de ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279'>Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-1049279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevos-wh-1000xm5-llegarian-40-horas-autonomia-cancelacion-ruido-potente-2682431.jpg' alt='Los nuevos WH-1000XM5 llegarían con hasta 40 horas de autonomía y una cancelación de ruido más potente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069'>15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana</a></h4>
     <a href='https://computerhoy.com/listas/gaming/15-juegos-ps5-ps4-oferta-1049069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='15 juegos de PS5 y PS4 en oferta para matar las horas el fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581'>Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tocadiscos-bluetooth-1048581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tocadiscos-alta-gama-2680995.jpg' alt='Vintage pero no mucho: estos tocadiscos Bluetooth aúnan tradición y modernidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247'>Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-movistar-autobus-abogado-ultimo-hombre-1049247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-semana-2682357.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Movistar: un autobús, un abogado y un último hombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243'>Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-1049243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/filtrado-diseno-primer-smartwatch-poco-fecha-lanzamiento-2682311.jpg' alt='Filtrado el diseño del primer smartwatch de POCO y su fecha de lanzamiento' />
     </a>
 </div>
 
