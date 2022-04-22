@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913'>El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901'>La app que convierte tu smartphone en un radar móvil para coches</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/radar-portatil-trucam-ii-2063413.jpg' alt='La app que convierte tu smartphone en un radar móvil para coches' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663'>El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/toyota-mirai-2681157.jpg' alt='El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1048883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2681401.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
