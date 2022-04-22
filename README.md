@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075'>Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/primer-simulador-simracing-accesible-compatible-todas-consolas-desarrollado-ford-once-1049075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/simracing-2681761.jpg' alt='Así es el primer simulador de simracing accesible: compatible con todas las consolas y desarrollado por Ford y la ONCE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/famosos-tienen-prohibido-vida-volver-comprar-ferrari-1048975'>Famosos que tienen prohibido de por vida volver a comprar un Ferrari</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/famosos-tienen-prohibido-vida-volver-comprar-ferrari-1048975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/ferrari-calle.jpg' alt='Famosos que tienen prohibido de por vida volver a comprar un Ferrari' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999'>Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/deberias-dejar-utilizar-detergente-capsulas-lavar-ropa-lavadora-1048999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/detergente-capsulas-2473687.jpg' alt='Por qué deberías dejar de utilizar detergente en cápsulas para lavar la ropa en la lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-reglas-oro-negocios-han-convertido-elon-musk-persona-rica-mundo-1048939'>Las 5 reglas de oro en los negocios que han convertido a Elon Musk en la persona más rica del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-reglas-oro-negocios-han-convertido-elon-musk-persona-rica-mundo-1048939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/elon-musk-2370227.jpg' alt='Las 5 reglas de oro en los negocios que han convertido a Elon Musk en la persona más rica del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989'>La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/f1%201.jpg' alt='La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-vas-conocer-todos-ajustes-ocultos-smartphone-1048925'>Con esta app vas a conocer todos los ajustes ocultos de tu smartphone </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-vas-conocer-todos-ajustes-ocultos-smartphone-1048925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-9c-2672887.jpg' alt='Con esta app vas a conocer todos los ajustes ocultos de tu smartphone ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-5-16-gb-ram-oferta-amazon-1048615'>Ahorra dinero y espacio en tu mesa: este Mini PC con Ryzen 5 y 16 GB de RAM está en oferta por menos de 400€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-5-16-gb-ram-oferta-amazon-1048615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/minis-forum-um350-2681003.jpg' alt='Ahorra dinero y espacio en tu mesa: este Mini PC con Ryzen 5 y 16 GB de RAM está en oferta por menos de 400€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-dios-windows-11-todo-nos-permite-hacer-1048923'>Cómo activar el modo Dios en Windows 11 y todo lo que nos permite hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-dios-windows-11-todo-nos-permite-hacer-1048923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/modo-dios-windows-11-2507111.jpg' alt='Cómo activar el modo Dios en Windows 11 y todo lo que nos permite hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913'>El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril' />
     </a>
 </div>
 
