@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317'>El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estabilizador-moviles-dji-om-4-tres-ejes-te-permitira-grabar-videos-perfectos-solo-cuesta-89-euros-2682505.jpg' alt='El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307'>Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados</a></h4>
     <a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/5-ideas-clave-revela-andy-jassy-primer-email-empleados-como-ceo-amazon-2413139.jpg' alt='Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295'>WhatsApp quiere recuperar el “Party-Line” con esta actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-recuperar-party-line-actualizacion-1049295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere recuperar el “Party-Line” con esta actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297'>RTVE pone fin a la serie que nos ha acompañado desde 2001</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/rtve-final-cuentame-1049297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cuentame-como-paso-2053929.jpg' alt='RTVE pone fin a la serie que nos ha acompañado desde 2001' />
     </a>
 </div>
 
