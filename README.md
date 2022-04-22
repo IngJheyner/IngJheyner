@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989'>La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-usan-formula-1-conseguir-maximo-rendimiento-minimo-coste-1048989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/f1%201.jpg' alt='La tecnología que usan en Fórmula 1 para conseguir el máximo rendimiento con el mínimo coste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-vas-conocer-todos-ajustes-ocultos-smartphone-1048925'>Con esta app vas a conocer todos los ajustes ocultos de tu smartphone </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-vas-conocer-todos-ajustes-ocultos-smartphone-1048925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-9c-2672887.jpg' alt='Con esta app vas a conocer todos los ajustes ocultos de tu smartphone ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-5-16-gb-ram-oferta-amazon-1048615'>Ahorra dinero y espacio en tu mesa: este Mini PC con Ryzen 5 y 16 GB de RAM está en oferta por menos de 400€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-ryzen-5-16-gb-ram-oferta-amazon-1048615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/minis-forum-um350-2681003.jpg' alt='Ahorra dinero y espacio en tu mesa: este Mini PC con Ryzen 5 y 16 GB de RAM está en oferta por menos de 400€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-dios-windows-11-todo-nos-permite-hacer-1048923'>Cómo activar el modo Dios en Windows 11 y todo lo que nos permite hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-dios-windows-11-todo-nos-permite-hacer-1048923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/modo-dios-windows-11-2507111.jpg' alt='Cómo activar el modo Dios en Windows 11 y todo lo que nos permite hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913'>El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-mate-xs-2-oficial-sera-presentado-28-abril-1048913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/huawei-mate-xs-2024223.jpg' alt='El nuevo Huawei Mate Xs 2 es oficial y será presentado el 28 de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901'>La app que convierte tu smartphone en un radar móvil para coches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-convierte-smartphone-radar-movil-coches-1048901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/radar-portatil-trucam-ii-2063413.jpg' alt='La app que convierte tu smartphone en un radar móvil para coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143'>¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cansado-windows-chromebook-menos-300-euros-hara-android-llegue-todas-partes-1047143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hp-chromebook-14a-na1012ns-2677883.jpg' alt='¿Cansado de Windows? Este Chromebook de menos de 300 euros hará que Android llegue a todas partes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/puedes-ganar-dinero-jugando-xbox-pc-1048667'>Así puedes ganar dinero jugando con tu Xbox o PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/puedes-ganar-dinero-jugando-xbox-pc-1048667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xbox-game-pass-2153229.jpg' alt='Así puedes ganar dinero jugando con tu Xbox o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663'>El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primer-taxi-hidrogeno-ya-puede-rodar-madrid-limpiara-aire-ciudad-1048663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/toyota-mirai-2681157.jpg' alt='El primer taxi de hidrógeno ya puede rodar por Madrid y limpiará el aire de la ciudad' />
     </a>
 </div>
 
