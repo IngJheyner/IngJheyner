@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567'>Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531'>OnePlus 10 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680719.jpg' alt='OnePlus 10 Pro, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-uuid-son-utiles-1026215'>Qué son los UUID y por qué son útiles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/son-uuid-son-utiles-1026215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-2641673.jpg' alt='Qué son los UUID y por qué son útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185'>Roborock S7 MaxV Ultra, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-roborock-s7-maxv-ultra-2679533.jpg' alt='Roborock S7 MaxV Ultra, análisis y opinión' />
     </a>
 </div>
 
