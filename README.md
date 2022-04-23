@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cecotec-2621949.jpg' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527'>Alimentos cotidianos que son tóxicos para los perros</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alimentos-cotidianos-son-toxicos-perros-2682699.jpg' alt='Alimentos cotidianos que son tóxicos para los perros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319'>Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg' alt='Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317'>El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estabilizador-moviles-dji-om-4-tres-ejes-te-permitira-grabar-videos-perfectos-solo-cuesta-89-euros-2682505.jpg' alt='El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros' />
     </a>
 </div>
 
