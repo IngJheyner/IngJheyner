@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531'>OnePlus 10 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680719.jpg' alt='OnePlus 10 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/delicioso-postre-da-nombre-interno-android-14-1049555'>Este es el delicioso postre que da nombre interno a Android 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/delicioso-postre-da-nombre-interno-android-14-1049555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-14-upside-down-cake-2682745.jpg' alt='Este es el delicioso postre que da nombre interno a Android 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-low-cost-huawei-39-euros-cancelacion-ruido-activa-1047269'>Los AirPods low cost de Huawei, por 39 euros y con cancelación de ruido activa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-low-cost-huawei-39-euros-cancelacion-ruido-activa-1047269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/huawei-freebuds-3i-2212033.jpg' alt='Los AirPods low cost de Huawei, por 39 euros y con cancelación de ruido activa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185'>Roborock S7 MaxV Ultra, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-roborock-s7-maxv-ultra-2679533.jpg' alt='Roborock S7 MaxV Ultra, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-made-spain-consume-33-menos-electricidad-ademas-desinfecta-ropa-1047261'>Esta lavadora programable "made in Spain" consume un 33% menos de electricidad y además desinfecta la ropa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-made-spain-consume-33-menos-electricidad-ademas-desinfecta-ropa-1047261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bolero-dresscode-9600-inverter-steel-2678201.jpg' alt='Esta lavadora programable "made in Spain" consume un 33% menos de electricidad y además desinfecta la ropa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433'>Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646927.jpg' alt='Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo' />
     </a>
 </div>
 
