@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625'>Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-12-pro-2166095.jpg' alt='Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593'>Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg' alt='Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-servicio-reparacion-gratuito-tienes-problema-apple-watch-series-6-1049577'>Apple lanza un servicio de reparación gratuito si tienes este problema con el Apple Watch Series 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-servicio-reparacion-gratuito-tienes-problema-apple-watch-series-6-1049577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/apple-watch-series-6-2080641.jpg' alt='Apple lanza un servicio de reparación gratuito si tienes este problema con el Apple Watch Series 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/trilogias-sagas-completas-hbo-max-netflix-disney-prime-video-1047351'>7 trilogías y sagas completas (o casi) que puedes ver en HBO Max, Netflix, Disney+ y Prime Video</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/trilogias-sagas-completas-hbo-max-netflix-disney-prime-video-1047351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/7-trilogias-sagas-completas-casi-puedes-ver-hbo-max-netflix-disney-prime-video-2678429.jpg' alt='7 trilogías y sagas completas (o casi) que puedes ver en HBO Max, Netflix, Disney+ y Prime Video' />
     </a>
 </div>
 
