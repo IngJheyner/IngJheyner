@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593'>Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg' alt='Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-airtags-presentacion-powerpoint-recuperar-equipaje-perdido-1049591'>Usa AirTags y una presentación de PowerPoint para recuperar su equipaje perdido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usa-airtags-presentacion-powerpoint-recuperar-equipaje-perdido-1049591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg' alt='Usa AirTags y una presentación de PowerPoint para recuperar su equipaje perdido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/trilogias-sagas-completas-hbo-max-netflix-disney-prime-video-1047351'>7 trilogías y sagas completas (o casi) que puedes ver en HBO Max, Netflix, Disney+ y Prime Video</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/trilogias-sagas-completas-hbo-max-netflix-disney-prime-video-1047351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/7-trilogias-sagas-completas-casi-puedes-ver-hbo-max-netflix-disney-prime-video-2678429.jpg' alt='7 trilogías y sagas completas (o casi) que puedes ver en HBO Max, Netflix, Disney+ y Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567'>Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV' />
     </a>
 </div>
 
