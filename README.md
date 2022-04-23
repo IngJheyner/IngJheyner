@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-buscar-usar-filtros-instagram-ademas-utilizarlos-whatsapp-1044547'>Cómo buscar y usar filtros de Instagram, además de utilizarlos en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-buscar-usar-filtros-instagram-ademas-utilizarlos-whatsapp-1044547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2673901.jpg' alt='Cómo buscar y usar filtros de Instagram, además de utilizarlos en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cecotec-2621949.jpg' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885'>Graban una nueva "palabra" de la ballena jorobada, que nunca se había escuchado</a></h4>
     <a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/graban-nueva-palabra-ballena-jorabada-nunca-habia-escuchado-2681405.jpg' alt='Graban una nueva "palabra" de la ballena jorobada, que nunca se había escuchado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319'>Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/youtuber-trevor-jacob-pierde-licencia-piloto-estrellar-avion-video-1049319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg' alt='Un youtuber pierde su licencia de piloto por estrellar su avión a propósito para un vídeo' />
     </a>
 </div>
 
