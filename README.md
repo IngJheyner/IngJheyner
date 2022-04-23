@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-low-cost-huawei-39-euros-cancelacion-ruido-activa-1047269'>Los AirPods low cost de Huawei, por 39 euros y con cancelación de ruido activa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-low-cost-huawei-39-euros-cancelacion-ruido-activa-1047269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/huawei-freebuds-3i-2212033.jpg' alt='Los AirPods low cost de Huawei, por 39 euros y con cancelación de ruido activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-uuid-son-utiles-1026215'>Qué son los UUID y por qué son útiles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-uuid-son-utiles-1026215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-2641673.jpg' alt='Qué son los UUID y por qué son útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185'>Roborock S7 MaxV Ultra, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/roborock-s7-maxv-ultra-review-opinion-1039185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-roborock-s7-maxv-ultra-2679533.jpg' alt='Roborock S7 MaxV Ultra, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433'>Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646927.jpg' alt='Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-atajos-teclado-youtube-1032821'>Los mejores trucos y atajos de teclado para YouTube</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-atajos-teclado-youtube-1032821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Los mejores trucos y atajos de teclado para YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m53-5g-mejor-gama-media-1048579'>5 motivos por los que el Samsung Galaxy M53 5G es uno de los mejores gama media de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-m53-5g-mejor-gama-media-1048579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680871.jpg' alt='5 motivos por los que el Samsung Galaxy M53 5G es uno de los mejores gama media de 2022' />
     </a>
 </div>
 
