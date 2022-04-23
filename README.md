@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-made-spain-consume-33-menos-electricidad-ademas-desinfecta-ropa-1047261'>Esta lavadora programable "made in Spain" consume un 33% menos de electricidad y además desinfecta la ropa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lavadora-programable-made-spain-consume-33-menos-electricidad-ademas-desinfecta-ropa-1047261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bolero-dresscode-9600-inverter-steel-2678201.jpg' alt='Esta lavadora programable "made in Spain" consume un 33% menos de electricidad y además desinfecta la ropa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433'>Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tabletas-torrijas-dulce-bocado-anuncia-cambio-ciclo-1042433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646927.jpg' alt='Tabletas y torrijas, un dulce bocado que anuncia cambio de ciclo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-atajos-teclado-youtube-1032821'>Los mejores trucos y atajos de teclado para YouTube</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-atajos-teclado-youtube-1032821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Los mejores trucos y atajos de teclado para YouTube' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-buscar-usar-filtros-instagram-ademas-utilizarlos-whatsapp-1044547'>Cómo buscar y usar filtros de Instagram, además de utilizarlos en WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-buscar-usar-filtros-instagram-ademas-utilizarlos-whatsapp-1044547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2673901.jpg' alt='Cómo buscar y usar filtros de Instagram, además de utilizarlos en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425'>Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-cecotec-1015425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aceite-cecotec-2621949.jpg' alt='Comprar una freidora sin aceite de Cecotec: modelos, diferencias y todo lo que debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527'>Alimentos cotidianos que son tóxicos para los perros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alimentos-cotidianos-son-toxicos-perros-2682699.jpg' alt='Alimentos cotidianos que son tóxicos para los perros' />
     </a>
 </div>
 
