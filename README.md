@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885'>Graban una nueva "palabra" de la ballena jorabada, que nunca se había escuchado</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527'>Alimentos cotidianos que son tóxicos para los perros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimentos-toxicos-perros-1049527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alimentos-cotidianos-son-toxicos-perros-2682699.jpg' alt='Alimentos cotidianos que son tóxicos para los perros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/fabricantes-compra-lavadoras-quitarles-chips-1049321'>Algunos fabricantes están comprando lavadoras para quitarles los chips y usarlos en sus productos</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/fabricantes-compra-lavadoras-quitarles-chips-1049321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/algunos-fabricantes-estan-comprando-lavadoras-quitarles-chips-usarlos-productos-2682513.jpg' alt='Algunos fabricantes están comprando lavadoras para quitarles los chips y usarlos en sus productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885'>Graban una nueva "palabra" de la ballena jorobada, que nunca se había escuchado</a></h4>
     <a href='https://computerhoy.com/noticias/life/graban-nuevo-sonido-ballena-jorabada-1048885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/graban-nueva-palabra-ballena-jorabada-nunca-habia-escuchado-2681405.jpg' alt='Graban una nueva "palabra" de la ballena jorabada, que nunca se había escuchado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/graban-nueva-palabra-ballena-jorabada-nunca-habia-escuchado-2681405.jpg' alt='Graban una nueva "palabra" de la ballena jorobada, que nunca se había escuchado' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317'>El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estabilizador-moviles-dji-om-4-tres-ejes-oferta-1049317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estabilizador-moviles-dji-om-4-tres-ejes-te-permitira-grabar-videos-perfectos-solo-cuesta-89-euros-2682505.jpg' alt='El estabilizador para móviles DJI OM 4 SE de tres ejes te permitirá grabar vídeos perfectos, y solo cuesta 89 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307'>Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/unica-pregunta-ceo-amazon-nunca-acepta-empleados-1049307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/5-ideas-clave-revela-andy-jassy-primer-email-empleados-como-ceo-amazon-2413139.jpg' alt='Esta es la única pregunta que el CEO de Amazon nunca acepta de sus empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303'>Twitter estaría preparando una nueva característica que no terminaría de tener sentido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-estaria-preparando-nueva-caracteristica-no-terminaria-tener-sentido-1049303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter estaría preparando una nueva característica que no terminaría de tener sentido' />
     </a>
 </div>
 
