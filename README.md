@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usa-airtags-presentacion-powerpoint-recuperar-equipaje-perdido-1049591'>Usa AirTags y una presentación de PowerPoint para recuperar su equipaje perdido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usa-airtags-presentacion-powerpoint-recuperar-equipaje-perdido-1049591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg' alt='Usa AirTags y una presentación de PowerPoint para recuperar su equipaje perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-television-4k-hisense-58-pulgadas-sera-reina-salon-solo-419-euros-1049579'>Esta imponente televisión 4K de Hisense de 58 pulgadas será la reina de tu salón por solo 419 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imponente-television-4k-hisense-58-pulgadas-sera-reina-salon-solo-419-euros-1049579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hisense-58ae7000f-2682789.jpg' alt='Esta imponente televisión 4K de Hisense de 58 pulgadas será la reina de tu salón por solo 419 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567'>Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nueva-seccion-categorias-llega-app-netflix-smart-tv-1049567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='Esta es la nueva sección de categorías que llega a la app de Netflix en las Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531'>OnePlus 10 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10-pro-review-opinion-1048531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680719.jpg' alt='OnePlus 10 Pro, análisis y opinión' />
     </a>
 </div>
 
