@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643'>El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-watch4-2436165.jpg' alt='El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625'>Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-12-pro-2166095.jpg' alt='Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-television-4k-hisense-58-pulgadas-sera-reina-salon-solo-419-euros-1049579'>Esta imponente televisión 4K de Hisense de 58 pulgadas será la reina de tu salón por solo 419 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imponente-television-4k-hisense-58-pulgadas-sera-reina-salon-solo-419-euros-1049579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hisense-58ae7000f-2682789.jpg' alt='Esta imponente televisión 4K de Hisense de 58 pulgadas será la reina de tu salón por solo 419 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-servicio-reparacion-gratuito-tienes-problema-apple-watch-series-6-1049577'>Apple lanza un servicio de reparación gratuito si tienes este problema con el Apple Watch Series 6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-lanza-servicio-reparacion-gratuito-tienes-problema-apple-watch-series-6-1049577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/apple-watch-series-6-2080641.jpg' alt='Apple lanza un servicio de reparación gratuito si tienes este problema con el Apple Watch Series 6' />
     </a>
 </div>
 
