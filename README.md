@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885'>El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-tokyvideo-youtube-espanol-series-peliculas-2681749.jpg' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879'>Crean el chocolate perfecto ¡con una impresora 3D!</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg' alt='Crean el chocolate perfecto ¡con una impresora 3D!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-gpu-conseguir-mayor-rendimiento-juegos-1002439'>Cómo optimizar la GPU para conseguir un mayor rendimiento en juegos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-gpu-conseguir-mayor-rendimiento-juegos-1002439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-rtx-3060-ti-2153499.jpg' alt='Cómo optimizar la GPU para conseguir un mayor rendimiento en juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-cuentas-falsas-hacen-pasar-soporte-oficial-robar-datos-1049867'>Nueva estafa en WhatsApp: cuentas falsas se hacen pasar por el soporte oficial para robar tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-cuentas-falsas-hacen-pasar-soporte-oficial-robar-datos-1049867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-estafa-2607135.jpg' alt='Nueva estafa en WhatsApp: cuentas falsas se hacen pasar por el soporte oficial para robar tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571'>Apple Mac Studio con M1 Max, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-mac-studio-m1-max-2682859.jpg' alt='Apple Mac Studio con M1 Max, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-movil-cuesta-179-euros-tiene-chrome-os-1049275'>Este portátil es más barato que un móvil: cuesta 179 euros y tiene Chrome OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-movil-cuesta-179-euros-tiene-chrome-os-1049275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lenovo-ideapad-3-cb-14m836-chromebook-gen-6-2682421.jpg' alt='Este portátil es más barato que un móvil: cuesta 179 euros y tiene Chrome OS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-pixel-watch-primer-smartwatch-google-1049859'>Estas son las primeras imágenes reales del Pixel Watch: el primer smartwatch de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-pixel-watch-primer-smartwatch-google-1049859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-pixel-watch-2683127.jpg' alt='Estas son las primeras imágenes reales del Pixel Watch: el primer smartwatch de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469'>¿Qué es la Ley de Mercados Digitales?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ley-mercados-digitales-2681755.jpg' alt='¿Qué es la Ley de Mercados Digitales?' />
     </a>
 </div>
 
