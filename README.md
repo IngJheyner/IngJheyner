@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-cuentas-falsas-hacen-pasar-soporte-oficial-robar-datos-1049867'>Nueva estafa en WhatsApp: cuentas falsas se hacen pasar por el soporte oficial para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-estafa-whatsapp-cuentas-falsas-hacen-pasar-soporte-oficial-robar-datos-1049867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-estafa-2607135.jpg' alt='Nueva estafa en WhatsApp: cuentas falsas se hacen pasar por el soporte oficial para robar tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571'>Apple Mac Studio con M1 Max, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-mac-studio-m1-max-2682859.jpg' alt='Apple Mac Studio con M1 Max, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469'>¿Qué es la Ley de Mercados Digitales?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ley-mercados-digitales-2681755.jpg' alt='¿Qué es la Ley de Mercados Digitales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267'>Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera' />
     </a>
 </div>
 
