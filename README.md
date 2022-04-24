@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639'>Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airyacht-2682891.jpg' alt='Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387'>Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stream-deck-2663529.jpg' alt='Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cursos-udemy-desarrollador-full-stack-javascript-1049251'>5 cursos online de Udemy para convertirte en desarrollador full stack con Javascript</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cursos-udemy-desarrollador-full-stack-javascript-1049251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/portatil-abierto-programa-escribir-javascript-mesa-junto-cactus-ventana-2682399.jpg' alt='5 cursos online de Udemy para convertirte en desarrollador full stack con Javascript' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841'>Cómo entrar en la BIOS desde Windows 10 o Windows 11</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/actualizar-bios_1.jpg' alt='Cómo entrar en la BIOS desde Windows 10 o Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143'>Consejos y guía para comprar sensores inteligentes para puertas y ventanas</a></h4>
     <a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sensor-ventana-2614313.jpg' alt='Consejos y guía para comprar sensores inteligentes para puertas y ventanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-central-nuclear-1047951'>¿Cómo funciona una central nuclear?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-central-nuclear-1047951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/central-nuclear-2679563.jpg' alt='¿Cómo funciona una central nuclear?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/medusa-huevo-frito-podria-curar-cancer-mama-1045175'>La medusa "huevo frito" esconde un maravilloso secreto: podría curar el cáncer de mama</a></h4>
-    <a href='https://computerhoy.com/noticias/life/medusa-huevo-frito-podria-curar-cancer-mama-1045175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medusa-huevo-frito-esconde-maravilloso-secreto-podria-curar-cancer-mama-2675135.jpg' alt='La medusa "huevo frito" esconde un maravilloso secreto: podría curar el cáncer de mama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643'>El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-watch4-2436165.jpg' alt='El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros' />
     </a>
 </div>
 
