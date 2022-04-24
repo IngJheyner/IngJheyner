@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467'>Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059'>A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oral-b-genius-x-2677661.jpg' alt='A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-atreven-inventando-rata-robot-puede-hacer-todo-1049629'>Investigadores se atreven inventando una rata robot, y puede hacer todo esto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-atreven-inventando-rata-robot-puede-hacer-todo-1049629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/squro-2682871.jpg' alt='Investigadores se atreven inventando una rata robot, y puede hacer todo esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639'>Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos</a></h4>
     <a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airyacht-2682891.jpg' alt='Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387'>Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stream-deck-2663529.jpg' alt='Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cursos-udemy-desarrollador-full-stack-javascript-1049251'>5 cursos online de Udemy para convertirte en desarrollador full stack con Javascript</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cursos-udemy-desarrollador-full-stack-javascript-1049251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/portatil-abierto-programa-escribir-javascript-mesa-junto-cactus-ventana-2682399.jpg' alt='5 cursos online de Udemy para convertirte en desarrollador full stack con Javascript' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841'>Cómo entrar en la BIOS desde Windows 10 o Windows 11</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/actualizar-bios_1.jpg' alt='Cómo entrar en la BIOS desde Windows 10 o Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143'>Consejos y guía para comprar sensores inteligentes para puertas y ventanas</a></h4>
-    <a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sensor-ventana-2614313.jpg' alt='Consejos y guía para comprar sensores inteligentes para puertas y ventanas' />
     </a>
 </div>
 
