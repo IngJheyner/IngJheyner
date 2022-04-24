@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841'>Cómo entrar en la BIOS desde Windows 10 o Windows 11</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-entrar-bios-windows-10-windows-11-1015841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/actualizar-bios_1.jpg' alt='Cómo entrar en la BIOS desde Windows 10 o Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143'>Consejos y guía para comprar sensores inteligentes para puertas y ventanas</a></h4>
     <a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sensor-ventana-2614313.jpg' alt='Consejos y guía para comprar sensores inteligentes para puertas y ventanas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643'>El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch4-smartwatch-samsung-mejor-te-conoce-oferta-168-euros-1049643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-watch4-2436165.jpg' alt='El Galaxy Watch4 es el smartwatch de Samsung que mejor te conoce y en oferta a 168 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625'>Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-12-pro-2166095.jpg' alt='Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente' />
     </a>
 </div>
 
