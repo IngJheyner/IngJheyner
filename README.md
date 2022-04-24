@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793'>Samsung Galaxy A53 5G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678359.jpg' alt='Samsung Galaxy A53 5G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467'>Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639'>Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos</a></h4>
     <a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airyacht-2682891.jpg' alt='Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387'>Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stream-deck-2663529.jpg' alt='Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers' />
     </a>
 </div>
 
