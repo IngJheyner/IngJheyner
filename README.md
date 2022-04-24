@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403'>El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/par-3-golf-dificil-mundo-solo-puede-llegar-helicoptero-hoyo-400-metros-abajo-2680325.jpg' alt='El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947'>Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-necesidad-lavarla-2683301.jpg' alt='Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973'>Las mejores bicis eléctricas baratas que puedes comprar en España</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/esta-bici-electrica-te-permite-pedalear-ritmo-tour-francia.jpg' alt='Las mejores bicis eléctricas baratas que puedes comprar en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921'>Así va a cobrarte Netflix por compartir la contraseña</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Así va a cobrarte Netflix por compartir la contraseña' />
     </a>
 </div>
 
