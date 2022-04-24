@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973'>Las mejores bicis eléctricas baratas que puedes comprar en España</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/esta-bici-electrica-te-permite-pedalear-ritmo-tour-francia.jpg' alt='Las mejores bicis eléctricas baratas que puedes comprar en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921'>Así va a cobrarte Netflix por compartir la contraseña</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Así va a cobrarte Netflix por compartir la contraseña' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885'>El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-tokyvideo-youtube-espanol-series-peliculas-2681749.jpg' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
     </a>
 </div>
 
