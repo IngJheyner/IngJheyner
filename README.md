@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571'>Apple Mac Studio con M1 Max, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/apple-mac-studio-m1-max-review-opinion-1049571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/apple-mac-studio-m1-max-2682859.jpg' alt='Apple Mac Studio con M1 Max, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-movil-cuesta-179-euros-tiene-chrome-os-1049275'>Este portátil es más barato que un móvil: cuesta 179 euros y tiene Chrome OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-barato-movil-cuesta-179-euros-tiene-chrome-os-1049275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lenovo-ideapad-3-cb-14m836-chromebook-gen-6-2682421.jpg' alt='Este portátil es más barato que un móvil: cuesta 179 euros y tiene Chrome OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-pixel-watch-primer-smartwatch-google-1049859'>Estas son las primeras imágenes reales del Pixel Watch: el primer smartwatch de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-pixel-watch-primer-smartwatch-google-1049859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-pixel-watch-2683127.jpg' alt='Estas son las primeras imágenes reales del Pixel Watch: el primer smartwatch de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469'>¿Qué es la Ley de Mercados Digitales?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ley-mercados-digitales-2681755.jpg' alt='¿Qué es la Ley de Mercados Digitales?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267'>Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-historial-router-wifi-1021929'>Cómo borrar el historial de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-historial-router-wifi-1021929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-2633825.jpg' alt='Cómo borrar el historial de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793'>Samsung Galaxy A53 5G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678359.jpg' alt='Samsung Galaxy A53 5G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467'>Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4' />
     </a>
 </div>
 
