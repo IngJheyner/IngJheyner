@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937'>Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tuenti-2473855.jpg' alt='Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973'>Las mejores bicis eléctricas baratas que puedes comprar en España</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/esta-bici-electrica-te-permite-pedalear-ritmo-tour-francia.jpg' alt='Las mejores bicis eléctricas baratas que puedes comprar en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891'>Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/app-store-2683177.jpg' alt='Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885'>El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-gama-alta-xiaomi-ya-oferta-solo-699-euros-auriculares-buds-3-regalo-1049885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12x-2683151.jpg' alt='El nuevo gama alta de Xiaomi ya en oferta a solo 699 euros y con los auriculares Buds 3 de regalo' />
     </a>
 </div>
 
