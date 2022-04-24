@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469'>¿Qué es la Ley de Mercados Digitales?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ley-mercados-digitales-1037469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ley-mercados-digitales-2681755.jpg' alt='¿Qué es la Ley de Mercados Digitales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267'>Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467'>Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/formas-forzar-cierre-programa-windows-11-alternativas-alt-f4-1048467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Formas de forzar el cierre de un programa en Windows 11 alternativas a Alt + F4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059'>A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oral-b-genius-x-2677661.jpg' alt='A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas' />
     </a>
 </div>
 
