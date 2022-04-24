@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945'>Al fin se sabe para qué va a usar Twitter estas imágenes tan locas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fin-sabe-va-usar-twitter-estas-imagenes-tan-locas-2683289.jpg' alt='Al fin se sabe para qué va a usar Twitter estas imágenes tan locas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937'>Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes</a></h4>
     <a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tuenti-2473855.jpg' alt='Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907'>Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajan-maquinas-demolicion-modernas-video-2683209.jpg' alt='Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891'>Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/app-store-2683177.jpg' alt='Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo' />
     </a>
 </div>
 
