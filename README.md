@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143'>Consejos y guía para comprar sensores inteligentes para puertas y ventanas</a></h4>
+    <a href='https://computerhoy.com/guia-compra/sensores-inteligentes-puertas-ventanas-1011143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sensor-ventana-2614313.jpg' alt='Consejos y guía para comprar sensores inteligentes para puertas y ventanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-central-nuclear-1047951'>¿Cómo funciona una central nuclear?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-central-nuclear-1047951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/central-nuclear-2679563.jpg' alt='¿Cómo funciona una central nuclear?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625'>Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-colores-venta-iphone-14-color-purpura-sorprendente-1049625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-12-pro-2166095.jpg' alt='Estos serían los colores de venta del iPhone 14 con un color púrpura sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593'>Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apunta-metaverso-registro-nuevos-cascos-realidad-virtual-1049593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg' alt='Samsung se apunta al metaverso con el registro de unos nuevos cascos de realidad virtual' />
     </a>
 </div>
 
