@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945'>Al fin se sabe para qué va a usar Twitter estas imágenes tan locas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947'>Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-necesidad-lavarla-2683301.jpg' alt='Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945'>Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fin-sabe-va-usar-twitter-estas-imagenes-tan-locas-2683289.jpg' alt='Al fin se sabe para qué va a usar Twitter estas imágenes tan locas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fin-sabe-va-usar-twitter-estas-imagenes-tan-locas-2683289.jpg' alt='Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921'>Así va a cobrarte Netflix por compartir la contraseña</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Así va a cobrarte Netflix por compartir la contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907'>Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajan-maquinas-demolicion-modernas-video-2683209.jpg' alt='Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)' />
     </a>
 </div>
 
