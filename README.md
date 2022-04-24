@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907'>Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajan-maquinas-demolicion-modernas-video-2683209.jpg' alt='Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891'>Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-empezara-retirar-aplicaciones-tienda-no-hayan-sido-actualizadas-mucho-tiempo-1049891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/app-store-2683177.jpg' alt='Apple empezará a retirar aplicaciones de su tienda que no hayan sido actualizadas en mucho tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879'>Crean el chocolate perfecto ¡con una impresora 3D!</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg' alt='Crean el chocolate perfecto ¡con una impresora 3D!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-gpu-conseguir-mayor-rendimiento-juegos-1002439'>Cómo optimizar la GPU para conseguir un mayor rendimiento en juegos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gaming/como-optimizar-gpu-conseguir-mayor-rendimiento-juegos-1002439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-rtx-3060-ti-2153499.jpg' alt='Cómo optimizar la GPU para conseguir un mayor rendimiento en juegos' />
     </a>
 </div>
 
