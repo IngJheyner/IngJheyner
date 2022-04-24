@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921'>Así va a cobrarte Netflix por compartir la contraseña</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/asi-funcionan-compartir-contrasena-netflix-1049921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Así va a cobrarte Netflix por compartir la contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907'>Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/maquinas-demolicion-kobelco-video-1049907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajan-maquinas-demolicion-modernas-video-2683209.jpg' alt='Así trabajan las máquinas de demolición modernas: a mordiscos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-funciona-tokyvideo-youtube-espanol-series-peliculas-2681749.jpg' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879'>Crean el chocolate perfecto ¡con una impresora 3D!</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-chocolate-perfecto-impresora-3d-1049879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comer-chocolate-2683147.jpg' alt='Crean el chocolate perfecto ¡con una impresora 3D!' />
     </a>
 </div>
 
