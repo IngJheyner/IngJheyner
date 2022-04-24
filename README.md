@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267'>Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebox-mini-pc-core-i5-16gb-ram-oferta-1049267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Chuwi CoreBox es un mini PC con Core i5, 16GB de RAM que ocupa poco espacio en tu mesa y menos en tu cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-historial-router-wifi-1021929'>Cómo borrar el historial de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-borrar-historial-router-wifi-1021929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-2633825.jpg' alt='Cómo borrar el historial de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793'>Samsung Galaxy A53 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-a53-5g-review-opinion-1042793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678359.jpg' alt='Samsung Galaxy A53 5G, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059'>A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-cepillo-electrico-ia-te-aconseja-tiempo-real-mientras-te-cepillas-1047059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oral-b-genius-x-2677661.jpg' alt='A mitad de precio: este cepillo eléctrico con IA te aconseja en tiempo real mientras te cepillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-atreven-inventando-rata-robot-puede-hacer-todo-1049629'>Investigadores se atreven inventando una rata robot, y puede hacer todo esto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-atreven-inventando-rata-robot-puede-hacer-todo-1049629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/squro-2682871.jpg' alt='Investigadores se atreven inventando una rata robot, y puede hacer todo esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639'>Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/imaginan-yate-volador-impulsado-zepelin-surcar-cielos-oceanos-1049639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airyacht-2682891.jpg' alt='Imaginan un yate volador impulsado por un zepelín para surcar cielos y océanos' />
     </a>
 </div>
 
