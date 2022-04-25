@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-cumple-hoy-17-anos-estos-son-primer-video-destacados-plataforma-1050123'>YouTube cumple hoy 17 años y estos son el primer video y los más destacados de la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-cumple-hoy-17-anos-estos-son-primer-video-destacados-plataforma-1050123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/youtube-2317851.jpg' alt='YouTube cumple hoy 17 años y estos son el primer video y los más destacados de la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precio-poco-f3-toca-fondo-xiaomi-vende-solo-239eu-codigo-descuento-1048967'>El precio del POCO F3 toca fondo: Xiaomi lo vende por solo 239€ con un código descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precio-poco-f3-toca-fondo-xiaomi-vende-solo-239eu-codigo-descuento-1048967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-review-poco-f3-2301553.jpg' alt='El precio del POCO F3 toca fondo: Xiaomi lo vende por solo 239€ con un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665'>El coste de cargar la batería de los 14 coches eléctricos más populares</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='El coste de cargar la batería de los 14 coches eléctricos más populares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943'>Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/programador-2683299.jpg' alt='Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403'>El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/par-3-golf-dificil-mundo-solo-puede-llegar-helicoptero-hoyo-400-metros-abajo-2680325.jpg' alt='El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947'>Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-necesidad-lavarla-2683301.jpg' alt='Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros' />
     </a>
 </div>
 
