@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525'>Es oficial: Elon Musk compra Twitter por 44.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Es oficial: Elon Musk compra Twitter por 44.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513'>La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503'>Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-estreno-mayo-movistar-plus-1050491'>Series de estreno en mayo en Movistar Plus+: ciencia-ficción, espías, y nuevas temporadas de series míticas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-estreno-mayo-movistar-plus-1050491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-estreno-mayo-movistar-plus-ciencia-ficcion-espias-nuevas-temporadas-series-miticas-2684299.jpg' alt='Series de estreno en mayo en Movistar Plus+: ciencia-ficción, espías, y nuevas temporadas de series míticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475'>Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247'>5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/fitbit-sense-analisis-opinion-2222829.jpg' alt='5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio' />
     </a>
 </div>
 
