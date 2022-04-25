@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-rapida-nunca-tablet-huawei-matepad-104-ne-chollo-descuento-130-euros-1046711'>Pantalla 2K y más rápida que nunca: esta tablet Huawei MatePad 10.4 NE es un chollo con este descuento de 130 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-2k-rapida-nunca-tablet-huawei-matepad-104-ne-chollo-descuento-130-euros-1046711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-104-new-edition-2624203.jpg' alt='Pantalla 2K y más rápida que nunca: esta tablet Huawei MatePad 10.4 NE es un chollo con este descuento de 130 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-google-docs-critican-duramente-algoritmos-ia-utilizados-escritura-asistida-1050253'>Los usuarios de Google Docs critican duramente los algoritmos de IA utilizados para la escritura asistida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-google-docs-critican-duramente-algoritmos-ia-utilizados-escritura-asistida-1050253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Los usuarios de Google Docs critican duramente los algoritmos de IA utilizados para la escritura asistida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fabrican-disipadores-pc-dispositivos-electronicos-1050175'>Así se fabrican los disipadores para PC y dispositivos electrónicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fabrican-disipadores-pc-dispositivos-electronicos-1050175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/disipador-ps5-2453337.jpg' alt='Así se fabrican los disipadores para PC y dispositivos electrónicos' />
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-ideal-lavadora-dejar-ropa-limpia-ahorrando-factura-luz-1050265'>La temperatura ideal de la lavadora para dejar la ropa limpia ahorrando en la factura de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-ideal-lavadora-dejar-ropa-limpia-ahorrando-factura-luz-1050265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hay-cosa-casi-nadie-hace-lavadora-pero-vital-no-produzca-olores-2651905.jpg' alt='La temperatura ideal de la lavadora para dejar la ropa limpia ahorrando en la factura de la luz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-gran-semana-series-streaming-3-novedades-acertaras-1050171'>Llega la gran semana de las series al streaming: 3 novedades con las que acertarás</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/llega-gran-semana-series-streaming-3-novedades-acertaras-1050171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ozark-2591527.jpg' alt='Llega la gran semana de las series al streaming: 3 novedades con las que acertarás' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizar-ryzen-7000-obligara-gamers-cambiar-todo-pc-1050235'>Actualizar a Ryzen 7000 obligará a los gamers a cambiar todo el PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizar-ryzen-7000-obligara-gamers-cambiar-todo-pc-1050235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amd-ryzen-4000h-2571429.jpg' alt='Actualizar a Ryzen 7000 obligará a los gamers a cambiar todo el PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-138-kg-peso-portatil-ultraligero-oferta-amazon-menos-500-euros-1050193'>Solo 1,38 kg de peso: este portátil ultraligero está en oferta en Amazon por menos de 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solo-138-kg-peso-portatil-ultraligero-oferta-amazon-menos-500-euros-1050193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/honor-magicbook-x14-analisis-opinion-2585315.jpg' alt='Solo 1,38 kg de peso: este portátil ultraligero está en oferta en Amazon por menos de 500 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/configura-google-messages-borrar-automaticamente-sms-doble-factor-autenticacion-movil-1050141'>Configura Google Messages para borrar automáticamente los SMS de doble factor de autenticación en tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/configura-google-messages-borrar-automaticamente-sms-doble-factor-autenticacion-movil-1050141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Configura Google Messages para borrar automáticamente los SMS de doble factor de autenticación en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/venecia-convierte-museo-cobrara-entrada-partir-2023-1050163'>Venecia se convierte en museo y cobrará entrada a partir de 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/life/venecia-convierte-museo-cobrara-entrada-partir-2023-1050163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/venecia_0.jpg' alt='Venecia se convierte en museo y cobrará entrada a partir de 2023' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rakuten-tv-lanza-canales-gratuitos-telefonos-moviles-1050227'>Rakuten TV lanza sus canales gratuitos para teléfonos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/rakuten-tv-lanza-canales-gratuitos-telefonos-moviles-1050227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rakuten-tv-movil-2683651.jpg' alt='Rakuten TV lanza sus canales gratuitos para teléfonos móviles' />
     </a>
 </div>
 
