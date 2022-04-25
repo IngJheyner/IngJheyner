@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2683307.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943'>Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/programador-2683299.jpg' alt='Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403'>El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/par-3-golf-peligroso-mundo-helicoptero-legend-golf-course-1048403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/par-3-golf-dificil-mundo-solo-puede-llegar-helicoptero-hoyo-400-metros-abajo-2680325.jpg' alt='El par 3 de golf más peligroso del mundo: solo se se puede llegar en helicóptero, y el hoyo está 400 metros más abajo (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945'>Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fin-sabe-va-usar-twitter-estas-imagenes-tan-locas-2683289.jpg' alt='Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937'>Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/telefonica-cierra-tuenti-junio-migracion-o2-movistar-1049937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tuenti-2473855.jpg' alt='Telefónica cierra Tuenti definitivamente en junio, y ya sabemos a dónde migrarán sus empleados y clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973'>Las mejores bicis eléctricas baratas que puedes comprar en España</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-bicis-electricas-baratas-puedes-comprar-espana-595973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/esta-bici-electrica-te-permite-pedalear-ritmo-tour-francia.jpg' alt='Las mejores bicis eléctricas baratas que puedes comprar en España' />
     </a>
 </div>
 
