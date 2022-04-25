@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503'>Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499'>Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/supermercado-lidl-2684311.jpg' alt='Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247'>5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/fitbit-sense-analisis-opinion-2222829.jpg' alt='5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417'>Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bloquear-llamadas-2434809.jpg' alt='Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android' />
     </a>
 </div>
 
