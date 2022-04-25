@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417'>Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bloquear-llamadas-2434809.jpg' alt='Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/como-funciona-trucos-mitelees-series-peliculas-gratis-mediaset-425487'>Mitele en 2022: cómo funciona, precios y trucos para encontrar series y películas gratis en el servicio de Mediaset</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/como-funciona-trucos-mitelees-series-peliculas-gratis-mediaset-425487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mitele-2684071.jpg' alt='Mitele en 2022: cómo funciona, precios y trucos para encontrar series y películas gratis en el servicio de Mediaset' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423'>Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-smart-tv-x-full-hd-2684051.jpg' alt='Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803'>Las mejores apps Android para los amantes del manga</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-apps-android-amantes-manga-2676863.jpg' alt='Las mejores apps Android para los amantes del manga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-colageno-1050407'>Para qué sirve el colágeno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-colageno-1050407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/investigadora-pastilla-mano-2496403.jpg' alt='Para qué sirve el colágeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-iphone-14-ya-estan-horno-todo-sabemos-respecto-1050375'>Los nuevos iPhone 14 ya están en el horno y esto es todo lo que sabemos al respecto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-iphone-14-ya-estan-horno-todo-sabemos-respecto-1050375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='Los nuevos iPhone 14 ya están en el horno y esto es todo lo que sabemos al respecto' />
     </a>
 </div>
 
