@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311'>Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental </a></h4>
+    <a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europa-punto-cargarse-puerto-lightning-iphone-mac-1050363'>La Unión Europea está a punto de cargarse el puerto Lightning de los iPhone y Mac</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/union-europa-punto-cargarse-puerto-lightning-iphone-mac-1050363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='La Unión Europea está a punto de cargarse el puerto Lightning de los iPhone y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283'>Cómo saber si un huevo está malo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='Cómo saber si un huevo está malo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/firme-negativa-twitter-pensandose-oferta-elon-musk-1050313'>Tras la firme negativa, Twitter está pensándose la oferta de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/firme-negativa-twitter-pensandose-oferta-elon-musk-1050313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Tras la firme negativa, Twitter está pensándose la oferta de Elon Musk' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-netflix-mes-mayo-nuevas-series-peliculas-temporadas-llegan-plataforma-1050325'>Todos los estrenos de Netflix para el mes de mayo: nuevas series, películas y temporadas que llegan a la plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-netflix-mes-mayo-nuevas-series-peliculas-temporadas-llegan-plataforma-1050325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estrenos-mayo-netflix-2683823.jpg' alt='Todos los estrenos de Netflix para el mes de mayo: nuevas series, películas y temporadas que llegan a la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombazo-amazon-rebajan-robot-cocina-espanol-vendido-solo-158-euros-1050307'>Bombazo de Amazon: rebajan el robot de cocina español más vendido a solo 158 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombazo-amazon-rebajan-robot-cocina-espanol-vendido-solo-158-euros-1050307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-mambo-9050-2683755.jpg' alt='Bombazo de Amazon: rebajan el robot de cocina español más vendido a solo 158 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-honor-8x-llega-espana-snapdragon-680-carga-rapida-225-w-1050291'>Así es el nuevo Honor 8X que llega a España: Snapdragon 680 y carga rápida de 22,5 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-honor-8x-llega-espana-snapdragon-680-carga-rapida-225-w-1050291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/honor-8x-2642349.jpg' alt='Así es el nuevo Honor 8X que llega a España: Snapdragon 680 y carga rápida de 22,5 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-avanza-hyperloop-sera-realidad-proximos-anos-1050261'>Elon Musk lo tiene claro y avanza que el Hyperloop será una realidad en los próximos años </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-claro-avanza-hyperloop-sera-realidad-proximos-anos-1050261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/04/531785-hyperloop-mas-cerca-realidad.jpg' alt='Elon Musk lo tiene claro y avanza que el Hyperloop será una realidad en los próximos años ' />
     </a>
 </div>
 
