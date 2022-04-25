@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/venecia-convierte-museo-cobrara-entrada-partir-2023-1050163'>Venecia se convierte en museo y cobrará entrada a partir de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/life/venecia-convierte-museo-cobrara-entrada-partir-2023-1050163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/venecia_0.jpg' alt='Venecia se convierte en museo y cobrará entrada a partir de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-postear-instagram-pc-mac-buena-idea-1050147'>Cómo postear en Instagram desde PC/Mac y por qué es buena idea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-postear-instagram-pc-mac-buena-idea-1050147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2673901.jpg' alt='Cómo postear en Instagram desde PC/Mac y por qué es buena idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-cumple-hoy-17-anos-estos-son-primer-video-destacados-plataforma-1050123'>YouTube cumple hoy 17 años y estos son el primer video y los más destacados de la plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-cumple-hoy-17-anos-estos-son-primer-video-destacados-plataforma-1050123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/youtube-2317851.jpg' alt='YouTube cumple hoy 17 años y estos son el primer video y los más destacados de la plataforma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665'>El coste de cargar la batería de los 14 coches eléctricos más populares</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='El coste de cargar la batería de los 14 coches eléctricos más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2683307.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943'>Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-aprender-go-1049943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/programador-2683299.jpg' alt='Cursos online para aprender Go, el lenguaje de programación de Google que ya es el más demandado' />
     </a>
 </div>
 
