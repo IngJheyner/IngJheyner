@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-afirma-senales-anuncian-numero-victimas-mortales-carretera-como-dgt-asocian-aumento-accidentes-1050337'>Un estudio afirma que las señales que anuncian el número de víctimas mortales en la carretera, como las de la DGT, se asocian a un aumento de los accidentes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-afirma-senales-anuncian-numero-victimas-mortales-carretera-como-dgt-asocian-aumento-accidentes-1050337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estudio-afirma-senales-como-dgt-anuncian-numero-victimas-mortales-carretera-asocian-aumento-accidentes-2683867.jpg' alt='Un estudio afirma que las señales que anuncian el número de víctimas mortales en la carretera, como las de la DGT, se asocian a un aumento de los accidentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-estaria-punto-hacerse-twitter-1050387'>Elon Musk estaría a punto de hacerse Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-estaria-punto-hacerse-twitter-1050387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk estaría a punto de hacerse Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311'>Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental </a></h4>
     <a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283'>Cómo saber si un huevo está malo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='Cómo saber si un huevo está malo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/firme-negativa-twitter-pensandose-oferta-elon-musk-1050313'>Tras la firme negativa, Twitter está pensándose la oferta de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/firme-negativa-twitter-pensandose-oferta-elon-musk-1050313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Tras la firme negativa, Twitter está pensándose la oferta de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-netflix-mes-mayo-nuevas-series-peliculas-temporadas-llegan-plataforma-1050325'>Todos los estrenos de Netflix para el mes de mayo: nuevas series, películas y temporadas que llegan a la plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todos-estrenos-netflix-mes-mayo-nuevas-series-peliculas-temporadas-llegan-plataforma-1050325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estrenos-mayo-netflix-2683823.jpg' alt='Todos los estrenos de Netflix para el mes de mayo: nuevas series, películas y temporadas que llegan a la plataforma' />
     </a>
 </div>
 
