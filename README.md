@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525'>Es oficial: Elon Musk compra Twitter por 44.000 millones de dólares</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537'>Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297243.jpg' alt='Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525'>Elon Musk compra Twitter por 44.000 millones de dólares</a></h4>
     <a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Es oficial: Elon Musk compra Twitter por 44.000 millones de dólares' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Elon Musk compra Twitter por 44.000 millones de dólares' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499'>Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/supermercado-lidl-2684311.jpg' alt='Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-estreno-mayo-movistar-plus-1050491'>Series de estreno en mayo en Movistar Plus+: ciencia-ficción, espías, y nuevas temporadas de series míticas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-estreno-mayo-movistar-plus-1050491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-estreno-mayo-movistar-plus-ciencia-ficcion-espias-nuevas-temporadas-series-miticas-2684299.jpg' alt='Series de estreno en mayo en Movistar Plus+: ciencia-ficción, espías, y nuevas temporadas de series míticas' />
     </a>
 </div>
 
