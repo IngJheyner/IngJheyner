@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665'>El coste de cargar la batería de los 14 coches eléctricos más populares</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coste-cargar-bateria-14-coches-electricos-populares-1048665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='El coste de cargar la batería de los 14 coches eléctricos más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1049953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2683307.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947'>Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-descuento-1049947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lapiz-quitamanchas-ultrasonico-elimina-manchas-ropa-necesidad-lavarla-2683301.jpg' alt='Este lápiz quitamanchas ultrasónico elimina las manchas de la ropa sin usar productos, solo cuesta 39 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945'>Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-imagenes-absurdas-1049945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fin-sabe-va-usar-twitter-estas-imagenes-tan-locas-2683289.jpg' alt='Al fin se sabe para qué va a usar Twitter estas imágenes tan absurdas' />
     </a>
 </div>
 
