@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475'>Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hacer-cuando-no-puedes-acceder-whatsapp-web-culpa-codigo-qr-1050475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Qué hacer cuando no puedes acceder a WhatsApp Web por culpa del código QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247'>5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-comprar-fitbit-sense-ahora-rebajado-precio-1050247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/fitbit-sense-analisis-opinion-2222829.jpg' alt='5 motivos por los que comprar el Fitbit Sense ahora que está rebajado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417'>Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivo-no-podras-grabar-llamadas-movil-android-1050417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bloquear-llamadas-2434809.jpg' alt='Este es el motivo por el que no podrás grabar las llamadas en tu móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423'>Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-smart-tv-x-full-hd-2684051.jpg' alt='Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-obliga-google-facebook-amazon-explicar-como-funcionan-algoritmos-1050411'>Europa obliga a Google, Facebook y Amazon a explicar cómo funcionan sus algoritmos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/europa-obliga-google-facebook-amazon-explicar-como-funcionan-algoritmos-1050411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/bandera-union-europea.jpg' alt='Europa obliga a Google, Facebook y Amazon a explicar cómo funcionan sus algoritmos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803'>Las mejores apps Android para los amantes del manga</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-apps-android-amantes-manga-2676863.jpg' alt='Las mejores apps Android para los amantes del manga' />
     </a>
 </div>
 
