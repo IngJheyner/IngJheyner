@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-afirma-senales-anuncian-numero-victimas-mortales-carretera-como-dgt-asocian-aumento-accidentes-1050337'>Un estudio afirma que las señales que anuncian el número de víctimas mortales en la carretera, como las de la DGT, se asocian a un aumento de los accidentes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-afirma-senales-anuncian-numero-victimas-mortales-carretera-como-dgt-asocian-aumento-accidentes-1050337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/estudio-afirma-senales-como-dgt-anuncian-numero-victimas-mortales-carretera-asocian-aumento-accidentes-2683867.jpg' alt='Un estudio afirma que las señales que anuncian el número de víctimas mortales en la carretera, como las de la DGT, se asocian a un aumento de los accidentes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423'>Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nuevo-smart-tv-barato-realme-competir-xiaomi-1050423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-smart-tv-x-full-hd-2684051.jpg' alt='Se filtran las especificaciones del nuevo Smart TV barato de realme para competir con Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-estaria-punto-hacerse-twitter-1050387'>Elon Musk estaría a punto de hacerse Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-estaria-punto-hacerse-twitter-1050387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk estaría a punto de hacerse Twitter' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-obliga-google-facebook-amazon-explicar-como-funcionan-algoritmos-1050411'>Europa obliga a Google, Facebook y Amazon a explicar cómo funcionan sus algoritmos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/europa-obliga-google-facebook-amazon-explicar-como-funcionan-algoritmos-1050411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/bandera-union-europea.jpg' alt='Europa obliga a Google, Facebook y Amazon a explicar cómo funcionan sus algoritmos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311'>Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental </a></h4>
-    <a href='https://computerhoy.com/noticias/life/sencilla-prueba-descubriras-sufres-afantasia-tambien-conocida-como-ceguera-mental-1050311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Con esta sencilla prueba descubrirás si sufres afantasía, también conocida como ceguera mental ' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803'>Las mejores apps Android para los amantes del manga</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-apps-android-amantes-manga-1042803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-apps-android-amantes-manga-2676863.jpg' alt='Las mejores apps Android para los amantes del manga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europa-punto-cargarse-puerto-lightning-iphone-mac-1050363'>La Unión Europea está a punto de cargarse el puerto Lightning de los iPhone y Mac</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/union-europa-punto-cargarse-puerto-lightning-iphone-mac-1050363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='La Unión Europea está a punto de cargarse el puerto Lightning de los iPhone y Mac' />
+    <h4><a href='https://computerhoy.com/noticias/life/sirve-colageno-1050407'>Para qué sirve el colágeno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirve-colageno-1050407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/investigadora-pastilla-mano-2496403.jpg' alt='Para qué sirve el colágeno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283'>Cómo saber si un huevo está malo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-huevo-malo-1050283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/truco-infalible-separar-clara-yema-cargarte-huevo-2537355.jpg' alt='Cómo saber si un huevo está malo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-iphone-14-ya-estan-horno-todo-sabemos-respecto-1050375'>Los nuevos iPhone 14 ya están en el horno y esto es todo lo que sabemos al respecto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-iphone-14-ya-estan-horno-todo-sabemos-respecto-1050375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-mini-2652797.jpg' alt='Los nuevos iPhone 14 ya están en el horno y esto es todo lo que sabemos al respecto' />
     </a>
 </div>
 
