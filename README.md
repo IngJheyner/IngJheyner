@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rey-low-cost-redmi-10-xiaomi-ahora-aun-barato-baja-solo-129-euros-1050205'>El rey del low cost es el Redmi 10 de Xiaomi y ahora es aún más barato: baja a solo 129 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rey-low-cost-redmi-10-xiaomi-ahora-aun-barato-baja-solo-129-euros-1050205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='El rey del low cost es el Redmi 10 de Xiaomi y ahora es aún más barato: baja a solo 129 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-coste-real-hoy-dia-tener-hijo-espana-independiza-1050949'>Cuál es el coste real hoy día de tener un hijo en España hasta que se independiza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-coste-real-hoy-dia-tener-hijo-espana-independiza-1050949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/madre-hijos-2546427.jpg' alt='Cuál es el coste real hoy día de tener un hijo en España hasta que se independiza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-opcion-evitar-algunos-mensajes-autodestruyan-1050969'>WhatsApp estaría trabajando en una opción para evitar que algunos mensajes se autodestruyan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-opcion-evitar-algunos-mensajes-autodestruyan-1050969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-autodestruccion-2684899.jpg' alt='WhatsApp estaría trabajando en una opción para evitar que algunos mensajes se autodestruyan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-visto-100eu-descuento-aspiradora-primera-categoria-dyson-1050777'>Lo nunca visto: más de 100€ de descuento en esta aspiradora de primera categoría de Dyson</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nunca-visto-100eu-descuento-aspiradora-primera-categoria-dyson-1050777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-absolute-2356189.jpg' alt='Lo nunca visto: más de 100€ de descuento en esta aspiradora de primera categoría de Dyson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903'>Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-proart-display-pa147cdv-2684753.jpg' alt='Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857'>Cómo duerme un astronauta en el espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-bruce-mccandless-realizando-paseo-espacial-1864573.jpg' alt='Cómo duerme un astronauta en el espacio' />
     </a>
 </div>
 
