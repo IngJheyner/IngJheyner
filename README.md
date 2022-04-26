@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185'>¿Te pueden multar por frenar antes de llegar a un radar?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/te-pueden-multar-frenar-antes-llegar-radar-2685553.jpg' alt='¿Te pueden multar por frenar antes de llegar a un radar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-p-robot-aspirador-friega-suelo-precio-minimo-1051129'>Xiaomi Robot Vacuum Mop P, el robot aspirador que también friega el suelo, baja de precio a solo 229 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-p-robot-aspirador-friega-suelo-precio-minimo-1051129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-robot-vacuum-mop-p-robot-aspirador-tambien-friega-suelo-baja-precio-solo-229-euros-2685407.jpg' alt='Xiaomi Robot Vacuum Mop P, el robot aspirador que también friega el suelo, baja de precio a solo 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871'>Deberías quitarte los zapatos al llegar a casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/zapatos-2517437.jpg' alt='Deberías quitarte los zapatos al llegar a casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171'>Cine inédito de estreno en mayo en Movistar Plus+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cine-inedito-estreno-mayo-movistar-plus-2685541.jpg' alt='Cine inédito de estreno en mayo en Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuestas-rapidas-nueva-funcion-android-auto-estabas-esperando-1051163'>Respuestas rápidas: la nueva función de Android Auto que estabas esperando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respuestas-rapidas-nueva-funcion-android-auto-estabas-esperando-1051163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Respuestas rápidas: la nueva función de Android Auto que estabas esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119'>Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android' />
     </a>
 </div>
 
