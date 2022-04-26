@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795'>El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-mejores-alternativas-twitter-elon-musk-lia-compra-1050813'>Las 3 mejores alternativas a Twitter por si Elon Musk la lía tras su compra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/3-mejores-alternativas-twitter-elon-musk-lia-compra-1050813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alternativas-twitter-2684583.jpg' alt='Las 3 mejores alternativas a Twitter por si Elon Musk la lía tras su compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015'>Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2529453.jpg' alt='Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465'>5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-conduciendo-patinete-electrico-2684265.jpg' alt='5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753'>Cómo quitar rápido las marcas de la almohada en la cara</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-quitar-rapido-marcas-almohada-cara-2684547.jpg' alt='Cómo quitar rápido las marcas de la almohada en la cara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539'>Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpiapiscina-inalambrico-tan-potente-incluso-escala-paredes-2684347.jpg' alt='Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)' />
     </a>
 </div>
 
