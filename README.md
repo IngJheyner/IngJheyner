@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001'>Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/proyectores-sony-xw7000es-xw5000es-2685033.jpg' alt='Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-usar-movil-coche-equiparable-beber-alcohol-1051043'>La DGT avisa: usar el móvil en el coche es equiparable a beber alcohol</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-usar-movil-coche-equiparable-beber-alcohol-1051043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/dgt-movil-2251549.jpg' alt='La DGT avisa: usar el móvil en el coche es equiparable a beber alcohol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297'>Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-gt-primeras-impresiones-movil-no-esperas-1050851'>Poco F4 GT, primeras impresiones de un móvil que no es lo que esperas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-gt-primeras-impresiones-movil-no-esperas-1050851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='Poco F4 GT, primeras impresiones de un móvil que no es lo que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-desactivar-bluetooth-movil-cuando-no-estes-utilizando-1051037'>Por qué deberías desactivar el Bluetooth de tu móvil cuando no lo estés utilizando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-desactivar-bluetooth-movil-cuando-no-estes-utilizando-1051037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bluetooth-2573563.jpg' alt='Por qué deberías desactivar el Bluetooth de tu móvil cuando no lo estés utilizando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-snapdragon-8-gen-1-pantalla-amoled-120-hz-carga-rapida-120-w-1050983'>Así es el POCO F4 GT: Snapdragon 8 Gen 1, pantalla AMOLED 120 Hz y carga rápida de 120 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-gt-snapdragon-8-gen-1-pantalla-amoled-120-hz-carga-rapida-120-w-1050983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2684999.jpg' alt='Así es el POCO F4 GT: Snapdragon 8 Gen 1, pantalla AMOLED 120 Hz y carga rápida de 120 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-ya-tiene-ecosistema-poco-buds-pro-poco-watch-1050883'>POCO ya tiene su ecosistema con los POCO Buds Pro y el POCO Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-ya-tiene-ecosistema-poco-buds-pro-poco-watch-1050883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-watch-poco-buds-pro-2684737.jpg' alt='POCO ya tiene su ecosistema con los POCO Buds Pro y el POCO Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ha-conseguido-elon-musk-llegar-ser-grandes-fortunas-planeta-1051033'>Así ha conseguido Elon Musk llegar a ser una de las grandes fortunas del planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ha-conseguido-elon-musk-llegar-ser-grandes-fortunas-planeta-1051033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='Así ha conseguido Elon Musk llegar a ser una de las grandes fortunas del planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rey-low-cost-redmi-10-xiaomi-ahora-aun-barato-baja-solo-129-euros-1050205'>El rey del low cost es el Redmi 10 de Xiaomi y ahora es aún más barato: baja a solo 129 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rey-low-cost-redmi-10-xiaomi-ahora-aun-barato-baja-solo-129-euros-1050205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/redmi-10-analisis-opinion-2523315.jpg' alt='El rey del low cost es el Redmi 10 de Xiaomi y ahora es aún más barato: baja a solo 129 euros' />
     </a>
 </div>
 
