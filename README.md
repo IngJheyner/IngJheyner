@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2684551.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465'>5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-conduciendo-patinete-electrico-2684265.jpg' alt='5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753'>Cómo quitar rápido las marcas de la almohada en la cara</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-quitar-rapido-marcas-almohada-cara-2684547.jpg' alt='Cómo quitar rápido las marcas de la almohada en la cara' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537'>Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297243.jpg' alt='Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525'>Elon Musk compra Twitter por 44.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/elon-musk-compra-twitter-oficial-1050525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Elon Musk compra Twitter por 44.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513'>La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter' />
     </a>
 </div>
 
