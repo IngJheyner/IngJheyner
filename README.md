@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847'>España es el único país europeo donde crece el comercio online en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='España es el único país europeo donde crece el comercio online en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-modos-ejercicio-spo2-solo-79-euros-reloj-honor-rompe-todos-registros-oferta-1048937'>15 modos de ejercicio y SpO2 por solo 79 euros: este reloj de Honor rompe todos los registros con una oferta </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/15-modos-ejercicio-spo2-solo-79-euros-reloj-honor-rompe-todos-registros-oferta-1048937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/honor-magicwatch-2-1848031.jpg' alt='15 modos de ejercicio y SpO2 por solo 79 euros: este reloj de Honor rompe todos los registros con una oferta ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397'>Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2683971.jpg' alt='Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-muestra-confianza-total-elon-musk-1050841'>El creador de Twitter muestra su confianza total en Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-muestra-confianza-total-elon-musk-1050841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-jack-dorsey-2608263.jpg' alt='El creador de Twitter muestra su confianza total en Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795'>El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-mejores-alternativas-twitter-elon-musk-lia-compra-1050813'>Las 3 mejores alternativas a Twitter por si Elon Musk la lía tras su compra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/3-mejores-alternativas-twitter-elon-musk-lia-compra-1050813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alternativas-twitter-2684583.jpg' alt='Las 3 mejores alternativas a Twitter por si Elon Musk la lía tras su compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015'>Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2529453.jpg' alt='Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2684551.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465'>5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/patinetes-electricos-alternativas-xiaomi-1050465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-conduciendo-patinete-electrico-2684265.jpg' alt='5 patinetes que no son de Xiaomi y tienen poco que envidiar al suyo' />
     </a>
 </div>
 
