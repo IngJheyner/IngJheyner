@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073'>Cuál es la tecla shift de mi ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/teclas-shift-2427439.jpg' alt='Cuál es la tecla shift de mi ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063'>Cómo saber mi grupo sanguíneo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/autobus-donacion-2659347.jpg' alt='Cómo saber mi grupo sanguíneo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001'>Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/proyectores-sony-xw7000es-xw5000es-2685033.jpg' alt='Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297'>Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-gt-primeras-impresiones-movil-no-esperas-1050851'>Poco F4 GT, primeras impresiones de un móvil que no es lo que esperas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-gt-primeras-impresiones-movil-no-esperas-1050851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='Poco F4 GT, primeras impresiones de un móvil que no es lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-desactivar-bluetooth-movil-cuando-no-estes-utilizando-1051037'>Por qué deberías desactivar el Bluetooth de tu móvil cuando no lo estés utilizando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deberias-desactivar-bluetooth-movil-cuando-no-estes-utilizando-1051037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bluetooth-2573563.jpg' alt='Por qué deberías desactivar el Bluetooth de tu móvil cuando no lo estés utilizando' />
     </a>
 </div>
 
