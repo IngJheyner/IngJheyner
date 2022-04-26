@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871'>Deberías quitarte los zapatos al llegar a casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/zapatos-2517437.jpg' alt='Deberías quitarte los zapatos al llegar a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aviso-movil-activara-partir-verano-nunca-desearas-recibir-1051169'>El aviso en tu móvil que se activará a partir de este verano y que nunca desearás recibir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aviso-movil-activara-partir-verano-nunca-desearas-recibir-1051169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/emergencias-sos-2685537.jpg' alt='El aviso en tu móvil que se activará a partir de este verano y que nunca desearás recibir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171'>Cine inédito de estreno en mayo en Movistar Plus+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cine-inedito-estreno-mayo-movistar-plus-2685541.jpg' alt='Cine inédito de estreno en mayo en Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuestas-rapidas-nueva-funcion-android-auto-estabas-esperando-1051163'>Respuestas rápidas: la nueva función de Android Auto que estabas esperando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/respuestas-rapidas-nueva-funcion-android-auto-estabas-esperando-1051163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Respuestas rápidas: la nueva función de Android Auto que estabas esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119'>Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-regalar-primera-comunion-1050783'>10 tablets para regalar por comunión que son baratas y potentes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-regalar-primera-comunion-1050783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nino-cama-viendo-video-tablet-auriculares-puestos-2684707.jpg' alt='10 tablets para regalar por comunión que son baratas y potentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635'>Qué es Genially, cómo funciona y trucos para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg' alt='Qué es Genially, cómo funciona y trucos para sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ciudad-ha-estrenado-hbo-max-espera-ser-parte-canon-plataforma-1051077'>La ciudad es nuestra se ha estrenado en HBO Max y espera ser parte del canon de la plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ciudad-ha-estrenado-hbo-max-espera-ser-parte-canon-plataforma-1051077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciudad-2683469.jpg' alt='La ciudad es nuestra se ha estrenado en HBO Max y espera ser parte del canon de la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093'>Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto' />
     </a>
 </div>
 
