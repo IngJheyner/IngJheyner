@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539'>Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753'>Cómo quitar rápido las marcas de la almohada en la cara</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-quitar-rapido-marcas-almohada-cara-1050753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-quitar-rapido-marcas-almohada-cara-2684547.jpg' alt='Cómo quitar rápido las marcas de la almohada en la cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539'>Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpiapiscina-inalambrico-tan-potente-incluso-escala-paredes-2684347.jpg' alt='Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpiapiscina-inalambrico-tan-potente-incluso-escala-paredes-2684347.jpg' alt='Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513'>La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/industria/pelea-bill-gates-elon-musk-ceo-posicion-corta-tesla-1050513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='La pelea entre Bill Gates y Elon Musk: por qué el CEO de Tesla se burla del fundador de Microsoft en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503'>Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo' />
     </a>
 </div>
 
