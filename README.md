@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015'>Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-deja-xiaomi-fuera-juego-snapdragon-870-carga-65-w-solo-269-euros-1049015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2529453.jpg' alt='Este móvil realme deja a Xiaomi en fuera de juego: Snapdragon 870 y carga a 65 W por solo 269 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1050757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2684551.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539'>Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpiapiscina-inalambrico-tan-potente-incluso-escala-paredes-2684347.jpg' alt='Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537'>Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297243.jpg' alt='Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros' />
     </a>
 </div>
 
