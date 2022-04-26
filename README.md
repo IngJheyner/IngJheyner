@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119'>Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-puedes-saber-motivo-informacion-recopilan-aplicaciones-android-1051119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Por fin puedes saber el motivo y la información que recopilan las aplicaciones de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-regalar-primera-comunion-1050783'>10 tablets para regalar por comunión que son baratas y potentes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-regalar-primera-comunion-1050783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nino-cama-viendo-video-tablet-auriculares-puestos-2684707.jpg' alt='10 tablets para regalar por comunión que son baratas y potentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635'>Qué es Genially, cómo funciona y trucos para sacarle el máximo partido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg' alt='Qué es Genially, cómo funciona y trucos para sacarle el máximo partido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093'>Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073'>Cuál es la tecla shift de mi ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/teclas-shift-2427439.jpg' alt='Cuál es la tecla shift de mi ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063'>Cómo saber mi grupo sanguíneo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/autobus-donacion-2659347.jpg' alt='Cómo saber mi grupo sanguíneo' />
     </a>
 </div>
 
