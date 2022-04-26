@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195'>Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ubisoft-cierra-modos-online-91-juegos-jugadores-pierden-compras-dlcs-todos-mapas-skins-desbloqueados-2685587.jpg' alt='Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193'>Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-13-beta-1-2685585.jpg' alt='Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185'>¿Te pueden multar por frenar antes de llegar a un radar?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/te-pueden-multar-frenar-antes-llegar-radar-2685553.jpg' alt='¿Te pueden multar por frenar antes de llegar a un radar?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871'>Deberías quitarte los zapatos al llegar a casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/zapatos-2517437.jpg' alt='Deberías quitarte los zapatos al llegar a casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aviso-movil-activara-partir-verano-nunca-desearas-recibir-1051169'>El aviso en tu móvil que se activará a partir de este verano y que nunca desearás recibir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aviso-movil-activara-partir-verano-nunca-desearas-recibir-1051169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/emergencias-sos-2685537.jpg' alt='El aviso en tu móvil que se activará a partir de este verano y que nunca desearás recibir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171'>Cine inédito de estreno en mayo en Movistar Plus+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cine-inedito-estreno-mayo-movistar-plus-1051171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cine-inedito-estreno-mayo-movistar-plus-2685541.jpg' alt='Cine inédito de estreno en mayo en Movistar Plus+' />
     </a>
 </div>
 
