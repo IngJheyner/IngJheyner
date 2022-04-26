@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635'>Qué es Genially, cómo funciona y trucos para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/genially-como-funciona-trucos-sacarle-maximo-partido-682635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/genially-2685393.jpg' alt='Qué es Genially, cómo funciona y trucos para sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ciudad-ha-estrenado-hbo-max-espera-ser-parte-canon-plataforma-1051077'>La ciudad es nuestra se ha estrenado en HBO Max y espera ser parte del canon de la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ciudad-ha-estrenado-hbo-max-espera-ser-parte-canon-plataforma-1051077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciudad-2683469.jpg' alt='La ciudad es nuestra se ha estrenado en HBO Max y espera ser parte del canon de la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093'>Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reddit-quiere-hacer-realidad-ideas-usuarios-aunque-demasiado-presupuesto-1051093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg' alt='Reddit quiere hacer realidad las ideas de sus usuarios, aunque sin demasiado presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073'>Cuál es la tecla shift de mi ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-tecla-shift-mi-ordenador-1051073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/teclas-shift-2427439.jpg' alt='Cuál es la tecla shift de mi ordenador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063'>Cómo saber mi grupo sanguíneo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-mi-grupo-sanguineo-1051063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/autobus-donacion-2659347.jpg' alt='Cómo saber mi grupo sanguíneo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001'>Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-dos-nuevos-proyectores-4k-gama-alta-disfrutar-casa-ultimos-estrenos-como-cine-1051001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/proyectores-sony-xw7000es-xw5000es-2685033.jpg' alt='Sony presenta dos nuevos proyectores 4K de gama alta para disfrutar en casa de los últimos estrenos como en el cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-usar-movil-coche-equiparable-beber-alcohol-1051043'>La DGT avisa: usar el móvil en el coche es equiparable a beber alcohol</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-usar-movil-coche-equiparable-beber-alcohol-1051043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/dgt-movil-2251549.jpg' alt='La DGT avisa: usar el móvil en el coche es equiparable a beber alcohol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297'>Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-tres-vulnerabilidades-graves-afectan-portatiles-lenovo-1047297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lenovo-ideapad-5-pro-2643389.jpg' alt='Descubiertas tres vulnerabilidades graves que afectan a los portátiles de Lenovo' />
     </a>
 </div>
 
