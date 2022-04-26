@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903'>Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-proart-display-pa147cdv-2684753.jpg' alt='Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857'>Cómo duerme un astronauta en el espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-bruce-mccandless-realizando-paseo-espacial-1864573.jpg' alt='Cómo duerme un astronauta en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847'>España es el único país europeo donde crece el comercio online en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='España es el único país europeo donde crece el comercio online en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397'>Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2683971.jpg' alt='Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-muestra-confianza-total-elon-musk-1050841'>El creador de Twitter muestra su confianza total en Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/creador-twitter-muestra-confianza-total-elon-musk-1050841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/elon-musk-jack-dorsey-2608263.jpg' alt='El creador de Twitter muestra su confianza total en Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795'>El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-real-sera-presentado-28-abril-1050795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='El Huawei Watch GT 3 Pro es real y será presentado el 28 de abril' />
     </a>
 </div>
 
