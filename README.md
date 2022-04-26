@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-opcion-evitar-algunos-mensajes-autodestruyan-1050969'>WhatsApp estaría trabajando en una opción para evitar que algunos mensajes se autodestruyan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-opcion-evitar-algunos-mensajes-autodestruyan-1050969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-autodestruccion-2684899.jpg' alt='WhatsApp estaría trabajando en una opción para evitar que algunos mensajes se autodestruyan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-recibira-importante-novedad-durante-semana-puede-pasarte-desapercibida-1050915'>PS5 recibirá una importante novedad durante esta semana que puede pasarte desapercibida</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ps5-recibira-importante-novedad-durante-semana-puede-pasarte-desapercibida-1050915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140471.jpg' alt='PS5 recibirá una importante novedad durante esta semana que puede pasarte desapercibida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-visto-100eu-descuento-aspiradora-primera-categoria-dyson-1050777'>Lo nunca visto: más de 100€ de descuento en esta aspiradora de primera categoría de Dyson</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nunca-visto-100eu-descuento-aspiradora-primera-categoria-dyson-1050777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-absolute-2356189.jpg' alt='Lo nunca visto: más de 100€ de descuento en esta aspiradora de primera categoría de Dyson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903'>Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-portatil-pensada-creadores-contenido-asus-proart-display-pa147cdv-1050903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-proart-display-pa147cdv-2684753.jpg' alt='Una pantalla portátil pensada para creadores de contenido: así es la Asus ProArt Display PA147CDV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857'>Cómo duerme un astronauta en el espacio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-duerme-astronauta-espacio-1050857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/astronauta-bruce-mccandless-realizando-paseo-espacial-1864573.jpg' alt='Cómo duerme un astronauta en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847'>España es el único país europeo donde crece el comercio online en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/espana-unico-pais-europeo-donde-crece-comercio-online-2022-1050847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/compra-online-2613331.jpg' alt='España es el único país europeo donde crece el comercio online en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-modos-ejercicio-spo2-solo-79-euros-reloj-honor-rompe-todos-registros-oferta-1048937'>15 modos de ejercicio y SpO2 por solo 79 euros: este reloj de Honor rompe todos los registros con una oferta </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/15-modos-ejercicio-spo2-solo-79-euros-reloj-honor-rompe-todos-registros-oferta-1048937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/honor-magicwatch-2-1848031.jpg' alt='15 modos de ejercicio y SpO2 por solo 79 euros: este reloj de Honor rompe todos los registros con una oferta ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397'>Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-boton-editar-twitter-rastro-dejamos-usarlo-1050397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2683971.jpg' alt='Cómo funciona el botón de editar en Twitter y qué rastro dejamos al usarlo' />
     </a>
 </div>
 
