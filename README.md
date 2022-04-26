@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539'>Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiapiscina-inalambrico-escala-paredes-1050539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-limpiapiscina-inalambrico-tan-potente-incluso-escala-paredes-2684347.jpg' alt='Este robot limpiapiscinas inalámbrico es tan potente que incluso escala las paredes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537'>Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/echo-show-10-altavoz-inteligente-pantalla-amazon-precio-minimo-historico-1050537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297243.jpg' alt='Echo Show 10, el altavoz inteligente con pantalla de Amazon baja a su precio mínimo histórico, 205 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503'>Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-error-bucle-android-auto-como-solucionarlo-1050503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg' alt='Qué es el nuevo error “bucle” de Android Auto y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499'>Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-arrasa-twitter-kljashdlkjbflkjshsdqw987o2as-1050499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/supermercado-lidl-2684311.jpg' alt='Lidl arrasa en Twitter con su kljashdlkjbflkJSHsdqw987º2as' />
     </a>
 </div>
 
