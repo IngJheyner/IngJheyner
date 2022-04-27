@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tres-peligros-bola-remolque-1051805'>Tres peligros que debes tener en cuenta si tu coche tiene bola de remolque</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tres-peligros-bola-remolque-1051805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tres-peligros-debes-tener-cuenta-coche-tiene-bola-remolque-2686667.jpg' alt='Tres peligros que debes tener en cuenta si tu coche tiene bola de remolque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-segunda-mano-amazon-1051655'>Bicicletas eléctricas de segunda mano en Amazon: qué debes saber y cuánto puede costar una</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-segunda-mano-amazon-1051655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-subido-bicicleta-electrica-subiendo-colina-2686605.jpg' alt='Bicicletas eléctricas de segunda mano en Amazon: qué debes saber y cuánto puede costar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-autoreparacion-apple-ya-activo-como-funciona-1051747'>El servicio de autoreparación de Apple ya está activo y así es cómo funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicio-autoreparacion-apple-ya-activo-como-funciona-1051747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2555709.jpg' alt='El servicio de autoreparación de Apple ya está activo y así es cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cual-salario-minimo-espana-1051761'>Cuál es el salario mínimo en España</a></h4>
     <a href='https://computerhoy.com/noticias/cual-salario-minimo-espana-1051761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg' alt='Cuál es el salario mínimo en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatiles-graficas-intel-arc-alchemist-cada-vez-estan-cerca-precios-te-van-decepcionar-1051743'>Los portátiles con las gráficas Intel Arc Alchemist cada vez están más cerca y sus precios te van a decepcionar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatiles-graficas-intel-arc-alchemist-cada-vez-estan-cerca-precios-te-van-decepcionar-1051743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Los portátiles con las gráficas Intel Arc Alchemist cada vez están más cerca y sus precios te van a decepcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-reno7-real-ya-disponible-espana-snapdragon-680-camara-64-mpx-1051745'>El nuevo Oppo Reno7 es real y ya está disponible en España: Snapdragon 680 y cámara de 64 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-reno7-real-ya-disponible-espana-snapdragon-680-camara-64-mpx-1051745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno7-2686527.jpg' alt='El nuevo Oppo Reno7 es real y ya está disponible en España: Snapdragon 680 y cámara de 64 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-dinero-puedes-ahorrar-cocinando-freidora-aire-lugar-horno-1051619'>Cuánto dinero puedes ahorrar cocinando con la freidora de aire en lugar del horno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-dinero-puedes-ahorrar-cocinando-freidora-aire-lugar-horno-1051619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-aceite-homcom-2652237.jpg' alt='Cuánto dinero puedes ahorrar cocinando con la freidora de aire en lugar del horno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-1051721'>Motorola Edge 30: así es el nuevo móvil Android más ligero y delgado del momento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-1051721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-2686491.jpg' alt='Motorola Edge 30: así es el nuevo móvil Android más ligero y delgado del momento' />
     </a>
 </div>
 
