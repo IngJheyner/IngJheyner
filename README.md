@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849'>Sin Tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857'>En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/japon-usan-robot-tipo-gundam-15-metros-altura-manejado-realidad-virtual-arreglar-cables-tren-2686789.jpg' alt='En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849'>Sin tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todas-peliculas-james-incluyendo-nueva-tiempo-morir-estrenos-mayo-amazon-prime-video-2686783.jpg' alt='Sin Tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todas-peliculas-james-incluyendo-nueva-tiempo-morir-estrenos-mayo-amazon-prime-video-2686783.jpg' alt='Sin tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829'>En Mercadona no suben solo los precios de sus productos</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='En Mercadona no suben solo los precios de sus productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823'>Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022' />
     </a>
 </div>
 
