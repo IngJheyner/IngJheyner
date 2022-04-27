@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/proxima-gpu-top-ada-lovelace-gtx-4090-nvidia-podria-llegar-consumo-900-w-exclusivos-ella-1051635'>La próxima GPU top Ada Lovelace RTX 4090 de NVIDIA podría llegar a un consumo de hasta 900 W</a></h4>
+    <a href='https://computerhoy.com/noticias/proxima-gpu-top-ada-lovelace-gtx-4090-nvidia-podria-llegar-consumo-900-w-exclusivos-ella-1051635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevas-tarjetas-graficas-nvidia-seran-doble-potentes-serie-rtx-3000-2526011.jpg' alt='La próxima GPU top Ada Lovelace RTX 4090 de NVIDIA podría llegar a un consumo de hasta 900 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primark-confirma-noticia-ninguno-clientes-queria-escuchar-1051579'>Primark confirma la noticia que ninguno de sus clientes quería escuchar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primark-confirma-noticia-ninguno-clientes-queria-escuchar-1051579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/primark-gran-madrid-2289701.jpg' alt='Primark confirma la noticia que ninguno de sus clientes quería escuchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-linkbuds-s-son-nuevos-auriculares-tws-sony-anc-modo-ambiental-automatico-diseno-tradicional-1051629'>Sony LinkBuds S son los nuevos auriculares TWS de Sony con ANC, modo ambiental automático y diseño tradicional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-linkbuds-s-son-nuevos-auriculares-tws-sony-anc-modo-ambiental-automatico-diseno-tradicional-1051629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-analisis-opinion-2624331.jpg' alt='Sony LinkBuds S son los nuevos auriculares TWS de Sony con ANC, modo ambiental automático y diseño tradicional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/informe-oculto-whatsapp-lleno-informacion-interesante-ti-pocos-conocen-1051565'>El informe oculto de WhatsApp lleno de información interesante sobre ti que pocos conocen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/informe-oculto-whatsapp-lleno-informacion-interesante-ti-pocos-conocen-1051565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='El informe oculto de WhatsApp lleno de información interesante sobre ti que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/menos-300-euros-windows-buscas-pc-barato-medion-opcion-1050381'>Por menos de 300 euros y con Windows: si buscas PC barato, este de Medion es una opción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/menos-300-euros-windows-buscas-pc-barato-medion-opcion-1050381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-m80-2667007.jpg' alt='Por menos de 300 euros y con Windows: si buscas PC barato, este de Medion es una opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535'>La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla' />
     </a>
 </div>
 
