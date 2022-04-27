@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849'>Sin Tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todas-peliculas-james-incluyendo-nueva-tiempo-morir-estrenos-mayo-amazon-prime-video-2686783.jpg' alt='Sin Tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-971-precio-minimo-historico-1051843'>Uno de los mejores robots aspirador del mercado, la Roomba 971, baja a su precio mínimo histórico, solo 379 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-971-precio-minimo-historico-1051843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/irobot-roomba-971-2098677.jpg' alt='Uno de los mejores robots aspirador del mercado, la Roomba 971, baja a su precio mínimo histórico, solo 379 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823'>Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-apuesta-videojuegos-2022-1051827'>A Netflix no le asustan los últimos resultados y no solo apuesta a fondo por las series y películas, también por los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/netflix-apuesta-videojuegos-2022-1051827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-no-asustan-ultimos-resultados-no-solo-apuesta-fondo-series-peliculas-tambien-videojuegos-2686759.jpg' alt='A Netflix no le asustan los últimos resultados y no solo apuesta a fondo por las series y películas, también por los videojuegos' />
     </a>
 </div>
 
