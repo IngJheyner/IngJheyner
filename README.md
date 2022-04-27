@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073'>El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495'>Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-watch-imagenes-reales-2685975.jpg' alt='Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-2-oficial-robert-pattinson-volvera-vestirse-hombre-murcielago-1051473'>The Batman 2 es oficial: Robert Pattinson volverá a vestirse de hombre murciélago</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/batman-2-oficial-robert-pattinson-volvera-vestirse-hombre-murcielago-1051473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2632497.jpg' alt='The Batman 2 es oficial: Robert Pattinson volverá a vestirse de hombre murciélago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459'>Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/altavoz-tamano-folio-2685857.jpg' alt='Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001'>La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lenovo-tab-p11-pro-2048417.jpg' alt='La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-programas-gratuitos-crear-desarrollar-videojuegos-1050909'>Los mejores programas gratuitos para crear y desarrollar videojuegos</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-programas-gratuitos-crear-desarrollar-videojuegos-1050909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/programacion-2587823.jpg' alt='Los mejores programas gratuitos para crear y desarrollar videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/startup-lucid-motors-vence-autonomia-electrica-tesla-fin-supremacia-1050891'>La startup Lucid Motors vence en autonomía eléctrica a Tesla, ¿el fin de la supremacía?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/startup-lucid-motors-vence-autonomia-electrica-tesla-fin-supremacia-1050891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lucid-air-2061227.jpg' alt='La startup Lucid Motors vence en autonomía eléctrica a Tesla, ¿el fin de la supremacía?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2685803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
