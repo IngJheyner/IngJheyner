@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cual-salario-minimo-espana-1051761'>Cuál es el salario mínimo en España</a></h4>
+    <a href='https://computerhoy.com/noticias/cual-salario-minimo-espana-1051761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg' alt='Cuál es el salario mínimo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatiles-graficas-intel-arc-alchemist-cada-vez-estan-cerca-precios-te-van-decepcionar-1051743'>Los portátiles con las gráficas Intel Arc Alchemist cada vez están más cerca y sus precios te van a decepcionar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatiles-graficas-intel-arc-alchemist-cada-vez-estan-cerca-precios-te-van-decepcionar-1051743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Los portátiles con las gráficas Intel Arc Alchemist cada vez están más cerca y sus precios te van a decepcionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-reno7-real-ya-disponible-espana-snapdragon-680-camara-64-mpx-1051745'>El nuevo Oppo Reno7 es real y ya está disponible en España: Snapdragon 680 y cámara de 64 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-oppo-reno7-real-ya-disponible-espana-snapdragon-680-camara-64-mpx-1051745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno7-2686527.jpg' alt='El nuevo Oppo Reno7 es real y ya está disponible en España: Snapdragon 680 y cámara de 64 Mpx' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-1051721'>Motorola Edge 30: así es el nuevo móvil Android más ligero y delgado del momento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-1051721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/motorola-edge-30-nuevo-movil-android-ligero-delgado-momento-2686491.jpg' alt='Motorola Edge 30: así es el nuevo móvil Android más ligero y delgado del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/5-grandes-ofertas-silvrr-finales-abril-1051125'>5 grandes ofertas en Silvrr hasta finales de abril</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/5-grandes-ofertas-silvrr-finales-abril-1051125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telefono-xiaomi-oferta-silverr-2685435.jpg' alt='5 grandes ofertas en Silvrr hasta finales de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-vivosmart-5-nueva-pulsera-premium-actividad-inteligente-1051639'>Garmin lanza vívosmart 5, su nueva pulsera premium de actividad inteligente </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-vivosmart-5-nueva-pulsera-premium-actividad-inteligente-1051639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-lanza-vivosmart-5-nueva-pulsera-premium-actividad-inteligente-2686289.jpg' alt='Garmin lanza vívosmart 5, su nueva pulsera premium de actividad inteligente ' />
     </a>
 </div>
 
