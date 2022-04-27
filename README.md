@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-linkbuds-s-son-nuevos-auriculares-tws-sony-anc-modo-ambiental-automatico-diseno-tradicional-1051629'>Sony LinkBuds S son los nuevos auriculares TWS de Sony con ANC, modo ambiental automático y diseño tradicional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-linkbuds-s-son-nuevos-auriculares-tws-sony-anc-modo-ambiental-automatico-diseno-tradicional-1051629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-linkbuds-analisis-opinion-2624331.jpg' alt='Sony LinkBuds S son los nuevos auriculares TWS de Sony con ANC, modo ambiental automático y diseño tradicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/productos-servicios-microsoft-cifras-500-millones-usuarios-office-mensuales-1051511'>Los productos y servicios de Microsoft en cifras, más de 500 millones de usuarios de Office mensuales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/productos-servicios-microsoft-cifras-500-millones-usuarios-office-mensuales-1051511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-2633899.jpg' alt='Los productos y servicios de Microsoft en cifras, más de 500 millones de usuarios de Office mensuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/informe-oculto-whatsapp-lleno-informacion-interesante-ti-pocos-conocen-1051565'>El informe oculto de WhatsApp lleno de información interesante sobre ti que pocos conocen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/informe-oculto-whatsapp-lleno-informacion-interesante-ti-pocos-conocen-1051565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='El informe oculto de WhatsApp lleno de información interesante sobre ti que pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/menos-300-euros-windows-buscas-pc-barato-medion-opcion-1050381'>Por menos de 300 euros y con Windows: si buscas PC barato, este de Medion es una opción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/menos-300-euros-windows-buscas-pc-barato-medion-opcion-1050381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/medion-akoya-m80-2667007.jpg' alt='Por menos de 300 euros y con Windows: si buscas PC barato, este de Medion es una opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535'>La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-probando-opcion-anadir-posts-destacados-parte-superior-perfil-1051589'>Instagram está probando la opción de añadir posts destacados en la parte superior del perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-probando-opcion-anadir-posts-destacados-parte-superior-perfil-1051589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-perfil-2686169.jpg' alt='Instagram está probando la opción de añadir posts destacados en la parte superior del perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-impone-sancion-38000-euros-wikipedia-no-eliminar-informacion-argumentan-como-falsa-guerra-ucrania-1051481'>Rusia impone una sanción de 38.000 euros a Wikipedia por no eliminar información, que argumentan como falsa, sobre la guerra con Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusia-impone-sancion-38000-euros-wikipedia-no-eliminar-informacion-argumentan-como-falsa-guerra-ucrania-1051481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rusia-amenaza-multar-wikipedia-incluir-informacion-inexacta-antirrusa-invasion-ucrania-2666671.jpg' alt='Rusia impone una sanción de 38.000 euros a Wikipedia por no eliminar información, que argumentan como falsa, sobre la guerra con Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-trucos-avalados-ocu-comer-bien-ahorrando-comprar-comida-1051523'>10 trucos avalados por la OCU para comer bien ahorrando al comprar comida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-trucos-avalados-ocu-comer-bien-ahorrando-comprar-comida-1051523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2655303.jpg' alt='10 trucos avalados por la OCU para comer bien ahorrando al comprar comida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461'>Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían' />
     </a>
 </div>
 
