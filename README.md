@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2685803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855'>Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pendrive-sandisk-2684855.jpg' alt='Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195'>Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ubisoft-cierra-modos-online-91-juegos-jugadores-pierden-compras-dlcs-todos-mapas-skins-desbloqueados-2685587.jpg' alt='Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193'>Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-13-beta-1-2685585.jpg' alt='Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios' />
     </a>
 </div>
 
