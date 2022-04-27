@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881'>Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético</a></h4>
+    <a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tienes-forma-andar-indicio-padeces-alzheimer-2267145.jpg' alt='Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829'>En Mercadona no suben solo los precios de sus productos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='En Mercadona no suben solo los precios de sus productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823'>Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-descargada-mucha-diferencia-llevamos-2022-1051823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Esta es la app más descargada (con mucha diferencia) de lo que llevamos de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/netflix-apuesta-videojuegos-2022-1051827'>A Netflix no le asustan los últimos resultados y no solo apuesta a fondo por las series y películas, también por los videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/netflix-apuesta-videojuegos-2022-1051827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-no-asustan-ultimos-resultados-no-solo-apuesta-fondo-series-peliculas-tambien-videojuegos-2686759.jpg' alt='A Netflix no le asustan los últimos resultados y no solo apuesta a fondo por las series y películas, también por los videojuegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-confirma-2-trucos-no-dar-positivo-control-desmiente-otros-3-1050861'>La DGT confirma 2 trucos para no dar positivo en un control y desmiente otros 3</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-confirma-2-trucos-no-dar-positivo-control-desmiente-otros-3-1050861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/alcoholimetro-antiarranque-2647843.jpg' alt='La DGT confirma 2 trucos para no dar positivo en un control y desmiente otros 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tres-peligros-bola-remolque-1051805'>Tres peligros que debes tener en cuenta si tu coche tiene bola de remolque</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tres-peligros-bola-remolque-1051805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tres-peligros-debes-tener-cuenta-coche-tiene-bola-remolque-2686667.jpg' alt='Tres peligros que debes tener en cuenta si tu coche tiene bola de remolque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-segunda-mano-amazon-1051655'>Bicicletas eléctricas de segunda mano en Amazon: qué debes saber y cuánto puede costar una</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-segunda-mano-amazon-1051655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-subido-bicicleta-electrica-subiendo-colina-2686605.jpg' alt='Bicicletas eléctricas de segunda mano en Amazon: qué debes saber y cuánto puede costar una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-autoreparacion-apple-ya-activo-como-funciona-1051747'>El servicio de autoreparación de Apple ya está activo y así es cómo funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/servicio-autoreparacion-apple-ya-activo-como-funciona-1051747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-13-mini-2555709.jpg' alt='El servicio de autoreparación de Apple ya está activo y así es cómo funciona' />
     </a>
 </div>
 
