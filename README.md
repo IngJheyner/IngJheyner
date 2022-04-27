@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459'>Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/altavoz-tamano-folio-2685857.jpg' alt='Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001'>La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lenovo-tab-p11-pro-2048417.jpg' alt='La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1051417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2685803.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855'>Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pendrive-sandisk-2684855.jpg' alt='Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar' />
     </a>
 </div>
 
