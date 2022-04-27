@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461'>Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camm-nuevo-formato-ram-portatiles-busca-estandarizar-dell-detrimento-dimm-1051521'>Así es CAMM, el nuevo formato de RAM para portátiles que busca estandarizar Dell en detrimento de SO-DIMM </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camm-nuevo-formato-ram-portatiles-busca-estandarizar-dell-detrimento-dimm-1051521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/memoria-ram-2685993.jpg' alt='Así es CAMM, el nuevo formato de RAM para portátiles que busca estandarizar Dell en detrimento de SO-DIMM ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-watch-gt-2-oferta-1047153'>El reloj inteligente que necesitas para ponerte en forma esta primavera está rebajado: Huawei Watch GT 2 ahora por solo 109€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-watch-gt-2-oferta-1047153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-watch-gt-2-2421359.jpg' alt='El reloj inteligente que necesitas para ponerte en forma esta primavera está rebajado: Huawei Watch GT 2 ahora por solo 109€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073'>El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495'>Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-watch-imagenes-reales-2685975.jpg' alt='Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/batman-2-oficial-robert-pattinson-volvera-vestirse-hombre-murcielago-1051473'>The Batman 2 es oficial: Robert Pattinson volverá a vestirse de hombre murciélago</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/batman-2-oficial-robert-pattinson-volvera-vestirse-hombre-murcielago-1051473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/batman-2632497.jpg' alt='The Batman 2 es oficial: Robert Pattinson volverá a vestirse de hombre murciélago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459'>Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingenieros-mit-desarrollan-altavoces-tan-finos-como-folio-funcionan-mejor-puedes-esperar-1051459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/altavoz-tamano-folio-2685857.jpg' alt='Ingenieros del MIT desarrollan altavoces tan finos como un folio y funcionan mejor de lo que puedes esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001'>La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-lenovo-planta-cara-ipad-169-euros-pantalla-2k-1049001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lenovo-tab-p11-pro-2048417.jpg' alt='La tablet Lenovo que planta cara al iPad, por 169 euros y con pantalla 2K' />
     </a>
 </div>
 
