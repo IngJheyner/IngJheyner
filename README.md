@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855'>Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-pendrives-ampliar-almacenamiento-pc-chromebook-1050855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pendrive-sandisk-2684855.jpg' alt='Mejores pendrives para ampliar almacenamiento en un PC o Chromebook que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trucos-eliminar-moratones-hematomas-cardenales-rapido-1051415'>Trucos para eliminar los moratones más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-eliminar-moratones-hematomas-cardenales-rapido-1051415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trucos-eliminar-moratones-rapido-2685801.jpg' alt='Trucos para eliminar los moratones más rápido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193'>Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disponible-ya-primera-beta-android-13-google-pixel-lista-novedades-cambios-1051193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-13-beta-1-2685585.jpg' alt='Disponible ya la primera beta de Android 13 para los Google Pixel: lista de novedades y cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185'>¿Te pueden multar por frenar antes de llegar a un radar?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/te-pueden-multar-frenar-antes-llegar-radar-2685553.jpg' alt='¿Te pueden multar por frenar antes de llegar a un radar?' />
     </a>
 </div>
 
