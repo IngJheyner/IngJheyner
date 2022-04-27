@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535'>La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compra-twitter-elon-musk-no-ha-sentado-nada-bien-tesla-1051535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='La compra de Twitter por Elon Musk no ha sentado nada bien en Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-probando-opcion-anadir-posts-destacados-parte-superior-perfil-1051589'>Instagram está probando la opción de añadir posts destacados en la parte superior del perfil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-probando-opcion-anadir-posts-destacados-parte-superior-perfil-1051589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-perfil-2686169.jpg' alt='Instagram está probando la opción de añadir posts destacados en la parte superior del perfil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-impone-sancion-38000-euros-wikipedia-no-eliminar-informacion-argumentan-como-falsa-guerra-ucrania-1051481'>Rusia impone una sanción de 38.000 euros a Wikipedia por no eliminar información, que argumentan como falsa, sobre la guerra con Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusia-impone-sancion-38000-euros-wikipedia-no-eliminar-informacion-argumentan-como-falsa-guerra-ucrania-1051481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/rusia-amenaza-multar-wikipedia-incluir-informacion-inexacta-antirrusa-invasion-ucrania-2666671.jpg' alt='Rusia impone una sanción de 38.000 euros a Wikipedia por no eliminar información, que argumentan como falsa, sobre la guerra con Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-trucos-avalados-ocu-comer-bien-ahorrando-comprar-comida-1051523'>10 trucos avalados por la OCU para comer bien ahorrando al comprar comida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-trucos-avalados-ocu-comer-bien-ahorrando-comprar-comida-1051523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/supermercado-2655303.jpg' alt='10 trucos avalados por la OCU para comer bien ahorrando al comprar comida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461'>Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/respuestas-inteligentes-android-auto-76-no-son-todo-inteligentes-deberian-1051461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Las respuestas inteligentes de Android Auto 7.6 no son todo lo inteligentes que deberían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camm-nuevo-formato-ram-portatiles-busca-estandarizar-dell-detrimento-dimm-1051521'>Así es CAMM, el nuevo formato de RAM para portátiles que busca estandarizar Dell en detrimento de SO-DIMM </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camm-nuevo-formato-ram-portatiles-busca-estandarizar-dell-detrimento-dimm-1051521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/memoria-ram-2685993.jpg' alt='Así es CAMM, el nuevo formato de RAM para portátiles que busca estandarizar Dell en detrimento de SO-DIMM ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-watch-gt-2-oferta-1047153'>El reloj inteligente que necesitas para ponerte en forma esta primavera está rebajado: Huawei Watch GT 2 ahora por solo 109€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-huawei-watch-gt-2-oferta-1047153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-watch-gt-2-2421359.jpg' alt='El reloj inteligente que necesitas para ponerte en forma esta primavera está rebajado: Huawei Watch GT 2 ahora por solo 109€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073'>El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-ikea-no-desentona-decoracion-rebajado-20eu-tienda-online-1049073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fornuftig-purificador-aire-2637759.jpg' alt='El purificador de aire de IKEA que no desentona con la decoración, rebajado en 20€ en su tienda online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495'>Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-queda-pixel-watch-muneca-reloj-google-vera-luz-dentro-dos-semanas-1051495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pixel-watch-imagenes-reales-2685975.jpg' alt='Así es como queda el Pixel Watch en la muñeca, el reloj de Google que verá la luz dentro de dos semanas' />
     </a>
 </div>
 
