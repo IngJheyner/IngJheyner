@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-eliminar-moratones-hematomas-cardenales-rapido-1051415'>Trucos para eliminar los moratones más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-eliminar-moratones-hematomas-cardenales-rapido-1051415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trucos-eliminar-moratones-rapido-2685801.jpg' alt='Trucos para eliminar los moratones más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/weptos-olas-mar-generar-electricidad-1051201'>Así se usan las olas del mar para generar electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/weptos-olas-mar-generar-electricidad-1051201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/usan-olas-mar-generar-electricidad-2685597.jpg' alt='Así se usan las olas del mar para generar electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195'>Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ubisoft-cierra-modos-online-91-juegos-1051195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ubisoft-cierra-modos-online-91-juegos-jugadores-pierden-compras-dlcs-todos-mapas-skins-desbloqueados-2685587.jpg' alt='Ubisoft cierra los modos online de 91 juegos, los jugadores pierden compras y DLCs, y todos los mapas y skins desbloqueados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185'>¿Te pueden multar por frenar antes de llegar a un radar?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-frenar-antes-llegar-radar-1051185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/te-pueden-multar-frenar-antes-llegar-radar-2685553.jpg' alt='¿Te pueden multar por frenar antes de llegar a un radar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-p-robot-aspirador-friega-suelo-precio-minimo-1051129'>Xiaomi Robot Vacuum Mop P, el robot aspirador que también friega el suelo, baja de precio a solo 229 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-p-robot-aspirador-friega-suelo-precio-minimo-1051129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-robot-vacuum-mop-p-robot-aspirador-tambien-friega-suelo-baja-precio-solo-229-euros-2685407.jpg' alt='Xiaomi Robot Vacuum Mop P, el robot aspirador que también friega el suelo, baja de precio a solo 229 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871'>Deberías quitarte los zapatos al llegar a casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/deberias-quitarte-zapatos-llegar-casa-1050871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/zapatos-2517437.jpg' alt='Deberías quitarte los zapatos al llegar a casa' />
     </a>
 </div>
 
