@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-615-computer-hoy-1047911'>¡Ya está en tu quiosco el número 615 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-615-computer-hoy-1047911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/computer-hoy-615-2682425.jpg' alt='¡Ya está en tu quiosco el número 615 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783'>No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313135.jpg' alt='No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2686981.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911'>5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dell-xps-13-9310-2021-2662661.jpg' alt='5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar' />
     </a>
 </div>
 
