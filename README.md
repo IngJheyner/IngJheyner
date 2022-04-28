@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595'>Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mundos-escondidos-latas-atun-enchufes-pared-mozu-studios-2687977.jpg' alt='Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589'>Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/snapchat-lanza-pixy-camara-voladora-te-sigue-controla-gestos-2687971.jpg' alt='Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515'>¿Qué es el colesterol bueno (HDL) y para qué sirve? </a></h4>
     <a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='¿Qué es el colesterol bueno (HDL) y para qué sirve? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573'>Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524103.jpg' alt='Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU' />
     </a>
 </div>
 
