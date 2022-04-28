@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583'>El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575'>Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/llegada-1850329.jpg' alt='Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569'>Google mejora el proceso para eliminar tus datos personales de las búsquedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-mejora-proceso-eliminar-datos-personales-busquedas-2687939.jpg' alt='Google mejora el proceso para eliminar tus datos personales de las búsquedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477'>Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?' />
     </a>
 </div>
 
