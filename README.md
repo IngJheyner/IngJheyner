@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193'>Si tienes un coche con etiqueta C, comienza a preocuparte</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Si tienes un coche con etiqueta C, comienza a preocuparte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115'>Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133'>Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/luz-nocturna-2687133.jpg' alt='Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173'>Microsoft también utiliza Windows 11 en ordenadores no compatibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Microsoft también utiliza Windows 11 en ordenadores no compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/juega-como-nunca-monitor-34-curvo-huawei-mateview-34-ahora-ha-bajado-precio-1047185'>Juega como nunca con este monitor de 34" curvo Huawei MateView 34 ahora que ha bajado de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/juega-como-nunca-monitor-34-curvo-huawei-mateview-34-ahora-ha-bajado-precio-1047185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-mateview-34-2677963.jpg' alt='Juega como nunca con este monitor de 34" curvo Huawei MateView 34 ahora que ha bajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-gustaria-comprar-coca-cola-devolverle-ingredientes-originales-1052109'>A Elon Musk le gustaría comprar Coca-Cola para devolverle uno de sus ingredientes originales</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-gustaria-comprar-coca-cola-devolverle-ingredientes-originales-1052109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2687045.jpg' alt='A Elon Musk le gustaría comprar Coca-Cola para devolverle uno de sus ingredientes originales' />
     </a>
 </div>
 
