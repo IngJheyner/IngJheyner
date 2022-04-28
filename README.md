@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901'>Golf GTI es el Volkswagen que sigue dando guerra 47 años después</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-golf-gti-1975-2669457.jpg' alt='Golf GTI es el Volkswagen que sigue dando guerra 47 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2686981.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911'>5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dell-xps-13-9310-2021-2662661.jpg' alt='5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069'>6 causas poco conocidas que disparan la alergia primaveral</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-causas-poco-conocidas-disparan-alergia-primaveral-2686979.jpg' alt='6 causas poco conocidas que disparan la alergia primaveral' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857'>En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/japon-usan-robot-tipo-gundam-15-metros-altura-manejado-realidad-virtual-arreglar-cables-tren-2686789.jpg' alt='En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849'>Sin tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sin-tiempo-para-morir-james-bond-estrenos-mayo-amazon-prime-video-1051849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/todas-peliculas-james-incluyendo-nueva-tiempo-morir-estrenos-mayo-amazon-prime-video-2686783.jpg' alt='Sin tiempo para morir, todas las entregas de James Bond, y la nueva película de Will Smith, entre los estrenos de mayo en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-971-precio-minimo-historico-1051843'>Uno de los mejores robots aspirador del mercado, la Roomba 971, baja a su precio mínimo histórico, solo 379 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-roomba-971-precio-minimo-historico-1051843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/irobot-roomba-971-2098677.jpg' alt='Uno de los mejores robots aspirador del mercado, la Roomba 971, baja a su precio mínimo histórico, solo 379 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881'>Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético</a></h4>
-    <a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tienes-forma-andar-indicio-padeces-alzheimer-2267145.jpg' alt='Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético' />
     </a>
 </div>
 
