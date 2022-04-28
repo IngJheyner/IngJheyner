@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589'>Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/snapchat-lanza-pixy-camara-voladora-te-sigue-controla-gestos-2687971.jpg' alt='Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583'>El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573'>Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524103.jpg' alt='Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569'>Google mejora el proceso para eliminar tus datos personales de las búsquedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-mejora-proceso-eliminar-datos-personales-busquedas-2687939.jpg' alt='Google mejora el proceso para eliminar tus datos personales de las búsquedas' />
     </a>
 </div>
 
