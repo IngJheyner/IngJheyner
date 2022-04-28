@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477'>Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/proporcion-perfecta-huevo-patata-cocinar-tortilla-patata-novato-1052557'>Esta es la proporción perfecta de huevo y patata para empezar a hacer una tortilla de patata en su punto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/proporcion-perfecta-huevo-patata-cocinar-tortilla-patata-novato-1052557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/proporcion-perfecta-huevo-patata-empezar-hacer-tortilla-patata-punto-2687911.jpg' alt='Esta es la proporción perfecta de huevo y patata para empezar a hacer una tortilla de patata en su punto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141'>5 tablets que pueden plantar cara al iPad Air con M1 de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667693.jpg' alt='5 tablets que pueden plantar cara al iPad Air con M1 de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497'>El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-2687831.jpg' alt='El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489'>Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209'>Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/yahoo-2687833.jpg' alt='Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones' />
     </a>
 </div>
 
