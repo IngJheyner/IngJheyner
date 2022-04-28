@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-615-computer-hoy-1047911'>¡Ya está en tu quiosco el número 615 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-615-computer-hoy-1047911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/computer-hoy-615-2682425.jpg' alt='¡Ya está en tu quiosco el número 615 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133'>Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/luz-nocturna-2687133.jpg' alt='Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783'>No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313135.jpg' alt='No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-trae-revolucion-dos-freidoras-cocinar-dos-recetas-vez-espanola-1051585'>Esta freidora sin aceite trae la revolución: dos freidoras en una para cocinar dos recetas de una vez, y es española</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-trae-revolucion-dos-freidoras-cocinar-dos-recetas-vez-espanola-1051585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-cecofry-advance-double-2686149.jpg' alt='Esta freidora sin aceite trae la revolución: dos freidoras en una para cocinar dos recetas de una vez, y es española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-oeste-westerns-historia-1050917'>Los 20 mejores del oeste (westerns) de la historia</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-oeste-westerns-historia-1050917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cowboy-asfalto-2281205.jpg' alt='Los 20 mejores del oeste (westerns) de la historia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173'>Microsoft también utiliza Windows 11 en ordenadores no compatibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Microsoft también utiliza Windows 11 en ordenadores no compatibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901'>Golf GTI es el Volkswagen que sigue dando guerra 47 años después</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-golf-gti-1975-2669457.jpg' alt='Golf GTI es el Volkswagen que sigue dando guerra 47 años después' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/juega-como-nunca-monitor-34-curvo-huawei-mateview-34-ahora-ha-bajado-precio-1047185'>Juega como nunca con este monitor de 34" curvo Huawei MateView 34 ahora que ha bajado de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/juega-como-nunca-monitor-34-curvo-huawei-mateview-34-ahora-ha-bajado-precio-1047185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-mateview-34-2677963.jpg' alt='Juega como nunca con este monitor de 34" curvo Huawei MateView 34 ahora que ha bajado de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1052071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2686981.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-gustaria-comprar-coca-cola-devolverle-ingredientes-originales-1052109'>A Elon Musk le gustaría comprar Coca-Cola para devolverle uno de sus ingredientes originales</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-gustaria-comprar-coca-cola-devolverle-ingredientes-originales-1052109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2687045.jpg' alt='A Elon Musk le gustaría comprar Coca-Cola para devolverle uno de sus ingredientes originales' />
     </a>
 </div>
 
