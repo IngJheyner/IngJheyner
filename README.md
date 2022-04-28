@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069'>6 causas poco conocidas que disparan la alergia primaveral</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-causas-poco-conocidas-disparan-alergia-primaveral-2686979.jpg' alt='6 causas poco conocidas que disparan la alergia primaveral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857'>En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/japon-usan-robot-tipo-gundam-15-metros-altura-manejado-realidad-virtual-arreglar-cables-tren-2686789.jpg' alt='En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881'>Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético</a></h4>
     <a href='https://computerhoy.com/noticias/life/andar-rapido-secreto-vivir-16-anos-completo-nuevo-estudio-genetico-1050881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tienes-forma-andar-indicio-padeces-alzheimer-2267145.jpg' alt='Andar rápido es el secreto para vivir 16 años más, según un completo y nuevo estudio genético' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829'>En Mercadona no suben solo los precios de sus productos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-no-suben-solo-precios-productos-1051829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercadona-2209955.jpg' alt='En Mercadona no suben solo los precios de sus productos' />
     </a>
 </div>
 
