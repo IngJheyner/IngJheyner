@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-fortalece-apuesta-cine-anuncia-casi-40-estrenos-verano-1052227'>Netflix fortalece su apuesta por el cine y anuncia casi 40 estrenos para verano</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-fortalece-apuesta-cine-anuncia-casi-40-estrenos-verano-1052227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anatomia-escandalo-netflix-2677101.jpg' alt='Netflix fortalece su apuesta por el cine y anuncia casi 40 estrenos para verano' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489'>Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dos-moviles-mismo-tiempo-funciona-novedad-deseada-1052251'>WhatsApp en dos móviles al mismo tiempo! Así funciona la novedad más deseada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dos-moviles-mismo-tiempo-funciona-novedad-deseada-1052251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp en dos móviles al mismo tiempo! Así funciona la novedad más deseada' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209'>Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/yahoo-2687833.jpg' alt='Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cobalto-nuevo-petroleo-punto-mira-grandes-millonarios-como-bill-gates-jeff-bezos-1052159'>Cobalto: el nuevo petróleo en punto de mira de los grandes millonarios como Bill Gates y Jeff Bezos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cobalto-nuevo-petroleo-punto-mira-grandes-millonarios-como-bill-gates-jeff-bezos-1052159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cinco-diferencias-clave-comprar-coche-electrico-gasolina-2681627.jpg' alt='Cobalto: el nuevo petróleo en punto de mira de los grandes millonarios como Bill Gates y Jeff Bezos' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-compania-luz-barata-actualidad-1052493'>Cuál es la compañía de luz más barata en la actualidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-compania-luz-barata-actualidad-1052493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Cuál es la compañía de luz más barata en la actualidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193'>Si tienes un coche con etiqueta C, comienza a preocuparte</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Si tienes un coche con etiqueta C, comienza a preocuparte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-recibe-elon-musk-perdidas-millonarias-admitiendo-haber-exagerado-numero-usuarios-1052467'>Twitter recibe a Elon Musk con pérdidas millonarias y admitiendo haber exagerado su número de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-recibe-elon-musk-perdidas-millonarias-admitiendo-haber-exagerado-numero-usuarios-1052467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Twitter recibe a Elon Musk con pérdidas millonarias y admitiendo haber exagerado su número de usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115'>Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-asegura-elon-musk-no-convertira-plataforma-infierno-1052491'>Twitter asegura que Elon Musk no convertirá la plataforma en un infierno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-asegura-elon-musk-no-convertira-plataforma-infierno-1052491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Twitter asegura que Elon Musk no convertirá la plataforma en un infierno' />
     </a>
 </div>
 
