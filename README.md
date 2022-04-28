@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141'>5 tablets que pueden plantar cara al iPad Air con M1 de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667693.jpg' alt='5 tablets que pueden plantar cara al iPad Air con M1 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-contara-vpn-integrada-mano-cloudfare-1052495'>Microsoft Edge contará con VPN integrada de la mano de Cloudfare</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-contara-vpn-integrada-mano-cloudfare-1052495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-edge-2286921.jpg' alt='Microsoft Edge contará con VPN integrada de la mano de Cloudfare' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497'>El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-2687831.jpg' alt='El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489'>Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-posible-diseno-nuevo-telefono-plegable-xiaomi-estaria-desarrollando-1052489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Se ha filtrado el posible diseño del nuevo teléfono plegable que Xiaomi estaría desarrollando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209'>Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-iniciar-sesion-correo-yahoo-mail-guia-fondo-285209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/yahoo-2687833.jpg' alt='Correo Yahoo Mail: cómo iniciar sesión y guía de todas sus funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-compania-luz-barata-actualidad-1052493'>Cuál es la compañía de luz más barata en la actualidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-compania-luz-barata-actualidad-1052493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Cuál es la compañía de luz más barata en la actualidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-recibe-elon-musk-perdidas-millonarias-admitiendo-haber-exagerado-numero-usuarios-1052467'>Twitter recibe a Elon Musk con pérdidas millonarias y admitiendo haber exagerado su número de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-recibe-elon-musk-perdidas-millonarias-admitiendo-haber-exagerado-numero-usuarios-1052467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Twitter recibe a Elon Musk con pérdidas millonarias y admitiendo haber exagerado su número de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-asegura-elon-musk-no-convertira-plataforma-infierno-1052491'>Twitter asegura que Elon Musk no convertirá la plataforma en un infierno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-asegura-elon-musk-no-convertira-plataforma-infierno-1052491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Twitter asegura que Elon Musk no convertirá la plataforma en un infierno' />
     </a>
 </div>
 
