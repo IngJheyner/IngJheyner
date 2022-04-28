@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575'>Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/llegada-1850329.jpg' alt='Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515'>¿Qué es el colesterol bueno (HDL) y para qué sirve? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='¿Qué es el colesterol bueno (HDL) y para qué sirve? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573'>Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-detectar-airpods-son-falsos-hacer-ya-has-comprado-ocu-1052573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524103.jpg' alt='Cómo detectar si unos AirPods son falsos y qué hacer si ya los has comprado, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569'>Google mejora el proceso para eliminar tus datos personales de las búsquedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-mejora-proceso-eliminar-datos-personales-busquedas-1052569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/google-mejora-proceso-eliminar-datos-personales-busquedas-2687939.jpg' alt='Google mejora el proceso para eliminar tus datos personales de las búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477'>Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/diesel-gasolina-electrico-tipo-coche-mejor-opcion-comprar-hoy-1051477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Diésel, gasolina o eléctrico. ¿Qué tipo de coche es la mejor opción para comprar hoy?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/proporcion-perfecta-huevo-patata-cocinar-tortilla-patata-novato-1052557'>Esta es la proporción perfecta de huevo y patata para empezar a hacer una tortilla de patata en su punto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/proporcion-perfecta-huevo-patata-cocinar-tortilla-patata-novato-1052557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/proporcion-perfecta-huevo-patata-empezar-hacer-tortilla-patata-punto-2687911.jpg' alt='Esta es la proporción perfecta de huevo y patata para empezar a hacer una tortilla de patata en su punto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141'>5 tablets que pueden plantar cara al iPad Air con M1 de Apple</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-ipad-air-m1-1052141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667693.jpg' alt='5 tablets que pueden plantar cara al iPad Air con M1 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-contara-vpn-integrada-mano-cloudfare-1052495'>Microsoft Edge contará con VPN integrada de la mano de Cloudfare</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-edge-contara-vpn-integrada-mano-cloudfare-1052495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-edge-2286921.jpg' alt='Microsoft Edge contará con VPN integrada de la mano de Cloudfare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497'>El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-1052497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-z-fold-3-tiene-nuevo-rival-movil-plegable-huawei-mate-xs-2-2687831.jpg' alt='El Samsung Galaxy Z Fold 3 tiene un nuevo rival: así es el móvil plegable Huawei Mate XS 2' />
     </a>
 </div>
 
