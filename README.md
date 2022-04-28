@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783'>No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-essential-oferta-280-euros-1051783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-electric-scooter-essential-patinete-2313135.jpg' alt='No hay excusa para ahorrar en transporte público: este patinete de Xiaomi está a un precio mínimo y tiene 20 km de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-oeste-westerns-historia-1050917'>Los 20 mejores del oeste (westerns) de la historia</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/20-mejores-oeste-westerns-historia-1050917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/cowboy-asfalto-2281205.jpg' alt='Los 20 mejores del oeste (westerns) de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901'>Golf GTI es el Volkswagen que sigue dando guerra 47 años después</a></h4>
     <a href='https://computerhoy.com/noticias/motor/golf-gti-volkswagen-sigue-dando-guerra-47-anos-despues-1050901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-golf-gti-1975-2669457.jpg' alt='Golf GTI es el Volkswagen que sigue dando guerra 47 años después' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911'>5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-ordenadores-potentisimos-hemos-probado-ultimamente-podemos-recomendar-1050911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dell-xps-13-9310-2021-2662661.jpg' alt='5 ordenadores potentísimos que hemos probado últimamente y podemos recomendar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069'>6 causas poco conocidas que disparan la alergia primaveral</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-causas-poco-conocidas-disparan-alergia-primaveral-1052069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/6-causas-poco-conocidas-disparan-alergia-primaveral-2686979.jpg' alt='6 causas poco conocidas que disparan la alergia primaveral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857'>En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-gundam-realidad-virtual-arregla-cables-tren-1051857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/japon-usan-robot-tipo-gundam-15-metros-altura-manejado-realidad-virtual-arreglar-cables-tren-2686789.jpg' alt='En Japón usan un robot tipo Gundam de 15 metros, manejado por realidad virtual, para arreglar los cables del tren' />
     </a>
 </div>
 
