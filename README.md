@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-fortalece-apuesta-cine-anuncia-casi-40-estrenos-verano-1052227'>Netflix fortalece su apuesta por el cine y anuncia casi 40 estrenos para verano</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-fortalece-apuesta-cine-anuncia-casi-40-estrenos-verano-1052227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anatomia-escandalo-netflix-2677101.jpg' alt='Netflix fortalece su apuesta por el cine y anuncia casi 40 estrenos para verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dos-moviles-mismo-tiempo-funciona-novedad-deseada-1052251'>WhatsApp en dos móviles al mismo tiempo! Así funciona la novedad más deseada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dos-moviles-mismo-tiempo-funciona-novedad-deseada-1052251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='WhatsApp en dos móviles al mismo tiempo! Así funciona la novedad más deseada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cobalto-nuevo-petroleo-punto-mira-grandes-millonarios-como-bill-gates-jeff-bezos-1052159'>Cobalto: el nuevo petróleo en punto de mira de los grandes millonarios como Bill Gates y Jeff Bezos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cobalto-nuevo-petroleo-punto-mira-grandes-millonarios-como-bill-gates-jeff-bezos-1052159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cinco-diferencias-clave-comprar-coche-electrico-gasolina-2681627.jpg' alt='Cobalto: el nuevo petróleo en punto de mira de los grandes millonarios como Bill Gates y Jeff Bezos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193'>Si tienes un coche con etiqueta C, comienza a preocuparte</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tienes-coche-etiqueta-c-comienza-preocuparte-1052193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Si tienes un coche con etiqueta C, comienza a preocuparte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115'>Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/habitos-recurrentes-hacen-pc-windows-10-funcione-lento-deberias-evitar-1052115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Hábitos recurrentes que hacen que tu PC con Windows 10 funcione más lento y que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133'>Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luz-nocturna-windows-11-como-activarla-beneficios-tiene-vista-1052133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/luz-nocturna-2687133.jpg' alt='Qué es la luz nocturna de Windows 11, cómo activarla y qué beneficios tiene para la vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-trae-revolucion-dos-freidoras-cocinar-dos-recetas-vez-espanola-1051585'>Esta freidora sin aceite trae la revolución: dos freidoras en una para cocinar dos recetas de una vez, y es española</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-trae-revolucion-dos-freidoras-cocinar-dos-recetas-vez-espanola-1051585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-cecofry-advance-double-2686149.jpg' alt='Esta freidora sin aceite trae la revolución: dos freidoras en una para cocinar dos recetas de una vez, y es española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173'>Microsoft también utiliza Windows 11 en ordenadores no compatibles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tambien-utiliza-windows-11-ordenadores-no-compatibles-1052173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Microsoft también utiliza Windows 11 en ordenadores no compatibles' />
     </a>
 </div>
 
