@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555'>Cómo saber quién no te sigue en Instagram	</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-saber-quien-no-te-sigue-instagram-2688279.jpg' alt='Cómo saber quién no te sigue en Instagram	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-1053219'>OnePlus Nord CE 2 Lite 5G: así es el nuevo terminal de gama media de OnePlus que llega con pantalla AMOLED y 120 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-1053219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G: así es el nuevo terminal de gama media de OnePlus que llega con pantalla AMOLED y 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-mi-portatil-1053107'>Cómo saber el modelo de mi portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-mi-portatil-1053107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-ultragear-17g90q-primer-portatil-gaming-lg-toda-historia-llega-potente-intel-nvidia-2566055.jpg' alt='Cómo saber el modelo de mi portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/segundo-pais-ha-aceptado-bitcoin-como-moneda-curso-legal-salvador-1053063'>Este es el segundo país que ha aceptado el bitcoin como moneda de curso legal, tras el Salvador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/segundo-pais-ha-aceptado-bitcoin-como-moneda-curso-legal-salvador-1053063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='Este es el segundo país que ha aceptado el bitcoin como moneda de curso legal, tras el Salvador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-oppo-reno7-descuento-estreno-1052235'>¡Se acaba de estrenar y ya está en oferta! Oppo Reno7 ha bajado de precio a 279€ con este cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-oppo-reno7-descuento-estreno-1052235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno7-2687229.jpg' alt='¡Se acaba de estrenar y ya está en oferta! Oppo Reno7 ha bajado de precio a 279€ con este cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/22-mayo-llega-hbo-max-pelicula-esperada-ano-estrenos-dune-batman-1053007'>El 22 de mayo llega a HBO Max la película más esperada del año tras los estrenos de Dune y The Batman</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/22-mayo-llega-hbo-max-pelicula-esperada-ano-estrenos-dune-batman-1053007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/matrix-resurrections-2465707.jpg' alt='El 22 de mayo llega a HBO Max la película más esperada del año tras los estrenos de Dune y The Batman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/10-alimentos-nunca-deberias-congelar-aunque-muchos-hacen-1052975'>10 alimentos que nunca deberías congelar (aunque muchos lo hacen)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/10-alimentos-nunca-deberias-congelar-aunque-muchos-hacen-1052975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/verduras-congeladas-2111335.jpg' alt='10 alimentos que nunca deberías congelar (aunque muchos lo hacen)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-amd-ya-disponible-espana-1053013'>HUAWEI Matebook 14 con AMD ya disponible en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-amd-ya-disponible-espana-1053013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matebook-14-amd-portada-2688585.jpg' alt='HUAWEI Matebook 14 con AMD ya disponible en España' />
     </a>
 </div>
 
