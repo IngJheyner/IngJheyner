@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/6-objetos-usas-casa-estan-poniendo-salud-peligro-1051519'>6 objetos que usas en casa y que están poniendo tu salud en peligro  </a></h4>
+    <a href='https://computerhoy.com/listas/life/6-objetos-usas-casa-estan-poniendo-salud-peligro-1051519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/goma-lavadora-2542973.jpg' alt='6 objetos que usas en casa y que están poniendo tu salud en peligro  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-money-heist-korea-1053295'>Netflix anuncia el remake coreano de la serie española más internacional, y esta vez sin Dalí</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-money-heist-korea-1053295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-anuncia-remake-coreano-serie-espanola-internacional-vez-dali-2689155.jpg' alt='Netflix anuncia el remake coreano de la serie española más internacional, y esta vez sin Dalí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293'>Chrome para Android prepara una nueva función que te hará la vida mucho más fácil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Chrome para Android prepara una nueva función que te hará la vida mucho más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/supermercados-han-subido-precios-confirman-sospechas-mercadona-1053291'>Los supermercados que más han subido precios: ¿se confirman las sospechas con Mercadona?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/supermercados-han-subido-precios-confirman-sospechas-mercadona-1053291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-haciendo-compra-2689153.jpg' alt='Los supermercados que más han subido precios: ¿se confirman las sospechas con Mercadona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/nuevos-coches-oficiales-ha-comprado-gobierno-espana-1051501'>Los nuevos coches oficiales que ha comprado el Gobierno de España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nuevos-coches-oficiales-ha-comprado-gobierno-espana-1051501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coches-oficiales-2685981.jpg' alt='Los nuevos coches oficiales que ha comprado el Gobierno de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-vida-util-bateria-ordenador-portatil-windows-11-1041977'>Cómo mejorar la vida útil de la batería de tu ordenador portátil con Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-vida-util-bateria-ordenador-portatil-windows-11-1041977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Cómo mejorar la vida útil de la batería de tu ordenador portátil con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269'>Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-2689091.jpg' alt='Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-baratos-no-son-xiaomi-hemos-probado-resultados-sobresalientes-1050981'>5 móviles baratos que no son Xiaomi y que hemos probado con resultados sobresalientes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-baratos-no-son-xiaomi-hemos-probado-resultados-sobresalientes-1050981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545319.jpg' alt='5 móviles baratos que no son Xiaomi y que hemos probado con resultados sobresalientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-2688811.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato' />
     </a>
 </div>
 
