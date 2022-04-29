@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-2688811.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/peculiar-recomendacion-dgt-afectara-gustos-musicales-1053235'>La peculiar recomendación de la DGT que afectará a tus gustos musicales</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/peculiar-recomendacion-dgt-afectara-gustos-musicales-1053235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dgt-circulacion-2240031.jpg' alt='La peculiar recomendación de la DGT que afectará a tus gustos musicales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227'>Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-2689021.jpg' alt='Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-gestionar-ansiedad-estres-1042807'>Aplicaciones para gestionar la ansiedad y el estrés</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-gestionar-ansiedad-estres-1042807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/sencilla-tecnica-te-ayuda-calmar-ansiedad-20-minutos.jpg' alt='Aplicaciones para gestionar la ansiedad y el estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555'>Cómo saber quién no te sigue en Instagram	</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-saber-quien-no-te-sigue-instagram-2688279.jpg' alt='Cómo saber quién no te sigue en Instagram	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-1053219'>OnePlus Nord CE 2 Lite 5G: así es el nuevo terminal de gama media de OnePlus que llega con pantalla AMOLED y 120 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-1053219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G: así es el nuevo terminal de gama media de OnePlus que llega con pantalla AMOLED y 120 Hz' />
     </a>
 </div>
 
