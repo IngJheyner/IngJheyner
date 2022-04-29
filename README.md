@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807'>Cómo preparar un repelente de polillas casero sin productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-preparar-repelente-polillas-casero-productos-quimicos-2688165.jpg' alt='Cómo preparar un repelente de polillas casero sin productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595'>Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mundos-escondidos-latas-atun-enchufes-pared-mozu-studios-2687977.jpg' alt='Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575'>Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/llegada-1850329.jpg' alt='Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515'>¿Qué es el colesterol bueno (HDL) y para qué sirve? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/colesterol-bueno-hdl-sirve-1051515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-reducir-colesterol-medicamentos-medico-harvard-2610613.jpg' alt='¿Qué es el colesterol bueno (HDL) y para qué sirve? ' />
     </a>
 </div>
 
