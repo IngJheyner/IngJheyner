@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2688167.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-fin-semana-1052475'>15 chollos que no te puedes perder este fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/chollos-fin-semana-1052475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='15 chollos que no te puedes perder este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807'>Cómo preparar un repelente de polillas casero sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-preparar-repelente-polillas-casero-productos-quimicos-2688165.jpg' alt='Cómo preparar un repelente de polillas casero sin productos químicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589'>Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/snapchat-lanza-pixy-camara-voladora-te-sigue-controla-gestos-2687971.jpg' alt='Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583'>El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-procesador-apple-m1-pro-230-euros-descuento-1052583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='El MacBook Pro con procesador Apple M1 Pro no es barato, pero hoy lo puedes conseguir con 230 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575'>Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/la-llegada-abandona-netflix-1052575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/llegada-1850329.jpg' alt='Una de las mejores películas de ciencia ficción del siglo XX dejará de estar disponible en Netflix' />
     </a>
 </div>
 
