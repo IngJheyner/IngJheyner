@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevos-coches-oficiales-ha-comprado-gobierno-espana-1051501'>Los nuevos coches oficiales que ha comprado el Gobierno de España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevos-coches-oficiales-ha-comprado-gobierno-espana-1051501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/coches-oficiales-2685981.jpg' alt='Los nuevos coches oficiales que ha comprado el Gobierno de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-vida-util-bateria-ordenador-portatil-windows-11-1041977'>Cómo mejorar la vida útil de la batería de tu ordenador portátil con Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-mejorar-vida-util-bateria-ordenador-portatil-windows-11-1041977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Cómo mejorar la vida útil de la batería de tu ordenador portátil con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269'>Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-2689091.jpg' alt='Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-2688811.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/peculiar-recomendacion-dgt-afectara-gustos-musicales-1053235'>La peculiar recomendación de la DGT que afectará a tus gustos musicales</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/peculiar-recomendacion-dgt-afectara-gustos-musicales-1053235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dgt-circulacion-2240031.jpg' alt='La peculiar recomendación de la DGT que afectará a tus gustos musicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227'>Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-2689021.jpg' alt='Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera' />
     </a>
 </div>
 
