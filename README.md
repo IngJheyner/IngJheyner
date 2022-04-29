@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-encuentra-paracaidas-marte-1053317'>El helicóptero Ingenuity encuentra a un viejo amigo mientras sobrevuela el cielo de Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-encuentra-paracaidas-marte-1053317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/helicoptero-ingenuity-encuentra-viejo-amigo-mientras-sobrevuela-cielo-marte-2689205.jpg' alt='El helicóptero Ingenuity encuentra a un viejo amigo mientras sobrevuela el cielo de Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315'>Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-plus-2421089.jpg' alt='Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-money-heist-korea-1053295'>Netflix anuncia el remake coreano de la serie española más internacional, y esta vez sin Dalí</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-money-heist-korea-1053295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-anuncia-remake-coreano-serie-espanola-internacional-vez-dali-2689155.jpg' alt='Netflix anuncia el remake coreano de la serie española más internacional, y esta vez sin Dalí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293'>Chrome para Android prepara una nueva función que te hará la vida mucho más fácil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Chrome para Android prepara una nueva función que te hará la vida mucho más fácil' />
     </a>
 </div>
 
