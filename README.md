@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-espanol-planta-cara-xiaomi-baja-poco-cuesta-solo-290-euros-1051675'>El patinete español que planta cara a Xiaomi baja un poco más: cuesta solo 290 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-espanol-planta-cara-xiaomi-baja-poco-cuesta-solo-290-euros-1051675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bongo-serie-connected-cecotec-2439423.jpg' alt='El patinete español que planta cara a Xiaomi baja un poco más: cuesta solo 290 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2688167.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595'>Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mundos-escondidos-latas-atun-enchufes-pared-mozu-studios-2687977.jpg' alt='Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589'>Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixy-snapchat-dron-camara-voladora-1052589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/snapchat-lanza-pixy-camara-voladora-te-sigue-controla-gestos-2687971.jpg' alt='Snapchat lanza Pixy, una cámara voladora que te sigue y se controla con gestos  ' />
     </a>
 </div>
 
