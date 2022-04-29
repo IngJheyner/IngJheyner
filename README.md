@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315'>Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-plus-2421089.jpg' alt='Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307'>Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/frigorifico-americano-hisense-modelo-premium-recibe-descuento-260-euros-queda-solo-719-euros-2689181.jpg' alt='Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293'>Chrome para Android prepara una nueva función que te hará la vida mucho más fácil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chrome-android-prepara-nueva-funcion-te-hara-vida-mucho-facil-1053293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Chrome para Android prepara una nueva función que te hará la vida mucho más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/supermercados-han-subido-precios-confirman-sospechas-mercadona-1053291'>Los supermercados que más han subido precios: ¿se confirman las sospechas con Mercadona?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/supermercados-han-subido-precios-confirman-sospechas-mercadona-1053291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-haciendo-compra-2689153.jpg' alt='Los supermercados que más han subido precios: ¿se confirman las sospechas con Mercadona?' />
     </a>
 </div>
 
