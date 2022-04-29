@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-espanol-planta-cara-xiaomi-baja-poco-cuesta-solo-290-euros-1051675'>El patinete español que planta cara a Xiaomi baja un poco más: cuesta solo 290 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-espanol-planta-cara-xiaomi-baja-poco-cuesta-solo-290-euros-1051675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bongo-serie-connected-cecotec-2439423.jpg' alt='El patinete español que planta cara a Xiaomi baja un poco más: cuesta solo 290 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/segundo-pais-ha-aceptado-bitcoin-como-moneda-curso-legal-salvador-1053063'>Este es el segundo país que ha aceptado el bitcoin como moneda de curso legal, tras el Salvador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/segundo-pais-ha-aceptado-bitcoin-como-moneda-curso-legal-salvador-1053063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='Este es el segundo país que ha aceptado el bitcoin como moneda de curso legal, tras el Salvador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1052813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2688167.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-oppo-reno7-descuento-estreno-1052235'>¡Se acaba de estrenar y ya está en oferta! Oppo Reno7 ha bajado de precio a 279€ con este cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-oppo-reno7-descuento-estreno-1052235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno7-2687229.jpg' alt='¡Se acaba de estrenar y ya está en oferta! Oppo Reno7 ha bajado de precio a 279€ con este cupón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/chollos-fin-semana-1052475'>15 chollos que no te puedes perder este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/chollos-fin-semana-1052475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643039.jpg' alt='15 chollos que no te puedes perder este fin de semana' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/22-mayo-llega-hbo-max-pelicula-esperada-ano-estrenos-dune-batman-1053007'>El 22 de mayo llega a HBO Max la película más esperada del año tras los estrenos de Dune y The Batman</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/22-mayo-llega-hbo-max-pelicula-esperada-ano-estrenos-dune-batman-1053007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/matrix-resurrections-2465707.jpg' alt='El 22 de mayo llega a HBO Max la película más esperada del año tras los estrenos de Dune y The Batman' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807'>Cómo preparar un repelente de polillas casero sin productos químicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/repelente-polillas-casero-1052807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-preparar-repelente-polillas-casero-productos-quimicos-2688165.jpg' alt='Cómo preparar un repelente de polillas casero sin productos químicos' />
+    <h4><a href='https://computerhoy.com/noticias/life/10-alimentos-nunca-deberias-congelar-aunque-muchos-hacen-1052975'>10 alimentos que nunca deberías congelar (aunque muchos lo hacen)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-alimentos-nunca-deberias-congelar-aunque-muchos-hacen-1052975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/verduras-congeladas-2111335.jpg' alt='10 alimentos que nunca deberías congelar (aunque muchos lo hacen)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595'>Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mundos-escondidos-latas-atun-enchufes-mozu-studios-1052595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mundos-escondidos-latas-atun-enchufes-pared-mozu-studios-2687977.jpg' alt='Los mundos escondidos en latas de atún y enchufes de pared de Mozu Studios (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-amd-ya-disponible-espana-1053013'>HUAWEI Matebook 14 con AMD ya disponible en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-amd-ya-disponible-espana-1053013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matebook-14-amd-portada-2688585.jpg' alt='HUAWEI Matebook 14 con AMD ya disponible en España' />
     </a>
 </div>
 
