@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269'>Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-1053269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nuevo-poco-m4-5g-dispositivo-llega-acompanar-poco-m4-pro-5g-2689091.jpg' alt='Nuevo POCO M4 5G: así es el dispositivo que llega para acompañar al POCO M4 Pro 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-baratos-no-son-xiaomi-hemos-probado-resultados-sobresalientes-1050981'>5 móviles baratos que no son Xiaomi y que hemos probado con resultados sobresalientes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-baratos-no-son-xiaomi-hemos-probado-resultados-sobresalientes-1050981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545319.jpg' alt='5 móviles baratos que no son Xiaomi y que hemos probado con resultados sobresalientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099'>Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-apple-tv-dinero-negro-baltimore-asesinato-1053099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/series-finde-2688811.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Apple TV+: dinero negro, Baltimore y un asesinato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227'>Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-1053227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sony-presenta-nuevos-espectaculares-proyectores-4k-aunque-prepara-cartera-2689021.jpg' alt='Sony presenta nuevos y espectaculares proyectores 4K, aunque prepara la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistar-plus-segunda-entrega-venom-christopher-nolan-fin-mundo-manos-bong-joon-ho-1052545'>Qué películas ver este fin de semana en Prime Video, Netflix y Movistar Plus+: la segunda entrega de Venom, una de Christopher Nolan y el fin del mundo de manos de Bong Joon-ho</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-movistar-plus-segunda-entrega-venom-christopher-nolan-fin-mundo-manos-bong-joon-ho-1052545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-prime-video-netflix-movistar-plus-segunda-entrega-venom-christopher-nolan-fin-mundo-manos-bong-joon-ho-2688199.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Movistar Plus+: la segunda entrega de Venom, una de Christopher Nolan y el fin del mundo de manos de Bong Joon-ho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-gestionar-ansiedad-estres-1042807'>Aplicaciones para gestionar la ansiedad y el estrés</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-gestionar-ansiedad-estres-1042807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/sencilla-tecnica-te-ayuda-calmar-ansiedad-20-minutos.jpg' alt='Aplicaciones para gestionar la ansiedad y el estrés' />
     </a>
 </div>
 
