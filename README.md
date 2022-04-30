@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511'>VinZent, el escudo para leñadores (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vinzent-escudo-lenadores-video-2689391.jpg' alt='VinZent, el escudo para leñadores (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-1050863'>Reciclaje de patinetes: los convierten en sillas, maceteros y lámparas LED</a></h4>
     <a href='https://computerhoy.com/noticias/motor/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-1050863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-2684713.jpg' alt='Reciclaje de patinetes: los convierten en sillas, maceteros y lámparas LED' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307'>Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/frigorifico-americano-hisense-modelo-premium-recibe-descuento-260-euros-queda-solo-719-euros-2689181.jpg' alt='Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/6-objetos-usas-casa-estan-poniendo-salud-peligro-1051519'>6 objetos que usas en casa y que están poniendo tu salud en peligro  </a></h4>
-    <a href='https://computerhoy.com/listas/life/6-objetos-usas-casa-estan-poniendo-salud-peligro-1051519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/goma-lavadora-2542973.jpg' alt='6 objetos que usas en casa y que están poniendo tu salud en peligro  ' />
     </a>
 </div>
 
