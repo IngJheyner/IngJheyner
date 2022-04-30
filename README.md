@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cosas-interesantes-pasan-cuerpo-primavera-1053513'>Cosas interesantes que le pasan a tu cuerpo en primavera, y no te imaginas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cosas-interesantes-pasan-cuerpo-primavera-1053513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cosas-interesantes-pasan-cuerpo-primavera-no-te-imaginas-2689393.jpg' alt='Cosas interesantes que le pasan a tu cuerpo en primavera, y no te imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/espumador-leche-986303'>Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera</a></h4>
+    <a href='https://computerhoy.com/guia-compra/espumador-leche-986303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cafe-mucha-espuma-2570895.jpg' alt='Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511'>VinZent, el escudo para leñadores (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vinzent-escudo-lenadores-video-2689391.jpg' alt='VinZent, el escudo para leñadores (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-encuentra-paracaidas-marte-1053317'>El helicóptero Ingenuity encuentra a un viejo amigo mientras sobrevuela el cielo de Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-encuentra-paracaidas-marte-1053317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/helicoptero-ingenuity-encuentra-viejo-amigo-mientras-sobrevuela-cielo-marte-2689205.jpg' alt='El helicóptero Ingenuity encuentra a un viejo amigo mientras sobrevuela el cielo de Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315'>Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-termina-trampa-playstation-plus-premium-barato-1053315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/playstation-plus-2421089.jpg' alt='Sony termina con la 'trampa' que permitía conseguir PlayStation Plus Premium más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307'>Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/frigorifico-americano-hisense-descuento-260-euros-1053307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/frigorifico-americano-hisense-modelo-premium-recibe-descuento-260-euros-queda-solo-719-euros-2689181.jpg' alt='Este frigorífico americano HiSense es un modelo premium, recibe un descuento de 260 euros y se queda en solo 719 euros ' />
     </a>
 </div>
 
