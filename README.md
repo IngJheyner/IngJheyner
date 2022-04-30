@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557'>Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/privacidad-whatsapp-2675839.jpg' alt='Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895'>OnePlus Nord CE 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='OnePlus Nord CE 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423'>Toda la información oficial para rellenar la declaración de la Renta 2021</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg' alt='Toda la información oficial para rellenar la declaración de la Renta 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-webs-curiosas-extranas-encontraras-internet-1041881'>Las 8 webs más curiosas y extrañas que encontrarás en Internet</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-webs-curiosas-extranas-encontraras-internet-1041881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/navegando-red-2669487.jpg' alt='Las 8 webs más curiosas y extrañas que encontrarás en Internet' />
     </a>
 </div>
 
