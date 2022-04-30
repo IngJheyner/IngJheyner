@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-arrasa-planta-cara-ipad-precio-derribo-baja-solo-309-euros-codigo-1052195'>La tablet Xiaomi que arrasa y planta cara al iPad, a precio de derribo: baja a solo 309 euros con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-arrasa-planta-cara-ipad-precio-derribo-baja-solo-309-euros-codigo-1052195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531827.jpg' alt='La tablet Xiaomi que arrasa y planta cara al iPad, a precio de derribo: baja a solo 309 euros con este código' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895'>OnePlus Nord CE 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='OnePlus Nord CE 2, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-10000-pa-potentes-incluye-gratis-base-vaciado-automatica-1052169'>Este robot aspirador de 10.000 Pa es de los más potentes e incluye gratis la base de vaciado automática</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-10000-pa-potentes-incluye-gratis-base-vaciado-automatica-1052169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-conga-8090-ultra-2687103.jpg' alt='Este robot aspirador de 10.000 Pa es de los más potentes e incluye gratis la base de vaciado automática' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-399-euros-demuestra-chromebooks-no-tienen-ser-basicos-1052879'>Este portátil de 399 euros demuestra que los Chromebooks no tienen por qué ser básicos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-399-euros-demuestra-chromebooks-no-tienen-ser-basicos-1052879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-chromebook-flip-c433ta-2688245.jpg' alt='Este portátil de 399 euros demuestra que los Chromebooks no tienen por qué ser básicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-watch-s1-active-review-opinion-1039043'>Xiaomi Watch S1 Active, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-watch-s1-active-review-opinion-1039043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687377.jpg' alt='Xiaomi Watch S1 Active, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleado-twitter-desvela-como-ha-vivido-dentro-compra-elon-musk-1053545'>Un empleado de Twitter desvela cómo se ha vivido desde dentro su compra por Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empleado-twitter-desvela-como-ha-vivido-dentro-compra-elon-musk-1053545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Un empleado de Twitter desvela cómo se ha vivido desde dentro su compra por Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363'>Autonomía o carga rápida: lo queremos todo y eso no puede ser</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545329.jpg' alt='Autonomía o carga rápida: lo queremos todo y eso no puede ser' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423'>Toda la información oficial para rellenar la declaración de la Renta 2021</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg' alt='Toda la información oficial para rellenar la declaración de la Renta 2021' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249'>Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bateria-solar-2687759.jpg' alt='Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-webs-curiosas-extranas-encontraras-internet-1041881'>Las 8 webs más curiosas y extrañas que encontrarás en Internet</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-webs-curiosas-extranas-encontraras-internet-1041881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/navegando-red-2669487.jpg' alt='Las 8 webs más curiosas y extrañas que encontrarás en Internet' />
     </a>
 </div>
 
