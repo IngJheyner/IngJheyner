@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569'>Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/honor-watch-gs-pro-2165941.jpg' alt='Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563'>Netflix cancela por sorpresa una de sus últimas grandes apuestas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/space-force-2689461.jpg' alt='Netflix cancela por sorpresa una de sus últimas grandes apuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815'>6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/5-peliculas-amantes-libros-estan-protagonizadas-lectores-ocurren-bibliotecas-2686739.jpg' alt='6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557'>Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/privacidad-whatsapp-2675839.jpg' alt='Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895'>OnePlus Nord CE 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='OnePlus Nord CE 2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-399-euros-demuestra-chromebooks-no-tienen-ser-basicos-1052879'>Este portátil de 399 euros demuestra que los Chromebooks no tienen por qué ser básicos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-399-euros-demuestra-chromebooks-no-tienen-ser-basicos-1052879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-chromebook-flip-c433ta-2688245.jpg' alt='Este portátil de 399 euros demuestra que los Chromebooks no tienen por qué ser básicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleado-twitter-desvela-como-ha-vivido-dentro-compra-elon-musk-1053545'>Un empleado de Twitter desvela cómo se ha vivido desde dentro su compra por Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empleado-twitter-desvela-como-ha-vivido-dentro-compra-elon-musk-1053545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Un empleado de Twitter desvela cómo se ha vivido desde dentro su compra por Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423'>Toda la información oficial para rellenar la declaración de la Renta 2021</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/toda-informacion-oficial-rellenar-declaracion-renta-2021-1045423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg' alt='Toda la información oficial para rellenar la declaración de la Renta 2021' />
     </a>
 </div>
 
