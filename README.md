@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035'>Los mejores análisis de tecnología y juegos de abril</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-analisis-abril-2688651.jpg' alt='Los mejores análisis de tecnología y juegos de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-no-llevar-etiqueta-medioambiental-dgt-puesta-1053583'>¿Te pueden multar por no llevar la etiqueta medioambiental de la DGT puesta?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-no-llevar-etiqueta-medioambiental-dgt-puesta-1053583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='¿Te pueden multar por no llevar la etiqueta medioambiental de la DGT puesta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569'>Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/honor-watch-gs-pro-2165941.jpg' alt='Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815'>6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/5-peliculas-amantes-libros-estan-protagonizadas-lectores-ocurren-bibliotecas-2686739.jpg' alt='6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557'>Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dos-configuraciones-whatsapp-debes-cambiar-ahora-mismo-mantenerte-seguro-1053557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/privacidad-whatsapp-2675839.jpg' alt='Dos configuraciones de WhatsApp que debes cambiar ahora mismo para mantenerte seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895'>OnePlus Nord CE 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-ce-2-review-opinion-1052895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='OnePlus Nord CE 2, análisis y opinión' />
     </a>
 </div>
 
