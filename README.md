@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587'>Freidora de aire para adelgazar y perder peso: ¿mito o realidad?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Freidora de aire para adelgazar y perder peso: ¿mito o realidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035'>Los mejores análisis de tecnología y juegos de abril</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-analisis-abril-2688651.jpg' alt='Los mejores análisis de tecnología y juegos de abril' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563'>Netflix cancela por sorpresa una de sus últimas grandes apuestas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/space-force-2689461.jpg' alt='Netflix cancela por sorpresa una de sus últimas grandes apuestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815'>6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-amantes-libros-estan-protagonizadas-lectores-bibliotecas-1051815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/5-peliculas-amantes-libros-estan-protagonizadas-lectores-ocurren-bibliotecas-2686739.jpg' alt='6 películas para los amantes de los libros que están protagonizadas por lectores u ocurren en bibliotecas' />
     </a>
 </div>
 
