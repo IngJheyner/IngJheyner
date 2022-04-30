@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-arrasa-planta-cara-ipad-precio-derribo-baja-solo-309-euros-codigo-1052195'>La tablet Xiaomi que arrasa y planta cara al iPad, a precio de derribo: baja a solo 309 euros con este código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-arrasa-planta-cara-ipad-precio-derribo-baja-solo-309-euros-codigo-1052195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-xiaomi-pad-5-2531827.jpg' alt='La tablet Xiaomi que arrasa y planta cara al iPad, a precio de derribo: baja a solo 309 euros con este código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-10000-pa-potentes-incluye-gratis-base-vaciado-automatica-1052169'>Este robot aspirador de 10.000 Pa es de los más potentes e incluye gratis la base de vaciado automática</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-10000-pa-potentes-incluye-gratis-base-vaciado-automatica-1052169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cecotec-conga-8090-ultra-2687103.jpg' alt='Este robot aspirador de 10.000 Pa es de los más potentes e incluye gratis la base de vaciado automática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-watch-s1-active-review-opinion-1039043'>Xiaomi Watch S1 Active, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-watch-s1-active-review-opinion-1039043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687377.jpg' alt='Xiaomi Watch S1 Active, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363'>Autonomía o carga rápida: lo queremos todo y eso no puede ser</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545329.jpg' alt='Autonomía o carga rápida: lo queremos todo y eso no puede ser' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249'>Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bateria-solar-2687759.jpg' alt='Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-overclock-raspberry-pi-4-seguridad-danarla-1004251'>Cómo hacer overclock a una Raspberry Pi 4 con seguridad sin dañarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-overclock-raspberry-pi-4-seguridad-danarla-1004251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/raspberry-pi-4-1884381.jpg' alt='Cómo hacer overclock a una Raspberry Pi 4 con seguridad sin dañarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-interesantes-pasan-cuerpo-primavera-1053513'>Cosas interesantes que le pasan a tu cuerpo en primavera, y no te imaginas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-interesantes-pasan-cuerpo-primavera-1053513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cosas-interesantes-pasan-cuerpo-primavera-no-te-imaginas-2689393.jpg' alt='Cosas interesantes que le pasan a tu cuerpo en primavera, y no te imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/espumador-leche-986303'>Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera</a></h4>
-    <a href='https://computerhoy.com/guia-compra/espumador-leche-986303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cafe-mucha-espuma-2570895.jpg' alt='Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera' />
     </a>
 </div>
 
