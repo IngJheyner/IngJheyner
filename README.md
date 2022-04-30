@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363'>Autonomía o carga rápida: lo queremos todo y eso no puede ser</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/autonomia-carga-rapida-queremos-todo-eso-no-puede-ser-1047363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-50-5g-analisis-opinion-2545329.jpg' alt='Autonomía o carga rápida: lo queremos todo y eso no puede ser' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249'>Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bateria-solar-2687759.jpg' alt='Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/espumador-leche-986303'>Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera</a></h4>
     <a href='https://computerhoy.com/guia-compra/espumador-leche-986303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cafe-mucha-espuma-2570895.jpg' alt='Espumador de leche: guía y consejos para comprar el complemento perfecto para tu cafetera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511'>VinZent, el escudo para leñadores (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vinzent-escudo-lenadores-video-2689391.jpg' alt='VinZent, el escudo para leñadores (vídeo)' />
     </a>
 </div>
 
