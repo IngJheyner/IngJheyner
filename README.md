@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157'>Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kane-tanaka-persona-anciana-mundo-fallece-119-anos-edad-ya-conocemos-sucesora-2687073.jpg' alt='Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625'>Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587'>Freidora de aire para adelgazar y perder peso: ¿mito o realidad?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Freidora de aire para adelgazar y perder peso: ¿mito o realidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035'>Los mejores análisis de tecnología y juegos de abril</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-analisis-abril-2688651.jpg' alt='Los mejores análisis de tecnología y juegos de abril' />
     </a>
 </div>
 
