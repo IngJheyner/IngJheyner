@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625'>Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609'>Ya existe el primer prototipo de ciudad flotante del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oceanix-2689577.jpg' alt='Ya existe el primer prototipo de ciudad flotante del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035'>Los mejores análisis de tecnología y juegos de abril</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-analisis-tecnologia-juegos-abril-1053035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mejores-analisis-abril-2688651.jpg' alt='Los mejores análisis de tecnología y juegos de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-no-llevar-etiqueta-medioambiental-dgt-puesta-1053583'>¿Te pueden multar por no llevar la etiqueta medioambiental de la DGT puesta?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-no-llevar-etiqueta-medioambiental-dgt-puesta-1053583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='¿Te pueden multar por no llevar la etiqueta medioambiental de la DGT puesta?' />
     </a>
 </div>
 
