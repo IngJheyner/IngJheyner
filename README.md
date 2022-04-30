@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883'>La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-utilizando-maquina-coser-electrica-2689051.jpg' alt='La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587'>Freidora de aire para adelgazar y perder peso: ¿mito o realidad?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Freidora de aire para adelgazar y perder peso: ¿mito o realidad?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569'>Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-aventureros-sera-fiel-acompanante-deportes-aire-libre-ahora-oferta-solo-95-euros-1053569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/honor-watch-gs-pro-2165941.jpg' alt='Este reloj para aventureros será tu fiel acompañante en tus deportes al aire libre y ahora en oferta por solo 95 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563'>Netflix cancela por sorpresa una de sus últimas grandes apuestas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-sorpresa-ultimas-grandes-apuestas-1053563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/space-force-2689461.jpg' alt='Netflix cancela por sorpresa una de sus últimas grandes apuestas' />
     </a>
 </div>
 
