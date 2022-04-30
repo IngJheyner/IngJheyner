@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249'>Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-bank-solares-cargar-movil-necesidad-enchufe-1052249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bateria-solar-2687759.jpg' alt='Mejores Power Bank solares para cargar tu móvil sin necesidad de enchufe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-overclock-raspberry-pi-4-seguridad-danarla-1004251'>Cómo hacer overclock a una Raspberry Pi 4 con seguridad sin dañarla</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-overclock-raspberry-pi-4-seguridad-danarla-1004251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/raspberry-pi-4-1884381.jpg' alt='Cómo hacer overclock a una Raspberry Pi 4 con seguridad sin dañarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511'>VinZent, el escudo para leñadores (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/vinzent-escudo-lenadores-video-1053511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vinzent-escudo-lenadores-video-2689391.jpg' alt='VinZent, el escudo para leñadores (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-1050863'>Reciclaje de patinetes: los convierten en sillas, maceteros y lámparas LED</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-1050863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reciclaje-patinetes-convierten-sillas-maceteros-lamparas-led-2684713.jpg' alt='Reciclaje de patinetes: los convierten en sillas, maceteros y lámparas LED' />
     </a>
 </div>
 
