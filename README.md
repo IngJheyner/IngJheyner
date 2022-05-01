@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla del mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-1053919'>Amazfit GTR 3 Pro, el reloj con pantalla AMOLED, medidor de oxígeno, GPS y llamadas, baja a 163 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-1053919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-2690037.jpg' alt='Amazfit GTR 3 Pro, el reloj con pantalla AMOLED, medidor de oxígeno, GPS y llamadas, baja a 163 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917'>Este genial mapa recoge la mejor película de cada país del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/genial-mapa-recoge-mejor-pelicula-cada-pais-mundo-2690035.jpg' alt='Este genial mapa recoge la mejor película de cada país del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261'>5 gadgets para evitar ataques de alergia esta primavera</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paisaje-cerezos-flor-campo-hierba-plena-primavera-2689081.jpg' alt='5 gadgets para evitar ataques de alergia esta primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635'>La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-2684193.jpg' alt='La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899'>Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-inventor-raton-gaming-fundador-razer-robert-razerguy-krakoff-2690019.jpg' alt='Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff' />
     </a>
 </div>
 
