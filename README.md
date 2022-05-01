@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/poco-f4-gt-review-opinion-1052411'>POCO F4 GT, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-f4-gt-review-opinion-1052411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2685135.jpg' alt='POCO F4 GT, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-samsung-casi-mitad-precio-mide-65-pulgadas-1052935'>Este televisor QLED Samsung está casi a mitad de precio ¡y mide 65 pulgadas!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-samsung-casi-mitad-precio-mide-65-pulgadas-1052935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-qled-55q60a-2516855.jpg' alt='Este televisor QLED Samsung está casi a mitad de precio ¡y mide 65 pulgadas!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621'>Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-oceano-2689701.jpg' alt='Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491'>Este hombre quiere que sentarse en una silla se convierta en un deporte extremo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-quiere-convertir-sentarse-silla-deporte-extremo-2685931.jpg' alt='Este hombre quiere que sentarse en una silla se convierta en un deporte extremo' />
     </a>
 </div>
 
