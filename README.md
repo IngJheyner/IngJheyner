@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491'>Este hombre quiere que sentarse en una silla se convierta en un deporte extremo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-quiere-convertir-sentarse-silla-deporte-extremo-2685931.jpg' alt='Este hombre quiere que sentarse en una silla se convierta en un deporte extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225'>Guía y consejos para comprar una mirilla electrónica para tu casa o negocio</a></h4>
     <a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-2607467.jpg' alt='Guía y consejos para comprar una mirilla electrónica para tu casa o negocio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609'>Ya existe el primer prototipo de ciudad flotante del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oceanix-2689577.jpg' alt='Ya existe el primer prototipo de ciudad flotante del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883'>La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-utilizando-maquina-coser-electrica-2689051.jpg' alt='La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio' />
     </a>
 </div>
 
