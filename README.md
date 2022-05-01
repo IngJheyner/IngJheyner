@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621'>Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-oceano-2689701.jpg' alt='Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491'>Este hombre quiere que sentarse en una silla se convierta en un deporte extremo</a></h4>
     <a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-quiere-convertir-sentarse-silla-deporte-extremo-2685931.jpg' alt='Este hombre quiere que sentarse en una silla se convierta en un deporte extremo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625'>Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609'>Ya existe el primer prototipo de ciudad flotante del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-existe-primer-prototipo-ciudad-flotante-mundo-1053609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oceanix-2689577.jpg' alt='Ya existe el primer prototipo de ciudad flotante del mundo' />
     </a>
 </div>
 
