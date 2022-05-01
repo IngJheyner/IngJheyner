@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911'>Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-usando-aplicaciones-app-store-2165471.jpg' alt='Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261'>5 gadgets para evitar ataques de alergia esta primavera</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paisaje-cerezos-flor-campo-hierba-plena-primavera-2689081.jpg' alt='5 gadgets para evitar ataques de alergia esta primavera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635'>La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-2684193.jpg' alt='La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875'>Este ransomware se propaga a través de actualizaciones falsas de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este ransomware se propaga a través de actualizaciones falsas de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoverboard-10-km-autonomia-regalo-comunion-perfecto-quieres-acierto-seguro-1053865'>Este hoverboard con 10 km de autonomía es el regalo de comunión perfecto si quieres un acierto seguro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoverboard-10-km-autonomia-regalo-comunion-perfecto-quieres-acierto-seguro-1053865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/smartgyro-x2-ul-2689953.jpg' alt='Este hoverboard con 10 km de autonomía es el regalo de comunión perfecto si quieres un acierto seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pretende-hacerte-vida-facil-todas-estas-nuevas-funciones-1053857'>WhatsApp pretende hacerte la vida más fácil con todas estas nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pretende-hacerte-vida-facil-todas-estas-nuevas-funciones-1053857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp pretende hacerte la vida más fácil con todas estas nuevas funciones' />
     </a>
 </div>
 
