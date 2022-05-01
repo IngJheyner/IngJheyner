@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225'>Guía y consejos para comprar una mirilla electrónica para tu casa o negocio</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-2607467.jpg' alt='Guía y consejos para comprar una mirilla electrónica para tu casa o negocio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157'>Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora</a></h4>
     <a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kane-tanaka-persona-anciana-mundo-fallece-119-anos-edad-ya-conocemos-sucesora-2687073.jpg' alt='Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883'>La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-maquinas-coser-baratas-alternativa-lidl-1052883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-utilizando-maquina-coser-electrica-2689051.jpg' alt='La máquina de coser de Lidl es barata, pero no es la más barata: estas la superan en precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587'>Freidora de aire para adelgazar y perder peso: ¿mito o realidad?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-adelgazar-perder-peso-mito-realidad-1053587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Freidora de aire para adelgazar y perder peso: ¿mito o realidad?' />
     </a>
 </div>
 
