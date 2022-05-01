@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635'>La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-1049635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciencia-detras-sombrero-seleccionador-harry-potter-distintas-personalidades-cada-casa-2684193.jpg' alt='La ciencia detrás del Sombrero Seleccionador de Harry Potter y las distintas personalidades de cada casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899'>Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff</a></h4>
+    <a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-inventor-raton-gaming-fundador-razer-robert-razerguy-krakoff-2690019.jpg' alt='Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875'>Este ransomware se propaga a través de actualizaciones falsas de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este ransomware se propaga a través de actualizaciones falsas de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pretende-hacerte-vida-facil-todas-estas-nuevas-funciones-1053857'>WhatsApp pretende hacerte la vida más fácil con todas estas nuevas funciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pretende-hacerte-vida-facil-todas-estas-nuevas-funciones-1053857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp pretende hacerte la vida más fácil con todas estas nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-impactantes-sectas-ver-netflix-hbo-max-1051821'>6 series sobre impactantes sectas que puedes ver en Netflix y HBO Max</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-impactantes-sectas-ver-netflix-hbo-max-1051821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/wild-wild-country-2686749.jpg' alt='6 series sobre impactantes sectas que puedes ver en Netflix y HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849'>Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arco-triunfo-2689913.jpg' alt='Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale' />
     </a>
 </div>
 
