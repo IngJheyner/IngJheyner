@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003'>Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815'>La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cafeteria-japonesa-anti-procrastinacion-no-puedes-marcharte-no-terminas-trabajo-2688171.jpg' alt='La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla</a></h4>
     <a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917'>Este genial mapa recoge la mejor película de cada país del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/genial-mapa-recoge-mejor-pelicula-cada-pais-mundo-2690035.jpg' alt='Este genial mapa recoge la mejor película de cada país del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911'>Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-usando-aplicaciones-app-store-2165471.jpg' alt='Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261'>5 gadgets para evitar ataques de alergia esta primavera</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-evitar-ataques-alergia-primavera-1053261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/paisaje-cerezos-flor-campo-hierba-plena-primavera-2689081.jpg' alt='5 gadgets para evitar ataques de alergia esta primavera' />
     </a>
 </div>
 
