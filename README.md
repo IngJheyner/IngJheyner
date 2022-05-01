@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917'>Este genial mapa recoge la mejor película de cada país del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/genial-mapa-recoge-mejor-pelicula-cada-pais-mundo-2690035.jpg' alt='Este genial mapa recoge la mejor película de cada país del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911'>Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-aclara-razones-ha-eliminado-3-millones-apps-sin-actualizar-app-store-1053911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-usando-aplicaciones-app-store-2165471.jpg' alt='Apple aclara las razones por las que ha eliminado 3 millones de apps sin actualizar de la App Store, y sigue sin convencer a los desarrolladores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899'>Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff</a></h4>
     <a href='https://computerhoy.com/noticias/industria/fallece-robert-razerguy-krakoff-inventor-raton-gaming-fundador-razer-1053899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-inventor-raton-gaming-fundador-razer-robert-razerguy-krakoff-2690019.jpg' alt='Fallece el 'inventor' del ratón gaming y fundador de Razer, Robert 'Razerguy' Krakoff' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875'>Este ransomware se propaga a través de actualizaciones falsas de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este ransomware se propaga a través de actualizaciones falsas de Windows' />
     </a>
 </div>
 
