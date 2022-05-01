@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla del mercado</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla</a></h4>
     <a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla del mercado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla' />
     </a>
 </div>
 
