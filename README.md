@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-samsung-casi-mitad-precio-mide-65-pulgadas-1052935'>Este televisor QLED Samsung está casi a mitad de precio ¡y mide 65 pulgadas!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-qled-samsung-casi-mitad-precio-mide-65-pulgadas-1052935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-qled-55q60a-2516855.jpg' alt='Este televisor QLED Samsung está casi a mitad de precio ¡y mide 65 pulgadas!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opcion-hibernar-menu-apagado-windows-10-windows-11-1052271'>Cómo añadir la opción de hibernar en el menú de apagado de Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opcion-hibernar-menu-apagado-windows-10-windows-11-1052271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hibernar-windows-11-2687399.jpg' alt='Cómo añadir la opción de hibernar en el menú de apagado de Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-traje-te-convierte-robot-boxeador-1053615'>Crean un traje que te convierte en un robot boxeador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-traje-te-convierte-robot-boxeador-1053615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/skeletonics-2689665.jpg' alt='Crean un traje que te convierte en un robot boxeador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621'>Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-oceano-2689701.jpg' alt='Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491'>Este hombre quiere que sentarse en una silla se convierta en un deporte extremo</a></h4>
     <a href='https://computerhoy.com/noticias/life/sentarse-silla-deporte-extremo-1051491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-quiere-convertir-sentarse-silla-deporte-extremo-2685931.jpg' alt='Este hombre quiere que sentarse en una silla se convierta en un deporte extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225'>Guía y consejos para comprar una mirilla electrónica para tu casa o negocio</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mirilla-electronica-1007225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mirilla-2607467.jpg' alt='Guía y consejos para comprar una mirilla electrónica para tu casa o negocio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157'>Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/kane-tanaka-persona-anciana-mundo-fallece-119-anos-sucesora-1052157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/kane-tanaka-persona-anciana-mundo-fallece-119-anos-edad-ya-conocemos-sucesora-2687073.jpg' alt='Kane Tanaka, la persona más anciana del mundo, fallece a los 119 años de edad, y ya conocemos a su sucesora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625'>Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/expertos-hollywood-creen-han-pasado-dias-gloria-netflix-aventuran-estos-cambios-1053625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Expertos de Hollywood creen que han pasado los días de gloria de Netflix y aventuran estos cambios' />
     </a>
 </div>
 
