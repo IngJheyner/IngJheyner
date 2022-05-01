@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/oferta-powerball-mayo-2022-1053539'>Vuelve a estar de moda Powerball, la bola giroscópica para entrenar tus brazos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/oferta-powerball-mayo-2022-1053539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/powerball-nsd-2689449.jpg' alt='Vuelve a estar de moda Powerball, la bola giroscópica para entrenar tus brazos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-binance-1052847'>¿Cómo funciona Binance?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-binance-1052847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/criptomonedas-2688189.jpg' alt='¿Cómo funciona Binance?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/poco-f4-gt-review-opinion-1052411'>POCO F4 GT, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-f4-gt-review-opinion-1052411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2685135.jpg' alt='POCO F4 GT, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opcion-hibernar-menu-apagado-windows-10-windows-11-1052271'>Cómo añadir la opción de hibernar en el menú de apagado de Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opcion-hibernar-menu-apagado-windows-10-windows-11-1052271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hibernar-windows-11-2687399.jpg' alt='Cómo añadir la opción de hibernar en el menú de apagado de Windows 10 y Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-traje-te-convierte-robot-boxeador-1053615'>Crean un traje que te convierte en un robot boxeador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-traje-te-convierte-robot-boxeador-1053615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/skeletonics-2689665.jpg' alt='Crean un traje que te convierte en un robot boxeador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621'>Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/seres-humanos-estan-causando-peor-evento-extincion-oceano-dinosaurios-senalan-cientificos-1053621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/contaminacion-oceano-2689701.jpg' alt='Los seres humanos están causando el peor evento de extinción en el océano desde los dinosaurios, señalan científicos' />
     </a>
 </div>
 
