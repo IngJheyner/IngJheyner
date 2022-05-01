@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875'>Este ransomware se propaga a través de actualizaciones falsas de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-propaga-traves-actualizaciones-falsas-windows-1053875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mujer-enfadada-ordenador-2676241.jpg' alt='Este ransomware se propaga a través de actualizaciones falsas de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hoverboard-10-km-autonomia-regalo-comunion-perfecto-quieres-acierto-seguro-1053865'>Este hoverboard con 10 km de autonomía es el regalo de comunión perfecto si quieres un acierto seguro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hoverboard-10-km-autonomia-regalo-comunion-perfecto-quieres-acierto-seguro-1053865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/smartgyro-x2-ul-2689953.jpg' alt='Este hoverboard con 10 km de autonomía es el regalo de comunión perfecto si quieres un acierto seguro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849'>Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale</a></h4>
     <a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arco-triunfo-2689913.jpg' alt='Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-running-garmin-precio-chollo-cuesta-169-euros-completos-puedas-encontrar-1051705'>Reloj running de Garmin a precio de chollo: cuesta 169 euros y es de los más completos que puedas encontrar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-running-garmin-precio-chollo-cuesta-169-euros-completos-puedas-encontrar-1051705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-forerunner-55-2686459.jpg' alt='Reloj running de Garmin a precio de chollo: cuesta 169 euros y es de los más completos que puedas encontrar' />
     </a>
 </div>
 
