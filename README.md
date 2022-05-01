@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-impactantes-sectas-ver-netflix-hbo-max-1051821'>6 series sobre impactantes sectas que puedes ver en Netflix y HBO Max</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-impactantes-sectas-ver-netflix-hbo-max-1051821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/wild-wild-country-2686749.jpg' alt='6 series sobre impactantes sectas que puedes ver en Netflix y HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849'>Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/son-rotondas-francesas-ya-estan-espana-donde-nada-has-aprendido-vale-1053849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arco-triunfo-2689913.jpg' alt='Qué son las rotondas francesas que ya están en España y donde nada de lo que has aprendido vale' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-running-garmin-precio-chollo-cuesta-169-euros-completos-puedas-encontrar-1051705'>Reloj running de Garmin a precio de chollo: cuesta 169 euros y es de los más completos que puedas encontrar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-running-garmin-precio-chollo-cuesta-169-euros-completos-puedas-encontrar-1051705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/garmin-forerunner-55-2686459.jpg' alt='Reloj running de Garmin a precio de chollo: cuesta 169 euros y es de los más completos que puedas encontrar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/riesgos-peligros-muy-mala-idea-utilizar-copia-pirata-windows-1053839'>Riesgos, peligros y por qué es muy mala idea utilizar una copia pirata de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/riesgos-peligros-muy-mala-idea-utilizar-copia-pirata-windows-1053839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='Riesgos, peligros y por qué es muy mala idea utilizar una copia pirata de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/substack-considera-nueva-forma-hacer-periodismo-calidad-1046709'>¿Qué es Substack y por qué se considera una nueva forma de hacer periodismo de calidad?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/substack-considera-nueva-forma-hacer-periodismo-calidad-1046709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/substack-considera-nueva-forma-hacer-periodismo-calidad-2688597.jpg' alt='¿Qué es Substack y por qué se considera una nueva forma de hacer periodismo de calidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/oferta-powerball-mayo-2022-1053539'>Vuelve a estar de moda Powerball, la bola giroscópica para entrenar tus brazos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/oferta-powerball-mayo-2022-1053539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/powerball-nsd-2689449.jpg' alt='Vuelve a estar de moda Powerball, la bola giroscópica para entrenar tus brazos' />
     </a>
 </div>
 
