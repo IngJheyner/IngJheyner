@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163'>Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/conduces-pisando-pedal-embrague-1995019.jpg' alt='Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473'>6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asesinato-orient-express-2684279.jpg' alt='6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133'>Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-logo-2178219.jpg' alt='Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111'>¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia' />
     </a>
 </div>
 
