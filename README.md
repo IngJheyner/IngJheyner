@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473'>6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asesinato-orient-express-2684279.jpg' alt='6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149'>Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cierran-3-importantes-webs-piratas-ver-futbol-series-peliculas-forma-ilegal-1054147'>Cierran 3 importantes webs piratas para ver fútbol, series y películas de forma ilegal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cierran-3-importantes-webs-piratas-ver-futbol-series-peliculas-forma-ilegal-1054147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/piratas-caribe-maldicion-perla-negra-2042497.jpg' alt='Cierran 3 importantes webs piratas para ver fútbol, series y películas de forma ilegal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133'>Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-logo-2178219.jpg' alt='Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111'>¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/yeedi-vac-2-pro-review-opinion-1049057'>Yeedi VAC 2 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/yeedi-vac-2-pro-review-opinion-1049057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/yeedi-vac-2-pro-2681697.jpg' alt='Yeedi VAC 2 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-led-tv-4s-2-mayo-2022-1053843'>Este televisor 4K de Xiaomi es mucho más barato de lo que pensabas y además tiene Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-led-tv-4s-2-mayo-2022-1053843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-mi-led-tv-4s-2688261.jpg' alt='Este televisor 4K de Xiaomi es mucho más barato de lo que pensabas y además tiene Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073'>La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anti-nube-arrasa-almacenamiento-cinta-magnetica-aumento-40-2021-ataques-ransomware-2686987.jpg' alt='La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware' />
     </a>
 </div>
 
