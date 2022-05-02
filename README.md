@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621'>Los 12 mejores Tiktokers para aprender divirtiéndote</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tiktok.jpg' alt='Los 12 mejores Tiktokers para aprender divirtiéndote' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391'>Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2675339.jpg' alt='Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271'>Si tu PC con Windows 10 consume mucha memoria este parece ser el problema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Si tu PC con Windows 10 consume mucha memoria este parece ser el problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269'>Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes' />
     </a>
 </div>
 
