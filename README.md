@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2690079.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-razones-poco-f4-gt-mejor-movil-gamer-momento-1053921'>5 razones por las que POCO F4 GT es el mejor móvil gamer del momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-razones-poco-f4-gt-mejor-movil-gamer-momento-1053921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2689663.jpg' alt='5 razones por las que POCO F4 GT es el mejor móvil gamer del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003'>Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla</a></h4>
     <a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-1053919'>Amazfit GTR 3 Pro, el reloj con pantalla AMOLED, medidor de oxígeno, GPS y llamadas, baja a 163 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-1053919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gtr-3-pro-reloj-pantalla-amoled-medidor-oxigeno-gps-llamadas-baja-163-euros-2690037.jpg' alt='Amazfit GTR 3 Pro, el reloj con pantalla AMOLED, medidor de oxígeno, GPS y llamadas, baja a 163 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917'>Este genial mapa recoge la mejor película de cada país del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mapa-recoge-mejor-pelicula-cada-pais-mundo-1053917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/genial-mapa-recoge-mejor-pelicula-cada-pais-mundo-2690035.jpg' alt='Este genial mapa recoge la mejor película de cada país del mundo' />
     </a>
 </div>
 
