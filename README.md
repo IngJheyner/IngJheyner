@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391'>Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2675339.jpg' alt='Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235'>Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo</a></h4>
     <a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/roomba-e5154-2490377.jpg' alt='Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269'>Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143'>Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690275.jpg' alt='Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air' />
     </a>
 </div>
 
