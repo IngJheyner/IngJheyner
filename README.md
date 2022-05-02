@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133'>Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-logo-2178219.jpg' alt='Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111'>¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073'>La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anti-nube-arrasa-almacenamiento-cinta-magnetica-aumento-40-2021-ataques-ransomware-2686987.jpg' alt='La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727'>Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/porsche-911-paint-sample-3-2659029.jpg' alt='Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días' />
     </a>
 </div>
 
