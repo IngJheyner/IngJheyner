@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441'>Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comederos-inteligentes-2614829.jpg' alt='Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2690079.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815'>La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas</a></h4>
     <a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cafeteria-japonesa-anti-procrastinacion-no-puedes-marcharte-no-terminas-trabajo-2688171.jpg' alt='La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885'>Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/activa-suspension-citroen-1053885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/activa-suspension-citroen-era-tan-perfecta-tuvieron-retirarla-mercado-2690001.jpg' alt='Activa, la suspensión de Citroën que era tan perfecta, que tuvieron que retirarla' />
     </a>
 </div>
 
