@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197'>El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-telegram-1047843'>¿Cómo funciona Telegram?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-telegram-1047843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tekegram-2679145.jpg' alt='¿Cómo funciona Telegram?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163'>Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/conduces-pisando-pedal-embrague-1995019.jpg' alt='Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149'>Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cierran-3-importantes-webs-piratas-ver-futbol-series-peliculas-forma-ilegal-1054147'>Cierran 3 importantes webs piratas para ver fútbol, series y películas de forma ilegal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cierran-3-importantes-webs-piratas-ver-futbol-series-peliculas-forma-ilegal-1054147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/piratas-caribe-maldicion-perla-negra-2042497.jpg' alt='Cierran 3 importantes webs piratas para ver fútbol, series y películas de forma ilegal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133'>Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-real-aparece-beta-reacciones-stickers-exclusivos-1054133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/telegram-logo-2178219.jpg' alt='Telegram Premium es real: aparece en beta con reacciones y stickers exclusivos' />
     </a>
 </div>
 
