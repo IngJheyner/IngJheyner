@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203'>Cómo usar la Raspberry como un router WiFi portátil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Cómo usar la Raspberry como un router WiFi portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tropas-rusas-roban-tractores-john-deere-valor-5-millones-euros-ucrania-contraataca-forma-original-1054231'>Las tropas rusas roban tractores John Deere por valor de 5 millones de euros y Ucrania contraataca de forma original</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tropas-rusas-roban-tractores-john-deere-valor-5-millones-euros-ucrania-contraataca-forma-original-1054231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='Las tropas rusas roban tractores John Deere por valor de 5 millones de euros y Ucrania contraataca de forma original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157'>Las 6 webs perfectas para convertirte en un maestro de Photoshop</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/photoshop-ipad.jpg' alt='Las 6 webs perfectas para convertirte en un maestro de Photoshop' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197'>El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-telegram-1047843'>¿Cómo funciona Telegram?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-telegram-1047843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tekegram-2679145.jpg' alt='¿Cómo funciona Telegram?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163'>Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/conduces-pisando-pedal-embrague-1995019.jpg' alt='Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo' />
     </a>
 </div>
 
