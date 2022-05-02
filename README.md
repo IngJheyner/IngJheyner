@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235'>Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/roomba-e5154-2490377.jpg' alt='Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pegasus-como-saber-movil-ha-sido-infectado-1054259'>Qué es Pegasus y cómo saber si tu móvil ha sido infectado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pegasus-como-saber-movil-ha-sido-infectado-1054259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-ha-hackeado-periodistas-politicos-todo-mundo-2410809.jpg' alt='Qué es Pegasus y cómo saber si tu móvil ha sido infectado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271'>Si tu PC con Windows 10 consume mucha memoria este parece ser el problema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Si tu PC con Windows 10 consume mucha memoria este parece ser el problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269'>Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-76-ya-disponible-todos-llega-cargado-novedades-muy-potentes-1054269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2627735.jpg' alt='Android Auto 7.6 ya está disponible para todos y llega cargado de novedades muy potentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143'>Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690275.jpg' alt='Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203'>Cómo usar la Raspberry como un router WiFi portátil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Cómo usar la Raspberry como un router WiFi portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tropas-rusas-roban-tractores-john-deere-valor-5-millones-euros-ucrania-contraataca-forma-original-1054231'>Las tropas rusas roban tractores John Deere por valor de 5 millones de euros y Ucrania contraataca de forma original</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tropas-rusas-roban-tractores-john-deere-valor-5-millones-euros-ucrania-contraataca-forma-original-1054231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='Las tropas rusas roban tractores John Deere por valor de 5 millones de euros y Ucrania contraataca de forma original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157'>Las 6 webs perfectas para convertirte en un maestro de Photoshop</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/photoshop-ipad.jpg' alt='Las 6 webs perfectas para convertirte en un maestro de Photoshop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187'>Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas</a></h4>
-    <a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas' />
     </a>
 </div>
 
