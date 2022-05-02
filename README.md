@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143'>Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-samsung-galaxy-book2-pro-1054143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690275.jpg' alt='Motivos por el que el portátil Samsung Galaxy Book2 Pro pone en apuros al MacBook Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203'>Cómo usar la Raspberry como un router WiFi portátil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-raspberry-como-router-wifi-portatil-1047203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg' alt='Cómo usar la Raspberry como un router WiFi portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187'>Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197'>El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco' />
     </a>
 </div>
 
