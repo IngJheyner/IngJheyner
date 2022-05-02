@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111'>¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/llegara-doctor-strange-2-disney-salida-junto-cines-nos-dice-historia-1054111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/doctor-strange-multiverso-locura-2685811.jpg' alt='¿Llegará Doctor Strange 2 a Disney+ de salida junto a los cines? Esto es lo que nos dice la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/yeedi-vac-2-pro-review-opinion-1049057'>Yeedi VAC 2 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/yeedi-vac-2-pro-review-opinion-1049057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/yeedi-vac-2-pro-2681697.jpg' alt='Yeedi VAC 2 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-led-tv-4s-2-mayo-2022-1053843'>Este televisor 4K de Xiaomi es mucho más barato de lo que pensabas y además tiene Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-led-tv-4s-2-mayo-2022-1053843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-mi-led-tv-4s-2688261.jpg' alt='Este televisor 4K de Xiaomi es mucho más barato de lo que pensabas y además tiene Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073'>La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/almacenamiento-cinta-magnetica-aumento-2021-ransomware-1052073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/anti-nube-arrasa-almacenamiento-cinta-magnetica-aumento-40-2021-ataques-ransomware-2686987.jpg' alt='La anti-nube arrasa: el almacenamiento en cinta magnética aumentó un 41% en 2021 por los ataques de ransomware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727'>Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/porsche-911-paint-sample-3-2659029.jpg' alt='Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441'>Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comederos-inteligentes-2614829.jpg' alt='Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1053929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2690079.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-razones-poco-f4-gt-mejor-movil-gamer-momento-1053921'>5 razones por las que POCO F4 GT es el mejor móvil gamer del momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-razones-poco-f4-gt-mejor-movil-gamer-momento-1053921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2689663.jpg' alt='5 razones por las que POCO F4 GT es el mejor móvil gamer del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003'>Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años' />
     </a>
 </div>
 
