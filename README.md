@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727'>Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-fabrica-porsche-911-gt3-1500-personas-tres-dias-1051727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/porsche-911-paint-sample-3-2659029.jpg' alt='Cómo se fabrica un Porsche 911 GT3: 1.500 personas y tres días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441'>Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/comederos-inteligentes-mascotas-1011441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comederos-inteligentes-2614829.jpg' alt='Comederos inteligentes para mascotas: cómo funcionan, diferencias y todo lo que debes saber antes de comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003'>Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-han-adaptado-trajes-astronautas-nasa-largo-anos-1051003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Cómo se han adaptado los trajes de los astronautas de la NASA a lo largo de los años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815'>La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cafeteria-anti-procrastinacion-1052815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cafeteria-japonesa-anti-procrastinacion-no-puedes-marcharte-no-terminas-trabajo-2688171.jpg' alt='La cafetería anti-procrastinación: no puedes marcharte hasta que no terminas el trabajo y los camareros te echan broncas si no avanzas' />
     </a>
 </div>
 
