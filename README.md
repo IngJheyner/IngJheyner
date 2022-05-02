@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157'>Las 6 webs perfectas para convertirte en un maestro de Photoshop</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-webs-perfectas-convertirte-maestro-photoshop-1051157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/photoshop-ipad.jpg' alt='Las 6 webs perfectas para convertirte en un maestro de Photoshop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187'>Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas</a></h4>
+    <a href='https://computerhoy.com/noticias/primera-vez-decada-amd-podria-vencer-nvidia-guerra-tarjetas-graficas-1054187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='Por primera vez en una década, AMD podría vencer a NVIDIA en la guerra de las tarjetas gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197'>El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-nunca-estuvo-tan-barato-128-gb-color-blanco-1054197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='El iPhone 13 nunca estuvo tan barato: 128 GB y en color blanco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163'>Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/vicios-muy-comunes-conducir-estan-destrozando-embrague-coche-saberlo-1054163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/conduces-pisando-pedal-embrague-1995019.jpg' alt='Vicios muy comunes al conducir que están destrozando el embrague de tu coche sin saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473'>6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-tendras-descubrir-quien-culpable-puedes-ver-ahora-casa-1050473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asesinato-orient-express-2684279.jpg' alt='6 películas en las que tendrás que descubrir quién es el culpable, y que puedes ver ahora en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149'>Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-no-te-estas-deduciendo-renta-estas-perdiendo-mucho-dinero-1054149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cosas que no te estás deduciendo en la Renta con las que estás perdiendo mucho dinero' />
     </a>
 </div>
 
