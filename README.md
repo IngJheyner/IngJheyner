@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899'>El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apex-legends-mobile-2648189.jpg' alt='El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907'>Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-lanza-tarjeta-micro-sd-duradera-mercado-puede-estar-16-anos-seguidos-grabando-datos-2691549.jpg' alt='Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881'>Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-2691541.jpg' alt='Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893'>¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo' />
     </a>
 </div>
 
