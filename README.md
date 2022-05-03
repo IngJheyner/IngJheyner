@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-podrian-indicar-movil-infectado-algun-tipo-malware-como-pegasus-1054527'>Señales que podrían indicar que tu móvil está infectado por algún tipo de malware como Pegasus</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/senales-podrian-indicar-movil-infectado-algun-tipo-malware-como-pegasus-1054527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/hackeo-directivos-2150965.jpg' alt='Señales que podrían indicar que tu móvil está infectado por algún tipo de malware como Pegasus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-consigue-detectar-enfermedades-cardiacas-asintomaticas-traves-ecg-apple-watch-1054511'>Una IA consigue detectar enfermedades cardíacas asintomáticas a través del ECG de Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-consigue-detectar-enfermedades-cardiacas-asintomaticas-traves-ecg-apple-watch-1054511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Una IA consigue detectar enfermedades cardíacas asintomáticas a través del ECG de Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509'>¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sirven-pequenos-agujeros-ventanas-aviones-2690751.jpg' alt='¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?' />
     </a>
 </div>
 
