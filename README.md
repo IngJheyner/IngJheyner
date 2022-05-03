@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273'>Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-soundcore-liberty-3-pro-2600497.jpg' alt='Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/motor/cuando-fabricantes-pasan-innovadores-lanzan-coches-inesperados-1051741'>Cuando los fabricantes se pasan de innovadores y lanzan coches inesperados</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/cuando-fabricantes-pasan-innovadores-lanzan-coches-inesperados-1051741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-w12-2686525.jpg' alt='Cuando los fabricantes se pasan de innovadores y lanzan coches inesperados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621'>Los 12 mejores Tiktokers para aprender divirtiéndote</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tiktok.jpg' alt='Los 12 mejores Tiktokers para aprender divirtiéndote' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391'>Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/no-puedes-etiquetar-alguien-instagram-te-contamos-motivos-soluciones-1045391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2675339.jpg' alt='Si no puedes etiquetar a alguien en Instagram, te contamos los motivos y las soluciones' />
     </a>
 </div>
 
