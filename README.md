@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnica-espacial-exito-cazar-cohetes-mediante-helicoptero-1054493'>La nueva técnica espacial es un éxito: cazar los cohetes mediante helicóptero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnica-espacial-exito-cazar-cohetes-mediante-helicoptero-1054493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cohete-rocket-lab-2690745.jpg' alt='La nueva técnica espacial es un éxito: cazar los cohetes mediante helicóptero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273'>Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-soundcore-liberty-3-pro-2600497.jpg' alt='Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621'>Los 12 mejores Tiktokers para aprender divirtiéndote</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tiktok.jpg' alt='Los 12 mejores Tiktokers para aprender divirtiéndote' />
     </a>
 </div>
 
