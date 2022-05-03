@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855'>Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/realmente-peligroso-utilizar-movil-mientras-llenas-deposito-gasolina-1054813'>¿Es realmente peligroso utilizar el móvil mientras llenas el depósito de gasolina?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/realmente-peligroso-utilizar-movil-mientras-llenas-deposito-gasolina-1054813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='¿Es realmente peligroso utilizar el móvil mientras llenas el depósito de gasolina?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mujer-sosteniendo-tablet-2690911.jpg' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717'>Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791'>Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1054811'>Cómo saber quién no te sigue en Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1054811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2675339.jpg' alt='Cómo saber quién no te sigue en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797'>El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635'>A qué edad le salen los dientes a los niños</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/edad-salen-dientes-ninos-2690985.jpg' alt='A qué edad le salen los dientes a los niños' />
     </a>
 </div>
 
