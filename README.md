@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907'>Samsung lanza la tarjeta micro SD más duradera del mercado: puede estar 16 años seguidos grabando datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-lanza-tarjeta-micro-sd-duradera-mercado-puede-estar-16-anos-seguidos-grabando-datos-2691549.jpg' alt='Samsung lanza la tarjeta micro SD más duradera del mercado: puede estar 16 años seguidos grabando datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897'>Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847'>El teléfono plegable de Google estaría muy cerca de ser presentado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El teléfono plegable de Google estaría muy cerca de ser presentado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893'>¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-mambo-9090-cecotec-descuento-1054803'>El robot de cocina Mambo 9090 de Cecotec tiene 100 euros descuento, baja a solo 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-mambo-9090-cecotec-descuento-1054803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/robot-cocina-mambo-9090-cecotec-tiene-100-euros-descuento-baja-solo-179-euros-2691303.jpg' alt='El robot de cocina Mambo 9090 de Cecotec tiene 100 euros descuento, baja a solo 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879'>¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-kindle-paperwhite-2021-2557373.jpg' alt='¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena' />
     </a>
 </div>
 
