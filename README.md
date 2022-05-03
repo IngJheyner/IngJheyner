@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cines-rusos-estan-proyectando-peliculas-descargadas-webs-piratas-1054625'>Los cines rusos están proyectando películas descargadas de webs piratas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cines-rusos-estan-proyectando-peliculas-descargadas-webs-piratas-1054625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cines-mueren-cadena-amc-queda-dinero-enero-algunos-directores-acusan-warner-hbo-max-2165531.jpg' alt='Los cines rusos están proyectando películas descargadas de webs piratas' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-coca-cola-zero-light-mejor-otra-1054709'>Cuál es la diferencia entre la Coca-Cola Zero y la Light: ¿es una mejor que otra?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-diferencia-coca-cola-zero-light-mejor-otra-1054709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/coca-cola-2691209.jpg' alt='Cuál es la diferencia entre la Coca-Cola Zero y la Light: ¿es una mejor que otra?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-china-1054555'>Los grandes planes de Elon Musk para Twitter se van a enfrentar a la gran muralla de China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-china-1054555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-asia-2690907.jpg' alt='Los grandes planes de Elon Musk para Twitter se van a enfrentar a la gran muralla de China' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-tcl-10-plus-pantalla-amoled-precio-derribo-1054671'>A mitad de precio: el TCL 10 Plus con pantalla AMOLED está a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-tcl-10-plus-pantalla-amoled-precio-derribo-1054671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/analisis-tcl-10-pro-1995561.jpg' alt='A mitad de precio: el TCL 10 Plus con pantalla AMOLED está a precio de derribo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-continua-viajes-tiempo-ha-estrenado-serie-francesa-sorprendente-1054703'>Netflix continúa con los viajes en el tiempo y ha estrenado una serie francesa de lo más sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-continua-viajes-tiempo-ha-estrenado-serie-francesa-sorprendente-1054703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-continua-viajes-tiempo-ha-estrenado-serie-francesa-sorprendente-2691127.jpg' alt='Netflix continúa con los viajes en el tiempo y ha estrenado una serie francesa de lo más sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/senales-podrian-indicar-movil-infectado-algun-tipo-malware-como-pegasus-1054527'>Señales que podrían indicar que tu móvil está infectado por algún tipo de malware como Pegasus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/senales-podrian-indicar-movil-infectado-algun-tipo-malware-como-pegasus-1054527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/hackeo-directivos-2150965.jpg' alt='Señales que podrían indicar que tu móvil está infectado por algún tipo de malware como Pegasus' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tabla-periodica-google-te-hara-estudiar-quimica-utiliza-913849'>Cómo funciona la tabla periódica de Google: la forma más fácil de estudiar química</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tabla-periodica-google-te-hara-estudiar-quimica-utiliza-913849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tabla-periodica-elementos-2153059.jpg' alt='Cómo funciona la tabla periódica de Google: la forma más fácil de estudiar química' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-facebook-cuando-no-puedes-entrar-ella-935957'>Cómo entrar y recuperar tu cuenta de Facebook cuando no puedes acceder a ella</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-facebook-cuando-no-puedes-entrar-ella-935957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-facebook-2520341.jpg' alt='Cómo entrar y recuperar tu cuenta de Facebook cuando no puedes acceder a ella' />
     </a>
 </div>
 
