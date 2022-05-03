@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717'>Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791'>Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1054811'>Cómo saber quién no te sigue en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1054811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-2675339.jpg' alt='Cómo saber quién no te sigue en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797'>El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635'>A qué edad le salen los dientes a los niños</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/edad-salen-dientes-ninos-2690985.jpg' alt='A qué edad le salen los dientes a los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-microsoft-vez-desaparezca-internet-explorer-junio-1054679'>Este es el consejo de Microsoft una vez desaparezca Internet Explorer en junio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejo-microsoft-vez-desaparezca-internet-explorer-junio-1054679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='Este es el consejo de Microsoft una vez desaparezca Internet Explorer en junio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x7-llega-espana-nuevo-smartphone-barato-compania-1054771'>HONOR X7 llega a España, el nuevo smartphone barato de la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x7-llega-espana-nuevo-smartphone-barato-compania-1054771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-x7-2691237.jpg' alt='HONOR X7 llega a España, el nuevo smartphone barato de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-1054651'>10 maneras de utilizar el algoritmo de Twitter de forma efectiva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-1054651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='10 maneras de utilizar el algoritmo de Twitter de forma efectiva' />
     </a>
 </div>
 
