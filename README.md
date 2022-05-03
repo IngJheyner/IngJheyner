@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871'>La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/jamon-cocido-2691497.jpg' alt='La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/365-dias-aquel-dia-netflix-polemica-1054817'>Se ha estrenado la secuela de una de las peores películas de Netflix, y se repite la polémica</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/365-dias-aquel-dia-netflix-polemica-1054817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ha-estrenado-secuela-peores-peliculas-netflix-repite-polemica-2691347.jpg' alt='Se ha estrenado la secuela de una de las peores películas de Netflix, y se repite la polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855'>Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mujer-sosteniendo-tablet-2690911.jpg' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717'>Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/imagen-sonido/editores-video-gratis-windows-que-deberias-conocer-73717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='Estos son los editores de vídeo gratis para Windows que deberías conocer en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791'>Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-apremia-actualizar-chrome-detectar-29-fallos-seguridad-ultima-version-1054791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google apremia a actualizar Chrome tras detectar hasta 29 fallos de seguridad en la última versión' />
     </a>
 </div>
 
