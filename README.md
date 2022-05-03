@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1054281'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1054281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-2-mayo-2022-2690535.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621'>Los 12 mejores Tiktokers para aprender divirtiéndote</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/12-mejores-tiktokers-aprender-divirtiendote-1048621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tiktok.jpg' alt='Los 12 mejores Tiktokers para aprender divirtiéndote' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235'>Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo</a></h4>
     <a href='https://computerhoy.com/noticias/life/chollo-irobot-te-aspira-suelo-casa-menos-250-euros-roomba-e5154-precio-minimo-1054235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/roomba-e5154-2490377.jpg' alt='Este chollo de iRobot te aspira el suelo de tu casa por menos de 250 euros: la Roomba e5154 a precio mínimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pegasus-como-saber-movil-ha-sido-infectado-1054259'>Qué es Pegasus y cómo saber si tu móvil ha sido infectado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pegasus-como-saber-movil-ha-sido-infectado-1054259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/pegasus-software-espia-ha-hackeado-periodistas-politicos-todo-mundo-2410809.jpg' alt='Qué es Pegasus y cómo saber si tu móvil ha sido infectado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271'>Si tu PC con Windows 10 consume mucha memoria este parece ser el problema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pc-windows-10-consume-mucha-memoria-parece-ser-problema-1054271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Si tu PC con Windows 10 consume mucha memoria este parece ser el problema' />
     </a>
 </div>
 
