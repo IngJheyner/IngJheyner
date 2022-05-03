@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879'>¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-kindle-paperwhite-2021-2557373.jpg' alt='¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-4-llegaria-cambios-drasticos-pantalla-exterior-1054851'>El Samsung Galaxy Z Flip 4 llegaría con cambios drásticos en su pantalla exterior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-4-llegaria-cambios-drasticos-pantalla-exterior-1054851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-galaxy-z-flip-3-2486897.jpg' alt='El Samsung Galaxy Z Flip 4 llegaría con cambios drásticos en su pantalla exterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871'>La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/jamon-cocido-2691497.jpg' alt='La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855'>Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/realmente-peligroso-utilizar-movil-mientras-llenas-deposito-gasolina-1054813'>¿Es realmente peligroso utilizar el móvil mientras llenas el depósito de gasolina?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/realmente-peligroso-utilizar-movil-mientras-llenas-deposito-gasolina-1054813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repostar-gasolina-2637541.jpg' alt='¿Es realmente peligroso utilizar el móvil mientras llenas el depósito de gasolina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mujer-sosteniendo-tablet-2690911.jpg' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
     </a>
 </div>
 
