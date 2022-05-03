@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847'>El teléfono plegable de Google estaría muy cerca de ser presentado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El teléfono plegable de Google estaría muy cerca de ser presentado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881'>Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-2691541.jpg' alt='Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893'>¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/test-persona-insoportable-1054893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg' alt='¿Eres una persona insoportable y no te has dado cuenta? Este test médico de personalidad te ayuda a descubrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-mambo-9090-cecotec-descuento-1054803'>El robot de cocina Mambo 9090 de Cecotec tiene 100 euros descuento, baja a solo 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-mambo-9090-cecotec-descuento-1054803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/robot-cocina-mambo-9090-cecotec-tiene-100-euros-descuento-baja-solo-179-euros-2691303.jpg' alt='El robot de cocina Mambo 9090 de Cecotec tiene 100 euros descuento, baja a solo 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879'>¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-era-hora-tienes-kindle-amazon-estas-enhorabuena-1054879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/review-kindle-paperwhite-2021-2557373.jpg' alt='¡Ya era hora! Si tienes un Kindle de Amazon estás de enhorabuena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-4-llegaria-cambios-drasticos-pantalla-exterior-1054851'>El Samsung Galaxy Z Flip 4 llegaría con cambios drásticos en su pantalla exterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-4-llegaria-cambios-drasticos-pantalla-exterior-1054851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-galaxy-z-flip-3-2486897.jpg' alt='El Samsung Galaxy Z Flip 4 llegaría con cambios drásticos en su pantalla exterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871'>La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-alerta-peligro-producto-supuestamente-saludable-mucha-sal-grasa-1054871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/jamon-cocido-2691497.jpg' alt='La OCU alerta sobre el peligro de un producto supuestamente saludable: mucha sal y grasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/365-dias-aquel-dia-netflix-polemica-1054817'>Se ha estrenado la secuela de una de las peores películas de Netflix, y se repite la polémica</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/365-dias-aquel-dia-netflix-polemica-1054817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ha-estrenado-secuela-peores-peliculas-netflix-repite-polemica-2691347.jpg' alt='Se ha estrenado la secuela de una de las peores películas de Netflix, y se repite la polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855'>Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vuelve-robot-cocina-deseado-monsieur-cuisine-lidl-mejor-precio-gastos-envio-gratis-1054855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/monsieur-cuisine-edition-plus_0.jpg' alt='Vuelve el robot de cocina más deseado: Monsieur Cuisine de Lidl al mejor precio y gastos de envío gratis' />
     </a>
 </div>
 
