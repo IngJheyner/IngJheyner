@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cines-rusos-estan-proyectando-peliculas-descargadas-webs-piratas-1054625'>Los cines rusos están proyectando películas descargadas de webs piratas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cines-rusos-estan-proyectando-peliculas-descargadas-webs-piratas-1054625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cines-mueren-cadena-amc-queda-dinero-enero-algunos-directores-acusan-warner-hbo-max-2165531.jpg' alt='Los cines rusos están proyectando películas descargadas de webs piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-china-1054555'>Los grandes planes de Elon Musk para Twitter se van a enfrentar a la gran muralla de China</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-china-1054555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/grandes-planes-elon-musk-twitter-van-enfrentar-gran-muralla-asia-2690907.jpg' alt='Los grandes planes de Elon Musk para Twitter se van a enfrentar a la gran muralla de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589'>Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-recomienda-no-hacer-capturas-pantalla-facebook-messenger-instagram-1008589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_1.jpg' alt='Mark Zuckerberg recomienda no hacer capturas de pantalla en Facebook Messenger o Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoja-ruta-meta-realidad-virtual-metaverso-1054581'>Esta es la hoja de ruta de Meta para la realidad virtual y el metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoja-ruta-meta-realidad-virtual-metaverso-1054581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Esta es la hoja de ruta de Meta para la realidad virtual y el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
     </a>
 </div>
 
