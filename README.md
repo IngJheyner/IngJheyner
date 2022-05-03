@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907'>Samsung lanza la tarjeta micro SD más duradera del mercado: puede estar 16 años seguidos grabando datos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907'>Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-lanza-tarjeta-micro-sd-duradera-mercado-puede-estar-16-anos-seguidos-grabando-datos-2691549.jpg' alt='Samsung lanza la tarjeta micro SD más duradera del mercado: puede estar 16 años seguidos grabando datos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-lanza-tarjeta-micro-sd-duradera-mercado-puede-estar-16-anos-seguidos-grabando-datos-2691549.jpg' alt='Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos' />
     </a>
 </div>
 
