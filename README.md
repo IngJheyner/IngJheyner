@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnica-espacial-exito-cazar-cohetes-mediante-helicoptero-1054493'>La nueva técnica espacial es un éxito: cazar los cohetes mediante helicóptero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tecnica-espacial-exito-cazar-cohetes-mediante-helicoptero-1054493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cohete-rocket-lab-2690745.jpg' alt='La nueva técnica espacial es un éxito: cazar los cohetes mediante helicóptero' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>10 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592595.jpg' alt='10 móviles potentes y baratos para jugar a cualquier juego de Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273'>Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-activa-bateria-calidad-sonido-oferta-no-pueden-pedir-estos-auriculares-soundcore-liberty-3-pro-3-1054273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-soundcore-liberty-3-pro-2600497.jpg' alt='Cancelación de ruido activa, batería, calidad de sonido y en oferta: no se le pueden pedir más a estos auriculares Soundcore Liberty 3 Pro 3' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoja-ruta-meta-realidad-virtual-metaverso-1054581'>Esta es la hoja de ruta de Meta para la realidad virtual y el metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoja-ruta-meta-realidad-virtual-metaverso-1054581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/metaverso-2548333.jpg' alt='Esta es la hoja de ruta de Meta para la realidad virtual y el metaverso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/cuando-fabricantes-pasan-innovadores-lanzan-coches-inesperados-1051741'>Cuando los fabricantes se pasan de innovadores y lanzan coches inesperados</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/cuando-fabricantes-pasan-innovadores-lanzan-coches-inesperados-1051741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/volkswagen-w12-2686525.jpg' alt='Cuando los fabricantes se pasan de innovadores y lanzan coches inesperados' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1054281'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1054281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-2-mayo-2022-2690535.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-consigue-detectar-enfermedades-cardiacas-asintomaticas-traves-ecg-apple-watch-1054511'>Una IA consigue detectar enfermedades cardíacas asintomáticas a través del ECG de Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-consigue-detectar-enfermedades-cardiacas-asintomaticas-traves-ecg-apple-watch-1054511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Una IA consigue detectar enfermedades cardíacas asintomáticas a través del ECG de Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    <h4><a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509'>¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sirven-pequenos-agujeros-ventanas-aviones-2690751.jpg' alt='¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?' />
     </a>
 </div>
 
