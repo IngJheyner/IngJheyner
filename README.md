@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797'>El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usb-c-21-gran-esperanza-cargas-rapidas-smartphones-portatiles-1054797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='El USB-C 2.1 es la gran esperanza para las cargas rápidas de smartphones y portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635'>A qué edad le salen los dientes a los niños</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-salen-dientes-ninos-1054635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/edad-salen-dientes-ninos-2690985.jpg' alt='A qué edad le salen los dientes a los niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consejo-microsoft-vez-desaparezca-internet-explorer-junio-1054679'>Este es el consejo de Microsoft una vez desaparezca Internet Explorer en junio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consejo-microsoft-vez-desaparezca-internet-explorer-junio-1054679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='Este es el consejo de Microsoft una vez desaparezca Internet Explorer en junio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-1054651'>10 maneras de utilizar el algoritmo de Twitter de forma efectiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-1054651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='10 maneras de utilizar el algoritmo de Twitter de forma efectiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-coca-cola-zero-light-mejor-otra-1054709'>Cuál es la diferencia entre la Coca-Cola Zero y la Light: ¿es una mejor que otra?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-diferencia-coca-cola-zero-light-mejor-otra-1054709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/coca-cola-2691209.jpg' alt='Cuál es la diferencia entre la Coca-Cola Zero y la Light: ¿es una mejor que otra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-tcl-10-plus-pantalla-amoled-precio-derribo-1054671'>A mitad de precio: el TCL 10 Plus con pantalla AMOLED está a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mitad-precio-tcl-10-plus-pantalla-amoled-precio-derribo-1054671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/analisis-tcl-10-pro-1995561.jpg' alt='A mitad de precio: el TCL 10 Plus con pantalla AMOLED está a precio de derribo' />
     </a>
 </div>
 
