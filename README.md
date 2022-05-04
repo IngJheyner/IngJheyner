@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499'>Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/propulsores-plasma-futuro-viajes-interplanetarios-2218217.jpg' alt='Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chips-m1-apple-no-eran-infalibles-investigadores-descubren-primera-gran-falla-seguridad-1055489'>Los chips M1 de Apple no eran infalibles: investigadores descubren su primera gran falla de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chips-m1-apple-no-eran-infalibles-investigadores-descubren-primera-gran-falla-seguridad-1055489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ipad-air-2638523.jpg' alt='Los chips M1 de Apple no eran infalibles: investigadores descubren su primera gran falla de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399'>A qué zona básica de salud pertenezco	</a></h4>
     <a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zona-basica-salud-pertenezco-2692183.jpg' alt='A qué zona básica de salud pertenezco	' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435'>Cómo saber mi contraseña de Gmail</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Cómo saber mi contraseña de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-4k-4-mayo-2022-1055161'>Amazon sorprende con el precio del Fire TV Stick 4K: ¡Vuelve a niveles de Black Friday por tiempo limitado!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-4k-4-mayo-2022-1055161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Amazon sorprende con el precio del Fire TV Stick 4K: ¡Vuelve a niveles de Black Friday por tiempo limitado!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371'>Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-2692111.jpg' alt='Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca' />
     </a>
 </div>
 
