@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611'>Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dead-space-2-curse-monkey-island-cat-quest-otros-juegos-gratis-prime-gaming-2692663.jpg' alt='Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599'>El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-9i-2618287.jpg' alt='El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-confirma-problema-capturas-pantalla-usuarios-windows-10-1055589'>Microsoft confirma el problema con las capturas de pantalla para los usuarios de Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-confirma-problema-capturas-pantalla-usuarios-windows-10-1055589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/_DSC0877.jpg' alt='Microsoft confirma el problema con las capturas de pantalla para los usuarios de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587'>Cómo recuperar tu dinero cuando has enviado un Bizum equivocado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Cómo recuperar tu dinero cuando has enviado un Bizum equivocado' />
     </a>
 </div>
 
