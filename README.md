@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/11-trucos-cuando-entras-netflix-no-sabes-ver-1055529'>11 trucos para cuando entras en Netflix y no sabes qué ver</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/11-trucos-cuando-entras-netflix-no-sabes-ver-1055529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/11-trucos-cuando-entras-netflix-no-sabes-ver-2692465.jpg' alt='11 trucos para cuando entras en Netflix y no sabes qué ver' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571'>Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-2692581.jpg' alt='Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-union-europea-fija-fecha-usb-c-sea-estandar-universal-1055495'>Se acabaron las excusas: la Unión Europea fija una fecha para que el USB-C sea el estándar universal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-union-europea-fija-fecha-usb-c-sea-estandar-universal-1055495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/usb-2647447.jpg' alt='Se acabaron las excusas: la Unión Europea fija una fecha para que el USB-C sea el estándar universal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/eliminar-todos-nueva-opcion-whatsapp-vas-agradecer-1055593'>“Eliminar para todos” la nueva opción de WhatsApp que vas a agradecer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/eliminar-todos-nueva-opcion-whatsapp-vas-agradecer-1055593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='“Eliminar para todos” la nueva opción de WhatsApp que vas a agradecer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasos-seguir-webcam-no-funciona-windows-11-1023707'>Pasos a seguir si tu webcam no funciona en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/pasos-seguir-webcam-no-funciona-windows-11-1023707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/webcam-2636687.jpg' alt='Pasos a seguir si tu webcam no funciona en Windows 11' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-confirma-problema-capturas-pantalla-usuarios-windows-10-1055589'>Microsoft confirma el problema con las capturas de pantalla para los usuarios de Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-confirma-problema-capturas-pantalla-usuarios-windows-10-1055589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/_DSC0877.jpg' alt='Microsoft confirma el problema con las capturas de pantalla para los usuarios de Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-alternativas-monsieur-cuisine-plus-1055165'>Vuelve el robot de cocina de Lidl: si no has llegado a tiempo, estas cuatro alternativas merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-alternativas-monsieur-cuisine-plus-1055165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/robot-cocina-taurus-mycook-touch.jpg' alt='Vuelve el robot de cocina de Lidl: si no has llegado a tiempo, estas cuatro alternativas merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587'>Cómo recuperar tu dinero cuando has enviado un Bizum equivocado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Cómo recuperar tu dinero cuando has enviado un Bizum equivocado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nothing-phone-1-fecha-lanzamiento-1055539'>Se filtran las especificaciones del Nothing Phone (1) y su fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nothing-phone-1-fecha-lanzamiento-1055539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='Se filtran las especificaciones del Nothing Phone (1) y su fecha de lanzamiento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-televisores-barras-sonido-samsung-llegan-salones-ano-2022-1055573'>Nuevos televisores y barras de sonido de Samsung que llegan a los salones este año 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-televisores-barras-sonido-samsung-llegan-salones-ano-2022-1055573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tv-neo-qled-qn900b-samsung-2692369.jpg' alt='Nuevos televisores y barras de sonido de Samsung que llegan a los salones este año 2022' />
     </a>
 </div>
 
