@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/celebra-grande-dia-star-wars-estos-productos-basados-exitosa-saga-1055377'>Celebra a lo grande el día de Star Wars con estos productos basados en la exitosa saga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/celebra-grande-dia-star-wars-estos-productos-basados-exitosa-saga-1055377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/busto-stormtrooper-star-wars-lego-2321115.jpg' alt='Celebra a lo grande el día de Star Wars con estos productos basados en la exitosa saga' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435'>Cómo saber mi contraseña de Gmail</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Cómo saber mi contraseña de Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-gana-batalla-hara-inteligentes-millones-coches-todo-mundo-1055357'>Qualcomm gana la batalla y hará inteligentes a millones de coches en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-gana-batalla-hara-inteligentes-millones-coches-todo-mundo-1055357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Qualcomm gana la batalla y hará inteligentes a millones de coches en todo el mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-4k-4-mayo-2022-1055161'>Amazon sorprende con el precio del Fire TV Stick 4K: ¡Vuelve a niveles de Black Friday por tiempo limitado!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-tv-stick-4k-4-mayo-2022-1055161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Amazon sorprende con el precio del Fire TV Stick 4K: ¡Vuelve a niveles de Black Friday por tiempo limitado!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todas-series-nuevas-temporadas-canceladas-netflix-llevamos-2022-1055295'>Todas las series y nuevas temporadas canceladas por Netflix en lo que llevamos de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todas-series-nuevas-temporadas-canceladas-netflix-llevamos-2022-1055295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/paris-hilton-2692017.jpg' alt='Todas las series y nuevas temporadas canceladas por Netflix en lo que llevamos de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371'>Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-2692111.jpg' alt='Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319'>La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevos-amd-ryzen-5000-arquitectura-zen-3-procesadores-gaming-rapidos-mundo-2096755.jpg' alt='La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cobrara-algunos-usuarios-twitter-estas-afectados-1055409'>Elon Musk cobrará a algunos usuarios de Twitter: ¿estás entre los afectados?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cobrara-algunos-usuarios-twitter-estas-afectados-1055409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk cobrará a algunos usuarios de Twitter: ¿estás entre los afectados?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219'>La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/consejos-warren-buffett-2464827.jpg' alt='La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-implante-cerebral-parece-revertir-sintomas-enfermedad-parkinson-1055347'>Un nuevo implante cerebral parece revertir los síntomas de la enfermedad de Parkinson</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-implante-cerebral-parece-revertir-sintomas-enfermedad-parkinson-1055347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-implante-cerebral-parece-revertir-sintomas-enfermedad-parkinson-2692085.jpg' alt='Un nuevo implante cerebral parece revertir los síntomas de la enfermedad de Parkinson' />
     </a>
 </div>
 
