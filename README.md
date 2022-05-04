@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/formas-seguras-expulsar-usb-windows-11-arriesgar-contenido-1055183'>Formas seguras de expulsar un USB de Windows 11 sin arriesgar su contenido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/formas-seguras-expulsar-usb-windows-11-arriesgar-contenido-1055183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/usb-ordenador-2595773.jpg' alt='Formas seguras de expulsar un USB de Windows 11 sin arriesgar su contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/conexion-wifi-nunca-tan-rapida-como-operador-te-habia-prometido-1055197'>¿Por qué tu conexión WiFi nunca es tan rápida como el operador te había prometido?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/conexion-wifi-nunca-tan-rapida-como-operador-te-habia-prometido-1055197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='¿Por qué tu conexión WiFi nunca es tan rápida como el operador te había prometido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-google-coches-mercedes-alianza-aptoide-hace-posible-1054877'>Android Auto sin Google en los coches Mercedes: una alianza con Aptoide lo hace posible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-google-coches-mercedes-alianza-aptoide-hace-posible-1054877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Android Auto sin Google en los coches Mercedes: una alianza con Aptoide lo hace posible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/motor/9-coches-peor-diseno-volante-historia-1051755'>Los 9 coches con peor diseño del volante de la historia</a></h4>
     <a href='https://computerhoy.com/listas/motor/9-coches-peor-diseno-volante-historia-1051755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-volante-2073487.jpg' alt='Los 9 coches con peor diseño del volante de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1055155'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1055155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2691811.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-ligeras-ultima-milla-1054713'>5 bicicletas eléctricas ligeras para la "última milla" antes de llegar al trabajo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-ligeras-ultima-milla-1054713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-bicicletas-esperando-semaforo-ciudad-2691411.jpg' alt='5 bicicletas eléctricas ligeras para la "última milla" antes de llegar al trabajo' />
     </a>
 </div>
 
