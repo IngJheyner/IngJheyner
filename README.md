@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-serie-obi-wan-kenobi-forma-perfecta-celebrar-may-4th-1055525'>El nuevo tráiler de la serie de Obi-Wan Kenobi es la forma perfecta de celebrar el May The 4th</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-serie-obi-wan-kenobi-forma-perfecta-celebrar-may-4th-1055525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/obi-wan-kenobi-2678395.jpg' alt='El nuevo tráiler de la serie de Obi-Wan Kenobi es la forma perfecta de celebrar el May The 4th' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-mejor-arduino-starter-kit-puedes-comprar-476869'>Arduino Uno y cómo elegir el mejor Arduino Starter Kit para empezar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cual-mejor-arduino-starter-kit-puedes-comprar-476869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arduino-2692419.jpg' alt='Arduino Uno y cómo elegir el mejor Arduino Starter Kit para empezar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499'>Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/propulsores-plasma-futuro-viajes-interplanetarios-2218217.jpg' alt='Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399'>A qué zona básica de salud pertenezco	</a></h4>
     <a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zona-basica-salud-pertenezco-2692183.jpg' alt='A qué zona básica de salud pertenezco	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-primera-vez-mandara-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-1055379'>La Nasa, por primera vez, mandará cuerpos artificiales de mujeres a la Luna para comprobar los niveles de radiación en las astronautas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-primera-vez-mandara-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-1055379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nasa-primera-vez-manda-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-2692121.jpg' alt='La Nasa, por primera vez, mandará cuerpos artificiales de mujeres a la Luna para comprobar los niveles de radiación en las astronautas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435'>Cómo saber mi contraseña de Gmail</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-mi-contrasena-gmail-1055435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gmail-2542927.jpg' alt='Cómo saber mi contraseña de Gmail' />
     </a>
 </div>
 
