@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/formas-seguras-expulsar-usb-windows-11-arriesgar-contenido-1055183'>Formas seguras de expulsar un USB de Windows 11 sin arriesgar su contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/formas-seguras-expulsar-usb-windows-11-arriesgar-contenido-1055183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/usb-ordenador-2595773.jpg' alt='Formas seguras de expulsar un USB de Windows 11 sin arriesgar su contenido' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219'>La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/consejos-warren-buffett-2464827.jpg' alt='La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/conexion-wifi-nunca-tan-rapida-como-operador-te-habia-prometido-1055197'>¿Por qué tu conexión WiFi nunca es tan rápida como el operador te había prometido?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/conexion-wifi-nunca-tan-rapida-como-operador-te-habia-prometido-1055197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='¿Por qué tu conexión WiFi nunca es tan rápida como el operador te había prometido?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-memorias-ufs-40-doble-velocidad-estandar-actual-1055313'>Samsung anuncia sus memorias UFS 4.0: doble de velocidad que el estándar actual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-memorias-ufs-40-doble-velocidad-estandar-actual-1055313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufs-40-samsung-2691995.jpg' alt='Samsung anuncia sus memorias UFS 4.0: doble de velocidad que el estándar actual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-google-coches-mercedes-alianza-aptoide-hace-posible-1054877'>Android Auto sin Google en los coches Mercedes: una alianza con Aptoide lo hace posible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-google-coches-mercedes-alianza-aptoide-hace-posible-1054877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Android Auto sin Google en los coches Mercedes: una alianza con Aptoide lo hace posible' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-pronuncia-compra-twitter-no-subestimaria-elon-musk-1055297'>Bill Gates se pronuncia sobre la compra de Twitter: “no subestimaría a Elon Musk”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-pronuncia-compra-twitter-no-subestimaria-elon-musk-1055297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='Bill Gates se pronuncia sobre la compra de Twitter: “no subestimaría a Elon Musk”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/80-deportes-gps-semana-bateria-reloj-deportivo-suunto-ganga-precio-tiene-1054715'>80 deportes, GPS y una semana de batería: este reloj deportivo de Suunto es una ganga por el precio que tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/80-deportes-gps-semana-bateria-reloj-deportivo-suunto-ganga-precio-tiene-1054715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/suunto-5-2061821.jpg' alt='80 deportes, GPS y una semana de batería: este reloj deportivo de Suunto es una ganga por el precio que tiene' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209'>Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/magniber-como-detectar-gran-amenaza-usuarios-windows-10-2691873.jpg' alt='Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/9-coches-peor-diseno-volante-historia-1051755'>Los 9 coches con peor diseño del volante de la historia</a></h4>
-    <a href='https://computerhoy.com/listas/motor/9-coches-peor-diseno-volante-historia-1051755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/manos-volante-2073487.jpg' alt='Los 9 coches con peor diseño del volante de la historia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-4-mayo-2022-1055159'>Amazon ha rebajado hasta 200 euros este portátil Huawei MateBook D 15, el mejor precio histórico hasta el momento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-4-mayo-2022-1055159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='Amazon ha rebajado hasta 200 euros este portátil Huawei MateBook D 15, el mejor precio histórico hasta el momento' />
     </a>
 </div>
 
