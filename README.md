@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-spot-nuevas-funciones-boston-dynamics-1055151'>Mucho más que bailar: así son las nuevas funciones que estrena el robot Spot de Boston Dynamics</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-spot-nuevas-funciones-boston-dynamics-1055151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mucho-bailar-son-nuevas-funciones-estrena-robot-spot-boston-dynamics-2691807.jpg' alt='Mucho más que bailar: así son las nuevas funciones que estrena el robot Spot de Boston Dynamics' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899'>El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apex-legends-mobile-2648189.jpg' alt='El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847'>El teléfono plegable de Google estaría muy cerca de ser presentado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El teléfono plegable de Google estaría muy cerca de ser presentado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881'>Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-1054881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-circle-nueva-caracteristica-twitter-imita-mejores-amigos-instagram-2691541.jpg' alt='Twitter Circle: así es la nueva característica de Twitter que imita a los mejores amigos de Instagram' />
     </a>
 </div>
 
