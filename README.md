@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319'>La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevos-amd-ryzen-5000-arquitectura-zen-3-procesadores-gaming-rapidos-mundo-2096755.jpg' alt='La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219'>La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/consejos-warren-buffett-2464827.jpg' alt='La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209'>Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/magniber-como-detectar-gran-amenaza-usuarios-windows-10-2691873.jpg' alt='Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-4-mayo-2022-1055159'>Amazon ha rebajado hasta 200 euros este portátil Huawei MateBook D 15, el mejor precio histórico hasta el momento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-4-mayo-2022-1055159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='Amazon ha rebajado hasta 200 euros este portátil Huawei MateBook D 15, el mejor precio histórico hasta el momento' />
     </a>
 </div>
 
