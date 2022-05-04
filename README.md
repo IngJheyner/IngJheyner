@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399'>A qué zona básica de salud pertenezco	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zona-basica-salud-pertenezco-2692183.jpg' alt='A qué zona básica de salud pertenezco	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-primera-vez-mandara-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-1055379'>La Nasa, por primera vez, mandará cuerpos artificiales de mujeres a la Luna para comprobar los niveles de radiación en las astronautas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nasa-primera-vez-mandara-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-1055379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nasa-primera-vez-manda-cuerpos-artificiales-mujeres-luna-comprobar-niveles-radiacion-astronautas-2692121.jpg' alt='La Nasa, por primera vez, mandará cuerpos artificiales de mujeres a la Luna para comprobar los niveles de radiación en las astronautas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371'>Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-1055371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/investigadores-desarrollan-dispositivo-haptico-casco-rv-produce-sensaciones-boca-2692111.jpg' alt='Investigadores desarrollan un dispositivo háptico para tu casco de RV que produce sensaciones en la boca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cobrara-algunos-usuarios-twitter-estas-afectados-1055409'>Elon Musk cobrará a algunos usuarios de Twitter: ¿estás entre los afectados?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cobrara-algunos-usuarios-twitter-estas-afectados-1055409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk cobrará a algunos usuarios de Twitter: ¿estás entre los afectados?' />
     </a>
 </div>
 
