@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-ropa-mano-expertos-1055153'>Si usas detergente para lavar la ropa a mano lo estás haciendo mal, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-lavar-ropa-mano-expertos-1055153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-lavar-ropa-mano-quitar-manchas-eliminar-germenes-expertos-2691809.jpg' alt='Si usas detergente para lavar la ropa a mano lo estás haciendo mal, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-spot-nuevas-funciones-boston-dynamics-1055151'>Mucho más que bailar: así son las nuevas funciones que estrena el robot Spot de Boston Dynamics</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-spot-nuevas-funciones-boston-dynamics-1055151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mucho-bailar-son-nuevas-funciones-estrena-robot-spot-boston-dynamics-2691807.jpg' alt='Mucho más que bailar: así son las nuevas funciones que estrena el robot Spot de Boston Dynamics' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897'>Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847'>El teléfono plegable de Google estaría muy cerca de ser presentado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telefono-plegable-google-estaria-muy-cerca-ser-presentado-1054847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='El teléfono plegable de Google estaría muy cerca de ser presentado' />
     </a>
 </div>
 
