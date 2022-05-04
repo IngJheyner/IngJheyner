@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599'>El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-9i-2618287.jpg' alt='El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571'>Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-2692581.jpg' alt='Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587'>Cómo recuperar tu dinero cuando has enviado un Bizum equivocado</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-1055587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Cómo recuperar tu dinero cuando has enviado un Bizum equivocado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-televisores-barras-sonido-samsung-llegan-salones-ano-2022-1055573'>Nuevos televisores y barras de sonido de Samsung que llegan a los salones este año 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-televisores-barras-sonido-samsung-llegan-salones-ano-2022-1055573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tv-neo-qled-qn900b-samsung-2692369.jpg' alt='Nuevos televisores y barras de sonido de Samsung que llegan a los salones este año 2022' />
     </a>
 </div>
 
