@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1055155'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1055155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2691811.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-ligeras-ultima-milla-1054713'>5 bicicletas eléctricas ligeras para la "última milla" antes de llegar al trabajo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bicicletas-electricas-ligeras-ultima-milla-1054713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-bicicletas-esperando-semaforo-ciudad-2691411.jpg' alt='5 bicicletas eléctricas ligeras para la "última milla" antes de llegar al trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-lavar-ropa-mano-expertos-1055153'>Si usas detergente para lavar la ropa a mano lo estás haciendo mal, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-lavar-ropa-mano-expertos-1055153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-lavar-ropa-mano-quitar-manchas-eliminar-germenes-expertos-2691809.jpg' alt='Si usas detergente para lavar la ropa a mano lo estás haciendo mal, según los expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899'>El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/mayor-rival-fornite-llega-android-ios-mes-apex-legends-mobile-1054899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apex-legends-mobile-2648189.jpg' alt='El mayor rival de Fornite llega a Android y a iOS este mes: así es Apex Legends Mobile' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907'>Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/micro-sd-samsung-pro-endurance-tarjeta-duradera-resistente-1054907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-lanza-tarjeta-micro-sd-duradera-mercado-puede-estar-16-anos-seguidos-grabando-datos-2691549.jpg' alt='Samsung lanza la tarjeta microSD más duradera del mercado: puede estar 16 años seguidos grabando datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897'>Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-pasos-tiktok-apostara-publicaciones-pantalla-completa-1054897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='Instagram sigue los pasos de TikTok y apostará por las publicaciones a pantalla completa' />
     </a>
 </div>
 
