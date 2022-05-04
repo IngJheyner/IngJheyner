@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/pasos-seguir-webcam-no-funciona-windows-11-1023707'>Pasos a seguir si tu webcam no funciona en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/pasos-seguir-webcam-no-funciona-windows-11-1023707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/webcam-2636687.jpg' alt='Pasos a seguir si tu webcam no funciona en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-alternativas-monsieur-cuisine-plus-1055165'>Vuelve el robot de cocina de Lidl: si no has llegado a tiempo, estas cuatro alternativas merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-alternativas-monsieur-cuisine-plus-1055165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/robot-cocina-taurus-mycook-touch.jpg' alt='Vuelve el robot de cocina de Lidl: si no has llegado a tiempo, estas cuatro alternativas merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nothing-phone-1-fecha-lanzamiento-1055539'>Se filtran las especificaciones del Nothing Phone (1) y su fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-nothing-phone-1-fecha-lanzamiento-1055539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='Se filtran las especificaciones del Nothing Phone (1) y su fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-serie-obi-wan-kenobi-forma-perfecta-celebrar-may-4th-1055525'>El nuevo tráiler de la serie de Obi-Wan Kenobi es la forma perfecta de celebrar el May The 4th</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-serie-obi-wan-kenobi-forma-perfecta-celebrar-may-4th-1055525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/obi-wan-kenobi-2678395.jpg' alt='El nuevo tráiler de la serie de Obi-Wan Kenobi es la forma perfecta de celebrar el May The 4th' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-mejor-arduino-starter-kit-puedes-comprar-476869'>Arduino Uno y cómo elegir el mejor Arduino Starter Kit para empezar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cual-mejor-arduino-starter-kit-puedes-comprar-476869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arduino-2692419.jpg' alt='Arduino Uno y cómo elegir el mejor Arduino Starter Kit para empezar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499'>Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiempo-tendremos-esperar-encontrarnos-civilizacion-extraterrestre-1055499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/propulsores-plasma-futuro-viajes-interplanetarios-2218217.jpg' alt='Este es el tiempo que tendremos que esperar para encontrarnos con una civilización extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chips-m1-apple-no-eran-infalibles-investigadores-descubren-primera-gran-falla-seguridad-1055489'>Los chips M1 de Apple no eran infalibles: investigadores descubren su primera gran falla de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chips-m1-apple-no-eran-infalibles-investigadores-descubren-primera-gran-falla-seguridad-1055489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ipad-air-2638523.jpg' alt='Los chips M1 de Apple no eran infalibles: investigadores descubren su primera gran falla de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399'>A qué zona básica de salud pertenezco	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/zona-basica-salud-pertenezco-1055399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zona-basica-salud-pertenezco-2692183.jpg' alt='A qué zona básica de salud pertenezco	' />
     </a>
 </div>
 
