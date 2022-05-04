@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/celebra-grande-dia-star-wars-estos-productos-basados-exitosa-saga-1055377'>Celebra a lo grande el día de Star Wars con estos productos basados en la exitosa saga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/celebra-grande-dia-star-wars-estos-productos-basados-exitosa-saga-1055377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/busto-stormtrooper-star-wars-lego-2321115.jpg' alt='Celebra a lo grande el día de Star Wars con estos productos basados en la exitosa saga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-gana-batalla-hara-inteligentes-millones-coches-todo-mundo-1055357'>Qualcomm gana la batalla y hará inteligentes a millones de coches en todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-gana-batalla-hara-inteligentes-millones-coches-todo-mundo-1055357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Qualcomm gana la batalla y hará inteligentes a millones de coches en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todas-series-nuevas-temporadas-canceladas-netflix-llevamos-2022-1055295'>Todas las series y nuevas temporadas canceladas por Netflix en lo que llevamos de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todas-series-nuevas-temporadas-canceladas-netflix-llevamos-2022-1055295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/paris-hilton-2692017.jpg' alt='Todas las series y nuevas temporadas canceladas por Netflix en lo que llevamos de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319'>La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-generacion-amd-llegara-2022-obligara-gamers-cambiar-ram-1055319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/nuevos-amd-ryzen-5000-arquitectura-zen-3-procesadores-gaming-rapidos-mundo-2096755.jpg' alt='La nueva generación de AMD llegará en 2022 y obligará a los gamers a cambiar de RAM' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219'>La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sorprendente-cifra-pagaria-warren-buffett-hacerse-todo-bitcoin-1055219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/consejos-warren-buffett-2464827.jpg' alt='La sorprendente cifra que pagaría Warren Buffett por hacerse con todo Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-memorias-ufs-40-doble-velocidad-estandar-actual-1055313'>Samsung anuncia sus memorias UFS 4.0: doble de velocidad que el estándar actual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-anuncia-memorias-ufs-40-doble-velocidad-estandar-actual-1055313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufs-40-samsung-2691995.jpg' alt='Samsung anuncia sus memorias UFS 4.0: doble de velocidad que el estándar actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-pronuncia-compra-twitter-no-subestimaria-elon-musk-1055297'>Bill Gates se pronuncia sobre la compra de Twitter: “no subestimaría a Elon Musk”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-pronuncia-compra-twitter-no-subestimaria-elon-musk-1055297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='Bill Gates se pronuncia sobre la compra de Twitter: “no subestimaría a Elon Musk”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209'>Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/magniber-como-detectar-gran-amenaza-usuarios-windows-10-1055209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/magniber-como-detectar-gran-amenaza-usuarios-windows-10-2691873.jpg' alt='Qué es Magniber y cómo detectar la gran amenaza para los usuarios de Windows 10' />
     </a>
 </div>
 
