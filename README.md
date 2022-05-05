@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913'>Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-desploma-ya-son-muchos-cuestionan-futuro-1055859'>El mercado NFT se desploma y ya son muchos los que cuestionan su futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-desploma-ya-son-muchos-cuestionan-futuro-1055859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apecoin-2658213.jpg' alt='El mercado NFT se desploma y ya son muchos los que cuestionan su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757'>2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-conga-3890-vital-2691211.jpg' alt='2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841'>Comer pipas de girasol: beneficios para la salud que te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comer-pipas-girasol-beneficios-salud-te-sorprenderan-2692875.jpg' alt='Comer pipas de girasol: beneficios para la salud que te sorprenderán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613'>Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pasa-cuando-rompes-huevo-20-metros-profundidad-te-va-sorprender-2692677.jpg' alt='Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)' />
     </a>
 </div>
 
