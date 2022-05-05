@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/significa-coche-tenga-clasificacion-ambiental-dgt-1055981'>Qué significa que un coche tenga la clasificación ambiental A de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/significa-coche-tenga-clasificacion-ambiental-dgt-1055981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué significa que un coche tenga la clasificación ambiental A de la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059'>¿Cuál es el número máximo de idiomas que puede hablar una persona?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/idiomas-2057567.jpg' alt='¿Cuál es el número máximo de idiomas que puede hablar una persona?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-pixel-buds-pro-inminente-audio-espacial-cuatro-colores-distintos-1056011'>La llegada de los Pixel Buds Pro es inminente: audio espacial y cuatro colores distintos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegada-pixel-buds-pro-inminente-audio-espacial-cuatro-colores-distintos-1056011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-buds-2435749.jpg' alt='La llegada de los Pixel Buds Pro es inminente: audio espacial y cuatro colores distintos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-omen-30l-gt13-1047ns-5-mayo-2022-1055905'>Este PC gaming es una bestia para jugar y minar criptomonedas: RTX 3070 Ti y 32GB de RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-omen-30l-gt13-1047ns-5-mayo-2022-1055905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hp-omen-30l-2693053.jpg' alt='Este PC gaming es una bestia para jugar y minar criptomonedas: RTX 3070 Ti y 32GB de RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983'>Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-nova-9-2648925.jpg' alt='Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente' />
+    <h4><a href='https://computerhoy.com/noticias/life/ocurres-utilizas-mucho-aceite-freidora-aire-como-saber-cuando-demasiado-1056045'>Qué ocurres si utilizas mucho aceite en la freidora de aire y cómo saber cuándo es demasiado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocurres-utilizas-mucho-aceite-freidora-aire-como-saber-cuando-demasiado-1056045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Qué ocurres si utilizas mucho aceite en la freidora de aire y cómo saber cuándo es demasiado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-powertoys-windows-11-sirve-potente-herramienta-gratuita-1055949'>Qué son las PowerToys de Windows 11 y para qué sirve esta potente herramienta gratuita</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-powertoys-windows-11-sirve-potente-herramienta-gratuita-1055949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg' alt='Qué son las PowerToys de Windows 11 y para qué sirve esta potente herramienta gratuita' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-pedir-cita-requisitos-hacer-declaracion-renta-2021-22-telefono-1056015'>Cómo pedir cita y requisitos para hacer la declaración de la Renta 2021/22 por teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-pedir-cita-requisitos-hacer-declaracion-renta-2021-22-telefono-1056015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/videollamada-2060447.jpg' alt='Cómo pedir cita y requisitos para hacer la declaración de la Renta 2021/22 por teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925'>Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-funcion-nearby-share-imita-airdrop-como-activarlo-android-1056031'>Ya disponible la función de Nearby Share que imita a AirDrop: como activarlo en nuestro Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-funcion-nearby-share-imita-airdrop-como-activarlo-android-1056031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nearby-share-android-2203993.jpg' alt='Ya disponible la función de Nearby Share que imita a AirDrop: como activarlo en nuestro Android' />
     </a>
 </div>
 
