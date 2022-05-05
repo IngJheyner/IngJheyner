@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361'>Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/juego-tronos-casa-dragon-estrena-trailer-emitira-mismo-tiempo-senor-anillos-amazon-2694141.jpg' alt='Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-google-microsoft-unen-fuerzas-acabar-contrasenas-1056359'>Apple, Google y Microsoft unen fuerzas para acabar con las contraseñas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-google-microsoft-unen-fuerzas-acabar-contrasenas-1056359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/gestor-contrasenas-2431931.jpg' alt='Apple, Google y Microsoft unen fuerzas para acabar con las contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355'>El timo de Bizum que está causando estragos en las apps de segunda mano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El timo de Bizum que está causando estragos en las apps de segunda mano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347'>Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-2694127.jpg' alt='Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335'>Netflix toma nota de la taquilla y apuesta por una serie de Sonic</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-toma-nota-taquilla-apuesta-serie-sonic-2694095.jpg' alt='Netflix toma nota de la taquilla y apuesta por una serie de Sonic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333'>La OCU denuncia la estafa en el papel de cocina de dos importantes marcas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rollo-papel-cocina-2694093.jpg' alt='La OCU denuncia la estafa en el papel de cocina de dos importantes marcas' />
     </a>
 </div>
 
