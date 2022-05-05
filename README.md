@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273'>Cómo saber cuántas calorías al día necesito</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/comida-saludable-2407501.jpg' alt='Cómo saber cuántas calorías al día necesito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249'>Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso</a></h4>
     <a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/oklahomas-deadliest-tornadoes.jpg' alt='Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863'>Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059'>¿Cuál es el número máximo de idiomas que puede hablar una persona?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/idiomas-2057567.jpg' alt='¿Cuál es el número máximo de idiomas que puede hablar una persona?' />
     </a>
 </div>
 
