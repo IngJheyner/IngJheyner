@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757'>2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-conga-3890-vital-2691211.jpg' alt='2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2692877.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613'>Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pasa-cuando-rompes-huevo-20-metros-profundidad-te-va-sorprender-2692677.jpg' alt='Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611'>Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dead-space-2-curse-monkey-island-cat-quest-otros-juegos-gratis-prime-gaming-2692663.jpg' alt='Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming' />
     </a>
 </div>
 
