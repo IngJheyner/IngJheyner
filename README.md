@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315'>Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309'>Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trabajan-timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-2694049.jpg' alt='Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299'>Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/navegando-2683749.jpg' alt='Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273'>Cómo saber cuántas calorías al día necesito</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/comida-saludable-2407501.jpg' alt='Cómo saber cuántas calorías al día necesito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249'>Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/oklahomas-deadliest-tornadoes.jpg' alt='Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245'>Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-google-play-store-2140111.jpg' alt='Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra' />
     </a>
 </div>
 
