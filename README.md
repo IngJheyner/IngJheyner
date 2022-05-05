@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2692877.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841'>Comer pipas de girasol: beneficios para la salud que te sorprenderán</a></h4>
     <a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comer-pipas-girasol-beneficios-salud-te-sorprenderan-2692875.jpg' alt='Comer pipas de girasol: beneficios para la salud que te sorprenderán' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611'>Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/dead-space-2-curse-monkey-island-cat-quest-juegos-gratis-prime-gaming-mayo-1055611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dead-space-2-curse-monkey-island-cat-quest-otros-juegos-gratis-prime-gaming-2692663.jpg' alt='Dead Space 2, The Curse of Monkey Island, Cat Quest, y otros juegos gratis en Prime Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599'>El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-9i-pantalla-90-hz-camara-50-mpx-dos-dias-bateria-solo-160-euros-1055599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-9i-2618287.jpg' alt='El realme 9i con pantalla a 90 Hz, cámara de 50 Mpx y dos días de batería, solo 160 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571'>Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-2692581.jpg' alt='Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles' />
     </a>
 </div>
 
