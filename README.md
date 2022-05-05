@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355'>El timo de Bizum que está causando estragos en las apps de segunda mano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El timo de Bizum que está causando estragos en las apps de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bascula-inteligente-huawei-scale-3-oferta-1056351'>La báscula inteligente de Huawei mide 11 parámetros de salud corporal, por menos de 20€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bascula-inteligente-huawei-scale-3-oferta-1056351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bascula-inteligente-huawei-mide-11-parametros-salud-corporal-menos-20eu-2694133.jpg' alt='La báscula inteligente de Huawei mide 11 parámetros de salud corporal, por menos de 20€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347'>Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-2694127.jpg' alt='Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335'>Netflix toma nota de la taquilla y apuesta por una serie de Sonic</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-toma-nota-taquilla-apuesta-serie-sonic-2694095.jpg' alt='Netflix toma nota de la taquilla y apuesta por una serie de Sonic' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333'>La OCU denuncia la estafa en el papel de cocina de dos importantes marcas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rollo-papel-cocina-2694093.jpg' alt='La OCU denuncia la estafa en el papel de cocina de dos importantes marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-ya-tiene-pantalla-muerte-deja-funcionar-algunos-moviles-1056327'>Android Auto ya tiene su pantalla de la muerte y deja de funcionar en algunos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-ya-tiene-pantalla-muerte-deja-funcionar-algunos-moviles-1056327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto ya tiene su pantalla de la muerte y deja de funcionar en algunos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315'>Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309'>Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trabajan-timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-2694049.jpg' alt='Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas' />
     </a>
 </div>
 
