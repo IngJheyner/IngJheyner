@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335'>Netflix toma nota de la taquilla y apuesta por una serie de Sonic</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-sonic-prime-netflix-1056335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-toma-nota-taquilla-apuesta-serie-sonic-2694095.jpg' alt='Netflix toma nota de la taquilla y apuesta por una serie de Sonic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333'>La OCU denuncia la estafa en el papel de cocina de dos importantes marcas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-denuncia-estafa-papel-cocina-dos-importantes-marcas-1056333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rollo-papel-cocina-2694093.jpg' alt='La OCU denuncia la estafa en el papel de cocina de dos importantes marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-ya-tiene-pantalla-muerte-deja-funcionar-algunos-moviles-1056327'>Android Auto ya tiene su pantalla de la muerte y deja de funcionar en algunos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-ya-tiene-pantalla-muerte-deja-funcionar-algunos-moviles-1056327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto ya tiene su pantalla de la muerte y deja de funcionar en algunos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315'>Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razones-podrian-convencerte-dar-salto-windows-10-windows-11-1056315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Razones que podrían convencerte para dar el salto de Windows 10 a Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309'>Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-1056309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trabajan-timadores-clonan-cuentas-influencers-financieros-instagram-estafar-criptomonedas-2694049.jpg' alt='Así trabajan los timadores que clonan cuentas de influencers financieros en Instagram y YouTube para estafar con criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299'>Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/navegando-2683749.jpg' alt='Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-xiaomi-mi-11-ultra-2360581.jpg' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273'>Cómo saber cuántas calorías al día necesito</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/comida-saludable-2407501.jpg' alt='Cómo saber cuántas calorías al día necesito' />
     </a>
 </div>
 
