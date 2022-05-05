@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983'>Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-nova-9-2648925.jpg' alt='Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-powertoys-windows-11-sirve-potente-herramienta-gratuita-1055949'>Qué son las PowerToys de Windows 11 y para qué sirve esta potente herramienta gratuita</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-powertoys-windows-11-sirve-potente-herramienta-gratuita-1055949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg' alt='Qué son las PowerToys de Windows 11 y para qué sirve esta potente herramienta gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925'>Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913'>Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-desploma-ya-son-muchos-cuestionan-futuro-1055859'>El mercado NFT se desploma y ya son muchos los que cuestionan su futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-desploma-ya-son-muchos-cuestionan-futuro-1055859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apecoin-2658213.jpg' alt='El mercado NFT se desploma y ya son muchos los que cuestionan su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757'>2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-conga-3890-vital-2691211.jpg' alt='2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día' />
     </a>
 </div>
 
