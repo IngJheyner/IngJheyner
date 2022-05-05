@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/significa-coche-tenga-clasificacion-ambiental-dgt-1055981'>Qué significa que un coche tenga la clasificación ambiental A de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/significa-coche-tenga-clasificacion-ambiental-dgt-1055981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué significa que un coche tenga la clasificación ambiental A de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegada-pixel-buds-pro-inminente-audio-espacial-cuatro-colores-distintos-1056011'>La llegada de los Pixel Buds Pro es inminente: audio espacial y cuatro colores distintos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegada-pixel-buds-pro-inminente-audio-espacial-cuatro-colores-distintos-1056011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-buds-2435749.jpg' alt='La llegada de los Pixel Buds Pro es inminente: audio espacial y cuatro colores distintos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983'>Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carcasa-5g-nova-10-ingeniosa-solucion-huawei-veto-occidente-1055983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-nova-9-2648925.jpg' alt='Una carcasa 5G para el Nova 10, la ingeniosa solución de Huawei al veto de occidente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925'>Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-oferta-5-mayo-2022-1054869'>16 GB de RAM, Windows 11 y regalo incluido: este portátil Huawei lo tiene todo para arrasar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-oferta-5-mayo-2022-1054869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-matebook-14-2691493.jpg' alt='16 GB de RAM, Windows 11 y regalo incluido: este portátil Huawei lo tiene todo para arrasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913'>Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"' />
     </a>
 </div>
 
