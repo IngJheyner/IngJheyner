@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925'>Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-sido-demandado-propios-accionistas-sigue-acumulando-problemas-1055925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha sido demandado por sus propios accionistas y sigue acumulando problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-oferta-5-mayo-2022-1054869'>16 GB de RAM, Windows 11 y regalo incluido: este portátil Huawei lo tiene todo para arrasar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-14-oferta-5-mayo-2022-1054869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-matebook-14-2691493.jpg' alt='16 GB de RAM, Windows 11 y regalo incluido: este portátil Huawei lo tiene todo para arrasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913'>Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-arremete-ahora-apple-como-tener-impuesto-internet-1055913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg' alt='Elon Musk arremete ahora contra Apple: “es como tener un impuesto en Internet"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757'>2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cecotec-conga-3890-5-mayo-2022-1054757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-conga-3890-vital-2691211.jpg' alt='2300 Pa de potencia y Alexa: este robot aspirador de menos de 200 euros te ayudará mucho en tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1055843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2692877.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-galaxy-a51-1970489.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
     </a>
 </div>
 
