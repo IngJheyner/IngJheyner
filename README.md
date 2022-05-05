@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299'>Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-windows-desperdiciando-ancho-banda-como-solucionarlo-1050299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/navegando-2683749.jpg' alt='Cómo comprobar si Windows está desperdiciando el ancho de banda y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-analisis-xiaomi-mi-11-ultra-2360581.jpg' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273'>Cómo saber cuántas calorías al día necesito</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-calorias-dia-necesito-1056273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/comida-saludable-2407501.jpg' alt='Cómo saber cuántas calorías al día necesito' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245'>Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-google-play-store-2140111.jpg' alt='Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-find-x5-lite-review-opinion-1054605'>Oppo Find X5 Lite, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-find-x5-lite-review-opinion-1054605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-oppo-find-x5-lite-2693669.jpg' alt='Oppo Find X5 Lite, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863'>Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay' />
     </a>
 </div>
 
