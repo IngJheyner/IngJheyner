@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613'>Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841'>Comer pipas de girasol: beneficios para la salud que te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/noticias/life/comer-pipas-girasol-beneficios-salud-1055841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comer-pipas-girasol-beneficios-salud-te-sorprenderan-2692875.jpg' alt='Comer pipas de girasol: beneficios para la salud que te sorprenderán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613'>Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/romper-huevo-20-metros-profundidad-1055613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pasa-cuando-rompes-huevo-20-metros-profundidad-te-va-sorprender-2692677.jpg' alt='Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pasa-cuando-rompes-huevo-20-metros-profundidad-te-va-sorprender-2692677.jpg' alt='Lo que pasa cuando rompes un huevo a 20 metros de profundidad te va a sorprender (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571'>Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-1055571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-fusion-despide-mimovistar-llega-nuevas-tarifas-flexibles-2692581.jpg' alt='Movistar Fusión se despide y miMovistar llega con nuevas tarifas flexibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eliminar-todos-nueva-opcion-whatsapp-vas-agradecer-1055593'>“Eliminar para todos” la nueva opción de WhatsApp que vas a agradecer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eliminar-todos-nueva-opcion-whatsapp-vas-agradecer-1055593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='“Eliminar para todos” la nueva opción de WhatsApp que vas a agradecer' />
     </a>
 </div>
 
