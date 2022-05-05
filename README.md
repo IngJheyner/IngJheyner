@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249'>Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso</a></h4>
+    <a href='https://computerhoy.com/noticias/life/origina-tornado-previo-aviso-destruyendolo-todo-paso-1056249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/oklahomas-deadliest-tornadoes.jpg' alt='Así se origina un tornado: sin previo aviso y destruyéndolo todo a su paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245'>Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-cansado-comision-30-google-android-ha-preparado-jugada-maestra-1056245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/ofertas-google-play-store-2140111.jpg' alt='Amazon se ha cansado de la comisión del 30% de Google en Android y ha preparado esta jugada maestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-find-x5-lite-review-opinion-1054605'>Oppo Find X5 Lite, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-find-x5-lite-review-opinion-1054605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-oppo-find-x5-lite-2693669.jpg' alt='Oppo Find X5 Lite, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863'>Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pad-5-5-mayo-2022-1025863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='Xiaomi Pad 5 alcanza su precio mínimo histórico con esta versión de 128 GB por tan solo 279€ en eBay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059'>¿Cuál es el número máximo de idiomas que puede hablar una persona?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-numero-maximo-idiomas-puede-hablar-persona-1056059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/idiomas-2057567.jpg' alt='¿Cuál es el número máximo de idiomas que puede hablar una persona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-omen-30l-gt13-1047ns-5-mayo-2022-1055905'>Este PC gaming es una bestia para jugar y minar criptomonedas: RTX 3070 Ti y 32GB de RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-omen-30l-gt13-1047ns-5-mayo-2022-1055905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hp-omen-30l-2693053.jpg' alt='Este PC gaming es una bestia para jugar y minar criptomonedas: RTX 3070 Ti y 32GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocurres-utilizas-mucho-aceite-freidora-aire-como-saber-cuando-demasiado-1056045'>Qué ocurres si utilizas mucho aceite en la freidora de aire y cómo saber cuándo es demasiado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocurres-utilizas-mucho-aceite-freidora-aire-como-saber-cuando-demasiado-1056045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Qué ocurres si utilizas mucho aceite en la freidora de aire y cómo saber cuándo es demasiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-pedir-cita-requisitos-hacer-declaracion-renta-2021-22-telefono-1056015'>Cómo pedir cita y requisitos para hacer la declaración de la Renta 2021/22 por teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-pedir-cita-requisitos-hacer-declaracion-renta-2021-22-telefono-1056015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/videollamada-2060447.jpg' alt='Cómo pedir cita y requisitos para hacer la declaración de la Renta 2021/22 por teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-funcion-nearby-share-imita-airdrop-como-activarlo-android-1056031'>Ya disponible la función de Nearby Share que imita a AirDrop: como activarlo en nuestro Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-funcion-nearby-share-imita-airdrop-como-activarlo-android-1056031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nearby-share-android-2203993.jpg' alt='Ya disponible la función de Nearby Share que imita a AirDrop: como activarlo en nuestro Android' />
     </a>
 </div>
 
