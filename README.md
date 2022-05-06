@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967'>Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-semanas-aislados-trabajo-video-2695195.jpg' alt='Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957'>Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943'>Android Auto deja de funcionar con una de las apps más populares del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Android Auto deja de funcionar con una de las apps más populares del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927'>Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet' />
     </a>
 </div>
 
