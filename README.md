@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957'>Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945'>NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927'>Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/7-series-amantes-cafe-1056941'>7 series que disfrutarán especialmente los amantes del café</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/7-series-amantes-cafe-1056941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-series-disfrutaran-especialmente-amantes-cafe-2695115.jpg' alt='7 series que disfrutarán especialmente los amantes del café' />
     </a>
 </div>
 
