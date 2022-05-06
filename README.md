@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605'>Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-2694399.jpg' alt='Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tarifa-portatil-starlink-internet-donde-quieras-pero-pagando-coste-adicional-1056663'>Así es la nueva tarifa portátil de Starlink: internet donde quieras pero pagando un coste adicional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tarifa-portatil-starlink-internet-donde-quieras-pero-pagando-coste-adicional-1056663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Así es la nueva tarifa portátil de Starlink: internet donde quieras pero pagando un coste adicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677'>Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/iphone-4s.jpg' alt='Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-1056597'>Microsoft regala 3D Movie Maker después de que un usuario se lo pidiera en Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-1056597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-2694375.jpg' alt='Microsoft regala 3D Movie Maker después de que un usuario se lo pidiera en Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213'>Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/solvinden-lampara-ikea-2691871.jpg' alt='Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-radares-dgt-multan-solo-tener-movil-mano-1056635'>Esta es la ubicación de los radares de la DGT que multan solo por tener el móvil en la mano</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ubicacion-radares-dgt-multan-solo-tener-movil-mano-1056635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Esta es la ubicación de los radares de la DGT que multan solo por tener el móvil en la mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-precios-nuevas-graficas-amd-radeon-1056621'>Filtrados los precios de las nuevas gráficas AMD Radeon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-precios-nuevas-graficas-amd-radeon-1056621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amd-radeon-6950-precios-2694409.jpg' alt='Filtrados los precios de las nuevas gráficas AMD Radeon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/todoterreno-hyundai-parece-sacado-pelicula-star-wars-1056575'>Este es el todoterreno de Hyundai que parece sacado de una película de Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/todoterreno-hyundai-parece-sacado-pelicula-star-wars-1056575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hyundai-todoterreno-2694383.jpg' alt='Este es el todoterreno de Hyundai que parece sacado de una película de Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-google-pixel-7-pro-gracias-funda-modulo-camara-ha-llegado-quedarse-1056589'>Filtrado el diseño del Google Pixel 7 Pro gracias a una funda: el módulo de cámara ha llegado para quedarse</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-google-pixel-7-pro-gracias-funda-modulo-camara-ha-llegado-quedarse-1056589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-7-pro-2694363.jpg' alt='Filtrado el diseño del Google Pixel 7 Pro gracias a una funda: el módulo de cámara ha llegado para quedarse' />
     </a>
 </div>
 
