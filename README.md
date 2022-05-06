@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629'>5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699'>Así suena un agujero negro, y es tal y como lo imaginabas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/agujero-negro-interestelar.jpg' alt='Así suena un agujero negro, y es tal y como lo imaginabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605'>Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-2694399.jpg' alt='Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677'>Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/iphone-4s.jpg' alt='Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-1056597'>Microsoft regala 3D Movie Maker después de que un usuario se lo pidiera en Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-1056597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-regala-3d-movie-maker-despues-usuario-pidiera-twitter-2694375.jpg' alt='Microsoft regala 3D Movie Maker después de que un usuario se lo pidiera en Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213'>Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/solvinden-lampara-ikea-2691871.jpg' alt='Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil' />
     </a>
 </div>
 
