@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873'>Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585293.jpg' alt='Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mito-telefonos-moviles-ciencia-viene-romper-1056731'>Este es el gran mito sobre los teléfonos móviles que la ciencia viene a romper</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-mito-telefonos-moviles-ciencia-viene-romper-1056731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/movil-mano-2668705.jpg' alt='Este es el gran mito sobre los teléfonos móviles que la ciencia viene a romper' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771'>Por fin sabemos cómo nos encuentran los mosquitos en verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Por fin sabemos cómo nos encuentran los mosquitos en verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685'>Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro</a></h4>
     <a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/subida-bajada-luz-2436021.jpg' alt='Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629'>5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699'>Así suena un agujero negro, y es tal y como lo imaginabas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/agujero-negro-interestelar.jpg' alt='Así suena un agujero negro, y es tal y como lo imaginabas' />
     </a>
 </div>
 
