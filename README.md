@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-llegan-reacciones-whatsapp-archivos-2-gb-grupos-512-personas-1056561'>Por fin llegan las reacciones de WhatsApp: archivos de hasta 2 GB y grupos de 512 personas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-llegan-reacciones-whatsapp-archivos-2-gb-grupos-512-personas-1056561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-reacciones-2694349.jpg' alt='Por fin llegan las reacciones de WhatsApp: archivos de hasta 2 GB y grupos de 512 personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2694343.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551'>6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-2694341.jpg' alt='6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/record-mundo-velocidad-coche-autonomo-video-1056549'>Récord del mundo de velocidad de un coche autónomo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/record-mundo-velocidad-coche-autonomo-video-1056549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/record-mundo-velocidad-coche-autonomo-2694339.jpg' alt='Récord del mundo de velocidad de un coche autónomo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361'>Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/juego-tronos-casa-dragon-estrena-trailer-emitira-mismo-tiempo-senor-anillos-amazon-2694141.jpg' alt='Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon' />
     </a>
 </div>
 
