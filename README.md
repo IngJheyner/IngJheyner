@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771'>Por fin sabemos cómo nos encuentran los mosquitos en verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Por fin sabemos cómo nos encuentran los mosquitos en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-tesla-spacex-ahora-twitter-elon-musk-podria-convertirse-ceo-temporal-app-1056767'>PayPal, Tesla, SpaceX y ahora Twitter: Elon Musk podría convertirse en CEO temporal de la app</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paypal-tesla-spacex-ahora-twitter-elon-musk-podria-convertirse-ceo-temporal-app-1056767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='PayPal, Tesla, SpaceX y ahora Twitter: Elon Musk podría convertirse en CEO temporal de la app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685'>Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/subida-bajada-luz-2436021.jpg' alt='Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629'>5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-ajustes-alcance-cualquiera-mejorar-privacidad-movil-1056629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='5 ajustes al alcance de cualquiera para mejorar la privacidad de tu móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699'>Así suena un agujero negro, y es tal y como lo imaginabas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suena-agujero-negro-tal-como-imaginabas-1056699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/agujero-negro-interestelar.jpg' alt='Así suena un agujero negro, y es tal y como lo imaginabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605'>Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-1056605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/epic-games-xbox-alian-puedas-jugar-gratis-fortnite-iphone-android-donde-quieras-2694399.jpg' alt='Epic Games y Xbox se alían para que puedas jugar gratis a Fortnite en iPhone, Android o donde quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tarifa-portatil-starlink-internet-donde-quieras-pero-pagando-coste-adicional-1056663'>Así es la nueva tarifa portátil de Starlink: internet donde quieras pero pagando un coste adicional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tarifa-portatil-starlink-internet-donde-quieras-pero-pagando-coste-adicional-1056663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Así es la nueva tarifa portátil de Starlink: internet donde quieras pero pagando un coste adicional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677'>Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-decide-pagar-ciertos-usuarios-iphone-4s-evitar-posible-demanda-1056677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/iphone-4s.jpg' alt='Apple decide pagar a ciertos usuarios del iPhone 4S para evitar una posible demanda' />
     </a>
 </div>
 
