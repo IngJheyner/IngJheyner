@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/panificadora-995895'>Guía y consejos para comprar una panificadora para hacer tu propio pan casero</a></h4>
-    <a href='https://computerhoy.com/guia-compra/panificadora-995895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/panificadora-aldi-2074671.jpg' alt='Guía y consejos para comprar una panificadora para hacer tu propio pan casero' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945'>NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-intel-arc-alchemist-economicas-estarian-cerca-ser-presentadas-1056899'>Todo apunta a que las Intel Arc Alchemist económicas estarían cerca de ser presentadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-intel-arc-alchemist-economicas-estarian-cerca-ser-presentadas-1056899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Todo apunta a que las Intel Arc Alchemist económicas estarían cerca de ser presentadas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-ya-realidad-comienza-produccion-muchas-novedades-1056947'>Xiaomi Mi Band 7 ya es una realidad y comienza su producción con muchas novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-ya-realidad-comienza-produccion-muchas-novedades-1056947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Xiaomi Mi Band 7 ya es una realidad y comienza su producción con muchas novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217'>Estos son los móviles con 5G más baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Estos son los móviles con 5G más baratos de Xiaomi' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943'>Android Auto deja de funcionar con una de las apps más populares del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Android Auto deja de funcionar con una de las apps más populares del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-ver-fin-semana-2694991.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927'>Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-tiene-novedades-manos-como-posibilidad-subir-fotos-videos-mismo-tweet-1056927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter tiene novedades entre manos como la posibilidad de subir fotos y vídeos en un mismo tweet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285'>Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-2691533.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/7-series-amantes-cafe-1056941'>7 series que disfrutarán especialmente los amantes del café</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/7-series-amantes-cafe-1056941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-series-disfrutaran-especialmente-amantes-cafe-2695115.jpg' alt='7 series que disfrutarán especialmente los amantes del café' />
     </a>
 </div>
 
