@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-intel-arc-alchemist-economicas-estarian-cerca-ser-presentadas-1056899'>Todo apunta a que las Intel Arc Alchemist económicas estarían cerca de ser presentadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-intel-arc-alchemist-economicas-estarian-cerca-ser-presentadas-1056899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/intel-arc-2557051.jpg' alt='Todo apunta a que las Intel Arc Alchemist económicas estarían cerca de ser presentadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217'>Estos son los móviles con 5G más baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-5g-937217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Estos son los móviles con 5G más baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-ver-fin-semana-2694991.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-estaria-desarrollo-mala-noticia-retrasaria-lanzamiento-esperado-1056881'>El Snapdragon 8 Gen 1+ estaría en desarrollo y la mala noticia es que se retrasaría su lanzamiento más de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-estaria-desarrollo-mala-noticia-retrasaria-lanzamiento-esperado-1056881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El Snapdragon 8 Gen 1+ estaría en desarrollo y la mala noticia es que se retrasaría su lanzamiento más de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-retro-moviles-android-1042809'>Los 9 mejores juegos retro para móviles Android</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-retro-moviles-android-1042809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/9-mejores-juegos-retro-moviles-android-2692633.jpg' alt='Los 9 mejores juegos retro para móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323'>A qué edad salen las muelas del juicio	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/dientes-cepillo.jpg' alt='A qué edad salen las muelas del juicio	' />
     </a>
 </div>
 
