@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-fenomeno-social-trastorno-bunker-1056865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-ver-fin-semana-2694991.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un fenómeno social, un trastorno y un búnker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285'>Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-2691533.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323'>A qué edad salen las muelas del juicio	</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/dientes-cepillo.jpg' alt='A qué edad salen las muelas del juicio	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331'>A qué edad es obligatorio el DNI en España	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='A qué edad es obligatorio el DNI en España	' />
     </a>
 </div>
 
