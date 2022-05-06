@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-llegan-reacciones-whatsapp-archivos-2-gb-grupos-512-personas-1056561'>Por fin llegan las reacciones de WhatsApp: archivos de hasta 2 GB y grupos de 512 personas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-llegan-reacciones-whatsapp-archivos-2-gb-grupos-512-personas-1056561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-reacciones-2694349.jpg' alt='Por fin llegan las reacciones de WhatsApp: archivos de hasta 2 GB y grupos de 512 personas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213'>Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lampara-led-ikea-6-mayo-2022-1055213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/solvinden-lampara-ikea-2691871.jpg' alt='Uno de los gadgets más baratos de IKEA cuesta 3€ y es muy útil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525'>Las 8 mejores tablets con lápiz para dibujar o escribir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-lapiz-dibujar-escribir-849525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207125.jpg' alt='Las 8 mejores tablets con lápiz para dibujar o escribir' />
+    <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-radares-dgt-multan-solo-tener-movil-mano-1056635'>Esta es la ubicación de los radares de la DGT que multan solo por tener el móvil en la mano</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ubicacion-radares-dgt-multan-solo-tener-movil-mano-1056635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Esta es la ubicación de los radares de la DGT que multan solo por tener el móvil en la mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2694343.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-precios-nuevas-graficas-amd-radeon-1056621'>Filtrados los precios de las nuevas gráficas AMD Radeon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-precios-nuevas-graficas-amd-radeon-1056621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amd-radeon-6950-precios-2694409.jpg' alt='Filtrados los precios de las nuevas gráficas AMD Radeon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-5g-baratos-samsung-puedes-comprar-934167'>Mejores móviles 5G baratos de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-5g-baratos-samsung-puedes-comprar-934167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a42s-5g-2476211.jpg' alt='Mejores móviles 5G baratos de Samsung que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/motor/todoterreno-hyundai-parece-sacado-pelicula-star-wars-1056575'>Este es el todoterreno de Hyundai que parece sacado de una película de Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/todoterreno-hyundai-parece-sacado-pelicula-star-wars-1056575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hyundai-todoterreno-2694383.jpg' alt='Este es el todoterreno de Hyundai que parece sacado de una película de Star Wars' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551'>6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-2694341.jpg' alt='6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-google-pixel-7-pro-gracias-funda-modulo-camara-ha-llegado-quedarse-1056589'>Filtrado el diseño del Google Pixel 7 Pro gracias a una funda: el módulo de cámara ha llegado para quedarse</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-diseno-google-pixel-7-pro-gracias-funda-modulo-camara-ha-llegado-quedarse-1056589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-7-pro-2694363.jpg' alt='Filtrado el diseño del Google Pixel 7 Pro gracias a una funda: el módulo de cámara ha llegado para quedarse' />
     </a>
 </div>
 
