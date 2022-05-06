@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551'>6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-2694341.jpg' alt='6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/record-mundo-velocidad-coche-autonomo-video-1056549'>Récord del mundo de velocidad de un coche autónomo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/record-mundo-velocidad-coche-autonomo-video-1056549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/record-mundo-velocidad-coche-autonomo-2694339.jpg' alt='Récord del mundo de velocidad de un coche autónomo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361'>Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/juego-tronos-casa-dragon-estrena-trailer-emitira-mismo-tiempo-senor-anillos-amazon-2694141.jpg' alt='Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355'>El timo de Bizum que está causando estragos en las apps de segunda mano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El timo de Bizum que está causando estragos en las apps de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bascula-inteligente-huawei-scale-3-oferta-1056351'>La báscula inteligente de Huawei mide 11 parámetros de salud corporal, por menos de 20€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bascula-inteligente-huawei-scale-3-oferta-1056351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bascula-inteligente-huawei-mide-11-parametros-salud-corporal-menos-20eu-2694133.jpg' alt='La báscula inteligente de Huawei mide 11 parámetros de salud corporal, por menos de 20€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347'>Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-1056347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/distrito-acb-app-liga-baloncesto-combina-mundo-fisico-virtual-2694127.jpg' alt='Distrito acb: la app de la liga de baloncesto que combina el mundo físico con el virtual' />
     </a>
 </div>
 
