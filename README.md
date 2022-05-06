@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331'>A qué edad es obligatorio el DNI en España	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='A qué edad es obligatorio el DNI en España	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-ataca-dispositivos-windows-traves-usb-1056849'>Este nuevo malware ataca los dispositivos con Windows a través del USB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-ataca-dispositivos-windows-traves-usb-1056849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Este nuevo malware ataca los dispositivos con Windows a través del USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-1056851'>Mismo protagonista pero nueva trama: así ha cambiado Prime Video unas de sus series más longevas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-1056851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-2694847.jpg' alt='Mismo protagonista pero nueva trama: así ha cambiado Prime Video unas de sus series más longevas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-imei-telefono-movil-1056807'>Cómo saber el IMEI de tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-imei-telefono-movil-1056807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-smartphone-2660189.jpg' alt='Cómo saber el IMEI de tu teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873'>Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585293.jpg' alt='Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-mito-telefonos-moviles-ciencia-viene-romper-1056731'>Este es el gran mito sobre los teléfonos móviles que la ciencia viene a romper</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-mito-telefonos-moviles-ciencia-viene-romper-1056731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/movil-mano-2668705.jpg' alt='Este es el gran mito sobre los teléfonos móviles que la ciencia viene a romper' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771'>Por fin sabemos cómo nos encuentran los mosquitos en verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fin-sabemos-como-nos-encuentran-mosquitos-verano-1056771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mosquito-nieve-2651715.jpg' alt='Por fin sabemos cómo nos encuentran los mosquitos en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paypal-tesla-spacex-ahora-twitter-elon-musk-podria-convertirse-ceo-temporal-app-1056767'>PayPal, Tesla, SpaceX y ahora Twitter: Elon Musk podría convertirse en CEO temporal de la app</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paypal-tesla-spacex-ahora-twitter-elon-musk-podria-convertirse-ceo-temporal-app-1056767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-empresas-2685125.jpg' alt='PayPal, Tesla, SpaceX y ahora Twitter: Elon Musk podría convertirse en CEO temporal de la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685'>Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/son-tarifas-indexadas-luz-gas-ocu-advierte-peligro-1056685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/subida-bajada-luz-2436021.jpg' alt='Qué son las tarifas indexadas de luz y gas y por qué la OCU advierte de su peligro' />
     </a>
 </div>
 
