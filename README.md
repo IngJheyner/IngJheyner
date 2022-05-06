@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227'>Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienes-nintendo-switch-estos-son-armarios-necesitas-cajon-anti-playstation-incluido-2690437.jpg' alt='Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971'>Las palabras que hacen que Google Docs se bloquee, si las tecleas 5 veces seguidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Las palabras que hacen que Google Docs se bloquee, si las tecleas 5 veces seguidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967'>Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-semanas-aislados-trabajo-video-2695195.jpg' alt='Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945'>NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-ya-realidad-comienza-produccion-muchas-novedades-1056947'>Xiaomi Mi Band 7 ya es una realidad y comienza su producción con muchas novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-ya-realidad-comienza-produccion-muchas-novedades-1056947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Xiaomi Mi Band 7 ya es una realidad y comienza su producción con muchas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943'>Android Auto deja de funcionar con una de las apps más populares del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-deja-funcionar-apps-populares-mundo-1056943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Android Auto deja de funcionar con una de las apps más populares del mundo' />
     </a>
 </div>
 
