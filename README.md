@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1056553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2694343.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-5g-baratos-samsung-puedes-comprar-934167'>Mejores móviles 5G baratos de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-5g-baratos-samsung-puedes-comprar-934167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-a42s-5g-2476211.jpg' alt='Mejores móviles 5G baratos de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551'>6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces</a></h4>
     <a href='https://computerhoy.com/noticias/life/6-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-1056551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-cosas-desagradables-salchichas-frankfurt-industriales-quiza-no-conoces-2694341.jpg' alt='6 cosas desagradables de las salchichas de Frankfurt industriales que quizá no conoces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361'>Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/casa-del-dragon-hbo-max-trailer-fecha-estreno-1056361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/juego-tronos-casa-dragon-estrena-trailer-emitira-mismo-tiempo-senor-anillos-amazon-2694141.jpg' alt='Juego de Tronos: La Casa del Dragón estrena tráiler, se emitirá al mismo tiempo que El Señor de los Anillos de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-google-microsoft-unen-fuerzas-acabar-contrasenas-1056359'>Apple, Google y Microsoft unen fuerzas para acabar con las contraseñas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-google-microsoft-unen-fuerzas-acabar-contrasenas-1056359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/gestor-contrasenas-2431931.jpg' alt='Apple, Google y Microsoft unen fuerzas para acabar con las contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355'>El timo de Bizum que está causando estragos en las apps de segunda mano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/timo-bizum-causando-estragos-apps-segunda-mano-1056355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El timo de Bizum que está causando estragos en las apps de segunda mano' />
     </a>
 </div>
 
