@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285'>Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-1054285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-disney-netflix-prime-video-fin-mundo-comedia-italiana-familia-addams-2-2691533.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Prime Video: el fin del mundo, una comedia italiana y La familia Addams 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-estaria-desarrollo-mala-noticia-retrasaria-lanzamiento-esperado-1056881'>El Snapdragon 8 Gen 1+ estaría en desarrollo y la mala noticia es que se retrasaría su lanzamiento más de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-1-estaria-desarrollo-mala-noticia-retrasaria-lanzamiento-esperado-1056881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El Snapdragon 8 Gen 1+ estaría en desarrollo y la mala noticia es que se retrasaría su lanzamiento más de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-retro-moviles-android-1042809'>Los 9 mejores juegos retro para móviles Android</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/9-mejores-juegos-retro-moviles-android-1042809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/9-mejores-juegos-retro-moviles-android-2692633.jpg' alt='Los 9 mejores juegos retro para móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323'>A qué edad salen las muelas del juicio	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-salen-muelas-juicio-1056323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/dientes-cepillo.jpg' alt='A qué edad salen las muelas del juicio	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331'>A qué edad es obligatorio el DNI en España	</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-obligatorio-dni-espana-1056331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg' alt='A qué edad es obligatorio el DNI en España	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-ataca-dispositivos-windows-traves-usb-1056849'>Este nuevo malware ataca los dispositivos con Windows a través del USB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-ataca-dispositivos-windows-traves-usb-1056849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Este nuevo malware ataca los dispositivos con Windows a través del USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-1056851'>Mismo protagonista pero nueva trama: así ha cambiado Prime Video unas de sus series más longevas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-1056851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mismo-protagonista-pero-nueva-trama-ha-cambiado-prime-video-unas-series-longevas-2694847.jpg' alt='Mismo protagonista pero nueva trama: así ha cambiado Prime Video unas de sus series más longevas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-imei-telefono-movil-1056807'>Cómo saber el IMEI de tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-imei-telefono-movil-1056807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-smartphone-2660189.jpg' alt='Cómo saber el IMEI de tu teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873'>Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-smartwatch-hemos-probado-huawei-hoy-cuesta-menos-200-euros-1055873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585293.jpg' alt='Uno de los mejores smartwatch que hemos probado es de Huawei y hoy cuesta menos de 200 euros' />
     </a>
 </div>
 
