@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867'>7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-2691517.jpg' alt='7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247'>Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/circular-bicicleta-2695635.jpg' alt='Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961'>Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pocketbook-inkpad-color-2693097.jpg' alt='Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-xbox-aplicacion-television-microsoft-estan-cerca-estrenarse-consisten-1057233'>El “Chromecast de Xbox” y la aplicación de televisión de Microsoft están cerca de estrenarse, y en esto consisten </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-xbox-aplicacion-television-microsoft-estan-cerca-estrenarse-consisten-1057233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-cloud-gaming-2695619.jpg' alt='El “Chromecast de Xbox” y la aplicación de televisión de Microsoft están cerca de estrenarse, y en esto consisten ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005'>¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923'>Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youin-you-go-m-2421305.jpg' alt='Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h' />
     </a>
 </div>
 
