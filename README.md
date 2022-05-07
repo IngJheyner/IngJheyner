@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216011.jpg' alt='Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shine-mini-turbina-portartil-cargar-movil-viento-video-1057199'>Shine, la mini turbina portártil para cargar el móvil con el viento, que puedes llevar en la mochila (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shine-mini-turbina-portartil-cargar-movil-viento-video-1057199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shine-turbina-portartil-cargar-movil-viento-puedes-llevar-mochila-2695435.jpg' alt='Shine, la mini turbina portártil para cargar el móvil con el viento, que puedes llevar en la mochila (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061'>Nunca había tenido tanto sentido comprar un móvil del año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='Nunca había tenido tanto sentido comprar un móvil del año pasado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/base-refrigeradora-portatil-1042719'>Consejos y guía para elegir la mejor base refrigeradora para tu portátil</a></h4>
     <a href='https://computerhoy.com/guia-compra/base-refrigeradora-portatil-1042719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/base-refrigeracion-2670987.jpg' alt='Consejos y guía para elegir la mejor base refrigeradora para tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227'>Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienes-nintendo-switch-estos-son-armarios-necesitas-cajon-anti-playstation-incluido-2690437.jpg' alt='Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971'>Las palabras que hacen que Google Docs se bloquee, si las escribes 5 veces seguidas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Las palabras que hacen que Google Docs se bloquee, si las escribes 5 veces seguidas' />
     </a>
 </div>
 
