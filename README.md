@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961'>Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pocketbook-inkpad-color-2693097.jpg' alt='Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pizzeria-propia-casa-probamos-horno-inteligente-pizzas-sage-smart-oven-pizzaiolo-1055563'>¿Una pizzería en tu propia casa? Probamos el horno inteligente para pizzas Sage Smart Oven Pizzaiolo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pizzeria-propia-casa-probamos-horno-inteligente-pizzas-sage-smart-oven-pizzaiolo-1055563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sage-smart-oven-pizzaiolo-2694545.jpg' alt='¿Una pizzería en tu propia casa? Probamos el horno inteligente para pizzas Sage Smart Oven Pizzaiolo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-xbox-aplicacion-television-microsoft-estan-cerca-estrenarse-consisten-1057233'>El “Chromecast de Xbox” y la aplicación de televisión de Microsoft están cerca de estrenarse, y en esto consisten </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-xbox-aplicacion-television-microsoft-estan-cerca-estrenarse-consisten-1057233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-cloud-gaming-2695619.jpg' alt='El “Chromecast de Xbox” y la aplicación de televisión de Microsoft están cerca de estrenarse, y en esto consisten ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005'>¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923'>Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youin-you-go-m-2421305.jpg' alt='Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn95a-65-review-opinion-1054587'>Samsung Neo QLED QN95A de 65”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn95a-65-review-opinion-1054587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-neo-qled-qn95a-analisis-opinion-2693015.jpg' alt='Samsung Neo QLED QN95A de 65”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-extensiones-sacar-maximo-partido-whatsapp-web-1051591'>Las mejores extensiones para sacar el máximo partido a WhatsApp Web</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-extensiones-sacar-maximo-partido-whatsapp-web-1051591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/whatsapp-web-2225125.jpg' alt='Las mejores extensiones para sacar el máximo partido a WhatsApp Web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Estas son las siete mejores tablets Android que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665639.jpg' alt='Estas son las siete mejores tablets Android que puedes comprar ahora mismo' />
     </a>
 </div>
 
