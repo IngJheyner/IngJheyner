@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-devolver-vida-pizza-fria-noche-anterior-1057291'>El truco infalible para devolver a la vida la pizza fría de la noche anterior</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-infalible-devolver-vida-pizza-fria-noche-anterior-1057291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pizza-sobrante-2695715.jpg' alt='El truco infalible para devolver a la vida la pizza fría de la noche anterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821'>Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/poco-x3-nfc-analisis-opinion-2080023.jpg' alt='Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257'>Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2695655.jpg' alt='Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255'>El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207129.jpg' alt='El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros' />
     </a>
 </div>
 
