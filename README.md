@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/10-cosas-haces-mal-bano-1057197'>10 cosas que hacemos mal en el baño, que te van a sorprender</a></h4>
+    <a href='https://computerhoy.com/noticias/life/10-cosas-haces-mal-bano-1057197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-cosas-haces-mal-bano-te-van-sorprender-2695431.jpg' alt='10 cosas que hacemos mal en el baño, que te van a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/base-refrigeradora-portatil-1042719'>Consejos y guía para elegir la mejor base refrigeradora para tu portátil</a></h4>
+    <a href='https://computerhoy.com/guia-compra/base-refrigeradora-portatil-1042719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/base-refrigeracion-2670987.jpg' alt='Consejos y guía para elegir la mejor base refrigeradora para tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227'>Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/armarios-nintendo-switch-1054227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienes-nintendo-switch-estos-son-armarios-necesitas-cajon-anti-playstation-incluido-2690437.jpg' alt='Si tienes una Nintendo Switch estos son los armarios que necesitas, con cajón anti-PlayStation incluido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967'>Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-semanas-aislados-trabajo-video-2695195.jpg' alt='Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957'>Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ipad-10-pulgadas-descuento-1056957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Los iPad rara vez bajan de precio, así que merece la pena aprovechar el descuento de este iPad de 10,2 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945'>NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-paga-multa-millonaria-ocultar-informacion-acerca-venta-graficas-mineros-1056945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='NVIDIA paga una multa millonaria por ocultar información acerca de la venta de gráficas a mineros' />
     </a>
 </div>
 
