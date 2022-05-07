@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257'>Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2695655.jpg' alt='Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255'>El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207129.jpg' alt='El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247'>Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/circular-bicicleta-2695635.jpg' alt='Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961'>Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lector-ebooks-pantalla-color-ideal-todos-pero-especialmente-te-gustan-comics-1055961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pocketbook-inkpad-color-2693097.jpg' alt='Este lector de ebooks con pantalla a color es ideal para todos, pero especialmente si te gustan los cómics' />
     </a>
 </div>
 
