@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821'>Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/poco-x3-nfc-analisis-opinion-2080023.jpg' alt='Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887'>Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espectacular-mapa-muestra-mejor-serie-television-cada-pais-mundo-2692953.jpg' alt='Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259'>El truco infalible para pasar la prueba de humos de la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tratamiento-diesel-preitv-1249eu-2650995.jpg' alt='El truco infalible para pasar la prueba de humos de la ITV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255'>El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ipad-convierte-mejor-alternativa-ordenadores-portatiles-gracias-oferta-solo-599-euros-1057255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-ipad-air-4-2020-analisis-opinion-2207129.jpg' alt='El iPad se convierte en la mejor alternativa a los ordenadores portátiles y más gracias a esta oferta a solo 599 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-leer-mensaje-whatsapp-nadie-entere-ni-tocar-movil-1057251'>El truco para leer un mensaje de WhatsApp sin que nadie se entere ni tocar el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-leer-mensaje-whatsapp-nadie-entere-ni-tocar-movil-1057251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2576855.jpg' alt='El truco para leer un mensaje de WhatsApp sin que nadie se entere ni tocar el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867'>7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-2691517.jpg' alt='7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver' />
     </a>
 </div>
 
