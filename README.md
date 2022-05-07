@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/barkley-marathons-160-kilometros-1054291'>Barkley Marathons, la ultramaratón de 160 Kilómetros que nadie ha terminado en los últimos 5 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/barkley-marathons-160-kilometros-1054291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barkley-marathons-2690545.jpg' alt='Barkley Marathons, la ultramaratón de 160 Kilómetros que nadie ha terminado en los últimos 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-dos-routers-mesh-tendras-wifi-potente-toda-casa-oferta-solo-99-euros-1057301'>Con estos dos routers Mesh tendrás el WiFi más potente en toda la casa y en oferta a solo 99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-dos-routers-mesh-tendras-wifi-potente-toda-casa-oferta-solo-99-euros-1057301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-wifi-mesh-2-pack-2695731.jpg' alt='Con estos dos routers Mesh tendrás el WiFi más potente en toda la casa y en oferta a solo 99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887'>Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espectacular-mapa-muestra-mejor-serie-television-cada-pais-mundo-2692953.jpg' alt='Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259'>El truco infalible para pasar la prueba de humos de la ITV</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tratamiento-diesel-preitv-1249eu-2650995.jpg' alt='El truco infalible para pasar la prueba de humos de la ITV' />
     </a>
 </div>
 
