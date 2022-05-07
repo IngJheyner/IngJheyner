@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259'>El truco infalible para pasar la prueba de humos de la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-infalible-pasar-prueba-humos-itv-1057259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tratamiento-diesel-preitv-1249eu-2650995.jpg' alt='El truco infalible para pasar la prueba de humos de la ITV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257'>Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ahora-ya-sabras-siempre-ver-netflix-prime-video-gracias-estos-minijuegos-1057257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2695655.jpg' alt='Ahora ya sabrás siempre lo que ver en Netflix y Prime Video gracias a estos minijuegos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867'>7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-1054867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-nunca-llegaron-rodarse-pesar-ser-muy-prometedoras-todos-deseamos-ver-2691517.jpg' alt='7 películas que nunca llegaron a rodarse a pesar de ser muy prometedoras, y que todos deseamos ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247'>Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/3-nuevas-normas-dgt-ciclistas-deben-cumplir-quieren-evitar-multas-1057247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/circular-bicicleta-2695635.jpg' alt='Las 3 nuevas normas de la DGT que los ciclistas deben cumplir si quieren evitar multas' />
     </a>
 </div>
 
