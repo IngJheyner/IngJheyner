@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061'>Nunca había tenido tanto sentido comprar un móvil del año pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='Nunca había tenido tanto sentido comprar un móvil del año pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/10-cosas-haces-mal-bano-1057197'>10 cosas que hacemos mal en el baño, que te van a sorprender</a></h4>
     <a href='https://computerhoy.com/noticias/life/10-cosas-haces-mal-bano-1057197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-cosas-haces-mal-bano-te-van-sorprender-2695431.jpg' alt='10 cosas que hacemos mal en el baño, que te van a sorprender' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971'>Las palabras que hacen que Google Docs se bloquee, si las tecleas 5 veces seguidas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971'>Las palabras que hacen que Google Docs se bloquee, si las escribes 5 veces seguidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bug-google-docs-palabra-5-veces-seguidas-1056971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Las palabras que hacen que Google Docs se bloquee, si las tecleas 5 veces seguidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967'>Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-1056967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-trabajadores-fabrica-macbook-apple-rompen-barreras-anti-covid-semanas-aislados-trabajo-video-2695195.jpg' alt='Cientos de trabajadores de una fábrica de MacBook de Apple rompen las barreras anti-COVID, tras semanas aislados en el trabajo (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Las palabras que hacen que Google Docs se bloquee, si las escribes 5 veces seguidas' />
     </a>
 </div>
 
