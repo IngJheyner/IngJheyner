@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005'>¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-hacer-cuando-android-auto-no-conecta-coche-1056005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='¿Qué puedes hacer cuando Android Auto no se conecta con tu coche? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923'>Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patinete-electrico-barato-cuesta-apenas-250-euros-llega-25-km-h-1055923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youin-you-go-m-2421305.jpg' alt='Este patinete eléctrico sí que es barato: cuesta apenas 250 euros y llega a 25 km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn95a-65-review-opinion-1054587'>Samsung Neo QLED QN95A de 65”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn95a-65-review-opinion-1054587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-neo-qled-qn95a-analisis-opinion-2693015.jpg' alt='Samsung Neo QLED QN95A de 65”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-extensiones-sacar-maximo-partido-whatsapp-web-1051591'>Las mejores extensiones para sacar el máximo partido a WhatsApp Web</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-extensiones-sacar-maximo-partido-whatsapp-web-1051591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/whatsapp-web-2225125.jpg' alt='Las mejores extensiones para sacar el máximo partido a WhatsApp Web' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Estas son las siete mejores tablets Android que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/huawei-matepad-pro-126-analisis-opinion-2665639.jpg' alt='Estas son las siete mejores tablets Android que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/galeria-s21-ultra-2216011.jpg' alt='Los mejores móviles Samsung que puedes comprar en 2022 según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shine-mini-turbina-portartil-cargar-movil-viento-video-1057199'>Shine, la mini turbina portártil para cargar el móvil con el viento, que puedes llevar en la mochila (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shine-mini-turbina-portartil-cargar-movil-viento-video-1057199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shine-turbina-portartil-cargar-movil-viento-puedes-llevar-mochila-2695435.jpg' alt='Shine, la mini turbina portártil para cargar el móvil con el viento, que puedes llevar en la mochila (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061'>Nunca había tenido tanto sentido comprar un móvil del año pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nunca-habia-tenido-tanto-sentido-comprar-movil-ano-pasado-1051061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/impresiones-poco-f3-2294171.jpg' alt='Nunca había tenido tanto sentido comprar un móvil del año pasado' />
     </a>
 </div>
 
