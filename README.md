@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/12-skills-divertidos-alexa-siempre-te-sacaran-sonrisa-1054185'>Los 12 skills más divertidos de Alexa que siempre te sacarán una sonrisa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/12-skills-divertidos-alexa-siempre-te-sacaran-sonrisa-1054185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='Los 12 skills más divertidos de Alexa que siempre te sacarán una sonrisa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/ordenador-all-one-1053265'>Consejos y guía para comprar un ordenador All In One en 2022 y no volverse loco</a></h4>
     <a href='https://computerhoy.com/guia-compra/ordenador-all-one-1053265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/imac-2689087.jpg' alt='Consejos y guía para comprar un ordenador All In One en 2022 y no volverse loco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-infalible-devolver-vida-pizza-fria-noche-anterior-1057291'>El truco infalible para devolver a la vida la pizza fría de la noche anterior</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-infalible-devolver-vida-pizza-fria-noche-anterior-1057291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pizza-sobrante-2695715.jpg' alt='El truco infalible para devolver a la vida la pizza fría de la noche anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821'>Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/poco-x3-nfc-analisis-opinion-2080023.jpg' alt='Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato' />
     </a>
 </div>
 
