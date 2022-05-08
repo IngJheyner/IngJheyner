@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609'>Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375'>Guía para comprar una freidora de aire con función horno y cesto giratorio</a></h4>
     <a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2621797.jpg' alt='Guía para comprar una freidora de aire con función horno y cesto giratorio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563'>Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg' alt='Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553'>Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C' />
     </a>
 </div>
 
