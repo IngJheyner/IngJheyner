@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613'>Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609'>Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571'>Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg' alt='Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563'>Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg' alt='Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros' />
     </a>
 </div>
 
