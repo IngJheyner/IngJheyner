@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595'>Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ncuti-gatwa-nuevo-doctor-mitica-serie-doctor-who-2696129.jpg' alt='Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571'>Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg' alt='Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557'>7 películas y series para viajar a mundos alternativos, raros y psicodélicos</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alicia-pais-maravillas-2692535.jpg' alt='7 películas y series para viajar a mundos alternativos, raros y psicodélicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543'>Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/heartstopper-2696023.jpg' alt='Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix' />
     </a>
 </div>
 
