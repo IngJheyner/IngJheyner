@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149'>Los mejores trucos de YouTube para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2694859.jpg' alt='Los mejores trucos de YouTube para sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/denuncia-resenas-falsas-amazon-1057619'>Casi 350.000 personas escribían reseñas falsas de productos en las tres webs que Amazon ha conseguido cerrar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/denuncia-resenas-falsas-amazon-1057619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/almacenes-amazon-2436533.jpg' alt='Casi 350.000 personas escribían reseñas falsas de productos en las tres webs que Amazon ha conseguido cerrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615'>Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-securitas-empresas-alarmas-liquidacion-alarmas-conectadas-ring-2696153.jpg' alt='Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609'>Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375'>Guía para comprar una freidora de aire con función horno y cesto giratorio</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2621797.jpg' alt='Guía para comprar una freidora de aire con función horno y cesto giratorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595'>Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ncuti-gatwa-nuevo-doctor-mitica-serie-doctor-who-2696129.jpg' alt='Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who' />
     </a>
 </div>
 
