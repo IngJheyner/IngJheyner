@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375'>Guía para comprar una freidora de aire con función horno y cesto giratorio</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-aire-horno-cesto-giratorio-1015375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-2621797.jpg' alt='Guía para comprar una freidora de aire con función horno y cesto giratorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595'>Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ncuti-gatwa-nuevo-doctor-mitica-serie-doctor-who-2696129.jpg' alt='Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553'>Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557'>7 películas y series para viajar a mundos alternativos, raros y psicodélicos</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alicia-pais-maravillas-2692535.jpg' alt='7 películas y series para viajar a mundos alternativos, raros y psicodélicos' />
     </a>
 </div>
 
