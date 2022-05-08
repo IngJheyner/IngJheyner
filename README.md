@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543'>Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/heartstopper-2696023.jpg' alt='Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681'>Xiaomi 12, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967'>Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plc-tp-link-tl-wpa8631p-2693103.jpg' alt='Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431'>Cómo cambiar las opciones por defecto de la cámara de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Cómo cambiar las opciones por defecto de la cámara de WhatsApp' />
     </a>
 </div>
 
