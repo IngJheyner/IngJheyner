@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ordenador-all-one-1053265'>Consejos y guía para comprar un ordenador All In One en 2022 y no volverse loco</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ordenador-all-one-1053265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/imac-2689087.jpg' alt='Consejos y guía para comprar un ordenador All In One en 2022 y no volverse loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/barkley-marathons-160-kilometros-1054291'>Barkley Marathons, la ultramaratón de 160 Kilómetros que nadie ha terminado en los últimos 5 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/barkley-marathons-160-kilometros-1054291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barkley-marathons-2690545.jpg' alt='Barkley Marathons, la ultramaratón de 160 Kilómetros que nadie ha terminado en los últimos 5 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821'>Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/telefonos-xiaomi-baratos-200-euros-680821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/poco-x3-nfc-analisis-opinion-2080023.jpg' alt='Estos teléfonos Xiaomi cuestan menos de 200 euros y son perfectos si buscas un móvil barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887'>Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mapa-mejor-serie-television-cada-pais-mundo-1055887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espectacular-mapa-muestra-mejor-serie-television-cada-pais-mundo-2692953.jpg' alt='Este espectacular mapa muestra la mejor serie de televisión de cada país del mundo' />
     </a>
 </div>
 
