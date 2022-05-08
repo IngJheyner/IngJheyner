@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615'>Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-securitas-empresas-alarmas-liquidacion-alarmas-conectadas-ring-2696153.jpg' alt='Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613'>Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595'>Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ncuti-gatwa-nuevo-doctor-who-1057595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ncuti-gatwa-nuevo-doctor-mitica-serie-doctor-who-2696129.jpg' alt='Ncuti Gatwa es el nuevo Doctor de la mítica serie Doctor Who' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571'>Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-estan-recibiendo-alertas-airtags-fantasma-nadie-sabe-puede-ser-1057571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg' alt='Usuarios están recibiendo alertas de "AirTags fantasma" y nadie sabe lo que puede ser' />
     </a>
 </div>
 
