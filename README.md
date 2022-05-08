@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563'>Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-echo-buds-hacen-perfectos-buen-tiempo-ahora-descuento-solo-89-euros-1057563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg' alt='Los auriculares inalámbricos Echo Buds se hacen perfectos para el buen tiempo y ahora con un descuento a solo 89 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553'>Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-centrando-miradas-ahora-coches-etiqueta-c-1057553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Por qué la DGT está centrando sus miradas ahora sobre los coches con etiqueta C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557'>7 películas y series para viajar a mundos alternativos, raros y psicodélicos</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-viajar-mundos-alternativos-raros-psicodelicos-1055557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alicia-pais-maravillas-2692535.jpg' alt='7 películas y series para viajar a mundos alternativos, raros y psicodélicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543'>Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mezcla-ted-lasso-euphoria-nueva-serie-arrasa-netflix-1057543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/heartstopper-2696023.jpg' alt='Una mezcla de Ted Lasso y Euphoria: así es la nueva serie que arrasa en Netflix' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681'>Xiaomi 12, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-carplay-tambien-son-victimas-crisis-semiconductores-te-afecta-1057535'>Android Auto y CarPlay también son víctimas de la crisis de los semiconductores y así te afecta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-carplay-tambien-son-victimas-crisis-semiconductores-te-afecta-1057535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Android Auto y CarPlay también son víctimas de la crisis de los semiconductores y así te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/brainjacking-1046111'>¿Qué es Brainjacking?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/brainjacking-1046111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694765.jpg' alt='¿Qué es Brainjacking?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967'>Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plc-tp-link-tl-wpa8631p-2693103.jpg' alt='Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado' />
     </a>
 </div>
 
