@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719'>Sony WH-1000XM4, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695163.jpg' alt='Sony WH-1000XM4, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-plazos-vodafone-lowi-yoigo-dudas-alternativas-1055397'>Móviles a plazos: Vodafone, Lowi, Yoigo y más ¿merecen la pena? Todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-plazos-vodafone-lowi-yoigo-dudas-alternativas-1055397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663749.jpg' alt='Móviles a plazos: Vodafone, Lowi, Yoigo y más ¿merecen la pena? Todo lo que debes saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/no-juguete-empresa-juguetera-crea-pequeno-vehiculo-explorar-superficie-luna-1057295'>Esto no es un juguete: una empresa juguetera crea un pequeño vehículo para explorar la superficie de la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-juguete-empresa-juguetera-crea-pequeno-vehiculo-explorar-superficie-luna-1057295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sora-q-2695721.jpg' alt='Esto no es un juguete: una empresa juguetera crea un pequeño vehículo para explorar la superficie de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/proyector-2694963.jpg' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
     </a>
 </div>
 
