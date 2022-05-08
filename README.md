@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967'>Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plc-tp-link-tl-wpa8631p-2693103.jpg' alt='Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431'>Cómo cambiar las opciones por defecto de la cámara de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Cómo cambiar las opciones por defecto de la cámara de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719'>Sony WH-1000XM4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695163.jpg' alt='Sony WH-1000XM4, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/test-velocidad-internet-speed-test-1053023'>Cómo interpretar correctamente los resultados de un test de velocidad o speed test y cuáles son los más fiables</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/test-velocidad-internet-speed-test-1053023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-interpretar-correctamente-resultados-test-velocidad-speed-test-cuales-son-fiables-2688635.jpg' alt='Cómo interpretar correctamente los resultados de un test de velocidad o speed test y cuáles son los más fiables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chef-robot-puede-probar-incluso-propia-comida-1057297'>Este chef robot puede probar incluso hasta su propia comida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chef-robot-puede-probar-incluso-propia-comida-1057297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chef-robot-puede-probar-incluso-propia-comida-2695725.jpg' alt='Este chef robot puede probar incluso hasta su propia comida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-juguete-empresa-juguetera-crea-pequeno-vehiculo-explorar-superficie-luna-1057295'>Esto no es un juguete: una empresa juguetera crea un pequeño vehículo para explorar la superficie de la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-juguete-empresa-juguetera-crea-pequeno-vehiculo-explorar-superficie-luna-1057295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sora-q-2695721.jpg' alt='Esto no es un juguete: una empresa juguetera crea un pequeño vehículo para explorar la superficie de la Luna' />
     </a>
 </div>
 
