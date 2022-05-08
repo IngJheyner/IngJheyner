@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681'>Xiaomi 12, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-12-review-opinion-1056681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 12, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-carplay-tambien-son-victimas-crisis-semiconductores-te-afecta-1057535'>Android Auto y CarPlay también son víctimas de la crisis de los semiconductores y así te afecta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-carplay-tambien-son-victimas-crisis-semiconductores-te-afecta-1057535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Android Auto y CarPlay también son víctimas de la crisis de los semiconductores y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/brainjacking-1046111'>¿Qué es Brainjacking?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/brainjacking-1046111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694765.jpg' alt='¿Qué es Brainjacking?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967'>Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cable-red-no-llega-habitacion-estos-plc-llevaran-internet-maxima-velocidad-precio-muy-rebajado-1055967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plc-tp-link-tl-wpa8631p-2693103.jpg' alt='Si tu cable de red no llega a la habitación, estos PLC llevarán Internet a máxima velocidad y a precio muy rebajado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431'>Cómo cambiar las opciones por defecto de la cámara de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-opciones-defecto-camara-whatsapp-1055431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Cómo cambiar las opciones por defecto de la cámara de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719'>Sony WH-1000XM4, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-wh-1000xm4-review-opinion-1056719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695163.jpg' alt='Sony WH-1000XM4, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-plazos-vodafone-lowi-yoigo-dudas-alternativas-1055397'>Móviles a plazos: Vodafone, Lowi, Yoigo y más ¿merecen la pena? Todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/movil-plazos-vodafone-lowi-yoigo-dudas-alternativas-1055397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663749.jpg' alt='Móviles a plazos: Vodafone, Lowi, Yoigo y más ¿merecen la pena? Todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/test-velocidad-internet-speed-test-1053023'>Cómo interpretar correctamente los resultados de un test de velocidad o speed test y cuáles son los más fiables</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/test-velocidad-internet-speed-test-1053023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-interpretar-correctamente-resultados-test-velocidad-speed-test-cuales-son-fiables-2688635.jpg' alt='Cómo interpretar correctamente los resultados de un test de velocidad o speed test y cuáles son los más fiables' />
     </a>
 </div>
 
