@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-ha-anunciado-planes-twitter-quintuplicar-beneficios-2028-1057787'>Elon Musk ya ha anunciado sus planes para Twitter: quintuplicar sus beneficios para 2028</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-ya-ha-anunciado-planes-twitter-quintuplicar-beneficios-2028-1057787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-convierte-accionista-mayoritario-twitter-compra-92-casi-3000-millones-dolares-2664905.jpg' alt='Elon Musk ya ha anunciado sus planes para Twitter: quintuplicar sus beneficios para 2028' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803'>La gran alternativa a las baterías de Litio ya está lista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='La gran alternativa a las baterías de Litio ya está lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pon-electricidad-solar-caravana-kit-paneles-listos-instalar-1055963'>Pon electricidad solar en tu caravana con este kit de paneles listos para instalar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pon-electricidad-solar-caravana-kit-paneles-listos-instalar-1055963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/caravana-paneles-solares-2693099.jpg' alt='Pon electricidad solar en tu caravana con este kit de paneles listos para instalar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-horizontal-conceptpix-interesante-diseno-red-flag-acompana-1057843'>El ratón horizontal ConceptPix: su interesante diseño y la red flag que le acompaña</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/raton-horizontal-conceptpix-interesante-diseno-red-flag-acompana-1057843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/raton-2696455.jpg' alt='El ratón horizontal ConceptPix: su interesante diseño y la red flag que le acompaña' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2696291.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f15s-oferta-9-mayo-2022-1057815'>Barato y potente: este portátil con Windows 11 tiene un precio rompedor ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f15s-oferta-9-mayo-2022-1057815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teclast-f15s-2180603.jpg' alt='Barato y potente: este portátil con Windows 11 tiene un precio rompedor ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/salon-smart-tv-frente-2696147.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809'>Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-nuevos-portatiles-escritorio-2696375.jpg' alt='Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149'>Los mejores trucos de YouTube para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2694859.jpg' alt='Los mejores trucos de YouTube para sacarle el máximo partido' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-limpia-cielo-funciona-amoniaco-volara-proximo-ano-1057793'>El avión que limpia el cielo funciona con amoniaco y volará este próximo año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avion-limpia-cielo-funciona-amoniaco-volara-proximo-ano-1057793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/avion-aire-2423499.jpg' alt='El avión que limpia el cielo funciona con amoniaco y volará este próximo año' />
     </a>
 </div>
 
