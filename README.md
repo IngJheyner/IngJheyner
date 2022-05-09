@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175'>Las mejores webs para aprender inglés gratis en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aprender-ingles-2139227.jpg' alt='Las mejores webs para aprender inglés gratis en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tdt-parece-perder-batalla-4k-mediaset-adopta-estandar-dvb-i-fusiona-tdt-iptv-1058063'>La TDT parece perder la batalla 4K, Mediaset adopta el estándar DVB-I que fusiona TDT e IPTV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tdt-parece-perder-batalla-4k-mediaset-adopta-estandar-dvb-i-fusiona-tdt-iptv-1058063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_2.jpg' alt='La TDT parece perder la batalla 4K, Mediaset adopta el estándar DVB-I que fusiona TDT e IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119'>¿Qué significa que un producto sea reacondicionado?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reacondicionado-2588957.jpg' alt='¿Qué significa que un producto sea reacondicionado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097'>AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811'>Las mejores aplicaciones para crear música desde tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-aplicaciones-crear-musica-telefono-android-2692651.jpg' alt='Las mejores aplicaciones para crear música desde tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ayuda-millonaria-binance-elon-musk-podria-degenerar-cripto-twitter-1057925'>La ayuda millonaria de Binance a Elon Musk podría degenerar en un cripto Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ayuda-millonaria-binance-elon-musk-podria-degenerar-cripto-twitter-1057925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='La ayuda millonaria de Binance a Elon Musk podría degenerar en un cripto Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-1058049'>ZTE Axon 40 Pro y Axon 40 Ultra: así son las nueva bestias con 144 Hz y hasta 1 TB de memoria</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-1058049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-2696863.jpg' alt='ZTE Axon 40 Pro y Axon 40 Ultra: así son las nueva bestias con 144 Hz y hasta 1 TB de memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-1058003'>China sigue poniendo trabas al mundo de Internet, ahora es el turno de los streamers y los menores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-1058003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-2696777.jpg' alt='China sigue poniendo trabas al mundo de Internet, ahora es el turno de los streamers y los menores' />
     </a>
 </div>
 
