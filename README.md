@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gobierno-medita-bajar-velocidad-maxima-autovia-100-km-h-junto-otras-propuestas-1058171'>El Gobierno medita bajar la velocidad máxima en autovía a 100 km/h junto a otras propuestas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gobierno-medita-bajar-velocidad-maxima-autovia-100-km-h-junto-otras-propuestas-1058171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/autopistas-2697099.jpg' alt='El Gobierno medita bajar la velocidad máxima en autovía a 100 km/h junto a otras propuestas' />
+    <h4><a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847'>La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/diferentes-tipos-panes-encima-mesa-2696499.jpg' alt='La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-pagos-app-android-ios-1045015'>Cómo desactivar los pagos in-app en Android en iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-pagos-app-android-ios-1045015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjetas-credito-2674775.jpg' alt='Cómo desactivar los pagos in-app en Android en iOS' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-summit-ms321up-review-opinion-1057799'>MSI Summit MS321UP, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/msi-summit-ms321up-review-opinion-1057799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-msi-summit-ms321up-2697189.jpg' alt='MSI Summit MS321UP, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-nuevo-deseado-modo-companion-whatsapp-1058099'>Qué es y cómo funciona el nuevo y deseado Modo Companion de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-nuevo-deseado-modo-companion-whatsapp-1058099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='Qué es y cómo funciona el nuevo y deseado Modo Companion de WhatsApp' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919'>Cómo evitar que tu información y datos personales salgan en las búsquedas de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Cómo evitar que tu información y datos personales salgan en las búsquedas de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-tienes-cumplir-conducir-patinete-vmp-1057893'>Estos son los requisitos que tienes que cumplir para conducir un patinete o VMP</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-tienes-cumplir-conducir-patinete-vmp-1057893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-apetece-coger-patinete-xiaomi-mi-electric-scooter-3-oferta-2626785.jpg' alt='Estos son los requisitos que tienes que cumplir para conducir un patinete o VMP' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113'>El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081'>Varias versiones de Xiaomi Mi Band se quedan sin soporte oficial y actualizaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Varias versiones de Xiaomi Mi Band se quedan sin soporte oficial y actualizaciones' />
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-producto-estrella-lidl-ya-no-thermomix-barata-todo-mundo-quiere-1058179'>El nuevo producto estrella de Lidl ya no es su Thermomix barata y todo el mundo lo quiere</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-producto-estrella-lidl-ya-no-thermomix-barata-todo-mundo-quiere-1058179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minihuerto-lidl-2697131.jpg' alt='El nuevo producto estrella de Lidl ya no es su Thermomix barata y todo el mundo lo quiere' />
     </a>
 </div>
 
