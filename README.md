@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sharp-aquos-r7-nuevo-movil-top-camara-1-pulgada-2000-nits-brillo-pantalla-snapdragon-8-gen-1-minijack-1057873'>Sharp AQUOS R7 es un nuevo móvil top: cámara 1 pulgada, 2.000 nits de brillo en pantalla, Snapdragon 8 Gen 1 y minijack</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sharp-aquos-r7-nuevo-movil-top-camara-1-pulgada-2000-nits-brillo-pantalla-snapdragon-8-gen-1-minijack-1057873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sharp-aquos-r7-2696507.jpg' alt='Sharp AQUOS R7 es un nuevo móvil top: cámara 1 pulgada, 2.000 nits de brillo en pantalla, Snapdragon 8 Gen 1 y minijack' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835'>El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803'>La gran alternativa a las baterías de Litio ya está lista</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='La gran alternativa a las baterías de Litio ya está lista' />
+    <h4><a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935'>Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ana-armas-rodaje-blonde-pelicula-biopic-marilyn-monroe-netflix-2428617.jpg' alt='Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raton-horizontal-conceptpix-interesante-diseno-red-flag-acompana-1057843'>El ratón horizontal ConceptPix: su interesante diseño y la red flag que le acompaña</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raton-horizontal-conceptpix-interesante-diseno-red-flag-acompana-1057843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/raton-2696455.jpg' alt='El ratón horizontal ConceptPix: su interesante diseño y la red flag que le acompaña' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-plegable-motorola-nuevas-imagenes-razr-3-gran-pantalla-externa-1057829'>Así será la nueva generación del plegable de Motorola, nuevas imágenes del Razr 3 con una gran pantalla externa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-plegable-motorola-nuevas-imagenes-razr-3-gran-pantalla-externa-1057829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-razr-3-2696401.jpg' alt='Así será la nueva generación del plegable de Motorola, nuevas imágenes del Razr 3 con una gran pantalla externa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f15s-oferta-9-mayo-2022-1057815'>Barato y potente: este portátil con Windows 11 tiene un precio rompedor ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f15s-oferta-9-mayo-2022-1057815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/teclast-f15s-2180603.jpg' alt='Barato y potente: este portátil con Windows 11 tiene un precio rompedor ahora mismo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/discos-duros-pc-windows-empiezan-letra-c-1057907'>Por qué los discos duros de un PC con Windows empiezan por la letra C</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/discos-duros-pc-windows-empiezan-letra-c-1057907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Por qué los discos duros de un PC con Windows empiezan por la letra C' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809'>Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-nuevos-portatiles-escritorio-2696375.jpg' alt='Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios' />
+    <h4><a href='https://computerhoy.com/noticias/motor/trucos-no-funcionan-pasar-control-drogas-carretera-dgt-1057849'>Los trucos no funcionan para pasar un control de drogas en carretera, según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/trucos-no-funcionan-pasar-control-drogas-carretera-dgt-1057849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/dgt-1847285.jpg' alt='Los trucos no funcionan para pasar un control de drogas en carretera, según la DGT' />
     </a>
 </div>
 
