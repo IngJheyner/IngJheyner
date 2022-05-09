@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/altura-vuelan-aviones-1057977'>A qué altura vuelan los aviones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/altura-vuelan-aviones-1057977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='A qué altura vuelan los aviones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/raspberri-pi-otorga-compatibilidad-android-auto-apple-carplay-tesla-1058015'>Una Raspberri Pi otorga compatibilidad Android Auto y Apple CarPlay a los Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/raspberri-pi-otorga-compatibilidad-android-auto-apple-carplay-tesla-1058015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-carplay-2201921.jpg' alt='Una Raspberri Pi otorga compatibilidad Android Auto y Apple CarPlay a los Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-precio-chollo-consume-solo-1-kw-todo-verano-1058011'>El ventilador inteligente de Xiaomi, a precio de chollo: consume solo 1 kW todo el verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-precio-chollo-consume-solo-1-kw-todo-verano-1058011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El ventilador inteligente de Xiaomi, a precio de chollo: consume solo 1 kW todo el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/virus-magneticos-teledirigidos-arma-definitiva-prueba-ciencia-tumores-1057943'>Virus magnéticos teledirigidos, el arma definitiva que prueba la ciencia contra los tumores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/virus-magneticos-teledirigidos-arma-definitiva-prueba-ciencia-tumores-1057943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/virus-magneticos-teledirigidos-arma-definitiva-prueba-ciencia-tumores-2696665.jpg' alt='Virus magnéticos teledirigidos, el arma definitiva que prueba la ciencia contra los tumores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonido-magia-ha-llegado-netflix-intencion-repetir-exito-juego-calamar-1057975'>El sonido de la magia ha llegado a Netflix con la intención de repetir el éxito de El juego del calamar</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sonido-magia-ha-llegado-netflix-intencion-repetir-exito-juego-calamar-1057975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sonido-magia-2696757.jpg' alt='El sonido de la magia ha llegado a Netflix con la intención de repetir el éxito de El juego del calamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-soldados-salven-vidas-combate-1057911'>Gafas de realidad aumentada para que los soldados salven vidas en combate </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-soldados-salven-vidas-combate-1057911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gafas-realidad-aumentada-soldados-salven-vidas-combate-2696603.jpg' alt='Gafas de realidad aumentada para que los soldados salven vidas en combate ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-tenemos-fecha-todas-series-marvel-estaban-netflix-aterricen-disney-1057983'>Ya tenemos fecha para que todas las series de Marvel que estaban en Netflix aterricen en Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-tenemos-fecha-todas-series-marvel-estaban-netflix-aterricen-disney-1057983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-6-series-superheroes-marvel-desaparecen-netflix-febrero-2618681.jpg' alt='Ya tenemos fecha para que todas las series de Marvel que estaban en Netflix aterricen en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853'>Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/nintendo-hacker-1858395.jpg' alt='Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909'>Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario.jpg' alt='Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!' />
     </a>
 </div>
 
