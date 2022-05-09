@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-hemos-visto-trailer-love-death-and-robots-volume-3-lleno-animales-asesinos-1058195'>Ya hemos visto el tráiler de Love, Death and Robots Volume 3 y está lleno de animales asesinos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-hemos-visto-trailer-love-death-and-robots-volume-3-lleno-animales-asesinos-1058195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/kBjyYQHJYsMVbHxWV0T.jpg' alt='Ya hemos visto el tráiler de Love, Death and Robots Volume 3 y está lleno de animales asesinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-quiere-competir-apple-ya-prepara-propuesta-airtag-1058127'>Huawei quiere competir con Apple y ya prepara su propuesta a los AirTag</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-quiere-competir-apple-ya-prepara-propuesta-airtag-1058127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Huawei quiere competir con Apple y ya prepara su propuesta a los AirTag' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919'>Cómo evitar que tu información y datos personales salgan en las búsquedas de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Cómo evitar que tu información y datos personales salgan en las búsquedas de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113'>El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado' />
     </a>
 </div>
 
