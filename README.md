@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pon-electricidad-solar-caravana-kit-paneles-listos-instalar-1055963'>Pon electricidad solar en tu caravana con este kit de paneles listos para instalar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pon-electricidad-solar-caravana-kit-paneles-listos-instalar-1055963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/caravana-paneles-solares-2693099.jpg' alt='Pon electricidad solar en tu caravana con este kit de paneles listos para instalar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2696291.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/denuncia-resenas-falsas-amazon-1057619'>Casi 350.000 personas escribían reseñas falsas de productos en las tres webs que Amazon ha conseguido cerrar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/denuncia-resenas-falsas-amazon-1057619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/almacenes-amazon-2436533.jpg' alt='Casi 350.000 personas escribían reseñas falsas de productos en las tres webs que Amazon ha conseguido cerrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615'>Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-securitas-empresas-alarmas-liquidacion-alarmas-conectadas-ring-2696153.jpg' alt='Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring' />
     </a>
 </div>
 
