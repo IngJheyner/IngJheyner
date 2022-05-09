@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081'>Varias versiones de Xioami Mi Band se quedan sin soporte oficial y actualizaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Varias versiones de Xioami Mi Band se quedan sin soporte oficial y actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/bicicleta-electrica-plegable-lidl-alternativas-baratas-1057773'>Bicicleta eléctrica plegable de Lidl: características, precio y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/bicicleta-electrica-plegable-lidl-alternativas-baratas-1057773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zundapp-z101-2696311.jpg' alt='Bicicleta eléctrica plegable de Lidl: características, precio y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175'>Las mejores webs para aprender inglés gratis en 2022</a></h4>
     <a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aprender-ingles-2139227.jpg' alt='Las mejores webs para aprender inglés gratis en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119'>¿Qué significa que un producto sea reacondicionado?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reacondicionado-2588957.jpg' alt='¿Qué significa que un producto sea reacondicionado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097'>AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811'>Las mejores aplicaciones para crear música desde tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-aplicaciones-crear-musica-telefono-android-2692651.jpg' alt='Las mejores aplicaciones para crear música desde tu teléfono Android' />
     </a>
 </div>
 
