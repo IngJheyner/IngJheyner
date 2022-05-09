@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1057763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2696291.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/salon-smart-tv-frente-2696147.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149'>Los mejores trucos de YouTube para sacarle el máximo partido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-trucos-youtube-sacarle-maximo-partido-1049149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2694859.jpg' alt='Los mejores trucos de YouTube para sacarle el máximo partido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615'>Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-alarmas-ring-oferta-1057615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-securitas-empresas-alarmas-liquidacion-alarmas-conectadas-ring-2696153.jpg' alt='Amazon, a por Securitas y las empresas de alarmas: liquidación en sus alarmas conectadas Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613'>Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/xbox-ha-caido-dos-veces-fin-semana-jugar-modo-offline-1057613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Xbox se ha caído dos veces durante horas este fin de semana, y muchos usuarios se han frustrado por no poder jugar ni en modo offline' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609'>Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarjetas-graficas-intel-arc-retraso-julio-agosto-1057609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las tarjetas gráficas Intel ARC parece que se retrasan de nuevo hasta julio o agosto, este es el motivo' />
     </a>
 </div>
 
