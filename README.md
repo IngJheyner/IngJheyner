@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853'>Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/nintendo-hacker-1858395.jpg' alt='Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909'>Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario.jpg' alt='Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/centrifugadora-gigante-spinlaunch-disparara-satelites-espacio-velocidades-7000-km-h-necesidad-cohetes-1057957'>La centrifugadora gigante SpinLaunch disparará satélites al espacio a velocidades de hasta 7.000 km/h sin necesidad de cohetes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/centrifugadora-gigante-spinlaunch-disparara-satelites-espacio-velocidades-7000-km-h-necesidad-cohetes-1057957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/centrifugadora-spin-launch-2696663.jpg' alt='La centrifugadora gigante SpinLaunch disparará satélites al espacio a velocidades de hasta 7.000 km/h sin necesidad de cohetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835'>El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935'>Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ana-armas-rodaje-blonde-pelicula-biopic-marilyn-monroe-netflix-2428617.jpg' alt='Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-plegable-motorola-nuevas-imagenes-razr-3-gran-pantalla-externa-1057829'>Así será la nueva generación del plegable de Motorola, nuevas imágenes del Razr 3 con una gran pantalla externa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-plegable-motorola-nuevas-imagenes-razr-3-gran-pantalla-externa-1057829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-razr-3-2696401.jpg' alt='Así será la nueva generación del plegable de Motorola, nuevas imágenes del Razr 3 con una gran pantalla externa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/discos-duros-pc-windows-empiezan-letra-c-1057907'>Por qué los discos duros de un PC con Windows empiezan por la letra C</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/discos-duros-pc-windows-empiezan-letra-c-1057907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Por qué los discos duros de un PC con Windows empiezan por la letra C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/trucos-no-funcionan-pasar-control-drogas-carretera-dgt-1057849'>Los trucos no funcionan para pasar un control de drogas en carretera, según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/trucos-no-funcionan-pasar-control-drogas-carretera-dgt-1057849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/dgt-1847285.jpg' alt='Los trucos no funcionan para pasar un control de drogas en carretera, según la DGT' />
     </a>
 </div>
 
