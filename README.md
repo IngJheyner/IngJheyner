@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-quiere-competir-apple-ya-prepara-propuesta-airtag-1058127'>Huawei quiere competir con Apple y ya prepara su propuesta a los AirTag</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-quiere-competir-apple-ya-prepara-propuesta-airtag-1058127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Huawei quiere competir con Apple y ya prepara su propuesta a los AirTag' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847'>La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/diferentes-tipos-panes-encima-mesa-2696499.jpg' alt='La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113'>El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-ahora-tendra-historial-no-pierdas-has-consultado-1058113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='El traductor de Google ahora tendrá historial para que no pierdas lo que has consultado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-producto-estrella-lidl-ya-no-thermomix-barata-todo-mundo-quiere-1058179'>El nuevo producto estrella de Lidl ya no es su Thermomix barata y todo el mundo lo quiere</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-producto-estrella-lidl-ya-no-thermomix-barata-todo-mundo-quiere-1058179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minihuerto-lidl-2697131.jpg' alt='El nuevo producto estrella de Lidl ya no es su Thermomix barata y todo el mundo lo quiere' />
     </a>
 </div>
 
