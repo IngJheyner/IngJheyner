@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097'>AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-podria-conseguir-nuevos-procesadores-grafica-integrada-tan-potente-como-gpu-nvidia-1058097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='AMD podría conseguir con sus nuevos procesadores una gráfica integrada tan potente como una GPU NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811'>Las mejores aplicaciones para crear música desde tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-crear-musica-telefono-android-1042811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-aplicaciones-crear-musica-telefono-android-2692651.jpg' alt='Las mejores aplicaciones para crear música desde tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ayuda-millonaria-binance-elon-musk-podria-degenerar-cripto-twitter-1057925'>La ayuda millonaria de Binance a Elon Musk podría degenerar en un cripto Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ayuda-millonaria-binance-elon-musk-podria-degenerar-cripto-twitter-1057925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='La ayuda millonaria de Binance a Elon Musk podría degenerar en un cripto Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-1058049'>ZTE Axon 40 Pro y Axon 40 Ultra: así son las nueva bestias con 144 Hz y hasta 1 TB de memoria</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-1058049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zte-axon-40-pro-axon-40-ultra-son-nueva-bestias-144-hz-1-tb-memoria-2696863.jpg' alt='ZTE Axon 40 Pro y Axon 40 Ultra: así son las nueva bestias con 144 Hz y hasta 1 TB de memoria' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-1058003'>China sigue poniendo trabas al mundo de Internet, ahora es el turno de los streamers y los menores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-1058003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-2696777.jpg' alt='China sigue poniendo trabas al mundo de Internet, ahora es el turno de los streamers y los menores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/altura-vuelan-aviones-1057977'>A qué altura vuelan los aviones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/altura-vuelan-aviones-1057977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/avion-united-airlanes-2551507.jpg' alt='A qué altura vuelan los aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/raspberri-pi-otorga-compatibilidad-android-auto-apple-carplay-tesla-1058015'>Una Raspberri Pi otorga compatibilidad Android Auto y Apple CarPlay a los Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/raspberri-pi-otorga-compatibilidad-android-auto-apple-carplay-tesla-1058015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-carplay-2201921.jpg' alt='Una Raspberri Pi otorga compatibilidad Android Auto y Apple CarPlay a los Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-precio-chollo-consume-solo-1-kw-todo-verano-1058011'>El ventilador inteligente de Xiaomi, a precio de chollo: consume solo 1 kW todo el verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-precio-chollo-consume-solo-1-kw-todo-verano-1058011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El ventilador inteligente de Xiaomi, a precio de chollo: consume solo 1 kW todo el verano' />
     </a>
 </div>
 
