@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081'>Varias versiones de Xioami Mi Band se quedan sin soporte oficial y actualizaciones</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/gobierno-medita-bajar-velocidad-maxima-autovia-100-km-h-junto-otras-propuestas-1058171'>El Gobierno medita bajar la velocidad máxima en autovía a 100 km/h junto a otras propuestas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gobierno-medita-bajar-velocidad-maxima-autovia-100-km-h-junto-otras-propuestas-1058171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/autopistas-2697099.jpg' alt='El Gobierno medita bajar la velocidad máxima en autovía a 100 km/h junto a otras propuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-pagos-app-android-ios-1045015'>Cómo desactivar los pagos in-app en Android en iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-desactivar-pagos-app-android-ios-1045015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjetas-credito-2674775.jpg' alt='Cómo desactivar los pagos in-app en Android en iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-nuevo-deseado-modo-companion-whatsapp-1058099'>Qué es y cómo funciona el nuevo y deseado Modo Companion de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-nuevo-deseado-modo-companion-whatsapp-1058099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='Qué es y cómo funciona el nuevo y deseado Modo Companion de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-tienes-cumplir-conducir-patinete-vmp-1057893'>Estos son los requisitos que tienes que cumplir para conducir un patinete o VMP</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-requisitos-tienes-cumplir-conducir-patinete-vmp-1057893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llega-buen-tiempo-apetece-coger-patinete-xiaomi-mi-electric-scooter-3-oferta-2626785.jpg' alt='Estos son los requisitos que tienes que cumplir para conducir un patinete o VMP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081'>Varias versiones de Xiaomi Mi Band se quedan sin soporte oficial y actualizaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/varias-versiones-xioami-mi-band-quedan-soporte-oficial-actualizaciones-1058081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Varias versiones de Xioami Mi Band se quedan sin soporte oficial y actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/bicicleta-electrica-plegable-lidl-alternativas-baratas-1057773'>Bicicleta eléctrica plegable de Lidl: características, precio y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/bicicleta-electrica-plegable-lidl-alternativas-baratas-1057773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/zundapp-z101-2696311.jpg' alt='Bicicleta eléctrica plegable de Lidl: características, precio y alternativas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175'>Las mejores webs para aprender inglés gratis en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/internet/mejores-webs-aprender-ingles-gratis-12175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aprender-ingles-2139227.jpg' alt='Las mejores webs para aprender inglés gratis en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tdt-parece-perder-batalla-4k-mediaset-adopta-estandar-dvb-i-fusiona-tdt-iptv-1058063'>La TDT parece perder la batalla 4K, Mediaset adopta el estándar DVB-I que fusiona TDT e IPTV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tdt-parece-perder-batalla-4k-mediaset-adopta-estandar-dvb-i-fusiona-tdt-iptv-1058063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_2.jpg' alt='La TDT parece perder la batalla 4K, Mediaset adopta el estándar DVB-I que fusiona TDT e IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119'>¿Qué significa que un producto sea reacondicionado?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-producto-sea-reacondicionado-1058119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/reacondicionado-2588957.jpg' alt='¿Qué significa que un producto sea reacondicionado?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Varias versiones de Xiaomi Mi Band se quedan sin soporte oficial y actualizaciones' />
     </a>
 </div>
 
