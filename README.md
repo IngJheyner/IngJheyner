@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonido-magia-ha-llegado-netflix-intencion-repetir-exito-juego-calamar-1057975'>El sonido de la magia ha llegado a Netflix con la intención de repetir el éxito de El juego del calamar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sonido-magia-ha-llegado-netflix-intencion-repetir-exito-juego-calamar-1057975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sonido-magia-2696757.jpg' alt='El sonido de la magia ha llegado a Netflix con la intención de repetir el éxito de El juego del calamar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-soldados-salven-vidas-combate-1057911'>Gafas de realidad aumentada para que los soldados salven vidas en combate </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-soldados-salven-vidas-combate-1057911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gafas-realidad-aumentada-soldados-salven-vidas-combate-2696603.jpg' alt='Gafas de realidad aumentada para que los soldados salven vidas en combate ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ya-tenemos-fecha-todas-series-marvel-estaban-netflix-aterricen-disney-1057983'>Ya tenemos fecha para que todas las series de Marvel que estaban en Netflix aterricen en Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-tenemos-fecha-todas-series-marvel-estaban-netflix-aterricen-disney-1057983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/estas-son-6-series-superheroes-marvel-desaparecen-netflix-febrero-2618681.jpg' alt='Ya tenemos fecha para que todas las series de Marvel que estaban en Netflix aterricen en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853'>Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-te-informara-contrasenas-guardadas-aparecen-alguna-filtracion-te-permite-cambiarlas-directamente-1057853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/nintendo-hacker-1858395.jpg' alt='Google Chrome te informará si tus contraseñas guardadas aparecen en alguna filtración y te permite cambiarlas directamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909'>Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!</a></h4>
     <a href='https://computerhoy.com/noticias/life/dos-palabras-espanol-significados-tienen-diccionario-rae-64-significados-propios-371-acepciones-complejas-1057909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario.jpg' alt='Las dos palabras en español que más significados tienen en el diccionario de la RAE: ¡64 significados propios y 371 acepciones complejas!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/centrifugadora-gigante-spinlaunch-disparara-satelites-espacio-velocidades-7000-km-h-necesidad-cohetes-1057957'>La centrifugadora gigante SpinLaunch disparará satélites al espacio a velocidades de hasta 7.000 km/h sin necesidad de cohetes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/centrifugadora-gigante-spinlaunch-disparara-satelites-espacio-velocidades-7000-km-h-necesidad-cohetes-1057957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/centrifugadora-spin-launch-2696663.jpg' alt='La centrifugadora gigante SpinLaunch disparará satélites al espacio a velocidades de hasta 7.000 km/h sin necesidad de cohetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835'>El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-9-mayo-2022-1057835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='El móvil con Snapdragon 870 más barato ahora lo es aún más: tiene más de 100 euros de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935'>Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/documental-netflix-desvela-nueva-teoria-muertes-misteriosas-historia-1057935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ana-armas-rodaje-blonde-pelicula-biopic-marilyn-monroe-netflix-2428617.jpg' alt='Un documental de Netflix desvela una nueva teoría sobre una de las muertes más misteriosas de la historia' />
     </a>
 </div>
 
