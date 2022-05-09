@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sharp-aquos-r7-nuevo-movil-top-camara-1-pulgada-2000-nits-brillo-pantalla-snapdragon-8-gen-1-minijack-1057873'>Sharp AQUOS R7 es un nuevo móvil top: cámara 1 pulgada, 2.000 nits de brillo en pantalla, Snapdragon 8 Gen 1 y minijack</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sharp-aquos-r7-nuevo-movil-top-camara-1-pulgada-2000-nits-brillo-pantalla-snapdragon-8-gen-1-minijack-1057873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sharp-aquos-r7-2696507.jpg' alt='Sharp AQUOS R7 es un nuevo móvil top: cámara 1 pulgada, 2.000 nits de brillo en pantalla, Snapdragon 8 Gen 1 y minijack' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803'>La gran alternativa a las baterías de Litio ya está lista</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-alternativa-baterias-litio-ya-lista-1057803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bateria-coche-electrico-2508243.jpg' alt='La gran alternativa a las baterías de Litio ya está lista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809'>Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-portatiles-lenovo-yoga-slim-yoga-7-sobremesa-yoga-aio-7-opciones-todos-usuarios-1057809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-nuevos-portatiles-escritorio-2696375.jpg' alt='Nuevos portátiles Lenovo Yoga Slim, Yoga 7 y el sobremesa Yoga AIO 7: opciones para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-limpia-cielo-funciona-amoniaco-volara-proximo-ano-1057793'>El avión que limpia el cielo funciona con amoniaco y volará este próximo año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avion-limpia-cielo-funciona-amoniaco-volara-proximo-ano-1057793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/avion-aire-2423499.jpg' alt='El avión que limpia el cielo funciona con amoniaco y volará este próximo año' />
     </a>
 </div>
 
