@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931'>Los auriculares podrían producirte sordera a medio plazo si los usas mal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares podrían producirte sordera a medio plazo si los usas mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-desmonta-grandes-mitos-no-dar-positivo-control-alcoholemia-1058807'>La DGT desmonta uno de los grandes mitos para no dar positivo en un control de alcoholemia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-desmonta-grandes-mitos-no-dar-positivo-control-alcoholemia-1058807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/prueba-alcoholemia-2698357.jpg' alt='La DGT desmonta uno de los grandes mitos para no dar positivo en un control de alcoholemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-citas-utilizadas-mundo-podria-desaparecer-android-1058803'>Una de las apps de citas más utilizadas del mundo podría desaparecer de Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-citas-utilizadas-mundo-podria-desaparecer-android-1058803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tinder-app-2658855.jpg' alt='Una de las apps de citas más utilizadas del mundo podría desaparecer de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipod-dice-adios-forma-definitiva-apple-anuncia-no-fabricara-unidades-1058793'>El iPod dice adiós de forma definitiva: Apple anuncia que no fabricará más unidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipod-dice-adios-forma-definitiva-apple-anuncia-no-fabricara-unidades-1058793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-dice-adios-forma-definitiva-apple-anuncia-no-fabricara-unidades-2698355.jpg' alt='El iPod dice adiós de forma definitiva: Apple anuncia que no fabricará más unidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/cuantos-fallos-puedes-tener-aprobar-carne-conducir-1057901'>Cuántos fallos puedes tener para aprobar el carné de conducir</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuantos-fallos-puedes-tener-aprobar-carne-conducir-1057901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/autoescuela-examen-conducir_1.jpg' alt='Cuántos fallos puedes tener para aprobar el carné de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479'>3 formas de mejorar la resolución y definición de una imagen completamente gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='3 formas de mejorar la resolución y definición de una imagen completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-robot-limpiacristales-1057969'>Robot limpiacristales: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-robot-limpiacristales-1057969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/robot-limpiacristales-cecotec-2697037.jpg' alt='Robot limpiacristales: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447'>Cómo guardar una página web a PDF para verla cuando no tienes conexión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pdf-2448229.jpg' alt='Cómo guardar una página web a PDF para verla cuando no tienes conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755'>El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año' />
     </a>
 </div>
 
