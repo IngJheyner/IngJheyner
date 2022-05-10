@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551'>El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-2697665.jpg' alt='El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483'>El truco viral de una madre para evitar que los muebles se llenen de polvo </a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/producto-limpieza-2362547.jpg' alt='El truco viral de una madre para evitar que los muebles se llenen de polvo ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513'>Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541'>Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/google-io-.jpg' alt='Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles' />
     </a>
 </div>
 
