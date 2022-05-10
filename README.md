@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/exito-genshin-impact-como-juego-gratuito-moviles-3000-millones-dolares-generados-lanzamiento-1057961'>Genshin Impact o cómo generar 3.000 millones de dólares generados desde su lanzamiento siendo juego free-to-play</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/gaming/exito-genshin-impact-como-juego-gratuito-moviles-3000-millones-dolares-generados-lanzamiento-1057961'>Genshin Impact o cómo generar 3.000 millones de dólares desde su lanzamiento siendo juego free-to-play</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/exito-genshin-impact-como-juego-gratuito-moviles-3000-millones-dolares-generados-lanzamiento-1057961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/valla-publicitaria-3d-genshin-impact-crea-aglomeraciones-china-no-te-pierdas-video-2487371.jpg' alt='Genshin Impact o cómo generar 3.000 millones de dólares generados desde su lanzamiento siendo juego free-to-play' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/valla-publicitaria-3d-genshin-impact-crea-aglomeraciones-china-no-te-pierdas-video-2487371.jpg' alt='Genshin Impact o cómo generar 3.000 millones de dólares desde su lanzamiento siendo juego free-to-play' />
     </a>
 </div>
 
