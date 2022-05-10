@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuantos-fallos-puedes-tener-aprobar-carne-conducir-1057901'>Cuántos fallos puedes tener para aprobar el carné de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuantos-fallos-puedes-tener-aprobar-carne-conducir-1057901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/autoescuela-examen-conducir_1.jpg' alt='Cuántos fallos puedes tener para aprobar el carné de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479'>3 formas de mejorar la resolución y definición de una imagen completamente gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='3 formas de mejorar la resolución y definición de una imagen completamente gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755'>El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mando-distancia-apuntando-tv-2416121.jpg' alt='Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
     </a>
 </div>
 
