@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739'>A qué hora es más barata la gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='A qué hora es más barata la gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579'>7 juegos a los que jugar en Google Chrome cuando te quedas sin internet</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='7 juegos a los que jugar en Google Chrome cuando te quedas sin internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegaria-otono-cambio-radical-diseno-muchas-novedades-1058727'>Los AirPods Pro 2 llegaría este otoño con un cambio radical de diseño y muchas novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegaria-otono-cambio-radical-diseno-muchas-novedades-1058727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-pro-2526215.jpg' alt='Los AirPods Pro 2 llegaría este otoño con un cambio radical de diseño y muchas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-establecer-mensajes-autodestruibles-varias-conversaciones-mismo-tiempo-1058729'>WhatsApp estaría trabajando para establecer los mensajes autodestruíbles en varias conversaciones al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-establecer-mensajes-autodestruibles-varias-conversaciones-mismo-tiempo-1058729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-autoeliminacion-simultanea-2698133.jpg' alt='WhatsApp estaría trabajando para establecer los mensajes autodestruíbles en varias conversaciones al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629'>Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/obesidad-motivo-puede-causar-cansancio-fatiga-cronico.jpg' alt='Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695'>AVM presenta sus nuevos repetidores WiFi inteligentes y routers de fibra óptica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-fritz-2698053.jpg' alt='AVM presenta sus nuevos repetidores WiFi inteligentes y routers de fibra óptica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671'>Estas son las novedades OLED que LG Display va a presentar en el SID 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-2697989.jpg' alt='Estas son las novedades OLED que LG Display va a presentar en el SID 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-tarjetas-graficas-gaming-amd-oficial-rx-6950-xt-rx-6750-xt-rx-6650-xt-1058585'>La nueva generación de tarjetas gráficas gaming de AMD es oficial: RX 6950 XT, RX 6750 XT y RX 6650 XT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-tarjetas-graficas-gaming-amd-oficial-rx-6950-xt-rx-6750-xt-rx-6650-xt-1058585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='La nueva generación de tarjetas gráficas gaming de AMD es oficial: RX 6950 XT, RX 6750 XT y RX 6650 XT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527'>Para qué sirve el ibuprofeno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/medicamentos-volante-2405271.jpg' alt='Para qué sirve el ibuprofeno' />
     </a>
 </div>
 
