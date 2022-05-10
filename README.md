@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447'>Cómo guardar una página web a PDF para verla cuando no tienes conexión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pdf-2448229.jpg' alt='Cómo guardar una página web a PDF para verla cuando no tienes conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755'>El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plan-netflix-anuncios-medidas-anti-cuentas-compartidas-podrian-llegar-finales-ano-1058755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='El plan de Netflix con anuncios y las medidas anti cuentas compartidas podrían llegar para finales de este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mando-distancia-apuntando-tv-2416121.jpg' alt='Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739'>A qué hora es más barata la gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='A qué hora es más barata la gasolina' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579'>7 juegos a los que jugar en Google Chrome cuando te quedas sin internet</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='7 juegos a los que jugar en Google Chrome cuando te quedas sin internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegaria-otono-cambio-radical-diseno-muchas-novedades-1058727'>Los AirPods Pro 2 llegaría este otoño con un cambio radical de diseño y muchas novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegaria-otono-cambio-radical-diseno-muchas-novedades-1058727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-pro-2526215.jpg' alt='Los AirPods Pro 2 llegaría este otoño con un cambio radical de diseño y muchas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-establecer-mensajes-autodestruibles-varias-conversaciones-mismo-tiempo-1058729'>WhatsApp estaría trabajando para establecer los mensajes autodestruíbles en varias conversaciones al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-trabajando-establecer-mensajes-autodestruibles-varias-conversaciones-mismo-tiempo-1058729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-autoeliminacion-simultanea-2698133.jpg' alt='WhatsApp estaría trabajando para establecer los mensajes autodestruíbles en varias conversaciones al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629'>Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/obesidad-motivo-puede-causar-cansancio-fatiga-cronico.jpg' alt='Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago' />
     </a>
 </div>
 
