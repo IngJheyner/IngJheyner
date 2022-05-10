@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-graba-4k-1058829'>DJI Mini 3 Pro: así es el nuevo dron de DJI que pesa solo 249 gramos y graba a 4K</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-graba-4k-1058829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-capaz-esquivar-cualquier-obstaculo-2698431.jpg' alt='DJI Mini 3 Pro: así es el nuevo dron de DJI que pesa solo 249 gramos y graba a 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crosscall-completa-gama-productos-core-presentacion-core-x5-core-t5-1058823'>CrossCall completa su gama de productos Core con la presentación de los Core X5 y Core T5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crosscall-completa-gama-productos-core-presentacion-core-x5-core-t5-1058823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/core-x5-core-t5-2698413.jpg' alt='CrossCall completa su gama de productos Core con la presentación de los Core X5 y Core T5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931'>Los auriculares podrían producirte sordera a medio plazo si los usas mal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares podrían producirte sordera a medio plazo si los usas mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-desmonta-grandes-mitos-no-dar-positivo-control-alcoholemia-1058807'>La DGT desmonta uno de los grandes mitos para no dar positivo en un control de alcoholemia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-desmonta-grandes-mitos-no-dar-positivo-control-alcoholemia-1058807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/prueba-alcoholemia-2698357.jpg' alt='La DGT desmonta uno de los grandes mitos para no dar positivo en un control de alcoholemia' />
     </a>
 </div>
 
