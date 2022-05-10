@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629'>Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-farmaco-adelgazar-resultados-similares-reduccion-estomago-1058629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/obesidad-motivo-puede-causar-cansancio-fatiga-cronico.jpg' alt='Crean un fármaco para adelgazar con resultados similares al de una reducción de estómago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695'>AVM presenta sus nuevos repetidores WiFi inteligentes y routers de fibra óptica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-fritz-2698053.jpg' alt='AVM presenta sus nuevos repetidores WiFi inteligentes y routers de fibra óptica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671'>Estas son las novedades OLED que LG Display va a presentar en el SID 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-2697989.jpg' alt='Estas son las novedades OLED que LG Display va a presentar en el SID 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527'>Para qué sirve el ibuprofeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/medicamentos-volante-2405271.jpg' alt='Para qué sirve el ibuprofeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-bizum-sospechar-vendedor-antes-hacer-pago-1058673'>Consejos de Bizum para sospechar de un vendedor antes de hacer el pago</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejos-bizum-sospechar-vendedor-antes-hacer-pago-1058673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bizum-2492947.jpg' alt='Consejos de Bizum para sospechar de un vendedor antes de hacer el pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695'>La marca de routers Fritz presenta sus nuevos routers de fibra óptica: además también repetidores Wi-Fi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-fritz-2698053.jpg' alt='La marca de routers Fritz presenta sus nuevos routers de fibra óptica: además también repetidores Wi-Fi' />
     </a>
 </div>
 
