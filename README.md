@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479'>3 formas de mejorar la resolución y definición de una imagen completamente gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/3-formas-mejorar-resolucion-definicion-imagen-completamente-gratis-1058479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/edicion-video-2256415.jpg' alt='3 formas de mejorar la resolución y definición de una imagen completamente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-robot-limpiacristales-1057969'>Robot limpiacristales: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-robot-limpiacristales-1057969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/robot-limpiacristales-cecotec-2697037.jpg' alt='Robot limpiacristales: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447'>Cómo guardar una página web a PDF para verla cuando no tienes conexión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-guardar-pagina-web-pdf-verla-cuando-no-tienes-conexion-1058447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pdf-2448229.jpg' alt='Cómo guardar una página web a PDF para verla cuando no tienes conexión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085'>Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/programacion-tv-mejores-apps-guia-television-tdt-movistar-vodafone-tv-862085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mando-distancia-apuntando-tv-2416121.jpg' alt='Programación TV en 2022: las mejores apps de guía de televisión para TDT, Movistar+, Vodafone TV y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739'>A qué hora es más barata la gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hora-barata-gasolina-1058739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='A qué hora es más barata la gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579'>7 juegos a los que jugar en Google Chrome cuando te quedas sin internet</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-jugar-google-chrome-cuando-te-quedas-internet-1058579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='7 juegos a los que jugar en Google Chrome cuando te quedas sin internet' />
     </a>
 </div>
 
