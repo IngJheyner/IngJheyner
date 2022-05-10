@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513'>Microsoft recomienda desinstalar está actualización, está causando muchos problemas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Microsoft recomienda desinstalar está actualización, está causando muchos problemas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541'>Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/google-io-.jpg' alt='Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-integrar-nft-misma-semana-facebook-sera-siguiente-1058529'>Instagram empezará a integrar los NFT esta misma semana: Facebook será la siguiente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-integrar-nft-misma-semana-facebook-sera-siguiente-1058529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-nft-2697561.jpg' alt='Instagram empezará a integrar los NFT esta misma semana: Facebook será la siguiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465'>Este es el primer TikTok que se sube desde la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-tiktok-sube-estacion-espacial-internacional-2697487.jpg' alt='Este es el primer TikTok que se sube desde la Estación Espacial Internacional' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511'>Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wall-2697535.jpg' alt='Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mesh-system-ax3000-oferta-9-mayo-2022-1057859'>Sube tu WiFi al futuro con este router Xiaomi que hemos probado y recomendamos ¡y en oferta!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mesh-system-ax3000-oferta-9-mayo-2022-1057859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg' alt='Sube tu WiFi al futuro con este router Xiaomi que hemos probado y recomendamos ¡y en oferta!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentadas-nuevas-lineas-zenbook-vivobook-parte-asus-gran-variedad-modelos-elegir-1058485'>Presentadas las nuevas líneas Zenbook y Vivobook por parte de ASUS: gran variedad de modelos a elegir</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/presentadas-nuevas-lineas-zenbook-vivobook-parte-asus-gran-variedad-modelos-elegir-1058485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pinnacle-performance-asus-2697509.jpg' alt='Presentadas las nuevas líneas Zenbook y Vivobook por parte de ASUS: gran variedad de modelos a elegir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
     </a>
 </div>
 
