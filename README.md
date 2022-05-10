@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465'>Este es el primer TikTok que se sube desde la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-tiktok-sube-estacion-espacial-internacional-2697487.jpg' alt='Este es el primer TikTok que se sube desde la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511'>Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wall-2697535.jpg' alt='Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mesh-system-ax3000-oferta-9-mayo-2022-1057859'>Sube tu WiFi al futuro con este router Xiaomi que hemos probado y recomendamos ¡y en oferta!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mesh-system-ax3000-oferta-9-mayo-2022-1057859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg' alt='Sube tu WiFi al futuro con este router Xiaomi que hemos probado y recomendamos ¡y en oferta!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentadas-nuevas-lineas-zenbook-vivobook-parte-asus-gran-variedad-modelos-elegir-1058485'>Presentadas las nuevas líneas Zenbook y Vivobook por parte de ASUS: gran variedad de modelos a elegir</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/presentadas-nuevas-lineas-zenbook-vivobook-parte-asus-gran-variedad-modelos-elegir-1058485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pinnacle-performance-asus-2697509.jpg' alt='Presentadas las nuevas líneas Zenbook y Vivobook por parte de ASUS: gran variedad de modelos a elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-fecha-estreno-cuarta-temporada-westworld-1058421'>Ya tenemos fecha de estreno para la cuarta temporada de WestWorld</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-tenemos-fecha-estreno-cuarta-temporada-westworld-1058421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/westworld-4a-temporada-2697425.jpg' alt='Ya tenemos fecha de estreno para la cuarta temporada de WestWorld' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/exito-genshin-impact-como-juego-gratuito-moviles-3000-millones-dolares-generados-lanzamiento-1057961'>Genshin Impact o cómo generar 3.000 millones de dólares desde su lanzamiento siendo juego free-to-play</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/exito-genshin-impact-como-juego-gratuito-moviles-3000-millones-dolares-generados-lanzamiento-1057961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/valla-publicitaria-3d-genshin-impact-crea-aglomeraciones-china-no-te-pierdas-video-2487371.jpg' alt='Genshin Impact o cómo generar 3.000 millones de dólares desde su lanzamiento siendo juego free-to-play' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/rimac-nevera-mejor-deportivo-electric-awards-2022-1057949'>Por qué el Rimac Nevera es el mejor deportivo de los Electric Awards 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/rimac-nevera-mejor-deportivo-electric-awards-2022-1057949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/rimac-nevera-2620199.jpg' alt='Por qué el Rimac Nevera es el mejor deportivo de los Electric Awards 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/47-noticias-tecnologia-comenzar-manana-informado-ultimo-1058205'>47 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/47-noticias-tecnologia-comenzar-manana-informado-ultimo-1058205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/recopilatorio-diaro-9-mayo-2697211.jpg' alt='47 noticias de tecnología para comenzar tu mañana informado de lo último' />
     </a>
 </div>
 
