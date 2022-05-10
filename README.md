@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/soportes-movil-coche-dgt-todo-debes-saber-evitar-multas-1058647'>Soportes de móvil para el coche y la DGT: todo lo que debes saber para evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/soportes-movil-coche-dgt-todo-debes-saber-evitar-multas-1058647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soporte-telefono-coche-2653141.jpg' alt='Soportes de móvil para el coche y la DGT: todo lo que debes saber para evitar multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/productos-suben-precio-mercadona-45-caros-aviso-cuestion-dias-1058601'>Los productos que más suben de precio en Mercadona, hasta un 45% más caros sin aviso en cuestión de días</a></h4>
+    <a href='https://computerhoy.com/noticias/life/productos-suben-precio-mercadona-45-caros-aviso-cuestion-dias-1058601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercadona-platanos-2484551.jpg' alt='Los productos que más suben de precio en Mercadona, hasta un 45% más caros sin aviso en cuestión de días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/condicion-permitiria-hacienda-quedarse-todo-dinero-tienes-banco-1058645'>La condición que permitiría a Hacienda quedarse con todo el dinero que tienes en el banco</a></h4>
+    <a href='https://computerhoy.com/noticias/life/condicion-permitiria-hacienda-quedarse-todo-dinero-tienes-banco-1058645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-recibe-multa-hacienda-2560195.jpg' alt='La condición que permitiría a Hacienda quedarse con todo el dinero que tienes en el banco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551'>El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-2697665.jpg' alt='El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483'>El truco viral de una madre para evitar que los muebles se llenen de polvo </a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/producto-limpieza-2362547.jpg' alt='El truco viral de una madre para evitar que los muebles se llenen de polvo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-narzo-50-5g-antes-presentacion-diseno-procesador-pantalla-1058577'>Se filtra el realme Narzo 50 5G antes de su presentación: diseño, procesador y pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-narzo-50-5g-antes-presentacion-diseno-procesador-pantalla-1058577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-realme-gt-2-2670169.jpg' alt='Se filtra el realme Narzo 50 5G antes de su presentación: diseño, procesador y pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ralentiza-conscientemente-modelos-como-mi-10t-poco-f3-rinden-menos-deberian-papel-1058567'>Xiaomi ralentiza conscientemente modelos como el Mi 10T o Poco F3 y rinden menos de lo que deberían sobre el papel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ralentiza-conscientemente-modelos-como-mi-10t-poco-f3-rinden-menos-deberian-papel-1058567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-xiaomi-slowdown-2697659.jpg' alt='Xiaomi ralentiza conscientemente modelos como el Mi 10T o Poco F3 y rinden menos de lo que deberían sobre el papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513'>Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11' />
     </a>
 </div>
 
