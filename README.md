@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/soportes-movil-coche-dgt-todo-debes-saber-evitar-multas-1058647'>Soportes de móvil para el coche y la DGT: todo lo que debes saber para evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/soportes-movil-coche-dgt-todo-debes-saber-evitar-multas-1058647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/soporte-telefono-coche-2653141.jpg' alt='Soportes de móvil para el coche y la DGT: todo lo que debes saber para evitar multas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671'>Estas son las novedades OLED que LG Display va a presentar en el SID 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-1058671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estas-son-novedades-oled-lg-display-va-presentar-sid-2022-2697989.jpg' alt='Estas son las novedades OLED que LG Display va a presentar en el SID 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/productos-suben-precio-mercadona-45-caros-aviso-cuestion-dias-1058601'>Los productos que más suben de precio en Mercadona, hasta un 45% más caros sin aviso en cuestión de días</a></h4>
-    <a href='https://computerhoy.com/noticias/life/productos-suben-precio-mercadona-45-caros-aviso-cuestion-dias-1058601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mercadona-platanos-2484551.jpg' alt='Los productos que más suben de precio en Mercadona, hasta un 45% más caros sin aviso en cuestión de días' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-tarjetas-graficas-gaming-amd-oficial-rx-6950-xt-rx-6750-xt-rx-6650-xt-1058585'>La nueva generación de tarjetas gráficas gaming de AMD es oficial: RX 6950 XT, RX 6750 XT y RX 6650 XT</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-generacion-tarjetas-graficas-gaming-amd-oficial-rx-6950-xt-rx-6750-xt-rx-6650-xt-1058585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='La nueva generación de tarjetas gráficas gaming de AMD es oficial: RX 6950 XT, RX 6750 XT y RX 6650 XT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/condicion-permitiria-hacienda-quedarse-todo-dinero-tienes-banco-1058645'>La condición que permitiría a Hacienda quedarse con todo el dinero que tienes en el banco</a></h4>
-    <a href='https://computerhoy.com/noticias/life/condicion-permitiria-hacienda-quedarse-todo-dinero-tienes-banco-1058645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hombre-recibe-multa-hacienda-2560195.jpg' alt='La condición que permitiría a Hacienda quedarse con todo el dinero que tienes en el banco' />
+    <h4><a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527'>Para qué sirve el ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sirve-ibuprofeno-1058527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/medicamentos-volante-2405271.jpg' alt='Para qué sirve el ibuprofeno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551'>El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-1058551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ingrediente-secreto-limpiar-ventanas-puertas-correderas-queden-perfectas-2697665.jpg' alt='El ingrediente secreto para limpiar ventanas y puertas correderas para que queden perfectas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-bizum-sospechar-vendedor-antes-hacer-pago-1058673'>Consejos de Bizum para sospechar de un vendedor antes de hacer el pago</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejos-bizum-sospechar-vendedor-antes-hacer-pago-1058673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bizum-2492947.jpg' alt='Consejos de Bizum para sospechar de un vendedor antes de hacer el pago' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483'>El truco viral de una madre para evitar que los muebles se llenen de polvo </a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/producto-limpieza-2362547.jpg' alt='El truco viral de una madre para evitar que los muebles se llenen de polvo ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695'>La marca de routers Fritz presenta sus nuevos routers de fibra óptica: además también repetidores Wi-Fi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marca-routers-fritz-presenta-nuevos-routers-fibra-optica-ademas-tambien-repetidores-wi-fi-1058695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-fritz-2698053.jpg' alt='La marca de routers Fritz presenta sus nuevos routers de fibra óptica: además también repetidores Wi-Fi' />
     </a>
 </div>
 
