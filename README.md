@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513'>Microsoft recomienda desinstalar está actualización, está causando muchos problemas en Windows 11</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483'>El truco viral de una madre para evitar que los muebles se llenen de polvo </a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-madre-evitar-muebles-llenen-polvo-1058483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/producto-limpieza-2362547.jpg' alt='El truco viral de una madre para evitar que los muebles se llenen de polvo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-narzo-50-5g-antes-presentacion-diseno-procesador-pantalla-1058577'>Se filtra el realme Narzo 50 5G antes de su presentación: diseño, procesador y pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-realme-narzo-50-5g-antes-presentacion-diseno-procesador-pantalla-1058577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/galeria-review-realme-gt-2-2670169.jpg' alt='Se filtra el realme Narzo 50 5G antes de su presentación: diseño, procesador y pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ralentiza-conscientemente-modelos-como-mi-10t-poco-f3-rinden-menos-deberian-papel-1058567'>Xiaomi ralentiza conscientemente modelos como el Mi 10T o Poco F3 y rinden menos de lo que deberían sobre el papel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ralentiza-conscientemente-modelos-como-mi-10t-poco-f3-rinden-menos-deberian-papel-1058567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-xiaomi-slowdown-2697659.jpg' alt='Xiaomi ralentiza conscientemente modelos como el Mi 10T o Poco F3 y rinden menos de lo que deberían sobre el papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513'>Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-recomienda-desinstalar-actualizacion-causando-muchos-problemas-windows-11-1058513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Microsoft recomienda desinstalar está actualización, está causando muchos problemas en Windows 11' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2648535.jpg' alt='Microsoft recomienda desinstalar esta actualización, ya que está causando muchos problemas en Windows 11' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541'>Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperamos-conferencia-google-i-2022-miercoles-1058541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/google-io-.jpg' alt='Esto es lo que esperamos de la conferencia Google I/O 2022 de este miércoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-integrar-nft-misma-semana-facebook-sera-siguiente-1058529'>Instagram empezará a integrar los NFT esta misma semana: Facebook será la siguiente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-empezara-integrar-nft-misma-semana-facebook-sera-siguiente-1058529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-nft-2697561.jpg' alt='Instagram empezará a integrar los NFT esta misma semana: Facebook será la siguiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465'>Este es el primer TikTok que se sube desde la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-tiktok-sube-estacion-espacial-internacional-1058465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-tiktok-sube-estacion-espacial-internacional-2697487.jpg' alt='Este es el primer TikTok que se sube desde la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511'>Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nuevos-paneles-micro-led-pantallas-146-pulgadas-pixeles-finos-historia-1058511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wall-2697535.jpg' alt='Samsung presenta sus nuevos paneles Micro LED con pantallas de hasta 146 pulgadas con los píxeles más finos de la historia' />
     </a>
 </div>
 
