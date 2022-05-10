@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/47-noticias-tecnologia-comenzar-manana-informado-ultimo-1058205'>47 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/47-noticias-tecnologia-comenzar-manana-informado-ultimo-1058205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/recopilatorio-diaro-9-mayo-2697211.jpg' alt='47 noticias de tecnología para comenzar tu mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877'>Si quieres una Smart TV grande estos son los mejores modelos de 65 pulgadas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/smart-tv-65-pulgadas-ofertas-995877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/samsung-qe65q80tatxxc-2367839.jpg' alt='Si quieres una Smart TV grande estos son los mejores modelos de 65 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-hemos-visto-trailer-love-death-and-robots-volume-3-lleno-animales-asesinos-1058195'>Ya hemos visto el tráiler de Love, Death and Robots Volume 3 y está lleno de animales asesinos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ya-hemos-visto-trailer-love-death-and-robots-volume-3-lleno-animales-asesinos-1058195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/video-thumbnails/kBjyYQHJYsMVbHxWV0T.jpg' alt='Ya hemos visto el tráiler de Love, Death and Robots Volume 3 y está lleno de animales asesinos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847'>La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/life/panificadora-orbegozo-mhp-3500-9-mayo-2022-1057847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/diferentes-tipos-panes-encima-mesa-2696499.jpg' alt='La panificadora low cost que arrasa y es más barata que la de Lidl la tiene Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-summit-ms321up-review-opinion-1057799'>MSI Summit MS321UP, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/msi-summit-ms321up-review-opinion-1057799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-msi-summit-ms321up-2697189.jpg' alt='MSI Summit MS321UP, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919'>Cómo evitar que tu información y datos personales salgan en las búsquedas de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-informacion-datos-personales-salgan-busquedas-google-1057919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/buscador-google-movil-2311549.jpg' alt='Cómo evitar que tu información y datos personales salgan en las búsquedas de Google' />
     </a>
 </div>
 
