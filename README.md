@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1058839'>42 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/42-noticias-tecnologia-comenzar-manana-informado-ultimo-1058839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-noticias-10-mayo-portada-2698447.jpg' alt='42 noticias de tecnología para comenzar tu mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ola-calor-mejores-aires-acondicionados-ventiladores-baratos-1058573'>Llega la primera ola de calor de 2022: mejores aires acondicionados y ventiladores baratos para hacerle frente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ola-calor-mejores-aires-acondicionados-ventiladores-baratos-1058573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ventilador-2698275.jpg' alt='Llega la primera ola de calor de 2022: mejores aires acondicionados y ventiladores baratos para hacerle frente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-nos-sorprende-dispositivos-conceptuales-pantallas-flexibles-1058843'>Samsung nos sorprende con unos dispositivos conceptuales con pantallas flexibles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-nos-sorprende-dispositivos-conceptuales-pantallas-flexibles-1058843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pantallas-flexibles-samsung-2698451.jpg' alt='Samsung nos sorprende con unos dispositivos conceptuales con pantallas flexibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crosscall-completa-gama-productos-core-presentacion-core-x5-core-t5-1058823'>CrossCall completa su gama de productos Core con la presentación de los Core X5 y Core T5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crosscall-completa-gama-productos-core-presentacion-core-x5-core-t5-1058823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/core-x5-core-t5-2698413.jpg' alt='CrossCall completa su gama de productos Core con la presentación de los Core X5 y Core T5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/han-filtrado-especificaciones-completas-google-pixel-6a-dia-supuesto-lanzamiento-1058811'>Se han filtrado las especificaciones completas del Google Pixel 6a a un día de su supuesto lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/han-filtrado-especificaciones-completas-google-pixel-6a-dia-supuesto-lanzamiento-1058811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604409.jpg' alt='Se han filtrado las especificaciones completas del Google Pixel 6a a un día de su supuesto lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-gamepad-elite-edition-10-mayo-2022-1058565'>Xiaomi tiene un nuevo mando inalámbrico para juegos en Android o PC y ya puedes ser de los primeros en tenerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-gamepad-elite-edition-10-mayo-2022-1058565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-gamepad-elite-edition-2697655.jpg' alt='Xiaomi tiene un nuevo mando inalámbrico para juegos en Android o PC y ya puedes ser de los primeros en tenerlo' />
     </a>
 </div>
 
