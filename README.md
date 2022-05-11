@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183'>¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/puede-aparcar-sentido-contrario-2381169.jpg' alt='¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139'>Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-camaras-especificaciones-vivo-s15-s15-pro-2698759.jpg' alt='Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147'>Google amplía la propuesta de canales en español incluidos en YouTube TV</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tv-youtube-2149873.jpg' alt='Google amplía la propuesta de canales en español incluidos en YouTube TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887'>Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xperia-1-iv-2698407.jpg' alt='Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/fifa-trabajando-propio-videojuego-futbol-competir-ea-sport-fc-2024-1059107'>La FIFA está trabajando en su propio videojuego de futbol para competir contra EA Sport FC en 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/fifa-trabajando-propio-videojuego-futbol-competir-ea-sport-fc-2024-1059107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fifa-24-2698445.jpg' alt='La FIFA está trabajando en su propio videojuego de futbol para competir contra EA Sport FC en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-viper-v2-pro-raton-gaming-ligero-mundo-1059101'>Razer anuncia el Viper V2 Pro: ratón gaming más ligero del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-viper-v2-pro-raton-gaming-ligero-mundo-1059101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/razer-viper-v2-pro-2698689.jpg' alt='Razer anuncia el Viper V2 Pro: ratón gaming más ligero del mundo' />
     </a>
 </div>
 
