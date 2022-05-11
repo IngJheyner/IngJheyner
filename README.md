@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-nos-sorprende-dispositivos-conceptuales-pantallas-flexibles-1058843'>Samsung nos sorprende con unos dispositivos conceptuales con pantallas flexibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-nos-sorprende-dispositivos-conceptuales-pantallas-flexibles-1058843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pantallas-flexibles-samsung-2698451.jpg' alt='Samsung nos sorprende con unos dispositivos conceptuales con pantallas flexibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-graba-4k-1058829'>DJI Mini 3 Pro: así es el nuevo dron de DJI que pesa solo 249 gramos y graba a 4K</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-graba-4k-1058829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dji-mini-3-pro-nuevo-dron-dji-pesa-solo-249-gramos-capaz-esquivar-cualquier-obstaculo-2698431.jpg' alt='DJI Mini 3 Pro: así es el nuevo dron de DJI que pesa solo 249 gramos y graba a 4K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-gamepad-elite-edition-10-mayo-2022-1058565'>Xiaomi tiene un nuevo mando inalámbrico para juegos en Android o PC y ya puedes ser de los primeros en tenerlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-gamepad-elite-edition-10-mayo-2022-1058565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-gamepad-elite-edition-2697655.jpg' alt='Xiaomi tiene un nuevo mando inalámbrico para juegos en Android o PC y ya puedes ser de los primeros en tenerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931'>Los auriculares podrían producirte sordera a medio plazo si los usas mal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/uso-auriculares-puede-producirte-perdidas-audicion-pero-solo-haces-mal-1057931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg' alt='Los auriculares podrían producirte sordera a medio plazo si los usas mal' />
     </a>
 </div>
 
