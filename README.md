@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-1059475'>Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-1059475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459'>Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/vpn.jpg' alt='Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467'>Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543'>Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roborock-q7-max-2629063.jpg' alt='Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443'>El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425'>Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna' />
     </a>
 </div>
 
