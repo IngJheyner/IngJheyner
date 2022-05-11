@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147'>Google amplía la propuesta de canales en español incluidos en YouTube TV</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tv-youtube-2149873.jpg' alt='Google amplía la propuesta de canales en español incluidos en YouTube TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-nfc-pagar-mejores-ofertas-797255'>Relojes inteligentes con chip NFC para pagar en tiendas que puedes comprar ya</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-nfc-pagar-mejores-ofertas-797255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-watch-apple-pay-2208777.jpg' alt='Relojes inteligentes con chip NFC para pagar en tiendas que puedes comprar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887'>Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xperia-1-iv-2698407.jpg' alt='Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/fifa-trabajando-propio-videojuego-futbol-competir-ea-sport-fc-2024-1059107'>La FIFA está trabajando en su propio videojuego de futbol para competir contra EA Sport FC en 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/fifa-trabajando-propio-videojuego-futbol-competir-ea-sport-fc-2024-1059107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fifa-24-2698445.jpg' alt='La FIFA está trabajando en su propio videojuego de futbol para competir contra EA Sport FC en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-viper-v2-pro-raton-gaming-ligero-mundo-1059101'>Razer anuncia el Viper V2 Pro: ratón gaming más ligero del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-viper-v2-pro-raton-gaming-ligero-mundo-1059101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/razer-viper-v2-pro-2698689.jpg' alt='Razer anuncia el Viper V2 Pro: ratón gaming más ligero del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x8-oferta-10-mayo-2022-1057905'>Pantalla de 90 Hz y Snapdragon 680 a precio muy rebajado: el Honor X8 baja a solo 229 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x8-oferta-10-mayo-2022-1057905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-x8-2696599.jpg' alt='Pantalla de 90 Hz y Snapdragon 680 a precio muy rebajado: el Honor X8 baja a solo 229 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-beta-nothing-launcher-dispositivo-tiene-android-11-superior-1059089'>Ya puedes instalar la beta de Nothing Launcher si tu dispositivo tiene Android 11 o superior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-instalar-beta-nothing-launcher-dispositivo-tiene-android-11-superior-1059089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nothing-launcher-beta-oneplus-7-pro-2687821.jpg' alt='Ya puedes instalar la beta de Nothing Launcher si tu dispositivo tiene Android 11 o superior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/curiosidades-20-mejores-carteles-historia-cine-1057971'>Las curiosidades de los 20 mejores carteles de la historia del cine</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/curiosidades-20-mejores-carteles-historia-cine-1057971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/descarga-gratis-10000-posteres-peliculas-historicas-tamano-cine-3-x-6-metros-2432497.jpg' alt='Las curiosidades de los 20 mejores carteles de la historia del cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cine-llega-coche-theatre-screen-nuevo-bmw-serie-7-1057953'>El cine llega al coche con la Theatre Screen del nuevo BMW Serie 7 </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cine-llega-coche-theatre-screen-nuevo-bmw-serie-7-1057953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pantalla-theatre-screen-bmw-serie-7-2691247.jpg' alt='El cine llega al coche con la Theatre Screen del nuevo BMW Serie 7 ' />
     </a>
 </div>
 
