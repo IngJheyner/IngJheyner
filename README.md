@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/laser-rayos-x-potente-mundo-usa-temperaturas-frias-espacio-profundo-1059247'>Este es el láser de rayos X más potente del mundo y usa temperaturas más frías que el espacio profundo</a></h4>
+    <a href='https://computerhoy.com/noticias/laser-rayos-x-potente-mundo-usa-temperaturas-frias-espacio-profundo-1059247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rayo-laser-2699005.jpg' alt='Este es el láser de rayos X más potente del mundo y usa temperaturas más frías que el espacio profundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-1059231'>Lenovo Legion 7 y Slim 7, nuevos portátiles perfectos para cualquier amante de los juegos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-1059231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-2698967.jpg' alt='Lenovo Legion 7 y Slim 7, nuevos portátiles perfectos para cualquier amante de los juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253'>Larga vida al iPod, gracias por hacernos bailar durante dos décadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-nano-2699021.jpg' alt='Larga vida al iPod, gracias por hacernos bailar durante dos décadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173'>Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bomba-nuclear-2644385.jpg' alt='Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183'>¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/puede-aparcar-sentido-contrario-2381169.jpg' alt='¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139'>Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-camaras-especificaciones-vivo-s15-s15-pro-2698759.jpg' alt='Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro' />
     </a>
 </div>
 
