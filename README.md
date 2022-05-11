@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351'>No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-primer-estuche-carga-airpods-compatible-usb-c-1059369'>Crea el primer estuche de carga para AirPods compatible con USB-C</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crea-primer-estuche-carga-airpods-compatible-usb-c-1059369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524063.jpg' alt='Crea el primer estuche de carga para AirPods compatible con USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/tutorial-como-usar-pinterest-sacarle-maximo-partido-11141'>Cómo usar Pinterest y sacarle el máximo partido en 2022</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/tutorial-como-usar-pinterest-sacarle-maximo-partido-11141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pinterest-2602763.jpg' alt='Cómo usar Pinterest y sacarle el máximo partido en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-otan-cual-origen-1059391'>Qué significa OTAN y cuál es su origen</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-otan-cual-origen-1059391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/otan-banderas-paises-2631261.jpg' alt='Qué significa OTAN y cuál es su origen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337'>El iPhone 14 podría ser el último iPhone con Lightning</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='El iPhone 14 podría ser el último iPhone con Lightning' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219'>Sustitutos caseros al detergente para lavavajillas en caso de apuro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/detergente-lavavajillas-2496659.jpg' alt='Sustitutos caseros al detergente para lavavajillas en caso de apuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-1059273'>Lo último de Lidl es una máquina para que puedas hacer tu propio queso en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-1059273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-2699075.jpg' alt='Lo último de Lidl es una máquina para que puedas hacer tu propio queso en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirve-opcion-dispositivos-vinculados-whatsapp-1059339'>Para qué sirve la opción "Dispositivos vinculados" de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sirve-opcion-dispositivos-vinculados-whatsapp-1059339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Para qué sirve la opción "Dispositivos vinculados" de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-1059319'>¡De película! Un pasajero sin experiencia consigue aterrizar el avión tras la indisposición del piloto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-1059319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-2699209.jpg' alt='¡De película! Un pasajero sin experiencia consigue aterrizar el avión tras la indisposición del piloto' />
     </a>
 </div>
 
