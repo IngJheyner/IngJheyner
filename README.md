@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425'>Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-filtros-todo-mundo-seguro-agradece-1059353'>WhatsApp se pone filtros y todo el mundo seguro que lo agradece</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-filtros-todo-mundo-seguro-agradece-1059353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='WhatsApp se pone filtros y todo el mundo seguro que lo agradece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualizara-versiones-concretas-windows-10-te-guste-no-1059397'>Microsoft actualizará versiones concretas de Windows 10 te guste o no</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualizara-versiones-concretas-windows-10-te-guste-no-1059397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Microsoft actualizará versiones concretas de Windows 10 te guste o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351'>No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crea-primer-estuche-carga-airpods-compatible-usb-c-1059369'>Crea el primer estuche de carga para AirPods compatible con USB-C</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crea-primer-estuche-carga-airpods-compatible-usb-c-1059369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524063.jpg' alt='Crea el primer estuche de carga para AirPods compatible con USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/tutorial-como-usar-pinterest-sacarle-maximo-partido-11141'>Cómo usar Pinterest y sacarle el máximo partido en 2022</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/tutorial-como-usar-pinterest-sacarle-maximo-partido-11141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pinterest-2602763.jpg' alt='Cómo usar Pinterest y sacarle el máximo partido en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-otan-cual-origen-1059391'>Qué significa OTAN y cuál es su origen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-otan-cual-origen-1059391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/otan-banderas-paises-2631261.jpg' alt='Qué significa OTAN y cuál es su origen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337'>El iPhone 14 podría ser el último iPhone con Lightning</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='El iPhone 14 podría ser el último iPhone con Lightning' />
     </a>
 </div>
 
