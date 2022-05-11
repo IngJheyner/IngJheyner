@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337'>El iPhone 14 podría ser el último iPhone con Lightning</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-podria-ser-ultimo-iphone-lightning-1059337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='El iPhone 14 podría ser el último iPhone con Lightning' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219'>Sustitutos caseros al detergente para lavavajillas en caso de apuro</a></h4>
     <a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/detergente-lavavajillas-2496659.jpg' alt='Sustitutos caseros al detergente para lavavajillas en caso de apuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-1059319'>¡De película! Un pasajero sin experiencia consigue aterrizar el avión tras la indisposición del piloto</a></h4>
     <a href='https://computerhoy.com/noticias/life/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-1059319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pelicula-pasajero-experiencia-consigue-aterrizar-avion-indisposicion-piloto-2699209.jpg' alt='¡De película! Un pasajero sin experiencia consigue aterrizar el avión tras la indisposición del piloto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263'>El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680875.jpg' alt='El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon' />
     </a>
 </div>
 
