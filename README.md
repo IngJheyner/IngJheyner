@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263'>El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680875.jpg' alt='El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-creadores-ministerio-tiempo-contara-historia-desarrolladora-videojuegos-mitica-espana-1059295'>Una serie de los creadores de El ministerio del tiempo contará la historia de una desarrolladora de videojuegos mítica en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-creadores-ministerio-tiempo-contara-historia-desarrolladora-videojuegos-mitica-espana-1059295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/ministerio-tiempo-1855071.jpg' alt='Una serie de los creadores de El ministerio del tiempo contará la historia de una desarrolladora de videojuegos mítica en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fabricar-aviones-coches-sensores-amenazas-guerra-saab-sirius-compact-1059291'>De fabricar aviones y coches a sensores de amenazas para la guerra: así es el Saab Sirius Compact</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fabricar-aviones-coches-sensores-amenazas-guerra-saab-sirius-compact-1059291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sensor-guerra-2699149.jpg' alt='De fabricar aviones y coches a sensores de amenazas para la guerra: así es el Saab Sirius Compact' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/multiplican-intentos-estafa-linkedin-puedes-protegerte-1059261'>Se multiplican los intentos de estafa en LinkedIn y así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/multiplican-intentos-estafa-linkedin-puedes-protegerte-1059261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/linkedin-2290113.jpg' alt='Se multiplican los intentos de estafa en LinkedIn y así puedes protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/laser-rayos-x-potente-mundo-usa-temperaturas-frias-espacio-profundo-1059247'>Este es el láser de rayos X más potente del mundo y usa temperaturas más frías que el espacio profundo</a></h4>
     <a href='https://computerhoy.com/noticias/laser-rayos-x-potente-mundo-usa-temperaturas-frias-espacio-profundo-1059247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rayo-laser-2699005.jpg' alt='Este es el láser de rayos X más potente del mundo y usa temperaturas más frías que el espacio profundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-1059231'>Lenovo Legion 7 y Slim 7, nuevos portátiles perfectos para cualquier amante de los juegos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-1059231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-legion-7-slim-7-nuevos-portatiles-perfectos-cualquier-amante-juegos-2698967.jpg' alt='Lenovo Legion 7 y Slim 7, nuevos portátiles perfectos para cualquier amante de los juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253'>Larga vida al iPod, gracias por hacernos bailar durante dos décadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-nano-2699021.jpg' alt='Larga vida al iPod, gracias por hacernos bailar durante dos décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-completa-apuesta-gama-top-compania-escindida-huawei-1059227'>Honor 70, 70 Pro y 70 Pro+, así es la completa apuesta por la gama top la compañía escindida de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-completa-apuesta-gama-top-compania-escindida-huawei-1059227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-60-2540193.jpg' alt='Honor 70, 70 Pro y 70 Pro+, así es la completa apuesta por la gama top la compañía escindida de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173'>Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bomba-nuclear-2644385.jpg' alt='Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear' />
     </a>
 </div>
 
