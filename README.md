@@ -50,8 +50,8 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-1059475'>Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-1059475' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475'>Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año' />
     </a>
 </div>
