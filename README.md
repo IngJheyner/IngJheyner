@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443'>El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425'>Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351'>No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-te-creas-todo-te-llega-whatsapp-bizum-seguira-siendo-gratis-menos-momento-1059351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='No te creas todo lo que te llega por WhatsApp: Bizum seguirá siendo gratis (al menos de momento)' />
     </a>
 </div>
 
