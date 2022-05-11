@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467'>Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-hermano-pequeno-google-pixel-6-pro-1059465'>Google Pixel 6a: así es el hermano menor del Pixel 6 Pro que mantiene el mismo procesador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-hermano-pequeno-google-pixel-6-pro-1059465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-6a-hermano-menor-pixel-6-pro-mantiene-mismo-procesador-2699735.jpg' alt='Google Pixel 6a: así es el hermano menor del Pixel 6 Pro que mantiene el mismo procesador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543'>Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roborock-q7-max-2629063.jpg' alt='Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443'>El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-1059443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='El Samsung Galaxy Z Fold 4 se filtra al completo gracias a imágenes de alta resolución' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425'>Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-deja-fabricarlos-ese-viejo-ipod-tienes-casa-podria-valer-fortuna-1059425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Apple deja fabricarlos y ese viejo iPod que tienes en casa podría valer una fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-filtros-todo-mundo-seguro-agradece-1059353'>WhatsApp se pone filtros y todo el mundo seguro que lo agradece</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-pone-filtros-todo-mundo-seguro-agradece-1059353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='WhatsApp se pone filtros y todo el mundo seguro que lo agradece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualizara-versiones-concretas-windows-10-te-guste-no-1059397'>Microsoft actualizará versiones concretas de Windows 10 te guste o no</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualizara-versiones-concretas-windows-10-te-guste-no-1059397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Microsoft actualizará versiones concretas de Windows 10 te guste o no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
     </a>
 </div>
 
