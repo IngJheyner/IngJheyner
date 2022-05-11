@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219'>Sustitutos caseros al detergente para lavavajillas en caso de apuro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sustitutos-caseros-detergente-lavavajillas-caso-apuro-1059219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/detergente-lavavajillas-2496659.jpg' alt='Sustitutos caseros al detergente para lavavajillas en caso de apuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-1059273'>Lo último de Lidl es una máquina para que puedas hacer tu propio queso en casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-1059273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ultimo-lidl-maquina-puedas-hacer-propio-queso-casa-2699075.jpg' alt='Lo último de Lidl es una máquina para que puedas hacer tu propio queso en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263'>El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-11-mayo-2022-1059263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-m53-5g-2680875.jpg' alt='El nuevo Samsung Galaxy M53 5G solo tiene un mes de vida y ya tiene un descuento de 120€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-creadores-ministerio-tiempo-contara-historia-desarrolladora-videojuegos-mitica-espana-1059295'>Una serie de los creadores de El ministerio del tiempo contará la historia de una desarrolladora de videojuegos mítica en España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-creadores-ministerio-tiempo-contara-historia-desarrolladora-videojuegos-mitica-espana-1059295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/ministerio-tiempo-1855071.jpg' alt='Una serie de los creadores de El ministerio del tiempo contará la historia de una desarrolladora de videojuegos mítica en España' />
     </a>
 </div>
 
