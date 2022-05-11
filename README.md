@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253'>Larga vida al iPod, gracias por hacernos bailar durante dos décadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/larga-vida-ipod-gracias-hacernos-bailar-durante-dos-decadas-1059253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-nano-2699021.jpg' alt='Larga vida al iPod, gracias por hacernos bailar durante dos décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-completa-apuesta-gama-top-compania-escindida-huawei-1059227'>Honor 70, 70 Pro y 70 Pro+, así es la completa apuesta por la gama top la compañía escindida de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-completa-apuesta-gama-top-compania-escindida-huawei-1059227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/honor-60-2540193.jpg' alt='Honor 70, 70 Pro y 70 Pro+, así es la completa apuesta por la gama top la compañía escindida de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173'>Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nightwatch-maxdome-aviones-juicio-final-gobernarian-mundo-caso-guerra-nuclear-1059173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bomba-nuclear-2644385.jpg' alt='Nightwatch y Maxdome: los aviones del juicio final que gobernarían el mundo en caso de guerra nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183'>¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-pueden-multar-guardar-plaza-aparcamiento-publica-1059183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/puede-aparcar-sentido-contrario-2381169.jpg' alt='¿Te pueden multar por guardar una plaza de aparcamiento en la vía pública?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139'>Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-camaras-especificaciones-vivo-s15-s15-pro-1059139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-camaras-especificaciones-vivo-s15-s15-pro-2698759.jpg' alt='Así son las cámaras y las especificaciones de los vivo S15 y S15 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147'>Google amplía la propuesta de canales en español incluidos en YouTube TV</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/google-amplia-propuesta-canales-espanol-incluidos-youtube-tv-1059147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tv-youtube-2149873.jpg' alt='Google amplía la propuesta de canales en español incluidos en YouTube TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-nfc-pagar-mejores-ofertas-797255'>Relojes inteligentes con chip NFC para pagar en tiendas que puedes comprar ya</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-nfc-pagar-mejores-ofertas-797255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/apple-watch-apple-pay-2208777.jpg' alt='Relojes inteligentes con chip NFC para pagar en tiendas que puedes comprar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887'>Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-1-iv-xperia-10-iv-nueva-generacion-moviles-sony-2022-1057887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xperia-1-iv-2698407.jpg' alt='Sony Xperia 1 IV y Xperia 10 IV, así es la nueva generación de móviles Sony de 2022' />
     </a>
 </div>
 
