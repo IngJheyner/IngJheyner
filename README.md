@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161'>realme 9 4G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699589.jpg' alt='realme 9 4G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-vuelve-copiar-tiktok-ultima-caracteristica-1060011'>YouTube vuelve a copiar a TikTok con su última característica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-vuelve-copiar-tiktok-ultima-caracteristica-1060011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-vuelve-copiar-tiktok-nueva-caracteristica-2700639.jpg' alt='YouTube vuelve a copiar a TikTok con su última característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/captan-primera-imagen-agujero-negro-centro-galaxia-sagitario-1060015'>Captan la primera imagen del agujero negro del centro de nuestra galaxia: así es Sagitario A*</a></h4>
+    <a href='https://computerhoy.com/noticias/life/captan-primera-imagen-agujero-negro-centro-galaxia-sagitario-1060015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/captan-primera-imagen-agujero-negro-centro-galaxia-sagitario-2700633.jpg' alt='Captan la primera imagen del agujero negro del centro de nuestra galaxia: así es Sagitario A*' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-wh-1000xm5-primeras-impresiones-auriculares-bluetooth-mejor-cancelacion-ruido-1059991'>Sony WH-1000XM5, primeras impresiones de los auriculares Bluetooth con mejor cancelación de ruido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sony-wh-1000xm5-primeras-impresiones-auriculares-bluetooth-mejor-cancelacion-ruido-1059991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primeras-impresiones-wh-1000xm5-2700585.jpg' alt='Sony WH-1000XM5, primeras impresiones de los auriculares Bluetooth con mejor cancelación de ruido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kahoot-2700547.jpg' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significa-hora-2222-son-horas-espejo-1060005'>Qué significa la hora 22:22 y qué son las horas espejo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significa-hora-2222-son-horas-espejo-1060005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-oficina-2625837.jpg' alt='Qué significa la hora 22:22 y qué son las horas espejo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-podria-perder-derechos-mickey-mouse-otros-personajes-emblematicos-1059917'>Disney podría perder los derechos de Mickey Mouse y otros de sus personajes más emblemáticos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-podria-perder-derechos-mickey-mouse-otros-personajes-emblematicos-1059917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/mickey-mouse-1922473.jpg' alt='Disney podría perder los derechos de Mickey Mouse y otros de sus personajes más emblemáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-ciberseguridad-pie-guerra-nueva-propuesta-ue-relacionada-abusos-menores-1059891'>Los expertos en ciberseguridad en pie de guerra con la nueva propuesta de la UE, relacionada con los abusos a menores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-ciberseguridad-pie-guerra-nueva-propuesta-ue-relacionada-abusos-menores-1059891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciberseguridad-2606585.jpg' alt='Los expertos en ciberseguridad en pie de guerra con la nueva propuesta de la UE, relacionada con los abusos a menores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969'>OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-evento-speed-games-2700475.jpg' alt='OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord' />
     </a>
 </div>
 
