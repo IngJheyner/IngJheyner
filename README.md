@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anos-peticiones-nvidia-ha-publicado-codigo-fuente-modulos-kernel-gpu-1059705'>Tras años de peticiones NVIDIA ha publicado el código fuente de módulos del Kernel de las GPU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/anos-peticiones-nvidia-ha-publicado-codigo-fuente-modulos-kernel-gpu-1059705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='Tras años de peticiones NVIDIA ha publicado el código fuente de módulos del Kernel de las GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-616-computer-hoy-1055553'>¡Ya está en tu quiosco el número 616 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-616-computer-hoy-1055553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/computer-hoy-616-2693689.jpg' alt='¡Ya está en tu quiosco el número 616 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399'>Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dias-naranjas-pccomponentes-2699655.jpg' alt='Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699533.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475'>Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459'>Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/vpn.jpg' alt='Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas' />
     </a>
 </div>
 
