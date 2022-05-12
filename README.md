@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399'>Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dias-naranjas-pccomponentes-2699655.jpg' alt='Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483'>40 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/noticias-11-mayo-resumen-2699795.jpg' alt='40 noticias de tecnología para comenzar tu mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459'>Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/datos-21-millones-usuarios-han-filtrado-utilizar-estas-vpn-gratuitas-1059459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/vpn.jpg' alt='Los datos de 21 millones de usuarios se han filtrado por utilizar estas VPN gratuitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467'>Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial' />
     </a>
 </div>
 
