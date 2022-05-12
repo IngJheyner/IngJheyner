@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087'>Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085'>Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-2682115.jpg' alt='Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077'>Google llevaría una característica propia de los móviles a Android TV en su próxima actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Google llevaría una característica propia de los móviles a Android TV en su próxima actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069'>El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/huawei-mate-xs-1876283.jpg' alt='El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051'>Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059'>Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung' />
     </a>
 </div>
 
