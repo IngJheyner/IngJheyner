@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483'>40 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/noticias-11-mayo-resumen-2699795.jpg' alt='40 noticias de tecnología para comenzar tu mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699533.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475'>Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-1059475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Google Pixel 7, Pixel Tablet y todas las novedades de software del Google I/O de este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467'>Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-1059467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Google Pixel Watch y Pixel Buds Pro: así es el primer reloj de la compañía que llega junto con auriculares con audio espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-hermano-pequeno-google-pixel-6-pro-1059465'>Google Pixel 6a: así es el hermano menor del Pixel 6 Pro que mantiene el mismo procesador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-hermano-pequeno-google-pixel-6-pro-1059465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-6a-hermano-menor-pixel-6-pro-mantiene-mismo-procesador-2699735.jpg' alt='Google Pixel 6a: así es el hermano menor del Pixel 6 Pro que mantiene el mismo procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543'>Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/siete-semanas-bateria-potencia-igual-robot-aspirador-roborock-tiene-150eu-descuento-1058543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roborock-q7-max-2629063.jpg' alt='Siete semanas de batería y potencia sin igual: este robot aspirador de Roborock tiene 150€ de descuento' />
     </a>
 </div>
 
