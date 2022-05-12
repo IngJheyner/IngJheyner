@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051'>Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059'>Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161'>realme 9 4G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699589.jpg' alt='realme 9 4G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-vuelve-copiar-tiktok-ultima-caracteristica-1060011'>YouTube vuelve a copiar a TikTok con su última característica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-vuelve-copiar-tiktok-ultima-caracteristica-1060011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-vuelve-copiar-tiktok-nueva-caracteristica-2700639.jpg' alt='YouTube vuelve a copiar a TikTok con su última característica' />
     </a>
 </div>
 
