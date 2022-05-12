@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-ciberseguridad-pie-guerra-nueva-propuesta-ue-relacionada-abusos-menores-1059891'>Los expertos en ciberseguridad en pie de guerra con la nueva propuesta de la UE, relacionada con los abusos a menores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-ciberseguridad-pie-guerra-nueva-propuesta-ue-relacionada-abusos-menores-1059891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ciberseguridad-2606585.jpg' alt='Los expertos en ciberseguridad en pie de guerra con la nueva propuesta de la UE, relacionada con los abusos a menores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969'>OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-evento-speed-games-2700475.jpg' alt='OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875'>Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883'>El rover de la NASA acaba de descubrir una puerta en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/PIA22105-16.jpg' alt='El rover de la NASA acaba de descubrir una puerta en Marte' />
     </a>
 </div>
 
