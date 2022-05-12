@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875'>Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883'>El rover de la NASA acaba de descubrir una puerta en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/PIA22105-16.jpg' alt='El rover de la NASA acaba de descubrir una puerta en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-colesterol-universidad-harvard-1059819'>Los mejores alimentos para reducir el colesterol, según la Universidad de Harvard</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-colesterol-universidad-harvard-1059819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-alimentos-reducir-colesterol-universidad-harvard-2700223.jpg' alt='Los mejores alimentos para reducir el colesterol, según la Universidad de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723'>OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-vivobook-pro-15-2571215.jpg' alt='OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845'>Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/logo-apple-portada-imitacion-macbook-2700245.jpg' alt='Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-1059761'>Elon Musk quiere conocer a su doble chino, aunque no se fía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-1059761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-2700153.jpg' alt='Elon Musk quiere conocer a su doble chino, aunque no se fía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/trucos-infalibles-mantener-motor-diesel-libre-averias-hacer-dure-muchos-anos-1059795'>Trucos infalibles para mantener un motor diésel libre de averías y hacer que dure muchos años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/trucos-infalibles-mantener-motor-diesel-libre-averias-hacer-dure-muchos-anos-1059795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Trucos infalibles para mantener un motor diésel libre de averías y hacer que dure muchos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-prodigy-todoterreno-128-nucleos-machine-learning-procesos-64bits-57-ghz-1059753'>El procesador The Prodigy todoterreno de 128 núcleos: Machine Learning y procesos 64bits hasta 5,7 GHz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-prodigy-todoterreno-128-nucleos-machine-learning-procesos-64bits-57-ghz-1059753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/cual-procesador-intel-amd-qualcomm-potente-puedes-comprar-ahora-mismo-1873425.jpg' alt='El procesador The Prodigy todoterreno de 128 núcleos: Machine Learning y procesos 64bits hasta 5,7 GHz' />
     </a>
 </div>
 
