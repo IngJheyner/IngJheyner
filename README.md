@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723'>OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-vivobook-pro-15-2571215.jpg' alt='OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845'>Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/logo-apple-portada-imitacion-macbook-2700245.jpg' alt='Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-1059761'>Elon Musk quiere conocer a su doble chino, aunque no se fía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-1059761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-quiere-conocer-doble-chino-aunque-no-fia-2700153.jpg' alt='Elon Musk quiere conocer a su doble chino, aunque no se fía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/trucos-infalibles-mantener-motor-diesel-libre-averias-hacer-dure-muchos-anos-1059795'>Trucos infalibles para mantener un motor diésel libre de averías y hacer que dure muchos años</a></h4>
     <a href='https://computerhoy.com/noticias/motor/trucos-infalibles-mantener-motor-diesel-libre-averias-hacer-dure-muchos-anos-1059795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Trucos infalibles para mantener un motor diésel libre de averías y hacer que dure muchos años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-prodigy-todoterreno-128-nucleos-machine-learning-procesos-64bits-57-ghz-1059753'>El procesador The Prodigy todoterreno de 128 núcleos: Machine Learning y procesos 64bits hasta 5,7 GHz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-prodigy-todoterreno-128-nucleos-machine-learning-procesos-64bits-57-ghz-1059753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/cual-procesador-intel-amd-qualcomm-potente-puedes-comprar-ahora-mismo-1873425.jpg' alt='El procesador The Prodigy todoterreno de 128 núcleos: Machine Learning y procesos 64bits hasta 5,7 GHz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-esquiva-fatiga-suscripcion-crece-como-ninguna-otra-plataforma-1059779'>Disney+ esquiva la fatiga de la suscripción y crece como ninguna otra plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-esquiva-fatiga-suscripcion-crece-como-ninguna-otra-plataforma-1059779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-celebra-semana-grande-ahora-solo-te-costara-199eu-darte-alta-2526657.jpg' alt='Disney+ esquiva la fatiga de la suscripción y crece como ninguna otra plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-aspira-friega-ademas-mucho-barata-piensas-1058609'>Esta Roomba aspira y friega, y además es mucho más barata de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roomba-aspira-friega-ademas-mucho-barata-piensas-1058609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-combo-robot-vacuum-and-mop-2697769.jpg' alt='Esta Roomba aspira y friega, y además es mucho más barata de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-24-nuevos-idiomas-forma-muy-sencilla-gracias-ia-1059737'>Traductor de Google añade 24 nuevos idiomas de una forma muy sencilla gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-24-nuevos-idiomas-forma-muy-sencilla-gracias-ia-1059737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='Traductor de Google añade 24 nuevos idiomas de una forma muy sencilla gracias a la IA' />
     </a>
 </div>
 
