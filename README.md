@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077'>Google llevaría una característica propia de los móviles a Android TV en su próxima actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Google llevaría una característica propia de los móviles a Android TV en su próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/liquidacion-lavadoras-cecotec-1059841'>Liquidación en lavadoras de bajo consumo y programables: Cecotec rebaja casi todos sus modelos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/liquidacion-lavadoras-cecotec-1059841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lavadora-cecotec-2700231.jpg' alt='Liquidación en lavadoras de bajo consumo y programables: Cecotec rebaja casi todos sus modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069'>El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/huawei-mate-xs-1876283.jpg' alt='El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051'>Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-iphone-15-dejaria-atras-lightning-favor-usb-c-1060051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Los últimos rumores apuntan a que el iPhone 15 dejaría atrás el Lightning en favor del USB-C' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059'>Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llega-android-auto-77-actualizacion-estaban-esperando-usuarios-samsung-1060059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Llega Android Auto 7.7, la actualización que estaban esperando los usuarios de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-9-9-5g-pad-mini-toma-contacto-disponibilidad-precios-1060065'>Realme 9, 9 5G y Pad Mini: toma de contacto, disponibilidad y precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-9-9-5g-pad-mini-toma-contacto-disponibilidad-precios-1060065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-9-5g-pad-mini-2700739.jpg' alt='Realme 9, 9 5G y Pad Mini: toma de contacto, disponibilidad y precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/guardia-civil-lia-redes-polemica-imagen-1060053'>La Guardia Civil la lía en redes con una polémica imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/guardia-civil-lia-redes-polemica-imagen-1060053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/carriles-bici-2700691.jpg' alt='La Guardia Civil la lía en redes con una polémica imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161'>realme 9 4G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-9-4g-review-opinion-1054161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699589.jpg' alt='realme 9 4G, análisis y opinión' />
     </a>
 </div>
 
