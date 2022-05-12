@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969'>OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-evento-speed-games-2700475.jpg' alt='OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-freidora-aceite-1059907'>¿Cómo funciona una freidora sin aceite?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-funciona-freidora-aceite-1059907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='¿Cómo funciona una freidora sin aceite?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-royal-mail-britanica-llevar-correos-lugares-remotos-500-drones-surcando-cielos-1059887'>El plan de la Royal Mail británica para llevar correos a lugares remotos: 500 drones surcando los cielos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/plan-royal-mail-britanica-llevar-correos-lugares-remotos-500-drones-surcando-cielos-1059887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/royal-mail-2700389.jpg' alt='El plan de la Royal Mail británica para llevar correos a lugares remotos: 500 drones surcando los cielos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875'>Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-1059875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Así es como el fundador de Terra pretende rescatar su criptomoneda de la extinción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883'>El rover de la NASA acaba de descubrir una puerta en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-acaba-descubrir-puerta-marte-1059883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/PIA22105-16.jpg' alt='El rover de la NASA acaba de descubrir una puerta en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-colesterol-universidad-harvard-1059819'>Los mejores alimentos para reducir el colesterol, según la Universidad de Harvard</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-alimentos-reducir-colesterol-universidad-harvard-1059819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-alimentos-reducir-colesterol-universidad-harvard-2700223.jpg' alt='Los mejores alimentos para reducir el colesterol, según la Universidad de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723'>OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oled-rtx-3050-precio-increiblemente-worten-tira-casa-ventana-portatil-oferta-1059723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/asus-vivobook-pro-15-2571215.jpg' alt='OLED y RTX 3050 a un precio increíblemente bajo: Worten tira la casa por la ventana con este portátil en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845'>Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-empresa-valor-mundo-pierde-puesto-no-tecnologica-1059845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/logo-apple-portada-imitacion-macbook-2700245.jpg' alt='Apple ya no es la empresa de más valor del mundo, pierde el puesto ante una no tecnológica' />
     </a>
 </div>
 
