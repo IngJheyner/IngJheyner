@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-esquiva-fatiga-suscripcion-crece-como-ninguna-otra-plataforma-1059779'>Disney+ esquiva la fatiga de la suscripción y crece como ninguna otra plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-esquiva-fatiga-suscripcion-crece-como-ninguna-otra-plataforma-1059779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-celebra-semana-grande-ahora-solo-te-costara-199eu-darte-alta-2526657.jpg' alt='Disney+ esquiva la fatiga de la suscripción y crece como ninguna otra plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-aspira-friega-ademas-mucho-barata-piensas-1058609'>Esta Roomba aspira y friega, y además es mucho más barata de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roomba-aspira-friega-ademas-mucho-barata-piensas-1058609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-combo-robot-vacuum-and-mop-2697769.jpg' alt='Esta Roomba aspira y friega, y además es mucho más barata de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-24-nuevos-idiomas-forma-muy-sencilla-gracias-ia-1059737'>Traductor de Google añade 24 nuevos idiomas de una forma muy sencilla gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traductor-google-anade-24-nuevos-idiomas-forma-muy-sencilla-gracias-ia-1059737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/traductor-google-2665227.jpg' alt='Traductor de Google añade 24 nuevos idiomas de una forma muy sencilla gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/neurociencia-explica-hay-detras-adiccion-apps-citas-tipo-tinder-1059731'>La neurociencia explica que hay detrás de la adicción a las apps de citas tipo Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/neurociencia-explica-hay-detras-adiccion-apps-citas-tipo-tinder-1059731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tinder-app-2658855.jpg' alt='La neurociencia explica que hay detrás de la adicción a las apps de citas tipo Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/anos-peticiones-nvidia-ha-publicado-codigo-fuente-modulos-kernel-gpu-1059705'>Tras años de peticiones NVIDIA ha publicado el código fuente de módulos del Kernel de las GPU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/anos-peticiones-nvidia-ha-publicado-codigo-fuente-modulos-kernel-gpu-1059705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='Tras años de peticiones NVIDIA ha publicado el código fuente de módulos del Kernel de las GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-616-computer-hoy-1055553'>¡Ya está en tu quiosco el número 616 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-616-computer-hoy-1055553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/computer-hoy-616-2693689.jpg' alt='¡Ya está en tu quiosco el número 616 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399'>Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-dias-naranjas-pccomponentes-1059399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dias-naranjas-pccomponentes-2699655.jpg' alt='Días Naranjas de PcComponentes: estas son las 26 mejores ofertas que puedes encontrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483'>40 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/40-noticias-tecnologia-comenzar-manana-informado-ultimo-1059483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/noticias-11-mayo-resumen-2699795.jpg' alt='40 noticias de tecnología para comenzar tu mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699533.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
     </a>
 </div>
 
