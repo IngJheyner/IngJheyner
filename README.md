@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kahoot-2700547.jpg' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-hora-2222-son-horas-espejo-1060005'>Qué significa la hora 22:22 y qué son las horas espejo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-hora-2222-son-horas-espejo-1060005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/reloj-oficina-2625837.jpg' alt='Qué significa la hora 22:22 y qué son las horas espejo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-podria-perder-derechos-mickey-mouse-otros-personajes-emblematicos-1059917'>Disney podría perder los derechos de Mickey Mouse y otros de sus personajes más emblemáticos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-podria-perder-derechos-mickey-mouse-otros-personajes-emblematicos-1059917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/mickey-mouse-1922473.jpg' alt='Disney podría perder los derechos de Mickey Mouse y otros de sus personajes más emblemáticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969'>OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-anuncia-fecha-lanzamiento-nuevos-productos-familia-nord-1059969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-evento-speed-games-2700475.jpg' alt='OnePlus anuncia la fecha de lanzamiento de los nuevos productos de la familia Nord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-freidora-aceite-1059907'>¿Cómo funciona una freidora sin aceite?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-funciona-freidora-aceite-1059907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='¿Cómo funciona una freidora sin aceite?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-royal-mail-britanica-llevar-correos-lugares-remotos-500-drones-surcando-cielos-1059887'>El plan de la Royal Mail británica para llevar correos a lugares remotos: 500 drones surcando los cielos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/plan-royal-mail-britanica-llevar-correos-lugares-remotos-500-drones-surcando-cielos-1059887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/royal-mail-2700389.jpg' alt='El plan de la Royal Mail británica para llevar correos a lugares remotos: 500 drones surcando los cielos' />
     </a>
 </div>
 
