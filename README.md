@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763'>El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/xiaomi-mi-smart-standing-fan-1c-2327251.jpg' alt='El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637'>¿Es seguro comprar fruta ya partida en el supermercado?</a></h4>
     <a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/piezas-fruta-2701891.jpg' alt='¿Es seguro comprar fruta ya partida en el supermercado?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619'>Titan Slim, la sucesora de Blackberry con teclado físico desata la locura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Titan Slim, la sucesora de Blackberry con teclado físico desata la locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617'>Así es como Google va a revolucionar Android Auto este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Así es como Google va a revolucionar Android Auto este verano' />
     </a>
 </div>
 
