@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463'>El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno8-portada-2666923.jpg' alt='El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/experimento-salvador-bitcoin-convierte-autentica-pesadilla-1060481'>El experimento de El Salvador con Bitcoin se convierte en una auténtica pesadilla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/experimento-salvador-bitcoin-convierte-autentica-pesadilla-1060481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/salvador-compra-otros-150-bitcoins-durante-caida-criptodivisa-eleva-posesion-total-31-millones-dolares-2477367.jpg' alt='El experimento de El Salvador con Bitcoin se convierte en una auténtica pesadilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479'>Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409'>Qué es el modo quiosco de Windows 10 y 11 y para qué sirve</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Qué es el modo quiosco de Windows 10 y 11 y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385'>Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/biorreactor-algas.jpg' alt='Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743'>Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses' />
     </a>
 </div>
 
