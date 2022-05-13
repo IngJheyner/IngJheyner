@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097'>34 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-diario-12-mayo-2700787.jpg' alt='34 noticias de tecnología para comenzar tu mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-4k-1059843'>Proyector 4K: mejores modelos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-4k-1059843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/proyector-encendido-mesa-2700631.jpg' alt='Proyector 4K: mejores modelos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087'>Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077'>Google llevaría una característica propia de los móviles a Android TV en su próxima actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Google llevaría una característica propia de los móviles a Android TV en su próxima actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/liquidacion-lavadoras-cecotec-1059841'>Liquidación en lavadoras de bajo consumo y programables: Cecotec rebaja casi todos sus modelos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/liquidacion-lavadoras-cecotec-1059841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lavadora-cecotec-2700231.jpg' alt='Liquidación en lavadoras de bajo consumo y programables: Cecotec rebaja casi todos sus modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069'>El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-xs-2-estaria-vuelta-esquina-todo-sabemos-nuevo-plegable-huawei-1060069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/huawei-mate-xs-1876283.jpg' alt='El Huawei Mate Xs 2 estaría a la vuelta de la esquina y esto es todo lo que sabemos del nuevo plegable de Huawei' />
     </a>
 </div>
 
