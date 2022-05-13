@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619'>Titan Slim, la sucesora de Blackberry con teclado físico desata la locura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Titan Slim, la sucesora de Blackberry con teclado físico desata la locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617'>Así es como Google va a revolucionar Android Auto este verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Así es como Google va a revolucionar Android Auto este verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597'>TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557'>Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2701739.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente' />
     </a>
 </div>
 
