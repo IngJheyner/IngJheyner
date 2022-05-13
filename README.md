@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385'>Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/biorreactor-algas.jpg' alt='Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743'>Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341'>WhatsApp está trabajando en una versión de escritorio nativa para MacOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-aplicacion-nativa-macos-2701075.jpg' alt='WhatsApp está trabajando en una versión de escritorio nativa para MacOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031'>25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445853.jpg' alt='25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana' />
     </a>
 </div>
 
