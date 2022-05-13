@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637'>¿Es seguro comprar fruta ya partida en el supermercado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/piezas-fruta-2701891.jpg' alt='¿Es seguro comprar fruta ya partida en el supermercado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621'>Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-xperia-10-iv-2701861.jpg' alt='Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detalles-inminente-xiaomi-mi-band-7-pantalla-bateria-versiones-1060633'>Más detalles de la inminente Xiaomi Mi Band 7: pantalla, batería y versiones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detalles-inminente-xiaomi-mi-band-7-pantalla-bateria-versiones-1060633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Más detalles de la inminente Xiaomi Mi Band 7: pantalla, batería y versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619'>Titan Slim, la sucesora de Blackberry con teclado físico desata la locura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Titan Slim, la sucesora de Blackberry con teclado físico desata la locura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617'>Así es como Google va a revolucionar Android Auto este verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Así es como Google va a revolucionar Android Auto este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/accesorios-imprescindibles-patinete-electrico-1060531'>Accesorios imprescindibles si tienes un patinete eléctrico que debes tener sí o sí</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/accesorios-imprescindibles-patinete-electrico-1060531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ninebot-kickscooter-e45e-2684255.jpg' alt='Accesorios imprescindibles si tienes un patinete eléctrico que debes tener sí o sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-movistar-smart-wifi-6-1060375'>Nuevo router Movistar Smart WiFi 6: estas alternativas son iguales o mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-movistar-smart-wifi-6-1060375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-aiot-router-ax3600-2265295.jpg' alt='Nuevo router Movistar Smart WiFi 6: estas alternativas son iguales o mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597'>TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat' />
     </a>
 </div>
 
