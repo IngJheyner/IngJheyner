@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479'>Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrias-perder-criptomonedas-coinbase-alarga-mucho-tiempo-crisis-1060457'>¿Podrías perder tus criptomonedas de Coinbase si se alarga mucho tiempo la crisis?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podrias-perder-criptomonedas-coinbase-alarga-mucho-tiempo-crisis-1060457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/salida-bolsa-coinbase-nasdaq-2299573.jpg' alt='¿Podrías perder tus criptomonedas de Coinbase si se alarga mucho tiempo la crisis?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409'>Qué es el modo quiosco de Windows 10 y 11 y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Qué es el modo quiosco de Windows 10 y 11 y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385'>Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microprocesadores-funcionan-base-algas-cambridge-lleva-ano-cpu-funcionando-1060385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/biorreactor-algas.jpg' alt='Microprocesadores que funcionan a base de algas, Cambridge lleva un año con una CPU funcionando así' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743'>Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-mix-dos-emojis-teclado-gboard-google-conseguir-resultados-muy-originales-1060353'>Así puedes crear el mix de dos emojis desde el teclado Gboard de Google y conseguir resultados muy originales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-mix-dos-emojis-teclado-gboard-google-conseguir-resultados-muy-originales-1060353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevos-emojis-android-12l-2524557.jpg' alt='Así puedes crear el mix de dos emojis desde el teclado Gboard de Google y conseguir resultados muy originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-cultivar-plantas-terreno-lunar-1060339'>Científicos logran cultivar plantas en terreno lunar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-cultivar-plantas-terreno-lunar-1060339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronomos-buscan-como-escapar-satelites-cegadores-elon-musk-telescopio-crater-luna-2330047.jpg' alt='Científicos logran cultivar plantas en terreno lunar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341'>WhatsApp está trabajando en una versión de escritorio nativa para MacOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-aplicacion-nativa-macos-2701075.jpg' alt='WhatsApp está trabajando en una versión de escritorio nativa para MacOS' />
     </a>
 </div>
 
