@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563'>Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg' alt='Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-1060495'>Hasta la DGT aplaude lo que hicieron estos dos conductores en una rotonda</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-1060495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-2701397.jpg' alt='Hasta la DGT aplaude lo que hicieron estos dos conductores en una rotonda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-peso-ideal-estar-saludable-1060549'>Cuál es mi peso ideal para estar saludable</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mi-peso-ideal-estar-saludable-1060549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-pesandose-bascula-digital-2676845.jpg' alt='Cuál es mi peso ideal para estar saludable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/marcas-neumaticos-duran-ocu-15000-km-diferencia-1060515'>Las marcas de neumáticos que más duran, según la OCU: hasta 15.000 Km de diferencia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/marcas-neumaticos-duran-ocu-15000-km-diferencia-1060515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neumaticos-basura-2020545.jpg' alt='Las marcas de neumáticos que más duran, según la OCU: hasta 15.000 Km de diferencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significa-pansexual-1060529'>¿Qué significa Pansexual? </a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-pansexual-1060529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/significa-pansexual-2701589.jpg' alt='¿Qué significa Pansexual? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463'>El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno8-portada-2666923.jpg' alt='El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/experimento-salvador-bitcoin-convierte-autentica-pesadilla-1060481'>El experimento de El Salvador con Bitcoin se convierte en una auténtica pesadilla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/experimento-salvador-bitcoin-convierte-autentica-pesadilla-1060481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/salvador-compra-otros-150-bitcoins-durante-caida-criptodivisa-eleva-posesion-total-31-millones-dolares-2477367.jpg' alt='El experimento de El Salvador con Bitcoin se convierte en una auténtica pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479'>Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios' />
     </a>
 </div>
 
