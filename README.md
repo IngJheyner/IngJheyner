@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649'>Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-1060647'>La OPPO Pad Air se ha filtrado al detalle antes de su presentación oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-1060647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-2701907.jpg' alt='La OPPO Pad Air se ha filtrado al detalle antes de su presentación oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763'>El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/xiaomi-mi-smart-standing-fan-1c-2327251.jpg' alt='El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621'>Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-xperia-10-iv-2701861.jpg' alt='Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detalles-inminente-xiaomi-mi-band-7-pantalla-bateria-versiones-1060633'>Más detalles de la inminente Xiaomi Mi Band 7: pantalla, batería y versiones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detalles-inminente-xiaomi-mi-band-7-pantalla-bateria-versiones-1060633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Más detalles de la inminente Xiaomi Mi Band 7: pantalla, batería y versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619'>Titan Slim, la sucesora de Blackberry con teclado físico desata la locura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/titan-slim-sucesora-blackberry-teclado-fisico-desata-locura-1060619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/titan-slim-2672341.jpg' alt='Titan Slim, la sucesora de Blackberry con teclado físico desata la locura' />
     </a>
 </div>
 
