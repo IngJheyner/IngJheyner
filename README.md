@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617'>Así es como Google va a revolucionar Android Auto este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-google-va-revolucionar-android-auto-verano-1060617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Así es como Google va a revolucionar Android Auto este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/accesorios-imprescindibles-patinete-electrico-1060531'>Accesorios imprescindibles si tienes un patinete eléctrico que debes tener sí o sí</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/accesorios-imprescindibles-patinete-electrico-1060531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ninebot-kickscooter-e45e-2684255.jpg' alt='Accesorios imprescindibles si tienes un patinete eléctrico que debes tener sí o sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-movistar-smart-wifi-6-1060375'>Nuevo router Movistar Smart WiFi 6: estas alternativas son iguales o mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-movistar-smart-wifi-6-1060375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/xiaomi-mi-aiot-router-ax3600-2265295.jpg' alt='Nuevo router Movistar Smart WiFi 6: estas alternativas son iguales o mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597'>TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-llena-gente-llorando-gracias-filtro-snapchat-1060597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='TikTok se llena de gente llorando, y es gracias a este filtro de Snapchat' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557'>Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2701739.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inestabilidad-criptomonedas-como-incluso-stablecoins-como-luna-ust-pueden-perder-todo-valor-1060567'>La inestabilidad de las criptomonedas o cómo incluso stablecoins como LUNA o UST pueden perder todo su valor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inestabilidad-criptomonedas-como-incluso-stablecoins-como-luna-ust-pueden-perder-todo-valor-1060567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-terra-2555411.jpg' alt='La inestabilidad de las criptomonedas o cómo incluso stablecoins como LUNA o UST pueden perder todo su valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-1060019'>Qué películas ver este fin de semana en Disney+, Netflix y Filmin: un matrimonio concertado, un drama que te llega al corazón y una "obra póstuma"</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-1060019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-2701327.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Filmin: un matrimonio concertado, un drama que te llega al corazón y una "obra póstuma"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-eres-creador-contenido-1042805'>Las mejores aplicaciones si eres creador de contenido</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-eres-creador-contenido-1042805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/editar-fotos-app-movil-2404033.jpg' alt='Las mejores aplicaciones si eres creador de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563'>Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg' alt='Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz' />
     </a>
 </div>
 
