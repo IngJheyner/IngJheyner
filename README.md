@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557'>Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-apple-tv-disney-mago-padre-serpiente-1060557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2701739.jpg' alt='Qué series ver este fin de semana en Netflix, Apple TV+ y Disney+: un mago, un padre y una serpiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inestabilidad-criptomonedas-como-incluso-stablecoins-como-luna-ust-pueden-perder-todo-valor-1060567'>La inestabilidad de las criptomonedas o cómo incluso stablecoins como LUNA o UST pueden perder todo su valor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inestabilidad-criptomonedas-como-incluso-stablecoins-como-luna-ust-pueden-perder-todo-valor-1060567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/luna-terra-2555411.jpg' alt='La inestabilidad de las criptomonedas o cómo incluso stablecoins como LUNA o UST pueden perder todo su valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-1060019'>Qué películas ver este fin de semana en Disney+, Netflix y Filmin: un matrimonio concertado, un drama que te llega al corazón y una "obra póstuma"</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-1060019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-disney-netflix-filmin-matrimonio-concertado-drama-te-llega-corazon-obra-postuma-2701327.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Filmin: un matrimonio concertado, un drama que te llega al corazón y una "obra póstuma"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563'>Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-1060563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg' alt='Motorola Moto G82: la nueva gama media llega con 5G y pantalla AMOLED con 120 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-1060495'>Hasta la DGT aplaude lo que hicieron estos dos conductores en una rotonda</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-1060495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dgt-aplaude-hicieron-estos-dos-conductores-rotonda-2701397.jpg' alt='Hasta la DGT aplaude lo que hicieron estos dos conductores en una rotonda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-peso-ideal-estar-saludable-1060549'>Cuál es mi peso ideal para estar saludable</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-mi-peso-ideal-estar-saludable-1060549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-pesandose-bascula-digital-2676845.jpg' alt='Cuál es mi peso ideal para estar saludable' />
     </a>
 </div>
 
