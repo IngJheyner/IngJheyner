@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743'>Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ganga-televisor-oled-lg-cuesta-649-euros-probablemente-modelo-barato-ultimos-meses-1059743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg' alt='Ganga en un televisor OLED de LG: cuesta 649 euros y es probablemente el modelo más barato de los últimos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-mix-dos-emojis-teclado-gboard-google-conseguir-resultados-muy-originales-1060353'>Así puedes crear el mix de dos emojis desde el teclado Gboard de Google y conseguir resultados muy originales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-mix-dos-emojis-teclado-gboard-google-conseguir-resultados-muy-originales-1060353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nuevos-emojis-android-12l-2524557.jpg' alt='Así puedes crear el mix de dos emojis desde el teclado Gboard de Google y conseguir resultados muy originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-cultivar-plantas-terreno-lunar-1060339'>Científicos logran cultivar plantas en terreno lunar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-cultivar-plantas-terreno-lunar-1060339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronomos-buscan-como-escapar-satelites-cegadores-elon-musk-telescopio-crater-luna-2330047.jpg' alt='Científicos logran cultivar plantas en terreno lunar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341'>WhatsApp está trabajando en una versión de escritorio nativa para MacOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-version-escritorio-nativa-macos-1060341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-aplicacion-nativa-macos-2701075.jpg' alt='WhatsApp está trabajando en una versión de escritorio nativa para MacOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031'>25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445853.jpg' alt='25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097'>34 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-diario-12-mayo-2700787.jpg' alt='34 noticias de tecnología para comenzar tu mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-4k-1059843'>Proyector 4K: mejores modelos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-4k-1059843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/proyector-encendido-mesa-2700631.jpg' alt='Proyector 4K: mejores modelos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087'>Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-preparando-nuevas-formas-interactuar-respuestas-tweets-1060087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter está preparando nuevas formas de interactuar con las respuestas a los tweets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085'>Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-2682115.jpg' alt='Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos' />
     </a>
 </div>
 
