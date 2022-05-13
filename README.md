@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031'>25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-13-mayo-2022-1060031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445853.jpg' alt='25 ofertas de Amazon, AliExpress, PcComponentes y más para ahorrar dinero este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097'>34 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1060097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-diario-12-mayo-2700787.jpg' alt='34 noticias de tecnología para comenzar tu mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085'>Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-te-muestra-emoji-usado-cada-pais-gobierna-todos-1060085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/107-emojis-nuevos-llegan-whatsapp-cada-cual-sorprendente-2682115.jpg' alt='Este mapa te muestra el emoji más usado en cada país y el que los gobierna a todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077'>Google llevaría una característica propia de los móviles a Android TV en su próxima actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-llevaria-caracteristica-propia-moviles-android-tv-proxima-actualizacion-1060077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-tv-2071479.jpg' alt='Google llevaría una característica propia de los móviles a Android TV en su próxima actualización' />
     </a>
 </div>
 
