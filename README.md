@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/marcas-neumaticos-duran-ocu-15000-km-diferencia-1060515'>Las marcas de neumáticos que más duran, según la OCU: hasta 15.000 Km de diferencia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/marcas-neumaticos-duran-ocu-15000-km-diferencia-1060515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neumaticos-basura-2020545.jpg' alt='Las marcas de neumáticos que más duran, según la OCU: hasta 15.000 Km de diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-pansexual-1060529'>¿Qué significa Pansexual? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-pansexual-1060529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/significa-pansexual-2701589.jpg' alt='¿Qué significa Pansexual? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463'>El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-filtra-pantalla-oled-camara-50-mpx-procesador-dimensity-1060463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oppo-reno8-portada-2666923.jpg' alt='El Oppo Reno8 Pro se filtra: pantalla OLED, cámara de 50 Mpx y procesador Dimensity' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479'>Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-no-comprar-twitter-saber-numero-real-usuarios-1060479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/elon-musk_4.jpg' alt='Elon Musk amenaza con no comprar Twitter hasta saber el número real de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrias-perder-criptomonedas-coinbase-alarga-mucho-tiempo-crisis-1060457'>¿Podrías perder tus criptomonedas de Coinbase si se alarga mucho tiempo la crisis?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podrias-perder-criptomonedas-coinbase-alarga-mucho-tiempo-crisis-1060457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/salida-bolsa-coinbase-nasdaq-2299573.jpg' alt='¿Podrías perder tus criptomonedas de Coinbase si se alarga mucho tiempo la crisis?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409'>Qué es el modo quiosco de Windows 10 y 11 y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-quiosco-windows-10-11-sirve-1060409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Qué es el modo quiosco de Windows 10 y 11 y para qué sirve' />
     </a>
 </div>
 
