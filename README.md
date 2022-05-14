@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923'>Transforman un Tesla Model 3 en una especie de tanque eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/transforman-tesla-model-3-imponente-tanque-electrico-2702265.jpg' alt='Transforman un Tesla Model 3 en una especie de tanque eléctrico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905'>El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447'>6 películas en las que encontrarás niños inquietantes que te darán miedo</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hereditary-2699699.jpg' alt='6 películas en las que encontrarás niños inquietantes que te darán miedo' />
     </a>
 </div>
 
