@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025'>Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/download-2681641.jpg' alt='Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola con palanca</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola con palanca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977'>¿Cómo funciona Wallapop?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='¿Cómo funciona Wallapop?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595'>Guía y consejos para comprar una lavadora con función de secadora</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586449.jpg' alt='Guía y consejos para comprar una lavadora con función de secadora' />
     </a>
 </div>
 
