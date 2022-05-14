@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265'>Samsung Galaxy M33 5G, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-samsung-galaxy-m33-5g-2701701.jpg' alt='Samsung Galaxy M33 5G, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tv-barato-podria-salir-meses-acortar-distancias-competidores-1060891'>Un Apple TV barato podría salir en unos meses para acortar distancias con sus competidores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-tv-barato-podria-salir-meses-acortar-distancias-competidores-1060891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-tv-2021-2325193.jpg' alt='Un Apple TV barato podría salir en unos meses para acortar distancias con sus competidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623'>Cómo evitar los 8 errores de comunicación más comunes al teletrabajar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajo-casa-2674103.jpg' alt='Cómo evitar los 8 errores de comunicación más comunes al teletrabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025'>Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/download-2681641.jpg' alt='Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola más original</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola más original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769'>Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-game-pass-2697479.jpg' alt='Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-megapixeles-batalla-camaras-inutiles-macro-nuevo-movil-1058425'>De la guerra de los megapíxeles a la batalla por las cámaras inútiles y el macro de tu nuevo móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guerra-megapixeles-batalla-camaras-inutiles-macro-nuevo-movil-1058425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Nokia9.jpg' alt='De la guerra de los megapíxeles a la batalla por las cámaras inútiles y el macro de tu nuevo móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977'>¿Cómo funciona Wallapop?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='¿Cómo funciona Wallapop?' />
     </a>
 </div>
 
