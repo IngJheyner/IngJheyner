@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921'>Mensajes de Google pronto te sugerirá acciones como destacar y programar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Mensajes de Google pronto te sugerirá acciones como destacar y programar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913'>Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-band-6-2306343.jpg' alt='Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903'>Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265'>Samsung Galaxy M33 5G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-samsung-galaxy-m33-5g-2701701.jpg' alt='Samsung Galaxy M33 5G, análisis y opinión' />
     </a>
 </div>
 
