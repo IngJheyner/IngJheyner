@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923'>Transforman un Tesla Model 3 en una especie de tanque eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/transforman-tesla-model-3-imponente-tanque-electrico-2702265.jpg' alt='Transforman un Tesla Model 3 en una especie de tanque eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921'>Mensajes de Google pronto te sugerirá acciones como destacar y programar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Mensajes de Google pronto te sugerirá acciones como destacar y programar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447'>6 películas en las que encontrarás niños inquietantes que te darán miedo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hereditary-2699699.jpg' alt='6 películas en las que encontrarás niños inquietantes que te darán miedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903'>Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo' />
     </a>
 </div>
 
