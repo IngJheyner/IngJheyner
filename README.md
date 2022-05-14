@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595'>Guía y consejos para comprar una lavadora con función de secadora</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586449.jpg' alt='Guía y consejos para comprar una lavadora con función de secadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649'>Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637'>¿Es seguro comprar fruta ya partida en el supermercado?</a></h4>
     <a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/piezas-fruta-2701891.jpg' alt='¿Es seguro comprar fruta ya partida en el supermercado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621'>Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-anuncia-nuevo-smartphone-xperia-10-iv-snapdragon-695-5000-mah-bateria-1060621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-xperia-10-iv-2701861.jpg' alt='Sony anuncia su nuevo smartphone Xperia 10 IV: Snapdragon 695 y 5.000 mAh de batería' />
     </a>
 </div>
 
