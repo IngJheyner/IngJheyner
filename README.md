@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967'>WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957'>El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921'>Mensajes de Google pronto te sugerirá acciones como destacar y programar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Mensajes de Google pronto te sugerirá acciones como destacar y programar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913'>Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-band-6-2306343.jpg' alt='Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata' />
     </a>
 </div>
 
