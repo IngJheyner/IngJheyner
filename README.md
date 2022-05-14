@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola con palanca</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola más original</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola con palanca' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola más original' />
     </a>
 </div>
 
