@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957'>El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913'>Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-band-6-2306343.jpg' alt='Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905'>El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018' />
     </a>
 </div>
 
