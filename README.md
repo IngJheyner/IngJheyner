@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913'>Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ya-no-actualizara-mi-band-4-momento-conseguir-mi-band-6-barata-1060913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/xiaomi-mi-band-6-2306343.jpg' alt='Xiaomi ya no actualizará la Mi Band 4: es el momento de conseguir una Mi Band 6 barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905'>El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-watch-utilizaria-chip-galaxy-watch-2018-1060905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg' alt='El Google Pixel Watch utilizaría el chip del Galaxy Watch de 2018' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447'>6 películas en las que encontrarás niños inquietantes que te darán miedo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hereditary-2699699.jpg' alt='6 películas en las que encontrarás niños inquietantes que te darán miedo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265'>Samsung Galaxy M33 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-samsung-galaxy-m33-5g-2701701.jpg' alt='Samsung Galaxy M33 5G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tv-barato-podria-salir-meses-acortar-distancias-competidores-1060891'>Un Apple TV barato podría salir en unos meses para acortar distancias con sus competidores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-tv-barato-podria-salir-meses-acortar-distancias-competidores-1060891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-tv-2021-2325193.jpg' alt='Un Apple TV barato podría salir en unos meses para acortar distancias con sus competidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623'>Cómo evitar los 8 errores de comunicación más comunes al teletrabajar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajo-casa-2674103.jpg' alt='Cómo evitar los 8 errores de comunicación más comunes al teletrabajar' />
     </a>
 </div>
 
