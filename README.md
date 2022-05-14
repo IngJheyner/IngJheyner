@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769'>Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-game-pass-2697479.jpg' alt='Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-megapixeles-batalla-camaras-inutiles-macro-nuevo-movil-1058425'>De la guerra de los megapíxeles a la batalla por las cámaras inútiles y el macro de tu nuevo móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerra-megapixeles-batalla-camaras-inutiles-macro-nuevo-movil-1058425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Nokia9.jpg' alt='De la guerra de los megapíxeles a la batalla por las cámaras inútiles y el macro de tu nuevo móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977'>¿Cómo funciona Wallapop?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-wallapop-1046977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31114-wallapop-app-comprar-vender-segunda-mano-tu-barrio.jpg' alt='¿Cómo funciona Wallapop?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595'>Guía y consejos para comprar una lavadora con función de secadora</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586449.jpg' alt='Guía y consejos para comprar una lavadora con función de secadora' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649'>Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-1060647'>La OPPO Pad Air se ha filtrado al detalle antes de su presentación oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-1060647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-pad-air-ha-filtrado-detalle-antes-presentacion-oficial-2701907.jpg' alt='La OPPO Pad Air se ha filtrado al detalle antes de su presentación oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763'>El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-xiaomi-alexa-adapta-temperatura-casa-promete-refrescarte-verano-1059763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/xiaomi-mi-smart-standing-fan-1c-2327251.jpg' alt='El ventilador inteligente de Xiaomi con Alexa se adapta a la temperatura de tu casa y promete refrescarte este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637'>¿Es seguro comprar fruta ya partida en el supermercado?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/seguro-comprar-fruta-ya-partida-supermercado-1060637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/piezas-fruta-2701891.jpg' alt='¿Es seguro comprar fruta ya partida en el supermercado?' />
     </a>
 </div>
 
