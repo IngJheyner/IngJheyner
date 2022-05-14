@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola con palanca</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola con palanca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769'>Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/eres-movistar-te-interesa-puedes-conseguir-20gb-movil-gratis-mes-game-pass-ultimate-1059769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movistar-game-pass-2697479.jpg' alt='Si eres de Movistar, esto te interesa: puedes conseguir 20GB para tu móvil gratis y un mes de Game Pass Ultimate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595'>Guía y consejos para comprar una lavadora con función de secadora</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavadora-funcion-secadora-995595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586449.jpg' alt='Guía y consejos para comprar una lavadora con función de secadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649'>Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-iphone-usb-c-llegarian-antes-esperado-seria-gracias-union-europea-1060649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='Todo apunta a que los iPhone con USB-C llegarían antes de lo esperado y sería gracias a la Unión Europea' />
     </a>
 </div>
 
