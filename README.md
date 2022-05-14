@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447'>6 películas en las que encontrarás niños inquietantes que te darán miedo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-encontraras-ninos-inquietantes-te-daran-miedo-1059447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/hereditary-2699699.jpg' alt='6 películas en las que encontrarás niños inquietantes que te darán miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903'>Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-ser-nuevo-canal-television-transmisiones-vivo-1060903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Netflix quiere ser tu nuevo canal de televisión con sus transmisiones en vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265'>Samsung Galaxy M33 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-m33-review-opinion-1059265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-samsung-galaxy-m33-5g-2701701.jpg' alt='Samsung Galaxy M33 5G, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623'>Cómo evitar los 8 errores de comunicación más comunes al teletrabajar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-evitar-8-errores-comunicacion-comunes-teletrabajar-1044623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/trabajo-casa-2674103.jpg' alt='Cómo evitar los 8 errores de comunicación más comunes al teletrabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025'>Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-ubicacion-defecto-descargas-windows-10-11-1049025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/download-2681641.jpg' alt='Cómo cambiar la ubicación por defecto de las descargas en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713'>Playdate, análisis y opinión de la consola más original</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/playdate-review-opinion-consola-palanca-1058713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-playdate-2701663.jpg' alt='Playdate, análisis y opinión de la consola más original' />
     </a>
 </div>
 
