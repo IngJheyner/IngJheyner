@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235'>Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217'>Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lg-65nano996na-nanocell-8k-2702645.jpg' alt='Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201'>Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida</a></h4>
     <a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/accidente-coche-2702639.jpg' alt='Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687'>Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless</a></h4>
-    <a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/turtle-beach-scout-air-review-2701267.jpg' alt='Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless' />
     </a>
 </div>
 
