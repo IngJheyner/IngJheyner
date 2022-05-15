@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965'>Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dinosaur-apocalypse-2702389.jpg' alt='Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997'>Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comprar-ordenador-2696743.jpg' alt='Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-spinning-yesoul-xiaomi-1060947'>Estas son las bicis de spinning de Xiaomi que puedes comprar en España</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/bicicletas-spinning-yesoul-xiaomi-1060947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bici-spinning-yesoul-xiaomi-2702367.jpg' alt='Estas son las bicis de spinning de Xiaomi que puedes comprar en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-mit-curar-sordera-tratamiento-2-horas-1057627'>Científicos del MIT aseguran que pueden curar la sordera con un tratamiento de 2 horas</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-mit-curar-sordera-tratamiento-2-horas-1057627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientificos-mit-aseguran-pueden-curar-sordera-tratamiento-2-horas-2696171.jpg' alt='Científicos del MIT aseguran que pueden curar la sordera con un tratamiento de 2 horas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203'>Guía y consejos para comprar una parrilla de piedra eléctrica</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/piedra-carne-2554825.jpg' alt='Guía y consejos para comprar una parrilla de piedra eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967'>WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957'>El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-pro-apostaria-cristal-zafiro-titanio-1060957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='El Samsung Galaxy Watch 5 Pro apostaría por el cristal de zafiro y por el titanio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/galeria-analisis-redmi-note-10s-2327815.jpg' alt='Xiaomi Redmi Note 10S en 2022: ¿merece la pena? Puntos a favor y en contra' />
     </a>
 </div>
 
