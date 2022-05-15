@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359'>7 maneras de utilizar el USB OTG en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/usb-smartphone-2692103.jpg' alt='7 maneras de utilizar el USB OTG en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919'>EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702261.jpg' alt='EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961'>Crean un tatuaje que brilla para desvelar el oxígeno en la sangre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tatuajes-2702375.jpg' alt='Crean un tatuaje que brilla para desvelar el oxígeno en la sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965'>Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dinosaur-apocalypse-2702389.jpg' alt='Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios' />
     </a>
 </div>
 
