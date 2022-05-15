@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217'>Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lg-65nano996na-nanocell-8k-2702645.jpg' alt='Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inversores-shiba-inu-comienzan-tomar-medidas-drasticas-evitar-desaparicion-1061203'>Los inversores de Shiba Inu comienzan a tomar medidas drásticas para evitar su desaparición</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inversores-shiba-inu-comienzan-tomar-medidas-drasticas-evitar-desaparicion-1061203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Los inversores de Shiba Inu comienzan a tomar medidas drásticas para evitar su desaparición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141'>Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/heartstopper-2683673.jpg' alt='Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687'>Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless</a></h4>
     <a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/turtle-beach-scout-air-review-2701267.jpg' alt='Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/alertan-fallo-dos-coches-vendidos-espana-1061195'>Alertan de un fallo en dos de los coches más vendidos en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/alertan-fallo-dos-coches-vendidos-espana-1061195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seat-leon-2702635.jpg' alt='Alertan de un fallo en dos de los coches más vendidos en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187'>Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-lidl-2702627.jpg' alt='Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros' />
     </a>
 </div>
 
