@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141'>Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/heartstopper-2683673.jpg' alt='Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201'>Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/accidente-coche-2702639.jpg' alt='Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687'>Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless</a></h4>
+    <a href='https://computerhoy.com/analisis/gaming/turtle-beach-scout-air-review-opinion-cascos-gaming-true-wireless-1056687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/turtle-beach-scout-air-review-2701267.jpg' alt='Turtle Beach Scout Air, análisis y opinión de los cascos gaming True Wireless' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/alertan-fallo-dos-coches-vendidos-espana-1061195'>Alertan de un fallo en dos de los coches más vendidos en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/alertan-fallo-dos-coches-vendidos-espana-1061195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seat-leon-2702635.jpg' alt='Alertan de un fallo en dos de los coches más vendidos en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187'>Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-lidl-2702627.jpg' alt='Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mhealth-sanidad-movil-1053851'>¿Qué es mHealth o sanidad móvil?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mhealth-sanidad-movil-1053851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mhealth-sanidad-movil-2701593.jpg' alt='¿Qué es mHealth o sanidad móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359'>7 maneras de utilizar el USB OTG en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/usb-smartphone-2692103.jpg' alt='7 maneras de utilizar el USB OTG en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919'>EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702261.jpg' alt='EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955'>Robot limpiacristales Cecotec: estos son los mejores de la marca española</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/conga-windroid-980-connected-2702379.jpg' alt='Robot limpiacristales Cecotec: estos son los mejores de la marca española' />
     </a>
 </div>
 
