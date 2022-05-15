@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057'>Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235'>Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141'>Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/heartstopper-2683673.jpg' alt='Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201'>Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hoja-rescate-coche-como-conseguirla-documento-te-puede-salvar-vida-1061201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/accidente-coche-2702639.jpg' alt='Qué es la hoja de rescate del coche y cómo conseguirla: el documento que te puede salvar la vida' />
     </a>
 </div>
 
