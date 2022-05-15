@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203'>Guía y consejos para comprar una parrilla de piedra eléctrica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/piedra-carne-2554825.jpg' alt='Guía y consejos para comprar una parrilla de piedra eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967'>WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-tengas-vistas-previas-enlaces-actualizaciones-estado-1060967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estados-whatsapp-2550255.jpg' alt='WhatsApp quiere que tengas vistas previas de enlaces en las actualizaciones de estado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923'>Transforman un Tesla Model 3 en una especie de tanque eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/transforman-tesla-model-3-especie-tanque-electrico-1060923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/transforman-tesla-model-3-imponente-tanque-electrico-2702265.jpg' alt='Transforman un Tesla Model 3 en una especie de tanque eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921'>Mensajes de Google pronto te sugerirá acciones como destacar y programar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mensajes-google-pronto-te-sugerira-acciones-como-destacar-programar-1060921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-mensajes-2080927.jpg' alt='Mensajes de Google pronto te sugerirá acciones como destacar y programar' />
     </a>
 </div>
 
