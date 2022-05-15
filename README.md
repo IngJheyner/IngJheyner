@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919'>EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ecoflow-river-pro-panel-solar-110w-probamos-kit-carga-me-llevaria-apocalipsis-zombie-1060919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702261.jpg' alt='EcoFlow RIVER Pro con panel solar de 110W, probamos el kit de carga que me llevaría a un apocalipsis zombie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955'>Robot limpiacristales Cecotec: estos son los mejores de la marca española</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/conga-windroid-980-connected-2702379.jpg' alt='Robot limpiacristales Cecotec: estos son los mejores de la marca española' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965'>Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios</a></h4>
     <a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dinosaur-apocalypse-2702389.jpg' alt='Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997'>Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comprar-ordenador-2696743.jpg' alt='Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano' />
     </a>
 </div>
 
