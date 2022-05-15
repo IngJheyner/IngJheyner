@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-historial-portapapeles-windows-10-11-sirve-1056829'>Cómo activar el historial del portapapeles en Windows 10 y 11 y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-historial-portapapeles-windows-10-11-sirve-1056829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portapapeles-2585851.jpg' alt='Cómo activar el historial del portapapeles en Windows 10 y 11 y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057'>Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inversores-shiba-inu-comienzan-tomar-medidas-drasticas-evitar-desaparicion-1061203'>Los inversores de Shiba Inu comienzan a tomar medidas drásticas para evitar su desaparición</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inversores-shiba-inu-comienzan-tomar-medidas-drasticas-evitar-desaparicion-1061203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Los inversores de Shiba Inu comienzan a tomar medidas drásticas para evitar su desaparición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141'>Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-adolescentes-conocidas-actualidad-1058141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/heartstopper-2683673.jpg' alt='Las 7 series de adolescentes más conocidas de la actualidad que puedes ver en Netflix, HBO Max y Prime Video' />
     </a>
 </div>
 
