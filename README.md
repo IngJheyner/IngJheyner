@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955'>Robot limpiacristales Cecotec: estos son los mejores de la marca española</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/conga-windroid-980-connected-2702379.jpg' alt='Robot limpiacristales Cecotec: estos son los mejores de la marca española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-conseguir-verificacion-tiktok-1057861'>Consejos para conseguir la verificación en TikTok</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-conseguir-verificacion-tiktok-1057861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='Consejos para conseguir la verificación en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961'>Crean un tatuaje que brilla para desvelar el oxígeno en la sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tatuajes-2702375.jpg' alt='Crean un tatuaje que brilla para desvelar el oxígeno en la sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965'>Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios</a></h4>
     <a href='https://computerhoy.com/noticias/life/afirman-haber-encontrado-trozo-asteroide-extinguio-dinosaurios-1060965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dinosaur-apocalypse-2702389.jpg' alt='Afirman haber encontrado un trozo del asteroide que extinguió a los dinosaurios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997'>Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/pruebas-siempre-deberias-hacer-antes-comprar-ordenador-segunda-mano-1057997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/comprar-ordenador-2696743.jpg' alt='Pruebas que siempre deberías hacer antes de comprar un ordenador de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-spinning-yesoul-xiaomi-1060947'>Estas son las bicis de spinning de Xiaomi que puedes comprar en España</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/bicicletas-spinning-yesoul-xiaomi-1060947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bici-spinning-yesoul-xiaomi-2702367.jpg' alt='Estas son las bicis de spinning de Xiaomi que puedes comprar en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-mit-curar-sordera-tratamiento-2-horas-1057627'>Científicos del MIT aseguran que pueden curar la sordera con un tratamiento de 2 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-mit-curar-sordera-tratamiento-2-horas-1057627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientificos-mit-aseguran-pueden-curar-sordera-tratamiento-2-horas-2696171.jpg' alt='Científicos del MIT aseguran que pueden curar la sordera con un tratamiento de 2 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203'>Guía y consejos para comprar una parrilla de piedra eléctrica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-parrilla-piedra-electrica-977203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/piedra-carne-2554825.jpg' alt='Guía y consejos para comprar una parrilla de piedra eléctrica' />
     </a>
 </div>
 
