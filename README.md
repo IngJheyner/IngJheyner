@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187'>Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/adelantate-calor-aire-acondicionado-portatil-lidl-menos-180-euros-1061187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-lidl-2702627.jpg' alt='Adelántate al calor con el aire acondicionado portátil de LIDL por menos de 180 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mhealth-sanidad-movil-1053851'>¿Qué es mHealth o sanidad móvil?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mhealth-sanidad-movil-1053851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mhealth-sanidad-movil-2701593.jpg' alt='¿Qué es mHealth o sanidad móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359'>7 maneras de utilizar el USB OTG en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/7-maneras-utilizar-usb-otg-android-1055359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/usb-smartphone-2692103.jpg' alt='7 maneras de utilizar el USB OTG en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955'>Robot limpiacristales Cecotec: estos son los mejores de la marca española</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-robot-limpiacristales-cecotec-1060955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/conga-windroid-980-connected-2702379.jpg' alt='Robot limpiacristales Cecotec: estos son los mejores de la marca española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-conseguir-verificacion-tiktok-1057861'>Consejos para conseguir la verificación en TikTok</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-conseguir-verificacion-tiktok-1057861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='Consejos para conseguir la verificación en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961'>Crean un tatuaje que brilla para desvelar el oxígeno en la sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-tatuaje-brilla-desvelar-oxigeno-sangre-1060961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tatuajes-2702375.jpg' alt='Crean un tatuaje que brilla para desvelar el oxígeno en la sangre' />
     </a>
 </div>
 
