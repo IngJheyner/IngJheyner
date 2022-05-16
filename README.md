@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631'>La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
     <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669'>Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-mirror-2529329.jpg' alt='Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667'>Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semaforo-rojo-2703349.jpg' alt='Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado' />
     </a>
 </div>
 
