@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-samsung-hemos-probado-ultimamente-rinden-muy-buen-nivel-1060431'>5 móviles Samsung que hemos probado últimamente y rinden a muy buen nivel</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-samsung-hemos-probado-ultimamente-rinden-muy-buen-nivel-1060431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627235.jpg' alt='5 móviles Samsung que hemos probado últimamente y rinden a muy buen nivel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sacrificar-caballo-rompe-pata-1056603'>¿Por qué se sacrifica a un caballo cuando se rompe una pata? ¿Aún se sigue haciendo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sacrificar-caballo-rompe-pata-1056603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sacrifica-caballo-cuando-rompe-pata-aun-sigue-haciendo-2694395.jpg' alt='¿Por qué se sacrifica a un caballo cuando se rompe una pata? ¿Aún se sigue haciendo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897'>Los mejores accesorios para crear vídeos de TikTok en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Los mejores accesorios para crear vídeos de TikTok en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873'>Las mejores alternativas a Google Chromecast que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='Las mejores alternativas a Google Chromecast que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213'>Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/volante-pc-2695577.jpg' alt='Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703'>El Árbol de Sangre de Dragón es único, y hace honor a su nombre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arbol-sangre-dragon-unico-hace-honor-nombre-2694503.jpg' alt='El Árbol de Sangre de Dragón es único, y hace honor a su nombre' />
     </a>
 </div>
 
