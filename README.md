@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897'>Los mejores accesorios para crear vídeos de TikTok en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Los mejores accesorios para crear vídeos de TikTok en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-semana-informado-ultimo-1061271'>30 noticias de tecnología para comenzar la semana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-semana-informado-ultimo-1061271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/noticias-16-mayo-2702759.jpg' alt='30 noticias de tecnología para comenzar la semana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873'>Las mejores alternativas a Google Chromecast que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='Las mejores alternativas a Google Chromecast que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213'>Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/volante-pc-2695577.jpg' alt='Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703'>El Árbol de Sangre de Dragón es único, y hace honor a su nombre</a></h4>
     <a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arbol-sangre-dragon-unico-hace-honor-nombre-2694503.jpg' alt='El Árbol de Sangre de Dragón es único, y hace honor a su nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-historial-portapapeles-windows-10-11-sirve-1056829'>Cómo activar el historial del portapapeles en Windows 10 y 11 y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-activar-historial-portapapeles-windows-10-11-sirve-1056829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/portapapeles-2585851.jpg' alt='Cómo activar el historial del portapapeles en Windows 10 y 11 y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057'>Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-configurar-opciones-pantalla-windows-sea-menos-agresivo-ojos-1045057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-2674887.jpg' alt='Cómo configurar las opciones de pantalla de Windows para que sea menos agresivo para tus ojos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235'>Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte' />
     </a>
 </div>
 
