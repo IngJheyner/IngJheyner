@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881'>Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg' alt='Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667'>Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semaforo-rojo-2703349.jpg' alt='Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-1061591'>Twitter Data Dash: así es el juego de Twitter que pretende explicar las políticas de privacidad de la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-1061591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-2703135.jpg' alt='Twitter Data Dash: así es el juego de Twitter que pretende explicar las políticas de privacidad de la red social' />
     </a>
 </div>
 
