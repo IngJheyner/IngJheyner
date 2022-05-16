@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103'>El reloj que da las horas de todo el mundo al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/reloj-da-horas-todo-mundo-mismo-tiempo-2690237.jpg' alt='El reloj que da las horas de todo el mundo al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631'>La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661'>Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-2703345.jpg' alt='Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669'>Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-mirror-2529329.jpg' alt='Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico' />
     </a>
 </div>
 
