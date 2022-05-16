@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571'>7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699595.jpg' alt='7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-1061531'>Las pantallas plegables del futuro podrán doblarse en dos direcciones diferentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-1061531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-2703049.jpg' alt='Las pantallas plegables del futuro podrán doblarse en dos direcciones diferentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523'>Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-2703017.jpg' alt='Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-1061507'>Así son los nuevos vivo S15 y S15 Pro: diseño cuerpo metálico que nos recuerda al iPhone 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-1061507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-nuevo-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-2702993.jpg' alt='Así son los nuevos vivo S15 y S15 Pro: diseño cuerpo metálico que nos recuerda al iPhone 13' />
     </a>
 </div>
 
