@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543'>El iPhone ya se puede usar como datafono: así funciona Tap to Pay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-2610291.jpg' alt='El iPhone ya se puede usar como datafono: así funciona Tap to Pay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571'>7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699595.jpg' alt='7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669'>10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523'>Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-2703017.jpg' alt='Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11' />
     </a>
 </div>
 
