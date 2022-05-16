@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-1061553'>El POCO F4 Pro se deja ver en imágenes reales confirmando su existencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-1061553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-2703071.jpg' alt='El POCO F4 Pro se deja ver en imágenes reales confirmando su existencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543'>El iPhone ya se puede usar como datafono: así funciona Tap to Pay</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-2610291.jpg' alt='El iPhone ya se puede usar como datafono: así funciona Tap to Pay' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887'>El robot aspirador de Xiaomi que también friega, rebajado en 70 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/xiaomi-mi-robot-vacuum-mop-pro-2203029.jpg' alt='El robot aspirador de Xiaomi que también friega, rebajado en 70 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669'>10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar' />
     </a>
 </div>
 
