@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-1061553'>El POCO F4 Pro se deja ver en imágenes reales confirmando su existencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-1061553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/poco-f4-pro-deja-ver-imagenes-reales-confirmando-existencia-2703071.jpg' alt='El POCO F4 Pro se deja ver en imágenes reales confirmando su existencia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881'>Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg' alt='Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543'>El iPhone ya se puede usar como datafono: así funciona Tap to Pay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-ya-puede-usar-como-datafono-funciona-tap-pay-1061543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tap-pay-nueva-caracteristica-convierte-iphone-terminal-tpv-2610291.jpg' alt='El iPhone ya se puede usar como datafono: así funciona Tap to Pay' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661'>Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-2703345.jpg' alt='Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571'>7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-seguramente-no-conozcas-tienes-instalar-telefono-android-1061571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699595.jpg' alt='7 aplicaciones que seguramente no conozcas y tienes que instalar en tu teléfono Android' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669'>Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/black-mirror-confirma-sexta-temporada-netflix-apostando-mayor-alcance-cinematografico-1061669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-mirror-2529329.jpg' alt='Black Mirror confirma una sexta temporada en Netflix apostando por mayor alcance cinematográfico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-1061531'>Las pantallas plegables del futuro podrán doblarse en dos direcciones diferentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-1061531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pantallas-plegables-futuro-podran-doblarse-dos-direcciones-diferentes-2703049.jpg' alt='Las pantallas plegables del futuro podrán doblarse en dos direcciones diferentes' />
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667'>Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-excepciones-existen-poderte-saltar-semaforo-rojo-no-ser-multado-1061667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semaforo-rojo-2703349.jpg' alt='Estas son las excepciones que existen para poderte saltar un semáforo en rojo y no ser multado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887'>El robot aspirador de Xiaomi que también friega, rebajado en 70 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/xiaomi-mi-robot-vacuum-mop-pro-2203029.jpg' alt='El robot aspirador de Xiaomi que también friega, rebajado en 70 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-1061591'>Twitter Data Dash: así es el juego de Twitter que pretende explicar las políticas de privacidad de la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-1061591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-data-dash-juego-twitter-pretende-explicar-politicas-privacidad-red-social-2703135.jpg' alt='Twitter Data Dash: así es el juego de Twitter que pretende explicar las políticas de privacidad de la red social' />
     </a>
 </div>
 
