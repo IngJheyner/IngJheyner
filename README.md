@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-camaras-nuevo-samsung-galaxy-z-fold-4-1061477'>Filtradas las especificaciones de cámaras del nuevo Samsung Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-camaras-nuevo-samsung-galaxy-z-fold-4-1061477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='Filtradas las especificaciones de cámaras del nuevo Samsung Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-discos-duros-no-arrancan-tienen-datos-corruptos-windows-linux-mac-1054599'>Cómo arreglar discos duros que no arrancan o tienen datos corruptos en Windows, Linux y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-discos-duros-no-arrancan-tienen-datos-corruptos-windows-linux-mac-1054599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg' alt='Cómo arreglar discos duros que no arrancan o tienen datos corruptos en Windows, Linux y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-samsung-hemos-probado-ultimamente-rinden-muy-buen-nivel-1060431'>5 móviles Samsung que hemos probado últimamente y rinden a muy buen nivel</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-samsung-hemos-probado-ultimamente-rinden-muy-buen-nivel-1060431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627235.jpg' alt='5 móviles Samsung que hemos probado últimamente y rinden a muy buen nivel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897'>Los mejores accesorios para crear vídeos de TikTok en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-crear-videos-tiktok-casa-1060897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Los mejores accesorios para crear vídeos de TikTok en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-semana-informado-ultimo-1061271'>30 noticias de tecnología para comenzar la semana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-semana-informado-ultimo-1061271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/noticias-16-mayo-2702759.jpg' alt='30 noticias de tecnología para comenzar la semana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873'>Las mejores alternativas a Google Chromecast que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-chromecast-2019-355873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg' alt='Las mejores alternativas a Google Chromecast que puedes comprar en 2022' />
     </a>
 </div>
 
