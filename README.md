@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887'>El robot aspirador de Xiaomi que también friega, rebajado en 70 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-robot-vacuum-mop-pro-oferta-16-mayo-2022-1060887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/xiaomi-mi-robot-vacuum-mop-pro-2203029.jpg' alt='El robot aspirador de Xiaomi que también friega, rebajado en 70 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669'>10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-configuraciones-privacidad-windows-11-defecto-debes-cambiar-1051669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='10 configuraciones de privacidad de Windows 11 por defecto que debes cambiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523'>Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-1061523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sale-competencia-steam-deck-chip-mucho-potente-ayaneo-2-consola-portatil-windows-11-2703017.jpg' alt='Le sale competencia a Steam Deck con un chip mucho más potente, así es Ayaneo 2 la consola portátil Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-1061507'>Así son los nuevos vivo S15 y S15 Pro: diseño cuerpo metálico que nos recuerda al iPhone 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-1061507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-nuevo-vivo-s15-s15-pro-diseno-cuerpo-metalico-nos-recuerda-iphone-13-2702993.jpg' alt='Así son los nuevos vivo S15 y S15 Pro: diseño cuerpo metálico que nos recuerda al iPhone 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/logitech-pro-x-superlight-review-raton-gaming-ultraligero-1059135'>Logitech Pro X Superlight, análisis del ratón gaming ultraligero</a></h4>
     <a href='https://computerhoy.com/analisis/logitech-pro-x-superlight-review-raton-gaming-ultraligero-1059135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-logitech-superlight-2701537.jpg' alt='Logitech Pro X Superlight, análisis del ratón gaming ultraligero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-nxtpaper-10s-review-opinion-1058133'>TCL NXTPAPER 10S, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/tcl-nxtpaper-10s-review-opinion-1058133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-nxtpaper-10s-2698327.jpg' alt='TCL NXTPAPER 10S, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-procesador-gama-alta-ya-tiene-fecha-presentacion-todo-sabemos-snapdragon-8-gen-1-1061497'>El nuevo procesador de gama alta ya tiene fecha de presentación: esto es todo lo que sabemos del Snapdragon 8 Gen 1+</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-procesador-gama-alta-ya-tiene-fecha-presentacion-todo-sabemos-snapdragon-8-gen-1-1061497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8-gen-1-2548133.jpg' alt='El nuevo procesador de gama alta ya tiene fecha de presentación: esto es todo lo que sabemos del Snapdragon 8 Gen 1+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-camaras-nuevo-samsung-galaxy-z-fold-4-1061477'>Filtradas las especificaciones de cámaras del nuevo Samsung Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-camaras-nuevo-samsung-galaxy-z-fold-4-1061477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='Filtradas las especificaciones de cámaras del nuevo Samsung Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-discos-duros-no-arrancan-tienen-datos-corruptos-windows-linux-mac-1054599'>Cómo arreglar discos duros que no arrancan o tienen datos corruptos en Windows, Linux y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-discos-duros-no-arrancan-tienen-datos-corruptos-windows-linux-mac-1054599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg' alt='Cómo arreglar discos duros que no arrancan o tienen datos corruptos en Windows, Linux y Mac' />
     </a>
 </div>
 
