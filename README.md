@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213'>Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-todo-debes-saber-comprar-volante-gaming-pc-1057213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/volante-pc-2695577.jpg' alt='Guía, consejos y todo lo que debes saber para comprar un volante gaming para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703'>El Árbol de Sangre de Dragón es único, y hace honor a su nombre</a></h4>
     <a href='https://computerhoy.com/noticias/life/arbol-sangre-dragon-1056703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/arbol-sangre-dragon-unico-hace-honor-nombre-2694503.jpg' alt='El Árbol de Sangre de Dragón es único, y hace honor a su nombre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235'>Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-windows-11-provoca-pantalla-azul-muerte-1061235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/pantalla-azul-muerte-windows-10-2040099.jpg' alt='Esta nueva actualización para Windows 11 provoca la pantalla azul de la muerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217'>Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-televisor-8k-precio-nunca-antes-visto-solo-1189-euros-oportunidad-unica-1061217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lg-65nano996na-nanocell-8k-2702645.jpg' alt='Ahora puedes comprar un televisor 8K a un precio nunca antes visto a solo 1189 euros en una oportunidad única' />
     </a>
 </div>
 
