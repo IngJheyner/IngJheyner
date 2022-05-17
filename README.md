@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-panoramico-lg-25-pulgadas-oferta-17-mayo-2022-1061999'>Si trabajas en casa, esta es la oferta que más te interesa para mejorar tu productividad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-panoramico-lg-25-pulgadas-oferta-17-mayo-2022-1061999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lg-25um58-p-2024577.jpg' alt='Si trabajas en casa, esta es la oferta que más te interesa para mejorar tu productividad' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281'>Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-strix-scar-17-rog-flow-x16-2704437.jpg' alt='Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-aseguran-posible-instalar-malware-iphone-incluso-estando-apagado-1062177'>Investigadores aseguran que es posible instalar malware en un iPhone incluso estando apagado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-aseguran-posible-instalar-malware-iphone-incluso-estando-apagado-1062177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Investigadores aseguran que es posible instalar malware en un iPhone incluso estando apagado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizar-android-auto-ultimas-versiones-ocasionando-muchos-problemas-ventajas-1062273'>Actualizar Android Auto a las últimas versiones está ocasionando para muchos más problemas que ventajas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizar-android-auto-ultimas-versiones-ocasionando-muchos-problemas-ventajas-1062273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Actualizar Android Auto a las últimas versiones está ocasionando para muchos más problemas que ventajas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/todo-steam-que-es-como-funciona-que-sirve-10635'>Todo sobre Steam: qué es, cómo funciona y para qué sirve la plataforma más usada del mundo del gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/software/todo-steam-que-es-como-funciona-que-sirve-10635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/steam.jpg' alt='Todo sobre Steam: qué es, cómo funciona y para qué sirve la plataforma más usada del mundo del gaming' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-sin-instagram-tiktok-reduce-ansiedad-depresion-1062275'>Un estudio demuestra lo que todos sabemos: que una semana sin Instagram o TikTok reduce la ansiedad y la depresión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estudio-sin-instagram-tiktok-reduce-ansiedad-depresion-1062275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Un estudio demuestra lo que todos sabemos: que una semana sin Instagram o TikTok reduce la ansiedad y la depresión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gobierno-estados-unidos-va-hablar-primera-vez-ovni-congreso-1062197'>El Gobierno de los Estados Unidos va a hablar por primera vez de los OVNI en el congreso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gobierno-estados-unidos-va-hablar-primera-vez-ovni-congreso-1062197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ovnis-2197097.jpg' alt='El Gobierno de los Estados Unidos va a hablar por primera vez de los OVNI en el congreso' />
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265'>La nueva señal inteligente de la DGT para proteger a los ciclistas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-senal-inteligente-dgt-proteger-ciclistas-2704401.jpg' alt='La nueva señal inteligente de la DGT para proteger a los ciclistas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-disney-actualizacion-valores-corporativos-1062175'>Netflix y Disney+ han actualizado sus valores corporativos para adaptarse a los tiempos, y esto influirá en el contenido</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-disney-actualizacion-valores-corporativos-1062175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-disney-han-actualizado-valores-corporativos-adaptarse-tiempos-influira-contenido-2704219.jpg' alt='Netflix y Disney+ han actualizado sus valores corporativos para adaptarse a los tiempos, y esto influirá en el contenido' />
     </a>
 </div>
 
