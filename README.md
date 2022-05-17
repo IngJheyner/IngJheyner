@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anuncia-suscripcion-premium-negocios-version-beta-10-telefonos-mismo-tiempo-1062161'>WhatsApp anuncia suscripción Premium para negocios en su versión beta: hasta 10 teléfonos al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anuncia-suscripcion-premium-negocios-version-beta-10-telefonos-mismo-tiempo-1062161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-premium-2704197.jpg' alt='WhatsApp anuncia suscripción Premium para negocios en su versión beta: hasta 10 teléfonos al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-grandes-retos-nos-vamos-enfrentar-extraer-recursos-fuera-tierra-1062157'>Estos son los grandes retos a los que nos vamos a enfrentar para extraer recursos fuera de la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-grandes-retos-nos-vamos-enfrentar-extraer-recursos-fuera-tierra-1062157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='Estos son los grandes retos a los que nos vamos a enfrentar para extraer recursos fuera de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981'>Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor </a></h4>
     <a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/climatizador-samsung-wind-free-1853333.jpeg' alt='Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109'>Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/steam-deck-review-opinion-pc-consola-valve-1060599'>Steam Deck, análisis y opinión del PC/consola de Valve</a></h4>
-    <a href='https://computerhoy.com/analisis/steam-deck-review-opinion-pc-consola-valve-1060599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Steam Deck, análisis y opinión del PC/consola de Valve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/amd-asegura-nuevas-gpu-ofrecen-mejor-rendimiento-consumo-nvidia-1062085'>AMD asegura que sus nuevas GPU ofrecen mejor rendimiento y consumo que las de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/amd-asegura-nuevas-gpu-ofrecen-mejor-rendimiento-consumo-nvidia-1062085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='AMD asegura que sus nuevas GPU ofrecen mejor rendimiento y consumo que las de NVIDIA' />
     </a>
 </div>
 
