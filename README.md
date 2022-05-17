@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309'>Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/verbatim-lanza-ssd-solo-puede-escribir-vez-dura-10-anos-2704477.jpg' alt='Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289'>Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678331.jpg' alt='Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125'>Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592593.jpg' alt='Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros' />
     </a>
 </div>
 
