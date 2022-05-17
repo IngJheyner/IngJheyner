@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291'>8 usos sorprendentes del champú para bebés que no te imaginas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-sorprendentes-usos-champu-bebes-no-te-imaginas-2704455.jpg' alt='8 usos sorprendentes del champú para bebés que no te imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros</a></h4>
     <a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297'>Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289'>Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678331.jpg' alt='Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador' />
     </a>
 </div>
 
