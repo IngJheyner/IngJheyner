@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269'>Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281'>Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-strix-scar-17-rog-flow-x16-2704437.jpg' alt='Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265'>La nueva señal inteligente de la DGT para proteger a los ciclistas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-senal-inteligente-dgt-proteger-ciclistas-2704401.jpg' alt='La nueva señal inteligente de la DGT para proteger a los ciclistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-disney-actualizacion-valores-corporativos-1062175'>Netflix y Disney+ han actualizado sus valores corporativos para adaptarse a los tiempos, y esto influirá en el contenido</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-disney-actualizacion-valores-corporativos-1062175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-disney-han-actualizado-valores-corporativos-adaptarse-tiempos-influira-contenido-2704219.jpg' alt='Netflix y Disney+ han actualizado sus valores corporativos para adaptarse a los tiempos, y esto influirá en el contenido' />
     </a>
 </div>
 
