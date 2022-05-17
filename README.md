@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021'>El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eclipse-lunar-2703787.jpg' alt='El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-familia-oppo-reno8-ya-hemos-visto-video-1061973'>Así es la nueva familia Oppo Reno8, ya lo hemos visto en vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-familia-oppo-reno8-ya-hemos-visto-video-1061973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-reno8-2703765.jpg' alt='Así es la nueva familia Oppo Reno8, ya lo hemos visto en vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-edicion-gratuita-heredada-g-suite-uso-personal-1061967'>Google anuncia una edición gratuita heredada de G Suite para uso personal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-edicion-gratuita-heredada-g-suite-uso-personal-1061967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/g-suite-ko-2295683.jpg' alt='Google anuncia una edición gratuita heredada de G Suite para uso personal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-posibilitar-bombas-humo-despedidas-francesa-grupos-1061957'>WhatsApp está trabajando en posibilitar las bombas de humo o despedidas a la francesa en grupos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-posibilitar-bombas-humo-despedidas-francesa-grupos-1061957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='WhatsApp está trabajando en posibilitar las bombas de humo o despedidas a la francesa en grupos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguridad-tesla-cerraduras-inteligentes-mucho-entredicho-debido-exploit-bluetooth-1061921'>La seguridad de los Tesla, cerraduras inteligentes y mucho más en entredicho debido a un exploit bluetooth</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguridad-tesla-cerraduras-inteligentes-mucho-entredicho-debido-exploit-bluetooth-1061921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/llave-tesla-2703653.jpg' alt='La seguridad de los Tesla, cerraduras inteligentes y mucho más en entredicho debido a un exploit bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-beta-publica-ios-16-podria-retrasarse-debido-algunos-problemas-1061933'>La primera beta pública de iOS 16 podría retrasarse debido a algunos problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-beta-publica-ios-16-podria-retrasarse-debido-algunos-problemas-1061933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='La primera beta pública de iOS 16 podría retrasarse debido a algunos problemas' />
     </a>
 </div>
 
