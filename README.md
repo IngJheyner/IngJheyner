@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguridad-tesla-cerraduras-inteligentes-mucho-entredicho-debido-exploit-bluetooth-1061921'>La seguridad de los Tesla, cerraduras inteligentes y mucho más en entredicho debido a un exploit bluetooth</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguridad-tesla-cerraduras-inteligentes-mucho-entredicho-debido-exploit-bluetooth-1061921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/llave-tesla-2703653.jpg' alt='La seguridad de los Tesla, cerraduras inteligentes y mucho más en entredicho debido a un exploit bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-beta-publica-ios-16-podria-retrasarse-debido-algunos-problemas-1061933'>La primera beta pública de iOS 16 podría retrasarse debido a algunos problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-beta-publica-ios-16-podria-retrasarse-debido-algunos-problemas-1061933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='La primera beta pública de iOS 16 podría retrasarse debido a algunos problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/mejores-accesorios-xbox-series-x-series-s-1061535'>Mejores accesorios para Xbox Series X y Series S que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/mejores-accesorios-xbox-series-x-series-s-1061535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg' alt='Mejores accesorios para Xbox Series X y Series S que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103'>El reloj que da las horas de todo el mundo al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/reloj-da-horas-todo-mundo-mismo-tiempo-2690237.jpg' alt='El reloj que da las horas de todo el mundo al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631'>La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-instagram-permitiria-crear-chat-privado-durante-retransmision-vivo-1061631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instagram-stories-2507043.jpg' alt='La nueva función de Instagram permitiría crear un chat privado durante una retransmisión en vivo' />
     </a>
 </div>
 
