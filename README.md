@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309'>Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/verbatim-lanza-ssd-solo-puede-escribir-vez-dura-10-anos-2704477.jpg' alt='Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-funcionan-tan-bien-algunos-estados-plantean-prohibirlos-1062303'>Los AirTag funcionan tan bien que algunos estados se plantean prohibirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airtag-funcionan-tan-bien-algunos-estados-plantean-prohibirlos-1062303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg' alt='Los AirTag funcionan tan bien que algunos estados se plantean prohibirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297'>Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125'>Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592593.jpg' alt='Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269'>Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281'>Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-strix-scar-17-rog-flow-x16-2704437.jpg' alt='Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil' />
     </a>
 </div>
 
