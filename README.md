@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-watch-gs-3-llega-espana-nuevo-smartwatch-premium-compania-china-1062057'>El Honor Watch GS 3 llega a España, así es el nuevo smartwatch prémium de la compañía china</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-watch-gs-3-llega-espana-nuevo-smartwatch-premium-compania-china-1062057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El Honor Watch GS 3 llega a España, así es el nuevo smartwatch prémium de la compañía china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-estar-valorando-uso-pantallas-tinta-electronica-dispositivos-plegables-1062053'>Apple podría estar valorando el uso de las pantallas de tinta electrónica en sus dispositivos plegables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-estar-valorando-uso-pantallas-tinta-electronica-dispositivos-plegables-1062053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/imagen-render-iphone-plegable-1861117.jpg' alt='Apple podría estar valorando el uso de las pantallas de tinta electrónica en sus dispositivos plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-plegable-oferta-17-mayo-2022-1061949'>Chollo en el móvil plegable de Samsung, el Galaxy Z Flip con 5G que vende Amazon más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip-plegable-oferta-17-mayo-2022-1061949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/samsung-galaxy-z-flip-1896641.jpeg' alt='Chollo en el móvil plegable de Samsung, el Galaxy Z Flip con 5G que vende Amazon más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-1062009'>Cosas que ahora utilizas a diario y que desaparecerán dentro de muy pocos años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-1062009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-2703801.jpg' alt='Cosas que ahora utilizas a diario y que desaparecerán dentro de muy pocos años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dudosos-motivos-oneplus-expone-no-usar-pantalla-oled-proximo-terminal-ace-1062045'>Los dudosos motivos que OnePlus expone para no usar pantalla OLED en su próximo terminal Ace</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dudosos-motivos-oneplus-expone-no-usar-pantalla-oled-proximo-terminal-ace-1062045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-ace-frontal-2703809.jpg' alt='Los dudosos motivos que OnePlus expone para no usar pantalla OLED en su próximo terminal Ace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/correo-netflix-seguramente-estas-deseando-recibir-ver-contenido-antes-nadie-1062015'>Este es el correo de Netflix que seguramente estás deseando recibir para ver contenido antes que nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/correo-netflix-seguramente-estas-deseando-recibir-ver-contenido-antes-nadie-1062015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='Este es el correo de Netflix que seguramente estás deseando recibir para ver contenido antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-acusan-elon-musk-no-tener-ni-idea-matematicas-mayor-troll-mundo-1061995'>Expertos acusan a Elon Musk de no tener ni idea de matemáticas: ¿el mayor troll del mundo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-acusan-elon-musk-no-tener-ni-idea-matematicas-mayor-troll-mundo-1061995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Expertos acusan a Elon Musk de no tener ni idea de matemáticas: ¿el mayor troll del mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021'>El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eclipse-lunar-2703787.jpg' alt='El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción' />
     </a>
 </div>
 
