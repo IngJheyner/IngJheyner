@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gobierno-estados-unidos-va-hablar-primera-vez-ovni-congreso-1062197'>El Gobierno de los Estados Unidos va a hablar por primera vez de los OVNI en el congreso</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gobierno-estados-unidos-va-hablar-primera-vez-ovni-congreso-1062197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ovnis-2197097.jpg' alt='El Gobierno de los Estados Unidos va a hablar por primera vez de los OVNI en el congreso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-podria-ganar-conectividad-5g-particular-situacion-uso-esim-1062191'>El HUAWEI P50 Pro podría ganar conectividad 5G en esta particular situación de uso con eSIM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-podria-ganar-conectividad-5g-particular-situacion-uso-esim-1062191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/p50-pro-5g-case-2704255.jpg' alt='El HUAWEI P50 Pro podría ganar conectividad 5G en esta particular situación de uso con eSIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171'>Cómo saber quién está conectado a mi red WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/tienes-router-nuevo-cambia-estos-ajustes-fabrica-inmediato-2175849.jpg' alt='Cómo saber quién está conectado a mi red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anuncia-suscripcion-premium-negocios-version-beta-10-telefonos-mismo-tiempo-1062161'>WhatsApp anuncia suscripción Premium para negocios en su versión beta: hasta 10 teléfonos al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-anuncia-suscripcion-premium-negocios-version-beta-10-telefonos-mismo-tiempo-1062161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-premium-2704197.jpg' alt='WhatsApp anuncia suscripción Premium para negocios en su versión beta: hasta 10 teléfonos al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-grandes-retos-nos-vamos-enfrentar-extraer-recursos-fuera-tierra-1062157'>Estos son los grandes retos a los que nos vamos a enfrentar para extraer recursos fuera de la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-grandes-retos-nos-vamos-enfrentar-extraer-recursos-fuera-tierra-1062157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='Estos son los grandes retos a los que nos vamos a enfrentar para extraer recursos fuera de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981'>Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor </a></h4>
-    <a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/climatizador-samsung-wind-free-1853333.jpeg' alt='Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-mejor-signo-zodiaco-expertos-1062069'>Cuál es el mejor signo del zodiaco, según los expertos </a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-mejor-signo-zodiaco-expertos-1062069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/saint-seiya-caballeros-zodiaco.jpg' alt='Cuál es el mejor signo del zodiaco, según los expertos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109'>Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter' />
     </a>
 </div>
 
