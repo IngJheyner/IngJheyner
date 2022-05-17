@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-1062009'>Cosas que ahora utilizas a diario y que desaparecerán dentro de muy pocos años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-1062009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-ahora-utilizas-diario-desapareceran-dentro-muy-pocos-anos-2703801.jpg' alt='Cosas que ahora utilizas a diario y que desaparecerán dentro de muy pocos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dudosos-motivos-oneplus-expone-no-usar-pantalla-oled-proximo-terminal-ace-1062045'>Los dudosos motivos que OnePlus expone para no usar pantalla OLED en su próximo terminal Ace</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dudosos-motivos-oneplus-expone-no-usar-pantalla-oled-proximo-terminal-ace-1062045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-ace-frontal-2703809.jpg' alt='Los dudosos motivos que OnePlus expone para no usar pantalla OLED en su próximo terminal Ace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/correo-netflix-seguramente-estas-deseando-recibir-ver-contenido-antes-nadie-1062015'>Este es el correo de Netflix que seguramente estás deseando recibir para ver contenido antes que nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/correo-netflix-seguramente-estas-deseando-recibir-ver-contenido-antes-nadie-1062015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-sigue-subiendo-precios-todos-paises-2591533.jpg' alt='Este es el correo de Netflix que seguramente estás deseando recibir para ver contenido antes que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-acusan-elon-musk-no-tener-ni-idea-matematicas-mayor-troll-mundo-1061995'>Expertos acusan a Elon Musk de no tener ni idea de matemáticas: ¿el mayor troll del mundo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-acusan-elon-musk-no-tener-ni-idea-matematicas-mayor-troll-mundo-1061995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-acepta-oferta-compra-elon-musk-44000-millones-dolares-2684331.jpg' alt='Expertos acusan a Elon Musk de no tener ni idea de matemáticas: ¿el mayor troll del mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021'>El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción</a></h4>
     <a href='https://computerhoy.com/noticias/life/eclipse-lunar-visto-espacio-imagenes-dignas-pelicula-ciencia-ficcion-1062021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eclipse-lunar-2703787.jpg' alt='El eclipse lunar visto desde el espacio, imágenes dignas de película de ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-familia-oppo-reno8-ya-hemos-visto-video-1061973'>Así es la nueva familia Oppo Reno8, ya lo hemos visto en vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-familia-oppo-reno8-ya-hemos-visto-video-1061973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-reno8-2703765.jpg' alt='Así es la nueva familia Oppo Reno8, ya lo hemos visto en vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-edicion-gratuita-heredada-g-suite-uso-personal-1061967'>Google anuncia una edición gratuita heredada de G Suite para uso personal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-anuncia-edicion-gratuita-heredada-g-suite-uso-personal-1061967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/g-suite-ko-2295683.jpg' alt='Google anuncia una edición gratuita heredada de G Suite para uso personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-forceclima-7050-aire-acondicionado-oferta-17-mayo-2022-1061971'>Este aire acondicionado portátil es tan barato que va a volar: cuesta 162 euros y tiene envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-forceclima-7050-aire-acondicionado-oferta-17-mayo-2022-1061971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/cecotec-forcesilence-clima-7050-1985339.jpg' alt='Este aire acondicionado portátil es tan barato que va a volar: cuesta 162 euros y tiene envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-posibilitar-bombas-humo-despedidas-francesa-grupos-1061957'>WhatsApp está trabajando en posibilitar las bombas de humo o despedidas a la francesa en grupos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabajando-posibilitar-bombas-humo-despedidas-francesa-grupos-1061957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='WhatsApp está trabajando en posibilitar las bombas de humo o despedidas a la francesa en grupos' />
     </a>
 </div>
 
