@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-panoramico-lg-25-pulgadas-oferta-17-mayo-2022-1061999'>Si trabajas en casa, esta es la oferta que más te interesa para mejorar tu productividad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-panoramico-lg-25-pulgadas-oferta-17-mayo-2022-1061999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/lg-25um58-p-2024577.jpg' alt='Si trabajas en casa, esta es la oferta que más te interesa para mejorar tu productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-aseguran-posible-instalar-malware-iphone-incluso-estando-apagado-1062177'>Investigadores aseguran que es posible instalar malware en un iPhone incluso estando apagado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/investigadores-aseguran-posible-instalar-malware-iphone-incluso-estando-apagado-1062177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2639961.jpg' alt='Investigadores aseguran que es posible instalar malware en un iPhone incluso estando apagado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
     <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-podria-ganar-conectividad-5g-particular-situacion-uso-esim-1062191'>El HUAWEI P50 Pro podría ganar conectividad 5G en esta particular situación de uso con eSIM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-podria-ganar-conectividad-5g-particular-situacion-uso-esim-1062191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/p50-pro-5g-case-2704255.jpg' alt='El HUAWEI P50 Pro podría ganar conectividad 5G en esta particular situación de uso con eSIM' />
     </a>
 </div>
 
