@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1061695'>26 noticias de tecnología para comenzar tu mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1061695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resumen-noticias-16-mayo-2703425.jpg' alt='26 noticias de tecnología para comenzar tu mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680703.jpg' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, el procesador más potente de Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103'>El reloj que da las horas de todo el mundo al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/reloj-da-horas-todo-mundo-mismo-tiempo-1054103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/reloj-da-horas-todo-mundo-mismo-tiempo-2690237.jpg' alt='El reloj que da las horas de todo el mundo al mismo tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609'>Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores</a></h4>
     <a href='https://computerhoy.com/noticias/life/pillan-guardia-civil-utilizando-coches-carton-disuadir-conductores-1061609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/guardia-civil-trafico.jpg' alt='Pillan a la Guardia Civil utilizando coches de carton para disuadir a los conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881'>Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-3-ultra-gps-oferta-16-mayo-2022-1060881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607449.jpg' alt='Uno de los mejores relojes que hemos probado (y tiene WhatsApp) baja de precio y supera por mucho al Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661'>Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-1061661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elemental-nueva-pelicula-pixar-ya-tenemos-fecha-estreno-maravillosa-historia-2703345.jpg' alt='Elemental es la nueva película de Pixar y ya tenemos fecha de estreno de esta maravillosa historia' />
     </a>
 </div>
 
