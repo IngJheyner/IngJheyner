@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981'>Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor </a></h4>
+    <a href='https://computerhoy.com/noticias/life/aire-acondicionado-vs-climatizador-casa-diferencias-cual-mejor-combatir-calor-1061981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/climatizador-samsung-wind-free-1853333.jpeg' alt='Aire acondicionado vs climatizador para casa, diferencias y cuál es mejor para combatir el calor ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mejor-signo-zodiaco-expertos-1062069'>Cuál es el mejor signo del zodiaco, según los expertos </a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mejor-signo-zodiaco-expertos-1062069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/saint-seiya-caballeros-zodiaco.jpg' alt='Cuál es el mejor signo del zodiaco, según los expertos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109'>Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-podria-usar-estrategia-bots-rebajar-precio-compra-twitter-1062109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='Elon Musk podría usar la estrategia de los bots para rebajar el precio de compra de Twitter' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/amd-asegura-nuevas-gpu-ofrecen-mejor-rendimiento-consumo-nvidia-1062085'>AMD asegura que sus nuevas GPU ofrecen mejor rendimiento y consumo que las de NVIDIA</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/amd-asegura-nuevas-gpu-ofrecen-mejor-rendimiento-consumo-nvidia-1062085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amd-6800-radeon-rx-2140209.jpg' alt='AMD asegura que sus nuevas GPU ofrecen mejor rendimiento y consumo que las de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-watch-gs-3-llega-espana-nuevo-smartwatch-premium-compania-china-1062057'>El Honor Watch GS 3 llega a España, así es el nuevo smartwatch prémium de la compañía china</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-watch-gs-3-llega-espana-nuevo-smartwatch-premium-compania-china-1062057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El Honor Watch GS 3 llega a España, así es el nuevo smartwatch prémium de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-podria-estar-valorando-uso-pantallas-tinta-electronica-dispositivos-plegables-1062053'>Apple podría estar valorando el uso de las pantallas de tinta electrónica en sus dispositivos plegables</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-podria-estar-valorando-uso-pantallas-tinta-electronica-dispositivos-plegables-1062053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/imagen-render-iphone-plegable-1861117.jpg' alt='Apple podría estar valorando el uso de las pantallas de tinta electrónica en sus dispositivos plegables' />
     </a>
 </div>
 
