@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297'>Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289'>Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sigue-pasos-apple-enfrentaria-demanda-no-incluir-cargador-1062289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678331.jpg' alt='Samsung sigue los pasos de Apple y se enfrentaría a una demanda por no incluir el cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125'>Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s21-5g-8-gb-128-gb-descuentazo-278-euros-1062125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592593.jpg' alt='Samsung Galaxy S21 5G con 8 GB y 128 GB de almacenamiento, con un descuentazo de 278 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269'>Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-desconcertante-diseno-modulo-camaras-xiaomi-12-ultra-1062269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el desconcertante diseño del módulo de cámaras del Xiaomi 12 Ultra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281'>Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/asus-rog-strix-scar-17-rog-flow-x16-nuevas-especificaciones-gama-portatiles-gaming-versatil-1062281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-strix-scar-17-rog-flow-x16-2704437.jpg' alt='Asus ROG Strix Scar 17 y ROG Flow X16, nuevas especificaciones para la gama de portátiles gaming más versátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizar-android-auto-ultimas-versiones-ocasionando-muchos-problemas-ventajas-1062273'>Actualizar Android Auto a las últimas versiones está ocasionando para muchos más problemas que ventajas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizar-android-auto-ultimas-versiones-ocasionando-muchos-problemas-ventajas-1062273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Actualizar Android Auto a las últimas versiones está ocasionando para muchos más problemas que ventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-sin-instagram-tiktok-reduce-ansiedad-depresion-1062275'>Un estudio demuestra lo que todos sabemos: que una semana sin Instagram o TikTok reduce la ansiedad y la depresión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estudio-sin-instagram-tiktok-reduce-ansiedad-depresion-1062275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Un estudio demuestra lo que todos sabemos: que una semana sin Instagram o TikTok reduce la ansiedad y la depresión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265'>La nueva señal inteligente de la DGT para proteger a los ciclistas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-senal-inteligente-dgt-proteger-ciclistas-1062265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-senal-inteligente-dgt-proteger-ciclistas-2704401.jpg' alt='La nueva señal inteligente de la DGT para proteger a los ciclistas' />
     </a>
 </div>
 
