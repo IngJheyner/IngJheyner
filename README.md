@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909'>Un nuevo estudio confirma lo que los gamers ya intuyen: los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925'>Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pelicula-netflix-viendo-planeta-casi-nadie-habla-ella-2705597.jpg' alt='Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919'>Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-ih-2705553.jpg' alt='Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-registro-verguenza-participantes-grupos-1062913'>WhatsApp prepara un “registro de la vergüenza” para los participantes en grupos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-registro-verguenza-participantes-grupos-1062913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp prepara un “registro de la vergüenza” para los participantes en grupos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909'>Un importante estudio confirma que los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg' alt='Un nuevo estudio confirma lo que los gamers ya intuyen: los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg' alt='Un importante estudio confirma que los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885'>Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boton-eco-aire-acondicionado-2703917.jpg' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-linkbuds-s-primeras-impresiones-nuevos-auriculares-tws-cancelacion-ruido-sony-1062535'>Sony LinkBuds S, primeras impresiones de los nuevos auriculares TWS con cancelación de ruido de Sony</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sony-linkbuds-s-primeras-impresiones-nuevos-auriculares-tws-cancelacion-ruido-sony-1062535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-linkbuds-s-2704755.jpg' alt='Sony LinkBuds S, primeras impresiones de los nuevos auriculares TWS con cancelación de ruido de Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847'>Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/guerra-camaras-moviles-ya-no-libra-megapixeles_1.jpg' alt='Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo' />
     </a>
 </div>
 
