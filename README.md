@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753'>Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-2705221.jpg' alt='Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741'>Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-peor-signo-zodiaco-expertos-1062805'>Cuál es el peor signo del zodiaco, según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-peor-signo-zodiaco-expertos-1062805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cual-peor-signo-zodiaco-expertos-2705235.jpg' alt='Cuál es el peor signo del zodiaco, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727'>Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-huawei-watch-gt-3-pro-2705051.jpg' alt='Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621'>Huawei Watch GT 3 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705133.jpg' alt='Huawei Watch GT 3 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/huawei-presenta-nuevo-telefono-plegable-huawei-mate-xs-2-resistente-ligero-nunca-78-pulgadas-1062791'>Huawei presenta su nuevo teléfono plegable Huawei Mate Xs 2: más resistente y más ligero que nunca en 7,8 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/huawei-presenta-nuevo-telefono-plegable-huawei-mate-xs-2-resistente-ligero-nunca-78-pulgadas-1062791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-mate-xs-2-2705181.jpg' alt='Huawei presenta su nuevo teléfono plegable Huawei Mate Xs 2: más resistente y más ligero que nunca en 7,8 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-placa-base-tengo-1062785'>Cómo saber qué placa base tengo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-placa-base-tengo-1062785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Cómo saber qué placa base tengo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709'>CoreCap o cómo hacer inteligente tu bici de una manera muy elegante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-inteligente-2705043.jpg' alt='CoreCap o cómo hacer inteligente tu bici de una manera muy elegante' />
     </a>
 </div>
 
