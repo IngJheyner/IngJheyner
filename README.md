@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-referencia-philips-ahora-ademas-amazon-tiene-oferta-1062011'>La freidora sin aceite de referencia es la de Philips y ahora además Amazon la tiene en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-referencia-philips-ahora-ademas-amazon-tiene-oferta-1062011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='La freidora sin aceite de referencia es la de Philips y ahora además Amazon la tiene en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-aliexpress-18-mayo-2022-1062311'>El OnePlus Nord 2 es de los móviles Android más satisfactorios que hemos probado y ahora por fin ha bajado de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-aliexpress-18-mayo-2022-1062311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414337.jpg' alt='El OnePlus Nord 2 es de los móviles Android más satisfactorios que hemos probado y ahora por fin ha bajado de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2704761.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/life/apple-music-transmitira-directo-conciertos-partir-viernes-1062629'>Apple Music transmitirá en directo conciertos a partir de este viernes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/apple-music-transmitira-directo-conciertos-partir-viernes-1062629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/apple-music-2.jpg' alt='Apple Music transmitirá en directo conciertos a partir de este viernes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-procesador-mediatek-1062037'>Estos son los mejores móviles procesador Mediatek que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-procesador-mediatek-1062037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414333.jpg' alt='Estos son los mejores móviles procesador Mediatek que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-oficial-she-hulk-nueva-serie-ucm-protagonizara-tatiana-maslany-1062599'>Tráiler oficial de She-Hulk, la nueva serie del UCM que protagonizará Tatiana Maslany</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-oficial-she-hulk-nueva-serie-ucm-protagonizara-tatiana-maslany-1062599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/she-hulk-2704775.jpg' alt='Tráiler oficial de She-Hulk, la nueva serie del UCM que protagonizará Tatiana Maslany' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291'>8 usos sorprendentes del champú para bebés que no te imaginas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-sorprendentes-usos-champu-bebes-no-te-imaginas-2704455.jpg' alt='8 usos sorprendentes del champú para bebés que no te imaginas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fundador-pebble-quiere-ayuda-volver-poner-moda-smartphones-compactos-1062601'>El fundador de Pebble quiere tu ayuda para volver a poner de moda los smartphones compactos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fundador-pebble-quiere-ayuda-volver-poner-moda-smartphones-compactos-1062601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/telefono-android-compacto-2704819.jpg' alt='El fundador de Pebble quiere tu ayuda para volver a poner de moda los smartphones compactos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/life/ciudad-anuncios-airbnb-apartamentos-alquiler-1062579'>Esta es la ciudad con más anuncios de Airbnb que apartamentos en alquiler</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ciudad-anuncios-airbnb-apartamentos-alquiler-1062579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/nueva-york-2523767.jpg' alt='Esta es la ciudad con más anuncios de Airbnb que apartamentos en alquiler' />
     </a>
 </div>
 
