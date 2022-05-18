@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-da-nota-ranking-mejores-leches-supermercado-ocu-1062689'>Mercadona da la nota en el ranking de las mejores leches de supermercado según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-da-nota-ranking-mejores-leches-supermercado-ocu-1062689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/vaso-leche-1847399.jpg' alt='Mercadona da la nota en el ranking de las mejores leches de supermercado según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-como-hables-pareja-predice-cuando-acabara-relacion-1062607'>La IA que, según cómo hables a tu pareja, predice cuándo se acabará tu relación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-como-hables-pareja-predice-cuando-acabara-relacion-1062607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pareja-cocinando-cocina-color-blanco-2452295.jpg' alt='La IA que, según cómo hables a tu pareja, predice cuándo se acabará tu relación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tamano-deberia-tener-asteroide-acabar-vida-tierra-caso-impacto-1062669'>Qué tamaño debería tener un asteroide para acabar con la vida en la Tierra en caso de impacto</a></h4>
     <a href='https://computerhoy.com/noticias/life/tamano-deberia-tener-asteroide-acabar-vida-tierra-caso-impacto-1062669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/ya-aqui-asteroide-grande-rozara-tierra-ano-no-volvera-2052-2272239.jpg' alt='Qué tamaño debería tener un asteroide para acabar con la vida en la Tierra en caso de impacto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-aliexpress-18-mayo-2022-1062311'>El OnePlus Nord 2 es de los móviles Android más satisfactorios que hemos probado y ahora por fin ha bajado de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-aliexpress-18-mayo-2022-1062311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414337.jpg' alt='El OnePlus Nord 2 es de los móviles Android más satisfactorios que hemos probado y ahora por fin ha bajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/apple-music-transmitira-directo-conciertos-partir-viernes-1062629'>Apple Music transmitirá en directo conciertos a partir de este viernes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/apple-music-transmitira-directo-conciertos-partir-viernes-1062629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/apple-music-2.jpg' alt='Apple Music transmitirá en directo conciertos a partir de este viernes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-oficial-she-hulk-nueva-serie-ucm-protagonizara-tatiana-maslany-1062599'>Tráiler oficial de She-Hulk, la nueva serie del UCM que protagonizará Tatiana Maslany</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-oficial-she-hulk-nueva-serie-ucm-protagonizara-tatiana-maslany-1062599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/she-hulk-2704775.jpg' alt='Tráiler oficial de She-Hulk, la nueva serie del UCM que protagonizará Tatiana Maslany' />
     </a>
 </div>
 
