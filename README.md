@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709'>CoreCap o cómo hacer inteligente tu bici de una manera muy elegante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-inteligente-2705043.jpg' alt='CoreCap o cómo hacer inteligente tu bici de una manera muy elegante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-busca-elevar-maximo-calidad-presenta-nuevas-barras-sonido-gama-alta-2022-1062711'>LG busca elevar al máximo su calidad y presenta sus nuevas barras de sonido de gama alta 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-busca-elevar-maximo-calidad-presenta-nuevas-barras-sonido-gama-alta-2022-1062711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lg-presenta-nuevas-barras-sonido-2022-2704985.jpg' alt='LG busca elevar al máximo su calidad y presenta sus nuevas barras de sonido de gama alta 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ola-calor-mayo-dia-hara-calor-donde-alcanzaran-temperaturas-maximas-1062677'>Ola de calor de mayo: qué día hará más calor y dónde se alcanzarán las temperaturas máximas</a></h4>
     <a href='https://computerhoy.com/noticias/life/ola-calor-mayo-dia-hara-calor-donde-alcanzaran-temperaturas-maximas-1062677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/calor-1996695.jpg' alt='Ola de calor de mayo: qué día hará más calor y dónde se alcanzarán las temperaturas máximas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-oferta-18-mayo-2022-1062575'>El iPhone 13 Pro Max es 68 euros más barato ahora en esta oferta de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-oferta-18-mayo-2022-1062575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='El iPhone 13 Pro Max es 68 euros más barato ahora en esta oferta de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-da-nota-ranking-mejores-leches-supermercado-ocu-1062689'>Mercadona da la nota en el ranking de las mejores leches de supermercado según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-da-nota-ranking-mejores-leches-supermercado-ocu-1062689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/vaso-leche-1847399.jpg' alt='Mercadona da la nota en el ranking de las mejores leches de supermercado según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-como-hables-pareja-predice-cuando-acabara-relacion-1062607'>La IA que, según cómo hables a tu pareja, predice cuándo se acabará tu relación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-como-hables-pareja-predice-cuando-acabara-relacion-1062607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pareja-cocinando-cocina-color-blanco-2452295.jpg' alt='La IA que, según cómo hables a tu pareja, predice cuándo se acabará tu relación' />
     </a>
 </div>
 
