@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909'>Un nuevo estudio confirma lo que los gamers ya intuyen: los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg' alt='Un nuevo estudio confirma lo que los gamers ya intuyen: los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885'>Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boton-eco-aire-acondicionado-2703917.jpg' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847'>Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo</a></h4>
     <a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/guerra-camaras-moviles-ya-no-libra-megapixeles_1.jpg' alt='Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978'>Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stephen-king-2597259.jpg' alt='Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803'>Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag</a></h4>
-    <a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wearables-huawei-2705233.jpg' alt='Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag' />
     </a>
 </div>
 
