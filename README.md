@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-youtube-disenada-no-te-aburras-mientras-ves-video-1062931'>La nueva característica de YouTube está diseñada para que no te aburras mientras ves un vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-youtube-disenada-no-te-aburras-mientras-ves-video-1062931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='La nueva característica de YouTube está diseñada para que no te aburras mientras ves un vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887'>El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-oh-yeong-2514525.jpg' alt='El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903'>La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925'>Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pelicula-netflix-viendo-planeta-casi-nadie-habla-ella-2705597.jpg' alt='Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919'>Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-ih-2705553.jpg' alt='Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix' />
     </a>
 </div>
 
