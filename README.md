@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887'>El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-oh-yeong-2514525.jpg' alt='El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853'>Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chromebook-asus-mitad-precio-solo-cuesta-139-euros-ideal-ninos-estudiantes-2705441.jpg' alt='Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903'>La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925'>Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-mas-vista-netflix-mayo-2022-1062925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pelicula-netflix-viendo-planeta-casi-nadie-habla-ella-2705597.jpg' alt='Esta es la película de Netflix que más se está viendo en el planeta y casi nadie habla de ella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919'>Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-olla-multifuncion-10-veces-barata-thermomix-1062919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-ih-2705553.jpg' alt='Xiaomi presenta una olla multifunción 10 veces más barata que una Thermomix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-registro-verguenza-participantes-grupos-1062913'>WhatsApp prepara un “registro de la vergüenza” para los participantes en grupos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-registro-verguenza-participantes-grupos-1062913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp prepara un “registro de la vergüenza” para los participantes en grupos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909'>Un importante estudio confirma que los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nuevo-estudio-videojuegos-aumentan-coeficiente-intelectual-ninos-1062909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-estudio-confirma-gamers-ya-intuyen-videojuegos-aumentan-coeficiente-intelectual-ninos-25-puntos-2705547.jpg' alt='Un importante estudio confirma que los videojuegos aumentan el coeficiente intelectual de los niños hasta 2,5 puntos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885'>Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-libera-cargadores-todos-usuarios-coches-electricos-espana-1062885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tesla-2676199.jpg' alt='Tesla libera sus cargadores para todos los usuarios con coches eléctricos en España' />
     </a>
 </div>
 
