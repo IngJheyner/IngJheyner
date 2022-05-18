@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2704761.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-procesador-mediatek-1062037'>Estos son los mejores móviles procesador Mediatek que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-procesador-mediatek-1062037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414333.jpg' alt='Estos son los mejores móviles procesador Mediatek que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291'>8 usos sorprendentes del champú para bebés que no te imaginas</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-usos-sorprendentes-champu-bebes-1062291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-sorprendentes-usos-champu-bebes-no-te-imaginas-2704455.jpg' alt='8 usos sorprendentes del champú para bebés que no te imaginas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309'>Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/verbatim-lanza-ssd-solo-puede-escribir-vez-dura-10-anos-2704477.jpg' alt='Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-funcionan-tan-bien-algunos-estados-plantean-prohibirlos-1062303'>Los AirTag funcionan tan bien que algunos estados se plantean prohibirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airtag-funcionan-tan-bien-algunos-estados-plantean-prohibirlos-1062303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg' alt='Los AirTag funcionan tan bien que algunos estados se plantean prohibirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297'>Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revisa-suscripciones-ios-apple-permitira-aumenten-precio-avisarte-1062297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-store-2562359.jpg' alt='Revisa tus suscripciones en iOS: Apple permitirá que aumenten el precio sin avisarte' />
     </a>
 </div>
 
