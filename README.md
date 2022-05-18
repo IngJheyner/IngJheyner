@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
     </a>
 </div>
 
