@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978'>Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stephen-king-2597259.jpg' alt='Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803'>Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag</a></h4>
+    <a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wearables-huawei-2705233.jpg' alt='Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-1062755'>Desembarco de equipos profesionales en next@acer: portátiles y sobremesas pensados para diseñar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-1062755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-2705297.jpg' alt='Desembarco de equipos profesionales en next@acer: portátiles y sobremesas pensados para diseñar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753'>Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-2705221.jpg' alt='Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741'>Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-peor-signo-zodiaco-expertos-1062805'>Cuál es el peor signo del zodiaco, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-peor-signo-zodiaco-expertos-1062805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cual-peor-signo-zodiaco-expertos-2705235.jpg' alt='Cuál es el peor signo del zodiaco, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727'>Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-huawei-watch-gt-3-pro-2705051.jpg' alt='Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621'>Huawei Watch GT 3 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705133.jpg' alt='Huawei Watch GT 3 Pro, análisis y opinión' />
     </a>
 </div>
 
