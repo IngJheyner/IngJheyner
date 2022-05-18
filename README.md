@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boton-eco-aire-acondicionado-2703917.jpg' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sony-linkbuds-s-primeras-impresiones-nuevos-auriculares-tws-cancelacion-ruido-sony-1062535'>Sony LinkBuds S, primeras impresiones de los nuevos auriculares TWS con cancelación de ruido de Sony</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sony-linkbuds-s-primeras-impresiones-nuevos-auriculares-tws-cancelacion-ruido-sony-1062535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-linkbuds-s-2704755.jpg' alt='Sony LinkBuds S, primeras impresiones de los nuevos auriculares TWS con cancelación de ruido de Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847'>Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/camaras-kiev-otros-lugares-ucrania-seguir-conflicto-directo-1062847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/guerra-camaras-moviles-ya-no-libra-megapixeles_1.jpg' alt='Cámaras en Kiev y otros lugares de Ucrania para seguir el conflicto en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978'>Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022</a></h4>
     <a href='https://computerhoy.com/listas/life/mejores-peliculas-basadas-libros-stephen-king-50978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stephen-king-2597259.jpg' alt='Las mejores películas basadas en los libros del rey del terror Stephen King para ver en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803'>Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag</a></h4>
     <a href='https://computerhoy.com/noticias/huawei-muestra-todos-wearables-2022-watch-gt-3-pro-watch-fit-2-watch-d-band-7-s-tag-1062803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wearables-huawei-2705233.jpg' alt='Huawei muestra todos sus wearables de 2022: Watch GT 3 Pro, Watch Fit 2, Watch D, Band 7 y S-Tag' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-1062755'>Desembarco de equipos profesionales en next@acer: portátiles y sobremesas pensados para diseñar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-1062755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/desembarco-equipos-profesionales-nextacer-portatiles-sobremesas-pensados-disenar-2705297.jpg' alt='Desembarco de equipos profesionales en next@acer: portátiles y sobremesas pensados para diseñar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753'>Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-1062753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/renovacion-gaming-completa-nextacer-nuevos-portatiles-potentes-monitores-mucho-2705221.jpg' alt='Renovación gaming completa en next@acer: nuevos portátiles potentes, monitores y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741'>Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-medicamento-evitara-cirugia-ocular-solucionar-cataratas-1062741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ojos-gafas-fatiga-2211881.jpg' alt='Nuevo medicamento que evitará cirugía ocular para solucionar las cataratas' />
     </a>
 </div>
 
