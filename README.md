@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727'>Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-reloj-completo-huawei-fecha-1062727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-huawei-watch-gt-3-pro-2705051.jpg' alt='Así es el Huawei Watch GT 3 Pro, el reloj más completo de Huawei hasta la fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621'>Huawei Watch GT 3 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-watch-gt-3-pro-review-opinion-1062621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705133.jpg' alt='Huawei Watch GT 3 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/huawei-presenta-nuevo-telefono-plegable-huawei-mate-xs-2-resistente-ligero-nunca-78-pulgadas-1062791'>Huawei presenta su nuevo teléfono plegable Huawei Mate Xs 2: más resistente y más ligero que nunca en 7,8 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/huawei-presenta-nuevo-telefono-plegable-huawei-mate-xs-2-resistente-ligero-nunca-78-pulgadas-1062791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-mate-xs-2-2705181.jpg' alt='Huawei presenta su nuevo teléfono plegable Huawei Mate Xs 2: más resistente y más ligero que nunca en 7,8 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-placa-base-tengo-1062785'>Cómo saber qué placa base tengo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-placa-base-tengo-1062785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/placa-base-2559033.jpg' alt='Cómo saber qué placa base tengo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709'>CoreCap o cómo hacer inteligente tu bici de una manera muy elegante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/corecap-como-hacer-inteligente-bici-manera-muy-elegante-1062709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-inteligente-2705043.jpg' alt='CoreCap o cómo hacer inteligente tu bici de una manera muy elegante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-busca-elevar-maximo-calidad-presenta-nuevas-barras-sonido-gama-alta-2022-1062711'>LG busca elevar al máximo su calidad y presenta sus nuevas barras de sonido de gama alta 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-busca-elevar-maximo-calidad-presenta-nuevas-barras-sonido-gama-alta-2022-1062711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lg-presenta-nuevas-barras-sonido-2022-2704985.jpg' alt='LG busca elevar al máximo su calidad y presenta sus nuevas barras de sonido de gama alta 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ola-calor-mayo-dia-hara-calor-donde-alcanzaran-temperaturas-maximas-1062677'>Ola de calor de mayo: qué día hará más calor y dónde se alcanzarán las temperaturas máximas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ola-calor-mayo-dia-hara-calor-donde-alcanzaran-temperaturas-maximas-1062677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/calor-1996695.jpg' alt='Ola de calor de mayo: qué día hará más calor y dónde se alcanzarán las temperaturas máximas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primera-glorieta-construida-espana-tiene-46-anos-dgt-nos-sigue-recordando-como-circular-ellas-1062649'>La primera glorieta construida en España tiene 46 años y la DGT nos sigue recordando cómo circular por ellas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primera-glorieta-construida-espana-tiene-46-anos-dgt-nos-sigue-recordando-como-circular-ellas-1062649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primera-glorieta-construida-espana-tiene-44-anos-dgt-nos-sigue-recordando-como-circular-ellas-2704853.jpg' alt='La primera glorieta construida en España tiene 46 años y la DGT nos sigue recordando cómo circular por ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-oferta-18-mayo-2022-1062575'>El iPhone 13 Pro Max es 68 euros más barato ahora en esta oferta de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-max-oferta-18-mayo-2022-1062575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='El iPhone 13 Pro Max es 68 euros más barato ahora en esta oferta de Amazon' />
     </a>
 </div>
 
