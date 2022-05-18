@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)' />
     </a>
 </div>
 
