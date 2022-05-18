@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947'>Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/record-mundo-ascension-traje-volador-escala-montana-1000-metros-rescate-simulado-2705643.jpg' alt='Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853'>Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chromebook-asus-mitad-precio-solo-cuesta-139-euros-ideal-ninos-estudiantes-2705441.jpg' alt='Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903'>La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-oculta-ubicacion-radares-nueva-web-aunque-hay-forma-descubrirlos-1062903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='La DGT oculta la ubicación de los radares en su nueva web aunque hay una forma de descubrirlos' />
     </a>
 </div>
 
