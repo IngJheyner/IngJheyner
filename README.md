@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-referencia-philips-ahora-ademas-amazon-tiene-oferta-1062011'>La freidora sin aceite de referencia es la de Philips y ahora además Amazon la tiene en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-referencia-philips-ahora-ademas-amazon-tiene-oferta-1062011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='La freidora sin aceite de referencia es la de Philips y ahora además Amazon la tiene en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1062539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2704761.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317'>El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/squad-solar-city-car-primer-coche-solar-urbano-1062317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-coche-solar-urbano-mundo-solo-cuesta-6250-euros-2704513.jpg' alt='El primer coche solar urbano del mundo solo cuesta 6.250 euros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309'>Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/verbatim-ssd-escribir-vez-dura-10-anos-1062309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/verbatim-lanza-ssd-solo-puede-escribir-vez-dura-10-anos-2704477.jpg' alt='Verbatim lanza un SSD que solo se puede escribir una vez, y dura 10 años ' />
     </a>
 </div>
 
