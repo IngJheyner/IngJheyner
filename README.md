@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2705827.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-mujer-2022-1062627'>Mejores relojes deportivos para mujer de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-mujer-2022-1062627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Mejores relojes deportivos para mujer de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949'>Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-han-perdido-10-kilos-revelan-trucos-adelgazar-2705645.jpg' alt='Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-youtube-disenada-no-te-aburras-mientras-ves-video-1062931'>La nueva característica de YouTube está diseñada para que no te aburras mientras ves un vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-youtube-disenada-no-te-aburras-mientras-ves-video-1062931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/youtube-fake-news-2496039.jpg' alt='La nueva característica de YouTube está diseñada para que no te aburras mientras ves un vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887'>El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-oh-yeong-2514525.jpg' alt='El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada' />
     </a>
 </div>
 
