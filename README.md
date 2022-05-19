@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-disney-plus-1063449'>¿Elegirás la suscripción barata con anuncios? En Disney+ piensan que sí</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-disney-plus-1063449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elegiras-suscripcion-barata-anuncios-disney-piensan-2706665.jpg' alt='¿Elegirás la suscripción barata con anuncios? En Disney+ piensan que sí' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477'>Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611105.jpg' alt='Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejor-robot-aspirador-xiaomi-476217'>Los mejores robot aspirador de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejor-robot-aspirador-xiaomi-476217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/roborock-s5-max-1868315.jpg' alt='Los mejores robot aspirador de Xiaomi en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551'>¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tableta-chocolate-2706889.jpg' alt='¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-5g-nord-ce-2-lite-5g-han-presentado-llegan-auriculares-nord-buds-1063507'>El OnePlus Nord 2T 5G y Nord CE 2 Lite 5G se han presentado y llegan con los auriculares Nord Buds</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-5g-nord-ce-2-lite-5g-han-presentado-llegan-auriculares-nord-buds-1063507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-2t-5g-nord-ce-2-lite-han-presentado-llegan-auriculares-nord-buds-2706815.jpg' alt='El OnePlus Nord 2T 5G y Nord CE 2 Lite 5G se han presentado y llegan con los auriculares Nord Buds' />
+    <h4><a href='https://computerhoy.com/noticias/life/cuidado-efectos-secundarios-cloro-cloralina-piscinas-ninos-1063553'>Cuidado con los efectos secundarios del cloro y la cloramina de las piscinas en los niños</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuidado-efectos-secundarios-cloro-cloralina-piscinas-ninos-1063553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cuidado-efectos-secundarios-cloro-piscinas-ninos-2706891.jpg' alt='Cuidado con los efectos secundarios del cloro y la cloramina de las piscinas en los niños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071'>Las 30 mejores películas de terror o de miedo de la historia para ver en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/calle-terror-1994-2390919.jpeg' alt='Las 30 mejores películas de terror o de miedo de la historia para ver en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/datos-no-mienten-son-demoledores-netflix-1063547'>Los datos no mienten y son demoledores para Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/datos-no-mienten-son-demoledores-netflix-1063547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Los datos no mienten y son demoledores para Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489'>Cómo saber a qué hora llega un pedido de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/paquete-amazon-2425463.jpg' alt='Cómo saber a qué hora llega un pedido de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-1063513'>La roomba del mar que limpia el mar de plásticos y líquidos contaminantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-1063513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-2706885.jpg' alt='La roomba del mar que limpia el mar de plásticos y líquidos contaminantes' />
     </a>
 </div>
 
