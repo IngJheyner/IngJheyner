@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385'>Cuál es el CIP de la tarjeta sanitaria</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cual-cip-tarjeta-sanitaria-2706481.jpg' alt='Cuál es el CIP de la tarjeta sanitaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-demanda-apple-obsolescencia-programada-1063357'>La OCU demanda a Apple por obsolescencia programada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocu-demanda-apple-obsolescencia-programada-1063357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='La OCU demanda a Apple por obsolescencia programada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-redmi-note-11t-1063369'>Ya tenemos fecha para la presentación de los Redmi Note 11T</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-redmi-note-11t-1063369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/redmi-11t-pro-2706237.jpg' alt='Ya tenemos fecha para la presentación de los Redmi Note 11T' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347'>Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sale-rescate-rusia-sobrevivir-bloqueo-amd-intel-1063313'>China sale al rescate de Rusia para sobrevivir al bloqueo de AMD e Intel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-sale-rescate-rusia-sobrevivir-bloqueo-amd-intel-1063313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/made-china-tiene-dias-contados_1.jpg' alt='China sale al rescate de Rusia para sobrevivir al bloqueo de AMD e Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-oferta-19-mayo-2022-1062729'>300 euros de descuento en el iPhone 13 Pro, y con almacenamiento más que de sobra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-oferta-19-mayo-2022-1062729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='300 euros de descuento en el iPhone 13 Pro, y con almacenamiento más que de sobra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287'>El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/Captura%20de%20pantalla%202019-03-06%20a%20las%208.09.41.jpg' alt='El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271'>Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?' />
     </a>
 </div>
 
