@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515'>Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/stan-lee-guardianes-galaxia-vol-2-2066635.jpg' alt='Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549'>Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/causante-hackeo-masivo-twitter-adolescente-2015649.jpg' alt='Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477'>Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611105.jpg' alt='Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551'>¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tableta-chocolate-2706889.jpg' alt='¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate' />
     </a>
 </div>
 
