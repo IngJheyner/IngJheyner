@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351'>9 pequeños consejos para cargar la batería de tu smartphone más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='9 pequeños consejos para cargar la batería de tu smartphone más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385'>Cuál es el CIP de la tarjeta sanitaria</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cual-cip-tarjeta-sanitaria-2706481.jpg' alt='Cuál es el CIP de la tarjeta sanitaria' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347'>Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo ' />
     </a>
 </div>
 
