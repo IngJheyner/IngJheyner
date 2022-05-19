@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071'>Las 30 mejores películas de terror o de miedo de la historia para ver en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/calle-terror-1994-2390919.jpeg' alt='Las 30 mejores películas de terror o de miedo de la historia para ver en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489'>Cómo saber a qué hora llega un pedido de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/paquete-amazon-2425463.jpg' alt='Cómo saber a qué hora llega un pedido de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301'>Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial</a></h4>
     <a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237'>Asus VivoBook Slate 13 OLED, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-asus-vivobook-slate-13-oled-2706625.jpg' alt='Asus VivoBook Slate 13 OLED, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/son-bicicletas-electricas-usa-ejercito-ucraniano-derribar-tanques-rusos-1063391'>Así son las bicicletas eléctricas que usa el ejército ucraniano para derribar tanques rusos</a></h4>
-    <a href='https://computerhoy.com/noticias/son-bicicletas-electricas-usa-ejercito-ucraniano-derribar-tanques-rusos-1063391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ucrania-guerra-rusia-tanque-2642937.jpg' alt='Así son las bicicletas eléctricas que usa el ejército ucraniano para derribar tanques rusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351'>9 pequeños consejos para cargar la batería de tu smartphone más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='9 pequeños consejos para cargar la batería de tu smartphone más rápido' />
     </a>
 </div>
 
