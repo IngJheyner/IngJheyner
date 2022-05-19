@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301'>Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial</a></h4>
+    <a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic4-pro-ya-espana-telefono-homologado-imax-enhanced-grabar-video-profesional-1063461'>El Honor Magic4 Pro ya está en España: el teléfono homologado por IMAX-Enhanced para grabar vídeo profesional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic4-pro-ya-espana-telefono-homologado-imax-enhanced-grabar-video-profesional-1063461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/opinion-honor-magic-4-pro-2631447.jpg' alt='El Honor Magic4 Pro ya está en España: el teléfono homologado por IMAX-Enhanced para grabar vídeo profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237'>Asus VivoBook Slate 13 OLED, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-asus-vivobook-slate-13-oled-2706625.jpg' alt='Asus VivoBook Slate 13 OLED, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/son-bicicletas-electricas-usa-ejercito-ucraniano-derribar-tanques-rusos-1063391'>Así son las bicicletas eléctricas que usa el ejército ucraniano para derribar tanques rusos</a></h4>
+    <a href='https://computerhoy.com/noticias/son-bicicletas-electricas-usa-ejercito-ucraniano-derribar-tanques-rusos-1063391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ucrania-guerra-rusia-tanque-2642937.jpg' alt='Así son las bicicletas eléctricas que usa el ejército ucraniano para derribar tanques rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351'>9 pequeños consejos para cargar la batería de tu smartphone más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/9-pequenos-consejos-cargar-bateria-smartphone-rapido-1063351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='9 pequeños consejos para cargar la batería de tu smartphone más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385'>Cuál es el CIP de la tarjeta sanitaria</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-cip-tarjeta-sanitaria-1063385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cual-cip-tarjeta-sanitaria-2706481.jpg' alt='Cuál es el CIP de la tarjeta sanitaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-demanda-apple-obsolescencia-programada-1063357'>La OCU demanda a Apple por obsolescencia programada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocu-demanda-apple-obsolescencia-programada-1063357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='La OCU demanda a Apple por obsolescencia programada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-redmi-note-11t-1063369'>Ya tenemos fecha para la presentación de los Redmi Note 11T</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-redmi-note-11t-1063369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/redmi-11t-pro-2706237.jpg' alt='Ya tenemos fecha para la presentación de los Redmi Note 11T' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2664033.jpg' alt='Las 25 mejores fotos de perfil para WhatsApp para ponerte en 2022' />
     </a>
 </div>
 
