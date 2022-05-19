@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347'>Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-claro-anuncia-windows-11-ya-preparado-despliegue-masivo-1063347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Microsoft lo tiene claro y anuncia que Windows 11 ya está preparado para un despliegue masivo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sale-rescate-rusia-sobrevivir-bloqueo-amd-intel-1063313'>China sale al rescate de Rusia para sobrevivir al bloqueo de AMD e Intel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-sale-rescate-rusia-sobrevivir-bloqueo-amd-intel-1063313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/made-china-tiene-dias-contados_1.jpg' alt='China sale al rescate de Rusia para sobrevivir al bloqueo de AMD e Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-oferta-19-mayo-2022-1062729'>300 euros de descuento en el iPhone 13 Pro, y con almacenamiento más que de sobra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-oferta-19-mayo-2022-1062729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='300 euros de descuento en el iPhone 13 Pro, y con almacenamiento más que de sobra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287'>El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/Captura%20de%20pantalla%202019-03-06%20a%20las%208.09.41.jpg' alt='El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271'>Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-galaxy-z-flip-4-aun-potente-gracias-nuevo-snapdragon-1063273'>Se filtra un Galaxy Z Flip 4 aún más potente gracias al nuevo Snapdragon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-galaxy-z-flip-4-aun-potente-gracias-nuevo-snapdragon-1063273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Se filtra un Galaxy Z Flip 4 aún más potente gracias al nuevo Snapdragon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253'>Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/phishing-homoglifos.jpg' alt='Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249'>Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins</a></h4>
-    <a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoins-bandera-china-2482327.jpg' alt='Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins' />
     </a>
 </div>
 
