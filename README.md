@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/contrasenas-usadas-ceos-empresas-son-igual-malas-mayoria-usuarios-1063185'>Las contraseñas más usadas por CEOs de empresas son igual de malas que las de la mayoría de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/contrasenas-usadas-ceos-empresas-son-igual-malas-mayoria-usuarios-1063185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/jeff-bezos-deja-ser-ceo-amazon-5-julio-2349155.jpg' alt='Las contraseñas más usadas por CEOs de empresas son igual de malas que las de la mayoría de usuarios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253'>Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/phishing-homoglifos.jpg' alt='Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-resistentes-agua-piscina-playa-887719'>Estos son los mejores altavoces Bluetooth resistentes al agua para la piscina y playa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-resistentes-agua-piscina-playa-887719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/altavoz-ultimate-ears-wonderboom-piscina-2381707.jpg' alt='Estos son los mejores altavoces Bluetooth resistentes al agua para la piscina y playa' />
+    <h4><a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249'>Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins</a></h4>
+    <a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoins-bandera-china-2482327.jpg' alt='Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2705827.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-appgallery-huawei-permite-instalacion-aplicaciones-premium-forma-gratuita-1063261'>Un error de la AppGallery de HUAWEI permite la instalación de aplicaciones premium de forma gratuita</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-appgallery-huawei-permite-instalacion-aplicaciones-premium-forma-gratuita-1063261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/appgallery-2706001.jpg' alt='Un error de la AppGallery de HUAWEI permite la instalación de aplicaciones premium de forma gratuita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-mujer-2022-1062627'>Mejores relojes deportivos para mujer de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-mujer-2022-1062627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Mejores relojes deportivos para mujer de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f7-plus-3-oferta-19-mayo-2022-1062697'>Este portátil chino de apenas 300 euros pesa solo 1,3 kg y viene con Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f7-plus-3-oferta-19-mayo-2022-1062697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclast-f7-plus3-2704941.jpg' alt='Este portátil chino de apenas 300 euros pesa solo 1,3 kg y viene con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949'>Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-han-perdido-10-kilos-revelan-trucos-adelgazar-2705645.jpg' alt='Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-rusia-quiebra-tiene-cerrar-no-va-ser-unica-tenga-hacer-1063215'>Google Rusia quiebra y tiene que cerrar y no va a ser la única que lo tenga que hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-rusia-quiebra-tiene-cerrar-no-va-ser-unica-tenga-hacer-1063215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Google Rusia quiebra y tiene que cerrar y no va a ser la única que lo tenga que hacer' />
     </a>
 </div>
 
