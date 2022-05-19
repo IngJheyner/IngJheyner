@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549'>Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/causante-hackeo-masivo-twitter-adolescente-2015649.jpg' alt='Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569'>Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-otros-clasicos-2706943.jpg' alt='Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-actualiza-soluciona-grandes-problemas-1063537'>Google Fotos se actualiza y soluciona uno de sus grandes problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-actualiza-soluciona-grandes-problemas-1063537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos se actualiza y soluciona uno de sus grandes problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477'>Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-cupon-100-euros-cargador-25w-regalo-1063477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611105.jpg' alt='Un cupón de 100 euros baja el precio del Samsung Galaxy S22 5G, y con cargador de 25W de regalo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551'>¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuidado-alergicos-detectan-presencia-alergenos-11-marcas-chocolate-1063551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tableta-chocolate-2706889.jpg' alt='¡Cuidado alérgicos! Detectan presencia de alérgenos en 11 marcas de chocolate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuidado-efectos-secundarios-cloro-cloralina-piscinas-ninos-1063553'>Cuidado con los efectos secundarios del cloro y la cloramina de las piscinas en los niños</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuidado-efectos-secundarios-cloro-cloralina-piscinas-ninos-1063553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cuidado-efectos-secundarios-cloro-piscinas-ninos-2706891.jpg' alt='Cuidado con los efectos secundarios del cloro y la cloramina de las piscinas en los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/datos-no-mienten-son-demoledores-netflix-1063547'>Los datos no mienten y son demoledores para Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/datos-no-mienten-son-demoledores-netflix-1063547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Los datos no mienten y son demoledores para Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-1063513'>La roomba del mar que limpia el mar de plásticos y líquidos contaminantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-1063513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-mar-limpia-mar-plasticos-liquidos-contaminantes-2706885.jpg' alt='La roomba del mar que limpia el mar de plásticos y líquidos contaminantes' />
     </a>
 </div>
 
