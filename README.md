@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287'>El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-marciano-nasa-va-quedar-bateria-demasiado-pronto-culpable-viejo-conocido-1063287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/Captura%20de%20pantalla%202019-03-06%20a%20las%208.09.41.jpg' alt='El robot marciano de la NASA se va a quedar sin batería demasiado pronto y el culpable es un viejo conocido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271'>Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-aplicacion-inteligencia-artificial-hablar-muertos-1063271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Una nueva aplicación de la inteligencia artificial, ¿para hablar con los muertos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-galaxy-z-flip-4-aun-potente-gracias-nuevo-snapdragon-1063273'>Se filtra un Galaxy Z Flip 4 aún más potente gracias al nuevo Snapdragon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-galaxy-z-flip-4-aun-potente-gracias-nuevo-snapdragon-1063273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Se filtra un Galaxy Z Flip 4 aún más potente gracias al nuevo Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253'>Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackers-han-puesto-ojo-metaverso-ataques-phishing-fracaso-criptomonedas-1063253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/phishing-homoglifos.jpg' alt='Los hackers han puesto el ojo en el Metaverso para los ataques phishing, tras el fracaso de las criptomonedas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249'>Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins</a></h4>
     <a href='https://computerhoy.com/noticias/pese-baneo-nacional-china-vuelve-segundo-puesto-ranking-mineria-bitcoins-1063249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bitcoins-bandera-china-2482327.jpg' alt='Pese al baneo nacional, China vuelve al segundo puesto en el ranking de minado de bitcoins' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-appgallery-huawei-permite-instalacion-aplicaciones-premium-forma-gratuita-1063261'>Un error de la AppGallery de HUAWEI permite la instalación de aplicaciones premium de forma gratuita</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-appgallery-huawei-permite-instalacion-aplicaciones-premium-forma-gratuita-1063261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/appgallery-2706001.jpg' alt='Un error de la AppGallery de HUAWEI permite la instalación de aplicaciones premium de forma gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclast-f7-plus-3-oferta-19-mayo-2022-1062697'>Este portátil chino de apenas 300 euros pesa solo 1,3 kg y viene con Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclast-f7-plus-3-oferta-19-mayo-2022-1062697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclast-f7-plus3-2704941.jpg' alt='Este portátil chino de apenas 300 euros pesa solo 1,3 kg y viene con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-rusia-quiebra-tiene-cerrar-no-va-ser-unica-tenga-hacer-1063215'>Google Rusia quiebra y tiene que cerrar y no va a ser la única que lo tenga que hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-rusia-quiebra-tiene-cerrar-no-va-ser-unica-tenga-hacer-1063215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='Google Rusia quiebra y tiene que cerrar y no va a ser la única que lo tenga que hacer' />
     </a>
 </div>
 
