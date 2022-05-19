@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949'>Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-adelgazar-personas-han-perdido-10-kilos-1062949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-han-perdido-10-kilos-revelan-trucos-adelgazar-2705645.jpg' alt='Personas que han perdido más de 10 Kilos revelan sus trucos para adelgazar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947'>Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/record-mundo-ascension-traje-volador-escala-montana-1000-metros-rescate-simulado-2705643.jpg' alt='Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887'>El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-habla-fecha-estreno-segunda-temporada-1062887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/juego-calamar-oh-yeong-2514525.jpg' alt='El creador de El juego del calamar habla de la fecha de estreno de la segunda temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853'>Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromebook-asus-mitad-precio-ninos-estudiantes-1062853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chromebook-asus-mitad-precio-solo-cuesta-139-euros-ideal-ninos-estudiantes-2705441.jpg' alt='Este Chromebook de Asus a mitad de precio solo cuesta 139 euros, ideal para niños y estudiantes' />
     </a>
 </div>
 
