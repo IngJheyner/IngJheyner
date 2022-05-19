@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-resistentes-agua-piscina-playa-887719'>Estos son los mejores altavoces Bluetooth resistentes al agua para la piscina y playa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-resistentes-agua-piscina-playa-887719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/altavoz-ultimate-ears-wonderboom-piscina-2381707.jpg' alt='Estos son los mejores altavoces Bluetooth resistentes al agua para la piscina y playa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2705827.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947'>Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/record-mundo-ascension-traje-volador-gravity-montana-1000-metros-1062947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/record-mundo-ascension-traje-volador-escala-montana-1000-metros-rescate-simulado-2705643.jpg' alt='Récord del mundo de ascensión de un traje volador: escala una montaña de 1.000 metros en un rescate simulado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941'>La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-tablet-amazon-fire-7-2022-usb-tipo-c-1062941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-tablet-amazon-fire-7-potente-autonomia-conector-usb-tipo-c-solo-cuesta-80-euros-2705625.jpg' alt='La nueva tablet Amazon Fire 7 (2022) es más potente, con más autonomía, conector USB Tipo C, y solo cuesta 80 euros' />
     </a>
 </div>
 
