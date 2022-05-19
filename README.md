@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-disney-plus-1063449'>¿Elegirás la suscripción barata con anuncios? En Disney+ piensan que sí</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-disney-plus-1063449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elegiras-suscripcion-barata-anuncios-disney-piensan-2706665.jpg' alt='¿Elegirás la suscripción barata con anuncios? En Disney+ piensan que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejor-robot-aspirador-xiaomi-476217'>Los mejores robot aspirador de Xiaomi en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejor-robot-aspirador-xiaomi-476217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/roborock-s5-max-1868315.jpg' alt='Los mejores robot aspirador de Xiaomi en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-5g-nord-ce-2-lite-5g-han-presentado-llegan-auriculares-nord-buds-1063507'>El OnePlus Nord 2T 5G y Nord CE 2 Lite 5G se han presentado y llegan con los auriculares Nord Buds</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-5g-nord-ce-2-lite-5g-han-presentado-llegan-auriculares-nord-buds-1063507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-2t-5g-nord-ce-2-lite-han-presentado-llegan-auriculares-nord-buds-2706815.jpg' alt='El OnePlus Nord 2T 5G y Nord CE 2 Lite 5G se han presentado y llegan con los auriculares Nord Buds' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071'>Las 30 mejores películas de terror o de miedo de la historia para ver en 2022</a></h4>
     <a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/calle-terror-1994-2390919.jpeg' alt='Las 30 mejores películas de terror o de miedo de la historia para ver en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489'>Cómo saber a qué hora llega un pedido de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-hora-llega-pedido-amazon-1063489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/paquete-amazon-2425463.jpg' alt='Cómo saber a qué hora llega un pedido de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301'>Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial</a></h4>
-    <a href='https://computerhoy.com/noticias/huawei-watch-d-funciona-primer-smartwatch-mide-presion-arterial-1063301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='Watch D: así funciona el primer smartwatch Huawei que mide la presión arterial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magic4-pro-ya-espana-telefono-homologado-imax-enhanced-grabar-video-profesional-1063461'>El Honor Magic4 Pro ya está en España: el teléfono homologado por IMAX-Enhanced para grabar vídeo profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-magic4-pro-ya-espana-telefono-homologado-imax-enhanced-grabar-video-profesional-1063461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/opinion-honor-magic-4-pro-2631447.jpg' alt='El Honor Magic4 Pro ya está en España: el teléfono homologado por IMAX-Enhanced para grabar vídeo profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237'>Asus VivoBook Slate 13 OLED, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-vivobook-slate-13-oled-review-opinion-1063237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-asus-vivobook-slate-13-oled-2706625.jpg' alt='Asus VivoBook Slate 13 OLED, análisis y opinión' />
     </a>
 </div>
 
