@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151'>Oru Lake, la maleta que se convierte en kayak (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oru-lake-maleta-convierte-kayak-2707971.jpg' alt='Oru Lake, la maleta que se convierte en kayak (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081'>El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143'>Google asusta con sus últimas declaraciones sobre Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Google asusta con sus últimas declaraciones sobre Inteligencia Artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-oleada-bloqueos-android-auto-aunque-vez-no-culpa-google-1064133'>Nueva oleada de bloqueos en Android Auto aunque esta vez no es culpa de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-oleada-bloqueos-android-auto-aunque-vez-no-culpa-google-1064133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Nueva oleada de bloqueos en Android Auto aunque esta vez no es culpa de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-futuro-carnet-conducir-65-anos-1064125'>La DGT aclara el futuro para los conductores de más de 65 años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-futuro-carnet-conducir-65-anos-1064125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dgt-aclara-futuro-conductores-65-anos-2707909.jpg' alt='La DGT aclara el futuro para los conductores de más de 65 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-ya-disfruta-soporte-pantallas-braille-1064121'>Android 13 ya disfruta de soporte para pantallas braille</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-ya-disfruta-soporte-pantallas-braille-1064121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 ya disfruta de soporte para pantallas braille' />
     </a>
 </div>
 
