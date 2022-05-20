@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163'>Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-ver-primeros-8-minutos-stranger-things-4-temporada-dividira-dos-partes-2708005.jpg' alt='Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151'>Oru Lake, la maleta que se convierte en kayak (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oru-lake-maleta-convierte-kayak-2707971.jpg' alt='Oru Lake, la maleta que se convierte en kayak (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-prueba-dog-tv-canal-television-perros-1064141'>La OCU y su prueba más surrealista: DOG TV, un canal de televisión para perros</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-prueba-dog-tv-canal-television-perros-1064141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/ven-perros-gatos-cuando-miran-television-1980897.jpg' alt='La OCU y su prueba más surrealista: DOG TV, un canal de televisión para perros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-oleada-bloqueos-android-auto-aunque-vez-no-culpa-google-1064133'>Nueva oleada de bloqueos en Android Auto aunque esta vez no es culpa de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-oleada-bloqueos-android-auto-aunque-vez-no-culpa-google-1064133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Nueva oleada de bloqueos en Android Auto aunque esta vez no es culpa de Google' />
     </a>
 </div>
 
