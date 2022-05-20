@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-futuro-carnet-conducir-65-anos-1064125'>La DGT aclara el futuro para los conductores de más de 65 años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-futuro-carnet-conducir-65-anos-1064125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dgt-aclara-futuro-conductores-65-anos-2707909.jpg' alt='La DGT aclara el futuro para los conductores de más de 65 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-ya-disfruta-soporte-pantallas-braille-1064121'>Android 13 ya disfruta de soporte para pantallas braille</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-ya-disfruta-soporte-pantallas-braille-1064121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Android 13 ya disfruta de soporte para pantallas braille' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-20-mayo-2022-1063887'>Ya es viernes: 25 chollos de Amazon, AliExpress, PcComponentes y más que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-20-mayo-2022-1063887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-poco-f3-2301635.jpg' alt='Ya es viernes: 25 chollos de Amazon, AliExpress, PcComponentes y más que no te puedes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-robots-totems-mafiosos-1064047'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: robots, tótems y mafiosos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-robots-totems-mafiosos-1064047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2707651.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: robots, tótems y mafiosos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/piden-mercadona-indulto-productos-populares-durante-verano-1064079'>Piden a Mercadona el indulto para uno de los productos más populares durante el verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/piden-mercadona-indulto-productos-populares-durante-verano-1064079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camiones-mercadona-2681013.jpg' alt='Piden a Mercadona el indulto para uno de los productos más populares durante el verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-funcionalidad-mystery-box-peques-casa-encuentren-nuevos-contenidos-1064073'>Netflix añade la funcionalidad Mystery Box para que los peques de la casa encuentren nuevos contenidos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-funcionalidad-mystery-box-peques-casa-encuentren-nuevos-contenidos-1064073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-kids-mystery-box-2707725.jpg' alt='Netflix añade la funcionalidad Mystery Box para que los peques de la casa encuentren nuevos contenidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-nueva-matrix-aclamada-anya-taylor-joy-secuela-halloween-1063531'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: la nueva de Matrix, una aclamada Anya Taylor-Joy y la secuela de Halloween</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-nueva-matrix-aclamada-anya-taylor-joy-secuela-halloween-1063531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-nueva-matrix-aclamada-anya-taylor-joy-secuela-halloween-2706863.jpg' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: la nueva de Matrix, una aclamada Anya Taylor-Joy y la secuela de Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-personas-llaman-exactamente-como-espana-1064075'>Cómo saber cuántas personas se llaman exactamente como tú en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-personas-llaman-exactamente-como-espana-1064075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/numero-hernan-existentes-espana-2707739.jpg' alt='Cómo saber cuántas personas se llaman exactamente como tú en España' />
     </a>
 </div>
 
