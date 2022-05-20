@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-robots-totems-mafiosos-1064047'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: robots, tótems y mafiosos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-robots-totems-mafiosos-1064047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2707651.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: robots, tótems y mafiosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/piden-mercadona-indulto-productos-populares-durante-verano-1064079'>Piden a Mercadona el indulto para uno de los productos más populares durante el verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/piden-mercadona-indulto-productos-populares-durante-verano-1064079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/camiones-mercadona-2681013.jpg' alt='Piden a Mercadona el indulto para uno de los productos más populares durante el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-funcionalidad-mystery-box-peques-casa-encuentren-nuevos-contenidos-1064073'>Netflix añade la funcionalidad Mystery Box para que los peques de la casa encuentren nuevos contenidos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anade-funcionalidad-mystery-box-peques-casa-encuentren-nuevos-contenidos-1064073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-kids-mystery-box-2707725.jpg' alt='Netflix añade la funcionalidad Mystery Box para que los peques de la casa encuentren nuevos contenidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-cuantas-personas-llaman-exactamente-como-espana-1064075'>Cómo saber cuántas personas se llaman exactamente como tú en España</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-cuantas-personas-llaman-exactamente-como-espana-1064075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/numero-hernan-existentes-espana-2707739.jpg' alt='Cómo saber cuántas personas se llaman exactamente como tú en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/snapdragon-8-7-gen-1-son-soc-qualcomm-proxima-generacion-dispositivos-moviles-tablets-1064059'>Snapdragon 8+ y 7 Gen1, así son los SoC Qualcomm para la próxima generación de dispositivos móviles y tablets</a></h4>
-    <a href='https://computerhoy.com/noticias/snapdragon-8-7-gen-1-son-soc-qualcomm-proxima-generacion-dispositivos-moviles-tablets-1064059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/snapdragon-8-gen-1-snapdragon-7-gen-1-2707675.jpg' alt='Snapdragon 8+ y 7 Gen1, así son los SoC Qualcomm para la próxima generación de dispositivos móviles y tablets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/record-mundial-eficiencia-paneles-solares-nuevos-pozos-cuanticos-1064057'>Récord mundial de eficiencia en paneles solares con los nuevos pozos cuánticos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/record-mundial-eficiencia-paneles-solares-nuevos-pozos-cuanticos-1064057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/panel-solar-cuantico-2707671.jpg' alt='Récord mundial de eficiencia en paneles solares con los nuevos pozos cuánticos' />
     </a>
 </div>
 
