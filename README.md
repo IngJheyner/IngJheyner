@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-t-rex-2055743.jpg' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2707167.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579'>Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-comprar-propio-escudo-invisibilidad-funciona-verdad-2706955.jpg' alt='Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515'>Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/stan-lee-guardianes-galaxia-vol-2-2066635.jpg' alt='Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI' />
     </a>
 </div>
 
