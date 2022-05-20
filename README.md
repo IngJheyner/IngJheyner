@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167'>Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/borderlands-3-gratis-descuentos-75-cupon-25-adicional-ilimitado-rebajas-epic-games-store-2708011.jpg' alt='Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163'>Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-ver-primeros-8-minutos-stranger-things-4-temporada-dividira-dos-partes-2708005.jpg' alt='Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143'>Google asusta con sus últimas declaraciones sobre Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Google asusta con sus últimas declaraciones sobre Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-prueba-dog-tv-canal-television-perros-1064141'>La OCU y su prueba más surrealista: DOG TV, un canal de televisión para perros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-prueba-dog-tv-canal-television-perros-1064141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/ven-perros-gatos-cuando-miran-television-1980897.jpg' alt='La OCU y su prueba más surrealista: DOG TV, un canal de televisión para perros' />
     </a>
 </div>
 
