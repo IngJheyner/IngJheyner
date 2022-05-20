@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151'>Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-2705829.jpg' alt='Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167'>Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/borderlands-3-gratis-descuentos-75-cupon-25-adicional-ilimitado-rebajas-epic-games-store-2708011.jpg' alt='Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081'>El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143'>Google asusta con sus últimas declaraciones sobre Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-asusta-ultimas-declaraciones-inteligencia-artificial-1064143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Google asusta con sus últimas declaraciones sobre Inteligencia Artificial' />
     </a>
 </div>
 
