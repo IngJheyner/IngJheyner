@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2707167.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791'>Remedios caseros contra los mareos y vértigos</a></h4>
     <a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/remedios-caseros-mareos-vertigos-2707165.jpg' alt='Remedios caseros contra los mareos y vértigos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515'>Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/acuerdo-permitira-nuevo-cameos-stan-lee-peliculas-marvel-mediante-cgi-1063515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/stan-lee-guardianes-galaxia-vol-2-2066635.jpg' alt='Un acuerdo permitirá de nuevo los cameos de Stan Lee en las películas Marvel mediante CGI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549'>Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-sigue-pie-guerra-noticias-falsas-nueva-medida-respecto-1063549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/causante-hackeo-masivo-twitter-adolescente-2015649.jpg' alt='Twitter sigue en pie de guerra contra las noticias falsas y esta es su nueva medida al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569'>Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-otros-clasicos-2706943.jpg' alt='Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos' />
     </a>
 </div>
 
