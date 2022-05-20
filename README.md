@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/canada-une-veto-estados-unidos-ni-zte-ni-huawei-podran-acceder-redes-5g-pais-1063915'>Canadá se une al veto de Estados Unidos: ni ZTE ni Huawei podrán acceder a las redes 5G del país</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/canada-une-veto-estados-unidos-ni-zte-ni-huawei-podran-acceder-redes-5g-pais-1063915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Canadá se une al veto de Estados Unidos: ni ZTE ni Huawei podrán acceder a las redes 5G del país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905'>Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cloudapi-2707357.jpg' alt='Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857'>Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/daredevil-2122471.jpg' alt='Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831'>Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh</a></h4>
-    <a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh' />
     </a>
 </div>
 
