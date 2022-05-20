@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857'>Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/daredevil-2122471.jpg' alt='Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831'>Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh</a></h4>
+    <a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-t-rex-2055743.jpg' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
     <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791'>Remedios caseros contra los mareos y vértigos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/remedios-caseros-mareos-vertigos-2707165.jpg' alt='Remedios caseros contra los mareos y vértigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579'>Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-comprar-propio-escudo-invisibilidad-funciona-verdad-2706955.jpg' alt='Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)' />
     </a>
 </div>
 
