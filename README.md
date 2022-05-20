@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/snapdragon-8-7-gen-1-son-soc-qualcomm-proxima-generacion-dispositivos-moviles-tablets-1064059'>Snapdragon 8+ y 7 Gen1, así son los SoC Qualcomm para la próxima generación de dispositivos móviles y tablets</a></h4>
+    <a href='https://computerhoy.com/noticias/snapdragon-8-7-gen-1-son-soc-qualcomm-proxima-generacion-dispositivos-moviles-tablets-1064059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/snapdragon-8-gen-1-snapdragon-7-gen-1-2707675.jpg' alt='Snapdragon 8+ y 7 Gen1, así son los SoC Qualcomm para la próxima generación de dispositivos móviles y tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/record-mundial-eficiencia-paneles-solares-nuevos-pozos-cuanticos-1064057'>Record mundial de eficiencia en paneles solares con los nuevos pozos cuánticos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/record-mundial-eficiencia-paneles-solares-nuevos-pozos-cuanticos-1064057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/panel-solar-cuantico-2707671.jpg' alt='Record mundial de eficiencia en paneles solares con los nuevos pozos cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/posible-tercera-guerra-mundial-repartirian-bandos-caso-conflicto-global-1063989'>¿Es posible una tercera guerra mundial? Así se repartirían los bandos en caso de conflicto global</a></h4>
+    <a href='https://computerhoy.com/noticias/life/posible-tercera-guerra-mundial-repartirian-bandos-caso-conflicto-global-1063989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/guerra-drones.jpg' alt='¿Es posible una tercera guerra mundial? Así se repartirían los bandos en caso de conflicto global' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-colesterol-malo-peligros-tiene-1063387'>Cuál es el colesterol malo y que peligros tiene </a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-colesterol-malo-peligros-tiene-1063387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/mitos-colesterol.jpg' alt='Cuál es el colesterol malo y que peligros tiene ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-explica-no-invertira-nunca-bitcoin-shiba-inu-cualquier-otra-criptomoneda-1064011'>Bill Gates explica por qué no invertirá nunca en Bitcoin, Shiba Inu o cualquier otra criptomoneda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-explica-no-invertira-nunca-bitcoin-shiba-inu-cualquier-otra-criptomoneda-1064011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates explica por qué no invertirá nunca en Bitcoin, Shiba Inu o cualquier otra criptomoneda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-lite-2-20-mayo-2022-1063893'>Este reloj inteligente de Xiaomi es de lo mejor que hemos probado de la marca, y además ahora está a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-lite-2-20-mayo-2022-1063893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598837.jpg' alt='Este reloj inteligente de Xiaomi es de lo mejor que hemos probado de la marca, y además ahora está a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983'>Empleos bien remunerados para los que encontrarás trabajo rápidamente en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-2707549.jpg' alt='Empleos bien remunerados para los que encontrarás trabajo rápidamente en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969'>La DGT usa también motos camufladas para cazar infracciones de tráfico, así son</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dgt-quiere-incentivar-uso-chalecos-airbags-motoristas-2230027.jpg' alt='La DGT usa también motos camufladas para cazar infracciones de tráfico, así son' />
     </a>
 </div>
 
