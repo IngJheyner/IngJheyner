@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-colesterol-malo-peligros-tiene-1063387'>Cuál es el colesterol malo y que peligros tiene </a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-colesterol-malo-peligros-tiene-1063387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/mitos-colesterol.jpg' alt='Cuál es el colesterol malo y que peligros tiene ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-explica-no-invertira-nunca-bitcoin-shiba-inu-cualquier-otra-criptomoneda-1064011'>Bill Gates explica por qué no invertirá nunca en Bitcoin, Shiba Inu o cualquier otra criptomoneda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-explica-no-invertira-nunca-bitcoin-shiba-inu-cualquier-otra-criptomoneda-1064011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='Bill Gates explica por qué no invertirá nunca en Bitcoin, Shiba Inu o cualquier otra criptomoneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-lite-2-20-mayo-2022-1063893'>Este reloj inteligente de Xiaomi es de lo mejor que hemos probado de la marca, y además ahora está a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-watch-lite-2-20-mayo-2022-1063893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598837.jpg' alt='Este reloj inteligente de Xiaomi es de lo mejor que hemos probado de la marca, y además ahora está a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983'>Empleos bien remunerados para los que encontrarás trabajo rápidamente en España</a></h4>
     <a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-2707549.jpg' alt='Empleos bien remunerados para los que encontrarás trabajo rápidamente en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969'>La DGT usa también motos camufladas para cazar infracciones de tráfico, así son</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dgt-quiere-incentivar-uso-chalecos-airbags-motoristas-2230027.jpg' alt='La DGT usa también motos camufladas para cazar infracciones de tráfico, así son' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-1063967'>Samsung presenta una nueva y exclusiva colaboración con Pokémon y sus Galaxy Buds 2</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-1063967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-2707509.jpg' alt='Samsung presenta una nueva y exclusiva colaboración con Pokémon y sus Galaxy Buds 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/primera-vez-casi-decada-xbox-supera-playstation-donde-duele-sony-1063949'>Por primera vez en casi una década Xbox supera a PlayStation donde más le duele a Sony</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/primera-vez-casi-decada-xbox-supera-playstation-donde-duele-sony-1063949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140499.jpg' alt='Por primera vez en casi una década Xbox supera a PlayStation donde más le duele a Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-proteger-pc-windows-10-11-ramsonware-instalar-ningun-programa-1063937'>Trucos para proteger tu PC con Windows 10/11 del ramsonware sin instalar ningún programa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trucos-proteger-pc-windows-10-11-ramsonware-instalar-ningun-programa-1063937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ciberataque-2368113.jpg' alt='Trucos para proteger tu PC con Windows 10/11 del ramsonware sin instalar ningún programa' />
     </a>
 </div>
 
