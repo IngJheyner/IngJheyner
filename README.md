@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983'>Empleos bien remunerados para los que encontrarás trabajo rápidamente en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-1063983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/empleos-bien-remunerados-encontraras-trabajo-rapidamente-espana-2707549.jpg' alt='Empleos bien remunerados para los que encontrarás trabajo rápidamente en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969'>La DGT usa también motos camufladas para cazar infracciones de tráfico, así son</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-usa-tambien-motos-camufladas-cazar-infracciones-trafico-son-1063969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dgt-quiere-incentivar-uso-chalecos-airbags-motoristas-2230027.jpg' alt='La DGT usa también motos camufladas para cazar infracciones de tráfico, así son' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-1063967'>Samsung presenta una nueva y exclusiva colaboración con Pokémon y sus Galaxy Buds 2</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-1063967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-presenta-nueva-exclusiva-colaboracion-pokemon-galaxy-buds-2-2707509.jpg' alt='Samsung presenta una nueva y exclusiva colaboración con Pokémon y sus Galaxy Buds 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/primera-vez-casi-decada-xbox-supera-playstation-donde-duele-sony-1063949'>Por primera vez en casi una década Xbox supera a PlayStation donde más le duele a Sony</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/primera-vez-casi-decada-xbox-supera-playstation-donde-duele-sony-1063949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140499.jpg' alt='Por primera vez en casi una década Xbox supera a PlayStation donde más le duele a Sony' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trucos-proteger-pc-windows-10-11-ramsonware-instalar-ningun-programa-1063937'>Trucos para proteger tu PC con Windows 10/11 del ramsonware sin instalar ningún programa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trucos-proteger-pc-windows-10-11-ramsonware-instalar-ningun-programa-1063937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ciberataque-2368113.jpg' alt='Trucos para proteger tu PC con Windows 10/11 del ramsonware sin instalar ningún programa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/compresor-baseus-20-mayo-2022-1063875'>Que no te cobren en la gasolinera: este inflador de neumáticos es barato y lo amortizarás rápidamente</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/compresor-baseus-20-mayo-2022-1063875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/baseus-minicompresor-2707313.jpg' alt='Que no te cobren en la gasolinera: este inflador de neumáticos es barato y lo amortizarás rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/canada-une-veto-estados-unidos-ni-zte-ni-huawei-podran-acceder-redes-5g-pais-1063915'>Canadá se une al veto de Estados Unidos: ni ZTE ni Huawei podrán acceder a las redes 5G del país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/canada-une-veto-estados-unidos-ni-zte-ni-huawei-podran-acceder-redes-5g-pais-1063915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/antenas-4g-5g-2545721.jpg' alt='Canadá se une al veto de Estados Unidos: ni ZTE ni Huawei podrán acceder a las redes 5G del país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905'>Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cloudapi-2707357.jpg' alt='Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal' />
     </a>
 </div>
 
