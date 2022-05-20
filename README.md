@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905'>Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-abre-api-whatsapp-business-ello-implica-bien-mal-1063905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cloudapi-2707357.jpg' alt='Facebook abre el API de WhatsApp Business y lo que ello implica, para bien y para mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-troyanos-lector-tarjetas-vendido-amazon-1063899'>Descubren troyanos en el lector de tarjetas más vendido de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-troyanos-lector-tarjetas-vendido-amazon-1063899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lector-dni-2489171.jpg' alt='Descubren troyanos en el lector de tarjetas más vendido de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-20-mayo-2022-1063825'>De Xiaomi a un precio inalcanzable para sus rivales: la oferta en el Redmi Note 11S lo hace uno de los mejores móviles baratos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-20-mayo-2022-1063825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-redmi-note-11s-2707241.jpg' alt='De Xiaomi a un precio inalcanzable para sus rivales: la oferta en el Redmi Note 11S lo hace uno de los mejores móviles baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857'>Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/daredevil-vuelta-charlie-cox-nuevo-como-protagonista-disney-1063857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/daredevil-2122471.jpg' alt='Daredevil está de vuelta con Charlie Cox de nuevo como protagonista en Disney+' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831'>Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh</a></h4>
     <a href='https://computerhoy.com/noticias/primer-vistazo-xiaomi-mi-band-7-pantalla-amoled-bateria-250-mah-1063831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-xiaomi-mi-band-6-2327035.jpg' alt='Primer vistazo a la Xiaomi Mi Band 7: pantalla AMOLED y batería de 250 mAh' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-t-rex-2055743.jpg' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1063797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2707167.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
     </a>
 </div>
 
