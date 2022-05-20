@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791'>Remedios caseros contra los mareos y vértigos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/remedios-caseros-mareos-vertigos-1063791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/remedios-caseros-mareos-vertigos-2707165.jpg' alt='Remedios caseros contra los mareos y vértigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579'>Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/escudo-invisibilidad-a-la-venta-1063579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-comprar-propio-escudo-invisibilidad-funciona-verdad-2706955.jpg' alt='Ya puedes comprar tu propio escudo de invisibilidad que funciona de verdad (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569'>Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-1063569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/fallece-vangelis-mitico-compositor-blade-runner-carros-fuego-otros-clasicos-2706943.jpg' alt='Fallece Vangelis, el mítico compositor de Blade Runner, Carros de fuego y otros clásicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-actualiza-soluciona-grandes-problemas-1063537'>Google Fotos se actualiza y soluciona uno de sus grandes problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-actualiza-soluciona-grandes-problemas-1063537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg' alt='Google Fotos se actualiza y soluciona uno de sus grandes problemas' />
     </a>
 </div>
 
