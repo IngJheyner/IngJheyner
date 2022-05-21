@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433'>Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minisforum-mini-pc-elitemini-2708415.jpg' alt='Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/barry-breaking-bad-hbo-renueva-cuarta-temporada-1064425'>Barry, la Breaking Bad de HBO, renueva por una cuarta temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/barry-breaking-bad-hbo-renueva-cuarta-temporada-1064425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barry-2708409.jpg' alt='Barry, la Breaking Bad de HBO, renueva por una cuarta temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891'>7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/love-death-and-robots-2677583.jpg' alt='7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421'>Cómo saber la ubicación de un teléfono móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='Cómo saber la ubicación de un teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411'>El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561'>Guía y consejos para comprar un localizador GPS para tu mascota</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/localizador-gps-mascotas-2696043.jpg' alt='Guía y consejos para comprar un localizador GPS para tu mascota' />
     </a>
 </div>
 
