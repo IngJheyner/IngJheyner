@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dyson-purifier-cool-autoreact-2678995.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959'>Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445'>Inventan células solares en textiles que proporcionan una fuente de energía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inventan-celulas-solares-textiles-proporcionan-fuente-energia-dispositivos-portatiles-2708455.jpg' alt='Inventan células solares en textiles que proporcionan una fuente de energía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433'>Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minisforum-mini-pc-elitemini-2708415.jpg' alt='Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/barry-breaking-bad-hbo-renueva-cuarta-temporada-1064425'>Barry, la Breaking Bad de HBO, renueva por una cuarta temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/barry-breaking-bad-hbo-renueva-cuarta-temporada-1064425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barry-2708409.jpg' alt='Barry, la Breaking Bad de HBO, renueva por una cuarta temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891'>7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/love-death-and-robots-2677583.jpg' alt='7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción' />
     </a>
 </div>
 
