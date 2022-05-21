@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375'>Trucos para mejorar la memoria en tiempos de exámenes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trucos-mejorar-memoria-tiempos-examenes-2708255.jpg' alt='Trucos para mejorar la memoria en tiempos de exámenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835'>Destructoras de papel y documentos: tipos, diferencias y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/destructoras-2689903.jpg' alt='Destructoras de papel y documentos: tipos, diferencias y consejos de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151'>Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-2705829.jpg' alt='Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163'>Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-ver-primeros-8-minutos-stranger-things-4-temporada-dividira-dos-partes-2708005.jpg' alt='Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151'>Oru Lake, la maleta que se convierte en kayak (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/oru-lake-maleta-convierte-kayak-1064151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oru-lake-maleta-convierte-kayak-2707971.jpg' alt='Oru Lake, la maleta que se convierte en kayak (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081'>El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/satisfyer-pro-2-next-generation-1064081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/satisfyer-pro-2-next-2540001.jpg' alt='El Satisfyer Pro 2 Next Generation es el más vendido en Amazon, y solo cuesta 19 euros' />
     </a>
 </div>
 
