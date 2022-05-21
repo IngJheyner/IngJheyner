@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537'>Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/partida-dragones-mazmorras-ya-dura-40-anos-creadores-ahora-juegan-hijos-2704735.jpg' alt='Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495'>WhatsApp dejará de funcionar en estos iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg' alt='WhatsApp dejará de funcionar en estos iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959'>Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445'>Inventan células solares en textiles que proporcionan una fuente de energía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inventan-celulas-solares-textiles-proporcionan-fuente-energia-dispositivos-portatiles-2708455.jpg' alt='Inventan células solares en textiles que proporcionan una fuente de energía' />
     </a>
 </div>
 
