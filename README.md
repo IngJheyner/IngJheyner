@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/astro-a10-review-opinion-estos-auriculares-gaming-1039045'>Astro A10 Gen 2, análisis y opinión de estos auriculares gaming</a></h4>
+    <a href='https://computerhoy.com/analisis/astro-a10-review-opinion-estos-auriculares-gaming-1039045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-astro-a10-gen-2-2708289.jpg' alt='Astro A10 Gen 2, análisis y opinión de estos auriculares gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669'>Cómo escribir caracteres especiales en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg' alt='Cómo escribir caracteres especiales en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-deportivos-garmin-rango-precio-345247'>Los mejores relojes deportivos de Garmin que puedes comprar en 2022 según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-deportivos-garmin-rango-precio-345247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/garmin-735xt-2300655.jpg' alt='Los mejores relojes deportivos de Garmin que puedes comprar en 2022 según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039'>Los fabricantes aplican la ley del silencio y eso es bueno para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438225.jpg' alt='Los fabricantes aplican la ley del silencio y eso es bueno para ti' />
     </a>
 </div>
 
