@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443'>Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-chat-2708451.jpg' alt='Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433'>Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minisforum-mini-pc-elitemini-2708415.jpg' alt='Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-dispone-renovar-altavoz-inteligente-homepod-nuevo-tamano-lanzarse-finales-ano-1064417'>Apple se dispone a renovar su altavoz inteligente HomePod bajo un nuevo tamaño para lanzarse a finales de año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-dispone-renovar-altavoz-inteligente-homepod-nuevo-tamano-lanzarse-finales-ano-1064417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/homepod-2263573.jpg' alt='Apple se dispone a renovar su altavoz inteligente HomePod bajo un nuevo tamaño para lanzarse a finales de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421'>Cómo saber la ubicación de un teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='Cómo saber la ubicación de un teléfono móvil' />
     </a>
 </div>
 
