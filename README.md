@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181'>Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nina-movil-2704233.jpg' alt='Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-deportivos-garmin-rango-precio-345247'>Los mejores relojes deportivos de Garmin que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-deportivos-garmin-rango-precio-345247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/garmin-735xt-2300655.jpg' alt='Los mejores relojes deportivos de Garmin que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039'>Los fabricantes aplican la ley del silencio y eso es bueno para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438225.jpg' alt='Los fabricantes aplican la ley del silencio y eso es bueno para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375'>Trucos para mejorar la memoria en tiempos de exámenes</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trucos-mejorar-memoria-tiempos-examenes-2708255.jpg' alt='Trucos para mejorar la memoria en tiempos de exámenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835'>Destructoras de papel y documentos: tipos, diferencias y consejos de compra</a></h4>
     <a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/destructoras-2689903.jpg' alt='Destructoras de papel y documentos: tipos, diferencias y consejos de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151'>Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-1063151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/smartwatch-bloquea-fisicamente-movil-cuando-estas-estudiando-trabajando-2705829.jpg' alt='Este smartwatch bloquea físicamente tu móvil cuando estás estudiando o trabajando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167'>Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/borderlands-3-gratis-descuentos-cupon-adicional-ilimitado-rebajas-epic-games-store-1064167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/borderlands-3-gratis-descuentos-75-cupon-25-adicional-ilimitado-rebajas-epic-games-store-2708011.jpg' alt='Borderlands 3 gratis, descuentos del 75% y cupón del 25% adicional ilimitado en las rebajas de Epic Games Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163'>Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/primeros-8-minutos-stranger-things-4-1064163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ya-puedes-ver-primeros-8-minutos-stranger-things-4-temporada-dividira-dos-partes-2708005.jpg' alt='Ya puedes ver los primeros 8 minutos de Stranger Things 4, la temporada se dividirá en dos partes' />
     </a>
 </div>
 
