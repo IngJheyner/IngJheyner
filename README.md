@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411'>El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561'>Guía y consejos para comprar un localizador GPS para tu mascota</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/localizador-gps-mascotas-2696043.jpg' alt='Guía y consejos para comprar un localizador GPS para tu mascota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-pc-tiene-virus-malware-necesidad-antivirus-1060333'>Cómo comprobar si tu PC tiene virus o malware sin necesidad de antivirus</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-pc-tiene-virus-malware-necesidad-antivirus-1060333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/malware-ordenador-virus-2189291.jpg' alt='Cómo comprobar si tu PC tiene virus o malware sin necesidad de antivirus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669'>Cómo escribir caracteres especiales en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg' alt='Cómo escribir caracteres especiales en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/silla-oficina-2707379.jpg' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181'>Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nina-movil-2704233.jpg' alt='Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole' />
     </a>
 </div>
 
