@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891'>7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-animacion-siempre-disfrutan-amantes-ciencia-ficcion-1062891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/love-death-and-robots-2677583.jpg' alt='7 películas y series de animación que siempre disfrutan los amantes de la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-dispone-renovar-altavoz-inteligente-homepod-nuevo-tamano-lanzarse-finales-ano-1064417'>Apple se dispone a renovar su altavoz inteligente HomePod bajo un nuevo tamaño para lanzarse a finales de año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-dispone-renovar-altavoz-inteligente-homepod-nuevo-tamano-lanzarse-finales-ano-1064417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/homepod-2263573.jpg' alt='Apple se dispone a renovar su altavoz inteligente HomePod bajo un nuevo tamaño para lanzarse a finales de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421'>Cómo saber la ubicación de un teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-ubicacion-telefono-movil-1064421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg' alt='Cómo saber la ubicación de un teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411'>El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-google-pixel-watch-vendria-coprocesador-buena-cantidad-ram-almacenamiento-1064411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='El nuevo Google Pixel Watch vendría con coprocesador y una buena cantidad de RAM y almacenamiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561'>Guía y consejos para comprar un localizador GPS para tu mascota</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-localizador-gps-mascota-1057561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/localizador-gps-mascotas-2696043.jpg' alt='Guía y consejos para comprar un localizador GPS para tu mascota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-pc-tiene-virus-malware-necesidad-antivirus-1060333'>Cómo comprobar si tu PC tiene virus o malware sin necesidad de antivirus</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-comprobar-pc-tiene-virus-malware-necesidad-antivirus-1060333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/malware-ordenador-virus-2189291.jpg' alt='Cómo comprobar si tu PC tiene virus o malware sin necesidad de antivirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/astro-a10-review-opinion-estos-auriculares-gaming-1039045'>Astro A10 Gen 2, análisis y opinión de estos auriculares gaming</a></h4>
-    <a href='https://computerhoy.com/analisis/astro-a10-review-opinion-estos-auriculares-gaming-1039045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-astro-a10-gen-2-2708289.jpg' alt='Astro A10 Gen 2, análisis y opinión de estos auriculares gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669'>Cómo escribir caracteres especiales en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg' alt='Cómo escribir caracteres especiales en Windows 11' />
     </a>
 </div>
 
