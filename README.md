@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489'>Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/foxconn-china-2708549.jpg' alt='Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dyson-purifier-cool-autoreact-2678995.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443'>Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-chat-2708451.jpg' alt='Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433'>Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-32-gb-ram-windows-10-rivaliza-mac-mini-solo-809-1064433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minisforum-mini-pc-elitemini-2708415.jpg' alt='Este mini PC con 32 GB de RAM y Windows 10 rivaliza con el Mac Mini y está a solo 809' />
     </a>
 </div>
 
