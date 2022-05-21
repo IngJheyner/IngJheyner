@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669'>Cómo escribir caracteres especiales en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-escribir-caracteres-especiales-windows-11-1058669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-windows-11-2697963.jpg' alt='Cómo escribir caracteres especiales en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/silla-oficina-2707379.jpg' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2022 en Amazon, IKEA, PcComponentes y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181'>Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/6-apps-moviles-ayudaran-hijos-destacar-cole-1062181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nina-movil-2704233.jpg' alt='Las 6 apps móviles que ayudarán a tus hijos a destacar en el cole' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039'>Los fabricantes aplican la ley del silencio y eso es bueno para ti</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/fabricantes-aplican-ley-silencio-eso-bueno-ti-1062039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438225.jpg' alt='Los fabricantes aplican la ley del silencio y eso es bueno para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375'>Trucos para mejorar la memoria en tiempos de exámenes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-mejorar-memoria-examenes-1064375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/trucos-mejorar-memoria-tiempos-examenes-2708255.jpg' alt='Trucos para mejorar la memoria en tiempos de exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835'>Destructoras de papel y documentos: tipos, diferencias y consejos de compra</a></h4>
-    <a href='https://computerhoy.com/guia-compra/destructora-papel-documentos-1053835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/destructoras-2689903.jpg' alt='Destructoras de papel y documentos: tipos, diferencias y consejos de compra' />
     </a>
 </div>
 
