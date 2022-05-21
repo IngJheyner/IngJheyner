@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495'>WhatsApp dejará de funcionar en estos iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg' alt='WhatsApp dejará de funcionar en estos iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489'>Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/foxconn-china-2708549.jpg' alt='Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445'>Inventan células solares en textiles que proporcionan una fuente de energía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-celulas-solares-textiles-proporcionan-fuente-energia-1064445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inventan-celulas-solares-textiles-proporcionan-fuente-energia-dispositivos-portatiles-2708455.jpg' alt='Inventan células solares en textiles que proporcionan una fuente de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443'>Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chat-ahora-te-advertira-enorme-banner-rojo-hipoteticos-enlaces-fraudulentos-1064443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-chat-2708451.jpg' alt='Google Chat ahora te advertirá con un enorme banner rojo sobre hipotéticos enlaces fraudulentos' />
     </a>
 </div>
 
