@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781'>Los mejores usos que puedes darle al puerto USB de tu router</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-trasera-2705149.jpg' alt='Los mejores usos que puedes darle al puerto USB de tu router' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831'>Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bill-gates-desvela-telefono-plegable-usa-no-surface-duo-2709039.jpg' alt='Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805'>Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/perder-fifa-star-wars-ea-busca-desesperadamente-compren-ha-ofrecido-companias-streaming-insiders-2708965.jpg' alt='Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-puede-verificar-estadisticas-google-fit-fitbit-1064789'>Ahora el asistente de Google puede verificar tus estadísticas de Google Fit y Fitbit</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-puede-verificar-estadisticas-google-fit-fitbit-1064789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-fit-2708931.jpg' alt='Ahora el asistente de Google puede verificar tus estadísticas de Google Fit y Fitbit' />
     </a>
 </div>
 
