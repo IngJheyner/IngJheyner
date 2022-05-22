@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453'>Calculadora científica: estos son los mejores modelos que hay a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/calculadora-cientifica-2708517.jpg' alt='Calculadora científica: estos son los mejores modelos que hay a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491'>Encuentran un robot de reparto perdido en el bosque</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encuentran-robot-reparto-perdido-bosque-2708551.jpg' alt='Encuentran un robot de reparto perdido en el bosque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493'>Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-2708553.jpg' alt='Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447'>Mejores accesorios repelentes de mosquitos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mosquito-2708473.jpg' alt='Mejores accesorios repelentes de mosquitos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855'>¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/vecino-arriba-juega-canicas-3-manana-explicamos-donde-viene-misterioso-sonido-2707267.jpg' alt='¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771'>Guía para comprar un cortafiambres eléctrico para la cocina</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cortafiambres-2453521.jpg' alt='Guía para comprar un cortafiambres eléctrico para la cocina' />
     </a>
 </div>
 
