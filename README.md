@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943'>Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-link-2707445.jpg' alt='Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559'>¿Qué son los Digital Twins o Gemelos Digitales?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-digital-twins-gemelos-digitales-2706887.jpg' alt='¿Qué son los Digital Twins o Gemelos Digitales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093'>MSI Creator Z17 A12UHST, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/msi-creator-z17-2708407.jpg' alt='MSI Creator Z17 A12UHST, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491'>Encuentran un robot de reparto perdido en el bosque</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encuentran-robot-reparto-perdido-bosque-2708551.jpg' alt='Encuentran un robot de reparto perdido en el bosque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493'>Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-2708553.jpg' alt='Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 7 apps para automatizar tareas repetitivas </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Las mejores 7 apps para automatizar tareas repetitivas ' />
     </a>
 </div>
 
