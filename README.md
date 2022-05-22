@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831'>Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bill-gates-desvela-telefono-plegable-usa-no-surface-duo-2709039.jpg' alt='Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827'>La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mitica-marca-japonesa-equipos-sonido-onkyo-declara-bancarrota-derrotada-moviles-streaming-2709015.jpg' alt='La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-puede-verificar-estadisticas-google-fit-fitbit-1064789'>Ahora el asistente de Google puede verificar tus estadísticas de Google Fit y Fitbit</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-asistente-google-puede-verificar-estadisticas-google-fit-fitbit-1064789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-fit-2708931.jpg' alt='Ahora el asistente de Google puede verificar tus estadísticas de Google Fit y Fitbit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781'>Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-music-2708911.jpg' alt='Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?' />
     </a>
 </div>
 
