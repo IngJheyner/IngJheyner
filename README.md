@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813'>Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-retransmite-nueva-serie-espacio-convierte-primer-estreno-intergalactico-historia-2708983.jpg' alt='Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805'>Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/perder-fifa-star-wars-ea-busca-desesperadamente-compren-ha-ofrecido-companias-streaming-insiders-2708965.jpg' alt='Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771'>Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-mambo-10090-2708851.jpg' alt='Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915'>7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-2706883.jpg' alt='7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo' />
     </a>
 </div>
 
