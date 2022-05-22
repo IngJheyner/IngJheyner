@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915'>7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-2706883.jpg' alt='7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/realme-pad-mini-review-opinion-1063281'>realme Pad Mini, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/realme-pad-mini-review-opinion-1063281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-realme-pad-mini-2708809.jpg' alt='realme Pad Mini, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943'>Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-link-2707445.jpg' alt='Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559'>¿Qué son los Digital Twins o Gemelos Digitales?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-digital-twins-gemelos-digitales-2706887.jpg' alt='¿Qué son los Digital Twins o Gemelos Digitales?' />
     </a>
 </div>
 
