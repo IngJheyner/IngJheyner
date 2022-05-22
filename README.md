@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781'>Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-music-2708911.jpg' alt='Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771'>Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-mambo-10090-2708851.jpg' alt='Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915'>7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-1062915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-peliculas-conocidas-conspiraciones-te-haran-ver-mundo-otro-modo-2706883.jpg' alt='7 películas sobre conocidas conspiraciones que te harán ver el mundo de otro modo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-gana-partida-google-podra-utilizar-propio-metodo-pago-menos-temporalmente-1064765'>Tinder gana la partida a Google y podrá utilizar su propio método de pago, al menos temporalmente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-gana-partida-google-podra-utilizar-propio-metodo-pago-menos-temporalmente-1064765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tinder-2708837.jpg' alt='Tinder gana la partida a Google y podrá utilizar su propio método de pago, al menos temporalmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757'>Apple trabaja en un nuevo adaptador de red que ejecuta iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple trabaja en un nuevo adaptador de red que ejecuta iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943'>Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-link-2707445.jpg' alt='Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta' />
     </a>
 </div>
 
