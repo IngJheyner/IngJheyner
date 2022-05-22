@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757'>Apple trabaja en un nuevo adaptador de red que ejecuta iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple trabaja en un nuevo adaptador de red que ejecuta iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943'>Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dyson-pure-cool-link-22-mayo-2022-1063943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-link-2707445.jpg' alt='Sin aspas y con purificador: este ventilador Dyson es uno de los mejores del mercado, y ahora está en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453'>Calculadora científica: estos son los mejores modelos que hay a la venta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/calculadora-cientifica-2708517.jpg' alt='Calculadora científica: estos son los mejores modelos que hay a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491'>Encuentran un robot de reparto perdido en el bosque</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-robot-reparto-perdido-bosque-1064491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encuentran-robot-reparto-perdido-bosque-2708551.jpg' alt='Encuentran un robot de reparto perdido en el bosque' />
     </a>
 </div>
 
