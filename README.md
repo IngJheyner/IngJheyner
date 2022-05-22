@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827'>La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mitica-marca-japonesa-equipos-sonido-onkyo-declara-bancarrota-derrotada-moviles-streaming-2709015.jpg' alt='La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813'>Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-retransmite-nueva-serie-espacio-convierte-primer-estreno-intergalactico-historia-2708983.jpg' alt='Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781'>Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-empieza-subir-precio-promocional-apple-music-estudiantes-algunos-paises-subira-espana-1064781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-music-2708911.jpg' alt='Apple empieza a subir el precio promocional de Apple Music para estudiantes en algunos países, ¿subirá en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771'>Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-multifuncion-sera-mejor-amigo-comidas-cenas-verano-solo-cuesta-288-euros-1064771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cecotec-mambo-10090-2708851.jpg' alt='Este robot de cocina multifunción será tu mejor amigo para las comidas y cenas del verano y solo cuesta 288 euros' />
     </a>
 </div>
 
