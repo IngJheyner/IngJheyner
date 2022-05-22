@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855'>¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/vecino-arriba-juega-canicas-3-manana-explicamos-donde-viene-misterioso-sonido-2707267.jpg' alt='¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771'>Guía para comprar un cortafiambres eléctrico para la cocina</a></h4>
     <a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cortafiambres-2453521.jpg' alt='Guía para comprar un cortafiambres eléctrico para la cocina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489'>Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/foxconn-china-2708549.jpg' alt='Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dyson-purifier-cool-autoreact-2678995.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
     </a>
 </div>
 
