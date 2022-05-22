@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093'>MSI Creator Z17 A12UHST, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/msi-creator-z17-2708407.jpg' alt='MSI Creator Z17 A12UHST, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453'>Calculadora científica: estos son los mejores modelos que hay a la venta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/calculadora-cientifica-2708517.jpg' alt='Calculadora científica: estos son los mejores modelos que hay a la venta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 7 apps para automatizar tareas repetitivas </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Las mejores 7 apps para automatizar tareas repetitivas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447'>Mejores accesorios repelentes de mosquitos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mosquito-2708473.jpg' alt='Mejores accesorios repelentes de mosquitos que puedes comprar' />
     </a>
 </div>
 
