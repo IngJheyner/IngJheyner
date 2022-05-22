@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771'>Guía para comprar un cortafiambres eléctrico para la cocina</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cortafiambres-2453521.jpg' alt='Guía para comprar un cortafiambres eléctrico para la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537'>Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/partida-dragones-mazmorras-ya-dura-40-anos-creadores-ahora-juegan-hijos-2704735.jpg' alt='Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dyson-purifier-cool-autoreact-2678995.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959'>Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-11t-22-mayo-2022-1063959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-11t-5g-2518845.jpg' alt='Uno de los mejores móviles Xiaomi que hemos probado (y son muchos) ahora cuesta menos de 300 euros' />
     </a>
 </div>
 
