@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493'>Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-1064493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-material-mantiene-edificios-frescos-encima-reduce-consumo-energia-2708553.jpg' alt='Crean un material que mantiene los edificios más frescos y encima reduce el consumo de energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 7 apps para automatizar tareas repetitivas </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-2628995.jpg' alt='Las mejores 7 apps para automatizar tareas repetitivas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447'>Mejores accesorios repelentes de mosquitos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-repelentes-mosquitos-1064447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mosquito-2708473.jpg' alt='Mejores accesorios repelentes de mosquitos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855'>¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido</a></h4>
     <a href='https://computerhoy.com/noticias/life/vecino-ruido-canicas-explicacion-1063855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/vecino-arriba-juega-canicas-3-manana-explicamos-donde-viene-misterioso-sonido-2707267.jpg' alt='¿Tu vecino de arriba juega a las canicas a la 3 de la mañana? Explicamos de donde viene el misterioso sonido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771'>Guía para comprar un cortafiambres eléctrico para la cocina</a></h4>
     <a href='https://computerhoy.com/guia-compra/cortafiambre-electrico-922771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cortafiambres-2453521.jpg' alt='Guía para comprar un cortafiambres eléctrico para la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537'>Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/partida-dragones-mazmorras-mas-larga-historia-1062537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/partida-dragones-mazmorras-ya-dura-40-anos-creadores-ahora-juegan-hijos-2704735.jpg' alt='Esta partida de Dragones y Mazmorras ya dura 40 años, y sus creadores ahora juegan con sus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495'>WhatsApp dejará de funcionar en estos iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-dejara-funcionar-estos-iphone-1064495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg' alt='WhatsApp dejará de funcionar en estos iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489'>Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-considera-impulsar-produccion-fuera-china-dando-preferencia-india-sudeste-asiatico-1064489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/foxconn-china-2708549.jpg' alt='Apple considera impulsar su producción fuera de China dando preferencia a la India y al sudeste asiático' />
     </a>
 </div>
 
