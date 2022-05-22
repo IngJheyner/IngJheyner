@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/realme-pad-mini-review-opinion-1063281'>realme Pad Mini, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-pad-mini-review-opinion-1063281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-realme-pad-mini-2708809.jpg' alt='realme Pad Mini, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-gana-partida-google-podra-utilizar-propio-metodo-pago-menos-temporalmente-1064765'>Tinder gana la partida a Google y podrá utilizar su propio método de pago, al menos temporalmente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-gana-partida-google-podra-utilizar-propio-metodo-pago-menos-temporalmente-1064765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tinder-2708837.jpg' alt='Tinder gana la partida a Google y podrá utilizar su propio método de pago, al menos temporalmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757'>Apple trabaja en un nuevo adaptador de red que ejecuta iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-trabaja-nuevo-adaptador-red-ejecuta-ios-1064757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple trabaja en un nuevo adaptador de red que ejecuta iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559'>¿Qué son los Digital Twins o Gemelos Digitales?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/son-digital-twins-gemelos-digitales-1053559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-digital-twins-gemelos-digitales-2706887.jpg' alt='¿Qué son los Digital Twins o Gemelos Digitales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093'>MSI Creator Z17 A12UHST, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/msi-creator-z17-a12uhst-review-opinion-1064093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/msi-creator-z17-2708407.jpg' alt='MSI Creator Z17 A12UHST, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453'>Calculadora científica: estos son los mejores modelos que hay a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-calculadoras-cientificas-1064453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/calculadora-cientifica-2708517.jpg' alt='Calculadora científica: estos son los mejores modelos que hay a la venta' />
     </a>
 </div>
 
