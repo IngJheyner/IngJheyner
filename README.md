@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459'>Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/veesion-ia-detecta-ladrones-gestos-ya-funciona-muchos-supermercados-espanoles-2710233.jpg' alt='Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-emojis-youtube-ya-estarian-disponibles-algunos-telefonos-tanto-android-como-ios-1065435'>Las reacciones con emojis en YouTube ya estarían disponibles en algunos teléfonos tanto Android como iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-emojis-youtube-ya-estarian-disponibles-algunos-telefonos-tanto-android-como-ios-1065435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='Las reacciones con emojis en YouTube ya estarían disponibles en algunos teléfonos tanto Android como iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417'>Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tablet-101-pulgadas-procesador-8-nucleos-6-gb-ram-android-11-baja-190-euros-2710137.jpg' alt='Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431'>Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710179.jpg' alt='Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427'>En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lavadora-2710173.jpg' alt='En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-habria-visto-obligada-cambiar-camara-frontal-iphone-14-afectaria-precio-1065401'>Apple se habría visto obligada a cambiar la cámara frontal del iPhone 14 y esto afectaría a su precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-habria-visto-obligada-cambiar-camara-frontal-iphone-14-afectaria-precio-1065401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Apple se habría visto obligada a cambiar la cámara frontal del iPhone 14 y esto afectaría a su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-clasicas-planeta-simios-disney-plus-1065349'>En plena viruela del mono, las películas clásicas de El Planeta de los Simios llegan a Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-clasicas-planeta-simios-disney-plus-1065349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plena-viruela-mono-todas-peliculas-planeta-simios-llegan-disney-2709941.jpg' alt='En plena viruela del mono, las películas clásicas de El Planeta de los Simios llegan a Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363'>Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mision-imposible-7-2709783.jpg' alt='Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan' />
     </a>
 </div>
 
