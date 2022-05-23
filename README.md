@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061'>Así es tu personalidad viendo tu firma, según la grafología</a></h4>
+    <a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/trabajadora-firmando-registro-jornada-2635165.jpg' alt='Así es tu personalidad viendo tu firma, según la grafología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-leica-unen-fuerzas-busca-nueva-era-fotografia-movil-1065047'>Xiaomi y Leica unen fuerzas en busca de la nueva era de la fotografía móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-leica-unen-fuerzas-busca-nueva-era-fotografia-movil-1065047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-x-leica-2709291.jpg' alt='Xiaomi y Leica unen fuerzas en busca de la nueva era de la fotografía móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2709051.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-2t-5g-motivos-compra-1064829'>OnePlus Nord 2T 5G: motivos por el que es el mejor móvil de gama media de OnePlus</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-2t-5g-motivos-compra-1064829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-2t-5g-2709037.jpg' alt='OnePlus Nord 2T 5G: motivos por el que es el mejor móvil de gama media de OnePlus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781'>Los mejores usos que puedes darle al puerto USB de tu router</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-trasera-2705149.jpg' alt='Los mejores usos que puedes darle al puerto USB de tu router' />
     </a>
 </div>
 
