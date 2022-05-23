@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2709051.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-2t-5g-motivos-compra-1064829'>OnePlus Nord 2T 5G: motivos por el que es el mejor móvil de gama media de OnePlus</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/oneplus-nord-2t-5g-motivos-compra-1064829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oneplus-nord-2t-5g-2709037.jpg' alt='OnePlus Nord 2T 5G: motivos por el que es el mejor móvil de gama media de OnePlus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781'>Los mejores usos que puedes darle al puerto USB de tu router</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-trasera-2705149.jpg' alt='Los mejores usos que puedes darle al puerto USB de tu router' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827'>La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mitica-marca-japonesa-equipos-sonido-onkyo-declara-bancarrota-derrotada-moviles-streaming-2709015.jpg' alt='La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813'>Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-prime-video-night-sky-retransmision-espacio-1064813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-retransmite-nueva-serie-espacio-convierte-primer-estreno-intergalactico-historia-2708983.jpg' alt='Amazon Prime Video retransmite su nueva serie Night Sky al espacio y la convierte en 'el primer estreno intergaláctico' de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805'>Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/electronic-arts-venta-companias-streaming-apple-amazon-disney-1064805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/perder-fifa-star-wars-ea-busca-desesperadamente-compren-ha-ofrecido-companias-streaming-insiders-2708965.jpg' alt='Tras perder FIFA y Star Wars EA busca desesperadamente que la compren y se ha ofrecido a compañías de streaming, según insiders' />
     </a>
 </div>
 
