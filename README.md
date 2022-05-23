@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-presenta-nuevo-dimensity-1050-viene-acompanado-dimensity-930-5g-helio-g99-4g-1065031'>MediaTek presenta el nuevo Dimensity 1050, y viene acompañado del Dimensity 930 5G y Helio G99 4G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-presenta-nuevo-dimensity-1050-viene-acompanado-dimensity-930-5g-helio-g99-4g-1065031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mediatek-dimensity-1050-2709275.jpg' alt='MediaTek presenta el nuevo Dimensity 1050, y viene acompañado del Dimensity 930 5G y Helio G99 4G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2709051.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781'>Los mejores usos que puedes darle al puerto USB de tu router</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-usos-puedes-darle-puerto-usb-router-1062781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/router-trasera-2705149.jpg' alt='Los mejores usos que puedes darle al puerto USB de tu router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831'>Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-usa-movil-plegable-samsung-galaxy-z-fold3-1064831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bill-gates-desvela-telefono-plegable-usa-no-surface-duo-2709039.jpg' alt='Bill Gates desvela el móvil plegable que usa, y no es el Surface Duo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827'>La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/onkyo-declara-bancarrota-1064827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mitica-marca-japonesa-equipos-sonido-onkyo-declara-bancarrota-derrotada-moviles-streaming-2709015.jpg' alt='La mítica marca japonesa de equipos de sonido Onkyo se declara en bancarrota, derrotada por los móviles y el streaming' />
     </a>
 </div>
 
