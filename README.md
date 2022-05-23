@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-23-mayo-2022-1065045'>Este reloj parece el Apple Watch, pero es mucho más barato: cuesta 126€ y es el Amazfit GTS 3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-23-mayo-2022-1065045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gts-3-2709287.jpg' alt='Este reloj parece el Apple Watch, pero es mucho más barato: cuesta 126€ y es el Amazfit GTS 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/stepn-criptomoneda-ganas-caminar-correr-nueva-tendencia-move-earn-1065049'>StepN, la criptomoneda que ganas al caminar o correr, y la nueva tendencia move-to-earn</a></h4>
+    <a href='https://computerhoy.com/noticias/stepn-criptomoneda-ganas-caminar-correr-nueva-tendencia-move-earn-1065049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/stepn-2709335.jpg' alt='StepN, la criptomoneda que ganas al caminar o correr, y la nueva tendencia move-to-earn' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061'>Así es tu personalidad viendo tu firma, según la grafología</a></h4>
     <a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/trabajadora-firmando-registro-jornada-2635165.jpg' alt='Así es tu personalidad viendo tu firma, según la grafología' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-presenta-nuevo-dimensity-1050-viene-acompanado-dimensity-930-5g-helio-g99-4g-1065031'>MediaTek presenta el nuevo Dimensity 1050, y viene acompañado del Dimensity 930 5G y Helio G99 4G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-presenta-nuevo-dimensity-1050-viene-acompanado-dimensity-930-5g-helio-g99-4g-1065031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mediatek-dimensity-1050-2709275.jpg' alt='MediaTek presenta el nuevo Dimensity 1050, y viene acompañado del Dimensity 930 5G y Helio G99 4G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1064835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2709051.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
