@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361'>El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-1065319'>OPPO Reno8 Pro y Reno: carga rápida de 80 W y el nuevo Snapdragon 7 Gen 1 en el interior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-1065319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-2709919.jpg' alt='OPPO Reno8 Pro y Reno: carga rápida de 80 W y el nuevo Snapdragon 7 Gen 1 en el interior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg' alt='Las mejores páginas para descargar música gratis de forma totalmente legal en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075'>La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital</a></h4>
     <a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/historia-codigo-morse-2190921.jpg' alt='La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699631.jpg' alt='7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/distancia-pierden-conexion-bluetooth-auriculares-1065329'>A qué distancia pierden conexión bluetooth los auriculares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/distancia-pierden-conexion-bluetooth-auriculares-1065329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/bose-noise-cancelling-wireless-bluetooth-headphones-700-2043067.jpg' alt='A qué distancia pierden conexión bluetooth los auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-animal-peligroso-mundo-expertos-1065289'>Cuál es el animal más peligroso del mundo, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-animal-peligroso-mundo-expertos-1065289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mosquito-2708473.jpg' alt='Cuál es el animal más peligroso del mundo, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/video-donde-destrozan-steam-deck-comprobar-durabilidad-te-hara-llorar-hoy-1065305'>El vídeo donde destrozan la Steam Deck para comprobar su durabilidad es lo que te hará llorar hoy</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/video-donde-destrozan-steam-deck-comprobar-durabilidad-te-hara-llorar-hoy-1065305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704077.jpg' alt='El vídeo donde destrozan la Steam Deck para comprobar su durabilidad es lo que te hará llorar hoy' />
     </a>
 </div>
 
