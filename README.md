@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-1065251'>El primer portátil gaming de Corsair integra una Touch Bar y apuesta de lleno por AMD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-1065251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-2709641.jpg' alt='El primer portátil gaming de Corsair integra una Touch Bar y apuesta de lleno por AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barco-semiautonomo-inteligente-preparado-mundo-1065291'>Este es el barco semiautónomo más inteligente y preparado del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/barco-semiautonomo-inteligente-preparado-mundo-1065291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barco-chino-2709697.jpg' alt='Este es el barco semiautónomo más inteligente y preparado del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ford-tendra-dejar-vender-destruir-todos-coches-hayan-fabricado-alemania-violacion-patentes-1065261'>Ford tendrá que dejar de vender y destruir todos los coches que se hayan fabricado en Alemania por violación de patentes</a></h4>
+    <a href='https://computerhoy.com/noticias/ford-tendra-dejar-vender-destruir-todos-coches-hayan-fabricado-alemania-violacion-patentes-1065261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/ford-kuba-hibrido-enchufable-1901845.jpg' alt='Ford tendrá que dejar de vender y destruir todos los coches que se hayan fabricado en Alemania por violación de patentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-ryzen-llegan-primera-vez-historia-55-ghz-serie-7000-amd-1065271'>Los nuevos procesadores Ryzen llegan, por primera vez en su historia, a los 5,5 GHz: así es la serie 7000 de AMD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-ryzen-llegan-primera-vez-historia-55-ghz-serie-7000-amd-1065271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Los nuevos procesadores Ryzen llegan, por primera vez en su historia, a los 5,5 GHz: así es la serie 7000 de AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-inyectado-primer-paciente-humano-nuevo-virus-mata-celulas-cancerosas-1065239'>Los científicos han inyectado al primer paciente humano un nuevo virus que mata las células cancerosas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-han-inyectado-primer-paciente-humano-nuevo-virus-mata-celulas-cancerosas-1065239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/virus-magneticos-teledirigidos-arma-definitiva-prueba-ciencia-tumores-2696665.jpg' alt='Los científicos han inyectado al primer paciente humano un nuevo virus que mata las células cancerosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-lanzara-julio-primer-smartphone-camara-200-mpx-1065241'>Motorola lanzará este julio su primer smartphone con una cámara de 200 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-lanzara-julio-primer-smartphone-camara-200-mpx-1065241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-moto-g82-nueva-gama-media-llega-5g-pantalla-amoled-120-hz-2701737.jpg' alt='Motorola lanzará este julio su primer smartphone con una cámara de 200 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-puertas-mayoria-usuarios-android-aun-no-han-podido-actualizar-android-12-1065233'>Con Android 13 a las puertas, la mayoría de usuarios de Android aún no han podido actualizar a Android 12</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-puertas-mayoria-usuarios-android-aun-no-han-podido-actualizar-android-12-1065233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-12-oneplus-5t-2709603.jpg' alt='Con Android 13 a las puertas, la mayoría de usuarios de Android aún no han podido actualizar a Android 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-caballos-te-responde-emails-mientras-estas-vacaciones-1065169'>El teclado para caballos que te responde los emails mientras estás de vacaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclado-caballos-te-responde-emails-mientras-estas-vacaciones-1065169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/caballos-2709501.jpg' alt='El teclado para caballos que te responde los emails mientras estás de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-23-mayo-2022-1065063'>Si aún no tienes un AirTag, ahora es el momento: están de nuevo rebajados a su precio más bajo en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-23-mayo-2022-1065063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Si aún no tienes un AirTag, ahora es el momento: están de nuevo rebajados a su precio más bajo en Amazon' />
     </a>
 </div>
 
