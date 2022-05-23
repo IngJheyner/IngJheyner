@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475'>El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asteroide-grande-acercara-tierra-2022-llega-viernes-potencialmente-peligroso-nasa-2710283.jpg' alt='El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-actualiza-integra-caracteristica-esperada-todos-1065469'>El Samsung Galaxy Watch 4 se actualiza e integra una característica esperada por todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-actualiza-integra-caracteristica-esperada-todos-1065469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515791.jpg' alt='El Samsung Galaxy Watch 4 se actualiza e integra una característica esperada por todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459'>Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/veesion-ia-detecta-ladrones-gestos-ya-funciona-muchos-supermercados-espanoles-2710233.jpg' alt='Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417'>Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tablet-101-pulgadas-procesador-8-nucleos-6-gb-ram-android-11-baja-190-euros-2710137.jpg' alt='Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431'>Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710179.jpg' alt='Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427'>En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lavadora-2710173.jpg' alt='En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU' />
     </a>
 </div>
 
