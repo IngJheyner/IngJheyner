@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-23-mayo-2022-1065063'>Si aún no tienes un AirTag, ahora es el momento: están de nuevo rebajados a su precio más bajo en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-23-mayo-2022-1065063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/apple-airtag-2652625.jpg' alt='Si aún no tienes un AirTag, ahora es el momento: están de nuevo rebajados a su precio más bajo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/curioso-motivo-reina-inglaterra-nunca-come-sandwiches-cuadrados-1065133'>El curioso motivo por el que la reina de Inglaterra nunca come sándwiches cuadrados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/curioso-motivo-reina-inglaterra-nunca-come-sandwiches-cuadrados-1065133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curioso-motivo-reina-inglaterra-nunca-come-sandwiches-cuadrados-2709415.jpg' alt='El curioso motivo por el que la reina de Inglaterra nunca come sándwiches cuadrados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-mate-xs-2-hemos-probado-primer-smartphone-plegable-no-nota-pliegue-1065071'>Huawei Mate XS 2, lo hemos probado: no se le nota el pliegue</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-mate-xs-2-hemos-probado-primer-smartphone-plegable-no-nota-pliegue-1065071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mate-xs2-2709345.jpg' alt='Huawei Mate XS 2, lo hemos probado: no se le nota el pliegue' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-desperdiciado-toda-ventaja-cuando-no-siempre-mejor-1065119'>Netflix ha desperdiciado toda su ventaja: cuando más no siempre es mejor</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-desperdiciado-toda-ventaja-cuando-no-siempre-mejor-1065119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Netflix ha desperdiciado toda su ventaja: cuando más no siempre es mejor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/animales-fantasticos-secretos-dumbledore-llega-hbo-max-finales-mayo-1065153'>Animales fantásticos: Los secretos de Dumbledore llega a HBO Max a finales de mayo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/animales-fantasticos-secretos-dumbledore-llega-hbo-max-finales-mayo-1065153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/animales-fantasticos-secretos-dumbledore-2022-2667615.jpg' alt='Animales fantásticos: Los secretos de Dumbledore llega a HBO Max a finales de mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/autocaravana-15-millones-aunque-precio-final-depende-coche-lleve-interior-1065135'>La autocaravana de los 1,5 millones, aunque el precio final depende del coche que lleve en su interior</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/autocaravana-15-millones-aunque-precio-final-depende-coche-lleve-interior-1065135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/autocaravana_1.jpg' alt='La autocaravana de los 1,5 millones, aunque el precio final depende del coche que lleve en su interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portugal-dejara-ser-islas-caiman-criptomonedas-1065129'>Portugal dejará de ser las Islas Caimán de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portugal-dejara-ser-islas-caiman-criptomonedas-1065129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='Portugal dejará de ser las Islas Caimán de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/adios-disipadores-tradicionales-berkeley-mejora-740-eficiencia-disipacion-nuevo-material-1065077'>Adiós a los disipadores tradicionales: Berkeley mejora un 740% la eficiencia de disipación con un nuevo material y diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/adios-disipadores-tradicionales-berkeley-mejora-740-eficiencia-disipacion-nuevo-material-1065077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/mejores-tarjetas-graficas-cada-rango-precio_0.jpg' alt='Adiós a los disipadores tradicionales: Berkeley mejora un 740% la eficiencia de disipación con un nuevo material y diseño' />
     </a>
 </div>
 
