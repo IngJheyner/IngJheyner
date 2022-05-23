@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075'>La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/historia-codigo-morse-2190921.jpg' alt='La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699631.jpg' alt='7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/distancia-pierden-conexion-bluetooth-auriculares-1065329'>A qué distancia pierden conexión bluetooth los auriculares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/distancia-pierden-conexion-bluetooth-auriculares-1065329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/bose-noise-cancelling-wireless-bluetooth-headphones-700-2043067.jpg' alt='A qué distancia pierden conexión bluetooth los auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-animal-peligroso-mundo-expertos-1065289'>Cuál es el animal más peligroso del mundo, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-animal-peligroso-mundo-expertos-1065289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mosquito-2708473.jpg' alt='Cuál es el animal más peligroso del mundo, según los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/video-donde-destrozan-steam-deck-comprobar-durabilidad-te-hara-llorar-hoy-1065305'>El vídeo donde destrozan la Steam Deck para comprobar su durabilidad es lo que te hará llorar hoy</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/video-donde-destrozan-steam-deck-comprobar-durabilidad-te-hara-llorar-hoy-1065305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704077.jpg' alt='El vídeo donde destrozan la Steam Deck para comprobar su durabilidad es lo que te hará llorar hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-1065251'>El primer portátil gaming de Corsair integra una Touch Bar y apuesta de lleno por AMD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-1065251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primer-portatil-gaming-corsair-integra-touch-bar-apuesta-lleno-amd-2709641.jpg' alt='El primer portátil gaming de Corsair integra una Touch Bar y apuesta de lleno por AMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barco-semiautonomo-inteligente-preparado-mundo-1065291'>Este es el barco semiautónomo más inteligente y preparado del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/barco-semiautonomo-inteligente-preparado-mundo-1065291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/barco-chino-2709697.jpg' alt='Este es el barco semiautónomo más inteligente y preparado del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ford-tendra-dejar-vender-destruir-todos-coches-hayan-fabricado-alemania-violacion-patentes-1065261'>Ford tendrá que dejar de vender y destruir todos los coches que se hayan fabricado en Alemania por violación de patentes</a></h4>
-    <a href='https://computerhoy.com/noticias/ford-tendra-dejar-vender-destruir-todos-coches-hayan-fabricado-alemania-violacion-patentes-1065261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/ford-kuba-hibrido-enchufable-1901845.jpg' alt='Ford tendrá que dejar de vender y destruir todos los coches que se hayan fabricado en Alemania por violación de patentes' />
     </a>
 </div>
 
