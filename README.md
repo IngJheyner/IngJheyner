@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431'>Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luce-embalaje-venta-esperada-xiaomi-mi-band-7-sale-venta-tan-solo-unas-horas-1065431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710179.jpg' alt='Así luce el embalaje de venta de la esperada Xiaomi Mi Band 7 que sale a la venta en tan solo unas horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427'>En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-lugares-puedes-colocar-lavadora-no-entra-cocina-ocu-1065427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lavadora-2710173.jpg' alt='En estos lugares puedes colocar tu lavadora si no entra en la cocina, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-habria-visto-obligada-cambiar-camara-frontal-iphone-14-afectaria-precio-1065401'>Apple se habría visto obligada a cambiar la cámara frontal del iPhone 14 y esto afectaría a su precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-habria-visto-obligada-cambiar-camara-frontal-iphone-14-afectaria-precio-1065401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Apple se habría visto obligada a cambiar la cámara frontal del iPhone 14 y esto afectaría a su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-clasicas-planeta-simios-disney-plus-1065349'>En plena viruela del mono, las películas clásicas de El Planeta de los Simios llegan a Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-clasicas-planeta-simios-disney-plus-1065349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plena-viruela-mono-todas-peliculas-planeta-simios-llegan-disney-2709941.jpg' alt='En plena viruela del mono, las películas clásicas de El Planeta de los Simios llegan a Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363'>Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mision-imposible-7-2709783.jpg' alt='Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/15-gangas-50-descuento-haran-lunes-mucho-llevadero-1065105'>15 gangas con hasta 50% de descuento que harán tu lunes mucho más llevadero</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/15-gangas-50-descuento-haran-lunes-mucho-llevadero-1065105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/portatil-ofertas-2709395.jpg' alt='15 gangas con hasta 50% de descuento que harán tu lunes mucho más llevadero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361'>El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-1065319'>OPPO Reno8 Pro y Reno: carga rápida de 80 W y el nuevo Snapdragon 7 Gen 1 en el interior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-1065319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/oppo-reno8-pro-reno-carga-rapida-80-w-nuevo-snapdragon-7-gen-1-interior-2709919.jpg' alt='OPPO Reno8 Pro y Reno: carga rápida de 80 W y el nuevo Snapdragon 7 Gen 1 en el interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg' alt='Las mejores páginas para descargar música gratis de forma totalmente legal en 2022' />
     </a>
 </div>
 
