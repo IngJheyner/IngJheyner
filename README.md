@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363'>Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/filtra-trailer-mision-imposible-7-redes-sociales-explotan-1065363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mision-imposible-7-2709783.jpg' alt='Se filtra el tráiler de Misión Imposible 7 y las redes sociales explotan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/15-gangas-50-descuento-haran-lunes-mucho-llevadero-1065105'>15 gangas con hasta 50% de descuento que harán tu lunes mucho más llevadero</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/15-gangas-50-descuento-haran-lunes-mucho-llevadero-1065105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/portatil-ofertas-2709395.jpg' alt='15 gangas con hasta 50% de descuento que harán tu lunes mucho más llevadero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361'>El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-razr-3-estaria-caer-competiria-plegables-potentes-1065361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_31.jpg' alt='El nuevo Motorola Razr 3 estaría al caer y competiría de tú a tú con los plegables más potentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg' alt='Las mejores páginas para descargar música gratis de forma totalmente legal en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075'>La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/historia-codigo-morse-787075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/historia-codigo-morse-2190921.jpg' alt='La historia del Código Morse y cómo ha conseguido sobrevivir a la era digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699631.jpg' alt='7 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
     </a>
 </div>
 
