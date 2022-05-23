@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-23-mayo-2022-1065045'>Este reloj parece el Apple Watch, pero es mucho más barato: cuesta 126€ y es el Amazfit GTS 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-23-mayo-2022-1065045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gts-3-2709287.jpg' alt='Este reloj parece el Apple Watch, pero es mucho más barato: cuesta 126€ y es el Amazfit GTS 3' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-desperdiciado-toda-ventaja-cuando-no-siempre-mejor-1065119'>Netflix ha desperdiciado toda su ventaja: cuando más no siempre es mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-desperdiciado-toda-ventaja-cuando-no-siempre-mejor-1065119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/crisis-netflix-2689709.jpg' alt='Netflix ha desperdiciado toda su ventaja: cuando más no siempre es mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/stepn-criptomoneda-ganas-caminar-correr-nueva-tendencia-move-earn-1065049'>StepN, la criptomoneda que ganas al caminar o correr, y la nueva tendencia move-to-earn</a></h4>
-    <a href='https://computerhoy.com/noticias/stepn-criptomoneda-ganas-caminar-correr-nueva-tendencia-move-earn-1065049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/stepn-2709335.jpg' alt='StepN, la criptomoneda que ganas al caminar o correr, y la nueva tendencia move-to-earn' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/animales-fantasticos-secretos-dumbledore-llega-hbo-max-finales-mayo-1065153'>Animales fantásticos: Los secretos de Dumbledore llega a HBO Max a finales de mayo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/animales-fantasticos-secretos-dumbledore-llega-hbo-max-finales-mayo-1065153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/animales-fantasticos-secretos-dumbledore-2022-2667615.jpg' alt='Animales fantásticos: Los secretos de Dumbledore llega a HBO Max a finales de mayo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061'>Así es tu personalidad viendo tu firma, según la grafología</a></h4>
-    <a href='https://computerhoy.com/noticias/life/personalidad-viendo-firma-grafologia-1065061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/trabajadora-firmando-registro-jornada-2635165.jpg' alt='Así es tu personalidad viendo tu firma, según la grafología' />
+    <h4><a href='https://computerhoy.com/noticias/motor/autocaravana-15-millones-aunque-precio-final-depende-coche-lleve-interior-1065135'>La autocaravana de los 1,5 millones, aunque el precio final depende del coche que lleve en su interior</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/autocaravana-15-millones-aunque-precio-final-depende-coche-lleve-interior-1065135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/autocaravana_1.jpg' alt='La autocaravana de los 1,5 millones, aunque el precio final depende del coche que lleve en su interior' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-leica-unen-fuerzas-busca-nueva-era-fotografia-movil-1065047'>Xiaomi y Leica unen fuerzas en busca de la nueva era de la fotografía móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-leica-unen-fuerzas-busca-nueva-era-fotografia-movil-1065047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-x-leica-2709291.jpg' alt='Xiaomi y Leica unen fuerzas en busca de la nueva era de la fotografía móvil' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portugal-dejara-ser-islas-caiman-criptomonedas-1065129'>Portugal dejará de ser las Islas Caimán de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portugal-dejara-ser-islas-caiman-criptomonedas-1065129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='Portugal dejará de ser las Islas Caimán de las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
+    <h4><a href='https://computerhoy.com/noticias/adios-disipadores-tradicionales-berkeley-mejora-740-eficiencia-disipacion-nuevo-material-1065077'>Adiós a los disipadores tradicionales: Berkeley mejora un 740% la eficiencia de disipación con un nuevo material y diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/adios-disipadores-tradicionales-berkeley-mejora-740-eficiencia-disipacion-nuevo-material-1065077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/mejores-tarjetas-graficas-cada-rango-precio_0.jpg' alt='Adiós a los disipadores tradicionales: Berkeley mejora un 740% la eficiencia de disipación con un nuevo material y diseño' />
     </a>
 </div>
 
