@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907'>Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-hace-oficial-nueva-mi-band-7-mayor-pantalla-mejor-bateria-always-display-1065995'>Xiaomi hace oficial la nueva Mi Band 7: mayor pantalla, mejor batería y Always on Display</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-hace-oficial-nueva-mi-band-7-mayor-pantalla-mejor-bateria-always-display-1065995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi hace oficial la nueva Mi Band 7: mayor pantalla, mejor batería y Always on Display' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439'>Cuál es el colesterol bueno y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/mitos-colesterol.jpg' alt='Cuál es el colesterol bueno y qué beneficios tiene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903'>Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/elegantes-fuera-salvajes-dentro-son-nuevos-lenovo-legion-7-legion-slim-7-1065949'>Primeras impresiones de los nuevos Lenovo Legion 7 y Legion Slim 7</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/elegantes-fuera-salvajes-dentro-son-nuevos-lenovo-legion-7-legion-slim-7-1065949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-legion-7-2710889.jpg' alt='Primeras impresiones de los nuevos Lenovo Legion 7 y Legion Slim 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893'>Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/filtrar-agua-2306345.jpg' alt='Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata' />
     </a>
 </div>
 
