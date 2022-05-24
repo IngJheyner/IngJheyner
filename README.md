@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143'>Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chairless-chair-20-dos-piernas-extra-humanos-nos-permiten-sentarnos-cualquier-sitio-2711329.jpg' alt='Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083'>¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg' alt='¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127'>Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno</a></h4>
     <a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486991.jpg' alt='Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117'>Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto' />
     </a>
 </div>
 
