@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083'>¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg' alt='¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139'>Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-presenta-mini-pc-procesador-arm-qualcomm-2711309.jpg' alt='Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117'>Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-quiere-democratizar-teclados-mecanicos-nueva-linea-mx-mechanical-1066129'>Logitech quiere democratizar los teclados mecánicos con su nueva línea MX Mechanical</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-quiere-democratizar-teclados-mecanicos-nueva-linea-mx-mechanical-1066129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevos-productos-logitech-mx-2711227.jpg' alt='Logitech quiere democratizar los teclados mecánicos con su nueva línea MX Mechanical' />
     </a>
 </div>
 
