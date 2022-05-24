@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961'>Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/starlink-2710899.jpg' alt='Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903'>Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/elegantes-fuera-salvajes-dentro-son-nuevos-lenovo-legion-7-legion-slim-7-1065949'>Primeras impresiones de los nuevos Lenovo Legion 7 y Legion Slim 7</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/elegantes-fuera-salvajes-dentro-son-nuevos-lenovo-legion-7-legion-slim-7-1065949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lenovo-legion-7-2710889.jpg' alt='Primeras impresiones de los nuevos Lenovo Legion 7 y Legion Slim 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893'>Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/filtrar-agua-2306345.jpg' alt='Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857'>Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/tomates-1892083.jpg' alt='Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-u-pro-oferta-amazon-24-mayo-2022-1065147'>9 días de batería y 60 deportes: este reloj inteligente low cost es una gran ganga de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-u-pro-oferta-amazon-24-mayo-2022-1065147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-bip-pro-2709445.jpg' alt='9 días de batería y 60 deportes: este reloj inteligente low cost es una gran ganga de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883'>TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-lleva-recorridos-casi-5-millones-kilometros-sigue-funcionando-67-anos-despues-ser-fabricado-1065815'>El coche que lleva recorridos casi 5 millones de kilómetros y sigue funcionando 67 años después de ser fabricado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-lleva-recorridos-casi-5-millones-kilometros-sigue-funcionando-67-anos-despues-ser-fabricado-1065815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/coche-lleva-recorridos-casi-5-millones-kilometro-sigue-funcionando-67-anos-despues-ser-fabricado-2710631.jpg' alt='El coche que lleva recorridos casi 5 millones de kilómetros y sigue funcionando 67 años después de ser fabricado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851'>Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps' />
     </a>
 </div>
 
