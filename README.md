@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-24-mayo-2022-1065703'>La Nintendo Switch OLED tiene una de sus primeras ofertas en España: esta tienda la vende más barata que sus competidores</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-24-mayo-2022-1065703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-nintendo-switch-oled-2508281.jpg' alt='La Nintendo Switch OLED tiene una de sus primeras ofertas en España: esta tienda la vende más barata que sus competidores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883'>TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-imagen-ia-google-dibuja-forma-realista-describes-texto-1065745'>Así funciona Imagen, la IA de Google que dibuja de forma realista lo que describes en texto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-imagen-ia-google-dibuja-forma-realista-describes-texto-1065745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/funciona-imagen-ia-google-dibuja-forma-realista-describes-texto-2710551.jpg' alt='Así funciona Imagen, la IA de Google que dibuja de forma realista lo que describes en texto' />
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-lleva-recorridos-casi-5-millones-kilometros-sigue-funcionando-67-anos-despues-ser-fabricado-1065815'>El coche que lleva recorridos casi 5 millones de kilómetros y sigue funcionando 67 años después de ser fabricado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-lleva-recorridos-casi-5-millones-kilometros-sigue-funcionando-67-anos-despues-ser-fabricado-1065815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/coche-lleva-recorridos-casi-5-millones-kilometro-sigue-funcionando-67-anos-despues-ser-fabricado-2710631.jpg' alt='El coche que lleva recorridos casi 5 millones de kilómetros y sigue funcionando 67 años después de ser fabricado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/impactactante-imagen-condensan-32-anos-descubrimientos-hubble-1065757'>La impactante imagen en la que se condensan 32 años de descubrimientos del Hubble</a></h4>
-    <a href='https://computerhoy.com/noticias/impactactante-imagen-condensan-32-anos-descubrimientos-hubble-1065757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/telescopio-hubble-1879491.jpg' alt='La impactante imagen en la que se condensan 32 años de descubrimientos del Hubble' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851'>Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-tenemos-primer-trailer-oficial-thor-love-and-thunder-aparicion-estelar-villano-pelicula-1065731'>Ya tenemos el primer tráiler oficial de Thor: Love and Thunder con la aparición estelar del villano de la película</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-tenemos-primer-trailer-oficial-thor-love-and-thunder-aparicion-estelar-villano-pelicula-1065731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/thor-love-and-thunder-2710469.jpg' alt='Ya tenemos el primer tráiler oficial de Thor: Love and Thunder con la aparición estelar del villano de la película' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-television-86-pulgadas-tasa-refresco-120-hz-1065859'>Xiaomi lanza una increíble televisión de 86 pulgadas con tasa de refresco de 120 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-television-86-pulgadas-tasa-refresco-120-hz-1065859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-86-2710685.jpg' alt='Xiaomi lanza una increíble televisión de 86 pulgadas con tasa de refresco de 120 Hz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/canon-presenta-nuevas-canon-r7-r10-ademas-primeras-opticas-rf-s-1065713'>EOS R7 y R10, las nuevas cámaras sin espejo Canon para los amantes de la fotografía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/canon-presenta-nuevas-canon-r7-r10-ademas-primeras-opticas-rf-s-1065713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r7-r10-2710491.jpg' alt='EOS R7 y R10, las nuevas cámaras sin espejo Canon para los amantes de la fotografía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bionic-reading-haciendo-viral-1065801'>Qué es Bionic Reading y por qué se está haciendo viral</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bionic-reading-haciendo-viral-1065801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/plataformas_lectura_digital_suscripcion_2019_4.jpg' alt='Qué es Bionic Reading y por qué se está haciendo viral' />
     </a>
 </div>
 
