@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-1066093'>Nunca has tenido un móvil con pantalla a 120 Hz,  12 GB de RAM y 256 GB de almacenamiento por este precio, 395 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-1066093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2538789.jpg' alt='Nunca has tenido un móvil con pantalla a 120 Hz,  12 GB de RAM y 256 GB de almacenamiento por este precio, 395 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-exploding-kittens-moviles-ya-tiene-fecha-estreno-netflix-no-llega-solo-1066103'>El juego de Exploding Kittens para móviles ya tiene fecha de estreno en Netflix y no llega solo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juego-exploding-kittens-moviles-ya-tiene-fecha-estreno-netflix-no-llega-solo-1066103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/juego-exploding-kittens-ya-tiene-fecha-estreno-netflix-no-llega-solo-2711197.jpg' alt='El juego de Exploding Kittens para móviles ya tiene fecha de estreno en Netflix y no llega solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/82-detenidos-60-coches-gama-alta-recuperados-robo-vehiculos-1066105'>82 detenidos y 58 coches de gama alta recuperados en una de las mayores operaciones policiales contra el robo de vehículos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/82-detenidos-60-coches-gama-alta-recuperados-robo-vehiculos-1066105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/82-detenidos-casi-60-coches-gama-alta-recuperados-mayores-operaciones-policiales-robo-vehiculos-2711199.jpg' alt='82 detenidos y 58 coches de gama alta recuperados en una de las mayores operaciones policiales contra el robo de vehículos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-entrevias-telecinco-triunfa-netflix-1066023'>¿Triunfar en Telecinco y luego en Netflix? Esta serie española arrasa en cualquier plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-entrevias-telecinco-triunfa-netflix-1066023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/triunfar-telecinco-luego-netflix-serie-espanola-arrasa-cualquier-plataforma-2711047.jpg' alt='¿Triunfar en Telecinco y luego en Netflix? Esta serie española arrasa en cualquier plataforma' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-tablet-gama-alta-realme-llegaria-antes-esperado-1066085'>Se filtran las especificaciones de la tablet de gama alta de realme y llegaría antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-tablet-gama-alta-realme-llegaria-antes-esperado-1066085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597541.jpg' alt='Se filtran las especificaciones de la tablet de gama alta de realme y llegaría antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171'>Xiaomi Electric Shaver S700: precio y características ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-electric-shaver-s700-2709517.jpg' alt='Xiaomi Electric Shaver S700: precio y características ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721'>Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/logitech-g305-lightspeed-2632247.jpg' alt='Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford' />
     </a>
 </div>
 
