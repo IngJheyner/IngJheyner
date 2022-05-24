@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/canon-presenta-nuevas-canon-r7-r10-ademas-primeras-opticas-rf-s-1065713'>Canon presenta sus nuevas Canon R7 y R10, además de sus primeras ópticas RF-S</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/canon-presenta-nuevas-canon-r7-r10-ademas-primeras-opticas-rf-s-1065713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r7-r10-2710491.jpg' alt='Canon presenta sus nuevas Canon R7 y R10, además de sus primeras ópticas RF-S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-modelos-afeitadora-philips-1065391'>Afeitadora Philips: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-modelos-afeitadora-philips-1065391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-shaver-s9000-prestige-2710105.jpg' alt='Afeitadora Philips: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1065685'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1065685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2710471.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479'>Quemaduras solares: remedios caseros para aliviarlas y curarlas</a></h4>
     <a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-2710289.jpg' alt='Quemaduras solares: remedios caseros para aliviarlas y curarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nemo-submarino-personal-biplaza-u-boat-worx-1065477'>Nemo, el submarino personal biplaza que puede descender hasta los 100 metros (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nemo-submarino-personal-biplaza-u-boat-worx-1065477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/nemo-submarino-bolsillo-puedes-llevar-remolque-coche-1922211.jpg' alt='Nemo, el submarino personal biplaza que puede descender hasta los 100 metros (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475'>El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asteroide-grande-acercara-tierra-2022-llega-viernes-potencialmente-peligroso-nasa-2710283.jpg' alt='El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA' />
     </a>
 </div>
 
