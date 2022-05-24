@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721'>Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/logitech-g305-lightspeed-2632247.jpg' alt='Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-redmi-buds-4-redmi-buds-4-pro-cancelacion-ruido-6-horas-autonomia-mucho-1066029'>Xiaomi presenta los Redmi Buds 4 y Redmi Buds 4 Pro: cancelación de ruido, 6 horas de autonomía y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-redmi-buds-4-redmi-buds-4-pro-cancelacion-ruido-6-horas-autonomia-mucho-1066029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-buds-3-pro-2672561.jpg' alt='Xiaomi presenta los Redmi Buds 4 y Redmi Buds 4 Pro: cancelación de ruido, 6 horas de autonomía y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017'>Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/redmi-note-11t-pro-midnight-black-2711039.jpg' alt='Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969'>A qué distancia me puedo conectar a mi WiFi	</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='A qué distancia me puedo conectar a mi WiFi	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907'>Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-hace-oficial-nueva-mi-band-7-mayor-pantalla-mejor-bateria-always-display-1065995'>Xiaomi hace oficial la nueva Mi Band 7: mayor pantalla, mejor batería y Always on Display</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-hace-oficial-nueva-mi-band-7-mayor-pantalla-mejor-bateria-always-display-1065995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi hace oficial la nueva Mi Band 7: mayor pantalla, mejor batería y Always on Display' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439'>Cuál es el colesterol bueno y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/mitos-colesterol.jpg' alt='Cuál es el colesterol bueno y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961'>Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/starlink-2710899.jpg' alt='Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903'>Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackers-son-capaces-secuestrar-cuentas-instagram-linkedin-incluso-antes-te-registres-1065903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Los hackers son capaces de secuestrar tus cuentas de Instagram o LinkedIn incluso antes de que te registres ' />
     </a>
 </div>
 
