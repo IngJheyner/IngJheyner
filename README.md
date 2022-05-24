@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171'>Xiaomi Electric Shaver S700: precio y características ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-electric-shaver-s700-2709517.jpg' alt='Xiaomi Electric Shaver S700: precio y características ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto</a></h4>
     <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017'>Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/redmi-note-11t-pro-midnight-black-2711039.jpg' alt='Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969'>A qué distancia me puedo conectar a mi WiFi	</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='A qué distancia me puedo conectar a mi WiFi	' />
     </a>
 </div>
 
