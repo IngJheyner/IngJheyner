@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227'>El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aqui-no-grave-error-mucho-cometen-usar-bizum-debes-evitar-1013227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-estafa-2325867.jpg' alt='El grave error que muchos cometen al usar Bizum y que debes evitar: nunca hagas esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721'>Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/logitech-g305-lightspeed-2632247.jpg' alt='Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969'>A qué distancia me puedo conectar a mi WiFi	</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/distancia-me-puedo-conectar-mi-wifi-1065969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-smartphone-2604579.jpg' alt='A qué distancia me puedo conectar a mi WiFi	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907'>Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/propuesta-fundador-terra-luna-recupere-parece-inversores-estan-acuerdo-1065907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='Esta es la propuesta del fundador de Terra para que Luna se recupere y parece que los inversores están de acuerdo' />
     </a>
 </div>
 
