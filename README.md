@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139'>Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-presenta-mini-pc-procesador-arm-qualcomm-2711309.jpg' alt='Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123'>El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127'>Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno</a></h4>
+    <a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486991.jpg' alt='Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117'>Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-xiaomi-13-13-pro-ya-estarian-desarrollo-podrian-llegar-antes-previsto-1066117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Los nuevos Xiaomi 13 y 13 Pro ya estarían en desarrollo y podrían llegar antes de lo previsto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-quiere-democratizar-teclados-mecanicos-nueva-linea-mx-mechanical-1066129'>Logitech quiere democratizar los teclados mecánicos con su nueva línea MX Mechanical</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-quiere-democratizar-teclados-mecanicos-nueva-linea-mx-mechanical-1066129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevos-productos-logitech-mx-2711227.jpg' alt='Logitech quiere democratizar los teclados mecánicos con su nueva línea MX Mechanical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wwdc22-apple-ya-tiene-fecha-hora-todo-esperamos-ver-1066095'>La WWDC22 de Apple ya tiene fecha y hora: esto es todo lo que esperamos ver</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wwdc22-apple-ya-tiene-fecha-hora-todo-esperamos-ver-1066095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/wwdc22-apple-ya-tiene-fecha-hora-todo-esperamos-ver-2711193.jpg' alt='La WWDC22 de Apple ya tiene fecha y hora: esto es todo lo que esperamos ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-aprueba-esperado-perte-semiconductores-llevar-pais-vanguardia-tecnologica-1066115'>El Gobierno aprueba el esperado PERTE de los semiconductores para llevar a nuestro país hacia la vanguardia tecnológica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-aprueba-esperado-perte-semiconductores-llevar-pais-vanguardia-tecnologica-1066115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semiconductores-2711213.jpg' alt='El Gobierno aprueba el esperado PERTE de los semiconductores para llevar a nuestro país hacia la vanguardia tecnológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-errores-jamas-debes-cometer-equipaje-mano-viaje-avion-1066113'>Estos son los errores que jamás debes cometer con tu equipaje de mano en un viaje de avión</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-errores-jamas-debes-cometer-equipaje-mano-viaje-avion-1066113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/equipaje-mano-2711211.jpg' alt='Estos son los errores que jamás debes cometer con tu equipaje de mano en un viaje de avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-1066093'>Nunca has tenido un móvil con pantalla a 120 Hz,  12 GB de RAM y 256 GB de almacenamiento por este precio, 395 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-1066093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-2538789.jpg' alt='Nunca has tenido un móvil con pantalla a 120 Hz,  12 GB de RAM y 256 GB de almacenamiento por este precio, 395 euros' />
     </a>
 </div>
 
