@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479'>Quemaduras solares: remedios caseros para aliviarlas y curarlas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-2710289.jpg' alt='Quemaduras solares: remedios caseros para aliviarlas y curarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nemo-submarino-personal-biplaza-u-boat-worx-1065477'>Nemo, el submarino personal biplaza que puede descender hasta los 100 metros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nemo-submarino-personal-biplaza-u-boat-worx-1065477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/nemo-submarino-bolsillo-puedes-llevar-remolque-coche-1922211.jpg' alt='Nemo, el submarino personal biplaza que puede descender hasta los 100 metros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475'>El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asteroide-grande-acercara-tierra-2022-llega-viernes-potencialmente-peligroso-nasa-2710283.jpg' alt='El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459'>Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/veesion-ia-detecta-ladrones-gestos-ya-funciona-muchos-supermercados-espanoles-2710233.jpg' alt='Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-emojis-youtube-ya-estarian-disponibles-algunos-telefonos-tanto-android-como-ios-1065435'>Las reacciones con emojis en YouTube ya estarían disponibles en algunos teléfonos tanto Android como iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-emojis-youtube-ya-estarian-disponibles-algunos-telefonos-tanto-android-como-ios-1065435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='Las reacciones con emojis en YouTube ya estarían disponibles en algunos teléfonos tanto Android como iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417'>Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-teclast-procesador-8-nucleos-6-gb-ram-android-11-oferta-1065417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tablet-101-pulgadas-procesador-8-nucleos-6-gb-ram-android-11-baja-190-euros-2710137.jpg' alt='Esta tablet de 10,1 pulgadas con procesador de 8 núcleos, 6 GB de RAM y Android 11, baja a 190 euros' />
     </a>
 </div>
 
