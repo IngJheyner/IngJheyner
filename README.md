@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439'>Cuál es el colesterol bueno y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-colesterol-bueno-beneficios-tiene-1065439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/mitos-colesterol.jpg' alt='Cuál es el colesterol bueno y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961'>Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-saltarte-lista-espera-starlink-malo-cuesta-25-euros-mes-1065961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/starlink-2710899.jpg' alt='Este es el truco para saltarte la lista de espera de Starlink, lo malo es que cuesta 25 euros más al mes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893'>Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/litros-litros-agua-potable-sacados-nada-gracias-nueva-tecnologia-barata-1065893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/filtrar-agua-2306345.jpg' alt='Litros y litros de agua potable sacados de la nada gracias una nueva tecnología barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857'>Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/tomates-1892083.jpg' alt='Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema' />
     </a>
 </div>
 
