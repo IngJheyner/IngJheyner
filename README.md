@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857'>Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tomates-futuro-llegan-vitamina-d-gracias-modificacion-genetica-sabor-ya-otro-tema-1065857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/tomates-1892083.jpg' alt='Los tomates del futuro llegan con más vitamina D gracias a modificación genética, el sabor ya es otro tema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-u-pro-oferta-amazon-24-mayo-2022-1065147'>9 días de batería y 60 deportes: este reloj inteligente low cost es una gran ganga de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-u-pro-oferta-amazon-24-mayo-2022-1065147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-bip-pro-2709445.jpg' alt='9 días de batería y 60 deportes: este reloj inteligente low cost es una gran ganga de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883'>TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-ya-permite-monetizar-contenidos-mediante-suscripciones-mensuales-estilo-twitch-1065883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok ya permite monetizar contenidos mediante suscripciones mensuales al estilo Twitch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851'>Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-ver-imagenes-historicas-localizaciones-movil-google-maps-1065851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Ya puedes ver imágenes históricas de localizaciones desde tu móvil con Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-television-86-pulgadas-tasa-refresco-120-hz-1065859'>Xiaomi lanza una increíble televisión de 86 pulgadas con tasa de refresco de 120 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-increible-television-86-pulgadas-tasa-refresco-120-hz-1065859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-86-2710685.jpg' alt='Xiaomi lanza una increíble televisión de 86 pulgadas con tasa de refresco de 120 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bionic-reading-haciendo-viral-1065801'>Qué es Bionic Reading y por qué se está haciendo viral</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bionic-reading-haciendo-viral-1065801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/plataformas_lectura_digital_suscripcion_2019_4.jpg' alt='Qué es Bionic Reading y por qué se está haciendo viral' />
     </a>
 </div>
 
