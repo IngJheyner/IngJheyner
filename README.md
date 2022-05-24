@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1065685'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1065685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2710471.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ayudas-bicicletas-electricas-madrid-condiciones-cuantia-modelos-1065235'>Ayudas para bicicletas eléctricas en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ayudas-bicicletas-electricas-madrid-condiciones-cuantia-modelos-1065235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Ayudas para bicicletas eléctricas en Madrid: condiciones, cuantía y modelos subvencionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479'>Quemaduras solares: remedios caseros para aliviarlas y curarlas</a></h4>
     <a href='https://computerhoy.com/noticias/life/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-1065479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/quemaduras-solares-remedios-caseros-aliviarlas-curarlas-2710289.jpg' alt='Quemaduras solares: remedios caseros para aliviarlas y curarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475'>El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/asteroide-mas-grande-2022-potencialmente-peligroso-nasa-1065475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asteroide-grande-acercara-tierra-2022-llega-viernes-potencialmente-peligroso-nasa-2710283.jpg' alt='El asteroide más grande que se acercará a la Tierra en 2022 llega este viernes y es 'potencialmente peligroso', según la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-actualiza-integra-caracteristica-esperada-todos-1065469'>El Samsung Galaxy Watch 4 se actualiza e integra una característica esperada por todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-actualiza-integra-caracteristica-esperada-todos-1065469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515791.jpg' alt='El Samsung Galaxy Watch 4 se actualiza e integra una característica esperada por todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459'>Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/veesion-inteligencia-artificial-ladrones-supermercados-comercios-1065459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/veesion-ia-detecta-ladrones-gestos-ya-funciona-muchos-supermercados-espanoles-2710233.jpg' alt='Veesion, la IA que detecta a los ladrones por sus gestos, ya funciona en muchos supermercados españoles' />
     </a>
 </div>
 
