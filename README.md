@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-entrevias-telecinco-triunfa-netflix-1066023'>¿Triunfar en Telecinco y luego en Netflix? Esta serie española arrasa en cualquier plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-entrevias-telecinco-triunfa-netflix-1066023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/triunfar-telecinco-luego-netflix-serie-espanola-arrasa-cualquier-plataforma-2711047.jpg' alt='¿Triunfar en Telecinco y luego en Netflix? Esta serie española arrasa en cualquier plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-tablet-gama-alta-realme-llegaria-antes-esperado-1066085'>Se filtran las especificaciones de la tablet de gama alta de realme y llegaría antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-tablet-gama-alta-realme-llegaria-antes-esperado-1066085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597541.jpg' alt='Se filtran las especificaciones de la tablet de gama alta de realme y llegaría antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171'>Xiaomi Electric Shaver S700: precio y características ¿merece la pena?</a></h4>
     <a href='https://computerhoy.com/reportajes/life/xiaomi-electric-shaver-s700-precio-caracteristicas-1065171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-electric-shaver-s700-2709517.jpg' alt='Xiaomi Electric Shaver S700: precio y características ¿merece la pena?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721'>Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/logitech-historia-686721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/logitech-g305-lightspeed-2632247.jpg' alt='Esta es la historia de Logitech, la compañía fundada en los Alpes por dos estudiantes de Stanford' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-redmi-buds-4-redmi-buds-4-pro-cancelacion-ruido-6-horas-autonomia-mucho-1066029'>Xiaomi presenta los Redmi Buds 4 y Redmi Buds 4 Pro: cancelación de ruido, 6 horas de autonomía y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-redmi-buds-4-redmi-buds-4-pro-cancelacion-ruido-6-horas-autonomia-mucho-1066029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-redmi-buds-3-pro-2672561.jpg' alt='Xiaomi presenta los Redmi Buds 4 y Redmi Buds 4 Pro: cancelación de ruido, 6 horas de autonomía y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017'>Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/presentados-nuevos-redmi-note-11t-pro-11t-pro-dimensity-8100-pantallas-lcd-144-hz-1066017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/redmi-note-11t-pro-midnight-black-2711039.jpg' alt='Presentados los nuevos Redmi Note 11T Pro y 11T Pro+: Dimensity 8100 y pantallas LCD 144 Hz' />
     </a>
 </div>
 
