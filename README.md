@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445'>Cuál es el salario mínimo en España actualmente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ministerio-trabajo-2698887.jpg' alt='Cuál es el salario mínimo en España actualmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559'>El secreto para una carreteras en buen estado son los neumáticos reciclados</a></h4>
     <a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neumaticos-basura-2020545.jpg' alt='El secreto para una carreteras en buen estado son los neumáticos reciclados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-incluye-nuevos-filtros-real-tone-ajustan-todo-tipo-pieles-1066535'>Google Fotos incluye nuevos filtros Real Tone que se ajustan a todo tipo de pieles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-incluye-nuevos-filtros-real-tone-ajustan-todo-tipo-pieles-1066535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/nuevo-google-fotos-2127671.jpg' alt='Google Fotos incluye nuevos filtros Real Tone que se ajustan a todo tipo de pieles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ufesa-sv1200-maniqui-planchado-oferta-1066475'>¡No planches ni una camisa más! Este maniquí de planchado Ufesa SV1200 está en oferta por menos de 80€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ufesa-sv1200-maniqui-planchado-oferta-1066475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufesa-sv1200-2711829.jpg' alt='¡No planches ni una camisa más! Este maniquí de planchado Ufesa SV1200 está en oferta por menos de 80€' />
     </a>
 </div>
 
