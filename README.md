@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739'>Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-2712189.jpg' alt='Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735'>Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-1066715'>Acer Chromebook Spin 714 y Tab 510: LTE, procesadores i7 de Intel y lápiz óptico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-1066715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-2712157.jpg' alt='Acer Chromebook Spin 714 y Tab 510: LTE, procesadores i7 de Intel y lápiz óptico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/pueden-multarte-aparcar-salida-garaje-aunque-no-tenga-senal-vado-1066725'>¿Pueden multarte por aparcar en una salida de garaje aunque no tenga señal de vado?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/pueden-multarte-aparcar-salida-garaje-aunque-no-tenga-senal-vado-1066725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/garaje-ciudad-2712173.jpg' alt='¿Pueden multarte por aparcar en una salida de garaje aunque no tenga señal de vado?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-gps-descuento-amazon-1066633'>No es habitual, y por eso lo destacamos: el Apple Watch SE con GPS recibe un descuento en Amazon y se queda en 279 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-gps-descuento-amazon-1066633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513181.jpg' alt='No es habitual, y por eso lo destacamos: el Apple Watch SE con GPS recibe un descuento en Amazon y se queda en 279 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-robin-hood-te-obliga-realizar-buenas-acciones-recuperar-archivos-1066721'>Este ransomware “Robin Hood” te obliga a realizar buenas acciones para recuperar tus archivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-robin-hood-te-obliga-realizar-buenas-acciones-recuperar-archivos-1066721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ransomware-2712165.jpg' alt='Este ransomware “Robin Hood” te obliga a realizar buenas acciones para recuperar tus archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/planeta-prehistorico-apple-tv-episodio-gratis-1066711'>Apple TV+ lanza uno de los documentales de dinosaurios más espectaculares de la historia, y puedes ver el primer episodio gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/planeta-prehistorico-apple-tv-episodio-gratis-1066711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-tv-acaba-lanzar-documentales-dinosaurios-espectaculares-historia-2712155.jpg' alt='Apple TV+ lanza uno de los documentales de dinosaurios más espectaculares de la historia, y puedes ver el primer episodio gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-1066691'>Audio Technica ATH-M20x BT: el pequeño de la familia ahora cuenta con Bluetooth y un precio interesante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-1066691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-2712153.jpg' alt='Audio Technica ATH-M20x BT: el pequeño de la familia ahora cuenta con Bluetooth y un precio interesante' />
     </a>
 </div>
 
