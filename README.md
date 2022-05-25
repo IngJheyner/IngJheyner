@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743'>La sirena más grande del mundo tiene el tamaño de un camión (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sirena-grande-mundo-tiene-tamano-camion-video-2712193.jpg' alt='La sirena más grande del mundo tiene el tamaño de un camión (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733'>Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739'>Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-2712189.jpg' alt='Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735'>Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante' />
     </a>
 </div>
 
