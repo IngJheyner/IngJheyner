@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/xinge-rv-autocaravana-barata-tres-ruedas-1066687'>Así es Xinge RV, la autocaravana más barata del mundo y solo tiene tres ruedas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/xinge-rv-autocaravana-barata-tres-ruedas-1066687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xinge-rv-2710735.jpg' alt='Así es Xinge RV, la autocaravana más barata del mundo y solo tiene tres ruedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-habria-solucionado-principales-problemas-moviles-plegables-galaxy-z-fold-4-1066661'>Samsung habría solucionado uno de los principales problemas de los móviles plegables en el Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-habria-solucionado-principales-problemas-moviles-plegables-galaxy-z-fold-4-1066661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485879.jpg' alt='Samsung habría solucionado uno de los principales problemas de los móviles plegables en el Galaxy Z Fold 4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crear-fuerza-militar-antisatelites-starlink-ultima-peticion-sale-china-1066579'>Crear una fuerza militar antisatélites de Starlink: la última petición que sale de China</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crear-fuerza-militar-antisatelites-starlink-ultima-peticion-sale-china-1066579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Crear una fuerza militar antisatélites de Starlink: la última petición que sale de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445'>Cuál es el salario mínimo en España actualmente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ministerio-trabajo-2698887.jpg' alt='Cuál es el salario mínimo en España actualmente' />
     </a>
 </div>
 
