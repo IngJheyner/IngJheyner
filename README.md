@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1066359'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1066359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2711535.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/afeitadora-braun-mejores-modelos-1065879'>Afeitadora Braun: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/afeitadora-braun-mejores-modelos-1065879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/afeitadora-electrica-braun-series-9-2710745.jpg' alt='Afeitadora Braun: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147'>Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza</a></h4>
     <a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-no-sabias-hay-hacer-ropa-sucia-gimnasio-expertos-2711341.jpg' alt='Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083'>¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg' alt='¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139'>Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/project-volterra-mini-pc-microsoft-procesador-arm-qualcomm-1066139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-presenta-mini-pc-procesador-arm-qualcomm-2711309.jpg' alt='Project Volterra, el Mini PC de Microsoft con procesador ARM de Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123'>El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas' />
     </a>
 </div>
 
