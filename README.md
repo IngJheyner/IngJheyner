@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559'>El secreto para una carreteras en buen estado son los neumáticos reciclados</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neumaticos-basura-2020545.jpg' alt='El secreto para una carreteras en buen estado son los neumáticos reciclados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-it-ucrania-anuncia-telegram-ataque-masivo-servicios-rusos-1066547'>El ejército de IT de Ucrania anuncia vía Telegram el ataque masivo contra servicios rusos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-it-ucrania-anuncia-telegram-ataque-masivo-servicios-rusos-1066547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ucrania-2627377.jpg' alt='El ejército de IT de Ucrania anuncia vía Telegram el ataque masivo contra servicios rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tcl-lanza-nuevos-televisores-4k-hdr-dolby-vision-tcl-p635-tcl-p638-1066555'>TCL lanza sus nuevos televisores 4K con Dolby Vision: TCL P635 y TCL P638</a></h4>
+    <a href='https://computerhoy.com/noticias/tcl-lanza-nuevos-televisores-4k-hdr-dolby-vision-tcl-p635-tcl-p638-1066555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-televisores-2711873.jpg' alt='TCL lanza sus nuevos televisores 4K con Dolby Vision: TCL P635 y TCL P638' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-fotos-incluye-nuevos-filtros-real-tone-ajustan-todo-tipo-pieles-1066535'>Google Fotos incluye nuevos filtros Real Tone que se ajustan a todo tipo de pieles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-fotos-incluye-nuevos-filtros-real-tone-ajustan-todo-tipo-pieles-1066535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/nuevo-google-fotos-2127671.jpg' alt='Google Fotos incluye nuevos filtros Real Tone que se ajustan a todo tipo de pieles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ufesa-sv1200-maniqui-planchado-oferta-1066475'>¡No planches ni una camisa más! Este maniquí de planchado Ufesa SV1200 está en oferta por menos de 80€</a></h4>
     <a href='https://computerhoy.com/noticias/life/ufesa-sv1200-maniqui-planchado-oferta-1066475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufesa-sv1200-2711829.jpg' alt='¡No planches ni una camisa más! Este maniquí de planchado Ufesa SV1200 está en oferta por menos de 80€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-bicicleta-electrica-harley-davidson-montana-ruedas-michelin-1066509'>Así es la nueva bicicleta eléctrica de Harley-Davidson: para montaña y con ruedas Michelín</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-bicicleta-electrica-harley-davidson-montana-ruedas-michelin-1066509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-harley-davidson-2711831.jpg' alt='Así es la nueva bicicleta eléctrica de Harley-Davidson: para montaña y con ruedas Michelín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-1066455'>Google Street View cumple 15 años y lo celebra con nuevas funciones y cámaras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-1066455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-2711759.jpg' alt='Google Street View cumple 15 años y lo celebra con nuevas funciones y cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411'>Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial' />
     </a>
 </div>
 
