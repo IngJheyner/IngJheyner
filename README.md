@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/moneda-75-euros-real-curso-legal-ya-circula-portugal-1066431'>La moneda de 7,5 euros que es real y de curso legal ya circula por Portugal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/moneda-75-euros-real-curso-legal-ya-circula-portugal-1066431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moneda-portugal-magallanes-75-euros-2711675.jpg' alt='La moneda de 7,5 euros que es real y de curso legal ya circula por Portugal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411'>Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresa-aspiradoras-silenciosas-lleva-anos-fabricando-robots-secreto-1066419'>La empresa de las aspiradoras silenciosas lleva años fabricando robots en secreto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresa-aspiradoras-silenciosas-lleva-anos-fabricando-robots-secreto-1066419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-2711637.jpg' alt='La empresa de las aspiradoras silenciosas lleva años fabricando robots en secreto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-microsoft-desarrollar-aplicaciones-dibujandolas-necesidad-programar-1066451'>La IA de Microsoft para desarrollar aplicaciones dibujándolas, sin necesidad de programar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-microsoft-desarrollar-aplicaciones-dibujandolas-necesidad-programar-1066451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613499.jpg' alt='La IA de Microsoft para desarrollar aplicaciones dibujándolas, sin necesidad de programar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-ya-ha-sido-confirmada-microsoft-estas-son-mejoras-1066413'>La actualización Windows 11 22H2 ya ha sido confirmada por Microsoft y estas son sus mejoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-ya-ha-sido-confirmada-microsoft-estas-son-mejoras-1066413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='La actualización Windows 11 22H2 ya ha sido confirmada por Microsoft y estas son sus mejoras' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-interesante-novedad-creada-desarrollada-huawei-1066471'>Android 13 contará con una interesante novedad creada y desarrollada por HUAWEI</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-interesante-novedad-creada-desarrollada-huawei-1066471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-13-huawei-erofs-2711749.jpg' alt='Android 13 contará con una interesante novedad creada y desarrollada por HUAWEI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-china-motos-cabify-pretende-arrebatar-mercado-xiaomi-dos-nuevos-patinetes-1066395'>La marca china tras de las motos de Cabify pretende arrebatar mercado a Xiaomi con dos nuevos patinetes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marca-china-motos-cabify-pretende-arrebatar-mercado-xiaomi-dos-nuevos-patinetes-1066395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/niu-patines-2711583.jpg' alt='La marca china tras de las motos de Cabify pretende arrebatar mercado a Xiaomi con dos nuevos patinetes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-funcion-busqueda-imagen-google-lens-1066399'>Esta es la nueva actualización de Google para su función de búsqueda por imagen, Google Lens</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-funcion-busqueda-imagen-google-lens-1066399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Esta es la nueva actualización de Google para su función de búsqueda por imagen, Google Lens' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021'>Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/depiladora-ipl-braun-silkexpert-pro-3-2711097.jpg' alt='Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/motor/no-puedes-conducir-autocaravana-carnet-coche-examen-dgt-tienes-aprobar-1066447'>No puedes conducir una autocaravana con el carnet de coche, así es el examen de la DGT que tienes que aprobar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/no-puedes-conducir-autocaravana-carnet-coche-examen-dgt-tienes-aprobar-1066447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/autocaravana.jpg' alt='No puedes conducir una autocaravana con el carnet de coche, así es el examen de la DGT que tienes que aprobar' />
     </a>
 </div>
 
