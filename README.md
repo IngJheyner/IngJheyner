@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-habria-solucionado-principales-problemas-moviles-plegables-galaxy-z-fold-4-1066661'>Samsung habría solucionado uno de los principales problemas de los móviles plegables en el Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-habria-solucionado-principales-problemas-moviles-plegables-galaxy-z-fold-4-1066661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485879.jpg' alt='Samsung habría solucionado uno de los principales problemas de los móviles plegables en el Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-dyson-mejores-modelos-1065179'>Ventiladores Dyson: estos son los mejores modelos para comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-dyson-mejores-modelos-1065179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-ventilador-aspas-2709497.jpg' alt='Ventiladores Dyson: estos son los mejores modelos para comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/horoscopo-caes-mal-1066635'>A qué horóscopo le caes mal</a></h4>
     <a href='https://computerhoy.com/noticias/life/horoscopo-caes-mal-1066635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg' alt='A qué horóscopo le caes mal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445'>Cuál es el salario mínimo en España actualmente</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-salario-minimo-espana-actualmente-1065445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ministerio-trabajo-2698887.jpg' alt='Cuál es el salario mínimo en España actualmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559'>El secreto para una carreteras en buen estado son los neumáticos reciclados</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/secreto-carreteras-buen-estado-son-neumaticos-reciclados-1066559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/neumaticos-basura-2020545.jpg' alt='El secreto para una carreteras en buen estado son los neumáticos reciclados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-it-ucrania-anuncia-telegram-ataque-masivo-servicios-rusos-1066547'>El ejército de IT de Ucrania anuncia vía Telegram el ataque masivo contra servicios rusos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-it-ucrania-anuncia-telegram-ataque-masivo-servicios-rusos-1066547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ucrania-2627377.jpg' alt='El ejército de IT de Ucrania anuncia vía Telegram el ataque masivo contra servicios rusos' />
     </a>
 </div>
 
