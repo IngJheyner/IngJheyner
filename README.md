@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-bicicleta-electrica-harley-davidson-montana-ruedas-michelin-1066509'>Así es la nueva bicicleta eléctrica de Harley-Davidson: para montaña y con ruedas Michelín</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-bicicleta-electrica-harley-davidson-montana-ruedas-michelin-1066509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-harley-davidson-2711831.jpg' alt='Así es la nueva bicicleta eléctrica de Harley-Davidson: para montaña y con ruedas Michelín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-1066455'>Google Street View cumple 15 años y lo celebra con nuevas funciones y cámaras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-1066455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-cumple-15-anos-celebra-nuevas-funciones-camaras-2711759.jpg' alt='Google Street View cumple 15 años y lo celebra con nuevas funciones y cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411'>Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-crear-encuestas-whatsapp-mientras-llega-funcion-manera-oficial-1066411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-2648489.jpg' alt='Así puedes crear encuestas en WhatsApp mientras llega la función de manera oficial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-interesante-novedad-creada-desarrollada-huawei-1066471'>Android 13 contará con una interesante novedad creada y desarrollada por HUAWEI</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-interesante-novedad-creada-desarrollada-huawei-1066471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-13-huawei-erofs-2711749.jpg' alt='Android 13 contará con una interesante novedad creada y desarrollada por HUAWEI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-funcion-busqueda-imagen-google-lens-1066399'>Esta es la nueva actualización de Google para su función de búsqueda por imagen, Google Lens</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-google-funcion-busqueda-imagen-google-lens-1066399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Esta es la nueva actualización de Google para su función de búsqueda por imagen, Google Lens' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/no-puedes-conducir-autocaravana-carnet-coche-examen-dgt-tienes-aprobar-1066447'>No puedes conducir una autocaravana con el carnet de coche, así es el examen de la DGT que tienes que aprobar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/no-puedes-conducir-autocaravana-carnet-coche-examen-dgt-tienes-aprobar-1066447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/autocaravana.jpg' alt='No puedes conducir una autocaravana con el carnet de coche, así es el examen de la DGT que tienes que aprobar' />
     </a>
 </div>
 
