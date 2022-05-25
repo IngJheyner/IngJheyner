@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-china-motos-cabify-pretende-arrebatar-mercado-xiaomi-dos-nuevos-patinetes-1066395'>La marca china tras de las motos de Cabify pretende arrebatar mercado a Xiaomi con dos nuevos patinetes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marca-china-motos-cabify-pretende-arrebatar-mercado-xiaomi-dos-nuevos-patinetes-1066395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/niu-patines-2711583.jpg' alt='La marca china tras de las motos de Cabify pretende arrebatar mercado a Xiaomi con dos nuevos patinetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021'>Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/depiladora-ipl-braun-silkexpert-pro-3-2711097.jpg' alt='Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/afeitadora-braun-mejores-modelos-1065879'>Afeitadora Braun: estos son los mejores modelos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/afeitadora-braun-mejores-modelos-1065879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/afeitadora-electrica-braun-series-9-2710745.jpg' alt='Afeitadora Braun: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147'>Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-no-sabias-hay-hacer-ropa-sucia-gimnasio-expertos-2711341.jpg' alt='Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza' />
     </a>
 </div>
 
