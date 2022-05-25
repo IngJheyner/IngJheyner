@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733'>Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/msi-1066737'>Despliegue de MSI en la COMPUTEX 2022: portátiles, monitores y accesorios gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/msi-1066737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/msi-creator-z17-2708407.jpg' alt='Despliegue de MSI en la COMPUTEX 2022: portátiles, monitores y accesorios gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731'>WhatsApp estaría preparando una característica que inutilizaría los chats temporales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/app-whatsapp-2659303.jpg' alt='WhatsApp estaría preparando una característica que inutilizaría los chats temporales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739'>Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-2712189.jpg' alt='Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735'>Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-habilita-espana-primeros-servidores-google-cloud-tan-importante-1066735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/todo-conectado-caen-servidores-amazon-fallan-disney-plus-tinder-league-legends-coinbase-alexa-otros-2554321.jpg' alt='Google habilita en España sus primeros servidores para Google Cloud: por qué es tan importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-1066715'>Acer Chromebook Spin 714 y Tab 510: LTE, procesadores i7 de Intel y lápiz óptico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-1066715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-chromebook-spin-714-tab-510-lte-procesadores-i7-intel-lapiz-optico-2712157.jpg' alt='Acer Chromebook Spin 714 y Tab 510: LTE, procesadores i7 de Intel y lápiz óptico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pueden-multarte-aparcar-salida-garaje-aunque-no-tenga-senal-vado-1066725'>¿Pueden multarte por aparcar en una salida de garaje aunque no tenga señal de vado?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pueden-multarte-aparcar-salida-garaje-aunque-no-tenga-senal-vado-1066725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/garaje-ciudad-2712173.jpg' alt='¿Pueden multarte por aparcar en una salida de garaje aunque no tenga señal de vado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-gps-descuento-amazon-1066633'>No es habitual, y por eso lo destacamos: el Apple Watch SE con GPS recibe un descuento en Amazon y se queda en 279 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-gps-descuento-amazon-1066633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-watch-series-7-2513181.jpg' alt='No es habitual, y por eso lo destacamos: el Apple Watch SE con GPS recibe un descuento en Amazon y se queda en 279 euros' />
     </a>
 </div>
 
