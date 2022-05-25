@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147'>Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-no-sabias-hay-hacer-ropa-sucia-gimnasio-expertos-2711341.jpg' alt='Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143'>Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chairless-chair-20-dos-piernas-extra-humanos-nos-permiten-sentarnos-cualquier-sitio-2711329.jpg' alt='Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123'>El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-ya-tendria-fecha-presentacion-sera-movil-podras-verle-entranas-1066123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El Nothing Phone 1 ya tendría fecha de presentación: así será el móvil al que podrás verle las entrañas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127'>Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno</a></h4>
-    <a href='https://computerhoy.com/noticias/filtra-video-motorola-razr-3-todo-apunta-samsung-galaxy-z-fold-4-fin-tendria-rival-digno-1066127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486991.jpg' alt='Se filtra un vídeo del Motorola Razr 3 y todo apunta a que el Samsung Galaxy Z Flip 4 por fin tendría un rival digno' />
     </a>
 </div>
 
