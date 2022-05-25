@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/planeta-prehistorico-apple-tv-episodio-gratis-1066711'>Apple TV+ lanza uno de los documentales de dinosaurios más espectaculares de la historia, y puedes ver el primer episodio gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/planeta-prehistorico-apple-tv-episodio-gratis-1066711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-tv-acaba-lanzar-documentales-dinosaurios-espectaculares-historia-2712155.jpg' alt='Apple TV+ lanza uno de los documentales de dinosaurios más espectaculares de la historia, y puedes ver el primer episodio gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-1066691'>Audio Technica ATH-M20x BT: el pequeño de la familia ahora cuenta con Bluetooth y un precio interesante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-1066691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/audio-technica-ath-m20x-bt-pequeno-familia-ahora-cuenta-bluetooth-precio-interesante-2712153.jpg' alt='Audio Technica ATH-M20x BT: el pequeño de la familia ahora cuenta con Bluetooth y un precio interesante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/xinge-rv-autocaravana-barata-tres-ruedas-1066687'>Así es Xinge RV, la autocaravana más barata del mundo y solo tiene tres ruedas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/xinge-rv-autocaravana-barata-tres-ruedas-1066687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xinge-rv-2710735.jpg' alt='Así es Xinge RV, la autocaravana más barata del mundo y solo tiene tres ruedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-dyson-mejores-modelos-1065179'>Ventiladores Dyson: estos son los mejores modelos para comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-dyson-mejores-modelos-1065179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dyson-pure-cool-ventilador-aspas-2709497.jpg' alt='Ventiladores Dyson: estos son los mejores modelos para comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horoscopo-caes-mal-1066635'>A qué horóscopo le caes mal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horoscopo-caes-mal-1066635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg' alt='A qué horóscopo le caes mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crear-fuerza-militar-antisatelites-starlink-ultima-peticion-sale-china-1066579'>Crear una fuerza militar antisatélites de Starlink: la última petición que sale de China</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crear-fuerza-militar-antisatelites-starlink-ultima-peticion-sale-china-1066579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Crear una fuerza militar antisatélites de Starlink: la última petición que sale de China' />
     </a>
 </div>
 
