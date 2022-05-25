@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021'>Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-depiladoras-luz-pulsada-baratas-1066021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/depiladora-ipl-braun-silkexpert-pro-3-2711097.jpg' alt='Depiladoras de luz pulsada baratas: estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-oficiales-edicion-naruto-realme-gt-neo3-1066377'>Primeras imágenes oficiales de la edición Naruto del Realme GT Neo3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-oficiales-edicion-naruto-realme-gt-neo3-1066377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-gt-neo3-naruto-2711569.jpg' alt='Primeras imágenes oficiales de la edición Naruto del Realme GT Neo3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1066359'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1066359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2711535.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147'>Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza</a></h4>
     <a href='https://computerhoy.com/noticias/life/ropa-sucia-gimnasio-expertos-limpieza-1066147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cosas-no-sabias-hay-hacer-ropa-sucia-gimnasio-expertos-2711341.jpg' alt='Cosas que no sabías que hay que hacer con la ropa sucia del gimnasio, según los expertos en limpieza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143'>Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chairless-chair-20-exoesqueleto-silla-1066143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/chairless-chair-20-dos-piernas-extra-humanos-nos-permiten-sentarnos-cualquier-sitio-2711329.jpg' alt='Chairless Chair 2.0, dos piernas extra que nos permiten sentarnos en cualquier sitio (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083'>¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aprobarias-selectividad-ebau-hoy-dia-web-puedes-comprobarlo-1066083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/portatil-estudiar-estudiante.jpg' alt='¿Aprobarías la Selectividad (EBAU) hoy día? En esta web puedes comprobarlo' />
     </a>
 </div>
 
