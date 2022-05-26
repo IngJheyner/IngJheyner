@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515'>Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513'>Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487'>Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-2713519.jpg' alt='Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505'>¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/habra-pixeles-tambien-pelicula-gran-pregunta-trailer-thor-love-and-thunder-2713539.jpg' alt='¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491'>Estos son los títulos de FP con más salidas laborales en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estos-son-titulos-fp-salidas-laborales-2022-2713479.jpg' alt='Estos son los títulos de FP con más salidas laborales en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461'>Llega a Prime Video una de las películas de terror españolas más esperadas de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/veneciafrenia-2679741.jpg' alt='Llega a Prime Video una de las películas de terror españolas más esperadas de 2022' />
     </a>
 </div>
 
