@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491'>Estos son los títulos de FP con más salidas laborales en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estos-son-titulos-fp-salidas-laborales-2022-2713479.jpg' alt='Estos son los títulos de FP con más salidas laborales en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461'>Llega a Prime Video una de las películas de terror españolas más esperadas de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/veneciafrenia-2679741.jpg' alt='Llega a Prime Video una de las películas de terror españolas más esperadas de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243'>España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google</a></h4>
     <a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-2713367.jpg' alt='España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253'>A qué hora es la luz más barata y cara hoy</a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/factura-luz.jpg' alt='A qué hora es la luz más barata y cara hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-pedir-cita-previa-presencial-renta-2021-aeat-1067239'>Cómo pedir la cita previa presencial para la Renta 2021 de la AEAT</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-pedir-cita-previa-presencial-renta-2021-aeat-1067239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cómo pedir la cita previa presencial para la Renta 2021 de la AEAT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221'>La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/269875-broadcom-prepara-comprar-qualcomm.jpg' alt='La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares' />
     </a>
 </div>
 
