@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrasonidos-asistidos-laser-ultima-tecnica-eliminar-colesterol-necesidad-operaciones-quirurgicas-1067045'>Ultrasonidos asistidos por láser, la última técnica para eliminar el colesterol sin necesidad de operaciones quirúrgicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultrasonidos-asistidos-laser-ultima-tecnica-eliminar-colesterol-necesidad-operaciones-quirurgicas-1067045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/son-estaciones-5g-portatiles-funcionan-mediante-laser-cubrir-zonas-alta-congestion-temporal-2492593.jpg' alt='Ultrasonidos asistidos por láser, la última técnica para eliminar el colesterol sin necesidad de operaciones quirúrgicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011'>Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025</a></h4>
     <a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtrada-escena-eliminada-doctor-strange-multiverso-locura-1066987'>Filtrada una escena eliminada de Doctor Strange en el multiverso de la locura</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/filtrada-escena-eliminada-doctor-strange-multiverso-locura-1066987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/doctor-strange-multiverso-locura-2568831.jpg' alt='Filtrada una escena eliminada de Doctor Strange en el multiverso de la locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933'>¡Ya está en tu quiosco el número 617 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/computer-hoy-617-2707539.jpg' alt='¡Ya está en tu quiosco el número 617 de Computer Hoy!' />
     </a>
 </div>
 
