@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487'>Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-2713519.jpg' alt='Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m1-mac-mini-100-euros-descuento-1067459'>Si quieres probar las maravillas del procesador Apple M1, este Mac Mini tiene 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-m1-mac-mini-100-euros-descuento-1067459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/quieres-probar-maravillas-procesador-apple-m1-mac-mini-tiene-100-euros-descuento-2713411.jpg' alt='Si quieres probar las maravillas del procesador Apple M1, este Mac Mini tiene 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505'>¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/habra-pixeles-tambien-pelicula-gran-pregunta-trailer-thor-love-and-thunder-2713539.jpg' alt='¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491'>Estos son los títulos de FP con más salidas laborales en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/titulos-formacion-profesional-mas-salidas-laborales-2022-1067491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estos-son-titulos-fp-salidas-laborales-2022-2713479.jpg' alt='Estos son los títulos de FP con más salidas laborales en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461'>Llega a Prime Video una de las películas de terror españolas más esperadas de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/llega-prime-video-peliculas-terror-espanolas-esperadas-2022-1067461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/veneciafrenia-2679741.jpg' alt='Llega a Prime Video una de las películas de terror españolas más esperadas de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243'>España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-2713367.jpg' alt='España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-modelos-apple-airpods-rebajados-1067019'>Los AirPods de Apple caen de precio: todos los modelos rebajados ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todos-modelos-apple-airpods-rebajados-1067019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airpods-3a-generacion-2712473.jpg' alt='Los AirPods de Apple caen de precio: todos los modelos rebajados ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253'>A qué hora es la luz más barata y cara hoy</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/factura-luz.jpg' alt='A qué hora es la luz más barata y cara hoy' />
     </a>
 </div>
 
