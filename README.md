@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221'>La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/269875-broadcom-prepara-comprar-qualcomm.jpg' alt='La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/madera-laboratorio-mit-puede-ser-impresa-3d-directamente-forma-final-mueble-1067201'>La madera de laboratorio del MIT que puede ser impresa en 3D directamente con la forma final de un mueble</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/madera-laboratorio-mit-puede-ser-impresa-3d-directamente-forma-final-mueble-1067201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madera-mit-2712965.jpg' alt='La madera de laboratorio del MIT que puede ser impresa en 3D directamente con la forma final de un mueble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-mundo-1065453'>Cuál es el país mas pequeño del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-mundo-1065453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/paises-poblacion-2557167.jpg' alt='Cuál es el país mas pequeño del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/tcl-asegura-habra-ps5-pro-xbox-series-pro-2023-2024-1067181'>TCL asegura que habrá PS5 Pro y Xbox Series Pro para 2023 / 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/tcl-asegura-habra-ps5-pro-xbox-series-pro-2023-2024-1067181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140499.jpg' alt='TCL asegura que habrá PS5 Pro y Xbox Series Pro para 2023 / 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/6-situaciones-comprometidas-rotonda-dgt-como-afrontarlas-1067157'>Las 6 situaciones más comprometidas en una rotonda según la DGT y cómo afrontarlas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/6-situaciones-comprometidas-rotonda-dgt-como-afrontarlas-1067157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rotonda-monumento-marques-pombal-lisboa-2497187.jpg' alt='Las 6 situaciones más comprometidas en una rotonda según la DGT y cómo afrontarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ocu-moja-estas-son-mejores-marcas-electronica-hay-sorpresas-1067123'>La OCU se moja: estas son las mejores marcas de electrónica (y hay sorpresas)</a></h4>
-    <a href='https://computerhoy.com/noticias/ocu-moja-estas-son-mejores-marcas-electronica-hay-sorpresas-1067123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tienda-smartphones-1860725.jpg' alt='La OCU se moja: estas son las mejores marcas de electrónica (y hay sorpresas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137'>Las series y películas que se estrenan en junio en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-junio-2712753.jpg' alt='Las series y películas que se estrenan en junio en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-samsung-apuesta-8k-gama-tv-top-aunque-no-haya-contenidos-tiene-sentido-1066479'>Los motivos por los que Samsung apuesta por 8K en su gama TV top y, aunque no haya contenidos, tiene sentido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-samsung-apuesta-8k-gama-tv-top-aunque-no-haya-contenidos-tiene-sentido-1066479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tv-samsung-2712781.jpg' alt='Los motivos por los que Samsung apuesta por 8K en su gama TV top y, aunque no haya contenidos, tiene sentido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073'>Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/boton-start-stop-coche-2493733.jpg' alt='Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?' />
     </a>
 </div>
 
