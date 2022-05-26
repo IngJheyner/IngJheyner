@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/6-situaciones-comprometidas-rotonda-dgt-como-afrontarlas-1067157'>Las 6 situaciones más comprometidas en una rotonda según la DGT y cómo afrontarlas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/6-situaciones-comprometidas-rotonda-dgt-como-afrontarlas-1067157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rotonda-monumento-marques-pombal-lisboa-2497187.jpg' alt='Las 6 situaciones más comprometidas en una rotonda según la DGT y cómo afrontarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ocu-moja-estas-son-mejores-marcas-electronica-hay-sorpresas-1067123'>La OCU se moja: estas son las mejores marcas de electrónica (y hay sorpresas)</a></h4>
+    <a href='https://computerhoy.com/noticias/ocu-moja-estas-son-mejores-marcas-electronica-hay-sorpresas-1067123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tienda-smartphones-1860725.jpg' alt='La OCU se moja: estas son las mejores marcas de electrónica (y hay sorpresas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137'>Las series y películas que se estrenan en junio en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-junio-2712753.jpg' alt='Las series y películas que se estrenan en junio en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073'>Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/boton-start-stop-coche-2493733.jpg' alt='Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-projector-2-pro-26-mayo-2022-1067031'>Este proyector de Xiaomi es más barato que una Smart TV y emite una imagen de hasta 200 pulgadas de gran calidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-projector-2-pro-26-mayo-2022-1067031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-smart-projector-2-pro-2712611.jpg' alt='Este proyector de Xiaomi es más barato que una Smart TV y emite una imagen de hasta 200 pulgadas de gran calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-demuestra-gigante-poster-puede-conseguir-foto-sensor-movil-200-mpx-1067057'>Samsung demuestra en un gigante póster lo que se puede conseguir con una foto de su sensor móvil 200 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-demuestra-gigante-poster-puede-conseguir-foto-sensor-movil-200-mpx-1067057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-200-mpx-2712549.jpg' alt='Samsung demuestra en un gigante póster lo que se puede conseguir con una foto de su sensor móvil 200 Mpx' />
     </a>
 </div>
 
