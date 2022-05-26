@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011'>Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-peak-23-mayo-2022-1065131'>¿Tiembla Garmin? Este reloj deportivo de Suunto tiene 70 euros de descuento y poco que envidiar a sus modelos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-peak-23-mayo-2022-1065131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/suunto-9-peak-2709411.jpg' alt='¿Tiembla Garmin? Este reloj deportivo de Suunto tiene 70 euros de descuento y poco que envidiar a sus modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-nuevos-detalles-serie-honor-70-procesadores-nueva-generacion-pantalla-oled-1066979'>Ya sabemos nuevos detalles de la serie Honor 70: procesadores de nueva generación y pantalla OLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-nuevos-detalles-serie-honor-70-procesadores-nueva-generacion-pantalla-oled-1066979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-70-2712439.jpg' alt='Ya sabemos nuevos detalles de la serie Honor 70: procesadores de nueva generación y pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtrada-escena-eliminada-doctor-strange-multiverso-locura-1066987'>Filtrada una escena eliminada de Doctor Strange en el multiverso de la locura</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/filtrada-escena-eliminada-doctor-strange-multiverso-locura-1066987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/doctor-strange-multiverso-locura-2568831.jpg' alt='Filtrada una escena eliminada de Doctor Strange en el multiverso de la locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933'>¡Ya está en tu quiosco el número 617 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/computer-hoy-617-2707539.jpg' alt='¡Ya está en tu quiosco el número 617 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-centro-hogar-inteligente-ikea-viene-matter-renovada-aplicacion-1066975'>El nuevo centro de hogar inteligente de IKEA viene con Matter y una renovada aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-centro-hogar-inteligente-ikea-viene-matter-renovada-aplicacion-1066975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ikea-dirigera-2712431.jpg' alt='El nuevo centro de hogar inteligente de IKEA viene con Matter y una renovada aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 6 mejores impresoras baratas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 6 mejores impresoras baratas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2712397.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517'>Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones' />
     </a>
 </div>
 
