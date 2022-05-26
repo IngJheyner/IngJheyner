@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745'>El truco genial para que las fresas se conserven durante tres semanas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/truco-genial-fresas-conserven-durante-tres-semanas-2712195.jpg' alt='El truco genial para que las fresas se conserven durante tres semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743'>La sirena más grande del mundo tiene el tamaño de un camión (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sirena-grande-mundo-tiene-tamano-camion-video-2712193.jpg' alt='La sirena más grande del mundo tiene el tamaño de un camión (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731'>WhatsApp estaría preparando una característica que inutilizaría los chats temporales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/app-whatsapp-2659303.jpg' alt='WhatsApp estaría preparando una característica que inutilizaría los chats temporales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739'>Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-1066739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kingston-ironkey-ssd-externo-pantalla-tactil-color-encriptacion-hardware-2712189.jpg' alt='Kingston IronKey, el SSD externo con pantalla táctil a color y encriptación por hardware ' />
     </a>
 </div>
 
