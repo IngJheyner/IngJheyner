@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2712397.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517'>Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745'>El truco genial para que las fresas se conserven durante tres semanas</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/truco-genial-fresas-conserven-durante-tres-semanas-2712195.jpg' alt='El truco genial para que las fresas se conserven durante tres semanas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733'>Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/msi-1066737'>Despliegue de MSI en la COMPUTEX 2022: portátiles, monitores y accesorios gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/msi-1066737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/msi-creator-z17-2708407.jpg' alt='Despliegue de MSI en la COMPUTEX 2022: portátiles, monitores y accesorios gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731'>WhatsApp estaría preparando una característica que inutilizaría los chats temporales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-estaria-preparando-caracteristica-inutilizaria-chats-temporales-1066731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/app-whatsapp-2659303.jpg' alt='WhatsApp estaría preparando una característica que inutilizaría los chats temporales' />
     </a>
 </div>
 
