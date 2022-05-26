@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527'>Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-pad-x-2713613.jpg' alt='Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525'>Aluvión de nuevas series: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg' alt='Aluvión de nuevas series: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/antes-wwdc22-apple-ha-revelado-ipados-16-llegara-caracteristicas-solicitadas-ipad-1067519'>Antes de la WWDC22 Apple ha revelado que iPadOS 16 llegará con una de las características más solicitadas en el iPad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/antes-wwdc22-apple-ha-revelado-ipados-16-llegara-caracteristicas-solicitadas-ipad-1067519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667695.jpg' alt='Antes de la WWDC22 Apple ha revelado que iPadOS 16 llegará con una de las características más solicitadas en el iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515'>Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513'>Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487'>Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-1067487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cables-usb-enrollan-solos-no-enredan-nunca-invento-llevas-anos-esperando-2713519.jpg' alt='Cables USB que se enrollan solos y no se enredan nunca, el invento que llevas años esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m1-mac-mini-100-euros-descuento-1067459'>Si quieres probar las maravillas del procesador Apple M1, este Mac Mini tiene 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-m1-mac-mini-100-euros-descuento-1067459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/quieres-probar-maravillas-procesador-apple-m1-mac-mini-tiene-100-euros-descuento-2713411.jpg' alt='Si quieres probar las maravillas del procesador Apple M1, este Mac Mini tiene 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505'>¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/thor-love-and-thunder-censura-1067505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/habra-pixeles-tambien-pelicula-gran-pregunta-trailer-thor-love-and-thunder-2713539.jpg' alt='¿Habrá píxeles también en la película? La gran pregunta tras el tráiler de Thor: Love and Thunder' />
     </a>
 </div>
 
