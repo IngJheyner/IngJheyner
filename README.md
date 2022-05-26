@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243'>España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-1067243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/espana-vanguardia-mundo-cocina-centro-culinario-puro-estilo-google-2713367.jpg' alt='España a la vanguardia del mundo de la cocina con un centro culinario al más puro estilo Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todos-modelos-apple-airpods-rebajados-1067019'>Los AirPods de Apple caen de precio: todos los modelos rebajados ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todos-modelos-apple-airpods-rebajados-1067019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airpods-3a-generacion-2712473.jpg' alt='Los AirPods de Apple caen de precio: todos los modelos rebajados ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253'>A qué hora es la luz más barata y cara hoy</a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-luz-barata-cara-hoy-1067253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/factura-luz.jpg' alt='A qué hora es la luz más barata y cara hoy' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221'>La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-semiconductores-broadcom-adquiere-vmware-precio-61000-millones-dolares-1067221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/11/269875-broadcom-prepara-comprar-qualcomm.jpg' alt='La compañía de semiconductores Broadcom adquiere VMware por un precio de 61.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/madera-laboratorio-mit-puede-ser-impresa-3d-directamente-forma-final-mueble-1067201'>La madera de laboratorio del MIT que puede ser impresa en 3D directamente con la forma final de un mueble</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/madera-laboratorio-mit-puede-ser-impresa-3d-directamente-forma-final-mueble-1067201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madera-mit-2712965.jpg' alt='La madera de laboratorio del MIT que puede ser impresa en 3D directamente con la forma final de un mueble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-mundo-1065453'>Cuál es el país mas pequeño del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-mundo-1065453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/paises-poblacion-2557167.jpg' alt='Cuál es el país mas pequeño del mundo' />
     </a>
 </div>
 
