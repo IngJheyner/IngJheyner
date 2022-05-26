@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137'>Las series y películas que se estrenan en junio en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-estrenan-junio-netflix-1067137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-junio-2712753.jpg' alt='Las series y películas que se estrenan en junio en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-samsung-apuesta-8k-gama-tv-top-aunque-no-haya-contenidos-tiene-sentido-1066479'>Los motivos por los que Samsung apuesta por 8K en su gama TV top y, aunque no haya contenidos, tiene sentido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-samsung-apuesta-8k-gama-tv-top-aunque-no-haya-contenidos-tiene-sentido-1066479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tv-samsung-2712781.jpg' alt='Los motivos por los que Samsung apuesta por 8K en su gama TV top y, aunque no haya contenidos, tiene sentido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073'>Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/start-stop-funcion-polemica-coche-deberias-desactivarla-evitar-averias-1067073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/boton-start-stop-coche-2493733.jpg' alt='Start/Stop, la función más polémica de tu coche: ¿deberías desactivarla para evitar averías?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-projector-2-pro-26-mayo-2022-1067031'>Este proyector de Xiaomi es más barato que una Smart TV y emite una imagen de hasta 200 pulgadas de gran calidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-projector-2-pro-26-mayo-2022-1067031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-smart-projector-2-pro-2712611.jpg' alt='Este proyector de Xiaomi es más barato que una Smart TV y emite una imagen de hasta 200 pulgadas de gran calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-demuestra-gigante-poster-puede-conseguir-foto-sensor-movil-200-mpx-1067057'>Samsung demuestra en un gigante póster lo que se puede conseguir con una foto de su sensor móvil 200 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-demuestra-gigante-poster-puede-conseguir-foto-sensor-movil-200-mpx-1067057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-200-mpx-2712549.jpg' alt='Samsung demuestra en un gigante póster lo que se puede conseguir con una foto de su sensor móvil 200 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultrasonidos-asistidos-laser-ultima-tecnica-eliminar-colesterol-necesidad-operaciones-quirurgicas-1067045'>Ultrasonidos asistidos por láser, la última técnica para eliminar el colesterol sin necesidad de operaciones quirúrgicas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultrasonidos-asistidos-laser-ultima-tecnica-eliminar-colesterol-necesidad-operaciones-quirurgicas-1067045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/son-estaciones-5g-portatiles-funcionan-mediante-laser-cubrir-zonas-alta-congestion-temporal-2492593.jpg' alt='Ultrasonidos asistidos por láser, la última técnica para eliminar el colesterol sin necesidad de operaciones quirúrgicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011'>Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/patente-apple-deja-entrever-futuro-primer-coche-veremos-2025-1067011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='Lo que la patente de Apple deja entrever de su futuro primer coche, lo veremos en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-peak-23-mayo-2022-1065131'>¿Tiembla Garmin? Este reloj deportivo de Suunto tiene 70 euros de descuento y poco que envidiar a sus modelos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-peak-23-mayo-2022-1065131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/suunto-9-peak-2709411.jpg' alt='¿Tiembla Garmin? Este reloj deportivo de Suunto tiene 70 euros de descuento y poco que envidiar a sus modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-nuevos-detalles-serie-honor-70-procesadores-nueva-generacion-pantalla-oled-1066979'>Ya sabemos nuevos detalles de la serie Honor 70: procesadores de nueva generación y pantalla OLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-nuevos-detalles-serie-honor-70-procesadores-nueva-generacion-pantalla-oled-1066979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-70-2712439.jpg' alt='Ya sabemos nuevos detalles de la serie Honor 70: procesadores de nueva generación y pantalla OLED' />
     </a>
 </div>
 
