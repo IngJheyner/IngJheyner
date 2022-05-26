@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533'>El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pub-hinchable-puedes-montar-propio-garito-britanico-jardin-minutos-2713621.jpg' alt='El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449'>Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bioshock-4-2162219.jpg' alt='Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/antes-wwdc22-apple-ha-revelado-ipados-16-llegara-caracteristicas-solicitadas-ipad-1067519'>Antes de la WWDC22 Apple ha revelado que iPadOS 16 llegará con una de las características más solicitadas en el iPad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/antes-wwdc22-apple-ha-revelado-ipados-16-llegara-caracteristicas-solicitadas-ipad-1067519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667695.jpg' alt='Antes de la WWDC22 Apple ha revelado que iPadOS 16 llegará con una de las características más solicitadas en el iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515'>Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada' />
     </a>
 </div>
 
