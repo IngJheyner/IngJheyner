@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933'>¡Ya está en tu quiosco el número 617 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-617-computer-hoy-1062933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/computer-hoy-617-2707539.jpg' alt='¡Ya está en tu quiosco el número 617 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-centro-hogar-inteligente-ikea-viene-matter-renovada-aplicacion-1066975'>El nuevo centro de hogar inteligente de IKEA viene con Matter y una renovada aplicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-centro-hogar-inteligente-ikea-viene-matter-renovada-aplicacion-1066975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ikea-dirigera-2712431.jpg' alt='El nuevo centro de hogar inteligente de IKEA viene con Matter y una renovada aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 6 mejores impresoras baratas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 6 mejores impresoras baratas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1066953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2712397.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517'>Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-correas-apple-watch-1066517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='Mejores correas para el Apple Watch: oficiales, no oficiales y más versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745'>El truco genial para que las fresas se conserven durante tres semanas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-genial-fresas-conserven-durante-tres-semanas-1066745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/truco-genial-fresas-conserven-durante-tres-semanas-2712195.jpg' alt='El truco genial para que las fresas se conserven durante tres semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743'>La sirena más grande del mundo tiene el tamaño de un camión (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sirena-mas-grande-mundo-1066743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sirena-grande-mundo-tiene-tamano-camion-video-2712193.jpg' alt='La sirena más grande del mundo tiene el tamaño de un camión (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733'>Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malas-noticias-pixel-fold-plegable-google-estaria-sufriendo-problemas-antes-ser-presentado-1066733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/google-pixel-fold-2492949.jpg' alt='Malas noticias para el Pixel Fold: el plegable de Google estaría sufriendo problemas antes de ser presentado' />
     </a>
 </div>
 
