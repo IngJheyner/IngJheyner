@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449'>Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bioshock-4-2162219.jpg' alt='Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527'>Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-pad-x-2713613.jpg' alt='Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515'>Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piensatelo-dos-veces-antes-enviar-imagenes-detalles-tapados-informacion-censurada-1067515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492525.jpg' alt='Piénsatelo dos veces antes de enviar imágenes con detalles tapados o información censurada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513'>Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-nueva-estafa-permite-robar-cuenta-whatsapp-simple-llamada-1067513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='Detectan una nueva estafa que permite robar la cuenta de WhatsApp con una simple llamada' />
     </a>
 </div>
 
