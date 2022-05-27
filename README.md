@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977'>A qué temperatura tiene que estar la nevera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/frigorifico-2104041.jpg' alt='A qué temperatura tiene que estar la nevera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923'>Cuál es mi ascendente: qué es y cómo puedes calcularlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-2022-2576613.jpg' alt='Cuál es mi ascendente: qué es y cómo puedes calcularlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891'>Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aire-acondicionado-2376339.jpg' alt='Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477'>Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695149.jpg' alt='Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta' />
     </a>
 </div>
 
