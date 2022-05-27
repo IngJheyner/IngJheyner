@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477'>Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695149.jpg' alt='Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-yubo-app-ha-relacionado-tragedia-texas-1067853'>Qué es y cómo funciona Yubo, la app que se ha relacionado con la tragedia de Texas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-yubo-app-ha-relacionado-tragedia-texas-1067853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/yubo-2714041.jpg' alt='Qué es y cómo funciona Yubo, la app que se ha relacionado con la tragedia de Texas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851'>Residuos nucleares para alimentar neuronas artificiales durante décadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/neurona-transmitiendo-senal-2438305.jpg' alt='Residuos nucleares para alimentar neuronas artificiales durante décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845'>Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/botella-plastico-agua-2510697.jpg' alt='Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839'>Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/yoda-3d-2713965.jpg' alt='Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realmente-hace-hacker-informacion-datos-te-roba-1067835'>Esto es lo que realmente hace un hacker con la información y datos que te roba</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realmente-hace-hacker-informacion-datos-te-roba-1067835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Esto es lo que realmente hace un hacker con la información y datos que te roba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-pixel-google-sabran-roncas-durante-sueno-otro-anadido-monitorizacion-sueno-1067817'>Los móviles Pixel de Google sabrán si roncas durante el sueño, otro añadido a la monitorización del sueño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-pixel-google-sabran-roncas-durante-sueno-otro-anadido-monitorizacion-sueno-1067817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-sleep-2713937.jpg' alt='Los móviles Pixel de Google sabrán si roncas durante el sueño, otro añadido a la monitorización del sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-avanzados-hemos-probado-estrena-oferta-auriculares-anc-gratis-regalo-1066459'>Uno de los relojes inteligentes más avanzados que hemos probado se estrena con oferta: auriculares con ANC gratis, de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-avanzados-hemos-probado-estrena-oferta-auriculares-anc-gratis-regalo-1066459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705099.jpg' alt='Uno de los relojes inteligentes más avanzados que hemos probado se estrena con oferta: auriculares con ANC gratis, de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis' />
     </a>
 </div>
 
