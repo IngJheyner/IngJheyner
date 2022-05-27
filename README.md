@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-queria-hacerse-twitter-ahora-inversores-estan-demandando-1068045'>Elon Musk quería hacerse con Twitter y ahora sus inversores le están demandando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-queria-hacerse-twitter-ahora-inversores-estan-demandando-1068045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Elon Musk quería hacerse con Twitter y ahora sus inversores le están demandando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-hisense-qled-55-hdmi-21-4k-rebajado-amazon-ganga-1068071'>QLED de 55" y con HDMI 2.1: este televisor 4K rebajado por Amazon sí es una ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-hisense-qled-55-hdmi-21-4k-rebajado-amazon-ganga-1068071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/qled-55-hdmi-21-televisor-4k-rebajado-amazon-ganga-2714581.jpg' alt='QLED de 55" y con HDMI 2.1: este televisor 4K rebajado por Amazon sí es una ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-recomendaciones-puedas-detectar-rapido-facil-resenas-falsas-sitios-como-amazon-ocu-1068065'>Estas son las recomendaciones para que puedas detectar rápido y fácil reseñas falsas en sitios como Amazon, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-recomendaciones-puedas-detectar-rapido-facil-resenas-falsas-sitios-como-amazon-ocu-1068065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resena-online-2714575.jpg' alt='Estas son las recomendaciones para que puedas detectar rápido y fácil reseñas falsas en sitios como Amazon, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059'>Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047'>Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-obi-wan-kenobi-estreno-1068053'>¿Eres de Stranger Things o de Obi-Wan Kenobi? Los dos grandes estrenos del mes han coincidido en el día de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-obi-wan-kenobi-estreno-1068053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-stranger-things-obi-wan-kenobi-dos-grandes-estrenos-mes-han-coincidido-dia-lanzamiento-2714565.jpg' alt='¿Eres de Stranger Things o de Obi-Wan Kenobi? Los dos grandes estrenos del mes han coincidido en el día de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-seguiria-avanzando-modelo-suscripcion-seria-primeros-cambios-1068029'>Telegram seguiría avanzando hacia un modelo de suscripción y este sería uno de sus primeros cambios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-seguiria-avanzando-modelo-suscripcion-seria-primeros-cambios-1068029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram seguiría avanzando hacia un modelo de suscripción y este sería uno de sus primeros cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203'>5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311189.jpg' alt='5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil' />
     </a>
 </div>
 
