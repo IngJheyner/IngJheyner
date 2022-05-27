@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059'>Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047'>Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-obi-wan-kenobi-estreno-1068053'>¿Eres de Stranger Things o de Obi-Wan Kenobi? Los dos grandes estrenos del mes han coincidido en el día de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-obi-wan-kenobi-estreno-1068053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-stranger-things-obi-wan-kenobi-dos-grandes-estrenos-mes-han-coincidido-dia-lanzamiento-2714565.jpg' alt='¿Eres de Stranger Things o de Obi-Wan Kenobi? Los dos grandes estrenos del mes han coincidido en el día de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-seguiria-avanzando-modelo-suscripcion-seria-primeros-cambios-1068029'>Telegram seguiría avanzando hacia un modelo de suscripción y este sería uno de sus primeros cambios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-seguiria-avanzando-modelo-suscripcion-seria-primeros-cambios-1068029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram seguiría avanzando hacia un modelo de suscripción y este sería uno de sus primeros cambios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203'>5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-aprovechar-oferta-matebook-d-15-necesitas-portatil-972203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311189.jpg' alt='5 motivos por los que aprovechar esta oferta en el Matebook D 15 si necesitas portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/industria/axel-springer-espana-compensa-huella-carbono-1068037'>Computer Hoy ya compensa su huella de carbono, Axel Springer es una de las primeras editoriales en hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/industria/axel-springer-espana-compensa-huella-carbono-1068037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/axel-springer-espana-primeras-editoriales-compensa-huella-carbono-2714485.jpg' alt='Computer Hoy ya compensa su huella de carbono, Axel Springer es una de las primeras editoriales en hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-demogorgon-caida-jedi-1067973'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un demogorgon, una caída y un jedi</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-demogorgon-caida-jedi-1067973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2714279.jpg' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un demogorgon, una caída y un jedi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-2710901.jpg' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios' />
     </a>
 </div>
 
