@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369'>Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-freidora-aceite-patatas-fritas-2711559.jpg' alt='Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2713771.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533'>El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pub-hinchable-puedes-montar-propio-garito-britanico-jardin-minutos-2713621.jpg' alt='El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449'>Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bioshock-4-2162219.jpg' alt='Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store' />
     </a>
 </div>
 
