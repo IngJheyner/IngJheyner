@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2713771.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543'>Comprar un reloj inteligente para mujer: cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-perfil-bolso-piel-reloj-inteligente-muneca-2593157.jpg' alt='Comprar un reloj inteligente para mujer: cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687'>El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejor-truco-casero-eliminar-pegamento-pegatinas-casi-cualquier-cosa-2713767.jpg' alt='El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449'>Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/aprovecha-oportunidad-consigue-bioshock-collection-completamente-gratis-epic-games-store-1067449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bioshock-4-2162219.jpg' alt='Aprovecha la oportunidad y consigue BioShock: The Collection completamente gratis en la Epic Games Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527'>Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/presentada-oficialmente-realme-pad-x-china-snapdragon-695-pantalla-2k-60-hz-1067527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-pad-x-2713613.jpg' alt='Presentada oficialmente la Realme Pad X en China: Snapdragon 695 y pantalla 2K 60 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525'>Aluvión de nuevas series y tráileres: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg' alt='Aluvión de nuevas series y tráileres: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...' />
     </a>
 </div>
 
