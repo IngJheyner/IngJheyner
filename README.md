@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-lanzado-pack-stickers-animados-stranger-things-1067775'>WhatsApp ha lanzado su pack de stickers animados de Stranger Things</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-lanzado-pack-stickers-animados-stranger-things-1067775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/stickers-stranger-things-whatsapp-2713867.jpg' alt='WhatsApp ha lanzado su pack de stickers animados de Stranger Things' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-m13-gama-entrada-movil-samsung-2022-1067753'>Así es el Galaxy M13, la gama de entrada móvil Samsung de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-m13-gama-entrada-movil-samsung-2022-1067753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-m13-2713853.jpg' alt='Así es el Galaxy M13, la gama de entrada móvil Samsung de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731'>Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xbox-cloud-gaming-2389425.jpg' alt='Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369'>Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-freidora-aceite-patatas-fritas-2711559.jpg' alt='Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1067691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2713771.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543'>Comprar un reloj inteligente para mujer: cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-mujeres-999543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-perfil-bolso-piel-reloj-inteligente-muneca-2593157.jpg' alt='Comprar un reloj inteligente para mujer: cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687'>El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejor-truco-casero-eliminar-pegamento-pegatinas-casi-cualquier-cosa-2713767.jpg' alt='El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa' />
     </a>
 </div>
 
