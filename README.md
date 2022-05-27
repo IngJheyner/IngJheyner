@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891'>Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aire-acondicionado-2376339.jpg' alt='Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477'>Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695149.jpg' alt='Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845'>Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/botella-plastico-agua-2510697.jpg' alt='Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839'>Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/yoda-3d-2713965.jpg' alt='Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día' />
     </a>
 </div>
 
