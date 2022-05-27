@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731'>Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xbox-cloud-gaming-2389425.jpg' alt='Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369'>Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-freidora-aceite-patatas-fritas-2711559.jpg' alt='Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687'>El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-truco-casero-eliminar-pegamento-pegatinas-1067687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejor-truco-casero-eliminar-pegamento-pegatinas-casi-cualquier-cosa-2713767.jpg' alt='El mejor truco casero para eliminar el pegamento de pegatinas de casi cualquier cosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533'>El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pub-britanico-hinchable-tamano-real-1067533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pub-hinchable-puedes-montar-propio-garito-britanico-jardin-minutos-2713621.jpg' alt='El pub hinchable a tamaño real con el que puedes montar tu propia taberna británica en el jardín (vídeo)' />
     </a>
 </div>
 
