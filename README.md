@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923'>Cuál es mi ascendente: qué es y cómo puedes calcularlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-2022-2576613.jpg' alt='Cuál es mi ascendente: qué es y cómo puedes calcularlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-2633825.jpg' alt='Cómo geolocalizar una dirección IP en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933'>Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-2714205.jpg' alt='Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477'>Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm4-oferta-27-mayo-2022-1066477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm4-2695149.jpg' alt='Llegan los Sony WH-1000XM5 y eso hace que los XM4 se conviertan en una ganga con una generosa oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-yubo-app-ha-relacionado-tragedia-texas-1067853'>Qué es y cómo funciona Yubo, la app que se ha relacionado con la tragedia de Texas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-yubo-app-ha-relacionado-tragedia-texas-1067853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/yubo-2714041.jpg' alt='Qué es y cómo funciona Yubo, la app que se ha relacionado con la tragedia de Texas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851'>Residuos nucleares para alimentar neuronas artificiales durante décadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/neurona-transmitiendo-senal-2438305.jpg' alt='Residuos nucleares para alimentar neuronas artificiales durante décadas' />
     </a>
 </div>
 
