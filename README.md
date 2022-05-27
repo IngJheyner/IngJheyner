@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525'>Aluvión de nuevas series: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525'>Aluvión de nuevas series y tráileres: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-andor-willow-rowan-atkinson-horizon-god-war-gran-turismo-1067525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg' alt='Aluvión de nuevas series: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg' alt='Aluvión de nuevas series y tráileres: Star Wars Andor, Willow, lo nuevo de Rowan Atkinson, Horizon Zero Dawn, God of War, Gran Turismo...' />
     </a>
 </div>
 
