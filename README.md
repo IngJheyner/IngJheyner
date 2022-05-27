@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839'>Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-resina-impresoras-3d-30-veces-rapida-impresoras-hoy-dia-1067839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/yoda-3d-2713965.jpg' alt='Crean una resina para impresoras 3D hasta 30 veces más rápida que las impresoras de hoy en día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realmente-hace-hacker-informacion-datos-te-roba-1067835'>Esto es lo que realmente hace un hacker con la información y datos que te roba</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realmente-hace-hacker-informacion-datos-te-roba-1067835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-robo-600-millones-criptomonedas-hizo-diversion-cobra-recompensa-devolverlas-2439525.jpg' alt='Esto es lo que realmente hace un hacker con la información y datos que te roba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-pixel-google-sabran-roncas-durante-sueno-otro-anadido-monitorizacion-sueno-1067817'>Los móviles Pixel de Google sabrán si roncas durante el sueño, otro añadido a la monitorización del sueño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-pixel-google-sabran-roncas-durante-sueno-otro-anadido-monitorizacion-sueno-1067817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-sleep-2713937.jpg' alt='Los móviles Pixel de Google sabrán si roncas durante el sueño, otro añadido a la monitorización del sueño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-avanzados-hemos-probado-estrena-oferta-auriculares-anc-gratis-regalo-1066459'>Uno de los relojes inteligentes más avanzados que hemos probado se estrena con oferta: auriculares con ANC gratis, de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/relojes-inteligentes-avanzados-hemos-probado-estrena-oferta-auriculares-anc-gratis-regalo-1066459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705099.jpg' alt='Uno de los relojes inteligentes más avanzados que hemos probado se estrena con oferta: auriculares con ANC gratis, de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/navaja-2617023.jpg' alt='La web navaja suiza de las herramientas online: desde editar PDFs a convertir video y todo gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-lanzado-pack-stickers-animados-stranger-things-1067775'>WhatsApp ha lanzado su pack de stickers animados de Stranger Things</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ha-lanzado-pack-stickers-animados-stranger-things-1067775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/stickers-stranger-things-whatsapp-2713867.jpg' alt='WhatsApp ha lanzado su pack de stickers animados de Stranger Things' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-m13-gama-entrada-movil-samsung-2022-1067753'>Así es el Galaxy M13, la gama de entrada móvil Samsung de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-m13-gama-entrada-movil-samsung-2022-1067753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-m13-2713853.jpg' alt='Así es el Galaxy M13, la gama de entrada móvil Samsung de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731'>Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tiene-listo-chromecast-jugar-juegos-xbox-streaming-tv-1067731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xbox-cloud-gaming-2389425.jpg' alt='Microsoft tiene listo su Chromecast para jugar a juegos Xbox en streaming en la TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369'>Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/freidora-aire-5-motivos-comprar-alguno-no-hacerlo-1066369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-freidora-aceite-patatas-fritas-2711559.jpg' alt='Freidora de aire: 5 motivos para comprar una (y alguno por el que no hacerlo)' />
     </a>
 </div>
 
