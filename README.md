@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933'>Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-2714205.jpg' alt='Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891'>Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aire-acondicionado-2376339.jpg' alt='Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851'>Residuos nucleares para alimentar neuronas artificiales durante décadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/residuos-nucleares-alimentar-neuronas-artificiales-durante-decadas-1067851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/neurona-transmitiendo-senal-2438305.jpg' alt='Residuos nucleares para alimentar neuronas artificiales durante décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845'>Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-plastico-indice-degradabilidad-nunca-visto-antes-1067845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/botella-plastico-agua-2510697.jpg' alt='Científicos desarrollan un plástico con un índice de degradabilidad nunca visto antes' />
     </a>
 </div>
 
