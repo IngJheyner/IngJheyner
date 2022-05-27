@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077'>Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-junio-1068061'>Estas son todas las series y películas que se estrenan en Amazon Prime Video en junio</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-junio-1068061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boys-temporada-3-2703347.jpg' alt='Estas son todas las series y películas que se estrenan en Amazon Prime Video en junio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-queria-hacerse-twitter-ahora-inversores-estan-demandando-1068045'>Elon Musk quería hacerse con Twitter y ahora sus inversores le están demandando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-queria-hacerse-twitter-ahora-inversores-estan-demandando-1068045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Elon Musk quería hacerse con Twitter y ahora sus inversores le están demandando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-recomendaciones-puedas-detectar-rapido-facil-resenas-falsas-sitios-como-amazon-ocu-1068065'>Estas son las recomendaciones para que puedas detectar rápido y fácil reseñas falsas en sitios como Amazon, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-recomendaciones-puedas-detectar-rapido-facil-resenas-falsas-sitios-como-amazon-ocu-1068065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/resena-online-2714575.jpg' alt='Estas son las recomendaciones para que puedas detectar rápido y fácil reseñas falsas en sitios como Amazon, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059'>Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-nuevos-radares-ha-situado-dgt-carreteras-te-decimos-donde-estan-1068059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='Estos son los nuevos radares que ha situado la DGT en las carreteras y te decimos dónde están' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047'>Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-swift-oled-nuevo-portatil-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-1068047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acer-swift-oled-nuevo-convertible-pantalla-oled-hacer-procesadores-intel-core-12a-generacion-2714519.jpg' alt='Acer Swift OLED: así es el nuevo portátil con pantalla OLED de Hacer y procesadores Intel Core de 12ª generación' />
     </a>
 </div>
 
