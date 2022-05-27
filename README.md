@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-2710901.jpg' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-galeria-tienes-probar-telefono-android-1035445'>7 aplicaciones de galería que tienes que probar en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-galeria-tienes-probar-telefono-android-1035445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-aplicaciones-galeria-tienes-probar-telefono-android-2709705.jpg' alt='7 aplicaciones de galería que tienes que probar en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-exploradores-archivos-android-puedes-descargar-ya-mismo-864427'>Estos son los mejores exploradores de archivos para Android que puedes descargar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-exploradores-archivos-android-puedes-descargar-ya-mismo-864427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estos-son-mejores-exploradores-archivos-android-puedes-descargar-ya-mismo-2709723.jpg' alt='Estos son los mejores exploradores de archivos para Android que puedes descargar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977'>A qué temperatura tiene que estar la nevera</a></h4>
     <a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/frigorifico-2104041.jpg' alt='A qué temperatura tiene que estar la nevera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923'>Cuál es mi ascendente: qué es y cómo puedes calcularlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-2022-2576613.jpg' alt='Cuál es mi ascendente: qué es y cómo puedes calcularlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/router-wifi-2633825.jpg' alt='Cómo geolocalizar una dirección IP en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933'>Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-lugares-visitados-street-view-espana-mucho-ver-futbol-1067933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/street-view-2714205.jpg' alt='Estos son los lugares más visitados en Street View en España, mucho que ver con el fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891'>Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/consejos-ahorrar-factura-luz-renunciar-tener-aire-acondicionado-encendido-1067891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aire-acondicionado-2376339.jpg' alt='Consejos para ahorrar en la factura de la luz sin renunciar a tener el aire acondicionado encendido' />
     </a>
 </div>
 
