@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-demogorgon-caida-jedi-1067973'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un demogorgon, una caída y un jedi</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-demogorgon-caida-jedi-1067973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-fin-semana-2714279.jpg' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un demogorgon, una caída y un jedi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-1065939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/peliculas-ver-fin-semana-movistar-plus-prime-video-disney-bardem-deporte-femenino-toda-saga-simios-2710901.jpg' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Disney+: Bardem, deporte femenino y toda la saga de los simios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977'>A qué temperatura tiene que estar la nevera</a></h4>
     <a href='https://computerhoy.com/noticias/life/temperatura-tiene-estar-nevera-1067977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/frigorifico-2104041.jpg' alt='A qué temperatura tiene que estar la nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923'>Cuál es mi ascendente: qué es y cómo puedes calcularlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-mi-ascendente-como-puedes-calcularlo-1065923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-2022-2576613.jpg' alt='Cuál es mi ascendente: qué es y cómo puedes calcularlo' />
     </a>
 </div>
 
