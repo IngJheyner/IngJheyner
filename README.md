@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977'>Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco</a></h4>
+    <a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/haka-pei-prueba-valor-singular-mundo-bajar-volcan-montado-tronco-2712437.jpg' alt='Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413'>Actualiza WhatsApp si tienes este problema con las notificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Actualiza WhatsApp si tienes este problema con las notificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/podras-seguir-compartiendo-cuenta-netflix-corto-plazo-1068363'>Podrás seguir compartiendo tu cuenta de Netflix a corto plazo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/podras-seguir-compartiendo-cuenta-netflix-corto-plazo-1068363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Podrás seguir compartiendo tu cuenta de Netflix a corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349'>16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo' />
     </a>
 </div>
 
