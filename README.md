@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-barra-estado-macos-1019901'>Las mejores apps para la barra de estado en MacOS</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-barra-estado-macos-1019901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/macos-big-sur-2134769.jpg' alt='Las mejores apps para la barra de estado en MacOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gafas-ordenador-filtro-luz-azul-1067847'>Gafas para ordenador: mejores modelos con filtro anti luz azul que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gafas-ordenador-filtro-luz-azul-1067847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gafas-filtro-azul-2714151.jpg' alt='Gafas para ordenador: mejores modelos con filtro anti luz azul que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953'> ¿Qué móvil compro para mi uso personal? </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moviles-top-2710927.jpg' alt=' ¿Qué móvil compro para mi uso personal? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289'>Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja</a></h4>
     <a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-mujeres-duermen-mejor-perro-pareja-2714835.jpg' alt='Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/maletas-conectables-tach-1068081'>Las maletas conectables para los que nunca pueden decidir qué llevar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/maletas-conectables-tach-1068081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/maletas-conectadas-nunca-pueden-decidir-llevar-2714631.jpg' alt='Las maletas conectables para los que nunca pueden decidir qué llevar (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/madre-deja-movil-hijo-2-anos-encarga-31-hamburguesas-mcdonalds-1066363'>Una madre deja su móvil desbloqueado, y su hijo de 2 años encarga 31 hamburguesas al McDonald's con el 25% de propina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/madre-deja-movil-hijo-2-anos-encarga-31-hamburguesas-mcdonalds-1066363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-deja-movil-desbloqueado-hijo-2-anos-encarga-31-hamburguesas-mcdonads-2711547.jpg' alt='Una madre deja su móvil desbloqueado, y su hijo de 2 años encarga 31 hamburguesas al McDonald's con el 25% de propina' />
     </a>
 </div>
 
