@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349'>16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitira-personalizar-como-aparecen-publicaciones-perfil-1068339'>Instagram te permitirá personalizar cómo aparecen las publicaciones en el perfil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitira-personalizar-como-aparecen-publicaciones-perfil-1068339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram te permitirá personalizar cómo aparecen las publicaciones en el perfil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-protagonizadas-detectives-muy-conocidos-1064825'>7 series y películas protagonizadas por detectives muy conocidos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-protagonizadas-detectives-muy-conocidos-1064825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/sherlock-holmes-2092673.jpg' alt='7 series y películas protagonizadas por detectives muy conocidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137'>Nokia Smart TV 5000A de 50”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-50-analisis-opinion-2711303.jpg' alt='Nokia Smart TV 5000A de 50”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-avisar-desaparicion-android-auto-moviles-1068325'>Google empieza a avisar de la desaparición de Android Auto para móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-avisar-desaparicion-android-auto-moviles-1068325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Google empieza a avisar de la desaparición de Android Auto para móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475'>Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2701335.jpg' alt='Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11' />
     </a>
 </div>
 
