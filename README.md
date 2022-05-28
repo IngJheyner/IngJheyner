@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-protagonizadas-detectives-muy-conocidos-1064825'>7 series y películas protagonizadas por detectives muy conocidos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-peliculas-protagonizadas-detectives-muy-conocidos-1064825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/sherlock-holmes-2092673.jpg' alt='7 series y películas protagonizadas por detectives muy conocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asistente-google-ahora-entendera-mejor-forma-hablar-1068333'>El Asistente de Google ahora entenderá mejor tu forma de hablar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asistente-google-ahora-entendera-mejor-forma-hablar-1068333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/asistente-google-2096717.jpg' alt='El Asistente de Google ahora entenderá mejor tu forma de hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137'>Nokia Smart TV 5000A de 50”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-50-analisis-opinion-2711303.jpg' alt='Nokia Smart TV 5000A de 50”, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475'>Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2701335.jpg' alt='Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-28-mayo-2022-1066529'>Uno de los mejores móviles que hemos probado (con carga a 65W) es de realme y pone en muchos apuros a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-28-mayo-2022-1066529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533437.jpg' alt='Uno de los mejores móviles que hemos probado (con carga a 65W) es de realme y pone en muchos apuros a Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-apps-ocultar-carpetas-windows-1054737'>Las mejores apps para ocultar carpetas en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-apps-ocultar-carpetas-windows-1054737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-2691197.jpg' alt='Las mejores apps para ocultar carpetas en Windows' />
     </a>
 </div>
 
