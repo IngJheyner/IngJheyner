@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mochila-portatil-consejos-mejores-modelos-1066403'>Mochila para portátil: qué debes tener en cuenta y cuáles son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mochila-portatil-consejos-mejores-modelos-1066403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/portatil-microsoft-surface-laptop-2711603.jpg' alt='Mochila para portátil: qué debes tener en cuenta y cuáles son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-aplicacion-google-migrar-iphone-cuales-son-limitaciones-1059365'>Cómo funciona la aplicación de Google para migrar desde un iPhone y cuáles son sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-aplicacion-google-migrar-iphone-cuales-son-limitaciones-1059365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-android-portada-2699383.jpg' alt='Cómo funciona la aplicación de Google para migrar desde un iPhone y cuáles son sus limitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-barra-estado-macos-1019901'>Las mejores apps para la barra de estado en MacOS</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-apps-barra-estado-macos-1019901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/macos-big-sur-2134769.jpg' alt='Las mejores apps para la barra de estado en MacOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953'> ¿Qué móvil compro para mi uso personal? </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moviles-top-2710927.jpg' alt=' ¿Qué móvil compro para mi uso personal? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699'>Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531763.jpg' alt='Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289'>Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-mujeres-duermen-mejor-perro-pareja-2714835.jpg' alt='Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja' />
     </a>
 </div>
 
