@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413'>Actualiza WhatsApp si tienes este problema con las notificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Actualiza WhatsApp si tienes este problema con las notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401'>Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-air-fryer-pro-4l-2715081.jpg' alt='Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349'>16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/16-gb-ram-137-kg-peso-realme-rebaja-portatil-ultraligero-precio-saldo-1068349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='16 GB de RAM y 1,37 kg de peso: realme rebaja su portátil ultraligero a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitira-personalizar-como-aparecen-publicaciones-perfil-1068339'>Instagram te permitirá personalizar cómo aparecen las publicaciones en el perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-te-permitira-personalizar-como-aparecen-publicaciones-perfil-1068339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram te permitirá personalizar cómo aparecen las publicaciones en el perfil' />
     </a>
 </div>
 
