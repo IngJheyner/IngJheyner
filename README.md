@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953'> ¿Qué móvil compro para mi uso personal? </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/movil-compro-mi-uso-personal-1065953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/moviles-top-2710927.jpg' alt=' ¿Qué móvil compro para mi uso personal? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699'>Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas</a></h4>
     <a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531763.jpg' alt='Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/madre-deja-movil-hijo-2-anos-encarga-31-hamburguesas-mcdonalds-1066363'>Una madre deja su móvil desbloqueado, y su hijo de 2 años encarga 31 hamburguesas al McDonald's con el 25% de propina</a></h4>
     <a href='https://computerhoy.com/noticias/life/madre-deja-movil-hijo-2-anos-encarga-31-hamburguesas-mcdonalds-1066363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-deja-movil-desbloqueado-hijo-2-anos-encarga-31-hamburguesas-mcdonads-2711547.jpg' alt='Una madre deja su móvil desbloqueado, y su hijo de 2 años encarga 31 hamburguesas al McDonald's con el 25% de propina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077'>Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta' />
     </a>
 </div>
 
