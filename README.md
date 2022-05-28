@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137'>Nokia Smart TV 5000A de 50”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nokia-smart-tv-5000a-50-review-opinion-1066137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-50-analisis-opinion-2711303.jpg' alt='Nokia Smart TV 5000A de 50”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-empieza-avisar-desaparicion-android-auto-moviles-1068325'>Google empieza a avisar de la desaparición de Android Auto para móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-empieza-avisar-desaparicion-android-auto-moviles-1068325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Google empieza a avisar de la desaparición de Android Auto para móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475'>Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reducir-carga-trabajo-cpu-modo-eficiencia-windows-11-1060475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2701335.jpg' alt='Cómo reducir la carga de trabajo de la CPU con el modo eficiencia de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-28-mayo-2022-1066529'>Uno de los mejores móviles que hemos probado (con carga a 65W) es de realme y pone en muchos apuros a Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-oferta-28-mayo-2022-1066529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533437.jpg' alt='Uno de los mejores móviles que hemos probado (con carga a 65W) es de realme y pone en muchos apuros a Xiaomi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-apps-ocultar-carpetas-windows-1054737'>Las mejores apps para ocultar carpetas en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-apps-ocultar-carpetas-windows-1054737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-2691197.jpg' alt='Las mejores apps para ocultar carpetas en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/honor-magic-4-pro-analisis-opinion-1067501'>Honor Magic 4 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/honor-magic-4-pro-analisis-opinion-1067501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-honor-magic-4-pro-2713087.jpg' alt='Honor Magic 4 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mochila-portatil-consejos-mejores-modelos-1066403'>Mochila para portátil: qué debes tener en cuenta y cuáles son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mochila-portatil-consejos-mejores-modelos-1066403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/portatil-microsoft-surface-laptop-2711603.jpg' alt='Mochila para portátil: qué debes tener en cuenta y cuáles son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-aplicacion-google-migrar-iphone-cuales-son-limitaciones-1059365'>Cómo funciona la aplicación de Google para migrar desde un iPhone y cuáles son sus limitaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-aplicacion-google-migrar-iphone-cuales-son-limitaciones-1059365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-android-portada-2699383.jpg' alt='Cómo funciona la aplicación de Google para migrar desde un iPhone y cuáles son sus limitaciones' />
     </a>
 </div>
 
