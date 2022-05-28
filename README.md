@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699'>Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tablet-xiaomi-1030699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531763.jpg' alt='Comprar una tablet Xiaomi en 2022: todos los modelos, características y mejores alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289'>Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja</a></h4>
     <a href='https://computerhoy.com/noticias/life/estudio-mujeres-duermen-mejor-perro-1068289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-mujeres-duermen-mejor-perro-pareja-2714835.jpg' alt='Un estudio concluye que las mujeres duermen mejor con su perro que con su pareja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077'>Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estudio-firefox-bloquea-triple-ataques-phishing-chrome-1068077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Un estudio asegura que Firefox bloquea el triple de ataques phishing que Chrome, y Google protesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-junio-1068061'>Estas son todas las series y películas que se estrenan en Amazon Prime Video en junio</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estas-son-todas-series-peliculas-estrenan-amazon-prime-video-junio-1068061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boys-temporada-3-2703347.jpg' alt='Estas son todas las series y películas que se estrenan en Amazon Prime Video en junio' />
     </a>
 </div>
 
