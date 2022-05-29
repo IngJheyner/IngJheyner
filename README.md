@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089'>Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/suunto-9-g1-2448023.jpg' alt='Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-simular-llamadas-telefono-falsas-salir-situaciones-incomodas-1065219'>Cómo simular llamadas de teléfono falsas para salir de situaciones incómodas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-simular-llamadas-telefono-falsas-salir-situaciones-incomodas-1065219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/llamando-2709583.jpg' alt='Cómo simular llamadas de teléfono falsas para salir de situaciones incómodas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825'>Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405'>Crean el robot andante a control remoto más pequeño del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-robot-andante-control-remoto-pequeno-mundo-2715085.jpg' alt='Crean el robot andante a control remoto más pequeño del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407'>El cambio climático está haciendo que las personas duerman menos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dormir-mal-2715087.jpg' alt='El cambio climático está haciendo que las personas duerman menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963'>Cargadores de móvil caseros que pueden salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cargador-movil-2710917.jpg' alt='Cargadores de móvil caseros que pueden salvarte la vida' />
     </a>
 </div>
 
