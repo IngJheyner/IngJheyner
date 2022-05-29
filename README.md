@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787'>Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descarga-75-millones-iconos-gratis-proyectos-flaticon-ha-vuelto-gratis-2708933.jpg' alt='Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677'>Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701681.jpg' alt='Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-spin-puedes-ver-ahora-mismo-netflix-prime-video-hbo-max-disney-1065407'>Las 7 mejores series spin-off que puedes ver ahora mismo en Netflix, Prime Video, HBO Max y Disney+</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-spin-puedes-ver-ahora-mismo-netflix-prime-video-hbo-max-disney-1065407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/better-call-saul-2710115.jpg' alt='Las 7 mejores series spin-off que puedes ver ahora mismo en Netflix, Prime Video, HBO Max y Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671'>Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663'>Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-word-2715353.jpg' alt='Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/productos-mas-vendidos-ikea-1068647'>Estos son ahora mismo los 10 productos más vendidos en IKEA</a></h4>
-    <a href='https://computerhoy.com/listas/life/productos-mas-vendidos-ikea-1068647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dormitorio-ikea-2715319.jpg' alt='Estos son ahora mismo los 10 productos más vendidos en IKEA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ray-ban-stories-wayfarer-review-opinion-1067997'>Ray-Ban Stories WayFarer, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ray-ban-stories-wayfarer-review-opinion-1067997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714617.jpg' alt='Ray-Ban Stories WayFarer, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545'>¿Qué es la plataforma C-ROADS?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plataforma-c-roads-2710677.jpg' alt='¿Qué es la plataforma C-ROADS?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089'>Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/suunto-9-g1-2448023.jpg' alt='Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio' />
     </a>
 </div>
 
