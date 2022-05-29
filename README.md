@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/telescopio-1049543'>Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/telescopio-1049543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telescopio-2682737.jpg' alt='Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977'>Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco</a></h4>
     <a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/haka-pei-prueba-valor-singular-mundo-bajar-volcan-montado-tronco-2712437.jpg' alt='Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-whatsapp-ha-aumentado-41-principios-2022-estas-son-razones-1068365'>El uso de WhatsApp ha aumentado un 41 % a principios de 2022, y estas son las razones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/uso-whatsapp-ha-aumentado-41-principios-2022-estas-son-razones-1068365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='El uso de WhatsApp ha aumentado un 41 % a principios de 2022, y estas son las razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/podras-seguir-compartiendo-cuenta-netflix-corto-plazo-1068363'>Podrás seguir compartiendo tu cuenta de Netflix a corto plazo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/podras-seguir-compartiendo-cuenta-netflix-corto-plazo-1068363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Podrás seguir compartiendo tu cuenta de Netflix a corto plazo' />
     </a>
 </div>
 
