@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683'>Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787'>Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descarga-75-millones-iconos-gratis-proyectos-flaticon-ha-vuelto-gratis-2708933.jpg' alt='Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671'>Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663'>Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-word-2715353.jpg' alt='Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word' />
     </a>
 </div>
 
