@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731'>Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses</a></h4>
     <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689'>Así serán los anuncios publicitarios en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Así serán los anuncios publicitarios en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685'>Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas' />
     </a>
 </div>
 
