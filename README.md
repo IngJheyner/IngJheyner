@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses</a></h4>
+    <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719'>Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/far-cry-4-gratis-wc8-escape-monkey-island-otros-juegazos-regala-prime-gaming-junio-2715445.jpg' alt='Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685'>Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683'>Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787'>Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descarga-75-millones-iconos-gratis-proyectos-flaticon-ha-vuelto-gratis-2708933.jpg' alt='Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis' />
     </a>
 </div>
 
