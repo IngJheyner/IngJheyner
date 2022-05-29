@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663'>Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-poder-disfrutar-modo-oscuro-version-web-microsoft-word-1068663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microsoft-word-2715353.jpg' alt='Ahora vas a poder disfrutar del modo oscuro para la versión web de Microsoft Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/productos-mas-vendidos-ikea-1068647'>Estos son ahora mismo los 10 productos más vendidos en IKEA</a></h4>
+    <a href='https://computerhoy.com/listas/life/productos-mas-vendidos-ikea-1068647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dormitorio-ikea-2715319.jpg' alt='Estos son ahora mismo los 10 productos más vendidos en IKEA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ray-ban-stories-wayfarer-review-opinion-1067997'>Ray-Ban Stories WayFarer, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ray-ban-stories-wayfarer-review-opinion-1067997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714617.jpg' alt='Ray-Ban Stories WayFarer, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545'>¿Qué es la plataforma C-ROADS?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plataforma-c-roads-2710677.jpg' alt='¿Qué es la plataforma C-ROADS?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089'>Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/suunto-9-g1-2448023.jpg' alt='Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-simular-llamadas-telefono-falsas-salir-situaciones-incomodas-1065219'>Cómo simular llamadas de teléfono falsas para salir de situaciones incómodas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-simular-llamadas-telefono-falsas-salir-situaciones-incomodas-1065219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/llamando-2709583.jpg' alt='Cómo simular llamadas de teléfono falsas para salir de situaciones incómodas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825'>Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847'>El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-2710659.jpg' alt='El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)' />
     </a>
 </div>
 
