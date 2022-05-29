@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825'>Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d15-i3-oferta-29-mayo-2022-1067825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Precio de locura en este portátil ultraligero de Huawei: solo 449 euros y pesa 1,53 kg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847'>El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-2710659.jpg' alt='El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405'>Crean el robot andante a control remoto más pequeño del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-robot-andante-control-remoto-pequeno-mundo-2715085.jpg' alt='Crean el robot andante a control remoto más pequeño del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407'>El cambio climático está haciendo que las personas duerman menos</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dormir-mal-2715087.jpg' alt='El cambio climático está haciendo que las personas duerman menos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963'>Cargadores de móvil caseros que pueden salvarte la vida</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cargador-movil-2710917.jpg' alt='Cargadores de móvil caseros que pueden salvarte la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-sony-wh-1000xm5-1068025'>5 motivos por los que los Sony WH-1000XM5 van a dominar el mercado de auriculares</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-sony-wh-1000xm5-1068025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primeras-impresiones-wh-1000xm5-2700585.jpg' alt='5 motivos por los que los Sony WH-1000XM5 van a dominar el mercado de auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253'>El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/telescopio-1049543'>Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/telescopio-1049543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telescopio-2682737.jpg' alt='Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta' />
     </a>
 </div>
 
