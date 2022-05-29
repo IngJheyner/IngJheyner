@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391'>Descubren que los delfines también usan medicinas para curarse</a></h4>
+    <a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descubren-delfines-tambien-usan-medicinas-curarse-2711577.jpg' alt='Descubren que los delfines también usan medicinas para curarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-trucos-superar-habito-deslizar-control-movil-1061519'>6 trucos para superar el hábito de deslizar sin control en el móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-trucos-superar-habito-deslizar-control-movil-1061519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/deslizar-movil-2703011.jpg' alt='6 trucos para superar el hábito de deslizar sin control en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743'>Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-mayor-edad-chico-cuenta-experiencia-cumplir-18-anos-2715529.jpg' alt='Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses</a></h4>
     <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719'>Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/far-cry-4-gratis-wc8-escape-monkey-island-otros-juegazos-regala-prime-gaming-junio-2715445.jpg' alt='Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio' />
     </a>
 </div>
 
