@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689'>Así serán los anuncios publicitarios en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Así serán los anuncios publicitarios en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685'>Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-seguiria-apostando-proceso-5nm-chip-a16-iphone-14-analistas-1068685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492393.jpg' alt='Apple seguiría apostando por el proceso de 5nm para el chip A16 del iPhone 14, según analistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683'>Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/marca-registrada-sugiere-apple-podria-anunciar-auriculares-vr-wwdc-2022-1068683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Esta marca registrada sugiere que Apple podría anunciar sus auriculares VR en la WWDC 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677'>Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701681.jpg' alt='Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-spin-puedes-ver-ahora-mismo-netflix-prime-video-hbo-max-disney-1065407'>Las 7 mejores series spin-off que puedes ver ahora mismo en Netflix, Prime Video, HBO Max y Disney+</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-series-spin-puedes-ver-ahora-mismo-netflix-prime-video-hbo-max-disney-1065407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/better-call-saul-2710115.jpg' alt='Las 7 mejores series spin-off que puedes ver ahora mismo en Netflix, Prime Video, HBO Max y Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671'>Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gmail-android-ahora-nos-mostrara-filtros-busqueda-ver-etiquetas-carpetas-1068671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Gmail para Android ahora nos mostrará filtros de búsqueda al ver etiquetas y carpetas' />
     </a>
 </div>
 
