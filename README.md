@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253'>El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/telescopio-1049543'>Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/telescopio-1049543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telescopio-2682737.jpg' alt='Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401'>Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-air-fryer-pro-4l-2715081.jpg' alt='Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/uso-whatsapp-ha-aumentado-41-principios-2022-estas-son-razones-1068365'>El uso de WhatsApp ha aumentado un 41 % a principios de 2022, y estas son las razones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/uso-whatsapp-ha-aumentado-41-principios-2022-estas-son-razones-1068365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670161.jpg' alt='El uso de WhatsApp ha aumentado un 41 % a principios de 2022, y estas son las razones' />
     </a>
 </div>
 
