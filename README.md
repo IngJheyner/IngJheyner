@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743'>Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-mayor-edad-chico-cuenta-experiencia-cumplir-18-anos-2715529.jpg' alt='Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731'>Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719'>Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/far-cry-4-gratis-wc8-escape-monkey-island-otros-juegazos-regala-prime-gaming-junio-2715445.jpg' alt='Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689'>Así serán los anuncios publicitarios en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Así serán los anuncios publicitarios en Netflix' />
     </a>
 </div>
 
