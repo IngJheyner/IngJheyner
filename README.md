@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719'>Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/far-cry-4-gratis-juegos-gratis-prime-gaming-junio-2022-1068719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/far-cry-4-gratis-wc8-escape-monkey-island-otros-juegazos-regala-prime-gaming-junio-2715445.jpg' alt='Far Cry 4 gratis, WC8, Escape from Monkey Island y otros juegazos que regala Prime Gaming en junio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689'>Así serán los anuncios publicitarios en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cuota-anuncios-publicidad-1068689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Así serán los anuncios publicitarios en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787'>Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descarga-75-millones-iconos-gratis-proyectos-flaticon-1064787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descarga-75-millones-iconos-gratis-proyectos-flaticon-ha-vuelto-gratis-2708933.jpg' alt='Descarga 7,5 millones de iconos gratis para tus proyectos en Flaticon, que se ha vuelto gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677'>Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-apple-reducen-produccion-telefonos-inteligentes-crisis-1068677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701681.jpg' alt='Samsung y Apple reducen la producción de teléfonos inteligentes ante la crisis' />
     </a>
 </div>
 
