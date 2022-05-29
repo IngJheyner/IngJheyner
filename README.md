@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407'>El cambio climático está haciendo que las personas duerman menos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambio-climatico-haciendo-personas-duerman-menos-1068407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/dormir-mal-2715087.jpg' alt='El cambio climático está haciendo que las personas duerman menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963'>Cargadores de móvil caseros que pueden salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cargadores-movil-caseros-pueden-salvarte-vida-1065963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cargador-movil-2710917.jpg' alt='Cargadores de móvil caseros que pueden salvarte la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-sony-wh-1000xm5-1068025'>5 motivos por los que los Sony WH-1000XM5 van a dominar el mercado de auriculares</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-sony-wh-1000xm5-1068025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/primeras-impresiones-wh-1000xm5-2700585.jpg' alt='5 motivos por los que los Sony WH-1000XM5 van a dominar el mercado de auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253'>El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-1062253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='El gran crash del mundo cripto: ¿qué puede ocurrir con mis criptomonedas si la crisis empeora?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/telescopio-1049543'>Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/telescopio-1049543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/telescopio-2682737.jpg' alt='Guía y consejos para comprar un telescopio: modelos, diferencias y todo lo que debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977'>Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco</a></h4>
-    <a href='https://computerhoy.com/noticias/life/haka-pei-prueba-valor-isla-pascua-1066977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/haka-pei-prueba-valor-singular-mundo-bajar-volcan-montado-tronco-2712437.jpg' alt='Haka Pei, la prueba de valor más singular del mundo: bajar por la ladera de un volcán montado en un tronco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413'>Actualiza WhatsApp si tienes este problema con las notificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-whatsapp-tienes-problema-notificaciones-1068413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatsapp-web-2641695.jpg' alt='Actualiza WhatsApp si tienes este problema con las notificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401'>Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-inventa-freidora-aire-ventana-transparente-no-te-resista-ningun-plato-1068401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mijia-smart-air-fryer-pro-4l-2715081.jpg' alt='Xiaomi inventa una freidora de aire con ventana transparente para que no se te resista ningún plato' />
     </a>
 </div>
 
