@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545'>¿Qué es la plataforma C-ROADS?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/plataforma-c-roads-1061545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/plataforma-c-roads-2710677.jpg' alt='¿Qué es la plataforma C-ROADS?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089'>Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suunto-9-oferta-29-mayo-2022-1067089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/suunto-9-g1-2448023.jpg' alt='Este reloj Suunto llega a 170 horas de GPS, mide 80 deportes y ahora compite con Garmin en precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847'>El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/origen-copiar-cortar-pegar-deshacer-ctrlc-ctrlx-ctrlv-ctrlz-1065847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/teclado-2710659.jpg' alt='El origen de copiar, cortar, pegar y deshacer (Ctrl+C, Ctrl+X, Ctrl+V y Ctrl+Z)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405'>Crean el robot andante a control remoto más pequeño del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-robot-andante-control-remoto-pequeno-mundo-1068405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/crean-robot-andante-control-remoto-pequeno-mundo-2715085.jpg' alt='Crean el robot andante a control remoto más pequeño del mundo' />
     </a>
 </div>
 
