@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291'>Cómo pasar la noche en el coche sin que te pongan una multa</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-pasar-noche-coche-te-pongan-multa-2716611.jpg' alt='Cómo pasar la noche en el coche sin que te pongan una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-triada-gama-alta-llega-carga-rapida-100w-1069247'>Honor 70, 70 Pro y 70 Pro+: así es la triada de gama alta que llega con carga rápida de 100W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-triada-gama-alta-llega-carga-rapida-100w-1069247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-70-2712439.jpg' alt='Honor 70, 70 Pro y 70 Pro+: así es la triada de gama alta que llega con carga rápida de 100W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/borgen-reino-poder-gloria-estreno-netflix-1069241'>Regresa Borgen, la mítica serie de política estrena secuela en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/borgen-reino-poder-gloria-estreno-netflix-1069241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/regresa-borgen-mitica-serie-politica-estrena-precuela-netflix-2716491.jpg' alt='Regresa Borgen, la mítica serie de política estrena secuela en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233'>Cómo hacer una videollamada Facetime en Windows o Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-facetime-2505441.jpg' alt='Cómo hacer una videollamada Facetime en Windows o Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045'>5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-50-2716085.jpg' alt='5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-hacer-indice-word-1069243'>Cómo hacer un índice en Word</a></h4>
-    <a href='https://computerhoy.com/noticias/como-hacer-indice-word-1069243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo hacer un índice en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tendria-manos-version-pro-mi-band-7-llegaria-mucho-antes-esperado-1069225'>Xiaomi tendría entre manos una versión Pro de la Mi Band 7 y llegaría mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tendria-manos-version-pro-mi-band-7-llegaria-mucho-antes-esperado-1069225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi tendría entre manos una versión Pro de la Mi Band 7 y llegaría mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-http-404-como-buscar-informacion-ya-no-disponible-1069229'>Qué es el Error HTTP 404 y cómo buscar la información que ya no está disponible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-http-404-como-buscar-informacion-ya-no-disponible-1069229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/error-404-2716479.jpg' alt='Qué es el Error HTTP 404 y cómo buscar la información que ya no está disponible' />
     </a>
 </div>
 
