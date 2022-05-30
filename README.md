@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329'>El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cuento-criada-libros-censurados-prohibidos-lanza-version-ignifuga-resiste-lanzallamas-1500-grados-2716693.jpg' alt='El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331'>Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-7-filtrado-2716711.jpg' alt='Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319'>Mercadona no aprende y recibe una nueva multa por parte de la AEPD</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona no aprende y recibe una nueva multa por parte de la AEPD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311'>Esta fue la primera película de la historia de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Esta fue la primera película de la historia de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-descuento-122-euros-precio-minimo-historico-1069181'>El nuevo Xiaomi 12X recibe un descuento de 122 euros y baja a su precio mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-descuento-122-euros-precio-minimo-historico-1069181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-xiaomi-12x-recibe-descuento-122-euros-baja-precio-minimo-historico-2716399.jpg' alt='El nuevo Xiaomi 12X recibe un descuento de 122 euros y baja a su precio mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279'>Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas' />
     </a>
 </div>
 
