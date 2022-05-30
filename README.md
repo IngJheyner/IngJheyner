@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233'>Cómo hacer una videollamada Facetime en Windows o Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-facetime-2505441.jpg' alt='Cómo hacer una videollamada Facetime en Windows o Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045'>5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-50-2716085.jpg' alt='5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-hacer-indice-word-1069243'>Cómo hacer un índice en Word</a></h4>
+    <a href='https://computerhoy.com/noticias/como-hacer-indice-word-1069243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo hacer un índice en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tendria-manos-version-pro-mi-band-7-llegaria-mucho-antes-esperado-1069225'>Xiaomi tendría entre manos una versión Pro de la Mi Band 7 y llegaría mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tendria-manos-version-pro-mi-band-7-llegaria-mucho-antes-esperado-1069225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi tendría entre manos una versión Pro de la Mi Band 7 y llegaría mucho antes de lo esperado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/error-http-404-como-buscar-informacion-ya-no-disponible-1069229'>Qué es el Error HTTP 404 y cómo buscar la información que ya no está disponible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/error-http-404-como-buscar-informacion-ya-no-disponible-1069229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/error-404-2716479.jpg' alt='Qué es el Error HTTP 404 y cómo buscar la información que ya no está disponible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/eritritol-sustituto-azucar-calorias-deportistas-elite-1069207'>Qué es el eritritol, el sustituto del azúcar sin calorías de los deportistas de élite</a></h4>
-    <a href='https://computerhoy.com/noticias/life/eritritol-sustituto-azucar-calorias-deportistas-elite-1069207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/cucharada-azucar-1956693.jpg' alt='Qué es el eritritol, el sustituto del azúcar sin calorías de los deportistas de élite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-baloncesto-tienes-probar-movil-android-1069187'>Los 7 mejores juegos de baloncesto que tienes que probar en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-baloncesto-tienes-probar-movil-android-1069187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-mejores-juegos-baloncesto-tienes-probar-movil-android-2716435.jpg' alt='Los 7 mejores juegos de baloncesto que tienes que probar en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-blade-15-2022-rtx-3070-ti-review-opinion-1067227'>Razer Blade 15 2022 con RTX 3070 Ti, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-blade-15-2022-rtx-3070-ti-review-opinion-1067227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-razer-blade-15-2022-2716241.jpg' alt='Razer Blade 15 2022 con RTX 3070 Ti, análisis y opinión' />
     </a>
 </div>
 
