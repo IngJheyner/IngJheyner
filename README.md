@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279'>Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291'>Cómo pasar la noche en el coche sin que te pongan una multa</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-pasar-noche-coche-te-pongan-multa-2716611.jpg' alt='Cómo pasar la noche en el coche sin que te pongan una multa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233'>Cómo hacer una videollamada Facetime en Windows o Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-facetime-2505441.jpg' alt='Cómo hacer una videollamada Facetime en Windows o Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045'>5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-smart-tv-xiaomi-tv-f2-1069045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-50-2716085.jpg' alt='5 razones por las que las nuevas Smart TV Xiaomi TV F2 con Alexa van a convertirse en las más deseadas' />
     </a>
 </div>
 
