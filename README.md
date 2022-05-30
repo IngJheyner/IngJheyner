@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quien-persona-rica-mundo-2022-1069177'>Quién es la persona más rica del mundo en 2022	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quien-persona-rica-mundo-2022-1069177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/lluvia-dinero.jpg' alt='Quién es la persona más rica del mundo en 2022	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nuevo-coche-delorean-no-tiene-condensador-flujo-ni-vuela-pero-electrico-no-contamina-1069189'>Así es el nuevo coche DeLorean: no tiene condensador de flujo ni vuela, pero es eléctrico y no contamina</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nuevo-coche-delorean-no-tiene-condensador-flujo-ni-vuela-pero-electrico-no-contamina-1069189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/delorean-alpha-5-2716415.jpg' alt='Así es el nuevo coche DeLorean: no tiene condensador de flujo ni vuela, pero es eléctrico y no contamina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149'>Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-2716353.jpg' alt='Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137'>Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos</a></h4>
     <a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pasaria-todas-bombas-nucleares-mundo-explotasen-mismo-tiempo.jpg' alt='Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/entregas-mismo-dia-drones-reparto-quiere-vencer-walmart-amazon-1069127'>Entregas en el mismo día con drones de reparto: así quiere vencer Walmart a Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/entregas-mismo-dia-drones-reparto-quiere-vencer-walmart-amazon-1069127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/walmart-drones-2716311.jpg' alt='Entregas en el mismo día con drones de reparto: así quiere vencer Walmart a Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131'>Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tesla-conduccion-completamente-autonoma-2716283.jpg' alt='Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa' />
     </a>
 </div>
 
