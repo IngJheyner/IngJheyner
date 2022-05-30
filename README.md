@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/eritritol-sustituto-azucar-calorias-deportistas-elite-1069207'>Qué es el eritritol, el sustituto del azúcar sin calorías de los deportistas de élite</a></h4>
+    <a href='https://computerhoy.com/noticias/life/eritritol-sustituto-azucar-calorias-deportistas-elite-1069207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/cucharada-azucar-1956693.jpg' alt='Qué es el eritritol, el sustituto del azúcar sin calorías de los deportistas de élite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-baloncesto-tienes-probar-movil-android-1069187'>Los 7 mejores juegos de baloncesto que tienes que probar en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-baloncesto-tienes-probar-movil-android-1069187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/7-mejores-juegos-baloncesto-tienes-probar-movil-android-2716435.jpg' alt='Los 7 mejores juegos de baloncesto que tienes que probar en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-blade-15-2022-rtx-3070-ti-review-opinion-1067227'>Razer Blade 15 2022 con RTX 3070 Ti, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-blade-15-2022-rtx-3070-ti-review-opinion-1067227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-razer-blade-15-2022-2716241.jpg' alt='Razer Blade 15 2022 con RTX 3070 Ti, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quien-persona-rica-mundo-2022-1069177'>Quién es la persona más rica del mundo en 2022	</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-persona-rica-mundo-2022-1069177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/lluvia-dinero.jpg' alt='Quién es la persona más rica del mundo en 2022	' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/nuevo-coche-delorean-no-tiene-condensador-flujo-ni-vuela-pero-electrico-no-contamina-1069189'>Así es el nuevo coche DeLorean: no tiene condensador de flujo ni vuela, pero es eléctrico y no contamina</a></h4>
     <a href='https://computerhoy.com/noticias/motor/nuevo-coche-delorean-no-tiene-condensador-flujo-ni-vuela-pero-electrico-no-contamina-1069189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/delorean-alpha-5-2716415.jpg' alt='Así es el nuevo coche DeLorean: no tiene condensador de flujo ni vuela, pero es eléctrico y no contamina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149'>Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-2716353.jpg' alt='Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-revienta-mercado-cuesta-poco-35-euros-tiene-9-dias-bateria-1068951'>Este reloj inteligente de Amazfit revienta el mercado: cuesta poco más de 35 euros y tiene 9 días de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-revienta-mercado-cuesta-poco-35-euros-tiene-9-dias-bateria-1068951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/amazfit-bip-2156809.jpg' alt='Este reloj inteligente de Amazfit revienta el mercado: cuesta poco más de 35 euros y tiene 9 días de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137'>Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pasaria-todas-bombas-nucleares-mundo-explotasen-mismo-tiempo.jpg' alt='Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos' />
     </a>
 </div>
 
