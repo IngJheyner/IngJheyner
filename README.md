@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137'>Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pasaria-todas-bombas-nucleares-mundo-explotasen-mismo-tiempo.jpg' alt='Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/entregas-mismo-dia-drones-reparto-quiere-vencer-walmart-amazon-1069127'>Entregas en el mismo día con drones de reparto: así quiere vencer Walmart a Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/entregas-mismo-dia-drones-reparto-quiere-vencer-walmart-amazon-1069127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/walmart-drones-2716311.jpg' alt='Entregas en el mismo día con drones de reparto: así quiere vencer Walmart a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131'>Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tesla-conduccion-completamente-autonoma-2716283.jpg' alt='Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-potente-mundo-amd-superordenador-frontier-1069109'>El ordenador más potente del mundo es de AMD: así es el superordenador Frontier</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-potente-mundo-amd-superordenador-frontier-1069109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg' alt='El ordenador más potente del mundo es de AMD: así es el superordenador Frontier' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105'>Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2022?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aire-acondicionado-suntec-2426657.jpg' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/tabu-menstruacion-medidas-tomadas-europa-polemica-baja-laboral-1064413'>El tabú de la menstruación, medidas tomadas en Europa y la polémica baja laboral</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/tabu-menstruacion-medidas-tomadas-europa-polemica-baja-laboral-1064413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/menstruacion-cuestion-personal-importancia-social-no-te-cuentan-2708909.jpg' alt='El tabú de la menstruación, medidas tomadas en Europa y la polémica baja laboral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-etiqueta-dgt-casi-nadie-conoce-1069067'>La nueva etiqueta E de la DGT que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-etiqueta-dgt-casi-nadie-conoce-1069067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-etiqueta-dgt-casi-nadie-conoce-2716097.jpg' alt='La nueva etiqueta E de la DGT que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-aprieta-cinturon-robot-aspirador-marca-lider-sorprendentemente-barato-1067919'>Roomba se aprieta el cinturón: este robot aspirador de la marca líder es sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roomba-aprieta-cinturon-robot-aspirador-marca-lider-sorprendentemente-barato-1067919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/irobot-roomba-e6-2609941.jpg' alt='Roomba se aprieta el cinturón: este robot aspirador de la marca líder es sorprendentemente barato' />
     </a>
 </div>
 
