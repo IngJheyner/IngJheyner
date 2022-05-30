@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2715703.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-sin-codigo-1068729'>Mejores cursos online para aprender desarrollo sin necesidad de código</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-sin-codigo-1068729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-escribiendo-ordenador-camiseta-logo-wordpress-taza-primer-plano-2715491.jpg' alt='Mejores cursos online para aprender desarrollo sin necesidad de código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391'>Descubren que los delfines también usan medicinas para curarse</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descubren-delfines-tambien-usan-medicinas-curarse-2711577.jpg' alt='Descubren que los delfines también usan medicinas para curarse' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743'>Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-mayor-edad-chico-cuenta-experiencia-cumplir-18-anos-2715529.jpg' alt='Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731'>Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-jeff-bezos-bill-gates-perdidas-115000-millones-dolares-2022-1068731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/bill-gates-elon-musk-utilizan-regla-cinco-horas-conoces.jpg' alt='Elon Musk, Jeff Bezos y Bill Gates ya han perdido 115.000 millones de dólares en lo que llevamos de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la misma distancia que el Perseverance en 3 meses</a></h4>
-    <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la misma distancia que el Perseverance en 3 meses' />
     </a>
 </div>
 
