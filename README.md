@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xiaomi-tv-f2-alianza-xiaomi-amazon-lanzar-linea-tvs-fire-os-1068995'>Alianza de Xiaomi con Amazon para lanzar la línea de Xiaomi TV F2 con Fire OS</a></h4>
-    <a href='https://computerhoy.com/noticias/xiaomi-tv-f2-alianza-xiaomi-amazon-lanzar-linea-tvs-fire-os-1068995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716125.jpg' alt='Alianza de Xiaomi con Amazon para lanzar la línea de Xiaomi TV F2 con Fire OS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105'>Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-ballenas-estan-comprando-ahora-millones-tokens-shiba-inu-1069021'>¿Por qué grandes ballenas están comprando ahora millones de tokens Shiba Inu?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-ballenas-estan-comprando-ahora-millones-tokens-shiba-inu-1069021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='¿Por qué grandes ballenas están comprando ahora millones de tokens Shiba Inu?' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2022?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aire-acondicionado-suntec-2426657.jpg' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2022?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/convierte-viejo-ordenador-maquina-pasado-tope-gama-vuelta-amigaos-1069047'>Así se convierte tu viejo ordenador en una máquina del pasado tope de gama: vuelta a AmigaOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/convierte-viejo-ordenador-maquina-pasado-tope-gama-vuelta-amigaos-1069047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amigaos-2716087.jpg' alt='Así se convierte tu viejo ordenador en una máquina del pasado tope de gama: vuelta a AmigaOS' />
+    <h4><a href='https://computerhoy.com/reportajes/life/tabu-menstruacion-medidas-tomadas-europa-polemica-baja-laboral-1064413'>El tabú de la menstruación, medidas tomadas en Europa y la polémica baja laboral</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/tabu-menstruacion-medidas-tomadas-europa-polemica-baja-laboral-1064413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/menstruacion-cuestion-personal-importancia-social-no-te-cuentan-2708909.jpg' alt='El tabú de la menstruación, medidas tomadas en Europa y la polémica baja laboral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015'>Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/always-display-concepto-2715899.jpg' alt='Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14' />
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-etiqueta-dgt-casi-nadie-conoce-1069067'>La nueva etiqueta E de la DGT que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-etiqueta-dgt-casi-nadie-conoce-1069067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nueva-etiqueta-dgt-casi-nadie-conoce-2716097.jpg' alt='La nueva etiqueta E de la DGT que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993'>8 formas de limpiar la rejilla del altavoz de tu smartphone</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/8-formas-limpias-ranuras-altavoz-smartphone-2715873.jpg' alt='8 formas de limpiar la rejilla del altavoz de tu smartphone' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-aprieta-cinturon-robot-aspirador-marca-lider-sorprendentemente-barato-1067919'>Roomba se aprieta el cinturón: este robot aspirador de la marca líder es sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roomba-aprieta-cinturon-robot-aspirador-marca-lider-sorprendentemente-barato-1067919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/irobot-roomba-e6-2609941.jpg' alt='Roomba se aprieta el cinturón: este robot aspirador de la marca líder es sorprendentemente barato' />
     </a>
 </div>
 
