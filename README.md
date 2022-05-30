@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-plantar-arbol-correctamente-1069333'>Cómo plantar un árbol correctamente para que agarren las raíces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-plantar-arbol-correctamente-1069333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-plantar-arbol-correctamente-agarren-raices-2716713.jpg' alt='Cómo plantar un árbol correctamente para que agarren las raíces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329'>El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados</a></h4>
     <a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cuento-criada-libros-censurados-prohibidos-lanza-version-ignifuga-resiste-lanzallamas-1500-grados-2716693.jpg' alt='El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315'>Los increíbles puzzles abstractos de GeoBender (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/increibles-puzzles-abstractos-geobender-2716661.jpg' alt='Los increíbles puzzles abstractos de GeoBender (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311'>Esta fue la primera película de la historia de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Esta fue la primera película de la historia de Netflix' />
     </a>
 </div>
 
