@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939'>La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985'>Qué deberías evitar hacer si no quieres ser baneado en Twitch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/twitch.jpg' alt='Qué deberías evitar hacer si no quieres ser baneado en Twitch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/confinamiento-shangai-punto-acabar-liberando-cadenas-produccion-tecnologicas-1068965'>El confinamiento en Shangai está a punto de acabar, liberando a las cadenas de producción tecnológicas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/confinamiento-shangai-punto-acabar-liberando-cadenas-produccion-tecnologicas-1068965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/entrada-zona-residencial-shangai-china-cerrada-medidas-confinamiento-adoptadas-gobierno-chino-2701393.jpg' alt='El confinamiento en Shangai está a punto de acabar, liberando a las cadenas de producción tecnológicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-google-paso-cerca-recibe-certificacion-llegaria-2023-1068953'>La tablet de Google un paso más cerca: recibe una certificación y llegaría en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-google-paso-cerca-recibe-certificacion-llegaria-2023-1068953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-2699777.jpg' alt='La tablet de Google un paso más cerca: recibe una certificación y llegaría en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943'>El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente</a></h4>
     <a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/central-electrica-carbon-2581019.jpg' alt='El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1500-euros-1068733'>Mejores portátiles gaming de menos de 1.500 euros que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1500-euros-1068733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-jugando-portatil-gaming-auriculares-efectos-iluminacion-rgb-2715523.jpg' alt='Mejores portátiles gaming de menos de 1.500 euros que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2715703.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-sin-codigo-1068729'>Mejores cursos online para aprender desarrollo sin necesidad de código</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-sin-codigo-1068729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-escribiendo-ordenador-camiseta-logo-wordpress-taza-primer-plano-2715491.jpg' alt='Mejores cursos online para aprender desarrollo sin necesidad de código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391'>Descubren que los delfines también usan medicinas para curarse</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descubren-delfines-tambien-usan-medicinas-curarse-2711577.jpg' alt='Descubren que los delfines también usan medicinas para curarse' />
     </a>
 </div>
 
