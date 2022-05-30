@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943'>El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/central-electrica-carbon-2581019.jpg' alt='El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1500-euros-1068733'>Mejores portátiles gaming de menos de 1.500 euros que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-1500-euros-1068733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-jugando-portatil-gaming-auriculares-efectos-iluminacion-rgb-2715523.jpg' alt='Mejores portátiles gaming de menos de 1.500 euros que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1068915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2715703.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391'>Descubren que los delfines también usan medicinas para curarse</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-delfines-tambien-usan-medicinas-curarse-1066391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/descubren-delfines-tambien-usan-medicinas-curarse-2711577.jpg' alt='Descubren que los delfines también usan medicinas para curarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-trucos-superar-habito-deslizar-control-movil-1061519'>6 trucos para superar el hábito de deslizar sin control en el móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-trucos-superar-habito-deslizar-control-movil-1061519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/deslizar-movil-2703011.jpg' alt='6 trucos para superar el hábito de deslizar sin control en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743'>Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-adulto-chico-cuenta-experiencia-cumplir-18-anos-1068743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/madre-paga-1800-dolares-hijo-12-anos-no-usar-redes-sociales-ser-mayor-edad-chico-cuenta-experiencia-cumplir-18-anos-2715529.jpg' alt='Una madre paga 1.800 dólares a su hijo de 12 años por no usar redes sociales, y el chico cuenta su experiencia al cumplir 18 años' />
     </a>
 </div>
 
