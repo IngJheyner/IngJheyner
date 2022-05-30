@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/xiaomi-tv-f2-alianza-xiaomi-amazon-lanzar-linea-tvs-fire-os-1068995'>Alianza de Xiaomi con Amazon para lanzar la línea de Xiaomi TV F2 con Fire OS</a></h4>
+    <a href='https://computerhoy.com/noticias/xiaomi-tv-f2-alianza-xiaomi-amazon-lanzar-linea-tvs-fire-os-1068995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716125.jpg' alt='Alianza de Xiaomi con Amazon para lanzar la línea de Xiaomi TV F2 con Fire OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-ballenas-estan-comprando-ahora-millones-tokens-shiba-inu-1069021'>¿Por qué grandes ballenas están comprando ahora millones de tokens Shiba Inu?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grandes-ballenas-estan-comprando-ahora-millones-tokens-shiba-inu-1069021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='¿Por qué grandes ballenas están comprando ahora millones de tokens Shiba Inu?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/convierte-viejo-ordenador-maquina-pasado-tope-gama-vuelta-amigaos-1069047'>Así se convierte tu viejo ordenador en una máquina del pasado tope de gama: vuelta a AmigaOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/convierte-viejo-ordenador-maquina-pasado-tope-gama-vuelta-amigaos-1069047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amigaos-2716087.jpg' alt='Así se convierte tu viejo ordenador en una máquina del pasado tope de gama: vuelta a AmigaOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015'>Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/always-display-concepto-2715899.jpg' alt='Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993'>8 formas de limpiar la rejilla del altavoz de tu smartphone</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/8-formas-limpias-ranuras-altavoz-smartphone-2715873.jpg' alt='8 formas de limpiar la rejilla del altavoz de tu smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-casi-cuesta-negocio-samsung-1068981'>El error que casi le cuesta el negocio a Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-casi-cuesta-negocio-samsung-1068981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-logo-edificio-1970835.jpg' alt='El error que casi le cuesta el negocio a Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939'>La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985'>Qué deberías evitar hacer si no quieres ser baneado en Twitch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/twitch.jpg' alt='Qué deberías evitar hacer si no quieres ser baneado en Twitch' />
     </a>
 </div>
 
