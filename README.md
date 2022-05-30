@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723'>Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la misma distancia que el Perseverance en 3 meses</a></h4>
     <a href='https://computerhoy.com/noticias/life/helicoptero-ingenuity-marte-record-vuelo-1068723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la distancia que el Perseverance ha avanzado en 3 meses' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/video-muestra-como-helicoptero-ingenuity-marte-recorre-1-minuto-distancia-perseverance-ha-avazando-4-meses-2715473.jpg' alt='Un video muestra cómo el helicóptero Ingenuity de Marte recorre en 3 minutos la misma distancia que el Perseverance en 3 meses' />
     </a>
 </div>
 
