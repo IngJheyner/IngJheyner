@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319'>Mercadona no aprende y recibe una nueva multa por parte de la AEPD</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona no aprende y recibe una nueva multa por parte de la AEPD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315'>Los increíbles puzzles abstractos de GeoBender (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/increibles-puzzles-abstractos-geobender-2716661.jpg' alt='Los increíbles puzzles abstractos de GeoBender (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311'>Esta fue la primera película de la historia de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fue-primera-pelicula-historia-netflix-1069311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Esta fue la primera película de la historia de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-descuento-122-euros-precio-minimo-historico-1069181'>El nuevo Xiaomi 12X recibe un descuento de 122 euros y baja a su precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12x-descuento-122-euros-precio-minimo-historico-1069181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuevo-xiaomi-12x-recibe-descuento-122-euros-baja-precio-minimo-historico-2716399.jpg' alt='El nuevo Xiaomi 12X recibe un descuento de 122 euros y baja a su precio mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279'>Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-disney-hbo-max-todo-llega-junio-dos-plataformas-1069279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934155.jpg' alt='Estrenos Disney+ y HBO Max: esto es todo lo que llega en junio a las dos plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291'>Cómo pasar la noche en el coche sin que te pongan una multa</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dormir-coche-sin-multa-1069291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-pasar-noche-coche-te-pongan-multa-2716611.jpg' alt='Cómo pasar la noche en el coche sin que te pongan una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-triada-gama-alta-llega-carga-rapida-100w-1069247'>Honor 70, 70 Pro y 70 Pro+: así es la triada de gama alta que llega con carga rápida de 100W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-70-pro-70-pro-triada-gama-alta-llega-carga-rapida-100w-1069247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-70-2712439.jpg' alt='Honor 70, 70 Pro y 70 Pro+: así es la triada de gama alta que llega con carga rápida de 100W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/borgen-reino-poder-gloria-estreno-netflix-1069241'>Regresa Borgen, la mítica serie de política estrena secuela en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/borgen-reino-poder-gloria-estreno-netflix-1069241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/regresa-borgen-mitica-serie-politica-estrena-precuela-netflix-2716491.jpg' alt='Regresa Borgen, la mítica serie de política estrena secuela en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233'>Cómo hacer una videollamada Facetime en Windows o Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-videollamada-facetime-windows-android-1069233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/persona-usando-facetime-2505441.jpg' alt='Cómo hacer una videollamada Facetime en Windows o Android' />
     </a>
 </div>
 
