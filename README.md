@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015'>Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-incluira-fin-always-display-pero-solo-modelos-pro-iphone-14-1069015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/always-display-concepto-2715899.jpg' alt='Apple incluirá por fin Always On Display, pero solo en los modelos Pro del iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993'>8 formas de limpiar la rejilla del altavoz de tu smartphone</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-formas-limpiar-rejilla-altavoz-smartphone-1068993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/8-formas-limpias-ranuras-altavoz-smartphone-2715873.jpg' alt='8 formas de limpiar la rejilla del altavoz de tu smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-casi-cuesta-negocio-samsung-1068981'>El error que casi le cuesta el negocio a Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-casi-cuesta-negocio-samsung-1068981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/samsung-logo-edificio-1970835.jpg' alt='El error que casi le cuesta el negocio a Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939'>La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-max-oferta-30-mayo-2022-1067939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg' alt='La mejor oferta en los AirPods Max acaba de llegar: son más baratos que nunca, y en varios colores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985'>Qué deberías evitar hacer si no quieres ser baneado en Twitch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-hacer-no-quieres-ser-baneado-twitch-1068985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/twitch.jpg' alt='Qué deberías evitar hacer si no quieres ser baneado en Twitch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/confinamiento-shangai-punto-acabar-liberando-cadenas-produccion-tecnologicas-1068965'>El confinamiento en Shangai está a punto de acabar, liberando a las cadenas de producción tecnológicas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/confinamiento-shangai-punto-acabar-liberando-cadenas-produccion-tecnologicas-1068965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/entrada-zona-residencial-shangai-china-cerrada-medidas-confinamiento-adoptadas-gobierno-chino-2701393.jpg' alt='El confinamiento en Shangai está a punto de acabar, liberando a las cadenas de producción tecnológicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-google-paso-cerca-recibe-certificacion-llegaria-2023-1068953'>La tablet de Google un paso más cerca: recibe una certificación y llegaría en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-google-paso-cerca-recibe-certificacion-llegaria-2023-1068953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-pixel-tablet-todas-novedades-software-google-i-ano-2699777.jpg' alt='La tablet de Google un paso más cerca: recibe una certificación y llegaría en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943'>El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sistema-captura-carbono-rapido-mundo-reclama-eficiencia-99-aire-ambiente-1068943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/central-electrica-carbon-2581019.jpg' alt='El sistema de captura de carbono más rápido del mundo reclama una eficiencia del 99 % en el aire ambiente' />
     </a>
 </div>
 
