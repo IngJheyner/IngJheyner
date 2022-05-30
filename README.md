@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149'>Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-1069149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-ver-ondas-wifi-realidad-aumentada-hay-app-ello-2716353.jpg' alt='Cómo es ver las ondas WiFi en Realidad Aumentada: hay una app para ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-revienta-mercado-cuesta-poco-35-euros-tiene-9-dias-bateria-1068951'>Este reloj inteligente de Amazfit revienta el mercado: cuesta poco más de 35 euros y tiene 9 días de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-inteligente-amazfit-revienta-mercado-cuesta-poco-35-euros-tiene-9-dias-bateria-1068951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/amazfit-bip-2156809.jpg' alt='Este reloj inteligente de Amazfit revienta el mercado: cuesta poco más de 35 euros y tiene 9 días de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137'>Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos</a></h4>
     <a href='https://computerhoy.com/noticias/life/estado-actual-algunos-lugares-ensayo-nuclear-famosos-1069137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/pasaria-todas-bombas-nucleares-mundo-explotasen-mismo-tiempo.jpg' alt='Este es el estado actual de algunos de los lugares de ensayo nuclear más famosos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131'>Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-modo-conduccion-completamente-autonomo-tesla-podria-llegar-europa-1069131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tesla-conduccion-completamente-autonoma-2716283.jpg' alt='Así funciona el modo de conducción completamente autónomo de Tesla que podría llegar a Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-potente-mundo-amd-superordenador-frontier-1069109'>El ordenador más potente del mundo es de AMD: así es el superordenador Frontier</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-potente-mundo-amd-superordenador-frontier-1069109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg' alt='El ordenador más potente del mundo es de AMD: así es el superordenador Frontier' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105'>Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-caza-galaxy-flip-nuevo-plegable-tipo-clamshell-1069105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Oppo a la caza de los Galaxy Flip con un nuevo plegable tipo clamshell' />
     </a>
 </div>
 
