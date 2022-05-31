@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-1069811'>Así es el sensor Sony IMX800 de 54 Mpx que poblará la gama alta de smartphones en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-1069811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-2717707.jpg' alt='Así es el sensor Sony IMX800 de 54 Mpx que poblará la gama alta de smartphones en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-pantalla-pequena-1069587'>Mejores móviles con pantalla pequeña de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-pantalla-pequena-1069587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/asus-zenfone-8-flip-analisis-opinion-2368423.jpg' alt='Mejores móviles con pantalla pequeña de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795'>Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/unreal-engine-5-ciudad-2717641.jpg' alt='Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-vuelven-inteligentes-irobot-os-1069747'>Las Roomba se vuelven más inteligentes con iRobot OS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roomba-vuelven-inteligentes-irobot-os-1069747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-vuelven-inteligentes-irobot-os-2717583.jpg' alt='Las Roomba se vuelven más inteligentes con iRobot OS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697'>Los mejores sustitutos saludables de la sal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sal-2572499.jpg' alt='Los mejores sustitutos saludables de la sal' />
     </a>
 </div>
 
