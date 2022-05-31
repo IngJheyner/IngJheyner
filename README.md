@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2716857.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-2000-euros-1069269'>Mejores portátiles gaming de menos de 2.000 euros que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-gaming-menos-2000-euros-1069269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/analisis-asus-rog-strix-iii_41.jpg' alt='Mejores portátiles gaming de menos de 2.000 euros que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-plantar-arbol-correctamente-1069333'>Cómo plantar un árbol correctamente para que agarren las raíces</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-plantar-arbol-correctamente-1069333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-plantar-arbol-correctamente-agarren-raices-2716713.jpg' alt='Cómo plantar un árbol correctamente para que agarren las raíces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331'>Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-7-filtrado-2716711.jpg' alt='Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319'>Mercadona no aprende y recibe una nueva multa por parte de la AEPD</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-no-aprende-recibe-nueva-multa-parte-aepd-1069319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona no aprende y recibe una nueva multa por parte de la AEPD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315'>Los increíbles puzzles abstractos de GeoBender (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/geobender-puzzles-abstractos-3d-1069315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/increibles-puzzles-abstractos-geobender-2716661.jpg' alt='Los increíbles puzzles abstractos de GeoBender (vídeo)' />
     </a>
 </div>
 
