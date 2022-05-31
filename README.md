@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745'>HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-earbuds-3-pro-2717535.jpg' alt='HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegan-pluto-tv-tres-nuevos-canales-completar-oferta-televisiva-gratuita-1069729'>Llegan a Pluto TV tres nuevos canales para completar su oferta televisiva gratuita</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/llegan-pluto-tv-tres-nuevos-canales-completar-oferta-televisiva-gratuita-1069729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pluto-tv-2602629.jpg' alt='Llegan a Pluto TV tres nuevos canales para completar su oferta televisiva gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725'>Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/03/33215-samsung-fabrica-procesador-a8-apple.jpg' alt='Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675'>Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689'>Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-2717377.jpg' alt='Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-desmiente-7-mitos-populares-comidas-mascotas-1069657'>La OCU desmiente 7 mitos populares sobre las comidas para mascotas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-desmiente-7-mitos-populares-comidas-mascotas-1069657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ocu-desmiente-7-mitos-populares-comidas-mascotas-2717367.jpg' alt='La OCU desmiente 7 mitos populares sobre las comidas para mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631'>Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-averia-2579857.jpg' alt='Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649'>El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/creador-dogecoin-jackson-palmer-2715851.jpg' alt='El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”' />
     </a>
 </div>
 
