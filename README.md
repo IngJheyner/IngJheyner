@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615'>Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/silla-oficina-2274069.jpg' alt='Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607'>Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/phison-ssd-2717193.jpg' alt='Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-terminos-ciberseguridad-suelen-confundir-debes-conocer-1069569'>12 términos de ciberseguridad que se suelen confundir y que debes conocer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/12-terminos-ciberseguridad-suelen-confundir-debes-conocer-1069569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg' alt='12 términos de ciberseguridad que se suelen confundir y que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527'>El coste real de crear una criptomoneda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='El coste real de crear una criptomoneda' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553'>Estas son las características que Microsoft está quitando de Excel porque nadie las usa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-excel-2360031.jpg' alt='Estas son las características que Microsoft está quitando de Excel porque nadie las usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprovechate-oferta-patinete-xiaomi-mi-electric-scooter-pro-2-ahora-cuesta-499eu-estas-tiendas-1069029'>Aprovéchate de esta oferta: el patinete Xiaomi Mi Electric Scooter Pro 2 ahora cuesta 499€ en estas tiendas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aprovechate-oferta-patinete-xiaomi-mi-electric-scooter-pro-2-ahora-cuesta-499eu-estas-tiendas-1069029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-electric-scooter-pro-2-459eu-2715905.jpg' alt='Aprovéchate de esta oferta: el patinete Xiaomi Mi Electric Scooter Pro 2 ahora cuesta 499€ en estas tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnologia-inteligencia-artificial-han-tenis-entrenamientos-partidos-1069563'>La tecnología y la inteligencia artificial han revolucionado el mundo del tenis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnologia-inteligencia-artificial-han-tenis-entrenamientos-partidos-1069563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/open-australia-tenis.jpg' alt='La tecnología y la inteligencia artificial han revolucionado el mundo del tenis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuanto-tiempo-puede-estar-congelador-alimento-estropearse-1069511'>Cuánto tiempo puede estar en el congelador un alimento sin estropearse</a></h4>
-    <a href='https://computerhoy.com/noticias/cuanto-tiempo-puede-estar-congelador-alimento-estropearse-1069511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/comprar-frigorifico-2044433.jpg' alt='Cuánto tiempo puede estar en el congelador un alimento sin estropearse' />
     </a>
 </div>
 
