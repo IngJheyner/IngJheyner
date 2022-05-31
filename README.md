@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697'>Los mejores sustitutos saludables de la sal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sal-2572499.jpg' alt='Los mejores sustitutos saludables de la sal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-1069713'>El realme GT Neo 3 se ha dejado ver antes de su presentación oficial: MediaTek Dimensity 8100 y carga rápida de 150 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-1069713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-2717537.jpg' alt='El realme GT Neo 3 se ha dejado ver antes de su presentación oficial: MediaTek Dimensity 8100 y carga rápida de 150 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745'>HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-earbuds-3-pro-2717535.jpg' alt='HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725'>Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/03/33215-samsung-fabrica-procesador-a8-apple.jpg' alt='Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675'>Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689'>Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-2717377.jpg' alt='Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador' />
     </a>
 </div>
 
