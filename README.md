@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/samsung-galaxy-s10e-analisis-opinion_0.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2716857.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329'>El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados</a></h4>
     <a href='https://computerhoy.com/noticias/life/el-cuento-de-la-criada-libros-censurados-prohibidos-edicion-ignifuga-1069329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cuento-criada-libros-censurados-prohibidos-lanza-version-ignifuga-resiste-lanzallamas-1500-grados-2716693.jpg' alt='El Cuento de la Criada, uno de los libros más censurados y prohibidos, lanza una edición ignífuga que resiste un lanzallamas a 1.500 grados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331'>Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prototipo-proximo-google-pixel-7-ha-aparecido-venta-ebay-1069331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pixel-7-filtrado-2716711.jpg' alt='Un prototipo del próximo Google Pixel 7 ha aparecido a la venta en eBay' />
     </a>
 </div>
 
