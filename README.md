@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un robot que empuja una silla de ruedas a una cabra de transporte</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un robot que empuja una silla de ruedas a una cabra de transporte' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)' />
     </a>
 </div>
 
