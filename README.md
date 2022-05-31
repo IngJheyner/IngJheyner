@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un robot que empuja una silla de ruedas a una cabra de transporte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un robot que empuja una silla de ruedas a una cabra de transporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/experta-cuidadora-viraliza-truco-dormir-ninos-pequenos-pocos-minutos-1069879'>Experta cuidadora viraliza su truco para dormir a niños pequeños en pocos minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/experta-cuidadora-viraliza-truco-dormir-ninos-pequenos-pocos-minutos-1069879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-cama-2717841.jpg' alt='Experta cuidadora viraliza su truco para dormir a niños pequeños en pocos minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877'>Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuki-smart-lock-30-cerrojo-inteligente-descuento-1069763'>Nuki Smart Lock 3.0, el cerrojo inteligente para abrir la puerta de casa con el móvil, que no necesita instalación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuki-smart-lock-30-cerrojo-inteligente-descuento-1069763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuki-smart-lock-30-cerrojo-inteligente-abrir-puerta-casa-movil-no-necesita-instalacion-2717551.jpg' alt='Nuki Smart Lock 3.0, el cerrojo inteligente para abrir la puerta de casa con el móvil, que no necesita instalación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/afirman-plan-netflix-cobrar-compartir-cuentas-autentico-desastre-1069845'>Afirman que el plan de Netflix para cobrar por compartir cuentas es un auténtico desastre</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/afirman-plan-netflix-cobrar-compartir-cuentas-autentico-desastre-1069845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Afirman que el plan de Netflix para cobrar por compartir cuentas es un auténtico desastre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ley-servicios-atencion-clientela-1069865'>El Gobierno prepara una ley que terminará con los contestadores automáticos en los servicios de atención al cliente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ley-servicios-atencion-clientela-1069865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gobierno-prepara-ley-terminara-contestadores-automaticos-servicios-atencion-cliente-2717805.jpg' alt='El Gobierno prepara una ley que terminará con los contestadores automáticos en los servicios de atención al cliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-surface-laptop-go-2-renovacion-portatil-economico-microsoft-1069831'>Cómo es Surface Laptop Go 2, la renovación del portátil económico de Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-surface-laptop-go-2-renovacion-portatil-economico-microsoft-1069831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-surface-laptop-go-2542187.jpg' alt='Cómo es Surface Laptop Go 2, la renovación del portátil económico de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-paramount-plus-1069785'>Las series que están triunfando en Paramount+: muchas seguro que te suenan</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-paramount-plus-1069785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-estan-triunfando-paramount-muchas-seguro-te-suenan-2717603.jpg' alt='Las series que están triunfando en Paramount+: muchas seguro que te suenan' />
     </a>
 </div>
 
