@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527'>El coste real de crear una criptomoneda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='El coste real de crear una criptomoneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553'>Estas son las características que Microsoft está quitando de Excel porque nadie las usa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-excel-2360031.jpg' alt='Estas son las características que Microsoft está quitando de Excel porque nadie las usa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aprovechate-oferta-patinete-xiaomi-mi-electric-scooter-pro-2-ahora-cuesta-499eu-estas-tiendas-1069029'>Aprovéchate de esta oferta: el patinete Xiaomi Mi Electric Scooter Pro 2 ahora cuesta 499€ en estas tiendas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aprovechate-oferta-patinete-xiaomi-mi-electric-scooter-pro-2-ahora-cuesta-499eu-estas-tiendas-1069029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-electric-scooter-pro-2-459eu-2715905.jpg' alt='Aprovéchate de esta oferta: el patinete Xiaomi Mi Electric Scooter Pro 2 ahora cuesta 499€ en estas tiendas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cuanto-tiempo-puede-estar-congelador-alimento-estropearse-1069511'>Cuánto tiempo puede estar en el congelador un alimento sin estropearse</a></h4>
     <a href='https://computerhoy.com/noticias/cuanto-tiempo-puede-estar-congelador-alimento-estropearse-1069511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/comprar-frigorifico-2044433.jpg' alt='Cuánto tiempo puede estar en el congelador un alimento sin estropearse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/samsung-galaxy-s10e-analisis-opinion_0.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1069489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2716857.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
