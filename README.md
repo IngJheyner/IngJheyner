@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827'>Como evitar que el helado casero tenga cristales de hielo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-evitar-helado-casero-tenga-cristales-hielo-2717701.jpg' alt='Como evitar que el helado casero tenga cristales de hielo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891'>Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-podcast-dejan-funcionar-porque-spotify-olvido-renovar-certificado-2717881.jpg' alt='Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877'>Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuki-smart-lock-30-cerrojo-inteligente-descuento-1069763'>Nuki Smart Lock 3.0, el cerrojo inteligente para abrir la puerta de casa con el móvil, que no necesita instalación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuki-smart-lock-30-cerrojo-inteligente-descuento-1069763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nuki-smart-lock-30-cerrojo-inteligente-abrir-puerta-casa-movil-no-necesita-instalacion-2717551.jpg' alt='Nuki Smart Lock 3.0, el cerrojo inteligente para abrir la puerta de casa con el móvil, que no necesita instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/afirman-plan-netflix-cobrar-compartir-cuentas-autentico-desastre-1069845'>Afirman que el plan de Netflix para cobrar por compartir cuentas es un auténtico desastre</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/afirman-plan-netflix-cobrar-compartir-cuentas-autentico-desastre-1069845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/seran-anuncios-netflix-2715375.jpg' alt='Afirman que el plan de Netflix para cobrar por compartir cuentas es un auténtico desastre' />
     </a>
 </div>
 
