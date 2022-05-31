@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631'>Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-averia-2579857.jpg' alt='Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649'>El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/creador-dogecoin-jackson-palmer-2715851.jpg' alt='El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-smart-tv-5000a-oferta-31-mayo-2022-1069583'>Hemos probado esta baratísima Smart TV de 50 pulgadas y ahora está en oferta en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nokia-smart-tv-5000a-oferta-31-mayo-2022-1069583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-2711249.jpg' alt='Hemos probado esta baratísima Smart TV de 50 pulgadas y ahora está en oferta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615'>Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido</a></h4>
     <a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/silla-oficina-2274069.jpg' alt='Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607'>Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/phison-ssd-2717193.jpg' alt='Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-terminos-ciberseguridad-suelen-confundir-debes-conocer-1069569'>12 términos de ciberseguridad que se suelen confundir y que debes conocer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/12-terminos-ciberseguridad-suelen-confundir-debes-conocer-1069569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg' alt='12 términos de ciberseguridad que se suelen confundir y que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527'>El coste real de crear una criptomoneda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coste-real-crear-criptomoneda-1069527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='El coste real de crear una criptomoneda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553'>Estas son las características que Microsoft está quitando de Excel porque nadie las usa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-caracteristicas-microsoft-quitando-excel-porque-nadie-usa-1069553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-excel-2360031.jpg' alt='Estas son las características que Microsoft está quitando de Excel porque nadie las usa' />
     </a>
 </div>
 
