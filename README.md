@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-surface-laptop-go-2-renovacion-portatil-economico-microsoft-1069831'>Cómo es Surface Laptop Go 2, la renovación del portátil económico de Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-surface-laptop-go-2-renovacion-portatil-economico-microsoft-1069831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-surface-laptop-go-2542187.jpg' alt='Cómo es Surface Laptop Go 2, la renovación del portátil económico de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-paramount-plus-1069785'>Las series que están triunfando en Paramount+: muchas seguro que te suenan</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-paramount-plus-1069785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/series-estan-triunfando-paramount-muchas-seguro-te-suenan-2717603.jpg' alt='Las series que están triunfando en Paramount+: muchas seguro que te suenan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-1069811'>Así es el sensor Sony IMX800 de 54 Mpx que poblará la gama alta de smartphones en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-1069811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sensor-sony-imx800-54-mpx-poblara-gama-alta-smartphones-2022-2717707.jpg' alt='Así es el sensor Sony IMX800 de 54 Mpx que poblará la gama alta de smartphones en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-buscar-reemplazar-palabras-word-1069805'>Cómo buscar y reemplazar palabras en Word</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-buscar-reemplazar-palabras-word-1069805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo buscar y reemplazar palabras en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795'>Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/unreal-engine-5-ciudad-2717641.jpg' alt='Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad' />
     </a>
 </div>
 
