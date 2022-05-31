@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795'>Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/unreal-engine-5-ciudad-2717641.jpg' alt='Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-vuelven-inteligentes-irobot-os-1069747'>Las Roomba se vuelven más inteligentes con iRobot OS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roomba-vuelven-inteligentes-irobot-os-1069747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/roomba-vuelven-inteligentes-irobot-os-2717583.jpg' alt='Las Roomba se vuelven más inteligentes con iRobot OS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697'>Los mejores sustitutos saludables de la sal</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sal-2572499.jpg' alt='Los mejores sustitutos saludables de la sal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745'>HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-earbuds-3-pro-2717535.jpg' alt='HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llegan-pluto-tv-tres-nuevos-canales-completar-oferta-televisiva-gratuita-1069729'>Llegan a Pluto TV tres nuevos canales para completar su oferta televisiva gratuita</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/llegan-pluto-tv-tres-nuevos-canales-completar-oferta-televisiva-gratuita-1069729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pluto-tv-2602629.jpg' alt='Llegan a Pluto TV tres nuevos canales para completar su oferta televisiva gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725'>Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-display-abandonara-produccion-paneles-lcd-centrara-produccion-oled-qled-1069725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/03/33215-samsung-fabrica-procesador-a8-apple.jpg' alt='Samsung Display abandonará la producción de paneles LCD y se centrará en producción OLED y QLED' />
     </a>
 </div>
 
