@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-buscar-reemplazar-palabras-word-1069805'>Cómo buscar y reemplazar palabras en Word</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-buscar-reemplazar-palabras-word-1069805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo buscar y reemplazar palabras en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795'>Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/han-recreado-ciudad-unreal-engine-5-imposible-diferenciarla-verdad-1069795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/unreal-engine-5-ciudad-2717641.jpg' alt='Han recreado una ciudad con Unreal Engine 5 y es imposible diferenciarla de una de verdad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697'>Los mejores sustitutos saludables de la sal</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-sal-1069697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/sal-2572499.jpg' alt='Los mejores sustitutos saludables de la sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-1069713'>El realme GT Neo 3 se ha dejado ver antes de su presentación oficial: MediaTek Dimensity 8100 y carga rápida de 150 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-1069713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-gt-neo-3-ha-dejado-ver-antes-presentacion-oficial-mediatek-dimensity-8100-carga-rapida-150-w-2717537.jpg' alt='El realme GT Neo 3 se ha dejado ver antes de su presentación oficial: MediaTek Dimensity 8100 y carga rápida de 150 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745'>HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-earbuds-3-pro-ya-disponibles-espana-carga-rapida-5c-cancelacion-ruido-activa-1069745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-earbuds-3-pro-2717535.jpg' alt='HONOR Earbuds 3 Pro ya disponibles en España: carga rápida 5C y cancelación de ruido activa' />
     </a>
 </div>
 
