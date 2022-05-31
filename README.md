@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675'>Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/philips-monitors-presenta-dos-nuevos-monitores-gaming-linea-momentum-1069675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/philips-288e2uae-2585181.jpg' alt='Philips Monitors presenta dos nuevos monitores gaming de la línea Momentum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689'>Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-1069689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/refresca-experiencia-teletrabajo-minienfriador-aire-lidl-puedes-conectar-ordenador-2717377.jpg' alt='Refresca tu experiencia de teletrabajo con el minienfriador de aire de LIDL que puedes conectar al ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-desmiente-7-mitos-populares-comidas-mascotas-1069657'>La OCU desmiente 7 mitos populares sobre las comidas para mascotas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-desmiente-7-mitos-populares-comidas-mascotas-1069657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ocu-desmiente-7-mitos-populares-comidas-mascotas-2717367.jpg' alt='La OCU desmiente 7 mitos populares sobre las comidas para mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631'>Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/motor/averias-muy-costosas-ir-demasiado-lento-carretera-ahorrar-gasolina-1069631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/coche-averia-2579857.jpg' alt='Averías muy costosas por ir demasiado lento en carretera para ahorrar gasolina' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649'>El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creador-dogecoin-ataca-elon-musk-no-corta-criptomonedas-son-mierda-1069649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/creador-dogecoin-jackson-palmer-2715851.jpg' alt='El creador de Dogecoin ataca a Elon Musk y no se corta: “las criptomonedas son una mierda”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-smart-tv-5000a-oferta-31-mayo-2022-1069583'>Hemos probado esta baratísima Smart TV de 50 pulgadas y ahora está en oferta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nokia-smart-tv-5000a-oferta-31-mayo-2022-1069583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-2711249.jpg' alt='Hemos probado esta baratísima Smart TV de 50 pulgadas y ahora está en oferta en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615'>Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trabajar-4-dias-semana-mismo-sueldo-prueba-reino-unido-1069615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/silla-oficina-2274069.jpg' alt='Trabajar 4 días a la semana por el mismo sueldo a prueba en Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607'>Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/phison-lanza-ssd-pcie-50-alcanza-velocidades-12-gbps-1069607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/phison-ssd-2717193.jpg' alt='Phison lanza un SSD por PCIe 5.0 que alcanza velocidades de 12 Gbps' />
     </a>
 </div>
 
