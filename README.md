@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-minusculas-mayusculas-word-1070443'>Cómo cambiar de minúsculas a mayúsculas en Word</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-minusculas-mayusculas-word-1070443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Cómo cambiar de minúsculas a mayúsculas en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-tiene-claro-smartphones-acabaran-camaras-dslr-antes-esperado-1070425'>Sony lo tiene claro: los smartphones acabarán con las cámaras DSLR antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-tiene-claro-smartphones-acabaran-camaras-dslr-antes-esperado-1070425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony lo tiene claro: los smartphones acabarán con las cámaras DSLR antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-tienes-instalar-movil-android-quieres-ser-dj-1069613'>Las mejores aplicaciones que tienes que instalar en tu móvil Android si quieres ser DJ</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-tienes-instalar-movil-android-quieres-ser-dj-1069613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-aplicaciones-tienes-instalar-movil-andoid-quieres-ser-dj-2717277.jpg' alt='Las mejores aplicaciones que tienes que instalar en tu móvil Android si quieres ser DJ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-poner-google-espanol-284693'>Cómo poner Google en español en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-poner-google-espanol-284693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cómo poner Google en español en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/envasadora-al-vacio'>Consejos y guía si quieres comprar una envasadora al vacío en 2022 para conservar mejor los alimentos</a></h4>
     <a href='https://computerhoy.com/guia-compra/envasadora-al-vacio' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/envasadora-vacio-2718627.jpg' alt='Consejos y guía si quieres comprar una envasadora al vacío en 2022 para conservar mejor los alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quien-realmente-banksy-teorias-creibles-identidad-1070195'>Quién es realmente Banksy: las teorías más creíbles sobre su identidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quien-realmente-banksy-teorias-creibles-identidad-1070195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/quien-realmente-banksy-teorias-creibles-identidad-2718275.jpg' alt='Quién es realmente Banksy: las teorías más creíbles sobre su identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-ha-generado-voz-val-kilmer-nueva-pelicula-topgun-1070397'>La Inteligencia Artificial que ha generado la voz de Val Kilmer en la nueva película de TopGun </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-ha-generado-voz-val-kilmer-nueva-pelicula-topgun-1070397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-ha-generado-voz-val-kilmer-nueva-pelicula-topgun-2718595.jpg' alt='La Inteligencia Artificial que ha generado la voz de Val Kilmer en la nueva película de TopGun ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-tipo-impresion-3d-base-ondas-sonoras-1070313'>Así funciona el nuevo tipo de impresión 3D a base de ondas sonoras </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-tipo-impresion-3d-base-ondas-sonoras-1070313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/impresion-3d_0.jpg' alt='Así funciona el nuevo tipo de impresión 3D a base de ondas sonoras ' />
     </a>
 </div>
 
