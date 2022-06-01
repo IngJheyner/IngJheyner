@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431'>La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/silla-gaming-ikea-matchspel-recibe-rara-rebaja-70-euros-2718643.jpg' alt='La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-productos-estrella-verano-nadie-entiende-1070527'>Mercadona retira uno de sus productos estrella para el verano y nadie lo entiende</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-retira-productos-estrella-verano-nadie-entiende-1070527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gazpacho-2718919.jpg' alt='Mercadona retira uno de sus productos estrella para el verano y nadie lo entiende' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409'>Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-office-2363955.jpg' alt='Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525'>5 códigos poco conocidos que tienen muchos carnets de conducir, y que mucha gente no sabe qué significan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/fase-3-puede-renovar-carnet-conducir-1967863.jpg' alt='5 códigos poco conocidos que tienen muchos carnets de conducir, y que mucha gente no sabe qué significan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/analisis-favoritos-tecnologia-videojuegos-mayo-1070463'>Nuestros análisis favoritos de tecnología y videojuegos en mayo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/analisis-favoritos-tecnologia-videojuegos-mayo-1070463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-analisis-mayo-2718685.jpg' alt='Nuestros análisis favoritos de tecnología y videojuegos en mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filmin-the-kingdom-exodus-1070481'>Filmin se hace con una de las series que más dará qué hablar en los próximos meses</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/filmin-the-kingdom-exodus-1070481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filmin-hace-series-dara-hablar-proximos-meses-2718791.jpg' alt='Filmin se hace con una de las series que más dará qué hablar en los próximos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fujifilm-x-h2s-bestia-sensor-aps-c-capaz-grabar-62k-rafagas-40-fps-1070407'>Fujifilm X-H2S: una bestia con sensor APS-C capaz de grabar a 6.2K y con ráfagas de 40 fps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fujifilm-x-h2s-bestia-sensor-aps-c-capaz-grabar-62k-rafagas-40-fps-1070407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fujifilm-x-h2s-bestia-sensor-aps-c-capaz-grabar-62k-rafagas-40fps-2718613.jpg' alt='Fujifilm X-H2S: una bestia con sensor APS-C capaz de grabar a 6.2K y con ráfagas de 40 fps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-samsung-galaxy-z-flip-4-no-sera-gama-alta-fotografico-esperado-1070371'>Se filtran más especificaciones del Samsung Galaxy Z Flip 4 y no será el gama alta fotográfico esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-samsung-galaxy-z-flip-4-no-sera-gama-alta-fotografico-esperado-1070371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486995.jpg' alt='Se filtran más especificaciones del Samsung Galaxy Z Flip 4 y no será el gama alta fotográfico esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-android-actualizaciones-largo-plazo-1070331'>Móviles Android con actualizaciones a largo plazo: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-android-actualizaciones-largo-plazo-1070331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Móviles Android con actualizaciones a largo plazo: estos son los mejores' />
     </a>
 </div>
 
