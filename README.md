@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-te-ayuda-preparar-proxima-entrevista-trabajo-interview-warmup-1070305'>Google te ayuda a preparar tu próxima entrevista de trabajo con Interview Warmup</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-te-ayuda-preparar-proxima-entrevista-trabajo-interview-warmup-1070305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg' alt='Google te ayuda a preparar tu próxima entrevista de trabajo con Interview Warmup' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241'>Los 10 descubrimientos científicos más impresionantes en mayo de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/espacio-2475711.jpg' alt='Los 10 descubrimientos científicos más impresionantes en mayo de 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181'>Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225'>La función escondida de Google Chrome que puede sacarte de más de un apuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-google-chrome-2406123.jpg' alt='La función escondida de Google Chrome que puede sacarte de más de un apuro' />
     </a>
 </div>
 
