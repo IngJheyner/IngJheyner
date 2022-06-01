@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827'>Como evitar que el helado casero tenga cristales de hielo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827'>Cómo evitar que el helado casero tenga cristales de hielo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-evitar-helado-casero-tenga-cristales-hielo-2717701.jpg' alt='Como evitar que el helado casero tenga cristales de hielo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-evitar-helado-casero-tenga-cristales-hielo-2717701.jpg' alt='Cómo evitar que el helado casero tenga cristales de hielo' />
     </a>
 </div>
 
