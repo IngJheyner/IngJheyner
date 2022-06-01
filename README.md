@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241'>Los 10 descubrimientos científicos más impresionantes en mayo de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/espacio-2475711.jpg' alt='Los 10 descubrimientos científicos más impresionantes en mayo de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-amazon-echo-fire-tv-kindle-junio-2022-1070215'>Amazon ha rebajado todos estos Echo, Fire TV y Kindle a precios propios de Black Friday</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ofertas-amazon-echo-fire-tv-kindle-junio-2022-1070215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297215.jpg' alt='Amazon ha rebajado todos estos Echo, Fire TV y Kindle a precios propios de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-nos-avisa-adelantado-viene-asteroide-directo-tierra-puro-estilo-armageddon-1070231'>El sistema que nos avisa por adelantado si viene un asteroide directo a la Tierra al más puro estilo Armageddon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sistema-nos-avisa-adelantado-viene-asteroide-directo-tierra-puro-estilo-armageddon-1070231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='El sistema que nos avisa por adelantado si viene un asteroide directo a la Tierra al más puro estilo Armageddon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181'>Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225'>La función escondida de Google Chrome que puede sacarte de más de un apuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-google-chrome-2406123.jpg' alt='La función escondida de Google Chrome que puede sacarte de más de un apuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sucede-realidad-frontera-universo-1070175'>Lo que sucede en realidad en la frontera del Universo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sucede-realidad-frontera-universo-1070175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/universos-paralelos-no-son-solo-cosa-ciencia-ficcion-nuevo-estudio-cientifico-2486569.jpg' alt='Lo que sucede en realidad en la frontera del Universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-cinco-coches-rompen-mercado-pantallas-gigantes-no-va-ahora-1057939'>Estos cinco coches rompen el mercado con sus pantallas gigantes. El no va más... por ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-cinco-coches-rompen-mercado-pantallas-gigantes-no-va-ahora-1057939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercedes-revela-hyperscreen-gigantesca-pantalla-56-pulgadas-cubrira-todo-salpicadero-coches-2190435.jpg' alt='Estos cinco coches rompen el mercado con sus pantallas gigantes. El no va más... por ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-seis-nuevos-relojes-deportistas-corredores-nuevos-forerunner-255-955-1070147'>Garmin lanza seis nuevos relojes para deportistas y corredores, los nuevos Forerunner 255 y 955</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-seis-nuevos-relojes-deportistas-corredores-nuevos-forerunner-255-955-1070147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/garmin-forerunner-945-2706921.jpg' alt='Garmin lanza seis nuevos relojes para deportistas y corredores, los nuevos Forerunner 255 y 955' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191'>Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stranger-things-4-2674239.jpg' alt='Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno' />
     </a>
 </div>
 
