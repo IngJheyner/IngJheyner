@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt3-pro-freebuds-4-scale-3-1-junio-2022-1070329'>Chollo en Huawei: llévate este reloj inteligente Huawei Watch GT3 Pro, auriculares FreeBuds 4 y báscula Scale 3 por 369€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt3-pro-freebuds-4-scale-3-1-junio-2022-1070329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-huawei-watch-gt-3-pro-2705191.jpg' alt='Chollo en Huawei: llévate este reloj inteligente Huawei Watch GT3 Pro, auriculares FreeBuds 4 y báscula Scale 3 por 369€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-explorer-master-edition-filtra-completo-panel-oled-procesador-snapdragon-8-gen-1-1070361'>El realme GT 2 Explorer Master Edition se filtra al completo: panel OLED y procesador Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-explorer-master-edition-filtra-completo-panel-oled-procesador-snapdragon-8-gen-1-1070361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-review-realme-gt-explorer-2442351.jpg' alt='El realme GT 2 Explorer Master Edition se filtra al completo: panel OLED y procesador Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-10-mejores-apps-windows-microsoft-son-todas-gratis-1070335'>Estas son las 10 mejores apps para Windows según Microsoft y son todas gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-10-mejores-apps-windows-microsoft-son-todas-gratis-1070335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-2633899.jpg' alt='Estas son las 10 mejores apps para Windows según Microsoft y son todas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/7-errores-evitar-quieres-sacar-maximo-rendimiento-portatil-gaming-1070299'>Los 7 errores que evitar si quieres sacar el máximo rendimiento a tu portátil gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/7-errores-evitar-quieres-sacar-maximo-rendimiento-portatil-gaming-1070299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-jugando-portatil-gaming-auriculares-efectos-iluminacion-rgb-2715523.jpg' alt='Los 7 errores que evitar si quieres sacar el máximo rendimiento a tu portátil gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-te-ayuda-preparar-proxima-entrevista-trabajo-interview-warmup-1070305'>Google te ayuda a preparar tu próxima entrevista de trabajo con Interview Warmup</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-te-ayuda-preparar-proxima-entrevista-trabajo-interview-warmup-1070305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg' alt='Google te ayuda a preparar tu próxima entrevista de trabajo con Interview Warmup' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241'>Los 10 descubrimientos científicos más impresionantes en mayo de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-descubrimientos-cientificos-impresionantes-mayo-2022-1070241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/espacio-2475711.jpg' alt='Los 10 descubrimientos científicos más impresionantes en mayo de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ofertas-amazon-echo-fire-tv-kindle-junio-2022-1070215'>Amazon ha rebajado todos estos Echo, Fire TV y Kindle a precios propios de Black Friday</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ofertas-amazon-echo-fire-tv-kindle-junio-2022-1070215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-echo-show-10-2297215.jpg' alt='Amazon ha rebajado todos estos Echo, Fire TV y Kindle a precios propios de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sistema-nos-avisa-adelantado-viene-asteroide-directo-tierra-puro-estilo-armageddon-1070231'>El sistema que nos avisa por adelantado si viene un asteroide directo a la Tierra al más puro estilo Armageddon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sistema-nos-avisa-adelantado-viene-asteroide-directo-tierra-puro-estilo-armageddon-1070231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/asteroide-choca-tierra-2235269.jpg' alt='El sistema que nos avisa por adelantado si viene un asteroide directo a la Tierra al más puro estilo Armageddon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181'>Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/safari-ya-tiene-1000-millones-usuarios-saca-distancia-edge-1070181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/safari-1943747.jpg' alt='Safari ya tiene más de 1.000 millones de usuarios y saca distancia a Edge' />
     </a>
 </div>
 
