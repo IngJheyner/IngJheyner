@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-poner-google-espanol-284693'>Cómo poner Google en español en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-poner-google-espanol-284693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cómo poner Google en español en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/envasadora-al-vacio'>Consejos y guía si quieres comprar una envasadora al vacío en 2022 para conservar mejor los alimentos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/envasadora-al-vacio' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/envasadora-vacio-2718627.jpg' alt='Consejos y guía si quieres comprar una envasadora al vacío en 2022 para conservar mejor los alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quien-realmente-banksy-teorias-creibles-identidad-1070195'>Quién es realmente Banksy: las teorías más creíbles sobre su identidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-realmente-banksy-teorias-creibles-identidad-1070195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/quien-realmente-banksy-teorias-creibles-identidad-2718275.jpg' alt='Quién es realmente Banksy: las teorías más creíbles sobre su identidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-tipo-impresion-3d-base-ondas-sonoras-1070313'>Así funciona el nuevo tipo de impresión 3D a base de ondas sonoras </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-tipo-impresion-3d-base-ondas-sonoras-1070313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/impresion-3d_0.jpg' alt='Así funciona el nuevo tipo de impresión 3D a base de ondas sonoras ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-dice-no-teletrabajo-tesla-todos-oficina-1070365'>Elon Musk dice NO al teletrabajo en Tesla, todos a la oficina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-dice-no-teletrabajo-tesla-todos-oficina-1070365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cinco-predicciones-elon-musk-2577313.jpg' alt='Elon Musk dice NO al teletrabajo en Tesla, todos a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt3-pro-freebuds-4-scale-3-1-junio-2022-1070329'>Chollo en Huawei: llévate este reloj inteligente Huawei Watch GT3 Pro, auriculares FreeBuds 4 y báscula Scale 3 por 369€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt3-pro-freebuds-4-scale-3-1-junio-2022-1070329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-huawei-watch-gt-3-pro-2705191.jpg' alt='Chollo en Huawei: llévate este reloj inteligente Huawei Watch GT3 Pro, auriculares FreeBuds 4 y báscula Scale 3 por 369€' />
     </a>
 </div>
 
