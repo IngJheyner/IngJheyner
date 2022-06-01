@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-2717689.jpg' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2718123.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891'>Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-podcast-dejan-funcionar-porque-spotify-olvido-renovar-certificado-2717881.jpg' alt='Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)' />
     </a>
 </div>
 
