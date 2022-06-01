@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435'>El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533'>¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431'>La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/silla-gaming-ikea-matchspel-recibe-rara-rebaja-70-euros-2718643.jpg' alt='La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409'>Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-office-2363955.jpg' alt='Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525'>5 códigos poco conocidos que tienen muchos carnets de conducir, y que mucha gente no sabe qué significan</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/fase-3-puede-renovar-carnet-conducir-1967863.jpg' alt='5 códigos poco conocidos que tienen muchos carnets de conducir, y que mucha gente no sabe qué significan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/analisis-favoritos-tecnologia-videojuegos-mayo-1070463'>Nuestros análisis favoritos de tecnología y videojuegos en mayo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/analisis-favoritos-tecnologia-videojuegos-mayo-1070463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-analisis-mayo-2718685.jpg' alt='Nuestros análisis favoritos de tecnología y videojuegos en mayo' />
     </a>
 </div>
 
