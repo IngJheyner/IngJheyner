@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225'>La función escondida de Google Chrome que puede sacarte de más de un apuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-google-chrome-puede-sacarte-apuro-1070225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-google-chrome-2406123.jpg' alt='La función escondida de Google Chrome que puede sacarte de más de un apuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sucede-realidad-frontera-universo-1070175'>Lo que sucede en realidad en la frontera del Universo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sucede-realidad-frontera-universo-1070175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/universos-paralelos-no-son-solo-cosa-ciencia-ficcion-nuevo-estudio-cientifico-2486569.jpg' alt='Lo que sucede en realidad en la frontera del Universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-cinco-coches-rompen-mercado-pantallas-gigantes-no-va-ahora-1057939'>Estos cinco coches rompen el mercado con sus pantallas gigantes. El no va más... por ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-cinco-coches-rompen-mercado-pantallas-gigantes-no-va-ahora-1057939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mercedes-revela-hyperscreen-gigantesca-pantalla-56-pulgadas-cubrira-todo-salpicadero-coches-2190435.jpg' alt='Estos cinco coches rompen el mercado con sus pantallas gigantes. El no va más... por ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-seis-nuevos-relojes-deportistas-corredores-nuevos-forerunner-255-955-1070147'>Garmin lanza seis nuevos relojes para deportistas y corredores, los nuevos Forerunner 255 y 955</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-lanza-seis-nuevos-relojes-deportistas-corredores-nuevos-forerunner-255-955-1070147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/garmin-forerunner-945-2706921.jpg' alt='Garmin lanza seis nuevos relojes para deportistas y corredores, los nuevos Forerunner 255 y 955' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191'>Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stranger-things-4-2674239.jpg' alt='Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-editar-mensajes-whatsapp-despues-enviar-como-telegram-hace-anos-1070131'>Podrás editar mensajes en WhatsApp después de enviar, como en Telegram desde hace años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podras-editar-mensajes-whatsapp-despues-enviar-como-telegram-hace-anos-1070131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Podrás editar mensajes en WhatsApp después de enviar, como en Telegram desde hace años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-2717689.jpg' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2718123.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665'>Escuchar radio online: mejores dispositivos para hacerlo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microcadena-grundig-2717449.jpg' alt='Escuchar radio online: mejores dispositivos para hacerlo' />
     </a>
 </div>
 
