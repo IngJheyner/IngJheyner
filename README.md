@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541'>3 trucos geniales para que los niños ayuden con la limpieza de la casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-trucos-geniales-ninos-ayuden-limpieza-casa-2718949.jpg' alt='3 trucos geniales para que los niños ayuden con la limpieza de la casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545'>La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/serie-obi-wan-kenobi-ya-tiene-primer-juguete-hasbro-seguro-adivinas-cual-2718957.jpg' alt='La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435'>El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431'>La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/silla-gaming-ikea-matchspel-recibe-rara-rebaja-70-euros-2718643.jpg' alt='La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-productos-estrella-verano-nadie-entiende-1070527'>Mercadona retira uno de sus productos estrella para el verano y nadie lo entiende</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-retira-productos-estrella-verano-nadie-entiende-1070527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gazpacho-2718919.jpg' alt='Mercadona retira uno de sus productos estrella para el verano y nadie lo entiende' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409'>Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usas-microsoft-office-ten-cuidado-hay-exploit-puede-permitir-control-remoto-pc-1070409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/microsoft-office-2363955.jpg' alt='Si usas Microsoft Office ten cuidado, hay un exploit que puede permitir el control remoto de tu PC' />
     </a>
 </div>
 
