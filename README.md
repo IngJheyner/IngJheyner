@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-samsung-galaxy-z-flip-4-no-sera-gama-alta-fotografico-esperado-1070371'>Se filtran más especificaciones del Samsung Galaxy Z Flip 4 y no será el gama alta fotográfico esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-samsung-galaxy-z-flip-4-no-sera-gama-alta-fotografico-esperado-1070371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486995.jpg' alt='Se filtran más especificaciones del Samsung Galaxy Z Flip 4 y no será el gama alta fotográfico esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-android-actualizaciones-largo-plazo-1070331'>Móviles Android con actualizaciones a largo plazo: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-android-actualizaciones-largo-plazo-1070331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Móviles Android con actualizaciones a largo plazo: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/far-cry-4-monkey-island-wrc-8-ya-disponibles-gratis-amazon-prime-gaming-mes-1070345'>Far Cry 4, Monkey Island y WRC 8 ya disponibles y gratis en Amazon Prime Gaming este mes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/far-cry-4-monkey-island-wrc-8-ya-disponibles-gratis-amazon-prime-gaming-mes-1070345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/far-cry-4-2583821.jpg' alt='Far Cry 4, Monkey Island y WRC 8 ya disponibles y gratis en Amazon Prime Gaming este mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-minusculas-mayusculas-word-1070443'>Cómo cambiar de minúsculas a mayúsculas en Word</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-cambiar-minusculas-mayusculas-word-1070443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Cómo cambiar de minúsculas a mayúsculas en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-tiene-claro-smartphones-acabaran-camaras-dslr-antes-esperado-1070425'>Sony lo tiene claro: los smartphones acabarán con las cámaras DSLR antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-tiene-claro-smartphones-acabaran-camaras-dslr-antes-esperado-1070425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony lo tiene claro: los smartphones acabarán con las cámaras DSLR antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-tienes-instalar-movil-android-quieres-ser-dj-1069613'>Las mejores aplicaciones que tienes que instalar en tu móvil Android si quieres ser DJ</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-tienes-instalar-movil-android-quieres-ser-dj-1069613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mejores-aplicaciones-tienes-instalar-movil-andoid-quieres-ser-dj-2717277.jpg' alt='Las mejores aplicaciones que tienes que instalar en tu móvil Android si quieres ser DJ' />
     </a>
 </div>
 
