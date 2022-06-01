@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1070107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2718123.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665'>Escuchar radio online: mejores dispositivos para hacerlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microcadena-grundig-2717449.jpg' alt='Escuchar radio online: mejores dispositivos para hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827'>Cómo evitar que el helado casero tenga cristales de hielo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-evitar-helado-casero-tenga-cristales-hielo-2717701.jpg' alt='Cómo evitar que el helado casero tenga cristales de hielo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883'>Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-kawasaki-empuja-silla-ruedas-cabra-transporte-1069883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/curiosos-robots-kawasaki-robot-empuja-silla-ruedas-cabra-transporte-2717855.jpg' alt='Los curiosos robots de Kawasaki: desde un asistente que empuja una silla de ruedas a una cabra de transporte (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/experta-cuidadora-viraliza-truco-dormir-ninos-pequenos-pocos-minutos-1069879'>Experta cuidadora viraliza su truco para dormir a niños pequeños en pocos minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/experta-cuidadora-viraliza-truco-dormir-ninos-pequenos-pocos-minutos-1069879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-cama-2717841.jpg' alt='Experta cuidadora viraliza su truco para dormir a niños pequeños en pocos minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877'>Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/encuentran-solucion-provisional-bloqueos-google-maps-android-auto-1069877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Encuentran una solución provisional para los bloqueos de Google Maps en Android Auto' />
     </a>
 </div>
 
