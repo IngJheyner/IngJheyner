@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191'>Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-rompe-mucho-record-serie-vista-netflix-semana-estreno-1070191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stranger-things-4-2674239.jpg' alt='Stranger Things 4 rompe y por mucho el récord de la serie más vista de Netflix en su semana de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-editar-mensajes-whatsapp-despues-enviar-como-telegram-hace-anos-1070131'>Podrás editar mensajes en WhatsApp después de enviar, como en Telegram desde hace años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podras-editar-mensajes-whatsapp-despues-enviar-como-telegram-hace-anos-1070131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Podrás editar mensajes en WhatsApp después de enviar, como en Telegram desde hace años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707'>Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-motores-electricos-bicicleta-1069707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-2717689.jpg' alt='Motores eléctricos para bicicleta: estos son los mejores que puedes instalar en la tuya' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665'>Escuchar radio online: mejores dispositivos para hacerlo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-dispositivos-radio-online-1069665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/microcadena-grundig-2717449.jpg' alt='Escuchar radio online: mejores dispositivos para hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827'>Cómo evitar que el helado casero tenga cristales de hielo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-evitar-helado-casero-tenga-cristales-hielo-1069827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-evitar-helado-casero-tenga-cristales-hielo-2717701.jpg' alt='Cómo evitar que el helado casero tenga cristales de hielo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891'>Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/miles-podcast-apple-google-dejan-funcionar-spotify-renovar-certificado-ssl-1069891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-podcast-dejan-funcionar-porque-spotify-olvido-renovar-certificado-2717881.jpg' alt='Miles de podcast de Apple, Google y otras compañías dejan de funcionar por un fallo incomprensible de Spotify' />
     </a>
 </div>
 
