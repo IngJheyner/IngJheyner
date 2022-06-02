@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google translate: las webs y apps más fiables para traducir textos online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google translate: las webs y apps más fiables para traducir textos online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229'>Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2719151.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551'>La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol</a></h4>
     <a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estructura-esferica-grande-tierra-tiene-pantalla-cine-redonda-grande-estadio-futbol-2718961.jpg' alt='La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541'>3 trucos geniales para que los niños ayuden con la limpieza de la casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-trucos-geniales-ninos-ayuden-limpieza-casa-2718949.jpg' alt='3 trucos geniales para que los niños ayuden con la limpieza de la casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545'>La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/serie-obi-wan-kenobi-ya-tiene-primer-juguete-hasbro-seguro-adivinas-cual-2718957.jpg' alt='La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es' />
     </a>
 </div>
 
