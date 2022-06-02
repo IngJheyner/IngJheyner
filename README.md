@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-azucar-1071155'>Los mejores sustitutos saludables al azúcar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-azucar-1071155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/15-razones-que-deberias-eliminar-azucar-tu-vida.jpg' alt='Los mejores sustitutos saludables al azúcar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885'>Las mejores 7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/google-chrome-1954851.jpg' alt='Las mejores 7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/taiwan-anuncia-solo-vendera-rusia-cpu-chips-debajo-25-mhz-como-medida-presion-guerra-ucrania-1070999'>Taiwán anuncia que solo venderá a Rusia CPU y chips por debajo de 25 MHz como medida de presión ante la guerra con Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/taiwan-anuncia-solo-vendera-rusia-cpu-chips-debajo-25-mhz-como-medida-presion-guerra-ucrania-1070999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chip-semiconductor-2450991.jpg' alt='Taiwán anuncia que solo venderá a Rusia CPU y chips por debajo de 25 MHz como medida de presión ante la guerra con Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-enjambres-drones-4-ship-pueden-ser-controlados-unico-piloto-1071125'>Así son los enjambres de drones 4-Ship que pueden ser controlados por un único piloto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-enjambres-drones-4-ship-pueden-ser-controlados-unico-piloto-1071125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/drones-americanos-2719959.jpg' alt='Así son los enjambres de drones 4-Ship que pueden ser controlados por un único piloto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997'>Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronauta-esa-luca-parmitano-realizando-paseo-espacial-2044611.jpg' alt='Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007'>Cuánto tardan desde Hacienda en ingresar la renta 2021-2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cuánto tardan desde Hacienda en ingresar la renta 2021-2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-fecha-limite-hacer-declaracion-renta-2021-2022-ser-penalizado-1070991'>¿Cuál es la fecha límite para hacer la declaración de la renta 2021-2022 sin ser penalizado?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-fecha-limite-hacer-declaracion-renta-2021-2022-ser-penalizado-1070991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg' alt='¿Cuál es la fecha límite para hacer la declaración de la renta 2021-2022 sin ser penalizado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/asus-rog-phone-6-vera-luz-5-julio-esperamos-1070961'>ASUS ROG Phone 6 verá la luz el 5 de julio y esto es lo que esperamos de él</a></h4>
-    <a href='https://computerhoy.com/noticias/asus-rog-phone-6-vera-luz-5-julio-esperamos-1070961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='ASUS ROG Phone 6 verá la luz el 5 de julio y esto es lo que esperamos de él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847'>El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado' />
     </a>
 </div>
 
