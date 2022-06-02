@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847'>El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947'>Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-conseguiras-chrome-vaya-fluido-incluso-ordenadores-poca-ram-1070955'>Con este truco conseguirás que Chrome vaya fluido incluso en ordenadores con poca RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-conseguiras-chrome-vaya-fluido-incluso-ordenadores-poca-ram-1070955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg' alt='Con este truco conseguirás que Chrome vaya fluido incluso en ordenadores con poca RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887'>Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897'>La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/imagen-oficial-proyecto-pegasus-2410987.jpg' alt='La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-saber-cual-mejor-aire-acondicionado-pared-mi-1064737'>Cómo saber cuál es el mejor aire acondicionado de pared para mi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-saber-cual-mejor-aire-acondicionado-pared-mi-1064737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-acondicionado-2708771.jpg' alt='Cómo saber cuál es el mejor aire acondicionado de pared para mi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517'>El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tp-link-tapo-p100-2719367.jpg' alt='El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865'>Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitch-2272839.jpg' alt='Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming' />
     </a>
 </div>
 
