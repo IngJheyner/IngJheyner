@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819'>Así es el primer tractor que funciona con amoniaco y no contamina</a></h4>
+    <a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='Así es el primer tractor que funciona con amoniaco y no contamina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845'>Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amber-disponible-25-paises-2719309.jpg' alt='Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google translate: las webs y apps más fiables para traducir textos online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google translate: las webs y apps más fiables para traducir textos online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229'>Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series' />
     </a>
 </div>
 
