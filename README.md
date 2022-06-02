@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997'>Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronauta-esa-luca-parmitano-realizando-paseo-espacial-2044611.jpg' alt='Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007'>Cuánto tardan desde Hacienda en ingresar la renta 2021-2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cuánto tardan desde Hacienda en ingresar la renta 2021-2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847'>El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947'>Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix' />
     </a>
 </div>
 
