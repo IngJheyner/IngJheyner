@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517'>El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tp-link-tapo-p100-2719367.jpg' alt='El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865'>Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitch-2272839.jpg' alt='Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-youtube-tv-pasa-ser-experiencia-mucho-interactiva-1070881'>Ver YouTube en la TV pasa a ser una experiencia mucho más interactiva</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ver-youtube-tv-pasa-ser-experiencia-mucho-interactiva-1070881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-2719387.jpg' alt='Ver YouTube en la TV pasa a ser una experiencia mucho más interactiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819'>Así es el primer tractor que funciona con amoniaco y no contamina</a></h4>
     <a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='Así es el primer tractor que funciona con amoniaco y no contamina' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845'>Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amber-disponible-25-paises-2719309.jpg' alt='Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-deshacer-borrado-mensaje-enviaste-perfecto-indecisos-1070817'>WhatsApp permitirá deshacer el borrado de un mensaje que enviaste, perfecto para indecisos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-deshacer-borrado-mensaje-enviaste-perfecto-indecisos-1070817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/borrar-whatsapp-deshacer-2719231.jpg' alt='WhatsApp permitirá deshacer el borrado de un mensaje que enviaste, perfecto para indecisos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-combinara-meet-duo-aplicacion-movil-unica-1070803'>Google combinará Meet y Duo en una aplicación móvil única</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-combinara-meet-duo-aplicacion-movil-unica-1070803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-adulto-haciendo-videollamada-movil-2492171.jpg' alt='Google combinará Meet y Duo en una aplicación móvil única' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google translate: las webs y apps más fiables para traducir textos online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google translate: las webs y apps más fiables para traducir textos online' />
     </a>
 </div>
 
