@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007'>Cuánto tardan desde Hacienda en ingresar la renta 2021-2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tardan-hacienda-ingresar-renta-2021-2022-1071007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/renta-hacienda-2582853.jpg' alt='Cuánto tardan desde Hacienda en ingresar la renta 2021-2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-fecha-limite-hacer-declaracion-renta-2021-2022-ser-penalizado-1070991'>¿Cuál es la fecha límite para hacer la declaración de la renta 2021-2022 sin ser penalizado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-fecha-limite-hacer-declaracion-renta-2021-2022-ser-penalizado-1070991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/renta-2021-2675373.jpg' alt='¿Cuál es la fecha límite para hacer la declaración de la renta 2021-2022 sin ser penalizado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/asus-rog-phone-6-vera-luz-5-julio-esperamos-1070961'>ASUS ROG Phone 6 verá la luz el 5 de julio y esto es lo que esperamos de él</a></h4>
+    <a href='https://computerhoy.com/noticias/asus-rog-phone-6-vera-luz-5-julio-esperamos-1070961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='ASUS ROG Phone 6 verá la luz el 5 de julio y esto es lo que esperamos de él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847'>El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reproductor-chromecast-google-tv-precio-minimo-worten-solo-5529eu-tiempo-limitado-1070847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='El reproductor Chromecast con Google TV está a precio mínimo en Worten: solo 55,29€ por tiempo limitado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947'>Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/todo-apunta-peliculas-como-irlandes-tendran-dias-contados-netflix-1070947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/netflix-2587193.jpg' alt='Todo apunta a que películas como El Irlandés tendrán los días contados en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-conseguiras-chrome-vaya-fluido-incluso-ordenadores-poca-ram-1070955'>Con este truco conseguirás que Chrome vaya fluido incluso en ordenadores con poca RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-conseguiras-chrome-vaya-fluido-incluso-ordenadores-poca-ram-1070955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg' alt='Con este truco conseguirás que Chrome vaya fluido incluso en ordenadores con poca RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887'>Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897'>La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/imagen-oficial-proyecto-pegasus-2410987.jpg' alt='La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia' />
     </a>
 </div>
 
