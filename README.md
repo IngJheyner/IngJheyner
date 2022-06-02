@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2719151.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-dispositivos-inteligentes-xiaomi-smart-home-ya-puedes-comprar-459045'>5 dispositivos inteligentes de Xiaomi para la Smart Home que ya puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-dispositivos-inteligentes-xiaomi-smart-home-ya-puedes-comprar-459045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mi-motion-activated-night-light_2.jpg' alt='5 dispositivos inteligentes de Xiaomi para la Smart Home que ya puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551'>La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol</a></h4>
     <a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estructura-esferica-grande-tierra-tiene-pantalla-cine-redonda-grande-estadio-futbol-2718961.jpg' alt='La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545'>La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-obi-wan-kenobi-juguete-hasbro-robot-lola-1070545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/serie-obi-wan-kenobi-ya-tiene-primer-juguete-hasbro-seguro-adivinas-cual-2718957.jpg' alt='La serie Obi-Wan Kenobi ya tiene su primer juguete de Hasbro, y seguro que adivinas cuál es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435'>El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-visualizacion-tiktok-eliminaria-todos-elementos-interfaz-1070435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='El nuevo modo de visualización de TikTok eliminaría todos los elementos de la interfaz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533'>¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?' />
     </a>
 </div>
 
