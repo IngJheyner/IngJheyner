@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887'>Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-antivirus-windows-av-test-no-no-windows-defender-1070887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/comprueba-movil-detectan-peligroso-malware-bancario-6-aplicaciones-antivirus-android-2669659.jpg' alt='Los mejores antivirus para Windows según AV Test, y no, no es Windows Defender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897'>La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compania-detras-spyware-pegasus-bancarrota-no-buena-noticia-1070897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/imagen-oficial-proyecto-pegasus-2410987.jpg' alt='La compañía detrás del spyware Pegasus está en bancarrota y no es buena noticia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-saber-cual-mejor-aire-acondicionado-pared-mi-1064737'>Cómo saber cuál es el mejor aire acondicionado de pared para mi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-saber-cual-mejor-aire-acondicionado-pared-mi-1064737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-acondicionado-2708771.jpg' alt='Cómo saber cuál es el mejor aire acondicionado de pared para mi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517'>El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/enchufe-inteligente-barato-ahora-todavia-amazon-tp-link-tapo-p100-ahora-menos-10eu-1070517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tp-link-tapo-p100-2719367.jpg' alt='El enchufe inteligente más barato ahora lo es todavía más en Amazon: TP-Link TAPO P100 ahora por menos de 10€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865'>Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/twitch-turbo-modalidad-premium-plataforma-streaming-1070865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitch-2272839.jpg' alt='Qué es Twitch Turbo, la modalidad más prémium de la plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ver-youtube-tv-pasa-ser-experiencia-mucho-interactiva-1070881'>Ver YouTube en la TV pasa a ser una experiencia mucho más interactiva</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ver-youtube-tv-pasa-ser-experiencia-mucho-interactiva-1070881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-2719387.jpg' alt='Ver YouTube en la TV pasa a ser una experiencia mucho más interactiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819'>Así es el primer tractor que funciona con amoniaco y no contamina</a></h4>
-    <a href='https://computerhoy.com/noticias/primer-tractor-funciona-amoniaco-no-contamina-1070819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/john-deere-presenta-impresionante-tractor-autonomo-8-ruedas-2580611.jpg' alt='Así es el primer tractor que funciona con amoniaco y no contamina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845'>Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amber-disponible-25-paises-2719309.jpg' alt='Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países' />
     </a>
 </div>
 
