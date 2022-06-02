@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845'>Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-alertas-amber-instagram-buena-noticia-llegue-25-paises-1070845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amber-disponible-25-paises-2719309.jpg' alt='Qué son las alertas AMBER en Instagram y por qué es buena noticia que llegue a 25 países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-deshacer-borrado-mensaje-enviaste-perfecto-indecisos-1070817'>WhatsApp permitirá deshacer el borrado de un mensaje que enviaste, perfecto para indecisos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-deshacer-borrado-mensaje-enviaste-perfecto-indecisos-1070817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/borrar-whatsapp-deshacer-2719231.jpg' alt='WhatsApp permitirá deshacer el borrado de un mensaje que enviaste, perfecto para indecisos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-combinara-meet-duo-aplicacion-movil-unica-1070803'>Google combinará Meet y Duo en una aplicación móvil única</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-combinara-meet-duo-aplicacion-movil-unica-1070803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hombre-adulto-haciendo-videollamada-movil-2492171.jpg' alt='Google combinará Meet y Duo en una aplicación móvil única' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google translate: las webs y apps más fiables para traducir textos online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google translate: las webs y apps más fiables para traducir textos online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229'>Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-son-televisores-recomendados-netflix-disfrutar-mejor-series-952229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Estos son los televisores recomendados por Netflix para disfrutar mejor de sus series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1070763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2719151.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-dispositivos-inteligentes-xiaomi-smart-home-ya-puedes-comprar-459045'>5 dispositivos inteligentes de Xiaomi para la Smart Home que ya puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-dispositivos-inteligentes-xiaomi-smart-home-ya-puedes-comprar-459045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mi-motion-activated-night-light_2.jpg' alt='5 dispositivos inteligentes de Xiaomi para la Smart Home que ya puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551'>La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estructura-esferica-grande-tierra-tiene-pantalla-cine-redonda-grande-estadio-futbol-2718961.jpg' alt='La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol' />
     </a>
 </div>
 
