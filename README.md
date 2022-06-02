@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551'>La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/msg-sphere-estructura-esferica-mas-grande-mundo-1070551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estructura-esferica-grande-tierra-tiene-pantalla-cine-redonda-grande-estadio-futbol-2718961.jpg' alt='La estructura esférica más grande de la Tierra tiene una pantalla de cine redonda en donde caben dos campos de fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541'>3 trucos geniales para que los niños ayuden con la limpieza de la casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-trucos-geniales-ninos-ayuden-limpieza-casa-1070541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-trucos-geniales-ninos-ayuden-limpieza-casa-2718949.jpg' alt='3 trucos geniales para que los niños ayuden con la limpieza de la casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533'>¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-cuesta-enfriar-habitacion-aparato-aire-acondicionado-1070533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='¿Cuánto cuesta enfriar una habitación con un aparato de aire acondicionado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431'>La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/silla-gaming-ikea-matchspel-descuento-1070431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/silla-gaming-ikea-matchspel-recibe-rara-rebaja-70-euros-2718643.jpg' alt='La silla gaming más vendida de IKEA recibe un raro descuento de 70 euros, y te la envían a casa' />
     </a>
 </div>
 
