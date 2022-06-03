@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/casa-airbnb-dormir-un-millon-abejas-1067695'>En esta casa de Airbnb tienes que dormir con un millón de abejas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/casa-airbnb-dormir-un-millon-abejas-1067695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/casa-airbnb-tienes-dormir-millon-abejas-2713785.jpg' alt='En esta casa de Airbnb tienes que dormir con un millón de abejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-presentacion-robot-optimus-despidos-plantilla-tesla-1071807'>Elon Musk pone fecha de presentación a su robot Optimus... y anuncia el despido del 10% de la plantilla de Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-presentacion-robot-optimus-despidos-plantilla-tesla-1071807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tesla-bot-2444205.jpg' alt='Elon Musk pone fecha de presentación a su robot Optimus... y anuncia el despido del 10% de la plantilla de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805'>Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consolas-mini-no-han-muerto-sega-anuncia-mega-drive-2-mini-2721217.jpg' alt='Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791'>Mercadona rescata una de las chucherías que arrasaba en los 80 y 90</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dentaduras-mercadona-2721203.jpg' alt='Mercadona rescata una de las chucherías que arrasaba en los 80 y 90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alertan-llamarada-solar-pocos-dias-golpeara-tierra-provocando-tormenta-geomagnetica-1071787'>Alertan de una llamarada solar en pocos días que golpeará la Tierra provocando una tormenta geomagnética</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alertan-llamarada-solar-pocos-dias-golpeara-tierra-provocando-tormenta-geomagnetica-1071787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='Alertan de una llamarada solar en pocos días que golpeará la Tierra provocando una tormenta geomagnética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785'>Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/redmi-note-7-review%20-%2016.jpg' alt='Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas' />
     </a>
 </div>
 
