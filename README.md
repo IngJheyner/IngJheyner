@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225'>Cuáles son las diferencias entre paracetamol e ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='Cuáles son las diferencias entre paracetamol e ibuprofeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665'>Estas son las novedades de Android Automotive 12L para tu coche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Estas son las novedades de Android Automotive 12L para tu coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521'>Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533421.jpg' alt='Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669'>La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/almohada-inteligente-2519485.jpg' alt='La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila' />
     </a>
 </div>
 
