@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-cambios-habitos-espana-paliar-escalada-subida-precios-ocu-1071587'>Estos son los cambios de hábitos en España para paliar la escalada en subida de precios según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-cambios-habitos-espana-paliar-escalada-subida-precios-ocu-1071587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/supermercado-2487025.jpg' alt='Estos son los cambios de hábitos en España para paliar la escalada en subida de precios según la OCU' />
+    <h4><a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643'>El efecto óptico de distorsión de caras que convierte en feas a personas guapas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El efecto óptico de distorsión de caras que convierte en feas a personas guapas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-sobremesa-hp-f1109ns-3-junio-2022-1071003'>Este ordenador de HP con 16GB de RAM es perfecto para trabajar desde casa y cuesta menos de 550€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-sobremesa-hp-f1109ns-3-junio-2022-1071003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hp-m01-f1109ns-2720577.jpg' alt='Este ordenador de HP con 16GB de RAM es perfecto para trabajar desde casa y cuesta menos de 550€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521'>Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533421.jpg' alt='Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559'>El Modo Conducción de Google Assistant como gran alternativa a Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-2720641.jpg' alt='El Modo Conducción de Google Assistant como gran alternativa a Android Auto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669'>La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/almohada-inteligente-2519485.jpg' alt='La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-hp-desarrolladores-ryzen-7-12-h-autonomia-linux-1071561'>Así es el portátil de HP para desarrolladores: Ryzen 7, 12 h de autonomía y Linux</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-hp-desarrolladores-ryzen-7-12-h-autonomia-linux-1071561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hp-dev-one-2720699.jpg' alt='Así es el portátil de HP para desarrolladores: Ryzen 7, 12 h de autonomía y Linux' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentemente-shiba-inu-puede-salir-fortalecida-crisis-criptomonedas-1071621'>Sorprendentemente Shiba Inu puede salir fortalecida de esta crisis de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentemente-shiba-inu-puede-salir-fortalecida-crisis-criptomonedas-1071621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Sorprendentemente Shiba Inu puede salir fortalecida de esta crisis de las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517'>Ya podemos mandar archivos de hasta 2GB desde WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya podemos mandar archivos de hasta 2GB desde WhatsApp' />
+    <h4><a href='https://computerhoy.com/noticias/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-1071613'>El ratón vertical inalámbrico que llega a LIDL por 10 euros es ergonómico y una ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-1071613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-2720741.jpg' alt='El ratón vertical inalámbrico que llega a LIDL por 10 euros es ergonómico y una ganga' />
     </a>
 </div>
 
