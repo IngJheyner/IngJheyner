@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559'>El Modo Conducción de Google Assistant como gran alternativa a Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-2720641.jpg' alt='El Modo Conducción de Google Assistant como gran alternativa a Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-hp-desarrolladores-ryzen-7-12-h-autonomia-linux-1071561'>Así es el portátil de HP para desarrolladores: Ryzen 7, 12 h de autonomía y Linux</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-hp-desarrolladores-ryzen-7-12-h-autonomia-linux-1071561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hp-dev-one-2720699.jpg' alt='Así es el portátil de HP para desarrolladores: Ryzen 7, 12 h de autonomía y Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517'>Ya podemos mandar archivos de hasta 2GB desde WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya podemos mandar archivos de hasta 2GB desde WhatsApp' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557'>Nuevos informes confirman que el iPhone 14 llevará el chip A15 con una sola excepción</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557'>Nuevos informes confirman que el iPhone 14 llevará el chip A15 (iPhone 13) con una sola excepción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2638475.jpg' alt='Nuevos informes confirman que el iPhone 14 llevará el chip A15 con una sola excepción' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2638475.jpg' alt='Nuevos informes confirman que el iPhone 14 llevará el chip A15 (iPhone 13) con una sola excepción' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493'>TCL lanza el Stylus 5G, un smartphone que compite en la gama media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tcl-lanza-stylus-5g-smartphone-compite-gama-media-2720521.jpg' alt='TCL lanza el Stylus 5G, un smartphone que compite en la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-cambios-haciendo-netflix-competir-rivales-disney-hbo-max-1071523'>Estos son los cambios que está haciendo Netflix para competir con sus rivales Disney+ y HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-cambios-haciendo-netflix-competir-rivales-disney-hbo-max-1071523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Estos son los cambios que está haciendo Netflix para competir con sus rivales Disney+ y HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519'>Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/state-play-2720567.jpg' alt='Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2' />
     </a>
 </div>
 
