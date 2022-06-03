@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781'>The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/boys-temporada-3-regresa-serie-anti-superheroes-salvaje-2721179.jpg' alt='The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-momento-ideal-tomar-gazpacho-ciencia-1071775'>Cuál es el momento ideal para tomar gazpacho según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-momento-ideal-tomar-gazpacho-ciencia-1071775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gazpacho-2718919.jpg' alt='Cuál es el momento ideal para tomar gazpacho según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-mejores-maneras-intentar-smartphone-no-muera-ha-mojado-1071767'>Las 6 mejores maneras de intentar que tu smartphone no muera si se ha mojado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/6-mejores-maneras-intentar-smartphone-no-muera-ha-mojado-1071767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/iphone-11-sumergido-agua-2256621.jpg' alt='Las 6 mejores maneras de intentar que tu smartphone no muera si se ha mojado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763'>Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/quien-javier-olivan-espanol-numero-2-meta-solo-zuckerberg-encima-2721157.jpg' alt='Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-360o-2646429.jpg' alt='Mejores cámaras de 360º que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2721027.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741'>La primera oreja impresa en 3D que se ha transplantado a un paciente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oreja-3d-trasplante-2721121.jpg' alt='La primera oreja impresa en 3D que se ha transplantado a un paciente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-2720155.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical' />
     </a>
 </div>
 
