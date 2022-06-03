@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741'>La primera oreja impresa en 3D que se ha transplantado a un paciente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oreja-3d-trasplante-2721121.jpg' alt='La primera oreja impresa en 3D que se ha transplantado a un paciente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-2720155.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-crear-sistema-navegacion-gps-luna-1071727'>La NASA quiere crear un sistema de navegación GPS para la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-crear-sistema-navegacion-gps-luna-1071727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/satelite-gps-luna-2721073.jpg' alt='La NASA quiere crear un sistema de navegación GPS para la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719'>Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225'>Cuáles son las diferencias entre paracetamol e ibuprofeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='Cuáles son las diferencias entre paracetamol e ibuprofeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665'>Estas son las novedades de Android Automotive 12L para tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Estas son las novedades de Android Automotive 12L para tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-archivos-guardar-word-1071693'>Cómo recuperar archivos sin guardar en Word	</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-archivos-guardar-word-1071693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo recuperar archivos sin guardar en Word	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643'>El efecto óptico de distorsión de caras que convierte en feas a personas guapas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El efecto óptico de distorsión de caras que convierte en feas a personas guapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521'>Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-2-5g-oferta-3-junio-2022-1071521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533421.jpg' alt='Hemos probado este móvil realme GT Neo 2 5G y nos gustó mucho pero ahora es mejor porque baja de precio 180€' />
     </a>
 </div>
 
