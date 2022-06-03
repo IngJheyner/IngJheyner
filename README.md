@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-azucar-1071155'>Los mejores sustitutos saludables al azúcar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-sustitutos-saludables-azucar-1071155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/15-razones-que-deberias-eliminar-azucar-tu-vida.jpg' alt='Los mejores sustitutos saludables al azúcar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493'>TCL lanza el Stylus 5G, un smartphone que compite en la gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tcl-lanza-stylus-5g-smartphone-compite-gama-media-2720521.jpg' alt='TCL lanza el Stylus 5G, un smartphone que compite en la gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885'>Las mejores 7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-extensiones-google-chrome-tienes-descargar-ya-mismo-ordenador-1004885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/google-chrome-1954851.jpg' alt='Las mejores 7 extensiones de Google Chrome que tienes que descargar ya mismo en tu ordenador' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-cambios-haciendo-netflix-competir-rivales-disney-hbo-max-1071523'>Estos son los cambios que está haciendo Netflix para competir con sus rivales Disney+ y HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-cambios-haciendo-netflix-competir-rivales-disney-hbo-max-1071523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/netflix-2702229.jpg' alt='Estos son los cambios que está haciendo Netflix para competir con sus rivales Disney+ y HBO Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/taiwan-anuncia-solo-vendera-rusia-cpu-chips-debajo-25-mhz-como-medida-presion-guerra-ucrania-1070999'>Taiwán anuncia que solo venderá a Rusia CPU y chips por debajo de 25 MHz como medida de presión ante la guerra con Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/taiwan-anuncia-solo-vendera-rusia-cpu-chips-debajo-25-mhz-como-medida-presion-guerra-ucrania-1070999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/chip-semiconductor-2450991.jpg' alt='Taiwán anuncia que solo venderá a Rusia CPU y chips por debajo de 25 MHz como medida de presión ante la guerra con Ucrania' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519'>Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/state-play-2720567.jpg' alt='Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-enjambres-drones-4-ship-pueden-ser-controlados-unico-piloto-1071125'>Así son los enjambres de drones 4-Ship que pueden ser controlados por un único piloto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-enjambres-drones-4-ship-pueden-ser-controlados-unico-piloto-1071125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/drones-americanos-2719959.jpg' alt='Así son los enjambres de drones 4-Ship que pueden ser controlados por un único piloto' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-3-junio-2022-1071209'>15 ofertas de tecnología para el fin de semana que puedes encontrar en Amazon, PcComponentes, AliExpress y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-3-junio-2022-1071209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='15 ofertas de tecnología para el fin de semana que puedes encontrar en Amazon, PcComponentes, AliExpress y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997'>Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trajes-espaciales-nasa-tienen-ya-40-anos-como-seran-proximos-trajes-quien-fabricara-1070997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronauta-esa-luca-parmitano-realizando-paseo-espacial-2044611.jpg' alt='Los trajes espaciales de la NASA tienen ya 40 años, cómo serán los próximos trajes y quién los fabricará' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1071465'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1071465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2720479.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
