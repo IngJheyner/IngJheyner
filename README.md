@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801'>Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/insta360-go-2-camara-accion-sumergible-estabilizacion-solo-pesa-27-gramos-2721211.jpg' alt='Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791'>Mercadona rescata una de las chucherías que arrasaba en los 80 y 90</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dentaduras-mercadona-2721203.jpg' alt='Mercadona rescata una de las chucherías que arrasaba en los 80 y 90' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783'>Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wwdc-2022-2721195.jpg' alt='Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781'>The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/boys-temporada-3-regresa-serie-anti-superheroes-salvaje-2721179.jpg' alt='The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje' />
     </a>
 </div>
 
