@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805'>Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consolas-mini-no-han-muerto-sega-anuncia-mega-drive-2-mini-2721217.jpg' alt='Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801'>Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/insta360-go-2-camara-accion-sumergible-estabilizacion-solo-pesa-27-gramos-2721211.jpg' alt='Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785'>Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/redmi-note-7-review%20-%2016.jpg' alt='Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783'>Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wwdc-2022-2721195.jpg' alt='Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros' />
     </a>
 </div>
 
