@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2721027.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741'>La primera oreja impresa en 3D que se ha transplantado a un paciente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-oreja-impresa-3d-ha-transplantado-paciente-1071741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oreja-3d-trasplante-2721121.jpg' alt='La primera oreja impresa en 3D que se ha transplantado a un paciente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719'>Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225'>Cuáles son las diferencias entre paracetamol e ibuprofeno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuales-son-diferencias-paracetamol-ibuprofeno-1071225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='Cuáles son las diferencias entre paracetamol e ibuprofeno' />
     </a>
 </div>
 
