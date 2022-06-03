@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665'>Estas son las novedades de Android Automotive 12L para tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-android-automotive-12l-coche-1071665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Estas son las novedades de Android Automotive 12L para tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-archivos-guardar-word-1071693'>Cómo recuperar archivos sin guardar en Word	</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-archivos-guardar-word-1071693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo recuperar archivos sin guardar en Word	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643'>El efecto óptico de distorsión de caras que convierte en feas a personas guapas</a></h4>
     <a href='https://computerhoy.com/noticias/life/efecto-optico-distorsion-caras-convierte-feas-personas-guapas-1071643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='El efecto óptico de distorsión de caras que convierte en feas a personas guapas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669'>La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/almohada-inteligente-monitoriza-sueno-cabeza-movimientos-hacen-pila-1071669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/almohada-inteligente-2519485.jpg' alt='La almohada inteligente que monitoriza tu sueño para la que tu cabeza y sus movimientos hacen de pila' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentemente-shiba-inu-puede-salir-fortalecida-crisis-criptomonedas-1071621'>Sorprendentemente Shiba Inu puede salir fortalecida de esta crisis de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentemente-shiba-inu-puede-salir-fortalecida-crisis-criptomonedas-1071621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Sorprendentemente Shiba Inu puede salir fortalecida de esta crisis de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-1071613'>El ratón vertical inalámbrico que llega a LIDL por 10 euros es ergonómico y una ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-1071613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/raton-vertical-inalambrico-llega-lidl-10-euros-ergonomico-ganga-2720741.jpg' alt='El ratón vertical inalámbrico que llega a LIDL por 10 euros es ergonómico y una ganga' />
     </a>
 </div>
 
