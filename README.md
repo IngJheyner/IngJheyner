@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791'>Mercadona rescata una de las chucherías que arrasaba en los 80 y 90</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dentaduras-mercadona-2721203.jpg' alt='Mercadona rescata una de las chucherías que arrasaba en los 80 y 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alertan-llamarada-solar-pocos-dias-golpeara-tierra-provocando-tormenta-geomagnetica-1071787'>Alertan de una llamarada solar en pocos días que golpeará la Tierra provocando una tormenta geomagnética</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alertan-llamarada-solar-pocos-dias-golpeara-tierra-provocando-tormenta-geomagnetica-1071787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='Alertan de una llamarada solar en pocos días que golpeará la Tierra provocando una tormenta geomagnética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785'>Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-retira-soporte-10-nuevos-dispositivos-ellos-algunos-superventas-1071785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/redmi-note-7-review%20-%2016.jpg' alt='Xiaomi retira el soporte a 10 nuevos dispositivos entre ellos algunos de sus superventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783'>Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/esperamos-wwdc-2022-renovacion-parcial-ios-ipados-posible-m2-otros-1071783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wwdc-2022-2721195.jpg' alt='Qué esperamos del WWDC 2022: renovación parcial de iOS e iPadOS y el posible M2 entre otros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781'>The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-temporada-3-estreno-prime-video-1071781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/boys-temporada-3-regresa-serie-anti-superheroes-salvaje-2721179.jpg' alt='The Boys Temporada 3: regresa la serie de anti-superhéroes más salvaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-momento-ideal-tomar-gazpacho-ciencia-1071775'>Cuál es el momento ideal para tomar gazpacho según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-momento-ideal-tomar-gazpacho-ciencia-1071775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gazpacho-2718919.jpg' alt='Cuál es el momento ideal para tomar gazpacho según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-mejores-maneras-intentar-smartphone-no-muera-ha-mojado-1071767'>Las 6 mejores maneras de intentar que tu smartphone no muera si se ha mojado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-mejores-maneras-intentar-smartphone-no-muera-ha-mojado-1071767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/iphone-11-sumergido-agua-2256621.jpg' alt='Las 6 mejores maneras de intentar que tu smartphone no muera si se ha mojado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763'>Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/quien-javier-olivan-espanol-numero-2-meta-solo-zuckerberg-encima-2721157.jpg' alt='Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-360o-2646429.jpg' alt='Mejores cámaras de 360º que puedes comprar' />
     </a>
 </div>
 
