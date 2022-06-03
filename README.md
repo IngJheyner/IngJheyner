@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517'>Ya podemos mandar archivos de hasta 2GB desde WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya podemos mandar archivos de hasta 2GB desde WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557'>Nuevos informes confirman que el iPhone 14 llevará el chip A15 con una sola excepción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2638475.jpg' alt='Nuevos informes confirman que el iPhone 14 llevará el chip A15 con una sola excepción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493'>TCL lanza el Stylus 5G, un smartphone que compite en la gama media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tcl-lanza-stylus-5g-smartphone-compite-gama-media-2720521.jpg' alt='TCL lanza el Stylus 5G, un smartphone que compite en la gama media' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519'>Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/estas-son-todas-novedades-state-play-junio-2022-resident-evil-4-final-fantasy-xvi-novedades-ps5-ps4-ps-vr2-1071519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/state-play-2720567.jpg' alt='Así fue el State of Play de junio 2022: Resident Evil 4, Final Fantasy XVI y novedades PS5, PS4 y PS VR2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-3-junio-2022-1071209'>15 ofertas de tecnología para el fin de semana que puedes encontrar en Amazon, PcComponentes, AliExpress y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-3-junio-2022-1071209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='15 ofertas de tecnología para el fin de semana que puedes encontrar en Amazon, PcComponentes, AliExpress y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1071465'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1071465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2720479.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
