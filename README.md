@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-cambios-habitos-espana-paliar-escalada-subida-precios-ocu-1071587'>Estos son los cambios de hábitos en España para paliar la escalada en subida de precios según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-cambios-habitos-espana-paliar-escalada-subida-precios-ocu-1071587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/supermercado-2487025.jpg' alt='Estos son los cambios de hábitos en España para paliar la escalada en subida de precios según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-sobremesa-hp-f1109ns-3-junio-2022-1071003'>Este ordenador de HP con 16GB de RAM es perfecto para trabajar desde casa y cuesta menos de 550€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-sobremesa-hp-f1109ns-3-junio-2022-1071003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hp-m01-f1109ns-2720577.jpg' alt='Este ordenador de HP con 16GB de RAM es perfecto para trabajar desde casa y cuesta menos de 550€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559'>El Modo Conducción de Google Assistant como gran alternativa a Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-1071559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/modo-conduccion-google-assistant-como-gran-alternativa-android-auto-2720641.jpg' alt='El Modo Conducción de Google Assistant como gran alternativa a Android Auto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517'>Ya podemos mandar archivos de hasta 2GB desde WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-mandar-archivos-2gb-whatsapp-1071517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya podemos mandar archivos de hasta 2GB desde WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557'>Nuevos informes confirman que el iPhone 14 llevará el chip A15 (iPhone 13) con una sola excepción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-informes-confirman-iphone-14-llevara-chip-a15-sola-excepcion-1071557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2638475.jpg' alt='Nuevos informes confirman que el iPhone 14 llevará el chip A15 (iPhone 13) con una sola excepción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493'>TCL lanza el Stylus 5G, un smartphone que compite en la gama media</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-lanza-stylus-5g-smartphone-compite-gama-media-1071493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tcl-lanza-stylus-5g-smartphone-compite-gama-media-2720521.jpg' alt='TCL lanza el Stylus 5G, un smartphone que compite en la gama media' />
     </a>
 </div>
 
