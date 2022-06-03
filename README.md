@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763'>Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quien-es-javier-olivan-numero-2-meta-facebook-1071763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/quien-javier-olivan-espanol-numero-2-meta-solo-zuckerberg-encima-2721157.jpg' alt='Quién es Javier Oliván, el español número 2 de Meta, solo Zuckerberg está por encima de él ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969'>Mejores cámaras de 360º que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-360-puedes-comprar-1028969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-360o-2646429.jpg' alt='Mejores cámaras de 360º que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-politica-superheroes-nave-espacial-1071711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2721027.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: política, superhéroes y una nave espacial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-1071229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-netflix-disney-hbo-max-blockbuster-todas-letras-dunkerque-comedia-musical-2720155.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: un blockbuster con todas las letras, Dunkerque y una comedia musical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-crear-sistema-navegacion-gps-luna-1071727'>La NASA quiere crear un sistema de navegación GPS para la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-crear-sistema-navegacion-gps-luna-1071727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/satelite-gps-luna-2721073.jpg' alt='La NASA quiere crear un sistema de navegación GPS para la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719'>Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-canales-router-como-configurarlos-mejorar-calidad-conexion-wifi-1071719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg' alt='Qué son los canales del router y cómo configurarlos para mejorar la calidad de tu conexión WiFi' />
     </a>
 </div>
 
