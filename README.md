@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/campana-extractora-961895'>Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/campana-extractora-961895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/campana-extractora-2527417.jpg' alt='Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-aguacate-tiktok-peligro-salud-1071809'>¡No lo hagas! El truco del aguacate que arrasa en TikTok es un peligro para la salud </a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-aguacate-tiktok-peligro-salud-1071809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-hagas-truco-aguacate-arrasa-tiktok-peligro-salud-2721219.jpg' alt='¡No lo hagas! El truco del aguacate que arrasa en TikTok es un peligro para la salud ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805'>Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consolas-mini-no-han-muerto-sega-anuncia-mega-drive-2-mini-2721217.jpg' alt='Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801'>Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/insta360-go-2-camara-accion-sumergible-estabilizacion-solo-pesa-27-gramos-2721211.jpg' alt='Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos' />
     </a>
 </div>
 
