@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todas-tv-son-iguales-mi-madre-sabe-no-1068725'>¿Todas las TV son iguales? Hasta mi madre sabe que no</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todas-tv-son-iguales-mi-madre-sabe-no-1068725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/lg-c1-oled-48-analisis-opinion-2367495.jpg' alt='¿Todas las TV son iguales? Hasta mi madre sabe que no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/campana-extractora-961895'>Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/campana-extractora-961895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/campana-extractora-2527417.jpg' alt='Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-presentacion-robot-optimus-despidos-plantilla-tesla-1071807'>Elon Musk pone fecha de presentación a su robot Optimus... y anuncia el despido del 10% de la plantilla de Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-presentacion-robot-optimus-despidos-plantilla-tesla-1071807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tesla-bot-2444205.jpg' alt='Elon Musk pone fecha de presentación a su robot Optimus... y anuncia el despido del 10% de la plantilla de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805'>Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-1071805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consolas-mini-no-han-muerto-sega-anuncia-mega-drive-2-mini-2721217.jpg' alt='Las consolas mini no han muerto: Sega anuncia la Mega Drive Mini 2' />
     </a>
 </div>
 
