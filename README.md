@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055'>Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/floppy-disk-512-gb-1069897'>Consiguen que un disquete almacene 512 GB de datos, aunque podría almacenar hasta 28 TB</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/floppy-disk-512-gb-1069897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consiguen-floppy-disk-almacene-512-gb-datos-aunque-podria-almacenar-28-tb-2717913.jpg' alt='Consiguen que un disquete almacene 512 GB de datos, aunque podría almacenar hasta 28 TB' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759'>Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg' alt='Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propios-tonos-llamada-iphone-912713'>Cómo crear tus propios tonos de llamada en iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propios-tonos-llamada-iphone-912713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/iphone-12-2314073.jpg' alt='Cómo crear tus propios tonos de llamada en iPhone' />
     </a>
 </div>
 
