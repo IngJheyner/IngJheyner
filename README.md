@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-aguacate-tiktok-peligro-salud-1071809'>¡No lo hagas! El truco del aguacate que arrasa en TikTok es un peligro para la salud </a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-aguacate-tiktok-peligro-salud-1071809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-hagas-truco-aguacate-arrasa-tiktok-peligro-salud-2721219.jpg' alt='¡No lo hagas! El truco del aguacate que arrasa en TikTok es un peligro para la salud ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-airbnb-dormir-un-millon-abejas-1067695'>En esta casa de Airbnb tienes que dormir con un millón de abejas</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-airbnb-dormir-un-millon-abejas-1067695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/casa-airbnb-tienes-dormir-millon-abejas-2713785.jpg' alt='En esta casa de Airbnb tienes que dormir con un millón de abejas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801'>Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/insta360-go-2-camara-accion-sumergible-estabilizacion-27-gramos-1071801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/insta360-go-2-camara-accion-sumergible-estabilizacion-solo-pesa-27-gramos-2721211.jpg' alt='Insta360 GO 2 la cámara de acción sumergible y con estabilización, que solo pesa 27 gramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791'>Mercadona rescata una de las chucherías que arrasaba en los 80 y 90</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-rescata-chucherias-arrasaba-80-90-1071791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dentaduras-mercadona-2721203.jpg' alt='Mercadona rescata una de las chucherías que arrasaba en los 80 y 90' />
     </a>
 </div>
 
