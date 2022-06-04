@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759'>Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg' alt='Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propios-tonos-llamada-iphone-912713'>Cómo crear tus propios tonos de llamada en iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-propios-tonos-llamada-iphone-912713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/iphone-12-2314073.jpg' alt='Cómo crear tus propios tonos de llamada en iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/fabricar-alarma-puerta-casera-1068747'>Una pinza, dos pilas y un zumbador es todo lo que necesitas para fabricar tu propia alarma casera de puerta</a></h4>
     <a href='https://computerhoy.com/noticias/life/fabricar-alarma-puerta-casera-1068747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pinza-dos-pilas-zumbador-todo-necesitas-fabricar-propia-alarma-casera-puerta-2715543.jpg' alt='Una pinza, dos pilas y un zumbador es todo lo que necesitas para fabricar tu propia alarma casera de puerta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ranger-1000-mochila-power-station-1072017'>Ranger 1000, la mochila que convierte en inalámbrico cualquier electrodoméstico (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ranger-1000-mochila-power-station-1072017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ranger-1000-mochila-transforma-central-electrica-2721409.jpg' alt='Ranger 1000, la mochila que convierte en inalámbrico cualquier electrodoméstico (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todas-tv-son-iguales-mi-madre-sabe-no-1068725'>¿Todas las TV son iguales? Hasta mi madre sabe que no</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todas-tv-son-iguales-mi-madre-sabe-no-1068725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/lg-c1-oled-48-analisis-opinion-2367495.jpg' alt='¿Todas las TV son iguales? Hasta mi madre sabe que no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/campana-extractora-961895'>Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/campana-extractora-961895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/campana-extractora-2527417.jpg' alt='Campanas extractoras de cocina: modelos, diferencias y todo lo que debes tener en cuenta antes de comprar' />
     </a>
 </div>
 
