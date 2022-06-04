@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123'>En qué dirección rota la chica, la ilusión óptica que explota en TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/direccion-rota-chica-ilusion-optica-explota-tiktok-2721509.jpg' alt='En qué dirección rota la chica, la ilusión óptica que explota en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467'>La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón</a></h4>
     <a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-forma-entender-como-funciona-escalera-mecanica-creando-carton-2720485.jpg' alt='La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087'>El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health' />
     </a>
 </div>
 
