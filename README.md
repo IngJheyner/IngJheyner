@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065'>Esta importante función de Google Maps ya no está presente en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Esta importante función de Google Maps ya no está presente en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055'>Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383'>Nubia RedMagic 7 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-redmagic-7-pro-2706453.jpg' alt='Nubia RedMagic 7 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759'>Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg' alt='Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj' />
     </a>
 </div>
 
