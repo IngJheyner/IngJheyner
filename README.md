@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383'>Nubia RedMagic 7 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-redmagic-7-pro-2706453.jpg' alt='Nubia RedMagic 7 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759'>Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-funciones-garmin-forerunner-255-1071759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg' alt='Garmin Forerunner 255, 5 razones por las que todos los runners querrán este reloj' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-adaptadores-enchufe-universales-1071579'>Mejores adaptadores de corriente universales de viaje que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-adaptadores-enchufe-universales-1071579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/adaptadores-corriente-universal-skross-2720869.jpg' alt='Mejores adaptadores de corriente universales de viaje que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ranger-1000-mochila-power-station-1072017'>Ranger 1000, la mochila que convierte en inalámbrico cualquier electrodoméstico (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ranger-1000-mochila-power-station-1072017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ranger-1000-mochila-transforma-central-electrica-2721409.jpg' alt='Ranger 1000, la mochila que convierte en inalámbrico cualquier electrodoméstico (vídeo)' />
     </a>
 </div>
 
