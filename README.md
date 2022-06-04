@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467'>La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-forma-entender-como-funciona-escalera-mecanica-creando-carton-2720485.jpg' alt='La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115'>Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087'>El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085'>El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio' />
     </a>
 </div>
 
