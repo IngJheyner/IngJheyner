@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085'>El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079'>Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/create-windstylance-dc-ventilador-techo-luz-2721473.jpg' alt='Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065'>Esta importante función de Google Maps ya no está presente en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Esta importante función de Google Maps ya no está presente en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055'>Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación' />
     </a>
 </div>
 
