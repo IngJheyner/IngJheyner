@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087'>El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071'>Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507'>Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/your-name-2532533.jpg' alt='Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?' />
     </a>
 </div>
 
