@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105'>Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079'>Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/create-windstylance-dc-ventilador-techo-luz-2721473.jpg' alt='Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071'>Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza' />
     </a>
 </div>
 
