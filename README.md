@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087'>El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-watch-5-ya-deja-ver-ultima-version-beta-samsung-health-1072087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516645.jpg' alt='El Galaxy Watch 5 “ya se deja ver” en la última versión beta de Samsung Health' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085'>El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acuerdo-final-adoptar-usb-c-como-puerto-carga-movil-unico-europa-anunciaria-7-junio-1072085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/cargador-iphone-iphone-13-2608327.jpg' alt='El acuerdo final para adoptar el USB-C como puerto de carga móvil único en Europa se anunciaría el 7 de junio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507'>Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/your-name-2532533.jpg' alt='Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065'>Esta importante función de Google Maps ya no está presente en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Esta importante función de Google Maps ya no está presente en Android Auto' />
     </a>
 </div>
 
