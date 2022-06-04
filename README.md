@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079'>Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-inteligente-techo-no-te-consumira-ardiente-calor-verano-1072079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/create-windstylance-dc-ventilador-techo-luz-2721473.jpg' alt='Con este ventilador inteligente de techo no te consumirá el ardiente calor del verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071'>Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mejores-series-ciencia-ficcion-cancelada-hbo-max-pero-hay-esperanza-1072071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/raised-wolves-temporada-2-2590381.jpg' alt='Una de las mejores series de ciencia ficción es cancelada por HBO Max, pero hay esperanza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507'>Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-viajes-tiempo-paradojas-historia-conoces-1070507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/your-name-2532533.jpg' alt='Las mejores películas con viajes en el tiempo y paradojas de la historia, ¿las conoces?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065'>Esta importante función de Google Maps ya no está presente en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/importante-funcion-google-maps-ya-no-presente-android-auto-1072065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Esta importante función de Google Maps ya no está presente en Android Auto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055'>Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-imposible-puedan-robar-cuenta-whatsapp-gracias-doble-codigo-verificacion-1072055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='Ahora será imposible que puedan robar tu cuenta de WhatsApp gracias al doble código de verificación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/floppy-disk-512-gb-1069897'>Consiguen que un disquete almacene 512 GB de datos, aunque podría almacenar hasta 28 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/floppy-disk-512-gb-1069897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consiguen-floppy-disk-almacene-512-gb-datos-aunque-podria-almacenar-28-tb-2717913.jpg' alt='Consiguen que un disquete almacene 512 GB de datos, aunque podría almacenar hasta 28 TB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-conexion-wifi-inestable-corta-todo-rato-1059851'>Cómo reparar una conexión WiFi inestable que se corta todo el rato</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-reparar-conexion-wifi-inestable-corta-todo-rato-1059851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645673.jpg' alt='Cómo reparar una conexión WiFi inestable que se corta todo el rato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383'>Nubia RedMagic 7 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/nubia-redmagic-7-pro-review-opinion-1063383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-redmagic-7-pro-2706453.jpg' alt='Nubia RedMagic 7 Pro, análisis y opinión' />
     </a>
 </div>
 
