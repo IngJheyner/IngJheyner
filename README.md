@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facil-nos-pondra-microsoft-instalar-todas-aplicaciones-ordenador-nuevo-1072365'>Así de fácil nos lo pondrá Microsoft para instalar todas nuestras aplicaciones en un ordenador nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facil-nos-pondra-microsoft-instalar-todas-aplicaciones-ordenador-nuevo-1072365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Así de fácil nos lo pondrá Microsoft para instalar todas nuestras aplicaciones en un ordenador nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353'>Este robot aspirador es un todo en uno y encima se limpia y se recarga solo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='Este robot aspirador es un todo en uno y encima se limpia y se recarga solo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337'>La beta de Android Auto 7.8 está disponible y ya puedes probarla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La beta de Android Auto 7.8 está disponible y ya puedes probarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945'>Cómo proteger fotos con contraseña en Snapchat</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/snapchat-facebook-instagram.jpg' alt='Cómo proteger fotos con contraseña en Snapchat' />
     </a>
 </div>
 
