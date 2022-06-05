@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337'>La beta de Android Auto 7.8 ya está disponible y ya puedes probarla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La beta de Android Auto 7.8 ya está disponible y ya puedes probarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945'>Cómo proteger fotos con contraseña en Snapchat</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/snapchat-facebook-instagram.jpg' alt='Cómo proteger fotos con contraseña en Snapchat' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google Translate: las webs y apps más fiables para traducir textos online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google Translate: las webs y apps más fiables para traducir textos online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-estacion-basada-energia-solar-capaz-cargar-vehiculos-electricos-campus-universitario-1072111'>Crean una estación basada en energía solar capaz de cargar vehículos eléctricos en un campus universitario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-estacion-basada-energia-solar-capaz-cargar-vehiculos-electricos-campus-universitario-1072111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/crean-estacion-solar-capaz-cargar-vehiculos-electricos-campus-universitario-2721485.jpg' alt='Crean una estación basada en energía solar capaz de cargar vehículos eléctricos en un campus universitario' />
     </a>
 </div>
 
