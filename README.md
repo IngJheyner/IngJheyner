@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395'>Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año</a></h4>
+    <a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-portatil-frio-calor-2708331.jpg' alt='Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123'>En qué dirección rota la chica, la ilusión óptica que explota en TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/direccion-rota-chica-ilusion-optica-explota-tiktok-2721509.jpg' alt='En qué dirección rota la chica, la ilusión óptica que explota en TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105'>Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011'>Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ordenadores-portatiles-hp-baratos-menos-600-euros-merecen-pena-1010011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-hp-2612139.jpg' alt='Ordenadores portátiles HP: modelos baratos de menos de 600 euros que merecen la pena' />
     </a>
 </div>
 
