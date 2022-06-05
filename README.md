@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761'>GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/glassouse-pro-dispositivo-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-cabeza-2719149.jpg' alt='GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395'>Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año</a></h4>
     <a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-portatil-frio-calor-2708331.jpg' alt='Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115'>Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105'>Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primera-ciudad-espana-no-puedes-entrar-conduciendo-pegatina-dgt-1072105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Esta es la primera ciudad de España en la que no puedes entrar conduciendo sin pegatina DGT' />
     </a>
 </div>
 
