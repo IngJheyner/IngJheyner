@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google Translate: las webs y apps más fiables para traducir textos online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google Translate: las webs y apps más fiables para traducir textos online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-estacion-basada-energia-solar-capaz-cargar-vehiculos-electricos-campus-universitario-1072111'>Crean una estación basada en energía solar capaz de cargar vehículos eléctricos en un campus universitario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-estacion-basada-energia-solar-capaz-cargar-vehiculos-electricos-campus-universitario-1072111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/crean-estacion-solar-capaz-cargar-vehiculos-electricos-campus-universitario-2721485.jpg' alt='Crean una estación basada en energía solar capaz de cargar vehículos eléctricos en un campus universitario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109'>Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte</a></h4>
     <a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cafe-2721483.jpg' alt='Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081'>realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-pad-vs-realme-pad-mini-2721491.jpg' alt='realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761'>GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/glassouse-pro-dispositivo-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-cabeza-2719149.jpg' alt='GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395'>Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año</a></h4>
-    <a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-portatil-frio-calor-2708331.jpg' alt='Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año' />
     </a>
 </div>
 
