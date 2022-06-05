@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813'>¿Qué es Foodtech o tecnología de los alimentos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foodtech-tecnologia-alimentos-2720139.jpg' alt='¿Qué es Foodtech o tecnología de los alimentos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-canon-powershot-px-fotografo-amateur-automata-1070807'>Análisis de la Canon PowerShot PX, tu fotógrafo amateur autómata</a></h4>
+    <a href='https://computerhoy.com/analisis/review-canon-powershot-px-fotografo-amateur-automata-1070807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-canon-powershot-px-2719831.jpg' alt='Análisis de la Canon PowerShot PX, tu fotógrafo amateur autómata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google Translate: las webs y apps más fiables para traducir textos online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google Translate: las webs y apps más fiables para traducir textos online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109'>Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte</a></h4>
     <a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cafe-2721483.jpg' alt='Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-realmente-energia-eolica-1070337'>Cómo funciona realmente la energía eólica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-realmente-energia-eolica-1070337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/energia-aeolica-2718463.jpg' alt='Cómo funciona realmente la energía eólica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081'>realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-pad-vs-realme-pad-mini-2721491.jpg' alt='realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?' />
     </a>
 </div>
 
