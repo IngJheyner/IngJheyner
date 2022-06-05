@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487'>6 películas con arañas e insectos gigantes que te harán pasar mucho miedo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/starship-troopers-2718863.jpg' alt='6 películas con arañas e insectos gigantes que te harán pasar mucho miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-nuevo-aire-acondicionado-refrescara-cualquier-habitacion-solo-segundos-1072347'>Xiaomi presenta su nuevo aire acondicionado que refrescará cualquier habitación en solo unos segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-nuevo-aire-acondicionado-refrescara-cualquier-habitacion-solo-segundos-1072347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-giant-power-saving-pro-15hp-2721799.jpg' alt='Xiaomi presenta su nuevo aire acondicionado que refrescará cualquier habitación en solo unos segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337'>La beta de Android Auto 7.8 ya está disponible y ya puedes probarla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La beta de Android Auto 7.8 ya está disponible y ya puedes probarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813'>¿Qué es Foodtech o tecnología de los alimentos?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foodtech-tecnologia-alimentos-2720139.jpg' alt='¿Qué es Foodtech o tecnología de los alimentos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-canon-powershot-px-fotografo-amateur-automata-1070807'>Análisis de la Canon PowerShot PX, tu fotógrafo amateur autómata</a></h4>
-    <a href='https://computerhoy.com/analisis/review-canon-powershot-px-fotografo-amateur-automata-1070807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-canon-powershot-px-2719831.jpg' alt='Análisis de la Canon PowerShot PX, tu fotógrafo amateur autómata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877'>Alternativas a Google Translate: las webs y apps más fiables para traducir textos online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-1067877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/alternativas-google-translate-webs-apps-fiables-traducir-textos-online-2714073.jpg' alt='Alternativas a Google Translate: las webs y apps más fiables para traducir textos online' />
     </a>
 </div>
 
