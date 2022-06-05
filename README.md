@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353'>Este robot aspirador es un todo en uno y encima se limpia y se recarga solo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='Este robot aspirador es un todo en uno y encima se limpia y se recarga solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487'>6 películas con arañas e insectos gigantes que te harán pasar mucho miedo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/starship-troopers-2718863.jpg' alt='6 películas con arañas e insectos gigantes que te harán pasar mucho miedo' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337'>La beta de Android Auto 7.8 ya está disponible y ya puedes probarla</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337'>La beta de Android Auto 7.8 está disponible y ya puedes probarla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/beta-android-auto-78-ya-disponible-ya-puedes-probarla-1072337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La beta de Android Auto 7.8 ya está disponible y ya puedes probarla' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='La beta de Android Auto 7.8 está disponible y ya puedes probarla' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945'>Cómo proteger fotos con contraseña en Snapchat</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-proteger-fotos-contrasena-snapchat-1063945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/snapchat-facebook-instagram.jpg' alt='Cómo proteger fotos con contraseña en Snapchat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813'>¿Qué es Foodtech o tecnología de los alimentos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/foodtech-tecnologia-alimentos-1058813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foodtech-tecnologia-alimentos-2720139.jpg' alt='¿Qué es Foodtech o tecnología de los alimentos?' />
     </a>
 </div>
 
