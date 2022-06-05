@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389'>Una tienda añade la ficha de dos Mac Mini con procesador M2, un día antes del WWDC 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Una tienda añade la ficha de dos Mac Mini con procesador M2, un día antes del WWDC 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367'>WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487'>6 películas con arañas e insectos gigantes que te harán pasar mucho miedo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/starship-troopers-2718863.jpg' alt='6 películas con arañas e insectos gigantes que te harán pasar mucho miedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-nuevo-aire-acondicionado-refrescara-cualquier-habitacion-solo-segundos-1072347'>Xiaomi presenta su nuevo aire acondicionado que refrescará cualquier habitación en solo unos segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-presenta-nuevo-aire-acondicionado-refrescara-cualquier-habitacion-solo-segundos-1072347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-giant-power-saving-pro-15hp-2721799.jpg' alt='Xiaomi presenta su nuevo aire acondicionado que refrescará cualquier habitación en solo unos segundos' />
     </a>
 </div>
 
