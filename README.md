@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407'>Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/firefox-ya-permite-traducir-textos-12-idiomas-necesidad-conectarse-internet-gran-avance-privacidad-2722005.jpg' alt='Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403'>Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra</a></h4>
     <a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alpes-estan-volviendo-verdes-culpa-cambio-climatico-comparativa-nos-muestra-2721997.jpg' alt='Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389'>Una tienda añade la ficha de un Mac Mini con procesador M2 y un Mac Mini Tower, un día antes del WWDC 2022 de Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Una tienda añade la ficha de un Mac Mini con procesador M2 y un Mac Mini Tower, un día antes del WWDC 2022 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367'>WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados' />
     </a>
 </div>
 
