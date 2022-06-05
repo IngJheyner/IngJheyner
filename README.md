@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389'>Una tienda añade la ficha de dos Mac Mini con procesador M2, un día antes del WWDC 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Una tienda añade la ficha de dos Mac Mini con procesador M2, un día antes del WWDC 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353'>Este robot aspirador es un todo en uno y encima se limpia y se recarga solo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-todo-encima-limpia-recarga-solo-1072353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/conga-2290-ultra-home-2643141.jpg' alt='Este robot aspirador es un todo en uno y encima se limpia y se recarga solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487'>6 películas con arañas e insectos gigantes que te harán pasar mucho miedo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-aranas-insectos-gigantes-te-haran-pasar-mucho-miedo-1070487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/starship-troopers-2718863.jpg' alt='6 películas con arañas e insectos gigantes que te harán pasar mucho miedo' />
     </a>
 </div>
 
