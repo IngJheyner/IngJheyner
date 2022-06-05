@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119'>La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planta-larga-mundo-mide-algunos-paises-ha-vivido-4500-anos-2719929.jpg' alt='La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407'>Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/firefox-ya-permite-traducir-textos-12-idiomas-necesidad-conectarse-internet-gran-avance-privacidad-2722005.jpg' alt='Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389'>Una tienda añade la ficha de un Mac Mini con procesador M2 y un Mac Mini Tower, un día antes del WWDC 2022 de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wwdc-2022-apple-mac-mini-procesador-m2-1072389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='Una tienda añade la ficha de un Mac Mini con procesador M2 y un Mac Mini Tower, un día antes del WWDC 2022 de Apple' />
     </a>
 </div>
 
