@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109'>Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/taza-cafe-marca-diferencia-bebes-cafe-tendras-menos-riesgo-muerte-1072109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cafe-2721483.jpg' alt='Una taza de café marca la diferencia: si bebes café tendrás menos riesgo de muerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-realmente-energia-eolica-1070337'>Cómo funciona realmente la energía eólica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-realmente-energia-eolica-1070337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/energia-aeolica-2718463.jpg' alt='Cómo funciona realmente la energía eólica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081'>realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/realme-pad-vs-realme-pad-mini-mejor-tablet-1072081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-pad-vs-realme-pad-mini-2721491.jpg' alt='realme Pad vs realme Pad Mini, ¿qué tablet deberías comprar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761'>GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/glassouse-pro-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-manos-1070761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/glassouse-pro-dispositivo-permite-personas-discapacitadas-puedan-usar-movil-pc-jugar-videojuegos-cabeza-2719149.jpg' alt='GlassOuse PRO permite que personas discapacitadas puedan usar el móvil, el PC, o jugar a videojuegos sin manos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395'>Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año</a></h4>
     <a href='https://computerhoy.com/guia-compra/climatizador-portatil-1064395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-portatil-frio-calor-2708331.jpg' alt='Guía para comprar un climatizador portátil de frio calor para disfrutar todo el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123'>En qué dirección rota la chica, la ilusión óptica que explota en TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-chica-gira-tiktok-1072123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/direccion-rota-chica-ilusion-optica-explota-tiktok-2721509.jpg' alt='En qué dirección rota la chica, la ilusión óptica que explota en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467'>La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/escalera-mecanica-carton-1071467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-forma-entender-como-funciona-escalera-mecanica-creando-carton-2720485.jpg' alt='La mejor forma de entender cómo funciona una escalera mecánica es... creando una de cartón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115'>Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-realidad-mixta-apple-irian-2023-hay-directores-hollywood-involucrados-proyecto-1072115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg' alt='Los auriculares de realidad mixta de Apple se irían a 2023 y hay directores de Hollywood involucrados en el proyecto' />
     </a>
 </div>
 
