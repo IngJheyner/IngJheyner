@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403'>Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alpes-estan-volviendo-verdes-culpa-cambio-climatico-comparativa-nos-muestra-2721997.jpg' alt='Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peaky-blinders-temporada-6-netflix-1072399'>El viernes vuelve la serie de Netflix que despierta pasiones desde que se estrenó en 2013</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peaky-blinders-temporada-6-netflix-1072399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/viernes-vuelve-serie-netflix-despierta-pasiones-estreno-2013-2721973.jpg' alt='El viernes vuelve la serie de Netflix que despierta pasiones desde que se estrenó en 2013' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367'>WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-posibilidad-poder-cambiar-nombre-dispositivos-vinculados-1072367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp trabaja en la posibilidad de poder cambiar el nombre de los dispositivos vinculados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facil-nos-pondra-microsoft-instalar-todas-aplicaciones-ordenador-nuevo-1072365'>Así de fácil nos lo pondrá Microsoft para instalar todas nuestras aplicaciones en un ordenador nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facil-nos-pondra-microsoft-instalar-todas-aplicaciones-ordenador-nuevo-1072365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Así de fácil nos lo pondrá Microsoft para instalar todas nuestras aplicaciones en un ordenador nuevo' />
     </a>
 </div>
 
