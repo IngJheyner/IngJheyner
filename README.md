@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705'>Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629'>Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-galaxy-fold-lite-1072689'>Samsung estaría trabajando en un Galaxy Fold Lite</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-galaxy-fold-lite-1072689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435731.jpg' alt='Samsung estaría trabajando en un Galaxy Fold Lite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-rebajas-6-junio-2022-1072591'>Nintendo Switch OLED tiene una de sus primeras rebajas de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-rebajas-6-junio-2022-1072591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='Nintendo Switch OLED tiene una de sus primeras rebajas de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617'>Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/i-am-groot-2722187.jpg' alt='Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-vuelve-verde-primera-recibir-certificacion-ecologo-raton-gaming-1072611'>Razer se vuelve más verde y es la primera en recibir la certificación Ecologo para un ratón gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razer-vuelve-verde-primera-recibir-certificacion-ecologo-raton-gaming-1072611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/razer-ecologo-2722195.jpg' alt='Razer se vuelve más verde y es la primera en recibir la certificación Ecologo para un ratón gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991'>Consejos y guía para comprar un molinillo de café</a></h4>
-    <a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/molinillo-2688527.jpg' alt='Consejos y guía para comprar un molinillo de café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1072579'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1072579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2722153.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119'>La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planta-larga-mundo-mide-algunos-paises-ha-vivido-4500-anos-2719929.jpg' alt='La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años' />
     </a>
 </div>
 
