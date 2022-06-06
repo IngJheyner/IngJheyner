@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/son-informes-vehiculo-dgt-tipos-como-conseguirlos-sirven-1072831'>Qué son los informes de vehículo de la DGT: tipos, cómo conseguirlos y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/son-informes-vehiculo-dgt-tipos-como-conseguirlos-sirven-1072831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué son los informes de vehículo de la DGT: tipos, cómo conseguirlos y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/podria-ocurrir-shiba-inu-continua-quema-intensiva-tokens-1072759'>Qué podría ocurrir con Shiba Inu si se continúa la quema intensiva de tokens</a></h4>
+    <a href='https://computerhoy.com/noticias/podria-ocurrir-shiba-inu-continua-quema-intensiva-tokens-1072759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Qué podría ocurrir con Shiba Inu si se continúa la quema intensiva de tokens' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-ya-trabaja-nuevo-smartphone-200w-carga-rapida-1072737'>Vivo ya trabaja en un nuevo smartphone con 200W de carga rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-ya-trabaja-nuevo-smartphone-200w-carga-rapida-1072737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-camaras-especificaciones-vivo-s15-s15-pro-2698759.jpg' alt='Vivo ya trabaja en un nuevo smartphone con 200W de carga rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785'>Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719'>Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2559043.jpg' alt='Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-vuelca-coche-electrico-nueva-norma-obligado-cumplimiento-1-enero-2023-1072763'>España se vuelca con el coche eléctrico con la nueva norma de obligado cumplimiento desde el 1 de enero de 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espana-vuelca-coche-electrico-nueva-norma-obligado-cumplimiento-1-enero-2023-1072763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='España se vuelca con el coche eléctrico con la nueva norma de obligado cumplimiento desde el 1 de enero de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/krups-nespresso-vertuo-oferta-6-junio-2022-1072605'>Una de las mejores cafeteras Nespresso está a mitad de precio, y tiene WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/krups-nespresso-vertuo-oferta-6-junio-2022-1072605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cafetera-capsulas-2722177.jpg' alt='Una de las mejores cafeteras Nespresso está a mitad de precio, y tiene WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demoledor-correo-elon-musk-amenazando-empleados-tesla-1072733'>El demoledor correo de Elon Musk amenazando a los empleados de Tesla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demoledor-correo-elon-musk-amenazando-empleados-tesla-1072733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='El demoledor correo de Elon Musk amenazando a los empleados de Tesla' />
     </a>
 </div>
 
