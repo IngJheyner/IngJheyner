@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-no-desisten-predicen-fecha-precio-bitcoin-llegara-100000-1072867'>Los expertos de Bloomberg no desisten y predicen la fecha en la que el precio de Bitcoin llegará a los 100.000</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-bloomberg-no-desisten-predicen-fecha-precio-bitcoin-llegara-100000-1072867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/criptomonedas-2578671.jpg' alt='Los expertos de Bloomberg no desisten y predicen la fecha en la que el precio de Bitcoin llegará a los 100.000' />
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite'>Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/7-juegos-mundo-abierto-tienes-probar-ya-mismo-telefono-android-1072773'>7 juegos de mundo abierto que tienes que probar ya mismo en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/7-juegos-mundo-abierto-tienes-probar-ya-mismo-telefono-android-1072773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-juegos-mundo-abierto-tienes-probar-ya-mismo-telefono-android-2722455.jpg' alt='7 juegos de mundo abierto que tienes que probar ya mismo en tu teléfono Android' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-modulo-camaras-xiaomi-12-ultra-seria-descomunal-1072889'>Los últimos rumores apuntan a que el módulo de cámaras del Xiaomi 12 Ultra sería descomunal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-modulo-camaras-xiaomi-12-ultra-seria-descomunal-1072889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Los últimos rumores apuntan a que el módulo de cámaras del Xiaomi 12 Ultra sería descomunal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/westworld-regresa-mes-hbo-max-temporada-4-pero-sufre-importante-problema-1072833'>Westworld regresa este mes a HBO Max con la temporada 4, pero sufre un importante problema</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/westworld-regresa-mes-hbo-max-temporada-4-pero-sufre-importante-problema-1072833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/westworld-3-1934127.jpg' alt='Westworld regresa este mes a HBO Max con la temporada 4, pero sufre un importante problema' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/paneles-solares-baterias-ofertas-ebay-1072819'>Paneles y baterías solares: estos packs están rebajados de precio en eBay</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/paneles-solares-baterias-ofertas-ebay-1072819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/panel-solar-2722643.jpg' alt='Paneles y baterías solares: estos packs están rebajados de precio en eBay' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-puedes-devolver-color-fotos-blanco-negro-1072823'>Con esta herramienta puedes devolver el color a las fotos en blanco y negro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-puedes-devolver-color-fotos-blanco-negro-1072823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/herramienta-puedes-devolver-color-fotos-blanco-negro-2722647.jpg' alt='Con esta herramienta puedes devolver el color a las fotos en blanco y negro' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929'>Cuál es el planeta mas grande del sistema solar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/sistema-solar-2086751.jpg' alt='Cuál es el planeta mas grande del sistema solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-1072795'>POCO C40 llega para completar la línea de productos por la parte inferior en precio, que no en especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-1072795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-2722549.jpg' alt='POCO C40 llega para completar la línea de productos por la parte inferior en precio, que no en especificaciones' />
+    <h4><a href='https://computerhoy.com/guia-compra/aire-acondicionado'>Cómo instalar un aire acondicionado en 2022: guía de compra con modelos, comparativas y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/guia-compra/aire-acondicionado' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo instalar un aire acondicionado en 2022: guía de compra con modelos, comparativas y consejos de compra' />
     </a>
 </div>
 
