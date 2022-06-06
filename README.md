@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005'>8 usos inesperados para la sal de mesa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/10-usos-inesperados-sal-mesa-2723295.jpg' alt='8 usos inesperados para la sal de mesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931'>WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975'>El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-air-m2-2723171.jpg' alt='El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977'>Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-pay-4-meses-2723063.jpg' alt='Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later' />
     </a>
 </div>
 
