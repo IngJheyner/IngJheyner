@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-estreno-ms-marvel-obi-wan-capitulo-4-1072935'>Disney+ lanza este miércoles lo que se espera de la plataforma: nueva serie de Marvel y más Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-estreno-ms-marvel-obi-wan-capitulo-4-1072935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/disney-lanza-miercoles-espera-plataforma-nueva-serie-marvel-star-wars-2722885.jpg' alt='Disney+ lanza este miércoles lo que se espera de la plataforma: nueva serie de Marvel y más Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite'>Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias</a></h4>
     <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929'>Cuál es el planeta mas grande del sistema solar</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/sistema-solar-2086751.jpg' alt='Cuál es el planeta mas grande del sistema solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/aire-acondicionado'>Cómo instalar un aire acondicionado en 2022: guía de compra con modelos, comparativas y consejos de compra</a></h4>
-    <a href='https://computerhoy.com/guia-compra/aire-acondicionado' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo instalar un aire acondicionado en 2022: guía de compra con modelos, comparativas y consejos de compra' />
     </a>
 </div>
 
