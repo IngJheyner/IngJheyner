@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciclorrotores-dotan-superpoderes-nuevo-drone-no-necesita-inclinarse-moverse-1072741'>Los ciclorrotores dotan de superpoderes a un nuevo dron que no necesita inclinarse para moverse</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciclorrotores-dotan-superpoderes-nuevo-drone-no-necesita-inclinarse-moverse-1072741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pitch-aero-astria-2722389.jpg' alt='Los ciclorrotores dotan de superpoderes a un nuevo dron que no necesita inclinarse para moverse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realtek-tcl-punto-mira-ee-uu-supuestamente-infringir-patentes-amd-ati-technologies-nuevo-caso-huawei-1072729'>Realtek y TCL en el punto de mira de EE. UU. por supuestamente infringir patentes de AMD y ATI Technologies, ¿nuevo caso Huawei?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realtek-tcl-punto-mira-ee-uu-supuestamente-infringir-patentes-amd-ati-technologies-nuevo-caso-huawei-1072729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/estados-unidos-china-2222605.jpg' alt='Realtek y TCL en el punto de mira de EE. UU. por supuestamente infringir patentes de AMD y ATI Technologies, ¿nuevo caso Huawei?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/new-york-times-anuncia-trasladara-wordle-completo-pagina-1072681'>New York Times anuncia que trasladará Wordle al completo a su página</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/new-york-times-anuncia-trasladara-wordle-completo-pagina-1072681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591547.jpg' alt='New York Times anuncia que trasladará Wordle al completo a su página' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705'>Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629'>Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-galaxy-fold-lite-1072689'>Samsung estaría trabajando en un Galaxy Fold Lite</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-galaxy-fold-lite-1072689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435731.jpg' alt='Samsung estaría trabajando en un Galaxy Fold Lite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-rebajas-6-junio-2022-1072591'>Nintendo Switch OLED tiene una de sus primeras rebajas de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-rebajas-6-junio-2022-1072591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg' alt='Nintendo Switch OLED tiene una de sus primeras rebajas de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617'>Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/i-am-groot-2722187.jpg' alt='Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones' />
     </a>
 </div>
 
