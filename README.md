@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciclorrotores-dotan-superpoderes-nuevo-drone-no-necesita-inclinarse-moverse-1072741'>Los ciclorrotores dotan de superpoderes a un nuevo dron que no necesita inclinarse para moverse</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciclorrotores-dotan-superpoderes-nuevo-drone-no-necesita-inclinarse-moverse-1072741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pitch-aero-astria-2722389.jpg' alt='Los ciclorrotores dotan de superpoderes a un nuevo dron que no necesita inclinarse para moverse' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785'>Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realtek-tcl-punto-mira-ee-uu-supuestamente-infringir-patentes-amd-ati-technologies-nuevo-caso-huawei-1072729'>Realtek y TCL en el punto de mira de EE. UU. por supuestamente infringir patentes de AMD y ATI Technologies, ¿nuevo caso Huawei?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realtek-tcl-punto-mira-ee-uu-supuestamente-infringir-patentes-amd-ati-technologies-nuevo-caso-huawei-1072729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/estados-unidos-china-2222605.jpg' alt='Realtek y TCL en el punto de mira de EE. UU. por supuestamente infringir patentes de AMD y ATI Technologies, ¿nuevo caso Huawei?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719'>Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2559043.jpg' alt='Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/new-york-times-anuncia-trasladara-wordle-completo-pagina-1072681'>New York Times anuncia que trasladará Wordle al completo a su página</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/new-york-times-anuncia-trasladara-wordle-completo-pagina-1072681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mejores-palabras-trucos-ganar-wordle-hacer-trampas-2591547.jpg' alt='New York Times anuncia que trasladará Wordle al completo a su página' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espana-vuelca-coche-electrico-nueva-norma-obligado-cumplimiento-1-enero-2023-1072763'>España se vuelca con el coche eléctrico con la nueva norma de obligado cumplimiento desde el 1 de enero de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espana-vuelca-coche-electrico-nueva-norma-obligado-cumplimiento-1-enero-2023-1072763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-vision-s-coche-electrico-2578365.jpg' alt='España se vuelca con el coche eléctrico con la nueva norma de obligado cumplimiento desde el 1 de enero de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705'>Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-assistant-perdera-funciones-antiguas-recordatorios-localizacion-1072705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg' alt='Google Assistant perderá una de sus funciones más antiguas, los recordatorios por localización' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/krups-nespresso-vertuo-oferta-6-junio-2022-1072605'>Una de las mejores cafeteras Nespresso está a mitad de precio, y tiene WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/krups-nespresso-vertuo-oferta-6-junio-2022-1072605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cafetera-capsulas-2722177.jpg' alt='Una de las mejores cafeteras Nespresso está a mitad de precio, y tiene WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629'>Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-habria-compartido-datos-usuarios-gobierno-aleman-pese-afirmar-contrario-1072629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/telegram-2569611.jpg' alt='Telegram habría compartido datos de usuarios con el gobierno alemán, pese afirmar lo contrario' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demoledor-correo-elon-musk-amenazando-empleados-tesla-1072733'>El demoledor correo de Elon Musk amenazando a los empleados de Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demoledor-correo-elon-musk-amenazando-empleados-tesla-1072733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/elon-musk-tesla-2560983.jpg' alt='El demoledor correo de Elon Musk amenazando a los empleados de Tesla' />
     </a>
 </div>
 
