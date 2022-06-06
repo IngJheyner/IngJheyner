@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-puedes-devolver-color-fotos-blanco-negro-1072823'>Con esta herramienta puedes devolver el color a las fotos en blanco y negro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-puedes-devolver-color-fotos-blanco-negro-1072823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/herramienta-puedes-devolver-color-fotos-blanco-negro-2722647.jpg' alt='Con esta herramienta puedes devolver el color a las fotos en blanco y negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-1072795'>POCO C40 llega para completar la línea de productos por la parte inferior en precio, que no en especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-1072795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-c40-llega-completar-linea-productos-parte-inferior-precio-no-especificaciones-2722549.jpg' alt='POCO C40 llega para completar la línea de productos por la parte inferior en precio, que no en especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/son-informes-vehiculo-dgt-tipos-como-conseguirlos-sirven-1072831'>Qué son los informes de vehículo de la DGT: tipos, cómo conseguirlos y para qué sirven</a></h4>
     <a href='https://computerhoy.com/noticias/motor/son-informes-vehiculo-dgt-tipos-como-conseguirlos-sirven-1072831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='Qué son los informes de vehículo de la DGT: tipos, cómo conseguirlos y para qué sirven' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-ya-trabaja-nuevo-smartphone-200w-carga-rapida-1072737'>Vivo ya trabaja en un nuevo smartphone con 200W de carga rápida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-ya-trabaja-nuevo-smartphone-200w-carga-rapida-1072737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/son-camaras-especificaciones-vivo-s15-s15-pro-2698759.jpg' alt='Vivo ya trabaja en un nuevo smartphone con 200W de carga rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785'>Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-vs-mi-band-6-merecera-pena-cambio-1072785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Xiaomi Mi Band 7 vs Mi Band 6: ¿merecerá la pena el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719'>Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-ayuda-diabeticos-control-azucar-sangre-manera-automatica-1072719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/diabetes-2559043.jpg' alt='Esta IA ayuda a los diabéticos con el control de azúcar en sangre de manera automática' />
     </a>
 </div>
 
