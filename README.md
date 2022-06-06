@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-estreno-ms-marvel-obi-wan-capitulo-4-1072935'>Disney+ lanza este miércoles lo que se espera de la plataforma: nueva serie de Marvel y más Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-estreno-ms-marvel-obi-wan-capitulo-4-1072935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/disney-lanza-miercoles-espera-plataforma-nueva-serie-marvel-star-wars-2722885.jpg' alt='Disney+ lanza este miércoles lo que se espera de la plataforma: nueva serie de Marvel y más Star Wars' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877'>El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite'>Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='Guía para comprar en 2022 una freidora sin aceite o de aire: consejos, modelos y sus diferencias' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983'>El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-modulo-camaras-xiaomi-12-ultra-seria-descomunal-1072889'>Los últimos rumores apuntan a que el módulo de cámaras del Xiaomi 12 Ultra sería descomunal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-modulo-camaras-xiaomi-12-ultra-seria-descomunal-1072889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Los últimos rumores apuntan a que el módulo de cámaras del Xiaomi 12 Ultra sería descomunal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975'>El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-air-m2-2723171.jpg' alt='El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/paneles-solares-baterias-ofertas-ebay-1072819'>Paneles y baterías solares: estos packs están rebajados de precio en eBay</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/paneles-solares-baterias-ofertas-ebay-1072819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/panel-solar-2722643.jpg' alt='Paneles y baterías solares: estos packs están rebajados de precio en eBay' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977'>Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-pay-4-meses-2723063.jpg' alt='Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929'>Cuál es el planeta mas grande del sistema solar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-planeta-grande-sistema-solar-1072929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/sistema-solar-2086751.jpg' alt='Cuál es el planeta mas grande del sistema solar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pone-dificil-android-auto-nueva-version-carplay-1072967'>Apple se lo pone difícil a Android Auto con la nueva versión de CarPlay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-pone-dificil-android-auto-nueva-version-carplay-1072967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wwdc-sneak-peak-2723013.jpg' alt='Apple se lo pone difícil a Android Auto con la nueva versión de CarPlay' />
     </a>
 </div>
 
