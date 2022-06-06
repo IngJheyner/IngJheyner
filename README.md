@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877'>El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931'>WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad' />
     </a>
 </div>
 
@@ -60,7 +60,15 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983'>El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723261.jpg' alt='El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877'>El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977'>Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-pay-later-pagos-aplazados-sin-intereses-1072977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-pay-4-meses-2723063.jpg' alt='Apple se apunta a la moda de los pagos aplazados sin intereses con Pay Later' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-pone-dificil-android-auto-nueva-version-carplay-1072967'>Apple se lo pone difícil a Android Auto con la nueva versión de CarPlay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-pone-dificil-android-auto-nueva-version-carplay-1072967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wwdc-sneak-peak-2723013.jpg' alt='Apple se lo pone difícil a Android Auto con la nueva versión de CarPlay' />
     </a>
 </div>
 
