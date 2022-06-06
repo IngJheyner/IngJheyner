@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991'>Consejos y guía para comprar un molinillo de café</a></h4>
+    <a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/molinillo-2688527.jpg' alt='Consejos y guía para comprar un molinillo de café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1072579'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1072579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2722153.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119'>La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planta-larga-mundo-mide-algunos-paises-ha-vivido-4500-anos-2719929.jpg' alt='La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403'>Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra</a></h4>
     <a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alpes-estan-volviendo-verdes-culpa-cambio-climatico-comparativa-nos-muestra-2721997.jpg' alt='Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peaky-blinders-temporada-6-netflix-1072399'>El viernes vuelve la serie de Netflix que despierta pasiones desde que se estrenó en 2013</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peaky-blinders-temporada-6-netflix-1072399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/viernes-vuelve-serie-netflix-despierta-pasiones-estreno-2013-2721973.jpg' alt='El viernes vuelve la serie de Netflix que despierta pasiones desde que se estrenó en 2013' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029'>Estos son los mejores volantes para jugar en PC que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-volantes-jugar-pc-xbox-ps4-ps5-1017029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/volante-juegos-carreras-thrustmaster-ferrari-2624803.jpg' alt='Estos son los mejores volantes para jugar en PC que puedes comprar' />
     </a>
 </div>
 
