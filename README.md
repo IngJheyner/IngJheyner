@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617'>Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/groot-tendra-serie-animada-disney-llegara-verano-mitad-vacaciones-1072617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/i-am-groot-2722187.jpg' alt='Groot tendrá una serie animada en Disney+ y llegará este verano en mitad de las vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-vuelve-verde-primera-recibir-certificacion-ecologo-raton-gaming-1072611'>Razer se vuelve más verde y es la primera en recibir la certificación Ecologo para un ratón gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razer-vuelve-verde-primera-recibir-certificacion-ecologo-raton-gaming-1072611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/razer-ecologo-2722195.jpg' alt='Razer se vuelve más verde y es la primera en recibir la certificación Ecologo para un ratón gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991'>Consejos y guía para comprar un molinillo de café</a></h4>
     <a href='https://computerhoy.com/guia-compra/molinillo-cafe-1052991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/molinillo-2688527.jpg' alt='Consejos y guía para comprar un molinillo de café' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119'>La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/planta-mas-larga-mundo-180-kilometros-4500-anos-1071119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planta-larga-mundo-mide-algunos-paises-ha-vivido-4500-anos-2719929.jpg' alt='La planta más larga del mundo mide más que algunos países, y ha vivido 4.500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407'>Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/firefox-translations-traductor-offline-sin-internet-privacidad-1072407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/firefox-ya-permite-traducir-textos-12-idiomas-necesidad-conectarse-internet-gran-avance-privacidad-2722005.jpg' alt='Firefox ya traduce con IA textos a 12 idiomas sin conectarse a Internet, un gran avance en privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403'>Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alpes-verdes-cambio-climatico-comparativa-1072403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alpes-estan-volviendo-verdes-culpa-cambio-climatico-comparativa-nos-muestra-2721997.jpg' alt='Los Alpes se están volviendo verdes en tiempo récord por culpa del cambio climático: una comparativa nos lo muestra' />
     </a>
 </div>
 
