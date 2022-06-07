@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539'>Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/parrillas-electricas-oferta-1073363'>10 parrillas eléctricas en oferta para sacarle partido a tu patio, jardín o terraza</a></h4>
+    <a href='https://computerhoy.com/listas/life/parrillas-electricas-oferta-1073363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/barbacoa-pescado-carne-verduras-2723825.jpg' alt='10 parrillas eléctricas en oferta para sacarle partido a tu patio, jardín o terraza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681'>Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa</a></h4>
     <a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cortapelos-tomight-2420027.jpg' alt='Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771'>Guía y consejos para comprar una afeitadora corporal eléctrica masculina</a></h4>
     <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/afeitadora-electrica-xiaomi.jpg' alt='Guía y consejos para comprar una afeitadora corporal eléctrica masculina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/monitor-ultrapanoramico-885759'>Consejos y guía para comprar un monitor ultrapanorámico para trabajar o jugar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/monitor-ultrapanoramico-885759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/monitor-ultrapanoramico-lg-1941151.jpg' alt='Consejos y guía para comprar un monitor ultrapanorámico para trabajar o jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/sopera-electrica-912681'>Soperas eléctricas: qué son, cómo funciona y todo lo que debes saber si quieres comprar una</a></h4>
-    <a href='https://computerhoy.com/guia-compra/sopera-electrica-912681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/ciorba-sopa-rumana.jpg' alt='Soperas eléctricas: qué son, cómo funciona y todo lo que debes saber si quieres comprar una' />
     </a>
 </div>
 
