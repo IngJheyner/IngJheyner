@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-i7-oferta-7-junio-2022-1072807'>18 horas y batería y 1 kg de peso: este portátil ultraligero de LG baja casi 500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-i7-oferta-7-junio-2022-1072807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570141.jpg' alt='18 horas y batería y 1 kg de peso: este portátil ultraligero de LG baja casi 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/waze-quiere-animar-viajes-nueva-experiencia-famosos-1073307'>Waze quiere animar tus viajes con esta nueva experiencia con famosos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/waze-quiere-animar-viajes-nueva-experiencia-famosos-1073307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/waze-2723615.jpg' alt='Waze quiere animar tus viajes con esta nueva experiencia con famosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-ios-16-pantalla-bloqueo-redisenada-notificaciones-mejoradas-como-destacado-1073283'>Estas son las novedades de iOS 16: pantalla de bloqueo rediseñada y notificaciones mejoradas como lo más destacado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-ios-16-pantalla-bloqueo-redisenada-notificaciones-mejoradas-como-destacado-1073283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-ios-16-2723017.jpg' alt='Estas son las novedades de iOS 16: pantalla de bloqueo rediseñada y notificaciones mejoradas como lo más destacado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-nueva-generacion-solo-nombre-refinamiento-apple-m1-queda-detras-m1-pro-1073275'>Apple M2, nueva generación solo en el nombre: es un refinamiento del Apple M1 y queda por detrás del M1 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-nueva-generacion-solo-nombre-refinamiento-apple-m1-queda-detras-m1-pro-1073275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-m2-2723099.jpg' alt='Apple M2, nueva generación solo en el nombre: es un refinamiento del Apple M1 y queda por detrás del M1 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915'>Mejores cables de red que puedes comprar para tu PC y consola</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cable-red-2722897.jpg' alt='Mejores cables de red que puedes comprar para tu PC y consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1073219'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1073219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2723505.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895'>Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escoba-electrica-karcher-2722779.jpg' alt='Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007'>El aparcamiento vertical para motos que triunfa en la India (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aparcamiento-vertical-motos-triunfa-india-2723299.jpg' alt='El aparcamiento vertical para motos que triunfa en la India (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005'>8 usos inesperados para la sal de mesa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/10-usos-inesperados-sal-mesa-2723295.jpg' alt='8 usos inesperados para la sal de mesa' />
     </a>
 </div>
 
