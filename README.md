@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401'>Cuál es el animal mas grande del mundo y dónde puedes verlo	</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg' alt='Cuál es el animal mas grande del mundo y dónde puedes verlo	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471'>Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-2724035.jpg' alt='Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399'>El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 MP</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399'>El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2723809.jpg' alt='El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 MP' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2723809.jpg' alt='El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 Mpx' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431'>Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco</a></h4>
     <a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/panel-oled-samsung-2723911.jpg' alt='Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367'>Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera' />
     </a>
 </div>
 
