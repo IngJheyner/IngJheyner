@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603'>Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-premiadas-actualidad-ted-lasso-acerca-final-2724511.jpg' alt='Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681'>Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa</a></h4>
     <a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cortapelos-tomight-2420027.jpg' alt='Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773'>Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa</a></h4>
-    <a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/lucir-cuerpo-complejos-depiladora-permanente-philips-tiene-descuentazo-70-euros-2415501.jpg' alt='Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa' />
     </a>
 </div>
 
