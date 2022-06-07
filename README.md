@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/gran-rival-tesla-polestar-presenta-primer-suv-electrico-1073523'>El gran rival de Tesla, Polestar, presenta su primer SUV eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/gran-rival-tesla-polestar-presenta-primer-suv-electrico-1073523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/polestar-2-interior.jpg' alt='El gran rival de Tesla, Polestar, presenta su primer SUV eléctrico' />
+    <h4><a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681'>Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa</a></h4>
+    <a href='https://computerhoy.com/guia-compra/maquina-cortapelo-865681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cortapelos-tomight-2420027.jpg' alt='Guía y consejos para comprar un cortapelos o máquina para cortar el pelo en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-1073511'>Los avatares al puro estilo de Apple llegan a TikTok con este nuevo efecto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-1073511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-2724131.jpg' alt='Los avatares al puro estilo de Apple llegan a TikTok con este nuevo efecto' />
+    <h4><a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773'>Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa</a></h4>
+    <a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/lucir-cuerpo-complejos-depiladora-permanente-philips-tiene-descuentazo-70-euros-2415501.jpg' alt='Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-amish-usan-tecnologia-1073503'>Así es cómo los amish usan la tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-amish-usan-tecnologia-1073503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amish-2625897.jpg' alt='Así es cómo los amish usan la tecnología' />
+    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771'>Guía y consejos para comprar una afeitadora corporal eléctrica masculina</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/afeitadora-electrica-xiaomi.jpg' alt='Guía y consejos para comprar una afeitadora corporal eléctrica masculina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401'>Cuál es el animal mas grande del mundo y dónde puedes verlo	</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg' alt='Cuál es el animal mas grande del mundo y dónde puedes verlo	' />
+    <h4><a href='https://computerhoy.com/guia-compra/monitor-ultrapanoramico-885759'>Consejos y guía para comprar un monitor ultrapanorámico para trabajar o jugar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/monitor-ultrapanoramico-885759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/monitor-ultrapanoramico-lg-1941151.jpg' alt='Consejos y guía para comprar un monitor ultrapanorámico para trabajar o jugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471'>Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-2724035.jpg' alt='Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa' />
+    <h4><a href='https://computerhoy.com/guia-compra/sopera-electrica-912681'>Soperas eléctricas: qué son, cómo funciona y todo lo que debes saber si quieres comprar una</a></h4>
+    <a href='https://computerhoy.com/guia-compra/sopera-electrica-912681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/ciorba-sopa-rumana.jpg' alt='Soperas eléctricas: qué son, cómo funciona y todo lo que debes saber si quieres comprar una' />
     </a>
 </div>
 
