@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613'>Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creadores-fortnite-advierten-criptomoneda-fortnite-token-estafa-2724527.jpg' alt='Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-homcom-oferta-1073537'>No solo alivia, también refresca: este ventilador con nebulizador solo cuesta 74 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-homcom-oferta-1073537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-solo-alivia-tambien-refresca-ventilador-nebulizador-solo-cuesta-74-euros-2724297.jpg' alt='No solo alivia, también refresca: este ventilador con nebulizador solo cuesta 74 euros' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539'>Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/parrillas-electricas-oferta-1073363'>10 parrillas eléctricas en oferta para sacarle partido a tu patio, jardín o terraza</a></h4>
-    <a href='https://computerhoy.com/listas/life/parrillas-electricas-oferta-1073363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/barbacoa-pescado-carne-verduras-2723825.jpg' alt='10 parrillas eléctricas en oferta para sacarle partido a tu patio, jardín o terraza' />
     </a>
 </div>
 
