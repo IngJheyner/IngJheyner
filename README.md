@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1073219'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1073219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2723505.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895'>Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-escobas-electricas-1072895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escoba-electrica-karcher-2722779.jpg' alt='Escobas eléctricas: ¿merecen la pena? Estas son las mejores que puedes conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007'>El aparcamiento vertical para motos que triunfa en la India (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aparcamiento-vertical-motos-triunfa-india-2723299.jpg' alt='El aparcamiento vertical para motos que triunfa en la India (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931'>WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-impedir-robos-cuentas-preparando-medidas-mejorar-seguridad-1072931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp quiere impedir los robos de cuentas y está preparando medidas para mejorar su seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983'>El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-procesador-apple-m2-1072983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723261.jpg' alt='El nuevo MacBook Pro con procesador Apple M2 vuelve a romper todos los registros de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877'>El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros' />
     </a>
 </div>
 
