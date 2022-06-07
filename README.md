@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539'>Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773'>Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa</a></h4>
     <a href='https://computerhoy.com/guia-compra/depiladora-ipl-885773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/lucir-cuerpo-complejos-depiladora-permanente-philips-tiene-descuentazo-70-euros-2415501.jpg' alt='Consejos para comprar una depiladora de luz pulsada para hacer la depilación permanente en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771'>Guía y consejos para comprar una afeitadora corporal eléctrica masculina</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-afeitadora-corporal-electrica-masculina-885771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/afeitadora-electrica-xiaomi.jpg' alt='Guía y consejos para comprar una afeitadora corporal eléctrica masculina' />
     </a>
 </div>
 
