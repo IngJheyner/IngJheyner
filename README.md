@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/gran-rival-tesla-polestar-presenta-primer-suv-electrico-1073523'>El gran rival de Tesla, Polestar, presenta su primer SUV eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/gran-rival-tesla-polestar-presenta-primer-suv-electrico-1073523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/polestar-2-interior.jpg' alt='El gran rival de Tesla, Polestar, presenta su primer SUV eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-1073511'>Los avatares al puro estilo de Apple llegan a TikTok con este nuevo efecto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-1073511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avatares-puro-estilo-apple-llegan-tiktok-nuevo-efecto-2724131.jpg' alt='Los avatares al puro estilo de Apple llegan a TikTok con este nuevo efecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-amish-usan-tecnologia-1073503'>Así es cómo los amish usan la tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-amish-usan-tecnologia-1073503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/amish-2625897.jpg' alt='Así es cómo los amish usan la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401'>Cuál es el animal mas grande del mundo y dónde puedes verlo	</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-animal-grande-mundo-donde-puedes-verlo-1073401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ballena-azul-2723827.jpg' alt='Cuál es el animal mas grande del mundo y dónde puedes verlo	' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471'>Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-2724035.jpg' alt='Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399'>El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2723809.jpg' alt='El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431'>Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco</a></h4>
-    <a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/panel-oled-samsung-2723911.jpg' alt='Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco' />
     </a>
 </div>
 
