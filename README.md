@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007'>El aparcamiento vertical para motos que triunfa en la India (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/aparcamiento-vertical-motos-video-1073007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aparcamiento-vertical-motos-triunfa-india-2723299.jpg' alt='El aparcamiento vertical para motos que triunfa en la India (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005'>8 usos inesperados para la sal de mesa</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-usos-inesperados-sal-mesa-1073005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/10-usos-inesperados-sal-mesa-2723295.jpg' alt='8 usos inesperados para la sal de mesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877'>El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-honor-watch-gs-3-cupon-descuento-1072877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/honor-watch-gs-3-2703833.jpg' alt='El reloj Honor Watch GS 3, uno de los más precisos para medir la frecuencia cardíaca, acaba de salir pero ya baja de los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975'>El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-ya-aqui-primero-aprovechar-potencia-nuevo-apple-macbook-air-1072975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-air-m2-2723171.jpg' alt='El Apple M2 ya está aquí y el primero en aprovechar su potencia es el nuevo Apple MacBook Air' />
     </a>
 </div>
 
