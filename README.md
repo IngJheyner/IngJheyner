@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apagar-ordenador-todos-dias-hace-desgaste-rapido-1073369'>¿Apagar el ordenador todos los días hace que se desgaste más rápido?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apagar-ordenador-todos-dias-hace-desgaste-rapido-1073369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/botor-encender-apagar-ordenador-2636645.jpg' alt='¿Apagar el ordenador todos los días hace que se desgaste más rápido?' />
+    <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/perseverance-nasa-lleva-cuatro-meses-curioso-acompanante-viaje-marte-1073337'>El Perseverance de la NASA lleva cuatro meses con un curioso acompañante en su viaje por Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/perseverance-nasa-lleva-cuatro-meses-curioso-acompanante-viaje-marte-1073337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rover-perseverance-2506951.jpg' alt='El Perseverance de la NASA lleva cuatro meses con un curioso acompañante en su viaje por Marte' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399'>El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 MP</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-realme-gt-neo-3t-ya-ha-salido-luz-qualcomm-snapdragon-870-camara-principal-64-mp-1073399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3t-2723809.jpg' alt='El nuevo realme GT Neo 3T ya ha salido a la luz: Qualcomm Snapdragon 870 y una cámara principal de 64 MP' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-7-junio-2022-1072827'>Uno de los mejores relojes deportivos que hemos probado está rebajado de precio y cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-7-junio-2022-1072827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585301.jpg' alt='Uno de los mejores relojes deportivos que hemos probado está rebajado de precio y cuesta menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431'>Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco</a></h4>
+    <a href='https://computerhoy.com/noticias/pantalla-oled-portatiles-gaming-primera-mercado-240-hz-frecuencia-refresco-1073431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/panel-oled-samsung-2723911.jpg' alt='Pantalla OLED para portátiles gaming, la primera del mercado con 240 Hz de frecuencia de refresco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-ipados-16-watch-os-9-mac-os-ventura-1073355'>Todo lo que tienes que saber de iPadOS 16, Watch OS 9 y Mac OS Ventura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-ipados-16-watch-os-9-mac-os-ventura-1073355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-tim-cook-2722941.jpg' alt='Todo lo que tienes que saber de iPadOS 16, Watch OS 9 y Mac OS Ventura' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367'>Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-apostara-comics-adaptaciones-complicadas-trailer-no-decepciona-1073317'>Netflix apostará por los cómics con una de las adaptaciones más complicadas, y el tráiler no decepciona</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-apostara-comics-adaptaciones-complicadas-trailer-no-decepciona-1073317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sandman-2723291.jpg' alt='Netflix apostará por los cómics con una de las adaptaciones más complicadas, y el tráiler no decepciona' />
+    <h4><a href='https://computerhoy.com/noticias/motor/ocu-desvela-marcas-coche-fiables-pais-arrasa-claro-caro-perdedor-1073405'>La OCU desvela las marcas de coche más fiables: un país que arrasa y un claro (y caro) perdedor</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ocu-desvela-marcas-coche-fiables-pais-arrasa-claro-caro-perdedor-1073405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='La OCU desvela las marcas de coche más fiables: un país que arrasa y un claro (y caro) perdedor' />
     </a>
 </div>
 
