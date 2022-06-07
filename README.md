@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471'>Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-1073471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vowifi-importante-operadora-movil-ofrezca-tienes-poca-cobertura-casa-2724035.jpg' alt='Qué es VoWiFi y por qué es importante que tu operadora móvil lo ofrezca si tienes poca cobertura en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
     <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367'>Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todos-iphone-actualizaran-ios-16-tres-modelos-miticos-quedan-fuera-1073367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Todos los iPhone que actualizarán a iOS 16: tres modelos míticos se quedan fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ocu-desvela-marcas-coche-fiables-pais-arrasa-claro-caro-perdedor-1073405'>La OCU desvela las marcas de coche más fiables: un país que arrasa y un claro (y caro) perdedor</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ocu-desvela-marcas-coche-fiables-pais-arrasa-claro-caro-perdedor-1073405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-abre-primera-fabrica-automoviles-fabricara-300000-coches-electricos-ano-2546839.jpg' alt='La OCU desvela las marcas de coche más fiables: un país que arrasa y un claro (y caro) perdedor' />
     </a>
 </div>
 
