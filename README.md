@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apagar-ordenador-todos-dias-hace-desgaste-rapido-1073369'>¿Apagar el ordenador todos los días hace que se desgaste más rápido?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apagar-ordenador-todos-dias-hace-desgaste-rapido-1073369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/botor-encender-apagar-ordenador-2636645.jpg' alt='¿Apagar el ordenador todos los días hace que se desgaste más rápido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/perseverance-nasa-lleva-cuatro-meses-curioso-acompanante-viaje-marte-1073337'>El Perseverance de la NASA lleva cuatro meses con un curioso acompañante en su viaje por Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/perseverance-nasa-lleva-cuatro-meses-curioso-acompanante-viaje-marte-1073337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rover-perseverance-2506951.jpg' alt='El Perseverance de la NASA lleva cuatro meses con un curioso acompañante en su viaje por Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-7-junio-2022-1072827'>Uno de los mejores relojes deportivos que hemos probado está rebajado de precio y cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-7-junio-2022-1072827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585301.jpg' alt='Uno de los mejores relojes deportivos que hemos probado está rebajado de precio y cuesta menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-ipados-16-watch-os-9-mac-os-ventura-1073355'>Todo lo que tienes que saber de iPadOS 16, Watch OS 9 y Mac OS Ventura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-tienes-saber-ipados-16-watch-os-9-mac-os-ventura-1073355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-tim-cook-2722941.jpg' alt='Todo lo que tienes que saber de iPadOS 16, Watch OS 9 y Mac OS Ventura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-apostara-comics-adaptaciones-complicadas-trailer-no-decepciona-1073317'>Netflix apostará por los cómics con una de las adaptaciones más complicadas, y el tráiler no decepciona</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-apostara-comics-adaptaciones-complicadas-trailer-no-decepciona-1073317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sandman-2723291.jpg' alt='Netflix apostará por los cómics con una de las adaptaciones más complicadas, y el tráiler no decepciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nuevo-prototipo-speeder-jetpack-aviation-ya-listo-surcar-cielos-1073305'>El nuevo prototipo Speeder, la primera moto voladora del mundo, ya está listo para surcar los cielos</a></h4>
-    <a href='https://computerhoy.com/noticias/nuevo-prototipo-speeder-jetpack-aviation-ya-listo-surcar-cielos-1073305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/speeder-2723613.jpg' alt='El nuevo prototipo Speeder, la primera moto voladora del mundo, ya está listo para surcar los cielos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-twitter-cancelar-acuerdo-compra-1073271'>Elon Musk amenaza a Twitter con cancelar el acuerdo de compra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-amenaza-twitter-cancelar-acuerdo-compra-1073271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/consejo-administracion-twitter-anuncia-pildora-envenenada-evitar-elon-musk-compre-compania-2675491.jpg' alt='Elon Musk amenaza a Twitter con cancelar el acuerdo de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-i7-oferta-7-junio-2022-1072807'>18 horas y batería y 1 kg de peso: este portátil ultraligero de LG baja casi 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-i7-oferta-7-junio-2022-1072807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570141.jpg' alt='18 horas y batería y 1 kg de peso: este portátil ultraligero de LG baja casi 500 euros' />
     </a>
 </div>
 
