@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623'>7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-copia-android-2724579.jpg' alt='7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613'>Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creadores-fortnite-advierten-criptomoneda-fortnite-token-estafa-2724527.jpg' alt='Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539'>Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-tendra-despedirse-lightning-parlamento-europeo-aprueba-usb-c-como-cargador-universal-1073539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='Apple tendrá que despedirse del Lightning: el Parlamento Europeo aprueba el USB-C como cargador universal' />
     </a>
 </div>
 
