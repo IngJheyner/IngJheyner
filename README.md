@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097'>7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-2725395.jpg' alt='7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001'>Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-2725155.jpg' alt='Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007'>realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-2725143.jpg' alt='realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379'>Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canon-eos-850d-2725257.jpg' alt='Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano' />
     </a>
 </div>
 
