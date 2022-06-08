@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001'>Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-2725155.jpg' alt='Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041'>Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-2725247.jpg' alt='Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379'>Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canon-eos-850d-2725257.jpg' alt='Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039'>Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-2725361.jpg' alt='Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU' />
     </a>
 </div>
 
