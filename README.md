@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-exportacion-copia-seguridad-guardarla-local-1073873'>WhatsApp trabaja en la exportación de su copia de seguridad para guardarla en local</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-exportacion-copia-seguridad-guardarla-local-1073873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp trabaja en la exportación de su copia de seguridad para guardarla en local' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/gran-villano-batman-terror-gotham-tendra-secuela-confirmado-joaquin-phoenix-1073871'>El gran villano de Batman y terror de Gotham tendrá una secuela: confirmado por Joaquin Phoenix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/gran-villano-batman-terror-gotham-tendra-secuela-confirmado-joaquin-phoenix-1073871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/joker-2596315.jpg' alt='El gran villano de Batman y terror de Gotham tendrá una secuela: confirmado por Joaquin Phoenix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regletas-inteligentes-1072725'>Regletas inteligentes: qué tipos hay y cuáles son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regletas-inteligentes-1072725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/regleta-inteligente-2722537.jpg' alt='Regletas inteligentes: qué tipos hay y cuáles son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2724789.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519'>Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dji-pocket-2-2724329.jpg' alt='Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625'>3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-consejos-universales-quemar-grasa-verano-funcionan-verdad-2724581.jpg' alt='3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623'>7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-copia-android-2724579.jpg' alt='7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613'>Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creadores-fortnite-advierten-criptomoneda-fortnite-token-estafa-2724527.jpg' alt='Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'' />
     </a>
 </div>
 
