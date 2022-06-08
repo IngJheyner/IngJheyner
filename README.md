@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-wearables-cae-primera-vez-historia-1073921'>El mercado de los wearables cae por primera vez en la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-wearables-cae-primera-vez-historia-1073921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/fallo-servidores-samsung-limita-funciones-wearables-marca.jpg' alt='El mercado de los wearables cae por primera vez en la historia' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-peliculas-youtube-manera-legal-gratis-1074011'>Así puedes ver películas en YouTube de manera legal y gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-peliculas-youtube-manera-legal-gratis-1074011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/youtube-ads.jpg' alt='Así puedes ver películas en YouTube de manera legal y gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-permite-fijar-publicaciones-perfil-1073955'>Instagram por fin permite fijar publicaciones en nuestro perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-fin-permite-fijar-publicaciones-perfil-1073955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/instagram-fijar-publicaciones-2724985.jpg' alt='Instagram por fin permite fijar publicaciones en nuestro perfil' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-oled-48-pulgadas-8-junio-2022-1073303'>Si piensas comprar una OLED, ahora es el momento: este modelo LG de 48", rebajado a 698 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-oled-48-pulgadas-8-junio-2022-1073303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lg-oled-2511117.jpg' alt='Si piensas comprar una OLED, ahora es el momento: este modelo LG de 48", rebajado a 698 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/volvo-epic-games-asocian-usar-motor-unreal-engine-graficos-vehiculos-1073893'>Volvo y Epic Games se asocian para usar el motor Unreal Engine en los gráficos de sus vehículos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/volvo-epic-games-asocian-usar-motor-unreal-engine-graficos-vehiculos-1073893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/volvo-epic-games-asocian-usar-motor-unreal-engine-graficos-vehiculos-2724959.jpg' alt='Volvo y Epic Games se asocian para usar el motor Unreal Engine en los gráficos de sus vehículos' />
+    <h4><a href='https://computerhoy.com/noticias/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-1073979'>Samsung presenta una nueva y exclusiva colaboración con Blizzard y su Galaxy S22</a></h4>
+    <a href='https://computerhoy.com/noticias/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-1073979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-2725071.jpg' alt='Samsung presenta una nueva y exclusiva colaboración con Blizzard y su Galaxy S22' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-narzo-50-8-junio-2022-1073265'>Este móvil low cost de realme aprieta las tuercas a Xiaomi ahora que está en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-narzo-50-8-junio-2022-1073265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-narzo-50-2723553.jpg' alt='Este móvil low cost de realme aprieta las tuercas a Xiaomi ahora que está en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-1073951'>El fin de los ad-block y extensiones de privacidad cada vez está más cerca, aunque Google dice que es por nuestro bien</a></h4>
+    <a href='https://computerhoy.com/noticias/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-1073951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-2724975.jpg' alt='El fin de los ad-block y extensiones de privacidad cada vez está más cerca, aunque Google dice que es por nuestro bien' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-series-peliculas-importantes-proximos-meses-no-baja-ritmo-1073909'>Netflix ha anunciado las series y películas más importantes de los próximos meses, y no baja el ritmo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-series-peliculas-importantes-proximos-meses-no-baja-ritmo-1073909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha anunciado las series y películas más importantes de los próximos meses, y no baja el ritmo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-fotonico-puede-clasificar-millones-imagenes-rapido-parpadeo-humano-1073985'>Un procesador fotónico puede clasificar millones de imágenes más rápido que un parpadeo humano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-fotonico-puede-clasificar-millones-imagenes-rapido-parpadeo-humano-1073985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='Un procesador fotónico puede clasificar millones de imágenes más rápido que un parpadeo humano' />
     </a>
 </div>
 
