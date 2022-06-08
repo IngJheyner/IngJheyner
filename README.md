@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625'>3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-consejos-universales-quemar-grasa-verano-funcionan-verdad-2724581.jpg' alt='3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623'>7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-presentadas-wwdc-2022-google-ya-habia-hecho-anterioridad-1073623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-copia-android-2724579.jpg' alt='7 funciones presentadas en el WWDC 2022 que Google ya había hecho con anterioridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603'>Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-premiadas-actualidad-ted-lasso-acerca-final-2724511.jpg' alt='Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591'>Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/unplug-2-airtag-bloquea-redes-sociales-notificaciones-1073591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/unplug-2-air-tag-recuperar-hora-dia-vida-bloqueando-redes-sociales-notificaciones-2724449.jpg' alt='Unplug 2, el AirTag para recuperar una hora al día de tu vida bloqueando las redes sociales y notificaciones (vídeo)' />
     </a>
 </div>
 
