@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083'>Realme GT Neo 3, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725627.jpg' alt='Realme GT Neo 3, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215'>Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/disney-da-giro-nueva-serie-marvel-apuesta-publico-juvenil-2725779.jpg' alt='Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141'>Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097'>7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android</a></h4>
     <a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-2725395.jpg' alt='7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001'>Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-1074001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-ciudad-grande-mundo-cuantos-habitantes-tiene-2725155.jpg' alt='Cuál es la ciudad mas grande del mundo y cuántos habitantes tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041'>Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-2725247.jpg' alt='Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter' />
     </a>
 </div>
 
