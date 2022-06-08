@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-peliculas-youtube-manera-legal-gratis-1074011'>Así puedes ver películas en YouTube de manera legal y gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/puedes-ver-peliculas-youtube-manera-legal-gratis-1074011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/youtube-ads.jpg' alt='Así puedes ver películas en YouTube de manera legal y gratis' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007'>realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-2725143.jpg' alt='realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-oled-48-pulgadas-8-junio-2022-1073303'>Si piensas comprar una OLED, ahora es el momento: este modelo LG de 48", rebajado a 698 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-oled-48-pulgadas-8-junio-2022-1073303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lg-oled-2511117.jpg' alt='Si piensas comprar una OLED, ahora es el momento: este modelo LG de 48", rebajado a 698 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379'>Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/canon-eos-850d-oferta-8-junio-2022-1073379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canon-eos-850d-2725257.jpg' alt='Esta cámara Canon con vídeo 4K tiene es casi 200 euros más barata y perfecta para el verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-1073979'>Samsung presenta una nueva y exclusiva colaboración con Blizzard y su Galaxy S22</a></h4>
-    <a href='https://computerhoy.com/noticias/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-1073979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-presenta-nueva-exclusiva-colaboracion-blizzard-galaxy-s22-2725071.jpg' alt='Samsung presenta una nueva y exclusiva colaboración con Blizzard y su Galaxy S22' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039'>Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-2725361.jpg' alt='Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-1073951'>El fin de los ad-block y extensiones de privacidad cada vez está más cerca, aunque Google dice que es por nuestro bien</a></h4>
-    <a href='https://computerhoy.com/noticias/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-1073951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-2724975.jpg' alt='El fin de los ad-block y extensiones de privacidad cada vez está más cerca, aunque Google dice que es por nuestro bien' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribir-texto-vertical-word-1074055'>Cómo escribir texto en vertical en Word</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-escribir-texto-vertical-word-1074055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo escribir texto en vertical en Word' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-fotonico-puede-clasificar-millones-imagenes-rapido-parpadeo-humano-1073985'>Un procesador fotónico puede clasificar millones de imágenes más rápido que un parpadeo humano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-fotonico-puede-clasificar-millones-imagenes-rapido-parpadeo-humano-1073985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg' alt='Un procesador fotónico puede clasificar millones de imágenes más rápido que un parpadeo humano' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-fotos-reales-poco-f4-5g-igual-redmi-k50-1074017'>Se filtran fotos reales del POCO F4 5G: igual que el Redmi K50</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-fotos-reales-poco-f4-5g-igual-redmi-k50-1074017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-5g-2725159.jpg' alt='Se filtran fotos reales del POCO F4 5G: igual que el Redmi K50' />
     </a>
 </div>
 
