@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-series-peliculas-importantes-proximos-meses-no-baja-ritmo-1073909'>Netflix ha anunciado las series y películas más importantes de los próximos meses, y no baja el ritmo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ha-anunciado-series-peliculas-importantes-proximos-meses-no-baja-ritmo-1073909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/smart-tv-netflix-2509293.jpg' alt='Netflix ha anunciado las series y películas más importantes de los próximos meses, y no baja el ritmo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-no-debes-devolver-llamada-perdida-guardia-civil-no-quieres-pagar-1073905'>Los números de teléfono a los que no debes devolver una llamada perdida según la Guardia Civil, si no quieres pagar de más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-no-debes-devolver-llamada-perdida-guardia-civil-no-quieres-pagar-1073905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/moviles-1962803.jpg' alt='Los números de teléfono a los que no debes devolver una llamada perdida según la Guardia Civil, si no quieres pagar de más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pequeno-prometedor-estudio-cancer-ha-acabado-tumores-todos-pacientes-1073879'>El pequeño y prometedor estudio sobre el cáncer que ha acabado con los tumores de todos los pacientes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pequeno-prometedor-estudio-cancer-ha-acabado-tumores-todos-pacientes-1073879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estudio-cancer-2556941.jpg' alt='El pequeño y prometedor estudio sobre el cáncer que ha acabado con los tumores de todos los pacientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-exportacion-copia-seguridad-guardarla-local-1073873'>WhatsApp trabaja en la exportación de su copia de seguridad para guardarla en local</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-exportacion-copia-seguridad-guardarla-local-1073873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp trabaja en la exportación de su copia de seguridad para guardarla en local' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/gran-villano-batman-terror-gotham-tendra-secuela-confirmado-joaquin-phoenix-1073871'>El gran villano de Batman y terror de Gotham tendrá una secuela: confirmado por Joaquin Phoenix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/gran-villano-batman-terror-gotham-tendra-secuela-confirmado-joaquin-phoenix-1073871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/joker-2596315.jpg' alt='El gran villano de Batman y terror de Gotham tendrá una secuela: confirmado por Joaquin Phoenix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regletas-inteligentes-1072725'>Regletas inteligentes: qué tipos hay y cuáles son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regletas-inteligentes-1072725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/regleta-inteligente-2722537.jpg' alt='Regletas inteligentes: qué tipos hay y cuáles son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2724789.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519'>Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dji-pocket-2-2724329.jpg' alt='Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar' />
     </a>
 </div>
 
