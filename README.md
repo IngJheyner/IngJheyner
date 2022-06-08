@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237'>Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231'>Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-top-ventas-amazon-menos-20-euros-ahora-son-baratos-vuelven-arrasar-2725799.jpg' alt='Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215'>Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/disney-da-giro-nueva-serie-marvel-apuesta-publico-juvenil-2725779.jpg' alt='Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141'>Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería' />
     </a>
 </div>
 
