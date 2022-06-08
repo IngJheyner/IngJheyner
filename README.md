@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1073845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2724789.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519'>Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-compactas-gimbal-1073519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dji-pocket-2-2724329.jpg' alt='Pequeñas y con estabilización, estas son las mejores cámaras gimbal que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625'>3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-consejos-universales-adelgazar-quemar-grasa-1073625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/3-consejos-universales-quemar-grasa-verano-funcionan-verdad-2724581.jpg' alt='3 consejos universales sencillos para quemar grasa este verano, que funcionan de verdad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613'>Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomoneda-fortnite-token-estafa-1073613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creadores-fortnite-advierten-criptomoneda-fortnite-token-estafa-2724527.jpg' alt='Los creadores de Fortnite advierten: 'la criptomoneda Fortnite Token es una estafa'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-homcom-oferta-1073537'>No solo alivia, también refresca: este ventilador con nebulizador solo cuesta 74 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-homcom-oferta-1073537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-solo-alivia-tambien-refresca-ventilador-nebulizador-solo-cuesta-74-euros-2724297.jpg' alt='No solo alivia, también refresca: este ventilador con nebulizador solo cuesta 74 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603'>Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ted-lasso-temporada-3-final-1073603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-premiadas-actualidad-ted-lasso-acerca-final-2724511.jpg' alt='Una de las series más premiadas de la actualidad, Ted Lasso, se acerca a su final' />
     </a>
 </div>
 
