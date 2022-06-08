@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065'>Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097'>7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android</a></h4>
     <a href='https://computerhoy.com/listas/gaming/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-1074097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-juegos-pondran-prueba-sentido-ritmo-tienes-descargar-ya-mismo-android-2725395.jpg' alt='7 juegos que pondrán a prueba tu sentido del ritmo y que tienes que descargar ya mismo en tu Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087'>El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007'>realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-2725143.jpg' alt='realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100' />
     </a>
 </div>
 
