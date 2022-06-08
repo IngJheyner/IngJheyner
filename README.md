@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141'>Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065'>Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041'>Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-2725247.jpg' alt='Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087'>El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación' />
     </a>
 </div>
 
