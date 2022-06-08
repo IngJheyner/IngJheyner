@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041'>Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-1074041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/time-lapse-nasa-te-muestra-como-preparan-nave-viajara-luna-jupiter-2725247.jpg' alt='Este time lapse de la NASA te muestra cómo preparan la nave que viajará a la luna de Júpiter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087'>El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-smartphone-nothing-oficial-ya-tenemos-fecha-presentacion-1074087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nothing-phone-1-2654065.jpg' alt='El primer smartphone de Nothing es oficial y ya tenemos fecha de presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007'>realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pasa-carreras-realme-gt-neo-3-carga-150-w-dimensity-8100-1074007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-2725143.jpg' alt='realme se pasa a las carreras con el realme GT Neo 3 con carga de 150 W y Dimensity 8100' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039'>Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-1074039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-rastro-grandes-lista-mejores-operadores-telefonia-ocu-2725361.jpg' alt='Ni rastro de los grandes en la lista de los mejores operadores de telefonía de la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribir-texto-vertical-word-1074055'>Cómo escribir texto en vertical en Word</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-escribir-texto-vertical-word-1074055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo escribir texto en vertical en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-fotos-reales-poco-f4-5g-igual-redmi-k50-1074017'>Se filtran fotos reales del POCO F4 5G: igual que el Redmi K50</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-fotos-reales-poco-f4-5g-igual-redmi-k50-1074017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-5g-2725159.jpg' alt='Se filtran fotos reales del POCO F4 5G: igual que el Redmi K50' />
     </a>
 </div>
 
