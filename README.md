@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231'>Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-top-ventas-amazon-menos-20-euros-ahora-son-baratos-vuelven-arrasar-2725799.jpg' alt='Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227'>¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-castigo-te-pillan-copiando-examen-selectividad-2725795.jpg' alt='¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141'>Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-cada-vez-cerca-ser-realidad-seria-todo-ofreceria-1074141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/telegram-2525715.jpg' alt='Telegram Premium está cada vez más cerca de ser una realidad y esto sería todo lo que ofrecería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065'>Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-chromecast-barato-google-tv-estaria-cada-vez-cerca-1074065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Los últimos rumores apuntan a que el Chromecast barato con Google TV estaría cada vez más cerca' />
     </a>
 </div>
 
