@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-opciones-maneja-apple-acatar-cargador-universal-usb-c-europa-1074539'>Las dos opciones que maneja Apple para acatar el cargador universal USB-C en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dos-opciones-maneja-apple-acatar-cargador-universal-usb-c-europa-1074539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='Las dos opciones que maneja Apple para acatar el cargador universal USB-C en Europa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasaria-precio-bitcoin-shiba-inu-dogecoin-otras-criptomonedas-cayera-cero-1074575'>Qué pasaría si el precio de Bitcoin, Shiba Inu, Dogecoin u otras criptomonedas cayera a cero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasaria-precio-bitcoin-shiba-inu-dogecoin-otras-criptomonedas-cayera-cero-1074575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Qué pasaría si el precio de Bitcoin, Shiba Inu, Dogecoin u otras criptomonedas cayera a cero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dgt-prohibe-uso-estas-gafas-sol-evitar-accidentes-1074565'>La DGT prohíbe el uso de estas gafas de sol para evitar accidentes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dgt-prohibe-uso-estas-gafas-sol-evitar-accidentes-1074565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/gafas-sol-xiaomi.png' alt='La DGT prohíbe el uso de estas gafas de sol para evitar accidentes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-proximo-snapdragon-8-gen2-qualcomm-nuevo-diseno-4-nm-potencia-1074595'>Así será el próximo Snapdragon 8 Gen2 de Qualcomm: nuevo diseño en 4 nm y más potencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-proximo-snapdragon-8-gen2-qualcomm-nuevo-diseno-4-nm-potencia-1074595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Así será el próximo Snapdragon 8 Gen2 de Qualcomm: nuevo diseño en 4 nm y más potencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-muestra-ahora-calidad-aire-zona-android-ios-1074531'>Google Maps muestra ahora la calidad del aire de tu zona en Android e iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-muestra-ahora-calidad-aire-zona-android-ios-1074531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-maps-muestra-ahora-datos-indice-calidad-aire-android-ios-2726099.jpg' alt='Google Maps muestra ahora la calidad del aire de tu zona en Android e iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-desaparece-otras-afirmaciones-google-coche-no-debes-creer-1074611'>Android Auto desaparece y otras afirmaciones sobre Google para el coche que NO debes creer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-desaparece-otras-afirmaciones-google-coche-no-debes-creer-1074611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Android Auto desaparece y otras afirmaciones sobre Google para el coche que NO debes creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/eres-peinados-sencillos-cortapelos-15-euros-te-ahorrara-mucho-dinero-peluqueria-1073553'>Si eres de peinados sencillos, este cortapelos de 15 euros te ahorrará mucho dinero en peluquería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/eres-peinados-sencillos-cortapelos-15-euros-te-ahorrara-mucho-dinero-peluqueria-1073553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cecotec-bamba-precisioncare-power-blade-titanium-2726109.jpg' alt='Si eres de peinados sencillos, este cortapelos de 15 euros te ahorrará mucho dinero en peluquería' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renuncia-sueldo-420000-euros-como-ingeniero-netflix-porque-era-copia-pega-1074557'>Renuncia a un sueldo de 420.000 euros como ingeniero en Netflix porque era un “copia y pega”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renuncia-sueldo-420000-euros-como-ingeniero-netflix-porque-era-copia-pega-1074557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/renuncia-sueldo-420000-euros-como-ingeniero-netflix-porque-era-copia-pega-2726169.jpg' alt='Renuncia a un sueldo de 420.000 euros como ingeniero en Netflix porque era un “copia y pega”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ediciones-como-realme-gt-neo-3-naruto-favor-gracias-1074545'>Más ediciones como la del realme GT Neo 3 de Naruto, por favor y gracias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ediciones-como-realme-gt-neo-3-naruto-favor-gracias-1074545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-naruto-2726111.jpg' alt='Más ediciones como la del realme GT Neo 3 de Naruto, por favor y gracias' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-ha-sido-entrenada-ser-troll-foros-redes-sociales-cumple-nota-1074577'>Esta IA ha sido entrenada para ser un troll en foros y redes sociales y cumple con nota</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-ha-sido-entrenada-ser-troll-foros-redes-sociales-cumple-nota-1074577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/troll-2620633.jpg' alt='Esta IA ha sido entrenada para ser un troll en foros y redes sociales y cumple con nota' />
     </a>
 </div>
 
