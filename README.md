@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2726013.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-1074053'>Irrigador dental: para qué sirve y cuáles son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-1074053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/irrigador-bucal-philips-sonicare-power-flosser-3000-2725517.jpg' alt='Irrigador dental: para qué sirve y cuáles son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461'>El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla</a></h4>
     <a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mal-amores-enfermedad-real-estos-son-sintomas-como-curarla-2726011.jpg' alt='El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237'>Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231'>Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-top-ventas-amazon-baratos-1074231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-top-ventas-amazon-menos-20-euros-ahora-son-baratos-vuelven-arrasar-2725799.jpg' alt='Los auriculares top ventas en Amazon (menos de 20 euros) ahora son más baratos y vuelven a arrasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227'>¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-castigo-te-pillan-copiando-examen-selectividad-2725795.jpg' alt='¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?' />
     </a>
 </div>
 
