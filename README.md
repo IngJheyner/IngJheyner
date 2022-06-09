@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785'>De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consumo-programable-aire-acondicionado-portatil-tiene-precio-low-cost-espanol-2726697.jpg' alt='De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas online este verano siguiendo estos consejos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas online este verano siguiendo estos consejos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841'>HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hbo-max-apuesta-nuevo-formato-va-alla-directo-improvisacion-2726955.jpg' alt='HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631'>Opinión del Content Creator para GoPro Hero 10 Black</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-go-pro-creation-kit-2726901.jpg' alt='Opinión del Content Creator para GoPro Hero 10 Black' />
     </a>
 </div>
 
