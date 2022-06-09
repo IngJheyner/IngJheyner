@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459'>ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/icaros-cloud-propia-nube-goku-hacer-ejercicio-jugar-videojuegos-2726009.jpg' alt='ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237'>Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083'>Realme GT Neo 3, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725627.jpg' alt='Realme GT Neo 3, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215'>Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ms-marvel-disney-plus-serie-juvenil-1074215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/disney-da-giro-nueva-serie-marvel-apuesta-publico-juvenil-2725779.jpg' alt='Disney+ da un giro con su nueva serie de Marvel y apuesta por el público más juvenil' />
     </a>
 </div>
 
