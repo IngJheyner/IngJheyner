@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xbox-samsung-unen-fuerzas-jugar-consola-sea-realidad-televisor-sera-clave-todo-1074761'>Xbox y Samsung unen fuerzas para que jugar sin consola sea una realidad: el televisor será la clave de todo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xbox-samsung-unen-fuerzas-jugar-consola-sea-realidad-televisor-sera-clave-todo-1074761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-cloud-gaming-2695619.jpg' alt='Xbox y Samsung unen fuerzas para que jugar sin consola sea una realidad: el televisor será la clave de todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719'>Cómo crear una hoja de cálculo de Google para traducir automáticamente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Cómo crear una hoja de cálculo de Google para traducir automáticamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-1074685'>Así es Dynamic World, la plataforma de Google que usa la IA para ofrecer datos en tiempo real sobre los cambios en el ecosistema </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-1074685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-2726341.jpg' alt='Así es Dynamic World, la plataforma de Google que usa la IA para ofrecer datos en tiempo real sobre los cambios en el ecosistema ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709'>Windows 11 aparece disponible en millones de ordenadores no compatibles por error</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Windows 11 aparece disponible en millones de ordenadores no compatibles por error' />
     </a>
 </div>
 
