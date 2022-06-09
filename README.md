@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831'>Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-amazon-caracteristica-te-pruebes-zapatos-realidad-aumentada-2726903.jpg' alt='Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841'>HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hbo-max-apuesta-nuevo-formato-va-alla-directo-improvisacion-2726955.jpg' alt='HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631'>Opinión del Content Creator para GoPro Hero 10 Black</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-go-pro-creation-kit-2726901.jpg' alt='Opinión del Content Creator para GoPro Hero 10 Black' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xbox-samsung-unen-fuerzas-jugar-consola-sea-realidad-televisor-sera-clave-todo-1074761'>Xbox y Samsung unen fuerzas para que jugar sin consola sea una realidad: el televisor será la clave de todo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xbox-samsung-unen-fuerzas-jugar-consola-sea-realidad-televisor-sera-clave-todo-1074761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-cloud-gaming-2695619.jpg' alt='Xbox y Samsung unen fuerzas para que jugar sin consola sea una realidad: el televisor será la clave de todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719'>Cómo crear una hoja de cálculo de Google para traducir automáticamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Cómo crear una hoja de cálculo de Google para traducir automáticamente' />
     </a>
 </div>
 
