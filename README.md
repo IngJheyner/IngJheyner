@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/curiosa-tecnica-promete-mejoras-gimnasio-poco-tiempo-precisa-supervision-1074515'>La curiosa técnica que promete mejoras en el gimnasio en poco tiempo y que precisa de supervisión</a></h4>
+    <a href='https://computerhoy.com/noticias/life/curiosa-tecnica-promete-mejoras-gimnasio-poco-tiempo-precisa-supervision-1074515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mujer-haciendo-ejercicio-gimnasio-2458823.jpg' alt='La curiosa técnica que promete mejoras en el gimnasio en poco tiempo y que precisa de supervisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-618-computer-hoy-1070861'>¡Ya está en tu quiosco el número 618 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-618-computer-hoy-1070861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/computer-hoy-618-2719769.jpg' alt='¡Ya está en tu quiosco el número 618 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-fabricara-tsmc-3nm-procesador-m2-pro-ano-analista-1074501'>Apple fabricará con TSMC en 3nm el procesador M2 Pro este año según un analista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-fabricara-tsmc-3nm-procesador-m2-pro-ano-analista-1074501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-m2-2723075.jpg' alt='Apple fabricará con TSMC en 3nm el procesador M2 Pro este año según un analista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-galaxy-watch-5-nuevo-reloj-inteligente-samsung-1074485'>Se filtra la fecha de lanzamiento del Galaxy Watch 5, el nuevo reloj inteligente de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-fecha-lanzamiento-galaxy-watch-5-nuevo-reloj-inteligente-samsung-1074485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516639.jpg' alt='Se filtra la fecha de lanzamiento del Galaxy Watch 5, el nuevo reloj inteligente de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebook-x-9-junio-2022-1073439'>Un portátil chino de solo 1,3 kg de peso y con Windows: su precio es sorprendentemente bajo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebook-x-9-junio-2022-1073439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chuwi-corebook-x-2229485.jpg' alt='Un portátil chino de solo 1,3 kg de peso y con Windows: su precio es sorprendentemente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2726013.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-1074053'>Irrigador dental: para qué sirve y cuáles son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-1074053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/irrigador-bucal-philips-sonicare-power-flosser-3000-2725517.jpg' alt='Irrigador dental: para qué sirve y cuáles son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461'>El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mal-amores-enfermedad-real-estos-son-sintomas-como-curarla-2726011.jpg' alt='El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459'>ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/icaros-cloud-propia-nube-goku-hacer-ejercicio-jugar-videojuegos-2726009.jpg' alt='ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)' />
     </a>
 </div>
 
