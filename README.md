@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/scroll-infinito-adiccion-genera-punto-mira-algunas-redes-sociales-como-tiktok-1074725'>El scroll infinito y la adicción que genera, en el punto de mira de algunas redes sociales como TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/scroll-infinito-adiccion-genera-punto-mira-algunas-redes-sociales-como-tiktok-1074725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='El scroll infinito y la adicción que genera, en el punto de mira de algunas redes sociales como TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-1074685'>Así es Dynamic World, la plataforma de Google que usa la IA para ofrecer datos en tiempo real sobre los cambios en el ecosistema </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-1074685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dynamic-world-plataforma-google-usa-ia-ofrecer-datos-tiempo-real-cambios-ecosistema-2726341.jpg' alt='Así es Dynamic World, la plataforma de Google que usa la IA para ofrecer datos en tiempo real sobre los cambios en el ecosistema ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709'>Windows 11 aparece disponible en millones de ordenadores no compatibles por error</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Windows 11 aparece disponible en millones de ordenadores no compatibles por error' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647'>Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-2726269.jpg' alt='Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tarda-5-meses-calcular-numero-pi-decimales-mundo-1074651'>Google tarda 5 meses para calcular el número Pi con más decimales del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-tarda-5-meses-calcular-numero-pi-decimales-mundo-1074651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/hoy-dia-pi-celebrarlo-google-tiene-juego-secreto-2264147.jpg' alt='Google tarda 5 meses para calcular el número Pi con más decimales del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m12-review-opinion-908741'>Samsung Galaxy M12, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-m12-review-opinion-908741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/review-samsung-galaxy-m12-2431319.jpg' alt='Samsung Galaxy M12, análisis y opinión' />
     </a>
 </div>
 
