@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-opciones-maneja-apple-acatar-cargador-universal-usb-c-europa-1074539'>Las dos opciones que maneja Apple para acatar el cargador universal USB-C en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dos-opciones-maneja-apple-acatar-cargador-universal-usb-c-europa-1074539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/cable-lightning-iphone.jpg' alt='Las dos opciones que maneja Apple para acatar el cargador universal USB-C en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dgt-prohibe-uso-estas-gafas-sol-evitar-accidentes-1074565'>La DGT prohíbe el uso de estas gafas de sol para evitar accidentes</a></h4>
     <a href='https://computerhoy.com/noticias/life/dgt-prohibe-uso-estas-gafas-sol-evitar-accidentes-1074565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/gafas-sol-xiaomi.png' alt='La DGT prohíbe el uso de estas gafas de sol para evitar accidentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ediciones-como-realme-gt-neo-3-naruto-favor-gracias-1074545'>Más ediciones como la del realme GT Neo 3 de Naruto, por favor y gracias</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ediciones-como-realme-gt-neo-3-naruto-favor-gracias-1074545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-naruto-2726111.jpg' alt='Más ediciones como la del realme GT Neo 3 de Naruto, por favor y gracias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-podria-prohibir-uso-discos-duros-arranque-windows-2023-favor-ssds-1074517'>Microsoft podría prohibir el uso de discos duros de arranque en Windows para 2023 a favor del SSD</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-podria-prohibir-uso-discos-duros-arranque-windows-2023-favor-ssds-1074517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Microsoft podría prohibir el uso de discos duros de arranque en Windows para 2023 a favor del SSD' />
     </a>
 </div>
 
