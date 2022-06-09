@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461'>El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mal-de-amores-enfermedad-amor-sintomas-remedios-1074461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mal-amores-enfermedad-real-estos-son-sintomas-como-curarla-2726011.jpg' alt='El Mal de Amores es una enfermedad real: estos son sus síntomas, y cómo curarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459'>ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/icaros-cloud-propia-nube-goku-hacer-ejercicio-jugar-videojuegos-2726009.jpg' alt='ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227'>¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-castigo-te-pillan-copiando-examen-selectividad-ebau-1074227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-castigo-te-pillan-copiando-examen-selectividad-2725795.jpg' alt='¿Cuál es el castigo si te pillan copiando en un examen de Selectividad o EBAU?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083'>Realme GT Neo 3, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3-review-opinion-1074083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725627.jpg' alt='Realme GT Neo 3, análisis y opinión' />
     </a>
 </div>
 
