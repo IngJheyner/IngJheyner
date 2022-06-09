@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebook-x-9-junio-2022-1073439'>Un portátil chino de solo 1,3 kg de peso y con Windows: su precio es sorprendentemente bajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-corebook-x-9-junio-2022-1073439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chuwi-corebook-x-2229485.jpg' alt='Un portátil chino de solo 1,3 kg de peso y con Windows: su precio es sorprendentemente bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1074463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2726013.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459'>ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/icaros-cloud-ejercicio-jugar-videojuegos-1074459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/icaros-cloud-propia-nube-goku-hacer-ejercicio-jugar-videojuegos-2726009.jpg' alt='ICAROS Cloud, tu propia "nube de Goku" para hacer ejercicio y jugar a videojuegos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237'>Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-1074237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg' alt='Twitter se rinde ante Elon Musk, y acepta revelarle su mayor secreto' />
     </a>
 </div>
 
