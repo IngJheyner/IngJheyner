@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas online este verano siguiendo estos consejos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas online este verano siguiendo estos consejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/baja-autonomo-verano-1074883'>¿Merece la pena darse de baja de autónomo en verano, si tienes poco trabajo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/baja-autonomo-verano-1074883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/merece-pena-darse-baja-autonomo-verano-tienes-poco-trabajo-2727001.jpg' alt='¿Merece la pena darse de baja de autónomo en verano, si tienes poco trabajo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831'>Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-amazon-caracteristica-te-pruebes-zapatos-realidad-aumentada-2726903.jpg' alt='Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631'>Opinión del Content Creator para GoPro Hero 10 Black</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/opinion-content-creator-gopro-hero-10-black-1074631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-go-pro-creation-kit-2726901.jpg' alt='Opinión del Content Creator para GoPro Hero 10 Black' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dos-bestias-aterrizan-espana-son-nuevos-black-shark-5-black-shark-5-pro-1074773'>Dos bestias aterrizan en España: así son los nuevos Black Shark 5 y Black Shark 5 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dos-bestias-aterrizan-espana-son-nuevos-black-shark-5-black-shark-5-pro-1074773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dos-bestias-aterrizan-espana-son-nuevos-black-shark-5-black-shark-5-pro-2726669.jpg' alt='Dos bestias aterrizan en España: así son los nuevos Black Shark 5 y Black Shark 5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='Estos son los mejores móviles POCO que puedes comprar en 2022' />
     </a>
 </div>
 
