@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primer-juego-nft-epic-games-acusado-robo-incluso-antes-salir-venta-1074621'>El primer juego NFT de Epic Games es acusado de robo incluso antes de salir a la venta</a></h4>
-    <a href='https://computerhoy.com/noticias/primer-juego-nft-epic-games-acusado-robo-incluso-antes-salir-venta-1074621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-juego-nft-epic-games-acusado-robo-incluso-antes-salir-venta-2726233.jpg' alt='El primer juego NFT de Epic Games es acusado de robo incluso antes de salir a la venta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709'>Windows 11 aparece disponible en millones de ordenadores no compatibles por error</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Windows 11 aparece disponible en millones de ordenadores no compatibles por error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-9-junio-2022-1073925'>Uno de los mejores móviles baratos que hemos probado es de POCO y ahora baja aún más de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-pro-5g-oferta-9-junio-2022-1073925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663747.jpg' alt='Uno de los mejores móviles baratos que hemos probado es de POCO y ahora baja aún más de precio' />
+    <h4><a href='https://computerhoy.com/guia-compra/aire-acondicionado-portatil'>Cómo elegir un aire acondicionado portátil (pingüino) para el verano en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/aire-acondicionado-portatil' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/aire-acondicionado-olimpia-splendid-01914-2342991.jpg' alt='Cómo elegir un aire acondicionado portátil (pingüino) para el verano en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-presentara-samsung-galaxy-z-fold-4-z-flip-4-watch-5-colores-llegaran-1074639'>Ya sabemos cuándo presentará Samsung sus Galaxy Z Fold 4, Z Flip 4 y Watch 5 y en qué colores llegarán</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-presentara-samsung-galaxy-z-fold-4-z-flip-4-watch-5-colores-llegaran-1074639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-z-fold-4-filtra-completo-gracias-imagenes-alta-resolucion-2699695.jpg' alt='Ya sabemos cuándo presentará Samsung sus Galaxy Z Fold 4, Z Flip 4 y Watch 5 y en qué colores llegarán' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647'>Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-2726269.jpg' alt='Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasaria-precio-bitcoin-shiba-inu-dogecoin-otras-criptomonedas-cayera-cero-1074575'>Qué pasaría si el precio de Bitcoin, Shiba Inu, Dogecoin u otras criptomonedas cayera a cero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasaria-precio-bitcoin-shiba-inu-dogecoin-otras-criptomonedas-cayera-cero-1074575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2593203.jpg' alt='Qué pasaría si el precio de Bitcoin, Shiba Inu, Dogecoin u otras criptomonedas cayera a cero' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tarda-5-meses-calcular-numero-pi-decimales-mundo-1074651'>Google tarda 5 meses para calcular el número Pi con más decimales del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-tarda-5-meses-calcular-numero-pi-decimales-mundo-1074651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/hoy-dia-pi-celebrarlo-google-tiene-juego-secreto-2264147.jpg' alt='Google tarda 5 meses para calcular el número Pi con más decimales del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-proximo-snapdragon-8-gen2-qualcomm-nuevo-diseno-4-nm-potencia-1074595'>Así será el próximo Snapdragon 8 Gen2 de Qualcomm: nuevo diseño en 4 nm y más potencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-proximo-snapdragon-8-gen2-qualcomm-nuevo-diseno-4-nm-potencia-1074595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Así será el próximo Snapdragon 8 Gen2 de Qualcomm: nuevo diseño en 4 nm y más potencia' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-m12-review-opinion-908741'>Samsung Galaxy M12, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-m12-review-opinion-908741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/review-samsung-galaxy-m12-2431319.jpg' alt='Samsung Galaxy M12, análisis y opinión' />
     </a>
 </div>
 
