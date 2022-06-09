@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719'>Cómo crear una hoja de cálculo de Google para traducir automáticamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-crear-hoja-calculo-google-traducir-automaticamente-1074719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Cómo crear una hoja de cálculo de Google para traducir automáticamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-dia-corto-ano-ubicacion-geografica-1074681'>Cuál es el día mas corto del año según tu ubicación geográfica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-dia-corto-ano-ubicacion-geografica-1074681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/espectacular-solsticio-verano-stonehenge-podra-seguir-online-primera-vez-1957835.jpg' alt='Cuál es el día mas corto del año según tu ubicación geográfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/scroll-infinito-adiccion-genera-punto-mira-algunas-redes-sociales-como-tiktok-1074725'>El scroll infinito y la adicción que genera, en el punto de mira de algunas redes sociales como TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/scroll-infinito-adiccion-genera-punto-mira-algunas-redes-sociales-como-tiktok-1074725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='El scroll infinito y la adicción que genera, en el punto de mira de algunas redes sociales como TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709'>Windows 11 aparece disponible en millones de ordenadores no compatibles por error</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-aparece-disponible-millones-ordenadores-no-compatibles-error-1074709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Windows 11 aparece disponible en millones de ordenadores no compatibles por error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/aire-acondicionado-portatil'>Cómo elegir un aire acondicionado portátil (pingüino) para el verano en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/aire-acondicionado-portatil' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/aire-acondicionado-olimpia-splendid-01914-2342991.jpg' alt='Cómo elegir un aire acondicionado portátil (pingüino) para el verano en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647'>Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-1074647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-buque-autonomo-controlado-ia-recorre-10000-km-33-dias-ningun-fallo-2726269.jpg' alt='Este es el primer buque autónomo controlado por IA que recorre 10.000 km en 33 días, sin ningún fallo' />
     </a>
 </div>
 
