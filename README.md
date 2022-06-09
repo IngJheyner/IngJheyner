@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911'>Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estudio-demuestra-comer-estas-bayas-todos-dias-previene-perdida-vision-edad-2727139.jpg' alt='Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909'>Se acabó la pesadilla de recoger la ropa sucia (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/acabo-pesadilla-recoger-ropa-sucia-2727131.jpg' alt='Se acabó la pesadilla de recoger la ropa sucia (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785'>De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consumo-programable-aire-acondicionado-portatil-tiene-precio-low-cost-espanol-2726697.jpg' alt='De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/baja-autonomo-verano-1074883'>¿Merece la pena darse de baja de autónomo en verano, si tienes poco trabajo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/baja-autonomo-verano-1074883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/merece-pena-darse-baja-autonomo-verano-tienes-poco-trabajo-2727001.jpg' alt='¿Merece la pena darse de baja de autónomo en verano, si tienes poco trabajo?' />
     </a>
 </div>
 
