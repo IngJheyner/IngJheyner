@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785'>De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consumo-programable-aire-acondicionado-portatil-tiene-precio-low-cost-espanol-2726697.jpg' alt='De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas online este verano siguiendo estos consejos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas online este verano siguiendo estos consejos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/carnet-conducir-b1-jovenes-16-anos-1074901'>La DGT anuncia un carnet de conducir para jóvenes de 16 años, ¿qué coches podrán conducir?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carnet-conducir-b1-jovenes-16-anos-1074901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='La DGT anuncia un carnet de conducir para jóvenes de 16 años, ¿qué coches podrán conducir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785'>De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consumo-programable-aire-acondicionado-portatil-tiene-precio-low-cost-espanol-2726697.jpg' alt='De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831'>Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-amazon-caracteristica-te-pruebes-zapatillas-realidad-aumentada-1074831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-amazon-caracteristica-te-pruebes-zapatos-realidad-aumentada-2726903.jpg' alt='Lo nuevo de Amazon es una característica para que te pruebes zapatillas en realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841'>HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nadie-sabe-nada-hbo-max-1074841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hbo-max-apuesta-nuevo-formato-va-alla-directo-improvisacion-2726955.jpg' alt='HBO Max apuesta por un nuevo formato que va más allá del directo: la improvisación' />
     </a>
 </div>
 
