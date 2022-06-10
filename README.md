@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515'>Apple ya no podrá usar en Europa uno de sus eslóganes más míticos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ya-no-podra-usar-esloganes-miticos-2728101.jpg' alt='Apple ya no podrá usar en Europa uno de sus eslóganes más míticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491'>Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700569.jpg' alt='Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507'>Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497'>Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-musica-ni-palabras-podcast-ruido-blanco-arrasan-algunos-creadores-ganan-18000-euros-mes-2728073.jpg' alt='Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489'>Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423973.jpg' alt='Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269'>Netflix estrena nuevo juego para móviles de La casa de papel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-estrena-nuevo-juego-moviles-casa-papel-2727531.jpg' alt='Netflix estrena nuevo juego para móviles de La casa de papel' />
     </a>
 </div>
 
