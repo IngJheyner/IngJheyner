@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449'>Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-iphone-12--barato-vs-iphone-13-933899'>Por qué deberías comprar el iPhone 12 en vez del iPhone 13 si te lo estás pensando</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-iphone-12--barato-vs-iphone-13-933899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/opinion-analisis-iphone-12-pro-2114173.jpg' alt='Por qué deberías comprar el iPhone 12 en vez del iPhone 13 si te lo estás pensando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2727887.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-1074827'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: la trilogía Spiderman, la masacre contra los tutsis y una emocional mexicana</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-1074827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-2726917.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: la trilogía Spiderman, la masacre contra los tutsis y una emocional mexicana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-firefox-radical-distinto-posicionamiento-ad-blockers-1075431'>Chrome y Firefox y su radical y distinto posicionamiento sobre los Ad-blockers</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-firefox-radical-distinto-posicionamiento-ad-blockers-1075431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-2724975.jpg' alt='Chrome y Firefox y su radical y distinto posicionamiento sobre los Ad-blockers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-iban-cuenta-bancaria-sirve-1074817'>Cuál es el IBAN de una cuenta bancaria y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-iban-cuenta-bancaria-sirve-1074817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/banco-2493713.jpg' alt='Cuál es el IBAN de una cuenta bancaria y para qué sirve' />
     </a>
 </div>
 
