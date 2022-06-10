@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295'>El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/rover-opportunity-marte-1859869.jpg' alt='El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/efecto-guerra-starlink-elon-musk-ha-sido-devastador-ejercito-americano-1075257'>El efecto en la guerra de Starlink de Elon Musk ha sido devastador, según el ejército americano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/efecto-guerra-starlink-elon-musk-ha-sido-devastador-ejercito-americano-1075257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/logotipo-starlink-bandera-ucrania-2631549.jpg' alt='El efecto en la guerra de Starlink de Elon Musk ha sido devastador, según el ejército americano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-publica-avance-volumen-ii-stranger-things-4-espanol-os-mostramos-1075287'>Netflix publica el avance del Volumen II de Stranger Things 4 en español</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-publica-avance-volumen-ii-stranger-things-4-espanol-os-mostramos-1075287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2727571.jpg' alt='Netflix publica el avance del Volumen II de Stranger Things 4 en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219'>Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227'>Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-te-haran-vida-facil-android-13-1075241'>Las funciones que te harán la vida más fácil con Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciones-te-haran-vida-facil-android-13-1075241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Las funciones que te harán la vida más fácil con Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pone-foco-inteligencia-artificial-mejorar-automatizar-procesos-chrome-1075189'>Google pone el foco en la inteligencia artificial para mejorar y automatizar los procesos en Chrome</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pone-foco-inteligencia-artificial-mejorar-automatizar-procesos-chrome-1075189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google pone el foco en la inteligencia artificial para mejorar y automatizar los procesos en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-descuento-10-junio-2022-1074559'>Baja 300 euros el portátil realme con pantalla 2K que quiere ir a por el MacBook Air</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-descuento-10-junio-2022-1074559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='Baja 300 euros el portátil realme con pantalla 2K que quiere ir a por el MacBook Air' />
     </a>
 </div>
 
