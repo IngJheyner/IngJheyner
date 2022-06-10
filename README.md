@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489'>Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423973.jpg' alt='Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269'>Netflix estrena nuevo juego para móviles de La casa de papel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-estrena-nuevo-juego-moviles-casa-papel-2727531.jpg' alt='Netflix estrena nuevo juego para móviles de La casa de papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449'>Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2727887.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-recordatorio-no-te-olvides-nada-nunca-1075375'>Las mejores aplicaciones recordatorio para que no te olvides de nada nunca más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-aplicaciones-recordatorio-no-te-olvides-nada-nunca-1075375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-aplicaciones-recordatorio-no-te-olvides-nada-nunca-2727937.jpg' alt='Las mejores aplicaciones recordatorio para que no te olvides de nada nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-1074827'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: la trilogía Spiderman, la masacre contra los tutsis y una emocional mexicana</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-1074827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-trilogia-spiderman-masacre-tutsis-emocional-mexicana-2726917.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: la trilogía Spiderman, la masacre contra los tutsis y una emocional mexicana' />
     </a>
 </div>
 
