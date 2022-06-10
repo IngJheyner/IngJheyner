@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/son-supergusanos-acabar-problema-plasticos-1075183'>Así son los supergusanos para acabar con el problema de los plásticos</a></h4>
-    <a href='https://computerhoy.com/noticias/son-supergusanos-acabar-problema-plasticos-1075183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/gusanos-1956459.jpg' alt='Así son los supergusanos para acabar con el problema de los plásticos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219'>Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-nuevo-smartphone-htc-1075185'>Ya tenemos fecha de presentación para el nuevo smartphone de HTC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-nuevo-smartphone-htc-1075185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/htc-viverse-2727445.jpg' alt='Ya tenemos fecha de presentación para el nuevo smartphone de HTC' />
+    <h4><a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227'>Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-permitira-crear-grupos-medio-millar-personas-1075169'>La nueva actualización de WhatsApp te permitirá crear grupos con más de medio millar de personas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-permitira-crear-grupos-medio-millar-personas-1075169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='La nueva actualización de WhatsApp te permitirá crear grupos con más de medio millar de personas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-te-haran-vida-facil-android-13-1075241'>Las funciones que te harán la vida más fácil con Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciones-te-haran-vida-facil-android-13-1075241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Las funciones que te harán la vida más fácil con Android 13' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-ninas-cogidas-mano-paseando-2726809.jpg' alt='Estos son los mejores relojes con localizador GPS para niños' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pone-foco-inteligencia-artificial-mejorar-automatizar-procesos-chrome-1075189'>Google pone el foco en la inteligencia artificial para mejorar y automatizar los procesos en Chrome</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pone-foco-inteligencia-artificial-mejorar-automatizar-procesos-chrome-1075189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-chrome-2570607.jpg' alt='Google pone el foco en la inteligencia artificial para mejorar y automatizar los procesos en Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2727353.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-descuento-10-junio-2022-1074559'>Baja 300 euros el portátil realme con pantalla 2K que quiere ir a por el MacBook Air</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-book-prime-descuento-10-junio-2022-1074559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563253.jpg' alt='Baja 300 euros el portátil realme con pantalla 2K que quiere ir a por el MacBook Air' />
     </a>
 </div>
 
