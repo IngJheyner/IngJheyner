@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-1075365'>Una nueva Ley de Telecomunicaciones fija 2023 como fecha límite para la banda ancha de 100Mbps accesible para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-1075365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-2727761.jpg' alt='Una nueva Ley de Telecomunicaciones fija 2023 como fecha límite para la banda ancha de 100Mbps accesible para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/valida-urls-direcciones-email-directamente-hoja-calculo-google-1075377'>Valida URLs y direcciones de email directamente desde una hoja de cálculo de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/valida-urls-direcciones-email-directamente-hoja-calculo-google-1075377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hoja-calculo-excel-portatil.jpg' alt='Valida URLs y direcciones de email directamente desde una hoja de cálculo de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nuevos-portatiles-dell-xps-13-procesador-intel-12a-gen-pantallas-4k-conectividad-5g-1075347'>Nuevos portátiles Dell XPS 13: procesador Intel 12ª Gen, pantallas 4K y hasta 12 horas de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/nuevos-portatiles-dell-xps-13-procesador-intel-12a-gen-pantallas-4k-conectividad-5g-1075347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-xps-13-2727767.jpg' alt='Nuevos portátiles Dell XPS 13: procesador Intel 12ª Gen, pantallas 4K y hasta 12 horas de autonomía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-elegante-impronunciable-reproductor-vinilos-encontraras-ikea-1075339'>El nuevo, elegante e impronunciable reproductor de vinilos que encontrarás en Ikea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-elegante-impronunciable-reproductor-vinilos-encontraras-ikea-1075339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reproductor-vinilos-ikea-2727721.jpg' alt='El nuevo, elegante e impronunciable reproductor de vinilos que encontrarás en Ikea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/barbacoa-electrica-orbegozo-oferta-10-junio-2022-1074537'>A precio de ganga tendrás barbacoa eléctrica para todo el verano, y con envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/barbacoa-electrica-orbegozo-oferta-10-junio-2022-1074537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/orbegozo-bct-3950-2605139.jpg' alt='A precio de ganga tendrás barbacoa eléctrica para todo el verano, y con envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295'>El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/rover-opportunity-marte-1859869.jpg' alt='El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar' />
     </a>
 </div>
 
