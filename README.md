@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-firefox-radical-distinto-posicionamiento-ad-blockers-1075431'>Chrome y Firefox y su radical y distinto posicionamiento sobre los Ad-blockers</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-firefox-radical-distinto-posicionamiento-ad-blockers-1075431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fin-ad-block-extensiones-privacidad-cada-vez-cerca-aunque-google-dice-bien-2724975.jpg' alt='Chrome y Firefox y su radical y distinto posicionamiento sobre los Ad-blockers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-iban-cuenta-bancaria-sirve-1074817'>Cuál es el IBAN de una cuenta bancaria y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-iban-cuenta-bancaria-sirve-1074817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/banco-2493713.jpg' alt='Cuál es el IBAN de una cuenta bancaria y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-1075365'>Una nueva Ley de Telecomunicaciones fija 2023 como fecha límite para la banda ancha de 100Mbps accesible para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-1075365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-ley-telecomunicaciones-fija-2023-como-fecha-limite-banda-ancha-100mbps-accesible-todos-2727761.jpg' alt='Una nueva Ley de Telecomunicaciones fija 2023 como fecha límite para la banda ancha de 100Mbps accesible para todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nuevos-portatiles-dell-xps-13-procesador-intel-12a-gen-pantallas-4k-conectividad-5g-1075347'>Nuevos portátiles Dell XPS 13: procesador Intel 12ª Gen, pantallas 4K y hasta 12 horas de autonomía</a></h4>
     <a href='https://computerhoy.com/noticias/nuevos-portatiles-dell-xps-13-procesador-intel-12a-gen-pantallas-4k-conectividad-5g-1075347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-xps-13-2727767.jpg' alt='Nuevos portátiles Dell XPS 13: procesador Intel 12ª Gen, pantallas 4K y hasta 12 horas de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-hipersonico-podria-llevar-12-personas-madrid-pekin-solo-1-hora-1075337'>Este avión hipersónico podría llevar a 12 personas de Madrid a Pekin en sólo 1 hora </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avion-hipersonico-podria-llevar-12-personas-madrid-pekin-solo-1-hora-1075337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avion-hipersonico-podria-llevar-12-personas-madrid-pekin-solo-1-hora-2727727.jpg' alt='Este avión hipersónico podría llevar a 12 personas de Madrid a Pekin en sólo 1 hora ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-elegante-impronunciable-reproductor-vinilos-encontraras-ikea-1075339'>El nuevo, elegante e impronunciable reproductor de vinilos que encontrarás en Ikea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-elegante-impronunciable-reproductor-vinilos-encontraras-ikea-1075339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reproductor-vinilos-ikea-2727721.jpg' alt='El nuevo, elegante e impronunciable reproductor de vinilos que encontrarás en Ikea' />
     </a>
 </div>
 
