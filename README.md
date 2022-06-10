@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/barbacoa-electrica-orbegozo-oferta-10-junio-2022-1074537'>A precio de ganga tendrás barbacoa eléctrica para todo el verano, y con envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/barbacoa-electrica-orbegozo-oferta-10-junio-2022-1074537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/orbegozo-bct-3950-2605139.jpg' alt='A precio de ganga tendrás barbacoa eléctrica para todo el verano, y con envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295'>El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-localiza-marte-extranas-formaciones-complicadas-explicar-1075295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/rover-opportunity-marte-1859869.jpg' alt='El rover de la NASA localiza en Marte extrañas formaciones complicadas de explicar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219'>Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-voces-llegan-echo-alexa-algunas-famosos-5-dolares-1075219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Nuevas voces llegan a los Echo con Alexa, algunas de famosos a 5 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227'>Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/caracteristicas-bicicleta-electrica-tiene-cumplir-evitar-multas-dgt-1075227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Las características que tu bicicleta eléctrica tiene que cumplir para evitar multas de la DGT' />
     </a>
 </div>
 
