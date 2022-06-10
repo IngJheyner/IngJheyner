@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2727353.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-waterpik-1074683'>Irrigadores dentales Waterpik: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-waterpik-1074683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/irrigador-bucal-waterpik-wf-05-2726715.jpg' alt='Irrigadores dentales Waterpik: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911'>Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad</a></h4>
     <a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estudio-demuestra-comer-estas-bayas-todos-dias-previene-perdida-vision-edad-2727139.jpg' alt='Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carnet-conducir-b1-jovenes-16-anos-1074901'>La DGT anuncia un carnet de conducir para jóvenes de 16 años, ¿qué coches podrán conducir?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carnet-conducir-b1-jovenes-16-anos-1074901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='La DGT anuncia un carnet de conducir para jóvenes de 16 años, ¿qué coches podrán conducir?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785'>De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-cecotec-oferta-1074785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consumo-programable-aire-acondicionado-portatil-tiene-precio-low-cost-espanol-2726697.jpg' alt='De bajo consumo y programable: este aire acondicionado portátil tiene precio low cost y es español' />
     </a>
 </div>
 
