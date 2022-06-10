@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521'>Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/resident-evil-village-2337137.jpg' alt='Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515'>Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ya-no-podra-usar-esloganes-miticos-2728101.jpg' alt='Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503'>La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2728089.jpg' alt='La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497'>Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-musica-ni-palabras-podcast-ruido-blanco-arrasan-algunos-creadores-ganan-18000-euros-mes-2728073.jpg' alt='Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes' />
     </a>
 </div>
 
