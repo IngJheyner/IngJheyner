@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507'>Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503'>La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2728089.jpg' alt='La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497'>Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/podcast-ruido-blanco-negocio-lucrativo-1075497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-musica-ni-palabras-podcast-ruido-blanco-arrasan-algunos-creadores-ganan-18000-euros-mes-2728073.jpg' alt='Ni música, ni palabras: los podcast de ruido blanco arrasan, algunos creadores ganan 18.000 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489'>Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-realme-watch-3-llegaria-antes-tiempo-1075489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-analisis-opinion-2423973.jpg' alt='Los últimos rumores apuntan a que el realme Watch 3 llegaría antes de tiempo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269'>Netflix estrena nuevo juego para móviles de La casa de papel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-estrena-nuevo-juego-moviles-casa-papel-1075269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-estrena-nuevo-juego-moviles-casa-papel-2727531.jpg' alt='Netflix estrena nuevo juego para móviles de La casa de papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449'>Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/musica-podcast-spotify-entrara-lleno-mercado-audiolibros-1075449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/spotify-2383815.jpg' alt='Tras la música y los podcast Spotify entrará de lleno en el mercado de los audiolibros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-iphone-12--barato-vs-iphone-13-933899'>Por qué deberías comprar el iPhone 12 en vez del iPhone 13 si te lo estás pensando</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-iphone-12--barato-vs-iphone-13-933899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/opinion-analisis-iphone-12-pro-2114173.jpg' alt='Por qué deberías comprar el iPhone 12 en vez del iPhone 13 si te lo estás pensando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-familia-mafiosos-expedicion-heroina-1075409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2727887.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: una familia de mafiosos, una expedición y una heroína' />
     </a>
 </div>
 
