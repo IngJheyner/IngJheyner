@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-ninas-cogidas-mano-paseando-2726809.jpg' alt='Estos son los mejores relojes con localizador GPS para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2727353.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909'>Se acabó la pesadilla de recoger la ropa sucia (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/acabo-pesadilla-recoger-ropa-sucia-2727131.jpg' alt='Se acabó la pesadilla de recoger la ropa sucia (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851'>Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evita-estafas-online-verano-siguiendo-estos-consejos-1074851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/fake-news-estafas-phishing_2.jpg' alt='Evita las estafas vacacionales online este verano siguiendo estos consejos de la Policía Nacional' />
     </a>
 </div>
 
