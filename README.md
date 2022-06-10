@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515'>Apple ya no podrá usar en Europa uno de sus eslóganes más míticos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515'>Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ya-no-podra-usar-esloganes-miticos-2728101.jpg' alt='Apple ya no podrá usar en Europa uno de sus eslóganes más míticos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ya-no-podra-usar-esloganes-miticos-2728101.jpg' alt='Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos' />
     </a>
 </div>
 
