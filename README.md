@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963'>El hombre que mató sin querer a millones de personas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-mato-querer-millones-personas-2724997.jpg' alt='El hombre que mató sin querer a millones de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-deja-vender-altavoces-pantallas-inteligentes-portal-1075523'>Meta deja de vender sus altavoces y pantallas inteligentes Portal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-deja-vender-altavoces-pantallas-inteligentes-portal-1075523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/pleno-huracan-facebook-pone-camara-micro-tu-casa-facebook-portal.jpg' alt='Meta deja de vender sus altavoces y pantallas inteligentes Portal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521'>Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/resident-evil-village-2337137.jpg' alt='Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491'>Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700569.jpg' alt='Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507'>Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/error-google-maps-hace-usuarios-android-auto-empiecen-odiar-modo-oscuro-1075507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Un error de Google Maps hace que los usuarios de Android Auto empiecen a odiar el modo oscuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503'>La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-multiplica-cuatro-multa-infraccion-muy-comun-conductores-1075503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2728089.jpg' alt='La DGT multiplica por cuatro la multa por una infracción muy común entre los conductores' />
     </a>
 </div>
 
