@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/son-supergusanos-acabar-problema-plasticos-1075183'>Así son los supergusanos para acabar con el problema de los plásticos</a></h4>
+    <a href='https://computerhoy.com/noticias/son-supergusanos-acabar-problema-plasticos-1075183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/gusanos-1956459.jpg' alt='Así son los supergusanos para acabar con el problema de los plásticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-nuevo-smartphone-htc-1075185'>Ya tenemos fecha de presentación para el nuevo smartphone de HTC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-presentacion-nuevo-smartphone-htc-1075185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/htc-viverse-2727445.jpg' alt='Ya tenemos fecha de presentación para el nuevo smartphone de HTC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-permitira-crear-grupos-medio-millar-personas-1075169'>La nueva actualización de WhatsApp te permitirá crear grupos con más de medio millar de personas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-te-permitira-crear-grupos-medio-millar-personas-1075169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg' alt='La nueva actualización de WhatsApp te permitirá crear grupos con más de medio millar de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537'>Estos son los mejores relojes con localizador GPS para niños</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-gps-ninos-908537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-ninas-cogidas-mano-paseando-2726809.jpg' alt='Estos son los mejores relojes con localizador GPS para niños' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1075143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2727353.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-waterpik-1074683'>Irrigadores dentales Waterpik: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-irrigadores-dentales-waterpik-1074683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/irrigador-bucal-waterpik-wf-05-2726715.jpg' alt='Irrigadores dentales Waterpik: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911'>Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bayas-goji-previenen-perdida-vision-edad-1074911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estudio-demuestra-comer-estas-bayas-todos-dias-previene-perdida-vision-edad-2727139.jpg' alt='Un estudio demuestra que comer estas bayas todos los días, previene la pérdida de visión por la edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909'>Se acabó la pesadilla de recoger la ropa sucia (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/laundry-jet-ropa-sucia-video-1074909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/acabo-pesadilla-recoger-ropa-sucia-2727131.jpg' alt='Se acabó la pesadilla de recoger la ropa sucia (vídeo)' />
     </a>
 </div>
 
