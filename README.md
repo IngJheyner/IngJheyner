@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>9 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='9 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807'>Esta nueva piel artificial otorga a los robots el sentido del tacto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-piel-artificial-otorga-robots-sentido-tacto-2728497.jpg' alt='Esta nueva piel artificial otorga a los robots el sentido del tacto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777'>Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/duke-nukem-2728435.jpg' alt='Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575'>7 series canceladas injustamente en los últimos años que deberían continuar</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg' alt='7 series canceladas injustamente en los últimos años que deberían continuar' />
     </a>
 </div>
 
