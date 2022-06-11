@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575'>7 series canceladas injustamente en los últimos años que deberían continuar</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg' alt='7 series canceladas injustamente en los últimos años que deberían continuar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771'>Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salvapantallas-chromecast-google-tv-2728429.jpg' alt='Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959'>Motorola Edge 30, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2723061.jpg' alt='Motorola Edge 30, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-oficial-todo-cambiara-partir-ahora-cuando-utilices-aplicacion-1075765'>Telegram Premium es oficial: todo lo que cambiará a partir de ahora cuando utilices la aplicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-oficial-todo-cambiara-partir-ahora-cuando-utilices-aplicacion-1075765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Telegram Premium es oficial: todo lo que cambiará a partir de ahora cuando utilices la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035'>Los mejores gadgets para llevar en el llavero</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llavero-localizador-2721435.jpg' alt='Los mejores gadgets para llevar en el llavero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-aprender-python-populares-menos-20eu-mejoraras-mucho-empleabilidad-1073967'>Este curso para aprender Python es de los más populares: por menos de 20€ mejorarás mucho tu empleabilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curso-aprender-python-populares-menos-20eu-mejoraras-mucho-empleabilidad-1073967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/python-lenguaje-programacion-2587785.jpg' alt='Este curso para aprender Python es de los más populares: por menos de 20€ mejorarás mucho tu empleabilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/mejores-6-funciones-ocultas-windows-11-1070795'>Las mejores 6 funciones ocultas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/mejores-6-funciones-ocultas-windows-11-1070795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='Las mejores 6 funciones ocultas de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/dell-ultrasharp-4k-webcam-wb7022-review-opinion-1072731'>Dell UltraSharp 4K Webcam (WB7022), análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/dell-ultrasharp-4k-webcam-wb7022-review-opinion-1072731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-ultrasharp-4k-webcam-wb7022-analisis-opinion-2723287.jpg' alt='Dell UltraSharp 4K Webcam (WB7022), análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461'>Las mejores webs para hacer online sopa de letras gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/letras-2723955.jpg' alt='Las mejores webs para hacer online sopa de letras gratis' />
     </a>
 </div>
 
