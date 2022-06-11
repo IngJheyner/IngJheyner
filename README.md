@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807'>Esta nueva piel artificial otorga a los robots el sentido del tacto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-piel-artificial-otorga-robots-sentido-tacto-2728497.jpg' alt='Esta nueva piel artificial otorga a los robots el sentido del tacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805'>Este ransomware te pide que te registres en Roblox para recuperar tus archivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/roblox-2728491.jpg' alt='Este ransomware te pide que te registres en Roblox para recuperar tus archivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575'>7 series canceladas injustamente en los últimos años que deberían continuar</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg' alt='7 series canceladas injustamente en los últimos años que deberían continuar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771'>Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salvapantallas-chromecast-google-tv-2728429.jpg' alt='Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa' />
     </a>
 </div>
 
