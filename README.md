@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035'>Los mejores gadgets para llevar en el llavero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llavero-localizador-2721435.jpg' alt='Los mejores gadgets para llevar en el llavero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-aprender-python-populares-menos-20eu-mejoraras-mucho-empleabilidad-1073967'>Este curso para aprender Python es de los más populares: por menos de 20€ mejorarás mucho tu empleabilidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/curso-aprender-python-populares-menos-20eu-mejoraras-mucho-empleabilidad-1073967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/python-lenguaje-programacion-2587785.jpg' alt='Este curso para aprender Python es de los más populares: por menos de 20€ mejorarás mucho tu empleabilidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461'>Las mejores webs para hacer online sopa de letras gratis</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/letras-2723955.jpg' alt='Las mejores webs para hacer online sopa de letras gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649919.jpg' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022' />
     </a>
 </div>
 
