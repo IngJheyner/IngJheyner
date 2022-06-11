@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081'>Estos cargadores para iPhone son más potentes y baratos que el de Apple</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/varios-cargadores-iphone-apilados-2727483.jpg' alt='Estos cargadores para iPhone son más potentes y baratos que el de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-copie-bueno-ti-aunque-no-tengas-iphone-1073435'>Que Apple copie es bueno para ti (aunque no tengas un iPhone)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/apple-copie-bueno-ti-aunque-no-tengas-iphone-1073435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Que Apple copie es bueno para ti (aunque no tengas un iPhone)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727'>Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neurocientifica-explica-cual-duracion-ideal-siesta-ofrece-dos-opciones-2728349.jpg' alt='Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963'>El hombre que mató sin querer a millones de personas</a></h4>
     <a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-mato-querer-millones-personas-2724997.jpg' alt='El hombre que mató sin querer a millones de personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-deja-vender-altavoces-pantallas-inteligentes-portal-1075523'>Meta deja de vender sus altavoces y pantallas inteligentes Portal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-deja-vender-altavoces-pantallas-inteligentes-portal-1075523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/pleno-huracan-facebook-pone-camara-micro-tu-casa-facebook-portal.jpg' alt='Meta deja de vender sus altavoces y pantallas inteligentes Portal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521'>Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/resident-evil-village-2337137.jpg' alt='Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona' />
     </a>
 </div>
 
