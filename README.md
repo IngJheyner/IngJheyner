@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/version-windows-11-ya-trae-pestanas-explorador-archivos-mucho-1075829'>Esta versión de Windows 11 ya trae pestañas al explorador de archivos y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/version-windows-11-ya-trae-pestanas-explorador-archivos-mucho-1075829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Esta versión de Windows 11 ya trae pestañas al explorador de archivos y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>9 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='9 auriculares con cancelación de ruido que hemos probado y recomendamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787'>El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777'>Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/duke-nukem-2728435.jpg' alt='Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película' />
     </a>
 </div>
 
