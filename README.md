@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805'>Este ransomware te pide que te registres en Roblox para recuperar tus archivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/roblox-2728491.jpg' alt='Este ransomware te pide que te registres en Roblox para recuperar tus archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787'>El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771'>Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-renueva-protector-pantalla-repleto-informacion-te-interesa-1075771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salvapantallas-chromecast-google-tv-2728429.jpg' alt='Chromecast con Google TV se renueva con un protector de pantalla repleto de información que te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959'>Motorola Edge 30, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2723061.jpg' alt='Motorola Edge 30, análisis y opinión' />
     </a>
 </div>
 
