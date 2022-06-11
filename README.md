@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tiburon-traga-camara-360-grados-1074487'>Un tiburón se traga una cámara de 360 grados y nos ofrece una visión única de su día a día, desde dentro de sus mandíbulas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tiburon-traga-camara-360-grados-1074487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tiburon-traga-camara-360-grados-nos-ofrece-vision-unica-dia-dia-mandibulas-2726045.jpg' alt='Un tiburón se traga una cámara de 360 grados y nos ofrece una visión única de su día a día, desde dentro de sus mandíbulas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-xiaomi-subwoofer-inalambrico-211-euros-necesitas-mejor-musica-hogar-1075839'>Esta barra de sonido de Xiaomi con subwoofer inalámbrico a 211 euros es lo que necesitas para la mejor música en tu hogar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/barra-sonido-xiaomi-subwoofer-inalambrico-211-euros-necesitas-mejor-musica-hogar-1075839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-barra-sonido-tv-31-canales-subwoofer-inalambrico-2728557.jpg' alt='Esta barra de sonido de Xiaomi con subwoofer inalámbrico a 211 euros es lo que necesitas para la mejor música en tu hogar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807'>Esta nueva piel artificial otorga a los robots el sentido del tacto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-piel-artificial-otorga-robots-sentido-tacto-2728497.jpg' alt='Esta nueva piel artificial otorga a los robots el sentido del tacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805'>Este ransomware te pide que te registres en Roblox para recuperar tus archivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ransomware-te-pide-te-registres-roblox-recuperar-archivos-1075805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/roblox-2728491.jpg' alt='Este ransomware te pide que te registres en Roblox para recuperar tus archivos' />
     </a>
 </div>
 
