@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787'>El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exitoso-xiaomi-12-oferta-solo-799-euros-llevandote-regalo-xiaomi-watch-s1-active-1075787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El exitoso Xiaomi 12 en oferta a solo 799 euros y llevándote de regalo el Xiaomi Watch S1 Active' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777'>Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/duke-nukem-llegara-gran-pantalla-creadores-cobra-kai-seran-encargados-pelicula-1075777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/duke-nukem-2728435.jpg' alt='Duke Nukem llegará a la gran pantalla: los creadores de Cobra Kai serán los encargados de la película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575'>7 series canceladas injustamente en los últimos años que deberían continuar</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-canceladas-injustamente-ultimos-anos-deberian-continuar-1073575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg' alt='7 series canceladas injustamente en los últimos años que deberían continuar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959'>Motorola Edge 30, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/motorola-edge-30-review-opinion-1072959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2723061.jpg' alt='Motorola Edge 30, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-oficial-todo-cambiara-partir-ahora-cuando-utilices-aplicacion-1075765'>Telegram Premium es oficial: todo lo que cambiará a partir de ahora cuando utilices la aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-oficial-todo-cambiara-partir-ahora-cuando-utilices-aplicacion-1075765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Telegram Premium es oficial: todo lo que cambiará a partir de ahora cuando utilices la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035'>Los mejores gadgets para llevar en el llavero</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-llevar-llavero-1072035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llavero-localizador-2721435.jpg' alt='Los mejores gadgets para llevar en el llavero' />
     </a>
 </div>
 
