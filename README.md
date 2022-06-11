@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-pc-pantalla-oled-pieza-lego-1075145'>Consiguen meter un micro PC con pantalla OLED en una pieza de LEGO del tamaño de una uña</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/micro-pc-pantalla-oled-pieza-lego-1075145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consiguen-meter-microordenador-pantalla-oled-pieza-lego-2727355.jpg' alt='Consiguen meter un micro PC con pantalla OLED en una pieza de LEGO del tamaño de una uña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081'>Estos cargadores para iPhone son más potentes y baratos que el de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/varios-cargadores-iphone-apilados-2727483.jpg' alt='Estos cargadores para iPhone son más potentes y baratos que el de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975'>Comprar una freidora sin aceite Lidl: mejores modelos, características y precios</a></h4>
     <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-lidl-2650347.jpg' alt='Comprar una freidora sin aceite Lidl: mejores modelos, características y precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963'>El hombre que mató sin querer a millones de personas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-mato-querer-millones-personas-2724997.jpg' alt='El hombre que mató sin querer a millones de personas' />
     </a>
 </div>
 
