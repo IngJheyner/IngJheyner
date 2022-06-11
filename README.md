@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/dell-ultrasharp-4k-webcam-wb7022-review-opinion-1072731'>Dell UltraSharp 4K Webcam (WB7022), análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/dell-ultrasharp-4k-webcam-wb7022-review-opinion-1072731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-ultrasharp-4k-webcam-wb7022-analisis-opinion-2723287.jpg' alt='Dell UltraSharp 4K Webcam (WB7022), análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461'>Las mejores webs para hacer online sopa de letras gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-hacer-online-sopa-letras-gratis-1073461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/letras-2723955.jpg' alt='Las mejores webs para hacer online sopa de letras gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oppo-find-x5-pro-analisis-opinion-2649919.jpg' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/micro-pc-pantalla-oled-pieza-lego-1075145'>Consiguen meter un micro PC con pantalla OLED en una pieza de LEGO del tamaño de una uña</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/micro-pc-pantalla-oled-pieza-lego-1075145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consiguen-meter-microordenador-pantalla-oled-pieza-lego-2727355.jpg' alt='Consiguen meter un micro PC con pantalla OLED en una pieza de LEGO del tamaño de una uña' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081'>Estos cargadores para iPhone son más potentes y baratos que el de Apple</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estos-cargadores-iphone-12-son-potentes-baratos-apple-737081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/varios-cargadores-iphone-apilados-2727483.jpg' alt='Estos cargadores para iPhone son más potentes y baratos que el de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-copie-bueno-ti-aunque-no-tengas-iphone-1073435'>Que Apple copie es bueno para ti (aunque no tengas un iPhone)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/apple-copie-bueno-ti-aunque-no-tengas-iphone-1073435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Que Apple copie es bueno para ti (aunque no tengas un iPhone)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727'>Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neurocientifica-explica-cual-duracion-ideal-siesta-ofrece-dos-opciones-2728349.jpg' alt='Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975'>Comprar una freidora sin aceite Lidl: mejores modelos, características y precios</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-lidl-2650347.jpg' alt='Comprar una freidora sin aceite Lidl: mejores modelos, características y precios' />
     </a>
 </div>
 
