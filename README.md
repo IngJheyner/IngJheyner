@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727'>Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/duracion-ideal-siesta-1075727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neurocientifica-explica-cual-duracion-ideal-siesta-ofrece-dos-opciones-2728349.jpg' alt='Una neurocientífica explica cuál es la duración ideal de una siesta, y ofrece tres opciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975'>Comprar una freidora sin aceite Lidl: mejores modelos, características y precios</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite-lidl-1030975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/freidora-lidl-2650347.jpg' alt='Comprar una freidora sin aceite Lidl: mejores modelos, características y precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963'>El hombre que mató sin querer a millones de personas</a></h4>
     <a href='https://computerhoy.com/noticias/life/thomas-midgley-hombre-mato-millones-personas-1073963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-mato-querer-millones-personas-2724997.jpg' alt='El hombre que mató sin querer a millones de personas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521'>Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/resident-evil-village-gratis-navegador-movil-pc-1075521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/resident-evil-village-2337137.jpg' alt='Ya puedes jugar gratis a Resident Evil Village en tu navegador del móvil o PC, así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515'>Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-no-podra-usar-eslogan-think-different-1075515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ya-no-podra-usar-esloganes-miticos-2728101.jpg' alt='Apple ya no podrá usar en exclusiva en Europa uno de sus eslóganes más míticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491'>Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-oferta-1075491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700569.jpg' alt='Los mejores auriculares de Sony, recién estrenados, caen ya bastante de precio' />
     </a>
 </div>
 
