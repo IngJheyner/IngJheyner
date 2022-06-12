@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121'>Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg' alt='Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113'>Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/forceclima-12750-coldwarm-connected-2728913.jpg' alt='Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099'>Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chip-m1-apple-2728861.jpg' alt='Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087'>Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtracion-galaxy-z-flip-4-2728833.jpg' alt='Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual' />
     </a>
 </div>
 
