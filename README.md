@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111'>La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777'>Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entrenador-carter-2726671.jpg' alt='Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099'>Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chip-m1-apple-2728861.jpg' alt='Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087'>Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtracion-galaxy-z-flip-4-2728833.jpg' alt='Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843'>Samsung Smart Monitor M8, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-smart-monitor-m8-analisis-opinion-2728589.jpg' alt='Samsung Smart Monitor M8, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645'>Cómo descargar los vídeos de TikTok sin marca de agua</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/imagen-logo-tiktok-2433121.jpg' alt='Cómo descargar los vídeos de TikTok sin marca de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689'>¿Qué es Dolby Vision IQ?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dolby-vision-iq-2727579.jpg' alt='¿Qué es Dolby Vision IQ?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
     </a>
 </div>
 
