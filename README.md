@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157'>El coche solar ya está aquí: Lightyear 0 entra en producción a final de año, y promete transporte gratis en los trayectos cotidianos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lightyear-one-2583645.jpg' alt='El coche solar ya está aquí: Lightyear 0 entra en producción a final de año, y promete transporte gratis en los trayectos cotidianos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825'>Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foto-contraluz-2722639.jpg' alt='Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143'>Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/museo-restaura-21-videos-primera-conferencia-informatica-1976-tan-importante-2729019.jpg' alt='Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121'>Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg' alt='Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113'>Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/forceclima-12750-coldwarm-connected-2728913.jpg' alt='Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111'>La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es' />
     </a>
 </div>
 
