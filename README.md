@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/albondiga-hecha-todos-humanos-tierra-1074533'>Así sería en tamaño una albóndiga hecha con todos los humanos de la Tierra, spoiler, el resultado es aterrador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/albondiga-hecha-todos-humanos-tierra-1074533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seria-seria-tamano-albondiga-hecha-todos-humanos-tierra-spoiler-resultado-aterrador-2726095.jpg' alt='Así sería en tamaño una albóndiga hecha con todos los humanos de la Tierra, spoiler, el resultado es aterrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/metro-digital-1034503'>Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias</a></h4>
     <a href='https://computerhoy.com/guia-compra/metro-digital-1034503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/medidor-distancia-2656977.jpg' alt='Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/version-windows-11-ya-trae-pestanas-explorador-archivos-mucho-1075829'>Esta versión de Windows 11 ya trae pestañas al explorador de archivos y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/version-windows-11-ya-trae-pestanas-explorador-archivos-mucho-1075829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2628515.jpg' alt='Esta versión de Windows 11 ya trae pestañas al explorador de archivos y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>9 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='9 auriculares con cancelación de ruido que hemos probado y recomendamos' />
     </a>
 </div>
 
