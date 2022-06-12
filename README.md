@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157'>El coche solar ya está aquí: Lightyear 0 entra en producción a final de año, y promete transporte gratis en los trayectos cotidianos</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183'>El creador de El Juego del Calamar publica un mensaje muy importante para sus fans</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creador-juego-calamar-publica-mensaje-muy-importante-fans-2729065.jpg' alt='El creador de El Juego del Calamar publica un mensaje muy importante para sus fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157'>El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lightyear-one-2583645.jpg' alt='El coche solar ya está aquí: Lightyear 0 entra en producción a final de año, y promete transporte gratis en los trayectos cotidianos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lightyear-one-2583645.jpg' alt='El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133'>Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/petvation-puerta-animales-ia-reconocimiento-facial-solo-deja-entrar-mascotas-2728965.jpg' alt='Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121'>Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg' alt='Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa' />
     </a>
 </div>
 
