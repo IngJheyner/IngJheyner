@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201'>Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-2729187.jpg' alt='Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801'>Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-freebuds-4-2532397.jpg' alt='Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825'>Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foto-contraluz-2722639.jpg' alt='Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143'>Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/museo-restaura-21-videos-primera-conferencia-informatica-1976-tan-importante-2729019.jpg' alt='Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante' />
     </a>
 </div>
 
