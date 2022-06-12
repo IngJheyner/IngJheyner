@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689'>¿Qué es Dolby Vision IQ?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dolby-vision-iq-2727579.jpg' alt='¿Qué es Dolby Vision IQ?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809'>POCO Buds Pro Genshin Impact, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-poco-buds-pro-genshin-impact-2726409.jpg' alt='POCO Buds Pro Genshin Impact, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835'>Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-2728547.jpg' alt='Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-mapa-luna-detallado-jamas-realizado-1075833'>Crean el mapa de Luna más detallado jamás realizado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-mapa-luna-detallado-jamas-realizado-1075833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-luna-2728543.jpg' alt='Crean el mapa de Luna más detallado jamás realizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255'>Cómo recuperar mensajes borrados de WhatsApp en móvil y web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mensajes-eliminados-whatsapp-2723535.jpg' alt='Cómo recuperar mensajes borrados de WhatsApp en móvil y web' />
     </a>
 </div>
 
