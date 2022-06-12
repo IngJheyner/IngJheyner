@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645'>Cómo descargar los vídeos de TikTok sin marca de agua</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/imagen-logo-tiktok-2433121.jpg' alt='Cómo descargar los vídeos de TikTok sin marca de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689'>¿Qué es Dolby Vision IQ?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/dolby-vision-iq-1066689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dolby-vision-iq-2727579.jpg' alt='¿Qué es Dolby Vision IQ?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069'>Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tira-led-2721463.jpg' alt='Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835'>Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-2728547.jpg' alt='Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina' />
     </a>
 </div>
 
