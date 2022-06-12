@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/metro-digital-1034503'>Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias</a></h4>
+    <a href='https://computerhoy.com/guia-compra/metro-digital-1034503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/medidor-distancia-2656977.jpg' alt='Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tiburon-traga-camara-360-grados-1074487'>Un tiburón se traga una cámara de 360 grados y nos ofrece una visión única de su día a día, desde dentro de sus mandíbulas</a></h4>
     <a href='https://computerhoy.com/noticias/life/tiburon-traga-camara-360-grados-1074487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tiburon-traga-camara-360-grados-nos-ofrece-vision-unica-dia-dia-mandibulas-2726045.jpg' alt='Un tiburón se traga una cámara de 360 grados y nos ofrece una visión única de su día a día, desde dentro de sus mandíbulas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>9 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233897.jpeg' alt='9 auriculares con cancelación de ruido que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807'>Esta nueva piel artificial otorga a los robots el sentido del tacto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-piel-artificial-otorga-robots-sentido-tacto-1075807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nueva-piel-artificial-otorga-robots-sentido-tacto-2728497.jpg' alt='Esta nueva piel artificial otorga a los robots el sentido del tacto' />
     </a>
 </div>
 
