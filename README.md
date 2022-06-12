@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143'>Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/museo-restaura-21-videos-primera-conferencia-informatica-1976-tan-importante-2729019.jpg' alt='Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133'>Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/petvation-puerta-animales-ia-reconocimiento-facial-solo-deja-entrar-mascotas-2728965.jpg' alt='Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111'>La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777'>Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entrenador-carter-2726671.jpg' alt='Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas' />
     </a>
 </div>
 
