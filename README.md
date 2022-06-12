@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809'>POCO Buds Pro Genshin Impact, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-poco-buds-pro-genshin-impact-2726409.jpg' alt='POCO Buds Pro Genshin Impact, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069'>Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tira-led-2721463.jpg' alt='Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255'>Cómo recuperar mensajes borrados de WhatsApp en móvil y web</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-whatsapp-movil-web-1073255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mensajes-eliminados-whatsapp-2723535.jpg' alt='Cómo recuperar mensajes borrados de WhatsApp en móvil y web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
     </a>
 </div>
 
