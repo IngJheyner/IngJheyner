@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801'>Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-freebuds-4-2532397.jpg' alt='Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183'>El creador de El Juego del Calamar publica un mensaje muy importante para sus fans</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creador-juego-calamar-publica-mensaje-muy-importante-fans-2729065.jpg' alt='El creador de El Juego del Calamar publica un mensaje muy importante para sus fans' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143'>Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primera-conferencia-informatica-1976-computer-history-museum-videos-1076143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/museo-restaura-21-videos-primera-conferencia-informatica-1976-tan-importante-2729019.jpg' alt='Un museo restaura 21 vídeos de la primera conferencia de informática, en 1976: por qué es tan importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133'>Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/petvation-puerta-animales-ia-reconocimiento-facial-solo-deja-entrar-mascotas-2728965.jpg' alt='Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)' />
     </a>
 </div>
 
