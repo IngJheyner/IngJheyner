@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087'>Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtracion-galaxy-z-flip-4-2728833.jpg' alt='Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843'>Samsung Smart Monitor M8, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-smart-monitor-m8-analisis-opinion-2728589.jpg' alt='Samsung Smart Monitor M8, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809'>POCO Buds Pro Genshin Impact, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-poco-buds-pro-genshin-impact-2726409.jpg' alt='POCO Buds Pro Genshin Impact, análisis y opinión' />
     </a>
 </div>
 
