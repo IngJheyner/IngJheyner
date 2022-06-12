@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113'>Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-enfria-toda-casa-rapido-consumo-1076113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/forceclima-12750-coldwarm-connected-2728913.jpg' alt='Este aire acondicionado portátil enfría toda tu casa rápido y es de bajo consumo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111'>La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/entrevista-ingeniero-google-lamda-ia-conversacional-pone-pelos-punta-avanzada-1076111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='La entrevista de un ingeniero de Google a LaMDA, su IA conversacional: pone los pelos de punta de lo avanzada que es' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087'>Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-primeras-imagenes-reales-samsung-galaxy-z-flip-4-diseno-recuerda-modelo-actual-1076087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtracion-galaxy-z-flip-4-2728833.jpg' alt='Estas son las primeras imágenes reales del Samsung Galaxy Z Flip 4 y su diseño recuerda al modelo actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843'>Samsung Smart Monitor M8, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-smart-monitor-m8-analisis-opinion-2728589.jpg' alt='Samsung Smart Monitor M8, análisis y opinión' />
     </a>
 </div>
 
