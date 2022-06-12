@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133'>Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/petvation-puerta-mascotas-inteligencia-artificial-reconocimiento-facial-1076133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/petvation-puerta-animales-ia-reconocimiento-facial-solo-deja-entrar-mascotas-2728965.jpg' alt='Petvation, la puerta para animales con IA y reconocimiento facial, que solo deja entrar a tus mascotas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121'>Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-electric-scooter-4-pro-rueda-lanzamiento-inminente-europa-1076121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-electric-scooter-4-pro-2728947.jpg' alt='Xiaomi Electric Scooter 4 Pro rueda hacia un lanzamiento inminente en Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777'>Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-deporte-sirven-como-inspiracion-no-son-toxicas-1074777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entrenador-carter-2726671.jpg' alt='Las 7 mejores películas de deporte que sirven como inspiración, y no son tóxicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099'>Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-fallo-irreparable-chip-m1-apple-aunque-no-deberias-preocuparte-1076099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chip-m1-apple-2728861.jpg' alt='Descubren un fallo irreparable en los chip M1 de Apple aunque no deberías preocuparte' />
     </a>
 </div>
 
