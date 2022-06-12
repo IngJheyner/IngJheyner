@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069'>Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tira-led-2721463.jpg' alt='Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835'>Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-1075835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-robot-exploracion-lunar-cruce-centauro-maquina-2728547.jpg' alt='Este nuevo robot para exploración lunar es un cruce entre un centauro y una máquina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/crean-mapa-luna-detallado-jamas-realizado-1075833'>Crean el mapa de Luna más detallado jamás realizado</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-mapa-luna-detallado-jamas-realizado-1075833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-luna-2728543.jpg' alt='Crean el mapa de Luna más detallado jamás realizado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/reloj-inteligente-agua-2072551.jpg' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/albondiga-hecha-todos-humanos-tierra-1074533'>Así sería en tamaño una albóndiga hecha con todos los humanos de la Tierra, spoiler, el resultado es aterrador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/albondiga-hecha-todos-humanos-tierra-1074533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seria-seria-tamano-albondiga-hecha-todos-humanos-tierra-spoiler-resultado-aterrador-2726095.jpg' alt='Así sería en tamaño una albóndiga hecha con todos los humanos de la Tierra, spoiler, el resultado es aterrador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/metro-digital-1034503'>Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias</a></h4>
-    <a href='https://computerhoy.com/guia-compra/metro-digital-1034503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/medidor-distancia-2656977.jpg' alt='Todo lo que debes saber antes de comprar un metro digital o medidor electrónico para distancias' />
     </a>
 </div>
 
