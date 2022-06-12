@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123'>Todos los datos del programa de la NASA del estudio de ovnis disponibles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todos-datos-programa-nasa-estudio-ovnis-disponibles-2728951.jpg' alt='Todos los datos del programa de la NASA del estudio de ovnis disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201'>Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-2729187.jpg' alt='Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157'>El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lightyear-one-2583645.jpg' alt='El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825'>Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/11-trucos-conseguir-esas-dramaticas-fotos-siluetas-contraluz-1072825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/foto-contraluz-2722639.jpg' alt='Los 11 trucos para conseguir esas dramáticas fotos de siluetas a contraluz' />
     </a>
 </div>
 
