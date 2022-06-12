@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843'>Samsung Smart Monitor M8, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-smart-monitor-m8-review-opinion-1075843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-smart-monitor-m8-analisis-opinion-2728589.jpg' alt='Samsung Smart Monitor M8, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645'>Cómo descargar los vídeos de TikTok sin marca de agua</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-tiktok-marca-agua-1071645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/imagen-logo-tiktok-2433121.jpg' alt='Cómo descargar los vídeos de TikTok sin marca de agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809'>POCO Buds Pro Genshin Impact, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-buds-pro-genshin-impact-review-opinion-1070809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-poco-buds-pro-genshin-impact-2726409.jpg' alt='POCO Buds Pro Genshin Impact, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069'>Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tiras-led-decoracion-1072069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tira-led-2721463.jpg' alt='Tiras LED para decoración: tipos, funciones, diferencias y todo lo que debes saber' />
     </a>
 </div>
 
