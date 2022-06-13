@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741'>Pese a los malos resultados Netflix insiste en que no reducirá el contenido, y anuncia importantes cambios con las series internacionales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='Pese a los malos resultados Netflix insiste en que no reducirá el contenido, y anuncia importantes cambios con las series internacionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-os-habia-inspirado-windows-11-gestion-ventanas-1076705'>Chrome OS se había inspirado en Windows 11 para la gestión de las ventanas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-os-habia-inspirado-windows-11-gestion-ventanas-1076705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/google-presenta-su-nueva-tablet-pixel-slate-teclado-extraible-chrome-os_1.jpg' alt='Chrome OS se había inspirado en Windows 11 para la gestión de las ventanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693'>El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516643.jpg' alt='El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647'>Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-2729873.jpg' alt='Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667'>En qué se diferencian las tecla Enter y Return de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/teclas-enter-return-teclado-apple-2729867.jpg' alt='En qué se diferencian las tecla Enter y Return de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627'>La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube' />
     </a>
 </div>
 
