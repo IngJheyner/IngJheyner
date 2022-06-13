@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741'>Pese a los malos resultados Netflix insiste en que no reducirá el contenido, y anuncia importantes cambios con las series internacionales</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/israel-crea-primer-radar-proxima-generacion-capaz-ver-traves-paredes-1076749'>Israel crea el primer radar de próxima generación capaz de ver a través de las paredes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/israel-crea-primer-radar-proxima-generacion-capaz-ver-traves-paredes-1076749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xaver-1000-2730061.jpg' alt='Israel crea el primer radar de próxima generación capaz de ver a través de las paredes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741'>Pese a los malos resultados Netflix insiste en que no reducirá la producción, anuncia cambios con las series internacionales</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='Pese a los malos resultados Netflix insiste en que no reducirá el contenido, y anuncia importantes cambios con las series internacionales' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='Pese a los malos resultados Netflix insiste en que no reducirá la producción, anuncia cambios con las series internacionales' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647'>Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-2729873.jpg' alt='Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga' />
     </a>
 </div>
 
