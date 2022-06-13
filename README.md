@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1076397'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1076397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2729415.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/motor/cuatro-motivos-gasolina-diesel-suben-precio-petroleo-1076421'>Los cuatro motivos por los que la gasolina y el diésel suben más de precio que el petróleo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuatro-motivos-gasolina-diesel-suben-precio-petroleo-1076421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='Los cuatro motivos por los que la gasolina y el diésel suben más de precio que el petróleo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-etiquetas-nfc-1076161'>Mejores etiquetas NFC que puedes comprar para usar con tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-etiquetas-nfc-1076161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nfc-iphone-2729079.jpg' alt='Mejores etiquetas NFC que puedes comprar para usar con tu móvil' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-evitar-lesiones-deportivas-manos-inteligencia-artificial-1076425'>El futuro para evitar lesiones deportivas está en manos de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-evitar-lesiones-deportivas-manos-inteligencia-artificial-1076425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/01/83361-lesion-sami-khedira.jpg' alt='El futuro para evitar lesiones deportivas está en manos de la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123'>Todos los datos del programa de la NASA del estudio de ovnis disponibles</a></h4>
-    <a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todos-datos-programa-nasa-estudio-ovnis-disponibles-2728951.jpg' alt='Todos los datos del programa de la NASA del estudio de ovnis disponibles' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-104-oferta-dia-sin-iva-1076151'>No te lleves el portátil a la playa: la tablet Huawei MatePad 10,4 es el perfecto reemplazo y está en oferta en el Día sin IVA de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-104-oferta-dia-sin-iva-1076151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-104-new-edition-2624203.jpg' alt='No te lleves el portátil a la playa: la tablet Huawei MatePad 10,4 es el perfecto reemplazo y está en oferta en el Día sin IVA de Huawei' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201'>Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-1076201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nixon-103-uw-uas-dron-volador-despega-como-torpedo-submarino-fondo-mar-2729187.jpg' alt='Nixon 103 UW UAS, el dron volador que despega como un torpedo desde un submarino en el fondo del mar' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-temperatura-humedad-1076193'>Monitores de temperatura y humedad: para qué sirven, qué debes tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-temperatura-humedad-1076193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/termometro-higrometro-2729445.jpg' alt='Monitores de temperatura y humedad: para qué sirven, qué debes tener en cuenta y cuáles son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801'>Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-freebuds-4-2532397.jpg' alt='Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-dia-iva-huawei-1074183'>Consigue el smartwatch Huawei Watch GT 3 con una oferta especial durante los días sin IVA de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-dia-iva-huawei-1074183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-watch-gt-3-2725629.jpg' alt='Consigue el smartwatch Huawei Watch GT 3 con una oferta especial durante los días sin IVA de Huawei' />
     </a>
 </div>
 
