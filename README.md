@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-comunidad-mundial-impresion-3d-ayudando-ucrania-1076475'>Así es como la comunidad mundial de impresión 3D está ayudando a Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-comunidad-mundial-impresion-3d-ayudando-ucrania-1076475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/oreja-impresora-3d-1851041.jpg' alt='Así es como la comunidad mundial de impresión 3D está ayudando a Ucrania' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-ver-primer-hands-nuevo-google-pixel-6a-ademas-comparado-pixel-6-pro-1076549'>Ya podemos ver el primer hands-on del nuevo Google Pixel 6a, y además comparado con el Pixel 6 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-ver-primer-hands-nuevo-google-pixel-6a-ademas-comparado-pixel-6-pro-1076549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pixel-6a-vs-pixel-6-pro-2729673.jpg' alt='Ya podemos ver el primer hands-on del nuevo Google Pixel 6a, y además comparado con el Pixel 6 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lovewindowsagain-programa-gratis-elimina-todo-te-molesta-windows-11-1076443'>LoveWindowsAgain, el programa gratis que elimina todo lo que te molesta de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lovewindowsagain-programa-gratis-elimina-todo-te-molesta-windows-11-1076443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='LoveWindowsAgain, el programa gratis que elimina todo lo que te molesta de Windows 11' />
+    <h4><a href='https://computerhoy.com/noticias/life/bueno-donar-nueva-etiqueta-podrias-ver-muchos-productos-lidl-significa-1076479'>“Bueno para donar” la nueva etiqueta que podrías ver en muchos productos de Lidl ¿qué significa?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bueno-donar-nueva-etiqueta-podrias-ver-muchos-productos-lidl-significa-1076479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/supermercado-lidl-2684311.jpg' alt='“Bueno para donar” la nueva etiqueta que podrías ver en muchos productos de Lidl ¿qué significa?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucion-iphone-14-vendria-camara-frontal-1076451'>La revolución del iPhone 14 vendría en su cámara frontal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revolucion-iphone-14-vendria-camara-frontal-1076451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-mini-negro-2580973.jpg' alt='La revolución del iPhone 14 vendría en su cámara frontal' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-leroy-merlin-oferta-13-junio-2022-1076437'>¿No encuentras aire acondicionado portátil? Este modelo de Leroy Merlin sí tiene stock y puedes recogerlo hoy mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-leroy-merlin-oferta-13-junio-2022-1076437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/equation-silent-2-2729467.jpg' alt='¿No encuentras aire acondicionado portátil? Este modelo de Leroy Merlin sí tiene stock y puedes recogerlo hoy mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-online-aprender-desarrollo-web-arrasa-100000-personas-han-completado-1073945'>Este curso online para aprender desarrollo web arrasa: más de 100.000 personas lo han completado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curso-online-aprender-desarrollo-web-arrasa-100000-personas-han-completado-1073945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/html5-2724967.jpg' alt='Este curso online para aprender desarrollo web arrasa: más de 100.000 personas lo han completado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/thinkpad-t16-t14-gen-3-nuevos-portatiles-profesionales-lenovo-procesadores-intel-12a-gen-amd-6000-1076493'>ThinkPad T16 y T14 Gen 3: los nuevos portátiles profesionales de Lenovo con procesadores Intel 12ª Gen o AMD 6000</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/thinkpad-t16-t14-gen-3-nuevos-portatiles-profesionales-lenovo-procesadores-intel-12a-gen-amd-6000-1076493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lenovo-thinkpad-t16-2729559.jpg' alt='ThinkPad T16 y T14 Gen 3: los nuevos portátiles profesionales de Lenovo con procesadores Intel 12ª Gen o AMD 6000' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-americana-estudia-retirada-800000-vehiculos-tesla-mercado-problemas-software-autopilot-1076427'>La DGT americana estudia la retirada de 800.000 vehículos Tesla del mercado por problemas con su software Autopilot</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-americana-estudia-retirada-800000-vehiculos-tesla-mercado-problemas-software-autopilot-1076427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='La DGT americana estudia la retirada de 800.000 vehículos Tesla del mercado por problemas con su software Autopilot' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-movil-top-vera-luz-verano-1076511'>Así es el OnePlus 10T, móvil top que verá la luz este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-movil-top-vera-luz-verano-1076511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-10t-render-2729567.jpg' alt='Así es el OnePlus 10T, móvil top que verá la luz este verano' />
     </a>
 </div>
 
