@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/israel-crea-primer-radar-proxima-generacion-capaz-ver-traves-paredes-1076749'>Israel crea el primer radar de próxima generación capaz de ver a través de las paredes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/israel-crea-primer-radar-proxima-generacion-capaz-ver-traves-paredes-1076749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xaver-1000-2730061.jpg' alt='Israel crea el primer radar de próxima generación capaz de ver a través de las paredes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745'>Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699623.jpg' alt='Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741'>Pese a los malos resultados Netflix insiste en que no reducirá la producción, anuncia cambios con las series internacionales</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-produccion-mas-series-internacionales-1076741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='Pese a los malos resultados Netflix insiste en que no reducirá la producción, anuncia cambios con las series internacionales' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-todos-problemas-reparto-paquetes-mediante-drones-amazon-fin-despegaria-mismo-ano-1076731'>Pese a todos los problemas el reparto de paquetes mediante drones de Amazon por fin despegaría este mismo año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pese-todos-problemas-reparto-paquetes-mediante-drones-amazon-fin-despegaria-mismo-ano-1076731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Pese a todos los problemas el reparto de paquetes mediante drones de Amazon por fin despegaría este mismo año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-os-habia-inspirado-windows-11-gestion-ventanas-1076705'>Chrome OS se había inspirado en Windows 11 para la gestión de las ventanas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-os-habia-inspirado-windows-11-gestion-ventanas-1076705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/google-presenta-su-nueva-tablet-pixel-slate-teclado-extraible-chrome-os_1.jpg' alt='Chrome OS se había inspirado en Windows 11 para la gestión de las ventanas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757'>Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-obsesionado-bots-twitter-tan-importantes-son-2730065.jpg' alt='Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693'>El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516643.jpg' alt='El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comedero-inteligente-mascotas-wifi-grabadora-voz-1076673'>Comedero inteligente doble con WiFi, control de porciones y grabadora de voz, para salir de casa tranquilos este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comedero-inteligente-mascotas-wifi-grabadora-voz-1076673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/comedero-inteligente-doble-wifi-control-porciones-grabadora-voz-salir-casa-tranquilo-verano-2729875.jpg' alt='Comedero inteligente doble con WiFi, control de porciones y grabadora de voz, para salir de casa tranquilos este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-dias-servicio-todos-pensabamos-llevaba-anos-muerto-1076753'>Google cerrará en unos días un servicio que todos pensábamos que llevaba años muerto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-dias-servicio-todos-pensabamos-llevaba-anos-muerto-1076753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-talk-2730063.jpg' alt='Google cerrará en unos días un servicio que todos pensábamos que llevaba años muerto' />
     </a>
 </div>
 
