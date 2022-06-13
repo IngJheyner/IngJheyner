@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647'>Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-2729873.jpg' alt='Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667'>En qué se diferencian las tecla Enter y Return de tu ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/teclas-enter-return-teclado-apple-2729867.jpg' alt='En qué se diferencian las tecla Enter y Return de tu ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593'>Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/robots-google.png' alt='Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603'>Cómo añadir rápidamente más de una fila o una columna en Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo añadir rápidamente más de una fila o una columna en Excel' />
     </a>
 </div>
 
