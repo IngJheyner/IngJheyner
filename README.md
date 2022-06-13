@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693'>El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-mejoraria-apartado-vital-reloj-inteligente-1076693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516643.jpg' alt='El Samsung Galaxy Watch 5 mejoraría en un apartado vital para un reloj inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647'>Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-1076647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/expulsan-cientificos-espanoles-programas-investigacion-importantes-porque-gobierno-no-paga-2729873.jpg' alt='Expulsan a los científicos españoles de uno de los programas de investigación más importantes porque el gobierno no paga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627'>La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-coche-caro-mundo-2022-1076569'>Cuál es el coche más caro del mundo en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-coche-caro-mundo-2022-1076569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rolls-royce-boat-tail-2708425.jpg' alt='Cuál es el coche más caro del mundo en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593'>Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/robots-google.png' alt='Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa' />
     </a>
 </div>
 
