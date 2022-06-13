@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1076397'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1076397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2729415.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-etiquetas-nfc-1076161'>Mejores etiquetas NFC que puedes comprar para usar con tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-etiquetas-nfc-1076161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nfc-iphone-2729079.jpg' alt='Mejores etiquetas NFC que puedes comprar para usar con tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123'>Todos los datos del programa de la NASA del estudio de ovnis disponibles</a></h4>
     <a href='https://computerhoy.com/noticias/life/todos-datos-programa-nasa-estudio-ovnis-disponibles-1076123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todos-datos-programa-nasa-estudio-ovnis-disponibles-2728951.jpg' alt='Todos los datos del programa de la NASA del estudio de ovnis disponibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801'>Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-4-oferta-dia-sin-iva-1074801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-freebuds-4-2532397.jpg' alt='Olvídate del ruido exterior con la cancelación de ruido activa 2.0 de estos Huawei FreeBuds 4 más baratos que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183'>El creador de El Juego del Calamar publica un mensaje muy importante para sus fans</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/creador-juego-calamar-segunda-temporada-1076183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/creador-juego-calamar-publica-mensaje-muy-importante-fans-2729065.jpg' alt='El creador de El Juego del Calamar publica un mensaje muy importante para sus fans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157'>El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-solar-lightyear-0-1076157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lightyear-one-2583645.jpg' alt='El coche solar ya está aquí: Lightyear 0 entra en producción y promete transporte gratis en los trayectos cotidianos' />
     </a>
 </div>
 
