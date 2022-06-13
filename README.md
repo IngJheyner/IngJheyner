@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-ver-primer-hands-nuevo-google-pixel-6a-ademas-comparado-pixel-6-pro-1076549'>Ya podemos ver el primer hands-on del nuevo Google Pixel 6a, y además comparado con el Pixel 6 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-podemos-ver-primer-hands-nuevo-google-pixel-6a-ademas-comparado-pixel-6-pro-1076549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pixel-6a-vs-pixel-6-pro-2729673.jpg' alt='Ya podemos ver el primer hands-on del nuevo Google Pixel 6a, y además comparado con el Pixel 6 Pro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593'>Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/robots-google.png' alt='Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bueno-donar-nueva-etiqueta-podrias-ver-muchos-productos-lidl-significa-1076479'>“Bueno para donar” la nueva etiqueta que podrías ver en muchos productos de Lidl ¿qué significa?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bueno-donar-nueva-etiqueta-podrias-ver-muchos-productos-lidl-significa-1076479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/supermercado-lidl-2684311.jpg' alt='“Bueno para donar” la nueva etiqueta que podrías ver en muchos productos de Lidl ¿qué significa?' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603'>Cómo añadir rápidamente más de una fila o una columna en Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo añadir rápidamente más de una fila o una columna en Excel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-leroy-merlin-oferta-13-junio-2022-1076437'>¿No encuentras aire acondicionado portátil? Este modelo de Leroy Merlin sí tiene stock y puedes recogerlo hoy mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-leroy-merlin-oferta-13-junio-2022-1076437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/equation-silent-2-2729467.jpg' alt='¿No encuentras aire acondicionado portátil? Este modelo de Leroy Merlin sí tiene stock y puedes recogerlo hoy mismo' />
+    <h4><a href='https://computerhoy.com/noticias/life/cuidado-estafa-bizum-inverso-roban-9000-euros-mediante-tecnica-usuario-1076613'>Cuidado con la estafa del Bizum Inverso: roban 9000 euros mediante esta técnica a un usuario</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuidado-estafa-bizum-inverso-roban-9000-euros-mediante-tecnica-usuario-1076613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Cuidado con la estafa del Bizum Inverso: roban 9000 euros mediante esta técnica a un usuario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/thinkpad-t16-t14-gen-3-nuevos-portatiles-profesionales-lenovo-procesadores-intel-12a-gen-amd-6000-1076493'>ThinkPad T16 y T14 Gen 3: los nuevos portátiles profesionales de Lenovo con procesadores Intel 12ª Gen o AMD 6000</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/thinkpad-t16-t14-gen-3-nuevos-portatiles-profesionales-lenovo-procesadores-intel-12a-gen-amd-6000-1076493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lenovo-thinkpad-t16-2729559.jpg' alt='ThinkPad T16 y T14 Gen 3: los nuevos portátiles profesionales de Lenovo con procesadores Intel 12ª Gen o AMD 6000' />
+    <h4><a href='https://computerhoy.com/noticias/life/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-1076563'>La peculiar lista de la compra de un gurú de las finanzas personales ante una probable crisis mundial</a></h4>
+    <a href='https://computerhoy.com/noticias/life/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-1076563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-2729699.jpg' alt='La peculiar lista de la compra de un gurú de las finanzas personales ante una probable crisis mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-movil-top-vera-luz-verano-1076511'>Así es el OnePlus 10T, móvil top que verá la luz este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-movil-top-vera-luz-verano-1076511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-10t-render-2729567.jpg' alt='Así es el OnePlus 10T, móvil top que verá la luz este verano' />
+    <h4><a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755'>Ventiladores de techo en 2022: características, funciones, instalación y todo lo que debes saber antes de comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='Ventiladores de techo en 2022: características, funciones, instalación y todo lo que debes saber antes de comprar' />
     </a>
 </div>
 
