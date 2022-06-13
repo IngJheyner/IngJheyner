@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755'>Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-129-2021-2375677.jpg' alt='Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773'>Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desplome-hoy-bitcoin-cae-debajo-precio-compensa-electricidad-gasta-ahora-2730095.jpg' alt='Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745'>Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699623.jpg' alt='Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757'>Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-obsesionado-bots-twitter-tan-importantes-son-2730065.jpg' alt='Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comedero-inteligente-mascotas-wifi-grabadora-voz-1076673'>Comedero inteligente doble con WiFi, control de porciones y grabadora de voz, para salir de casa tranquilos este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comedero-inteligente-mascotas-wifi-grabadora-voz-1076673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/comedero-inteligente-doble-wifi-control-porciones-grabadora-voz-salir-casa-tranquilo-verano-2729875.jpg' alt='Comedero inteligente doble con WiFi, control de porciones y grabadora de voz, para salir de casa tranquilos este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-dias-servicio-todos-pensabamos-llevaba-anos-muerto-1076753'>Google cerrará en unos días un servicio que todos pensábamos que llevaba años muerto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-cerrara-dias-servicio-todos-pensabamos-llevaba-anos-muerto-1076753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-talk-2730063.jpg' alt='Google cerrará en unos días un servicio que todos pensábamos que llevaba años muerto' />
     </a>
 </div>
 
