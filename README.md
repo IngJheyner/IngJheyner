@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667'>En qué se diferencian las tecla Enter y Return de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencian-tecla-enter-return-ordenador-1076667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/teclas-enter-return-teclado-apple-2729867.jpg' alt='En qué se diferencian las tecla Enter y Return de tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627'>La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/liga-equipos-espanoles-salvo-excepcion-goleados-tambien-youtube-1076627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/laliga-santander-futbol-2560275.jpg' alt='La Liga y los equipos españoles (salvo una excepción) goleados también en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-coche-caro-mundo-2022-1076569'>Cuál es el coche más caro del mundo en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-coche-caro-mundo-2022-1076569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/rolls-royce-boat-tail-2708425.jpg' alt='Cuál es el coche más caro del mundo en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593'>Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empresas-surcoreanas-apresuran-cambiar-trabajadores-robots-nueva-peligrosa-normativa-1076593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/robots-google.png' alt='Las empresas surcoreanas se apresuran a cambiar a los trabajadores por robots por una nueva y peligrosa normativa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603'>Cómo añadir rápidamente más de una fila o una columna en Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-rapidamente-fila-columna-excel-1076603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo añadir rápidamente más de una fila o una columna en Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuidado-estafa-bizum-inverso-roban-9000-euros-mediante-tecnica-usuario-1076613'>Cuidado con la estafa del Bizum Inverso: roban 9000 euros mediante esta técnica a un usuario</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuidado-estafa-bizum-inverso-roban-9000-euros-mediante-tecnica-usuario-1076613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mejores-alternativas-bizum-enviar-dinero-gratis-2393371.jpg' alt='Cuidado con la estafa del Bizum Inverso: roban 9000 euros mediante esta técnica a un usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-1076563'>La peculiar lista de la compra de un gurú de las finanzas personales ante una probable crisis mundial</a></h4>
-    <a href='https://computerhoy.com/noticias/life/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-1076563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peculiar-lista-compra-guru-finanzas-personales-probable-crisis-mundial-2729699.jpg' alt='La peculiar lista de la compra de un gurú de las finanzas personales ante una probable crisis mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755'>Ventiladores de techo en 2022: características, funciones, instalación y todo lo que debes saber antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ventilador-de-techo-885755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='Ventiladores de techo en 2022: características, funciones, instalación y todo lo que debes saber antes de comprar' />
     </a>
 </div>
 
