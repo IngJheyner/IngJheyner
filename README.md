@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuatro-motivos-gasolina-diesel-suben-precio-petroleo-1076421'>Los cuatro motivos por los que la gasolina y el diésel suben más de precio que el petróleo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuatro-motivos-gasolina-diesel-suben-precio-petroleo-1076421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/gasolinera-2022633.jpg' alt='Los cuatro motivos por los que la gasolina y el diésel suben más de precio que el petróleo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-comunidad-mundial-impresion-3d-ayudando-ucrania-1076475'>Así es como la comunidad mundial de impresión 3D está ayudando a Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-comunidad-mundial-impresion-3d-ayudando-ucrania-1076475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/oreja-impresora-3d-1851041.jpg' alt='Así es como la comunidad mundial de impresión 3D está ayudando a Ucrania' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-evitar-lesiones-deportivas-manos-inteligencia-artificial-1076425'>El futuro para evitar lesiones deportivas está en manos de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-evitar-lesiones-deportivas-manos-inteligencia-artificial-1076425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/01/83361-lesion-sami-khedira.jpg' alt='El futuro para evitar lesiones deportivas está en manos de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lovewindowsagain-programa-gratis-elimina-todo-te-molesta-windows-11-1076443'>LoveWindowsAgain, el programa gratis que elimina todo lo que te molesta de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lovewindowsagain-programa-gratis-elimina-todo-te-molesta-windows-11-1076443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-2645053.jpg' alt='LoveWindowsAgain, el programa gratis que elimina todo lo que te molesta de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-104-oferta-dia-sin-iva-1076151'>No te lleves el portátil a la playa: la tablet Huawei MatePad 10,4 es el perfecto reemplazo y está en oferta en el Día sin IVA de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-104-oferta-dia-sin-iva-1076151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-matepad-104-new-edition-2624203.jpg' alt='No te lleves el portátil a la playa: la tablet Huawei MatePad 10,4 es el perfecto reemplazo y está en oferta en el Día sin IVA de Huawei' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revolucion-iphone-14-vendria-camara-frontal-1076451'>La revolución del iPhone 14 vendría en su cámara frontal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revolucion-iphone-14-vendria-camara-frontal-1076451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/iphone-13-mini-negro-2580973.jpg' alt='La revolución del iPhone 14 vendría en su cámara frontal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-temperatura-humedad-1076193'>Monitores de temperatura y humedad: para qué sirven, qué debes tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-monitores-temperatura-humedad-1076193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/termometro-higrometro-2729445.jpg' alt='Monitores de temperatura y humedad: para qué sirven, qué debes tener en cuenta y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-online-aprender-desarrollo-web-arrasa-100000-personas-han-completado-1073945'>Este curso online para aprender desarrollo web arrasa: más de 100.000 personas lo han completado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curso-online-aprender-desarrollo-web-arrasa-100000-personas-han-completado-1073945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/html5-2724967.jpg' alt='Este curso online para aprender desarrollo web arrasa: más de 100.000 personas lo han completado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-dia-iva-huawei-1074183'>Consigue el smartwatch Huawei Watch GT 3 con una oferta especial durante los días sin IVA de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-dia-iva-huawei-1074183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-watch-gt-3-2725629.jpg' alt='Consigue el smartwatch Huawei Watch GT 3 con una oferta especial durante los días sin IVA de Huawei' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-americana-estudia-retirada-800000-vehiculos-tesla-mercado-problemas-software-autopilot-1076427'>La DGT americana estudia la retirada de 800.000 vehículos Tesla del mercado por problemas con su software Autopilot</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-americana-estudia-retirada-800000-vehiculos-tesla-mercado-problemas-software-autopilot-1076427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-3-2532377.jpg' alt='La DGT americana estudia la retirada de 800.000 vehículos Tesla del mercado por problemas con su software Autopilot' />
     </a>
 </div>
 
