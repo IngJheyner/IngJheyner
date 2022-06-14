@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999'>P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/p50-coche-pequeno-mundo-puedes-montarlo-mismo-2730361.jpg' alt='P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773'>Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desplome-hoy-bitcoin-cae-debajo-precio-compensa-electricidad-gasta-ahora-2730095.jpg' alt='Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745'>Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699623.jpg' alt='Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común' />
     </a>
 </div>
 
