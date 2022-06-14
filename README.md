@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391'>Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unicode-planta-cara-usuarios-no-incluira-elementos-categoria-emojis-muy-popular-1077363'>Unicode planta cara a los usuarios y no incluirá más elementos a una categoría de emojis muy popular</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/unicode-planta-cara-usuarios-no-incluira-elementos-categoria-emojis-muy-popular-1077363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/emojis-2227247.jpg' alt='Unicode planta cara a los usuarios y no incluirá más elementos a una categoría de emojis muy popular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361'>Adobe estaría preparando una versión gratuita de uno de sus programas más usados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/como-descargar-photoshop-gratis-mejores-alternativas.jpg' alt='Adobe estaría preparando una versión gratuita de uno de sus programas más usados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275'>Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/localizador-gps-tarjeta-sim-incluida-solo-cuesta-24-euros-2730961.jpg' alt='Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-version-xiaomi-mi-band-7-llegara-espana-1077383'>Se filtran todos los detalles de la versión de Xiaomi Mi Band 7 que llegará a España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-version-xiaomi-mi-band-7-llegara-espana-1077383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Se filtran todos los detalles de la versión de Xiaomi Mi Band 7 que llegará a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-anuncia-sorpresa-funciones-esperadas-whatsapp-1077381'>Mark Zuckerberg anuncia por sorpresa una de las funciones más esperadas de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-anuncia-sorpresa-funciones-esperadas-whatsapp-1077381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Mark Zuckerberg anuncia por sorpresa una de las funciones más esperadas de WhatsApp' />
     </a>
 </div>
 
