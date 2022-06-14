@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2730363.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999'>P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999'>P50 es el coche más pequeño del mundo, puedes montarlo tú mismo y cabe en el ascensor (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/p50-coche-pequeno-mundo-puedes-montarlo-mismo-2730361.jpg' alt='P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/p50-coche-pequeno-mundo-puedes-montarlo-mismo-2730361.jpg' alt='P50 es el coche más pequeño del mundo, puedes montarlo tú mismo y cabe en el ascensor (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755'>Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-129-2021-2375677.jpg' alt='Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773'>Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desplome-bitcoin-no-compensa-mineria-1076773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desplome-hoy-bitcoin-cae-debajo-precio-compensa-electricidad-gasta-ahora-2730095.jpg' alt='Tras el desplome de hoy, el Bitcoin cae por debajo del precio al que compensa la electricidad que gasta, ¿y ahora qué?' />
     </a>
 </div>
 
