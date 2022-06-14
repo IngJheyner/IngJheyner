@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267'>No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251'>La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-2730967.jpg' alt='La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-cuanto-tarda-llegar-cima-1076747'>Cuál es la montaña más alta del mundo y cuánto se tarda en llegar a su cima</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-cuanto-tarda-llegar-cima-1076747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/china-nepal-llegan-acuerdo-fin-sabemos-altura-exacta-everest-2163191.jpg' alt='Cuál es la montaña más alta del mundo y cuánto se tarda en llegar a su cima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-1077135'>Así funciona el dron con el que Amazon empezará a repartir paquetes en EE.UU.  </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-1077135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-2730667.jpg' alt='Así funciona el dron con el que Amazon empezará a repartir paquetes en EE.UU.  ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-4k-hisense-oferta-14-junio-2022-1076491'>55 pulgadas, 4K y Alexa a precio de saldo: este televisor se acerca a los 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-4k-hisense-oferta-14-junio-2022-1076491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hisense-55ae7000f-2729551.jpg' alt='55 pulgadas, 4K y Alexa a precio de saldo: este televisor se acerca a los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/brutal-caida-bitcoin-arrastrando-pais-1077201'>La brutal caída del Bitcoin que está arrastrando a un país</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/brutal-caida-bitcoin-arrastrando-pais-1077201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/salvador-compra-otros-150-bitcoins-durante-caida-criptodivisa-eleva-posesion-total-31-millones-dolares-2477367.jpg' alt='La brutal caída del Bitcoin que está arrastrando a un país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia-carga-bateria-silicio-permite-carga-coche-llegar-98-10-minutos-1077187'>La tecnología de carga de batería de silicio que permite la carga de un coche llegar a un 98 % en 10 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia-carga-bateria-silicio-permite-carga-coche-llegar-98-10-minutos-1077187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-recargando-2620369.jpg' alt='La tecnología de carga de batería de silicio que permite la carga de un coche llegar a un 98 % en 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-xiaomi-12s-marca-records-geekbench-deja-entrever-snapdragon-8-gen1-1077197'>El próximo Xiaomi 12S marca récords en Geekbench y deja entrever el Snapdragon 8+ Gen1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-xiaomi-12s-marca-records-geekbench-deja-entrever-snapdragon-8-gen1-1077197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El próximo Xiaomi 12S marca récords en Geekbench y deja entrever el Snapdragon 8+ Gen1' />
     </a>
 </div>
 
