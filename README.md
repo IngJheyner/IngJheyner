@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/google-translate.jpg' alt='Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-dar-vuelta-tabla-excel-funcion-transponer-1077291'>Cómo dar la vuelta a una tabla en Excel con la función transponer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-dar-vuelta-tabla-excel-funcion-transponer-1077291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Cómo dar la vuelta a una tabla en Excel con la función transponer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-deja-ver-manos-fundador-empresa-antes-lanzamiento-oficial-1077287'>El Nothing Phone (1) se deja ver en las manos del fundador de la empresa antes de su lanzamiento oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-deja-ver-manos-fundador-empresa-antes-lanzamiento-oficial-1077287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-deja-ver-manos-fundador-empresa-antes-lanzamiento-oficial-2730985.jpg' alt='El Nothing Phone (1) se deja ver en las manos del fundador de la empresa antes de su lanzamiento oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267'>No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251'>La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-2730967.jpg' alt='La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-cuanto-tarda-llegar-cima-1076747'>Cuál es la montaña más alta del mundo y cuánto se tarda en llegar a su cima</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-montana-alta-mundo-cuanto-tarda-llegar-cima-1076747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/china-nepal-llegan-acuerdo-fin-sabemos-altura-exacta-everest-2163191.jpg' alt='Cuál es la montaña más alta del mundo y cuánto se tarda en llegar a su cima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-1077135'>Así funciona el dron con el que Amazon empezará a repartir paquetes en EE.UU.  </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-1077135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funciona-dron-amazon-empezara-repartir-paquetes-eeuu-2730667.jpg' alt='Así funciona el dron con el que Amazon empezará a repartir paquetes en EE.UU.  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smart-tv-4k-hisense-oferta-14-junio-2022-1076491'>55 pulgadas, 4K y Alexa a precio de saldo: este televisor se acerca a los 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smart-tv-4k-hisense-oferta-14-junio-2022-1076491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hisense-55ae7000f-2729551.jpg' alt='55 pulgadas, 4K y Alexa a precio de saldo: este televisor se acerca a los 300 euros' />
     </a>
 </div>
 
