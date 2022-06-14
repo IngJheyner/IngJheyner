@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-1077305'>Apple TV+ te ofrece gratis una de las mejores series de ciencia ficción de la actualidad</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-1077305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-2731195.jpg' alt='Apple TV+ te ofrece gratis una de las mejores series de ciencia ficción de la actualidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361'>Adobe estaría preparando una versión gratuita de uno de sus programas más usados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/como-descargar-photoshop-gratis-mejores-alternativas.jpg' alt='Adobe estaría preparando una versión gratuita de uno de sus programas más usados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/helado-japones-mochi-arrasa-mercadona-1077355'>El helado japonés bajo en grasa que arrasa en Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/helado-japones-mochi-arrasa-mercadona-1077355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-helado-japones-grasa-arrasa-mercadona-2731145.jpg' alt='El helado japonés bajo en grasa que arrasa en Mercadona' />
+    <h4><a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385'>El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tocadiscos-vertical-otros-instrumentos-imposibles-yamaha-2731215.jpg' alt='El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-consejo-asesor-seguridad-desinformacion-censura-1077331'>Meses después, Spotify sigue dándole vueltas a su problema con la desinformación: ¿moderará el contenido?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-consejo-asesor-seguridad-desinformacion-censura-1077331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meses-despues-spotify-sigue-dandole-vueltas-problema-desinformacion-moderara-contenido-2731101.jpg' alt='Meses después, Spotify sigue dándole vueltas a su problema con la desinformación: ¿moderará el contenido?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275'>Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/localizador-gps-tarjeta-sim-incluida-solo-cuesta-24-euros-2730961.jpg' alt='Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-vivo-x80-x80-pro-precio-incluido-no-te-va-gustar-1077303'>Esto es todo lo que sabemos de los Vivo X80 y X80 Pro, precio incluido, y no te va a gustar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-vivo-x80-x80-pro-precio-incluido-no-te-va-gustar-1077303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/vivo-x80-2673769.jpg' alt='Esto es todo lo que sabemos de los Vivo X80 y X80 Pro, precio incluido, y no te va a gustar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-version-xiaomi-mi-band-7-llegara-espana-1077383'>Se filtran todos los detalles de la versión de Xiaomi Mi Band 7 que llegará a España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todos-detalles-version-xiaomi-mi-band-7-llegara-espana-1077383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Se filtran todos los detalles de la versión de Xiaomi Mi Band 7 que llegará a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021'>Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-dell-xps-sofa-blanco-2730391.jpg' alt='Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-anuncia-sorpresa-funciones-esperadas-whatsapp-1077381'>Mark Zuckerberg anuncia por sorpresa una de las funciones más esperadas de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-anuncia-sorpresa-funciones-esperadas-whatsapp-1077381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Mark Zuckerberg anuncia por sorpresa una de las funciones más esperadas de WhatsApp' />
     </a>
 </div>
 
