@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-1077305'>Apple TV+ te ofrece gratis una de las mejores series de ciencia ficción de la actualidad</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-1077305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-tv-te-ofrece-gratis-mejores-series-ciencia-ficcion-actualidad-2731195.jpg' alt='Apple TV+ te ofrece gratis una de las mejores series de ciencia ficción de la actualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/helado-japones-mochi-arrasa-mercadona-1077355'>El helado japonés bajo en grasa que arrasa en Mercadona</a></h4>
     <a href='https://computerhoy.com/noticias/life/helado-japones-mochi-arrasa-mercadona-1077355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-helado-japones-grasa-arrasa-mercadona-2731145.jpg' alt='El helado japonés bajo en grasa que arrasa en Mercadona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021'>Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-dell-xps-sofa-blanco-2730391.jpg' alt='Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/google-translate.jpg' alt='Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido' />
     </a>
 </div>
 
