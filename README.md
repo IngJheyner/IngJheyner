@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia-carga-bateria-silicio-permite-carga-coche-llegar-98-10-minutos-1077187'>La tecnología de carga de batería de silicio que permite la carga de un coche llegar a un 98 % en 10 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia-carga-bateria-silicio-permite-carga-coche-llegar-98-10-minutos-1077187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-recargando-2620369.jpg' alt='La tecnología de carga de batería de silicio que permite la carga de un coche llegar a un 98 % en 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-xiaomi-12s-marca-records-geekbench-deja-entrever-snapdragon-8-gen1-1077197'>El próximo Xiaomi 12S marca récords en Geekbench y deja entrever el Snapdragon 8+ Gen1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-xiaomi-12s-marca-records-geekbench-deja-entrever-snapdragon-8-gen1-1077197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El próximo Xiaomi 12S marca récords en Geekbench y deja entrever el Snapdragon 8+ Gen1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-rusos-aprovechan-nueva-vulnerabilidad-microsoft-atacar-ucrania-1077141'>Los hackers rusos aprovechan la nueva vulnerabilidad de Microsoft para atacar Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackers-rusos-aprovechan-nueva-vulnerabilidad-microsoft-atacar-ucrania-1077141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Los hackers rusos aprovechan la nueva vulnerabilidad de Microsoft para atacar Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuento-criada-continua-ya-tenemos-fecha-5-temporada-llegara-mismo-ano-1077159'>El cuento de la criada continúa y ya tenemos fecha para la 5 temporada: llegará este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cuento-criada-continua-ya-tenemos-fecha-5-temporada-llegara-mismo-ano-1077159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cuento-criada-2546085.jpg' alt='El cuento de la criada continúa y ya tenemos fecha para la 5 temporada: llegará este mismo año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-usuarios-windows-10-estan-cometiendo-error-fatal-cada-vez-usan-navegador-1077139'>Millones de usuarios de Windows 10 están cometiendo un error fatal cada vez que usan el navegador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/millones-usuarios-windows-10-estan-cometiendo-error-fatal-cada-vez-usan-navegador-1077139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Millones de usuarios de Windows 10 están cometiendo un error fatal cada vez que usan el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-cecotec-oferta-14-junio-2022-1076473'>Que la ola de calor no te estropee el entrenamiento: corre en casa con esta cinta de correr low cost</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cinta-correr-cecotec-oferta-14-junio-2022-1076473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cinta-correr-running-ejercicio-2446885.jpg' alt='Que la ola de calor no te estropee el entrenamiento: corre en casa con esta cinta de correr low cost' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-z-flip-3-vs-youtuber-competicion-plegados-pantalla-donde-maquina-gana-humano-1077079'>Galaxy Z Flip 3 vs YouTuber, competición de plegados de pantalla donde la máquina gana al humano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-z-flip-3-vs-youtuber-competicion-plegados-pantalla-donde-maquina-gana-humano-1077079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Galaxy Z Flip 3 vs YouTuber, competición de plegados de pantalla donde la máquina gana al humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surrealista-conversacion-nasa-voyager-1-misterio-dificil-solucion-1077103'>La surrealista conversación entre la NASA y la Voyager 1, un misterio de difícil solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surrealista-conversacion-nasa-voyager-1-misterio-dificil-solucion-1077103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/voyager-2_0.jpg' alt='La surrealista conversación entre la NASA y la Voyager 1, un misterio de difícil solución' />
     </a>
 </div>
 
