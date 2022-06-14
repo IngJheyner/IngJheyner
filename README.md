@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999'>P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/p50-coche-pequeno-mundo-puedes-montarlo-mismo-2730361.jpg' alt='P50 es el coche más pequeño del mundo, puedes montarlo tú mismo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791'>¿Es necesario dar la vuelta al colchón en verano?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/necesario-dar-vuelta-colchon-verano-2730163.jpg' alt='¿Es necesario dar la vuelta al colchón en verano?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755'>Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-129-2021-2375677.jpg' alt='Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745'>Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/planes-union-europea-van-alla-cargador-unico-tambien-quiere-carga-rapida-comun-1076745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/realme-9-4g-analisis-opinion-2699623.jpg' alt='Los planes de la Unión Europea van más allá de un cargador único, también quiere una carga rápida común' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-todos-problemas-reparto-paquetes-mediante-drones-amazon-fin-despegaria-mismo-ano-1076731'>Pese a todos los problemas el reparto de paquetes mediante drones de Amazon por fin despegaría este mismo año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pese-todos-problemas-reparto-paquetes-mediante-drones-amazon-fin-despegaria-mismo-ano-1076731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Pese a todos los problemas el reparto de paquetes mediante drones de Amazon por fin despegaría este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757'>Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-obsesion-bots-twitter-1076757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-obsesionado-bots-twitter-tan-importantes-son-2730065.jpg' alt='Por qué Elon Musk está obsesionado con los bots de Twitter, ¿tan importantes son?' />
     </a>
 </div>
 
