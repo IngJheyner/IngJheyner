@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-tinta-electronica-paper-laptop-puede-tener-sentido-piensa-1077055'>Un portátil con pantalla de tinta electrónica, Paper Laptop puede tener más sentido de lo que piensa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-tinta-electronica-paper-laptop-puede-tener-sentido-piensa-1077055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ordenador-tinta-electronica-2730503.jpg' alt='Un portátil con pantalla de tinta electrónica, Paper Laptop puede tener más sentido de lo que piensa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-reciclos-aplicacion-movil-nos-quiere-incentivar-premios-reciclar-1077083'>Así funciona RECICLOS, la aplicación móvil que nos quiere incentivar con premios al reciclar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-reciclos-aplicacion-movil-nos-quiere-incentivar-premios-reciclar-1077083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reciclos-2730509.jpg' alt='Así funciona RECICLOS, la aplicación móvil que nos quiere incentivar con premios al reciclar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037'>Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ben-nevis-google-maps-2410197.jpg' alt='Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027'>La probabilidad que tienes de que un robot te acabe quitando el trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='La probabilidad que tienes de que un robot te acabe quitando el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/autonomia-ilimitada-carretera-carga-inductiva-coche-puro-estilo-scalextric-pero-inalambrico-1077045'>Autonomía ilimitada en carretera con esta carga inductiva, coche al más puro estilo Scalextric pero inalámbrico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/autonomia-ilimitada-carretera-carga-inductiva-coche-puro-estilo-scalextric-pero-inalambrico-1077045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/coche-carga-inductiva-2730453.jpg' alt='Autonomía ilimitada en carretera con esta carga inductiva, coche al más puro estilo Scalextric pero inalámbrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691'>5 ventiladores USB de escritorio ideales si trabajas en casa</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escritorio-portatil-taza-ventilador-usb-escritorio-2730007.jpg' alt='5 ventiladores USB de escritorio ideales si trabajas en casa' />
     </a>
 </div>
 
