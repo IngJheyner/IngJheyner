@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399'>Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391'>Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385'>El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tocadiscos-vertical-otros-instrumentos-imposibles-yamaha-2731215.jpg' alt='El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275'>Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/localizador-gps-tarjeta-sim-solo-24-euros-1077275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/localizador-gps-tarjeta-sim-incluida-solo-cuesta-24-euros-2730961.jpg' alt='Este localizador GPS con tarjeta SIM incluida solo cuesta 24 euros' />
     </a>
 </div>
 
