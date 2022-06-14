@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691'>5 ventiladores USB de escritorio ideales si trabajas en casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escritorio-portatil-taza-ventilador-usb-escritorio-2730007.jpg' alt='5 ventiladores USB de escritorio ideales si trabajas en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2730363.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791'>¿Es necesario dar la vuelta al colchón en verano?</a></h4>
     <a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/necesario-dar-vuelta-colchon-verano-2730163.jpg' alt='¿Es necesario dar la vuelta al colchón en verano?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755'>Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-ipad-pro-procesador-m2-estaria-camino-1076755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ipad-pro-129-2021-2375677.jpg' alt='Los últimos rumores apuntan a que un iPad Pro con el procesador M2 estaría en camino' />
     </a>
 </div>
 
