@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/galaxy-z-flip-3-vs-youtuber-competicion-plegados-pantalla-donde-maquina-gana-humano-1077079'>Galaxy Z Flip 3 vs YouTuber, competición de plegados de pantalla donde la máquina gana al humano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/galaxy-z-flip-3-vs-youtuber-competicion-plegados-pantalla-donde-maquina-gana-humano-1077079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Galaxy Z Flip 3 vs YouTuber, competición de plegados de pantalla donde la máquina gana al humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/surrealista-conversacion-nasa-voyager-1-misterio-dificil-solucion-1077103'>La surrealista conversación entre la NASA y la Voyager 1, un misterio de difícil solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/surrealista-conversacion-nasa-voyager-1-misterio-dificil-solucion-1077103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/voyager-2_0.jpg' alt='La surrealista conversación entre la NASA y la Voyager 1, un misterio de difícil solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-luchar-ola-calor-no-tienes-aire-acondicionado-1077051'>Cómo luchar contra la ola de calor si no tienes aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-luchar-ola-calor-no-tienes-aire-acondicionado-1077051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/calor-1996695.jpg' alt='Cómo luchar contra la ola de calor si no tienes aire acondicionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-tinta-electronica-paper-laptop-puede-tener-sentido-piensa-1077055'>Un portátil con pantalla de tinta electrónica, Paper Laptop puede tener más sentido de lo que piensa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-pantalla-tinta-electronica-paper-laptop-puede-tener-sentido-piensa-1077055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ordenador-tinta-electronica-2730503.jpg' alt='Un portátil con pantalla de tinta electrónica, Paper Laptop puede tener más sentido de lo que piensa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-reciclos-aplicacion-movil-nos-quiere-incentivar-premios-reciclar-1077083'>Así funciona RECICLOS, la aplicación móvil que nos quiere incentivar con premios al reciclar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-reciclos-aplicacion-movil-nos-quiere-incentivar-premios-reciclar-1077083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reciclos-2730509.jpg' alt='Así funciona RECICLOS, la aplicación móvil que nos quiere incentivar con premios al reciclar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037'>Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ben-nevis-google-maps-2410197.jpg' alt='Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/medion-akoya-oferta-14-junio-2022-1076431'>Portátil barato con i5 y SSD: cuesta solo 399 euros y pesa 1,7 kg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/medion-akoya-oferta-14-junio-2022-1076431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/medion-akoya-e15303-2477427.jpg' alt='Portátil barato con i5 y SSD: cuesta solo 399 euros y pesa 1,7 kg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027'>La probabilidad que tienes de que un robot te acabe quitando el trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='La probabilidad que tienes de que un robot te acabe quitando el trabajo' />
     </a>
 </div>
 
