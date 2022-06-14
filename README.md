@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037'>Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-iphone-ya-integra-precios-peajes-gestionar-viaje-1077037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ben-nevis-google-maps-2410197.jpg' alt='Google Maps para Android y iPhone ya integra los precios de los peajes al gestionar tu viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/medion-akoya-oferta-14-junio-2022-1076431'>Portátil barato con i5 y SSD: cuesta solo 399 euros y pesa 1,7 kg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/medion-akoya-oferta-14-junio-2022-1076431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/medion-akoya-e15303-2477427.jpg' alt='Portátil barato con i5 y SSD: cuesta solo 399 euros y pesa 1,7 kg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027'>La probabilidad que tienes de que un robot te acabe quitando el trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/probabilidad-tienes-robot-te-acabe-quitando-trabajo-1077027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='La probabilidad que tienes de que un robot te acabe quitando el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/autonomia-ilimitada-carretera-carga-inductiva-coche-puro-estilo-scalextric-pero-inalambrico-1077045'>Autonomía ilimitada en carretera con esta carga inductiva, coche al más puro estilo Scalextric pero inalámbrico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/autonomia-ilimitada-carretera-carga-inductiva-coche-puro-estilo-scalextric-pero-inalambrico-1077045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/coche-carga-inductiva-2730453.jpg' alt='Autonomía ilimitada en carretera con esta carga inductiva, coche al más puro estilo Scalextric pero inalámbrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691'>5 ventiladores USB de escritorio ideales si trabajas en casa</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-usb-escritorio-trabajar-casa-1076691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escritorio-portatil-taza-ventilador-usb-escritorio-2730007.jpg' alt='5 ventiladores USB de escritorio ideales si trabajas en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2730363.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999'>P50 es el coche más pequeño del mundo, puedes montarlo tú mismo y cabe en el ascensor (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/p50-coche-mas-pequeno-mundo-1076999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/p50-coche-pequeno-mundo-puedes-montarlo-mismo-2730361.jpg' alt='P50 es el coche más pequeño del mundo, puedes montarlo tú mismo y cabe en el ascensor (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791'>¿Es necesario dar la vuelta al colchón en verano?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dar-vuelta-colchon-1076791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/necesario-dar-vuelta-colchon-verano-2730163.jpg' alt='¿Es necesario dar la vuelta al colchón en verano?' />
     </a>
 </div>
 
