@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405'>Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-temperatura-normal-cuerpo-375-grados-centigrados-fiebre-2731241.jpg' alt='Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399'>Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361'>Adobe estaría preparando una versión gratuita de uno de sus programas más usados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/como-descargar-photoshop-gratis-mejores-alternativas.jpg' alt='Adobe estaría preparando una versión gratuita de uno de sus programas más usados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385'>El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tocadiscos-vertical-yamaha-instrumentos-imposibles-1077385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tocadiscos-vertical-otros-instrumentos-imposibles-yamaha-2731215.jpg' alt='El tocadiscos vertical y otros instrumentos imposibles de Yamaha (vídeo)' />
     </a>
 </div>
 
