@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021'>Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/liquidacion-portatiles-dell-1077021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-dell-xps-sofa-blanco-2730391.jpg' alt='Liquidación en portátiles Dell, una de las marcas más queridas por sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465'>Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-traductor-google-sacarle-maximo-potencial-954465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/google-translate.jpg' alt='Cómo usar el traductor de Google en 2022 y trucos ocultos para sacarle el máximo partido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267'>No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/no-gustara-bolsillo-pero-deberias-hacerlo-cada-vez-vayas-gasolinera-1077267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/coche-gasolinera.jpg' alt='No le gustará a tu bolsillo, pero deberías hacerlo cada vez que vayas a la gasolinera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251'>La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-1077251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/caja-pc-vale-probablemente-ordenador-completo-gpus-incluida-2730967.jpg' alt='La caja de PC que vale probablemente más que tu ordenador completo (GPUs incluida)' />
     </a>
 </div>
 
