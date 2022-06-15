@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875'>Shibarium: ¿el último salvavidas para Shiba Inu?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shibarium: ¿el último salvavidas para Shiba Inu?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-office-1077681'>Mejores cursos de Office para manejarlo nivel dios que puedes hacer online en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-office-1077681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-microsoft-surface-manos-persona-2731929.jpg' alt='Mejores cursos de Office para manejarlo nivel dios que puedes hacer online en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903'>Huawei lanza su Watch Fit 2, con un gran estilo y mejores características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-2732023.jpg' alt='Huawei lanza su Watch Fit 2, con un gran estilo y mejores características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745'>Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-2731785.jpg' alt='Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825'>Cómo mantener los ceros de la izquierda de una cifra en Excel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mantener los ceros de la izquierda de una cifra en Excel' />
     </a>
 </div>
 
