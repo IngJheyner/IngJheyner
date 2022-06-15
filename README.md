@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987'>Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuando-bug-tienda-hace-casa-convierta-almacen-altavoces-sonos-encima-te-han-cobrado-todos-2732225.jpg' alt='Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-herramienta-correccion-videos-acabo-borrar-video-luego-subirlo-nuevo-1077975'>YouTube actualiza su herramienta de corrección de vídeos: se acabó el borrar un vídeo para luego subirlo de nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-herramienta-correccion-videos-acabo-borrar-video-luego-subirlo-nuevo-1077975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg' alt='YouTube actualiza su herramienta de corrección de vídeos: se acabó el borrar un vídeo para luego subirlo de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983'>El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611111.jpg' alt='El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967'>China asegura haber encontrado evidencias de una civilización extraterrestre</a></h4>
     <a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/radiotelescopio-fast-2732183.jpg' alt='China asegura haber encontrado evidencias de una civilización extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-bug-instagram-acabando-paciencia-miles-usuarios-1077935'>El nuevo bug de Instagram está acabando con la paciencia de miles de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-bug-instagram-acabando-paciencia-miles-usuarios-1077935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='El nuevo bug de Instagram está acabando con la paciencia de miles de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965'>¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primera-nina-astronauta-tiene-10-anos-iq-einstein-hawking-ha-terminado-2-carreras-universitarias-va-tercera-2732185.jpg' alt='¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera' />
     </a>
 </div>
 
