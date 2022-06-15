@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901'>Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seis-predicciones-tecnologicas-hizo-bill-gates-1999-678412.jpg' alt='Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/90-canales-gratuitos-rakuten-tv-en-plex-1077949'>Más de 90 canales gratuitos de Rakuten TV ya se pueden ver en Plex</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/90-canales-gratuitos-rakuten-tv-en-plex-1077949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/90-canales-rakuten-tv-ya-pueden-ver-flex-muchos-ellos-gratuitos-2732157.jpg' alt='Más de 90 canales gratuitos de Rakuten TV ya se pueden ver en Plex' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875'>Shibarium: ¿el último salvavidas para Shiba Inu?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shibarium: ¿el último salvavidas para Shiba Inu?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903'>Huawei lanza su Watch Fit 2, con un gran estilo y mejores características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-2732023.jpg' alt='Huawei lanza su Watch Fit 2, con un gran estilo y mejores características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hdd-estan-muriendo-no-cosa-thanos-1077857'>Los HDD están muriendo y no es cosa de Thanos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hdd-estan-muriendo-no-cosa-thanos-1077857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/disco-duro-hdd-1919163.jpg' alt='Los HDD están muriendo y no es cosa de Thanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745'>Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-2731785.jpg' alt='Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android' />
     </a>
 </div>
 
