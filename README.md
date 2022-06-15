@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699'>Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/spiderman-homecoming.jpg' alt='Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-7-adelanta-xiaomi-mi-band-7-1076527'>Huawei dispara primero: la Band 7 ya está a la venta y se adelanta a la Xiaomi Mi Band 7</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-7-adelanta-xiaomi-mi-band-7-1076527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2729609.jpg' alt='Huawei dispara primero: la Band 7 ya está a la venta y se adelanta a la Xiaomi Mi Band 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurre-sigues-utilizando-internet-explorer-partir-hoy-1077727'>¿Qué ocurre si sigues utilizando Internet Explorer a partir de hoy?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocurre-sigues-utilizando-internet-explorer-partir-hoy-1077727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='¿Qué ocurre si sigues utilizando Internet Explorer a partir de hoy?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703'>La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adelgazar-perder-peso-2289139.jpg' alt='La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/streamers-twitch-van-recibir-partir-ahora-bastante-dinero-cada-anuncio-muestre-directos-1077715'>Los streamers de Twitch van a recibir a partir de ahora bastante más dinero por cada anuncio que se muestre en sus directos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/streamers-twitch-van-recibir-partir-ahora-bastante-dinero-cada-anuncio-muestre-directos-1077715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ibai-llanos-compra-derechos-copa-america-futbol-retransmite-gratis-canal-twitch-2378535.jpg' alt='Los streamers de Twitch van a recibir a partir de ahora bastante más dinero por cada anuncio que se muestre en sus directos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/firefox-autoproclama-navegador-web-seguro-veamos-1077677'>Firefox se autoproclama el navegador web más seguro, veamos por qué</a></h4>
-    <a href='https://computerhoy.com/noticias/firefox-autoproclama-navegador-web-seguro-veamos-1077677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/firefox-ordenador.jpg' alt='Firefox se autoproclama el navegador web más seguro, veamos por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dell-inspiron-15-3000-oferta-15-junio-2022-1076513'>Si usas Linux, Dell tiene una oferta para ti: su Inspiron 15 está más barato que nunca en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dell-inspiron-15-3000-oferta-15-junio-2022-1076513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-inspiron-15-2729577.jpg' alt='Si usas Linux, Dell tiene una oferta para ti: su Inspiron 15 está más barato que nunca en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-caracteristicas-amazon-echo-deberias-activar-sacarle-mayor-partido-1077657'>Las 5 características de Amazon Echo que deberías activar y sacarle mayor partido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-caracteristicas-amazon-echo-deberias-activar-sacarle-mayor-partido-1077657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Las 5 características de Amazon Echo que deberías activar y sacarle mayor partido' />
     </a>
 </div>
 
