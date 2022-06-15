@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2731461.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/patinetes-electricos-cecotec-1077369'>Patinetes eléctricos de Cecotec: qué modelos venden, cuánto cuestan y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/patinetes-electricos-cecotec-1077369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cecotec-bongo-serie-2731203.jpg' alt='Patinetes eléctricos de Cecotec: qué modelos venden, cuánto cuestan y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405'>Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-temperatura-normal-cuerpo-375-grados-centigrados-fiebre-2731241.jpg' alt='Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391'>Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unicode-planta-cara-usuarios-no-incluira-elementos-categoria-emojis-muy-popular-1077363'>Unicode planta cara a los usuarios y no incluirá más elementos a una categoría de emojis muy popular</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/unicode-planta-cara-usuarios-no-incluira-elementos-categoria-emojis-muy-popular-1077363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/emojis-2227247.jpg' alt='Unicode planta cara a los usuarios y no incluirá más elementos a una categoría de emojis muy popular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361'>Adobe estaría preparando una versión gratuita de uno de sus programas más usados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adobe-estaria-preparando-version-gratuita-programas-usados-1077361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/como-descargar-photoshop-gratis-mejores-alternativas.jpg' alt='Adobe estaría preparando una versión gratuita de uno de sus programas más usados' />
     </a>
 </div>
 
