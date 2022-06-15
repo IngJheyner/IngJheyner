@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367'>Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/decathlon-elops-900-2731179.jpg' alt='Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2731461.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399'>Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391'>Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-ayudara-evitar-consumo-obsesivo-ciertos-contenidos-forma-poco-invasiva-1077391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Instagram ayudará a evitar el consumo obsesivo de ciertos contenidos de una forma poco invasiva' />
     </a>
 </div>
 
