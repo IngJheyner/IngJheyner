@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969'>La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mayores-bulos-whatsapp-jamas-habras-escuchado_0.jpg' alt='La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967'>China asegura haber encontrado evidencias de una civilización extraterrestre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/radiotelescopio-fast-2732183.jpg' alt='China asegura haber encontrado evidencias de una civilización extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-bug-instagram-acabando-paciencia-miles-usuarios-1077935'>El nuevo bug de Instagram está acabando con la paciencia de miles de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-bug-instagram-acabando-paciencia-miles-usuarios-1077935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='El nuevo bug de Instagram está acabando con la paciencia de miles de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965'>¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primera-nina-astronauta-tiene-10-anos-iq-einstein-hawking-ha-terminado-2-carreras-universitarias-va-tercera-2732185.jpg' alt='¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901'>Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seis-predicciones-tecnologicas-hizo-bill-gates-1999-678412.jpg' alt='Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/90-canales-gratuitos-rakuten-tv-en-plex-1077949'>Más de 90 canales gratuitos de Rakuten TV ya se pueden ver en Plex</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/90-canales-gratuitos-rakuten-tv-en-plex-1077949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/90-canales-rakuten-tv-ya-pueden-ver-flex-muchos-ellos-gratuitos-2732157.jpg' alt='Más de 90 canales gratuitos de Rakuten TV ya se pueden ver en Plex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875'>Shibarium: ¿el último salvavidas para Shiba Inu?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shibarium-ultimo-salvavidas-shiba-inu-1077875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/shiba-inu-suma-metaverso-pondra-venta-100000-terrenos-2662803.jpg' alt='Shibarium: ¿el último salvavidas para Shiba Inu?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-office-1077681'>Mejores cursos de Office para manejarlo nivel dios que puedes hacer online en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-office-1077681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-microsoft-surface-manos-persona-2731929.jpg' alt='Mejores cursos de Office para manejarlo nivel dios que puedes hacer online en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903'>Huawei lanza su Watch Fit 2, con un gran estilo y mejores características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-1077903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-lanza-watch-fit-2-gran-estilo-mejores-caracteristicas-2732023.jpg' alt='Huawei lanza su Watch Fit 2, con un gran estilo y mejores características' />
     </a>
 </div>
 
