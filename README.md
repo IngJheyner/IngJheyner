@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/firefox-autoproclama-navegador-web-seguro-veamos-1077677'>Firefox se autoproclama el navegador web más seguro, veamos por qué</a></h4>
+    <a href='https://computerhoy.com/noticias/firefox-autoproclama-navegador-web-seguro-veamos-1077677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/firefox-ordenador.jpg' alt='Firefox se autoproclama el navegador web más seguro, veamos por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dell-inspiron-15-3000-oferta-15-junio-2022-1076513'>Si usas Linux, Dell tiene una oferta para ti: su Inspiron 15 está más barato que nunca en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dell-inspiron-15-3000-oferta-15-junio-2022-1076513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dell-inspiron-15-2729577.jpg' alt='Si usas Linux, Dell tiene una oferta para ti: su Inspiron 15 está más barato que nunca en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-caracteristicas-amazon-echo-deberias-activar-sacarle-mayor-partido-1077657'>Las 5 características de Amazon Echo que deberías activar y sacarle mayor partido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-caracteristicas-amazon-echo-deberias-activar-sacarle-mayor-partido-1077657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Las 5 características de Amazon Echo que deberías activar y sacarle mayor partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x80-pro-llega-espana-apostando-potencia-fotografia-mano-zeiss-1077669'>El vivo X80 Pro llega a España apostando por potencia y fotografía de la mano de ZEISS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-x80-pro-llega-espana-apostando-potencia-fotografia-mano-zeiss-1077669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vivo-x80-pro-2731521.jpg' alt='El vivo X80 Pro llega a España apostando por potencia y fotografía de la mano de ZEISS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estados-unidos-pone-jaque-turquia-pildora-tratar-alopecia-1077649'>Estados Unidos pone en jaque a Turquía con una píldora para tratar la alopecia</a></h4>
     <a href='https://computerhoy.com/noticias/life/estados-unidos-pone-jaque-turquia-pildora-tratar-alopecia-1077649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/dwayne-johnson-rock.jpg' alt='Estados Unidos pone en jaque a Turquía con una píldora para tratar la alopecia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735'>Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-mateview-gt-27-2576765.jpg' alt='Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-rumores-acerca-xiaomi-12-ultra-apuntan-movil-ano-3-sensores-casi-50-mpx-snapdragon-8-gen-1-1077655'>Los nuevos rumores acerca del Xiaomi 12 Ultra apuntan a móvil del año: 3 sensores de casi 50 Mpx y Snapdragon 8+ Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-rumores-acerca-xiaomi-12-ultra-apuntan-movil-ano-3-sensores-casi-50-mpx-snapdragon-8-gen-1-1077655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649385.jpg' alt='Los nuevos rumores acerca del Xiaomi 12 Ultra apuntan a móvil del año: 3 sensores de casi 50 Mpx y Snapdragon 8+ Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719'>Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei' />
     </a>
 </div>
 
