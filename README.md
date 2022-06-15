@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983'>El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611111.jpg' alt='El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969'>La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mayores-bulos-whatsapp-jamas-habras-escuchado_0.jpg' alt='La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965'>¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera</a></h4>
     <a href='https://computerhoy.com/noticias/life/adhara-perez-10-anos-iq-einstein-hawking-2-carreras-universitarias-1077965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primera-nina-astronauta-tiene-10-anos-iq-einstein-hawking-ha-terminado-2-carreras-universitarias-va-tercera-2732185.jpg' alt='¿La primera niña astronauta? Tiene 10 años, más IQ que Einstein y Hawking, ha terminado 2 carreras universitarias y va a por la tercera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901'>Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-rotundo-nft-solo-funcionan-encuentras-alguien-tonto-1077901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seis-predicciones-tecnologicas-hizo-bill-gates-1999-678412.jpg' alt='Bill Gates rotundo con los NFT: “solo funcionan si encuentras alguien más tonto que tú”' />
     </a>
 </div>
 
