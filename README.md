@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-espana-nuevo-servicio-premium-suscripcion-demanda-amc-1077819'>Llega a España un nuevo servicio premium de suscripción bajo demanda, así es AMC+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/llega-espana-nuevo-servicio-premium-suscripcion-demanda-amc-1077819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amc-empieza-bueno-2731827.jpg' alt='Llega a España un nuevo servicio premium de suscripción bajo demanda, así es AMC+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pagar-compras-reloj-no-inteligente-necesidad-tener-smartphone-funciona-swatchpay-1077805'>Pagar tus compras con un reloj que no es inteligente y sin necesidad de tener un smartphone: así funciona SwatchPAY!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pagar-compras-reloj-no-inteligente-necesidad-tener-smartphone-funciona-swatchpay-1077805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/swatch-pay-2731799.jpg' alt='Pagar tus compras con un reloj que no es inteligente y sin necesidad de tener un smartphone: así funciona SwatchPAY!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wd-blue-sn570-oferta-15-junio-2022-1077047'>Este SSD pone tu ordenador a 3500 MB por segundo y su precio es ahora más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wd-blue-sn570-oferta-15-junio-2022-1077047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wd-blue-sn570-2730455.jpg' alt='Este SSD pone tu ordenador a 3500 MB por segundo y su precio es ahora más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751'>Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699'>Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/spiderman-homecoming.jpg' alt='Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-band-7-adelanta-xiaomi-mi-band-7-1076527'>Huawei dispara primero: la Band 7 ya está a la venta y se adelanta a la Xiaomi Mi Band 7</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-band-7-adelanta-xiaomi-mi-band-7-1076527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2729609.jpg' alt='Huawei dispara primero: la Band 7 ya está a la venta y se adelanta a la Xiaomi Mi Band 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocurre-sigues-utilizando-internet-explorer-partir-hoy-1077727'>¿Qué ocurre si sigues utilizando Internet Explorer a partir de hoy?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocurre-sigues-utilizando-internet-explorer-partir-hoy-1077727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg' alt='¿Qué ocurre si sigues utilizando Internet Explorer a partir de hoy?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703'>La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adelgazar-perder-peso-2289139.jpg' alt='La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente' />
     </a>
 </div>
 
