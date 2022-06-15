@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x80-pro-llega-espana-apostando-potencia-fotografia-mano-zeiss-1077669'>El vivo X80 Pro llega a España apostando por potencia y fotografía de la mano de ZEISS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x80-pro-llega-espana-apostando-potencia-fotografia-mano-zeiss-1077669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vivo-x80-pro-2731521.jpg' alt='El vivo X80 Pro llega a España apostando por potencia y fotografía de la mano de ZEISS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estados-unidos-pone-jaque-turquia-pildora-tratar-alopecia-1077649'>Estados Unidos pone en jaque a Turquía con una píldora para tratar la alopecia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estados-unidos-pone-jaque-turquia-pildora-tratar-alopecia-1077649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/dwayne-johnson-rock.jpg' alt='Estados Unidos pone en jaque a Turquía con una píldora para tratar la alopecia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735'>Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-mateview-gt-27-2576765.jpg' alt='Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719'>Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367'>Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/decathlon-elops-900-2731179.jpg' alt='Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2731461.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
