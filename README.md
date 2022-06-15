@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745'>Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-1077745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hay-vida-alla-gboard-7-teclados-tienes-instalar-telefono-android-2731785.jpg' alt='Hay vida más allá de Gboard: 7 teclados que tienes que instalar en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M</a></h4>
+    <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shein-2700201.jpg' alt='Qué es Shein y cómo funciona la tienda china de la ropa barata online que amenaza a Zara, Primark o H&M' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825'>Cómo mantener los ceros de la izquierda de una cifra en Excel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mantener los ceros de la izquierda de una cifra en Excel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pagar-compras-reloj-no-inteligente-necesidad-tener-smartphone-funciona-swatchpay-1077805'>Pagar tus compras con un reloj que no es inteligente y sin necesidad de tener un smartphone: así funciona SwatchPAY!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pagar-compras-reloj-no-inteligente-necesidad-tener-smartphone-funciona-swatchpay-1077805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/swatch-pay-2731799.jpg' alt='Pagar tus compras con un reloj que no es inteligente y sin necesidad de tener un smartphone: así funciona SwatchPAY!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wd-blue-sn570-oferta-15-junio-2022-1077047'>Este SSD pone tu ordenador a 3500 MB por segundo y su precio es ahora más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wd-blue-sn570-oferta-15-junio-2022-1077047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/wd-blue-sn570-2730455.jpg' alt='Este SSD pone tu ordenador a 3500 MB por segundo y su precio es ahora más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751'>Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor' />
     </a>
 </div>
 
