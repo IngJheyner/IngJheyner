@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751'>Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699'>Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/spiderman-homecoming.jpg' alt='Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703'>La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-aclara-dudas-saxenda-medicamento-moda-adelgazar-rapidamente-1077703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/adelgazar-perder-peso-2289139.jpg' alt='La OCU aclara las dudas sobre la Saxenda, el medicamento de moda para adelgazar rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/streamers-twitch-van-recibir-partir-ahora-bastante-dinero-cada-anuncio-muestre-directos-1077715'>Los streamers de Twitch van a recibir a partir de ahora bastante más dinero por cada anuncio que se muestre en sus directos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/streamers-twitch-van-recibir-partir-ahora-bastante-dinero-cada-anuncio-muestre-directos-1077715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ibai-llanos-compra-derechos-copa-america-futbol-retransmite-gratis-canal-twitch-2378535.jpg' alt='Los streamers de Twitch van a recibir a partir de ahora bastante más dinero por cada anuncio que se muestre en sus directos' />
     </a>
 </div>
 
