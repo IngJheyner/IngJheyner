@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825'>Cómo mantener los ceros de la izquierda de una cifra en Excel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-mantener-ceros-izquierda-cifra-excel-1077825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mantener los ceros de la izquierda de una cifra en Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/llega-espana-nuevo-servicio-premium-suscripcion-demanda-amc-1077819'>Llega a España un nuevo servicio premium de suscripción bajo demanda, así es AMC+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/llega-espana-nuevo-servicio-premium-suscripcion-demanda-amc-1077819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amc-empieza-bueno-2731827.jpg' alt='Llega a España un nuevo servicio premium de suscripción bajo demanda, así es AMC+' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751'>Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ahorrar-aire-acondicionado-dejar-utilizarlo-ni-pasar-calor-1077751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='Cómo ahorrar en aire acondicionado sin dejar de utilizarlo ni pasar calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699'>Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-podria-llegar-disney-fin-reunirian-todos-superheroes-marvel-1077699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/spiderman-homecoming.jpg' alt='Spider-Man podría llegar a Disney+ y por fin se reunirían todos los superhéroes Marvel' />
     </a>
 </div>
 
