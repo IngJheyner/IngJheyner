@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735'>Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-gt-27-oferta-dia-sin-iva-1076735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-mateview-gt-27-2576765.jpg' alt='Curvo, de 27" y 165 Hz: el monitor curvo de Huawei para jugar o trabajar tiene una gran oferta en el Día sin IVA de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-rumores-acerca-xiaomi-12-ultra-apuntan-movil-ano-3-sensores-casi-50-mpx-snapdragon-8-gen-1-1077655'>Los nuevos rumores acerca del Xiaomi 12 Ultra apuntan a móvil del año: 3 sensores de casi 50 Mpx y Snapdragon 8+ Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-rumores-acerca-xiaomi-12-ultra-apuntan-movil-ano-3-sensores-casi-50-mpx-snapdragon-8-gen-1-1077655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649385.jpg' alt='Los nuevos rumores acerca del Xiaomi 12 Ultra apuntan a móvil del año: 3 sensores de casi 50 Mpx y Snapdragon 8+ Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719'>Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-p50-pro-p50-pocket-oferta-dia-sin-iva-1076719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Topes de gama al mejor precio: Huawei P50 Pro y el plegable P50 Pocket tienen grandes descuentos en el Día sin IVA de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367'>Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-decathlon-1077367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/decathlon-elops-900-2731179.jpg' alt='Bicicletas eléctricas de Decathlon: qué modelos venden y cuáles son los mejores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1077617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2731461.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/patinetes-electricos-cecotec-1077369'>Patinetes eléctricos de Cecotec: qué modelos venden, cuánto cuestan y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/patinetes-electricos-cecotec-1077369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cecotec-bongo-serie-2731203.jpg' alt='Patinetes eléctricos de Cecotec: qué modelos venden, cuánto cuestan y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405'>Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-es-temperatura-normal-cuerpo-37-5-grados-centigrados-fiebre-1077405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-temperatura-normal-cuerpo-375-grados-centigrados-fiebre-2731241.jpg' alt='Cuál es la temperatura normal del cuerpo, ¿37,5 grados centígrados es fiebre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399'>Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-windows-11-actualiza-bios-stuttering-ftpm-1077399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Si tienes un procesador AMD Ryzen con Windows 11, actualiza ya la BIOS de tu PC para corregir un grave problema de caída de frames' />
     </a>
 </div>
 
