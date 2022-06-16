@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585'>La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bronceado-piel-2733287.jpg' alt='La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521'>El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-purificador-aspas-dyson-silencioso-facil-limpiar-baja-solo-349-euros-cupon-2733107.jpg' alt='El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/motorista-tapa-matricula-mano-radar-cazado-1078581'>Así cazó la policía al motorista que tapaba la matrícula con la mano cuando pasaba por el radar</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/motorista-tapa-matricula-mano-radar-cazado-1078581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cazo-policia-motorista-tapaba-matricula-mano-cuando-pasaba-radar-2733271.jpg' alt='Así cazó la policía al motorista que tapaba la matrícula con la mano cuando pasaba por el radar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579'>Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569'>Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2731737.jpg' alt='Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704079.jpg' alt='Estas son las mejores consolas portátiles que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499'>Cómo editar archivos Word desde Google Docs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo editar archivos Word desde Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-band-6-podria-ver-luz-dos-anos-como-alternativa-xiaomi-mi-band-7-1078489'>Amazfit Band 6 podría ver la luz tras dos años como alternativa a Xiaomi Mi Band 7</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-band-6-podria-ver-luz-dos-anos-como-alternativa-xiaomi-mi-band-7-1078489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-band-5-2071515.jpg' alt='Amazfit Band 6 podría ver la luz tras dos años como alternativa a Xiaomi Mi Band 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451'>Cuál es la persona más vieja del mundo... ¿y en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/abuela-anima-crossing-1909863.jpg' alt='Cuál es la persona más vieja del mundo... ¿y en España?' />
     </a>
 </div>
 
