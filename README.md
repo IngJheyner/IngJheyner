@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215'>5 grupos de personas que nunca deberían tomar cerveza, según los médicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/6-tipos-persona-nunca-deberian-tomar-cerveza-medicos-2732483.jpg' alt='5 grupos de personas que nunca deberían tomar cerveza, según los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995'>La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huella-grande-mundo-quiere-transmitir-importante-mensaje-video-2732231.jpg' alt='La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huella-grande-mundo-quiere-transmitir-importante-mensaje-video-2732491.jpg' alt='La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983'>El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611111.jpg' alt='El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969'>La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mayores-bulos-whatsapp-jamas-habras-escuchado_0.jpg' alt='La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp' />
     </a>
 </div>
 
