@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333'>Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avion-hidrogeno-2732689.jpg' alt='Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-1078289'>Cuidado con los insultos en redes sociales ya que algunos países los están castigando con penas de cárcel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-1078289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-2732621.jpg' alt='Cuidado con los insultos en redes sociales ya que algunos países los están castigando con penas de cárcel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285'>Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257'>Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-muestra-inquietantes-imagenes-propio-impacto-negativo-marte-1078265'>Rover de la NASA muestra inquietantes imágenes de su propio impacto negativo sobre Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-muestra-inquietantes-imagenes-propio-impacto-negativo-marte-1078265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/curiosity-rover-marte-nasa-2300987.jpg' alt='Rover de la NASA muestra inquietantes imágenes de su propio impacto negativo sobre Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263'>¿Deberías dejar el ordenador portátil enchufado todo el tiempo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-intel-evo-siendo-recargado-2731735.jpg' alt='¿Deberías dejar el ordenador portátil enchufado todo el tiempo?' />
     </a>
 </div>
 
