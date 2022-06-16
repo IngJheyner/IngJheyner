@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2732493.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215'>5 grupos de personas que nunca deberían tomar cerveza, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/6-tipos-persona-nunca-deberian-tomar-cerveza-medicos-2732483.jpg' alt='5 grupos de personas que nunca deberían tomar cerveza, según los médicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987'>Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos</a></h4>
     <a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuando-bug-tienda-hace-casa-convierta-almacen-altavoces-sonos-encima-te-han-cobrado-todos-2732225.jpg' alt='Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-herramienta-correccion-videos-acabo-borrar-video-luego-subirlo-nuevo-1077975'>YouTube actualiza su herramienta de corrección de vídeos: se acabó el borrar un vídeo para luego subirlo de nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-actualiza-herramienta-correccion-videos-acabo-borrar-video-luego-subirlo-nuevo-1077975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg' alt='YouTube actualiza su herramienta de corrección de vídeos: se acabó el borrar un vídeo para luego subirlo de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983'>El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-barato-menos-700-euros-1077983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-opinion-galaxy-s22-2611111.jpg' alt='El Samsung Galaxy S22 más barato que nunca: por menos de 700 euros' />
     </a>
 </div>
 
