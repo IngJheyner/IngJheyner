@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704079.jpg' alt='Estas son las mejores consolas portátiles que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499'>Cómo editar archivos Word desde Google Docs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo editar archivos Word desde Google Docs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069'>Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/milanuncios.jpg' alt='Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421'>El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-coloca-unas-placas-solares-2654807.jpg' alt='El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso' />
     </a>
 </div>
 
