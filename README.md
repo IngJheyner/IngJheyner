@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451'>Cuál es la persona más vieja del mundo... ¿y en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/abuela-anima-crossing-1909863.jpg' alt='Cuál es la persona más vieja del mundo... ¿y en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069'>Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/milanuncios.jpg' alt='Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421'>El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-coloca-unas-placas-solares-2654807.jpg' alt='El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-revela-diseno-trasero-phone-1-anuncia-subasta-100-unidades-exclusivas-1078461'>Nothing revela el diseño trasero de su phone (1) y anuncia una subasta de 100 unidades exclusivas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-revela-diseno-trasero-phone-1-anuncia-subasta-100-unidades-exclusivas-1078461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-2733003.jpg' alt='Nothing revela el diseño trasero de su phone (1) y anuncia una subasta de 100 unidades exclusivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-estudio-revela-peste-negra-acabo-30-poblacion-europea-1078423'>Un nuevo estudio revela por qué la peste negra acabó con más del 30% de la población europea</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-estudio-revela-peste-negra-acabo-30-poblacion-europea-1078423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-estudio-revela-peste-negra-acabo-30-poblacion-europea-2732947.jpg' alt='Un nuevo estudio revela por qué la peste negra acabó con más del 30% de la población europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093'>Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-m52-2730533.jpg' alt='Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6' />
     </a>
 </div>
 
