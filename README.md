@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593'>Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg' alt='Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585'>La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bronceado-piel-2733287.jpg' alt='La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579'>Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569'>Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2731737.jpg' alt='Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia' />
     </a>
 </div>
 
