@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285'>Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249'>Los 10 coches europeos que fracasaron estrepitosamente</a></h4>
     <a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiene-sentido-fiat-multipla-2020-1916617.jpg' alt='Los 10 coches europeos que fracasaron estrepitosamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263'>¿Deberías dejar el ordenador portátil enchufado todo el tiempo?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-intel-evo-siendo-recargado-2731735.jpg' alt='¿Deberías dejar el ordenador portátil enchufado todo el tiempo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adelantate-proximo-curso-llevate-ultraligero-matebook-x-pro-core-i7-16gb-ram-mejor-descuento-ano-1078239'>Adelántate al próximo curso y llévate el ultraligero Matebook X Pro con Core i7 y 16GB de RAM con su mejor descuento este año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adelantate-proximo-curso-llevate-ultraligero-matebook-x-pro-core-i7-16gb-ram-mejor-descuento-ano-1078239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-matebook-pro-x-2022-2712745.jpg' alt='Adelántate al próximo curso y llévate el ultraligero Matebook X Pro con Core i7 y 16GB de RAM con su mejor descuento este año' />
     </a>
 </div>
 
