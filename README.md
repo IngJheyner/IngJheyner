@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929'>25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg' alt='25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215'>5 grupos de personas que nunca deberían tomar cerveza, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/6-tipos-persona-nunca-deberian-tomar-cerveza-medicos-2732483.jpg' alt='5 grupos de personas que nunca deberían tomar cerveza, según los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995'>La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huella-grande-mundo-quiere-transmitir-importante-mensaje-video-2732491.jpg' alt='La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)' />
     </a>
 </div>
 
