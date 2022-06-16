@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499'>Cómo editar archivos Word desde Google Docs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-editar-archivos-word-google-docs-1078499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo editar archivos Word desde Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-band-6-podria-ver-luz-dos-anos-como-alternativa-xiaomi-mi-band-7-1078489'>Amazfit Band 6 podría ver la luz tras dos años como alternativa a Xiaomi Mi Band 7</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-band-6-podria-ver-luz-dos-anos-como-alternativa-xiaomi-mi-band-7-1078489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-band-5-2071515.jpg' alt='Amazfit Band 6 podría ver la luz tras dos años como alternativa a Xiaomi Mi Band 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451'>Cuál es la persona más vieja del mundo... ¿y en España?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/abuela-anima-crossing-1909863.jpg' alt='Cuál es la persona más vieja del mundo... ¿y en España?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421'>El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-coloca-unas-placas-solares-2654807.jpg' alt='El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-palabra-larga-mundo-1078417'>Cuál es la palabra mas larga del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-palabra-larga-mundo-1078417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/palabras-2642353.jpg' alt='Cuál es la palabra mas larga del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-revela-diseno-trasero-phone-1-anuncia-subasta-100-unidades-exclusivas-1078461'>Nothing revela el diseño trasero de su phone (1) y anuncia una subasta de 100 unidades exclusivas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-revela-diseno-trasero-phone-1-anuncia-subasta-100-unidades-exclusivas-1078461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-2733003.jpg' alt='Nothing revela el diseño trasero de su phone (1) y anuncia una subasta de 100 unidades exclusivas' />
     </a>
 </div>
 
