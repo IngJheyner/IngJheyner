@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929'>25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg' alt='25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2732493.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995'>La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huella-grande-mundo-quiere-transmitir-importante-mensaje-video-2732491.jpg' alt='La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987'>Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuando-bug-tienda-hace-casa-convierta-almacen-altavoces-sonos-encima-te-han-cobrado-todos-2732225.jpg' alt='Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos' />
     </a>
 </div>
 
