@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995'>La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/huella-mas-grande-mundo-video-1077995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huella-grande-mundo-quiere-transmitir-importante-mensaje-video-2732231.jpg' alt='La huella más grande del mundo quiere transmitir un importante mensaje (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987'>Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos</a></h4>
     <a href='https://computerhoy.com/noticias/life/bug-tienda-sonos-pedidos-repetidos-1077987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuando-bug-tienda-hace-casa-convierta-almacen-altavoces-sonos-encima-te-han-cobrado-todos-2732225.jpg' alt='Cuando un bug de una tienda hace que tu casa se convierta en un almacén de altavoces Sonos... y encima te han cobrado todos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969'>La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-hace-curioso-llamamiento-debes-actuar-recibes-mensaje-whatsapp-1077969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/mayores-bulos-whatsapp-jamas-habras-escuchado_0.jpg' alt='La Policía hace un curioso llamamiento: así debes actuar si recibes este mensaje de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967'>China asegura haber encontrado evidencias de una civilización extraterrestre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/china-asegura-haber-encontrado-evidencias-civilizacion-extraterrestre-1077967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/radiotelescopio-fast-2732183.jpg' alt='China asegura haber encontrado evidencias de una civilización extraterrestre' />
     </a>
 </div>
 
