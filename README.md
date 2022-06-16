@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/acer-aspire-vero-portatil-sostenible-te-permite-apadrinar-arbol-bosque-acer-1076625'>Acer Aspire Vero: un portátil sostenible que te permite apadrinar un árbol del Bosque Acer</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/acer-aspire-vero-portatil-sostenible-te-permite-apadrinar-arbol-bosque-acer-1076625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/acer-aspire-vero-2729819.jpg' alt='Acer Aspire Vero: un portátil sostenible que te permite apadrinar un árbol del Bosque Acer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-temporada-4-stranger-things-podria-convertirse-grave-problema-netflix-1078321'>El final de la temporada 4 de Stranger Things podría convertirse en un grave problema para Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/final-temporada-4-stranger-things-podria-convertirse-grave-problema-netflix-1078321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stranger-things-2591481.jpg' alt='El final de la temporada 4 de Stranger Things podría convertirse en un grave problema para Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-aceptar-declinar-quien-entra-grupos-1078355'>WhatsApp permitirá a los administradores aceptar o declinar quién entra en los grupos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-aceptar-declinar-quien-entra-grupos-1078355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-aprobacion-2732739.jpg' alt='WhatsApp permitirá a los administradores aceptar o declinar quién entra en los grupos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-xiaomi-mi-smart-standing-fan-2-oferta-16-junio-2022-1077665'>El ventilador Xiaomi con Alexa, rebajado a precio mínimo en plena ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-xiaomi-mi-smart-standing-fan-2-oferta-16-junio-2022-1077665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El ventilador Xiaomi con Alexa, rebajado a precio mínimo en plena ola de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333'>Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avion-hidrogeno-2732689.jpg' alt='Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-1078289'>Cuidado con los insultos en redes sociales ya que algunos países los están castigando con penas de cárcel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-1078289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuidado-insultos-redes-sociales-ya-algunos-paises-estan-castigando-penas-carcel-2732621.jpg' alt='Cuidado con los insultos en redes sociales ya que algunos países los están castigando con penas de cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285'>Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-marca-coches-accidentes-tiene-culpa-asistencia-conductor-1078285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg' alt='Tesla es la marca de coches que más accidentes tiene por culpa de la asistencia al conductor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249'>Los 10 coches europeos que fracasaron estrepitosamente</a></h4>
-    <a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiene-sentido-fiat-multipla-2020-1916617.jpg' alt='Los 10 coches europeos que fracasaron estrepitosamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257'>Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda' />
     </a>
 </div>
 
