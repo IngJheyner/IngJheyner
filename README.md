@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/acer-aspire-vero-portatil-sostenible-te-permite-apadrinar-arbol-bosque-acer-1076625'>Acer Aspire Vero: un portátil sostenible que te permite apadrinar un árbol del Bosque Acer</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/acer-aspire-vero-portatil-sostenible-te-permite-apadrinar-arbol-bosque-acer-1076625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/acer-aspire-vero-2729819.jpg' alt='Acer Aspire Vero: un portátil sostenible que te permite apadrinar un árbol del Bosque Acer' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093'>Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-m52-2730533.jpg' alt='Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-temporada-4-stranger-things-podria-convertirse-grave-problema-netflix-1078321'>El final de la temporada 4 de Stranger Things podría convertirse en un grave problema para Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/final-temporada-4-stranger-things-podria-convertirse-grave-problema-netflix-1078321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/stranger-things-2591481.jpg' alt='El final de la temporada 4 de Stranger Things podría convertirse en un grave problema para Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/motor/prohibiciones-inminentes-unas-150-ciudades-pegatina-dgt-cual-1078383'>Prohibiciones inminentes en unas 150 ciudades según tu pegatina de la DGT: ¿cuál es la tuya?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/prohibiciones-inminentes-unas-150-ciudades-pegatina-dgt-cual-1078383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Prohibiciones inminentes en unas 150 ciudades según tu pegatina de la DGT: ¿cuál es la tuya?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-aceptar-declinar-quien-entra-grupos-1078355'>WhatsApp permitirá a los administradores aceptar o declinar quién entra en los grupos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-administradores-aceptar-declinar-quien-entra-grupos-1078355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-aprobacion-2732739.jpg' alt='WhatsApp permitirá a los administradores aceptar o declinar quién entra en los grupos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-ultrarrapidos-no-son-necesita-ordenador-1078395'>Por qué los SSD ultrarrápidos no son lo que necesita tu ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-ultrarrapidos-no-son-necesita-ordenador-1078395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/ssd-samsung-2568963.jpg' alt='Por qué los SSD ultrarrápidos no son lo que necesita tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-xiaomi-mi-smart-standing-fan-2-oferta-16-junio-2022-1077665'>El ventilador Xiaomi con Alexa, rebajado a precio mínimo en plena ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-xiaomi-mi-smart-standing-fan-2-oferta-16-junio-2022-1077665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El ventilador Xiaomi con Alexa, rebajado a precio mínimo en plena ola de calor' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-robots-inteligentes-vendra-tamano-diminuto-especialistas-1078339'>El futuro de los robots inteligentes vendrá en tamaño diminuto, según los especialistas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-robots-inteligentes-vendra-tamano-diminuto-especialistas-1078339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/futuro-robots-inteligentes-vendra-tamano-diminuto-especialistas-2732759.jpg' alt='El futuro de los robots inteligentes vendrá en tamaño diminuto, según los especialistas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333'>Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-eficiente-mundo-helice-pila-hidrogeno-1078333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avion-hidrogeno-2732689.jpg' alt='Así es el avión de pasajeros más eficiente del mundo: una hélice y una pila de hidrógeno' />
+    <h4><a href='https://computerhoy.com/noticias/motor/guardia-civil-aclara-concepto-turbo-rotonda-vez-dentro-no-hay-manera-escapar-1078335'>La Guardia Civil aclara el concepto de turbo rotonda: ¡Una vez dentro no hay manera de escapar!</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/guardia-civil-aclara-concepto-turbo-rotonda-vez-dentro-no-hay-manera-escapar-1078335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/turbo-rotonda-2732803.jpg' alt='La Guardia Civil aclara el concepto de turbo rotonda: ¡Una vez dentro no hay manera de escapar!' />
     </a>
 </div>
 
