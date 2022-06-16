@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569'>Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-cifras-audiencia-casa-papel-juego-calamar-1078569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2731737.jpg' alt='Stranger Things destroza las cifras de Los Bridgerton, pero aún está lejos del récord de audiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704079.jpg' alt='Estas son las mejores consolas portátiles que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451'>Cuál es la persona más vieja del mundo... ¿y en España?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-persona-vieja-mundo-espana-1078451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/abuela-anima-crossing-1909863.jpg' alt='Cuál es la persona más vieja del mundo... ¿y en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069'>Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-vender-forma-segura-milanuncios-1015069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/milanuncios.jpg' alt='Consejos y guía para comprar y vender de forma segura en Milanuncios en 2022' />
     </a>
 </div>
 
