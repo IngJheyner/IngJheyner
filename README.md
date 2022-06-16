@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421'>El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-energia-limpia-pasa-poner-placas-solares-espacio-china-ha-dado-primer-paso-1078421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-coloca-unas-placas-solares-2654807.jpg' alt='El futuro de la energía limpia pasa por poner placas solares en el espacio y China ha dado el primer paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-palabra-larga-mundo-1078417'>Cuál es la palabra mas larga del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-palabra-larga-mundo-1078417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/palabras-2642353.jpg' alt='Cuál es la palabra mas larga del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093'>Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a52-oferta-16-junio-2022-1077093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-m52-2730533.jpg' alt='Uno de los móviles más atractivos de Samsung roza los 200 euros, y tiene 5G y WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/prohibiciones-inminentes-unas-150-ciudades-pegatina-dgt-cual-1078383'>Prohibiciones inminentes en unas 150 ciudades según tu pegatina de la DGT: ¿cuál es la tuya?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/prohibiciones-inminentes-unas-150-ciudades-pegatina-dgt-cual-1078383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Prohibiciones inminentes en unas 150 ciudades según tu pegatina de la DGT: ¿cuál es la tuya?' />
     </a>
 </div>
 
