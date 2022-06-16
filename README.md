@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
+    <h4><a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249'>Los 10 coches europeos que fracasaron estrepitosamente</a></h4>
+    <a href='https://computerhoy.com/noticias/10-coches-europeos-fracasaron-estrepitosamente-1078249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tiene-sentido-fiat-multipla-2020-1916617.jpg' alt='Los 10 coches europeos que fracasaron estrepitosamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929'>25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-16-junio-2022-1077929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg' alt='25 chollos de Amazon, AliExpress, PcComponentes y más que no debes perderte este fin de semana' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257'>Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-pro-oferta-16-junio-2022-1078257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2652747.jpg' alt='Xiaomi 12 Pro, el móvil más tope de gama de Xiaomi ahora tiene un descuento de 400 euros en esta tienda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1078217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2732493.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-muestra-inquietantes-imagenes-propio-impacto-negativo-marte-1078265'>Rover de la NASA muestra inquietantes imágenes de su propio impacto negativo sobre Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rover-nasa-muestra-inquietantes-imagenes-propio-impacto-negativo-marte-1078265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/curiosity-rover-marte-nasa-2300987.jpg' alt='Rover de la NASA muestra inquietantes imágenes de su propio impacto negativo sobre Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263'>¿Deberías dejar el ordenador portátil enchufado todo el tiempo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deberias-dejar-ordenador-portatil-enchufado-todo-tiempo-1078263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-intel-evo-siendo-recargado-2731735.jpg' alt='¿Deberías dejar el ordenador portátil enchufado todo el tiempo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215'>5 grupos de personas que nunca deberían tomar cerveza, según los médicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-tipos-persona-nunca-deberian-tomar-cerveza-medicos-1078215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/6-tipos-persona-nunca-deberian-tomar-cerveza-medicos-2732483.jpg' alt='5 grupos de personas que nunca deberían tomar cerveza, según los médicos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adelantate-proximo-curso-llevate-ultraligero-matebook-x-pro-core-i7-16gb-ram-mejor-descuento-ano-1078239'>Adelántate al próximo curso y llévate el ultraligero Matebook X Pro con Core i7 y 16GB de RAM con su mejor descuento este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adelantate-proximo-curso-llevate-ultraligero-matebook-x-pro-core-i7-16gb-ram-mejor-descuento-ano-1078239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-matebook-pro-x-2022-2712745.jpg' alt='Adelántate al próximo curso y llévate el ultraligero Matebook X Pro con Core i7 y 16GB de RAM con su mejor descuento este año' />
     </a>
 </div>
 
