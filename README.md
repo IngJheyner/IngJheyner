@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913'>Beber una cerveza al día aporta un importante beneficio, según un estudio médico</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/beber-cerveza-dia-aporta-importante-beneficio-estudio-medico-2733567.jpg' alt='Beber una cerveza al día aporta un importante beneficio, según un estudio médico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601'>Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/porque-ya-no-nos-quedan-manos-libres-msi-nos-pone-boton-pies-jugar-streaming-programacion-2733353.jpg' alt='Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593'>Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg' alt='Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521'>El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón</a></h4>
     <a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-purificador-aspas-dyson-silencioso-facil-limpiar-baja-solo-349-euros-cupon-2733107.jpg' alt='El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/motorista-tapa-matricula-mano-radar-cazado-1078581'>Así cazó la policía al motorista que tapaba la matrícula con la mano cuando pasaba por el radar</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/motorista-tapa-matricula-mano-radar-cazado-1078581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cazo-policia-motorista-tapaba-matricula-mano-cuando-pasaba-radar-2733271.jpg' alt='Así cazó la policía al motorista que tapaba la matrícula con la mano cuando pasaba por el radar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579'>Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detectan-nuevas-apps-google-play-infectadas-malware-revisa-no-esten-movil-1078579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg' alt='Detectan nuevas apps en Google Play infectadas con malware, revisa que no estén en tu móvil' />
     </a>
 </div>
 
