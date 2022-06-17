@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/noticias-tecnologicas-2733579.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305'>Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-escenario-dando-presentacion-powerpoint-2733159.jpg' alt='Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913'>Beber una cerveza al día aporta un importante beneficio, según un estudio médico</a></h4>
     <a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/beber-cerveza-dia-aporta-importante-beneficio-estudio-medico-2733567.jpg' alt='Beber una cerveza al día aporta un importante beneficio, según un estudio médico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593'>Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg' alt='Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585'>La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crema-milagro-mercadona-broncearte-ponerte-sol-menos-3-euros-1078585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bronceado-piel-2733287.jpg' alt='La crema milagro de Mercadona para broncearte sin ponerte al sol por menos de 3 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521'>El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ventilador-purificador-aspas-dyson-oferta-cupon-1078521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-purificador-aspas-dyson-silencioso-facil-limpiar-baja-solo-349-euros-cupon-2733107.jpg' alt='El ventilador purificador sin aspas de Dyson, silencioso y fácil de limpiar, baja a solo 349 euros con un cupón' />
     </a>
 </div>
 
