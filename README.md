@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505'>Amazon Prime exigió reducir el tamaño genital de un protagonista de The Boys</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/boys-2611533.jpg' alt='Amazon Prime exigió reducir el tamaño genital de un protagonista de The Boys' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271'>Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores</a></h4>
     <a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desmantelan-campamento-base-everest-porque-glaciar-derritiendo-cambio-climatico-2734493.jpg' alt='Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253'>El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio</a></h4>
     <a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/papel-aluminio-2734451.jpg' alt='El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249'>Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/emergencias-sos-2685537.jpg' alt='Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo' />
     </a>
 </div>
 
