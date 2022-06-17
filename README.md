@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-juicio-artificiero-muchos-crimenes-1079169'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un juicio, un artificiero y muchos crímenes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-juicio-artificiero-muchos-crimenes-1079169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-ver-fin-semana-2734229.jpg' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un juicio, un artificiero y muchos crímenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-disney-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-1079095'>Qué películas ver este fin de semana en HBO Max, Netflix y Disney+: un padre malhumorado, un fármaco experimental y Matt Damon solo en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-disney-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-1079095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-2734049.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Disney+: un padre malhumorado, un fármaco experimental y Matt Damon solo en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553'>Cuál es el país más rico del mundo en la actualidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-pais-rico-mundo-actualidad-2733183.jpg' alt='Cuál es el país más rico del mundo en la actualidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135'>Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/oculus_rift_s.jpg' alt='Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-mutear-ciertas-personas-llamadas-videollamadas-1079141'>WhatsApp ya permite mutear a ciertas personas en las llamadas y videollamadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-mutear-ciertas-personas-llamadas-videollamadas-1079141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-mutear-personas-2734137.jpg' alt='WhatsApp ya permite mutear a ciertas personas en las llamadas y videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117'>De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud' />
     </a>
 </div>
 
