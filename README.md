@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253'>El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/papel-aluminio-2734451.jpg' alt='El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249'>Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/emergencias-sos-2685537.jpg' alt='Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239'>Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_25.jpg' alt='Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227'>Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-caracteristica-lleva-anos-apple-1079223'>Android 13 contará con una característica que lleva años en Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-caracteristica-lleva-anos-apple-1079223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Android 13 contará con una característica que lleva años en Apple' />
     </a>
 </div>
 
