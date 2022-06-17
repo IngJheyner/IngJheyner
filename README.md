@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/soldados-ucranianos-recaudan-fondos-escribiendo-mensajes-proyectiles-antes-dispararlos-rusos-1078977'>Soldados ucranianos recaudan fondos escribiendo mensajes en proyectiles antes de dispararlos a los rusos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/soldados-ucranianos-recaudan-fondos-escribiendo-mensajes-proyectiles-antes-dispararlos-rusos-1078977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/soldados-ucranianos-recaudan-fondos-escribiendo-mensajes-proyectiles-antes-dispararlos-rusos-2733677.jpg' alt='Soldados ucranianos recaudan fondos escribiendo mensajes en proyectiles antes de dispararlos a los rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estamos-punto-saber-venus-hubo-vida-no-1079007'>Estamos a punto de saber si en Venus hubo vida o no</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estamos-punto-saber-venus-hubo-vida-no-1079007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/grupo-cientificos-internacionales-halla-indicios-vida-venus-2066083.jpg' alt='Estamos a punto de saber si en Venus hubo vida o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ahora-cuesta-solo-156-euros-smartwatch-huawei-toda-ganga-1077115'>Lo hemos probado y ahora cuesta solo 156 euros: este smartwatch de Huawei es toda una ganga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ahora-cuesta-solo-156-euros-smartwatch-huawei-toda-ganga-1077115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585299.jpg' alt='Lo hemos probado y ahora cuesta solo 156 euros: este smartwatch de Huawei es toda una ganga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/error-muchos-cometen-colocar-freidora-aire-deberias-evitar-1078965'>El error que muchos cometen al colocar la freidora de aire y que deberías evitar</a></h4>
     <a href='https://computerhoy.com/noticias/life/error-muchos-cometen-colocar-freidora-aire-deberias-evitar-1078965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='El error que muchos cometen al colocar la freidora de aire y que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inversores-dogecoin-demandan-elon-musk-tesla-spacex-asociacion-criminal-1078967'>Inversores de Dogecoin demandan a Elon Musk, Tesla y SpaceX por asociación criminal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inversores-dogecoin-demandan-elon-musk-tesla-spacex-asociacion-criminal-1078967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Inversores de Dogecoin demandan a Elon Musk, Tesla y SpaceX por asociación criminal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/juego-tronos-tendra-spin-personajes-queridos-1078947'>Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos</a></h4>
-    <a href='https://computerhoy.com/noticias/juego-tronos-tendra-spin-personajes-queridos-1078947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_7.jpg' alt='Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos' />
     </a>
 </div>
 
