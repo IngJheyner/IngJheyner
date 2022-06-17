@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553'>Cuál es el país más rico del mundo en la actualidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-pais-rico-mundo-actualidad-2733183.jpg' alt='Cuál es el país más rico del mundo en la actualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139'>Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/prueba-dacia-spring-electric-2308169.jpg' alt='Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117'>De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041'>Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual' />
     </a>
 </div>
 
