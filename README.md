@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135'>Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/oculus_rift_s.jpg' alt='Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-mutear-ciertas-personas-llamadas-videollamadas-1079141'>WhatsApp ya permite mutear a ciertas personas en las llamadas y videollamadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-permite-mutear-ciertas-personas-llamadas-videollamadas-1079141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-mutear-personas-2734137.jpg' alt='WhatsApp ya permite mutear a ciertas personas en las llamadas y videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117'>De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/idolo-tirano-elon-musk-despide-trabajadores-quejaron-actitud-1079117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='De ídolo a tirano: Elon Musk despide a los trabajadores que se quejaron de su actitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041'>Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109'>Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/epic-games-crossplay-2734041.jpg' alt='Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-desmonta-mito-productos-adelgazar-populares-1079087'>La OCU desmonta el mito de uno de los productos para adelgazar más populares</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-desmonta-mito-productos-adelgazar-populares-1079087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/adelgazar-perder-peso-2277163.jpg' alt='La OCU desmonta el mito de uno de los productos para adelgazar más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-17-junio-2022-1078327'>Uno de los móviles más llamativos y veloces que hemos probado se estrena con 50€ de descuento en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-17-junio-2022-1078327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725599.jpg' alt='Uno de los móviles más llamativos y veloces que hemos probado se estrena con 50€ de descuento en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-llega-todas-plataformas-pero-no-sera-gratuito-1079085'>Microsoft Defender llega a todas las plataformas, pero no será gratuito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-llega-todas-plataformas-pero-no-sera-gratuito-1079085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-defender-2733965.jpg' alt='Microsoft Defender llega a todas las plataformas, pero no será gratuito' />
     </a>
 </div>
 
