@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139'>Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/prueba-dacia-spring-electric-2308169.jpg' alt='Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135'>Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/oculus_rift_s.jpg' alt='Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041'>Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109'>Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/epic-games-crossplay-2734041.jpg' alt='Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas' />
     </a>
 </div>
 
