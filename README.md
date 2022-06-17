@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041'>Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-principales-razones-deberias-borrar-historial-busquedas-cookies-forma-usual-1079041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Estas son las principales razones por las que deberías borrar tu historial de búsquedas y cookies de forma usual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109'>Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/epic-games-lanza-herramienta-intentar-unificar-crossplay-plataformas-1079109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/epic-games-crossplay-2734041.jpg' alt='Epic Games lanza una herramienta para intentar unificar el crossplay entre plataformas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-desmonta-mito-productos-adelgazar-populares-1079087'>La OCU desmonta el mito de uno de los productos para adelgazar más populares</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-desmonta-mito-productos-adelgazar-populares-1079087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/adelgazar-perder-peso-2277163.jpg' alt='La OCU desmonta el mito de uno de los productos para adelgazar más populares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-llega-todas-plataformas-pero-no-sera-gratuito-1079085'>Microsoft Defender llega a todas las plataformas, pero no será gratuito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-llega-todas-plataformas-pero-no-sera-gratuito-1079085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-defender-2733965.jpg' alt='Microsoft Defender llega a todas las plataformas, pero no será gratuito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trabajar-entornos-realidad-virtual-nunca-fue-opcion-mucho-meta-esfuerce-1079039'>Trabajar en entornos de realidad virtual nunca fue una opción, por mucho que Meta se esfuerce</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trabajar-entornos-realidad-virtual-nunca-fue-opcion-mucho-meta-esfuerce-1079039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/metaverso-microsoft-teams-2520773.jpg' alt='Trabajar en entornos de realidad virtual nunca fue una opción, por mucho que Meta se esfuerce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grandes-empresas-tecnologicas-acuerdo-nuevas-exigencias-union-europea-luchar-desinformacion-1079011'>Las grandes empresas tecnológicas de acuerdo con las nuevas exigencias de la Unión Europea para luchar contra la desinformación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grandes-empresas-tecnologicas-acuerdo-nuevas-exigencias-union-europea-luchar-desinformacion-1079011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/grandes-empresas-tecnologicas-acuerdo-nuevas-exigencias-union-europea-luchar-desinformacion-2733765.jpg' alt='Las grandes empresas tecnológicas de acuerdo con las nuevas exigencias de la Unión Europea para luchar contra la desinformación' />
     </a>
 </div>
 
