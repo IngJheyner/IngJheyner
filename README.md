@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269'>Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_6.jpg' alt='Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261'>Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-jabra-elite-7-active-resistencia-sudor-perfectos-hacer-deporte-usar-olas-calor-2734459.jpg' alt='Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239'>Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_25.jpg' alt='Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-tours-turisticos-gratis-madrid-paris-londres-1079245'>De la pantalla a las calles: Netflix estrena tours turísticos gratis en España y otros países para visitar las localizaciones de sus series</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-tours-turisticos-gratis-madrid-paris-londres-1079245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pantalla-calles-netflix-estrena-tours-turisticos-gratis-espana-francia-reino-unido-visitar-localizaciones-series-2734449.jpg' alt='De la pantalla a las calles: Netflix estrena tours turísticos gratis en España y otros países para visitar las localizaciones de sus series' />
     </a>
 </div>
 
