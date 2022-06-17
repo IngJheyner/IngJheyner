@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-tendra-spin-personajes-queridos-1078947'>Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-tendra-spin-personajes-queridos-1078947' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ahora-cuesta-solo-156-euros-smartwatch-huawei-toda-ganga-1077115'>Lo hemos probado y ahora cuesta solo 156 euros: este smartwatch de Huawei es toda una ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-ahora-cuesta-solo-156-euros-smartwatch-huawei-toda-ganga-1077115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585299.jpg' alt='Lo hemos probado y ahora cuesta solo 156 euros: este smartwatch de Huawei es toda una ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-lidl-habitaciones-grandes-baja-50-precio-1078983'>El aire acondicionado portátil de Lidl para habitaciones grandes baja un 50% su precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-portatil-lidl-habitaciones-grandes-baja-50-precio-1078983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lidl-2680615.jpg' alt='El aire acondicionado portátil de Lidl para habitaciones grandes baja un 50% su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/error-muchos-cometen-colocar-freidora-aire-deberias-evitar-1078965'>El error que muchos cometen al colocar la freidora de aire y que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/error-muchos-cometen-colocar-freidora-aire-deberias-evitar-1078965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='El error que muchos cometen al colocar la freidora de aire y que deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inversores-dogecoin-demandan-elon-musk-tesla-spacex-asociacion-criminal-1078967'>Inversores de Dogecoin demandan a Elon Musk, Tesla y SpaceX por asociación criminal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inversores-dogecoin-demandan-elon-musk-tesla-spacex-asociacion-criminal-1078967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Inversores de Dogecoin demandan a Elon Musk, Tesla y SpaceX por asociación criminal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/juego-tronos-tendra-spin-personajes-queridos-1078947'>Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos</a></h4>
+    <a href='https://computerhoy.com/noticias/juego-tronos-tendra-spin-personajes-queridos-1078947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_7.jpg' alt='Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/honor-x7-trono-gama-media-1077815'>HONOR X7: a por el trono de la gama media</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/honor-x7-trono-gama-media-1077815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-colores-honor-x7-2731899.jpg' alt='HONOR X7: a por el trono de la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173'>iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ipad-vs-ipad-air-2577469.jpg' alt='iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/noticias-tecnologicas-2733579.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305'>Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-escenario-dando-presentacion-powerpoint-2733159.jpg' alt='Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy' />
     </a>
 </div>
 
