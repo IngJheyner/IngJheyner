@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227'>Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735'>Móviles con WiFi 6: estos son los que puedes comprar al mejor precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-wifi-6-742735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1957255.jpg' alt='Móviles con WiFi 6: estos son los que puedes comprar al mejor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-caracteristica-lleva-anos-apple-1079223'>Android 13 contará con una característica que lleva años en Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-contara-caracteristica-lleva-anos-apple-1079223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-13-tiramisu-2610675.jpg' alt='Android 13 contará con una característica que lleva años en Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-juicio-artificiero-muchos-crimenes-1079169'>Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un juicio, un artificiero y muchos crímenes</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-movistar-plus-disney-juicio-artificiero-muchos-crimenes-1079169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-ver-fin-semana-2734229.jpg' alt='Qué series ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un juicio, un artificiero y muchos crímenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-disney-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-1079095'>Qué películas ver este fin de semana en HBO Max, Netflix y Disney+: un padre malhumorado, un fármaco experimental y Matt Damon solo en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-disney-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-1079095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-padre-malhumorado-farmaco-experimental-matt-damon-solo-marte-2734049.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Disney+: un padre malhumorado, un fármaco experimental y Matt Damon solo en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553'>Cuál es el país más rico del mundo en la actualidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-rico-mundo-actualidad-1078553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-pais-rico-mundo-actualidad-2733183.jpg' alt='Cuál es el país más rico del mundo en la actualidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139'>Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/precio-gasolina-nubes-cual-coche-electrico-barato-puedes-comprar-espana-1079139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/prueba-dacia-spring-electric-2308169.jpg' alt='Con el precio de la gasolina por las nubes: ¿cuál es el coche eléctrico más barato que puedes comprar en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135'>Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/steam-deck-valve-van-todas-unas-gafas-realidad-virtual-independientes-1079135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/oculus_rift_s.jpg' alt='Tras la Steam Deck, en Valve van a por todas con unas gafas de realidad virtual independientes' />
     </a>
 </div>
 
