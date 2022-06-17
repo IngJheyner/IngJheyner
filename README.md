@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173'>iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ipad-vs-ipad-air-2577469.jpg' alt='iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1078915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/noticias-tecnologicas-2733579.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601'>Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/porque-ya-no-nos-quedan-manos-libres-msi-nos-pone-boton-pies-jugar-streaming-programacion-2733353.jpg' alt='Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593'>Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/empleados-spacex-carta-abierta-elon-musk-1078593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg' alt='Empleados de SpaceX publican una carta abierta para que Elon Musk se calle en Twitter porque "les  avergüenza"' />
     </a>
 </div>
 
