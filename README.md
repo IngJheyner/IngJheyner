@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261'>Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-jabra-elite-7-active-resistencia-sudor-perfectos-hacer-deporte-usar-olas-calor-2734459.jpg' alt='Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253'>El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio</a></h4>
     <a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/papel-aluminio-2734451.jpg' alt='El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-tours-turisticos-gratis-madrid-paris-londres-1079245'>De la pantalla a las calles: Netflix estrena tours turísticos gratis en España y otros países para visitar las localizaciones de sus series</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-tours-turisticos-gratis-madrid-paris-londres-1079245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pantalla-calles-netflix-estrena-tours-turisticos-gratis-espana-francia-reino-unido-visitar-localizaciones-series-2734449.jpg' alt='De la pantalla a las calles: Netflix estrena tours turísticos gratis en España y otros países para visitar las localizaciones de sus series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227'>Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-requisitos-benchmarks-graficas-intel-arc-alchemist-nvidia-seguira-siendo-mejor-opcion-1079227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Filtrados los requisitos y benchmarks de las gráficas Intel Arc Alchemist: NVIDIA seguirá siendo la mejor opción' />
     </a>
 </div>
 
