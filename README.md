@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271'>Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desmantelan-campamento-base-everest-porque-glaciar-derritiendo-cambio-climatico-2734493.jpg' alt='Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269'>Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_6.jpg' alt='Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249'>Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/te-llega-mensaje-emergencia-hazle-caso-no-trata-bulo-1079249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/emergencias-sos-2685537.jpg' alt='Si te llega este mensaje de emergencia hazle caso, no se trata de un bulo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239'>Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desvelados-todos-secretos-rival-galaxy-z-flip-4-filtra-precio-motorola-razr-3-1079239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_25.jpg' alt='Desvelados todos los secretos del rival del Galaxy Z Flip 4: se filtra el precio del Motorola Razr 3' />
     </a>
 </div>
 
