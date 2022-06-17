@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-tendra-spin-personajes-queridos-1078947'>Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-tendra-spin-personajes-queridos-1078947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_7.jpg' alt='Juego de Tronos tendrá un spin-off de uno de sus personajes más queridos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/honor-x7-trono-gama-media-1077815'>HONOR X7: a por el trono de la gama media</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/honor-x7-trono-gama-media-1077815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-colores-honor-x7-2731899.jpg' alt='HONOR X7: a por el trono de la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173'>iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ipad-ipad-air-tablet-apple-me-compro-cual-mejor-cada-caso-990173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ipad-vs-ipad-air-2577469.jpg' alt='iPad o iPad Air: ¿qué tablet Apple me compro? ¿Cuál es mejor en cada caso?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305'>Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-microsoft-power-point-1078305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-escenario-dando-presentacion-powerpoint-2733159.jpg' alt='Mejores cursos de PowerPoint para ser un experto que puedes hacer en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913'>Beber una cerveza al día aporta un importante beneficio, según un estudio médico</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beber-cerveza-beneficios-estudio-medico-1078913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/beber-cerveza-dia-aporta-importante-beneficio-estudio-medico-2733567.jpg' alt='Beber una cerveza al día aporta un importante beneficio, según un estudio médico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601'>Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/msi-liberator-pedal-gaming-1078601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/porque-ya-no-nos-quedan-manos-libres-msi-nos-pone-boton-pies-jugar-streaming-programacion-2733353.jpg' alt='Porque ya no nos quedan manos libres, MSI nos pone tres botones en los pies para jugar, streaming o programación' />
     </a>
 </div>
 
