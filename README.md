@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-movil-android-trackpad-ordenador-1056063'>Cómo convertir un móvil Android en un trackpad para el ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-movil-android-trackpad-ordenador-1056063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/remote-mose-2693533.jpg' alt='Cómo convertir un móvil Android en un trackpad para el ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177'>10 despertadores caseros que puedes hacer tú mismo para empezar bien el día</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/despertador-2730705.jpg' alt='10 despertadores caseros que puedes hacer tú mismo para empezar bien el día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/catastro-online-como-conseguir-referencia-catastral-1075265'>Catastro online: cómo conseguir por Internet la referencia catastral de cualquier casa o inmueble</a></h4>
     <a href='https://computerhoy.com/reportajes/life/catastro-online-como-conseguir-referencia-catastral-1075265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Catastro online: cómo conseguir por Internet la referencia catastral de cualquier casa o inmueble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943'>Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-hacer-musica-2733611.jpg' alt='Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música' />
     </a>
 </div>
 
