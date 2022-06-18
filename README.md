@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573'>AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2615953.jpg' alt='AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-samsung-galaxy-s22-ultra-5g-solo-999-euros-250-euros-descuento-1079559'>El imponente Samsung Galaxy S22 Ultra 5G a solo 999 euros con más de 250 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imponente-samsung-galaxy-s22-ultra-5g-solo-999-euros-250-euros-descuento-1079559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620789.jpg' alt='El imponente Samsung Galaxy S22 Ultra 5G a solo 999 euros con más de 250 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aliexpress-guia-fondo-no-perderte-esta-tienda-china-277507'>Comprar en AliExpress en 2022: guía, trucos, IVA, aduanas y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aliexpress-guia-fondo-no-perderte-esta-tienda-china-277507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Comprar en AliExpress en 2022: guía, trucos, IVA, aduanas y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-ciudades-espanolas-donde-ya-multan-no-llevar-visible-pegatina-dgt-1079541'>Estas son las ciudades españolas donde ya multan por no llevar visible la pegatina de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-ciudades-espanolas-donde-ya-multan-no-llevar-visible-pegatina-dgt-1079541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Estas son las ciudades españolas donde ya multan por no llevar visible la pegatina de la DGT' />
     </a>
 </div>
 
