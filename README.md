@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-actores-interpretan-mismos-veces-humor-1078365'>7 películas en las que los actores se interpretan a sí mismos, y a veces con humor</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-actores-interpretan-mismos-veces-humor-1078365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-peliculas-actores-interpretaban-mismos-veces-humor-2733171.jpg' alt='7 películas en las que los actores se interpretan a sí mismos, y a veces con humor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aliexpress-guia-fondo-no-perderte-esta-tienda-china-277507'>Comprar en AliExpress en 2022: guía, trucos, IVA, aduanas y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aliexpress-guia-fondo-no-perderte-esta-tienda-china-277507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Comprar en AliExpress en 2022: guía, trucos, IVA, aduanas y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-ciudades-espanolas-donde-ya-multan-no-llevar-visible-pegatina-dgt-1079541'>Estas son las ciudades españolas donde ya multan por no llevar visible la pegatina de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-ciudades-espanolas-donde-ya-multan-no-llevar-visible-pegatina-dgt-1079541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='Estas son las ciudades españolas donde ya multan por no llevar visible la pegatina de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-1-iv-review-opinion-1078549'>Sony Xperia 1 IV, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-xperia-1-iv-review-opinion-1078549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ananlisis-sony-xperia-1-iv-2733253.jpg' alt='Sony Xperia 1 IV, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-te-permitira-comprar-ropa-digital-marcas-famosas-avatar-facebook-instagram-1079531'>Meta te permitirá comprar ropa digital de marcas famosas para tu avatar de Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-te-permitira-comprar-ropa-digital-marcas-famosas-avatar-facebook-instagram-1079531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Meta te permitirá comprar ropa digital de marcas famosas para tu avatar de Facebook e Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-movil-android-trackpad-ordenador-1056063'>Cómo convertir un móvil Android en un trackpad para el ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-movil-android-trackpad-ordenador-1056063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/remote-mose-2693533.jpg' alt='Cómo convertir un móvil Android en un trackpad para el ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177'>10 despertadores caseros que puedes hacer tú mismo para empezar bien el día</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/despertador-2730705.jpg' alt='10 despertadores caseros que puedes hacer tú mismo para empezar bien el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x90k-65-review-opinion-1078213'>Sony Bravia XR X90K de 65”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x90k-65-review-opinion-1078213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-bravia-xr-x90k-65-analisis-opinion-2732481.jpg' alt='Sony Bravia XR X90K de 65”, análisis y opinión' />
     </a>
 </div>
 
