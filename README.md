@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177'>10 despertadores caseros que puedes hacer tú mismo para empezar bien el día</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-despertadores-caseros-puedes-hacer-mismo-empezar-bien-dia-1077177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/despertador-2730705.jpg' alt='10 despertadores caseros que puedes hacer tú mismo para empezar bien el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x90k-65-review-opinion-1078213'>Sony Bravia XR X90K de 65”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-x90k-65-review-opinion-1078213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-bravia-xr-x90k-65-analisis-opinion-2732481.jpg' alt='Sony Bravia XR X90K de 65”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-poco-f3-5g-sigue-siendo-mejores-moviles-baratos-1077747'>5 motivos por los que el POCO F3 5G sigue siendo uno de los mejores móviles baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-poco-f3-5g-sigue-siendo-mejores-moviles-baratos-1077747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-poco-f3-2301531.jpg' alt='5 motivos por los que el POCO F3 5G sigue siendo uno de los mejores móviles baratos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943'>Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-hacer-musica-2733611.jpg' alt='Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551'>Mejores regalos de fin de curso si tu hijo ha aprobado todo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-cuaderno-notas-mochila-posadas-mesa-madera-2734373.jpg' alt='Mejores regalos de fin de curso si tu hijo ha aprobado todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149'>Teletrabajar es como rascar, todo es empezar... y estar preparado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/trabajar-estudiar-casa-2054421.jpg' alt='Teletrabajar es como rascar, todo es empezar... y estar preparado' />
     </a>
 </div>
 
