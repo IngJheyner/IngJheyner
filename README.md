@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-poco-f3-5g-sigue-siendo-mejores-moviles-baratos-1077747'>5 motivos por los que el POCO F3 5G sigue siendo uno de los mejores móviles baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-motivos-poco-f3-5g-sigue-siendo-mejores-moviles-baratos-1077747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/analisis-poco-f3-2301531.jpg' alt='5 motivos por los que el POCO F3 5G sigue siendo uno de los mejores móviles baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/catastro-online-como-conseguir-referencia-catastral-1075265'>Catastro online: cómo conseguir por Internet la referencia catastral de cualquier casa o inmueble</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/catastro-online-como-conseguir-referencia-catastral-1075265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Catastro online: cómo conseguir por Internet la referencia catastral de cualquier casa o inmueble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943'>Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-tocar-musica-1078943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/floppotron-30-ordenador-orquesta-usa-512-lectores-disquete-16-discos-duros-4-escaneres-hacer-musica-2733611.jpg' alt='Floppotron 3.0, el ordenador orquesta que usa 512 lectores de disquete, 16 discos duros y 4 escáneres para tocar música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551'>Mejores regalos de fin de curso si tu hijo ha aprobado todo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-cuaderno-notas-mochila-posadas-mesa-madera-2734373.jpg' alt='Mejores regalos de fin de curso si tu hijo ha aprobado todo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149'>Teletrabajar es como rascar, todo es empezar... y estar preparado</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/trabajar-estudiar-casa-2054421.jpg' alt='Teletrabajar es como rascar, todo es empezar... y estar preparado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617'>Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mesa-ordenador-2680999.jpg' alt='Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-senales-silenciosas-estas-perdiendo-audicion-oido-1079501'>5 señales silenciosas de que estás perdiendo audición, y no lo sabes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-senales-silenciosas-estas-perdiendo-audicion-oido-1079501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-senales-silenciosas-estas-perdiendo-audicion-no-sabes-2734695.jpg' alt='5 señales silenciosas de que estás perdiendo audición, y no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277'>Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ziggy-robot-autonomo-te-coge-sitio-parkings-2734505.jpg' alt='Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)' />
     </a>
 </div>
 
