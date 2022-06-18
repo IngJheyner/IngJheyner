@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617'>Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mesa-ordenador-2680999.jpg' alt='Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-senales-silenciosas-estas-perdiendo-audicion-oido-1079501'>5 señales silenciosas de que estás perdiendo audición, y no lo sabes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-senales-silenciosas-estas-perdiendo-audicion-oido-1079501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-senales-silenciosas-estas-perdiendo-audicion-no-sabes-2734695.jpg' alt='5 señales silenciosas de que estás perdiendo audición, y no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277'>Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ziggy-robot-autonomo-te-coge-sitio-parkings-2734505.jpg' alt='Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271'>Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores</a></h4>
     <a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desmantelan-campamento-base-everest-porque-glaciar-derritiendo-cambio-climatico-2734493.jpg' alt='Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269'>Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/secuela-juego-tronos-vuelve-kit-harington-jon-nieve-1079269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos_6.jpg' alt='Se filtra la secuela de Juego de Tronos: vuelve Kit Harington como Jon Nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261'>Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-jabra-elite-7-active-resistencia-sudor-perfectos-hacer-deporte-usar-olas-calor-2734459.jpg' alt='Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor' />
     </a>
 </div>
 
