@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505'>Amazon Prime exigió reducir el tamaño genital de un protagonista de The Boys</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277'>Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ziggy-robot-autonomo-te-coge-sitio-parkings-2734505.jpg' alt='Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505'>Amazon Prime Video exigió reducir el tamaño genital de un protagonista de The Boys</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/boys-2611533.jpg' alt='Amazon Prime exigió reducir el tamaño genital de un protagonista de The Boys' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/boys-2611533.jpg' alt='Amazon Prime Video exigió reducir el tamaño genital de un protagonista de The Boys' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261'>Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-jabra-elite-7-active-resistencia-sudor-deporte-ola-calor-oferta-1079261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/auriculares-jabra-elite-7-active-resistencia-sudor-perfectos-hacer-deporte-usar-olas-calor-2734459.jpg' alt='Los auriculares Jabra Elite 7 Active con resistencia al sudor, perfectos para hacer deporte y usar en olas de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253'>El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/maravilloso-truco-viral-chef-profesional-desenredar-papel-aluminio-1079253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/papel-aluminio-2734451.jpg' alt='El maravilloso truco viral de un chef profesional para desenredar el papel de aluminio' />
     </a>
 </div>
 
