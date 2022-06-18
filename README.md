@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607'>Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705'>Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573'>AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2615953.jpg' alt='AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imponente-samsung-galaxy-s22-ultra-5g-solo-999-euros-250-euros-descuento-1079559'>El imponente Samsung Galaxy S22 Ultra 5G a solo 999 euros con más de 250 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imponente-samsung-galaxy-s22-ultra-5g-solo-999-euros-250-euros-descuento-1079559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620789.jpg' alt='El imponente Samsung Galaxy S22 Ultra 5G a solo 999 euros con más de 250 euros de descuento' />
     </a>
 </div>
 
