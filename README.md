@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615'>El FBI te avisa de esta estafa con criptomonedas en LinkedIn</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='El FBI te avisa de esta estafa con criptomonedas en LinkedIn' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607'>Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-tiene-problemas-distinguir-noche-dia-1079575'>Google Maps en Android Auto tiene problemas para distinguir entre la noche y el día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-tiene-problemas-distinguir-noche-dia-1079575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Google Maps en Android Auto tiene problemas para distinguir entre la noche y el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573'>AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amc-no-descarta-otra-nueva-serie-universo-breaking-bad-better-call-saul-1079573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/better-call-saul-2615953.jpg' alt='AMC no descarta otra nueva serie sobre el universo de Breaking Bad y Better Call Saul' />
     </a>
 </div>
 
