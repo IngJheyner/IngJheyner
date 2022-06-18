@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551'>Mejores regalos de fin de curso si tu hijo ha aprobado todo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-fin-curso-1078551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-cuaderno-notas-mochila-posadas-mesa-madera-2734373.jpg' alt='Mejores regalos de fin de curso si tu hijo ha aprobado todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149'>Teletrabajar es como rascar, todo es empezar... y estar preparado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/teletrabajar-como-rascar-todo-empezar-estar-preparado-1077149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/trabajar-estudiar-casa-2054421.jpg' alt='Teletrabajar es como rascar, todo es empezar... y estar preparado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617'>Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-mesa-escritorio-trabajar-estudiar-jugar-1048617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/mesa-ordenador-2680999.jpg' alt='Cómo elegir la mejor mesa de escritorio para trabajar, estudiar o jugar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277'>Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ziggy-robot-autonomo-te-coge-sitio-parkings-video-1079277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ziggy-robot-autonomo-te-coge-sitio-parkings-2734505.jpg' alt='Ziggy, el robot autónomo que te coge sitio en los parkings (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505'>Amazon Prime Video exigió reducir el tamaño genital de un protagonista de The Boys</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-boys-censura-atributos-sexuales-reducidos-digitalmente-1078505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/boys-2611533.jpg' alt='Amazon Prime Video exigió reducir el tamaño genital de un protagonista de The Boys' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271'>Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desmantelan-campamento-base-everest-cambio-climatico-1079271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/desmantelan-campamento-base-everest-porque-glaciar-derritiendo-cambio-climatico-2734493.jpg' alt='Desmantelan el campamento base del Everest porque el glaciar se está derritiendo por el cambio climático... y los escaladores' />
     </a>
 </div>
 
