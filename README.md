@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921'>Así se lava nuestro cerebro mientras dormimos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lava-cerebro-mientras-dormimos-2733587.jpg' alt='Así se lava nuestro cerebro mientras dormimos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615'>El FBI te avisa de esta estafa con criptomonedas en LinkedIn</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='El FBI te avisa de esta estafa con criptomonedas en LinkedIn' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ikohs-create-fryer-air-2734385.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-tiene-problemas-distinguir-noche-dia-1079575'>Google Maps en Android Auto tiene problemas para distinguir entre la noche y el día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-android-auto-tiene-problemas-distinguir-noche-dia-1079575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Google Maps en Android Auto tiene problemas para distinguir entre la noche y el día' />
     </a>
 </div>
 
