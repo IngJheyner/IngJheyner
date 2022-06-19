@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891'>Microsoft Defender es infalible en esta característica, pero no es perfecto en otras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Microsoft Defender es infalible en esta característica, pero no es perfecto en otras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885'>WhatsApp para Windows recibe una de las características más populares de la versión para móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='WhatsApp para Windows recibe una de las características más populares de la versión para móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xg300-review-opinion-1079619'>Sony XG300, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-xg300-review-opinion-1079619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-xg300-analisis-opinion-2735037.jpg' alt='Sony XG300, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-linea-tiempo-personal-google-maps-1069089'>Cómo ver tu línea de tiempo personal de Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-linea-tiempo-personal-google-maps-1069089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Cómo ver tu línea de tiempo personal de Google Maps' />
     </a>
 </div>
 
