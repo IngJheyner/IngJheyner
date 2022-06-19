@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899'>Los documentos que la DGT obliga a llevar en el coche para evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg' alt='Los documentos que la DGT obliga a llevar en el coche para evitar multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-protagonizadas-juguetes-puedes-ver-streaming-cines-1077341'>Las 7 mejores películas protagonizadas por juguetes que puedes ver en streaming, y una en cines</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-protagonizadas-juguetes-puedes-ver-streaming-cines-1077341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/toy-story-2731123.jpg' alt='Las 7 mejores películas protagonizadas por juguetes que puedes ver en streaming, y una en cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891'>Microsoft Defender es infalible en esta característica, pero no es perfecto en otras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Microsoft Defender es infalible en esta característica, pero no es perfecto en otras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321'>Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipad-error-2709863.jpg' alt='Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/turismo-espacial-1069303'>¿Qué es el turismo espacial?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/turismo-espacial-1069303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/turismo-espacial-2732995.jpg' alt='¿Qué es el turismo espacial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-xg300-review-opinion-1079619'>Sony XG300, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-xg300-review-opinion-1079619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-xg300-analisis-opinion-2735037.jpg' alt='Sony XG300, análisis y opinión' />
     </a>
 </div>
 
