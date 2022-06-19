@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-configuraciones-defecto-windows-11-muy-molestas-deberias-desactivar-1069521'>8 configuraciones por defecto de Windows 11 muy molestas que deberías desactivar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-configuraciones-defecto-windows-11-muy-molestas-deberias-desactivar-1069521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/windows-11-2577413.jpg' alt='8 configuraciones por defecto de Windows 11 muy molestas que deberías desactivar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-tomate-ketchup-1079611'>El cambio climático puede acabar con el tomate kétchup</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambio-climatico-puede-acabar-tomate-ketchup-1079611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tomate-procesado-2734991.jpg' alt='El cambio climático puede acabar con el tomate kétchup' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-gmail-experto-1079225'>Gmail para expertos: estos cursos online te enseñan todos los trucos que necesitas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-gmail-experto-1079225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pantalla-ordenador-gmail-abierto-2734393.jpg' alt='Gmail para expertos: estos cursos online te enseñan todos los trucos que necesitas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645'>Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias</a></h4>
     <a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tratamiento-belleza-2715297.jpg' alt='Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921'>Así se lava nuestro cerebro mientras dormimos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lava-cerebro-mientras-dormimos-2733587.jpg' alt='Así se lava nuestro cerebro mientras dormimos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615'>El FBI te avisa de esta estafa con criptomonedas en LinkedIn</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='El FBI te avisa de esta estafa con criptomonedas en LinkedIn' />
     </a>
 </div>
 
