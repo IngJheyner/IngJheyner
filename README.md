@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645'>Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias</a></h4>
+    <a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tratamiento-belleza-2715297.jpg' alt='Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921'>Así se lava nuestro cerebro mientras dormimos (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/cerebro-se-lava-mientras-dormimos-video-1078921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lava-cerebro-mientras-dormimos-2733587.jpg' alt='Así se lava nuestro cerebro mientras dormimos (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705'>Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ikohs-create-fryer-air-2734385.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
     </a>
 </div>
 
