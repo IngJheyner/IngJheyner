@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359'>Los 8 trucos de Chrome que deberías estar usando en tu día a día</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Los 8 trucos de Chrome que deberías estar usando en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971'>Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados</a></h4>
     <a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encuentran-trazas-1200-especies-insectos-otros-invertebrados-bolsas-te-hierbas-venden-tiendas-2735593.jpg' alt='Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949'>Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fallecen-dos-actores-serie-elegido-netflix-durante-rodaje-2735465.jpg' alt='Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-narzo-50-5g-motivos-comprar-movil-barato-1079897'>realme Narzo 50 5G: por qué este móvil barato puede poner en aprietos a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/realme-narzo-50-5g-motivos-comprar-movil-barato-1079897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-narzo-50-5g-2735439.jpg' alt='realme Narzo 50 5G: por qué este móvil barato puede poner en aprietos a Xiaomi' />
     </a>
 </div>
 
