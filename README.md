@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943'>Los mineros de Ethereum gastaron 15.000 millones de dólares para comprar tarjetas gráficas, ahora se forman empresas que las compran</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-ahora-forman-empresas-compran-2735457.jpg' alt='Los mineros de Ethereum gastaron 15.000 millones de dólares para comprar tarjetas gráficas, ahora se forman empresas que las compran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sleepfluencers-tiktok-graban-mientras-duermen-1079931'>Qué son los sleepfluencers: ganan 30.000 euros al mes en TikTok grabándose mientras duermen</a></h4>
     <a href='https://computerhoy.com/noticias/life/sleepfluencers-tiktok-graban-mientras-duermen-1079931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/son-sleepfluencers-ganan-30000-euros-mes-tiktok-grabandose-mientras-duermen-2735447.jpg' alt='Qué son los sleepfluencers: ganan 30.000 euros al mes en TikTok grabándose mientras duermen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899'>Los documentos que la DGT obliga a llevar en el coche para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg' alt='Los documentos que la DGT obliga a llevar en el coche para evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-protagonizadas-juguetes-puedes-ver-streaming-cines-1077341'>Las 7 mejores películas protagonizadas por juguetes que puedes ver en streaming, y una en cines</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-peliculas-protagonizadas-juguetes-puedes-ver-streaming-cines-1077341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/toy-story-2731123.jpg' alt='Las 7 mejores películas protagonizadas por juguetes que puedes ver en streaming, y una en cines' />
     </a>
 </div>
 
