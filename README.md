@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-gmail-experto-1079225'>Gmail para expertos: estos cursos online te enseñan todos los trucos que necesitas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-gmail-experto-1079225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pantalla-ordenador-gmail-abierto-2734393.jpg' alt='Gmail para expertos: estos cursos online te enseñan todos los trucos que necesitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mes-7-puntos-seguir-crecer-autoestima-1078987'>Un mes y 7 puntos a seguir para hacer crecer tu autoestima</a></h4>
     <a href='https://computerhoy.com/noticias/life/mes-7-puntos-seguir-crecer-autoestima-1078987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mes-7-puntos-seguir-hacer-crecer-autoestima-2733705.jpg' alt='Un mes y 7 puntos a seguir para hacer crecer tu autoestima' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615'>El FBI te avisa de esta estafa con criptomonedas en LinkedIn</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fbi-te-avisa-estafa-criptomonedas-linkedin-1079615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='El FBI te avisa de esta estafa con criptomonedas en LinkedIn' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607'>Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp' />
     </a>
 </div>
 
