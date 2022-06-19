@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mes-7-puntos-seguir-crecer-autoestima-1078987'>Un mes y 7 puntos a seguir para hacer crecer tu autoestima</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mes-7-puntos-seguir-crecer-autoestima-1078987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mes-7-puntos-seguir-hacer-crecer-autoestima-2733705.jpg' alt='Un mes y 7 puntos a seguir para hacer crecer tu autoestima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645'>Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias</a></h4>
     <a href='https://computerhoy.com/guia-compra/pistola-mesoterapia-1068645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tratamiento-belleza-2715297.jpg' alt='Pistolas de mesoterapia para eliminar arrugas en la piel en casa: tipos y diferencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607'>Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tipo-cuentas-van-poder-ahora-configurar-foto-portada-whatsapp-1079607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Este tipo de cuentas van a poder ahora configurar una foto de portada en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705'>Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/principales-codigos-error-android-auto-17-16-14-8-como-solucionarlos-1069705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Principales códigos de error de Android Auto: 17, 16, 14, 8... y cómo solucionarlos' />
     </a>
 </div>
 
