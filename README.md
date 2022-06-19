@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971'>Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encuentran-trazas-1200-especies-insectos-otros-invertebrados-bolsas-te-hierbas-venden-tiendas-2735593.jpg' alt='Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045'>10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/todocoleccion.jpg' alt='10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/realme-narzo-50-5g-motivos-comprar-movil-barato-1079897'>realme Narzo 50 5G: por qué este móvil barato puede poner en aprietos a Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/realme-narzo-50-5g-motivos-comprar-movil-barato-1079897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-narzo-50-5g-2735439.jpg' alt='realme Narzo 50 5G: por qué este móvil barato puede poner en aprietos a Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-maneras-cargar-gratis-coche-electrico-1078379'>8 maneras de cargar gratis tu coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-maneras-cargar-gratis-coche-electrico-1078379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cargador-electrico-2732851.jpg' alt='8 maneras de cargar gratis tu coche eléctrico' />
     </a>
 </div>
 
