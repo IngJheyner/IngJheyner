@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885'>WhatsApp para Windows recibe una de las características más populares de la versión para móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='WhatsApp para Windows recibe una de las características más populares de la versión para móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321'>Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipad-error-2709863.jpg' alt='Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/turismo-espacial-1069303'>¿Qué es el turismo espacial?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/turismo-espacial-1069303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/turismo-espacial-2732995.jpg' alt='¿Qué es el turismo espacial?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-linea-tiempo-personal-google-maps-1069089'>Cómo ver tu línea de tiempo personal de Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-linea-tiempo-personal-google-maps-1069089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='Cómo ver tu línea de tiempo personal de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-mejores-relojes-natacion-1078399'>Por qué el Apple Watch es ahora uno de los mejores relojes para natación</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/apple-watch-mejores-relojes-natacion-1078399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2732883.jpg' alt='Por qué el Apple Watch es ahora uno de los mejores relojes para natación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lapida-internet-explorer-corea-sur-ha-vuelto-viral-1079613'>Esta lápida de Internet Explorer en Corea del Sur se ha vuelto viral</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lapida-internet-explorer-corea-sur-ha-vuelto-viral-1079613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lapida-falsa-internet-explorer-2734995.jpg' alt='Esta lápida de Internet Explorer en Corea del Sur se ha vuelto viral' />
     </a>
 </div>
 
