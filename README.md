@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanzaria-tres-smartphones-procesador-snapdragon-8-gen-1-ano-1079925'>Xiaomi lanzaría tres smartphones con el procesador Snapdragon 8+ Gen 1 este año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanzaria-tres-smartphones-procesador-snapdragon-8-gen-1-ano-1079925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Xiaomi lanzaría tres smartphones con el procesador Snapdragon 8+ Gen 1 este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-auriculares-cancelacion-hemos-probado-estan-rebajados-menos-150-euros-1079921'>Unos de los mejores auriculares con cancelación que hemos probado están rebajados a menos de 150 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-auriculares-cancelacion-hemos-probado-estan-rebajados-menos-150-euros-1079921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/sony-wf-1000xm3_0.jpg' alt='Unos de los mejores auriculares con cancelación que hemos probado están rebajados a menos de 150 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891'>Microsoft Defender es infalible en esta característica, pero no es perfecto en otras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-infalible-caracteristica-pero-no-perfecto-otras-1079891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg' alt='Microsoft Defender es infalible en esta característica, pero no es perfecto en otras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885'>WhatsApp para Windows recibe una de las características más populares de la versión para móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='WhatsApp para Windows recibe una de las características más populares de la versión para móviles' />
     </a>
 </div>
 
