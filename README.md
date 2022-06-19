@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-auriculares-cancelacion-hemos-probado-estan-rebajados-menos-150-euros-1079921'>Unos de los mejores auriculares con cancelación que hemos probado están rebajados a menos de 150 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-auriculares-cancelacion-hemos-probado-estan-rebajados-menos-150-euros-1079921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/sony-wf-1000xm3_0.jpg' alt='Unos de los mejores auriculares con cancelación que hemos probado están rebajados a menos de 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899'>Los documentos que la DGT obliga a llevar en el coche para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/documentos-dgt-obliga-llevar-coche-evitar-multas-1079899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg' alt='Los documentos que la DGT obliga a llevar en el coche para evitar multas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885'>WhatsApp para Windows recibe una de las características más populares de la versión para móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-windows-recibe-caracteristicas-populares-version-moviles-1079885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='WhatsApp para Windows recibe una de las características más populares de la versión para móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321'>Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/9-trucos-solucionar-practicamente-cualquier-problema-ipad-1065321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipad-error-2709863.jpg' alt='Los 9 trucos para solucionar prácticamente cualquier problema con tu iPad' />
     </a>
 </div>
 
