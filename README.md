@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045'>10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/todocoleccion.jpg' alt='10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961'>La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real</a></h4>
     <a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/policia-nacional-avisa-extrano-mensaje-proteccion-civil-real-2735511.jpg' alt='La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-maneras-cargar-gratis-coche-electrico-1078379'>8 maneras de cargar gratis tu coche eléctrico</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/8-maneras-cargar-gratis-coche-electrico-1078379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cargador-electrico-2732851.jpg' alt='8 maneras de cargar gratis tu coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943'>Los mineros de Ethereum gastaron 15.000 millones de dólares en tarjetas gráficas, ahora hay empresas que se las compran a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-ahora-forman-empresas-compran-2735457.jpg' alt='Los mineros de Ethereum gastaron 15.000 millones de dólares en tarjetas gráficas, ahora hay empresas que se las compran a precio de saldo' />
     </a>
 </div>
 
