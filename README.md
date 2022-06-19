@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961'>La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real</a></h4>
+    <a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/policia-nacional-avisa-extrano-mensaje-proteccion-civil-real-2735511.jpg' alt='La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949'>Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fallecen-dos-actores-serie-elegido-netflix-durante-rodaje-2735465.jpg' alt='Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943'>Los mineros de Ethereum gastaron 15.000 millones de dólares en tarjetas gráficas, ahora hay empresas que se las compran a precio de saldo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-1079943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mineros-ethereum-gastaron-15000-millones-dolares-comprar-tarjetas-graficas-ahora-forman-empresas-compran-2735457.jpg' alt='Los mineros de Ethereum gastaron 15.000 millones de dólares en tarjetas gráficas, ahora hay empresas que se las compran a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sleepfluencers-tiktok-graban-mientras-duermen-1079931'>Qué son los sleepfluencers: ganan 30.000 euros al mes en TikTok grabándose mientras duermen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sleepfluencers-tiktok-graban-mientras-duermen-1079931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/son-sleepfluencers-ganan-30000-euros-mes-tiktok-grabandose-mientras-duermen-2735447.jpg' alt='Qué son los sleepfluencers: ganan 30.000 euros al mes en TikTok grabándose mientras duermen' />
     </a>
 </div>
 
