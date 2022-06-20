@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-wifi-baratos-compatibles-alexa-1079963'>Mejores ventiladores de techo con WiFi baratos y compatibles con Alexa</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-wifi-baratos-compatibles-alexa-1079963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-techo-ikohs-create-windcalm-dc-wifi-2735575.jpg' alt='Mejores ventiladores de techo con WiFi baratos y compatibles con Alexa' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201'>La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps5-slim-2735887.jpg' alt='La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1080165'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1080165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2735775.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199'>Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/asteroide-1957099.jpg' alt='Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg' alt='Estos son los mejores móviles realme para comprar en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-11-oferta-20-junio-2022-1079053'>iPhone 11 ya es una de las opciones más baratas de Apple y apenas cuesta 500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-11-oferta-20-junio-2022-1079053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/iphone-11-128gb-549eu-2733793.jpg' alt='iPhone 11 ya es una de las opciones más baratas de Apple y apenas cuesta 500 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359'>Los 8 trucos de Chrome que deberías estar usando en tu día a día</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Los 8 trucos de Chrome que deberías estar usando en tu día a día' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-ya-realidad-limites-duplicados-subida-archivos-4-gb-descargas-rapidas-otros-1080217'>Telegram Premium ya es una realidad: límites duplicados, subida de archivos de 4 GB y descargas más rápidas entre otros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-ya-realidad-limites-duplicados-subida-archivos-4-gb-descargas-rapidas-otros-1080217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-premium-2735881.jpg' alt='Telegram Premium ya es una realidad: límites duplicados, subida de archivos de 4 GB y descargas más rápidas entre otros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971'>Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trazas-adn-1200-especies-insectos-bolsas-te-otras-hierbas-1079971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/encuentran-trazas-1200-especies-insectos-otros-invertebrados-bolsas-te-hierbas-venden-tiendas-2735593.jpg' alt='Encuentran trazas de 1.200 especies de insectos en las bolsas de té y otras hierbas que se venden en los supermercados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-viewfinity-s8-monitor-coreano-creadores-contenido-resolucion-4k-panel-ips-hdr-32-1080181'>Samsung ViewFinity S8, el monitor coreano para creadores de contenido: resolución 4K, panel IPS, HDR y hasta 32"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-viewfinity-s8-monitor-coreano-creadores-contenido-resolucion-4k-panel-ips-hdr-32-1080181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-viewfinity-s8-2735793.jpg' alt='Samsung ViewFinity S8, el monitor coreano para creadores de contenido: resolución 4K, panel IPS, HDR y hasta 32"' />
     </a>
 </div>
 
