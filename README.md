@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467'>Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-pay-cash_0.jpg' alt='Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451'>Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-14-2465771.jpg' alt='Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915'>Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hotmail-2475265.jpg' alt='Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763'>Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-2735501.jpg' alt='Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo' />
     </a>
 </div>
 
