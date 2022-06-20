@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311'>Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-2736169.jpg' alt='Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329'>Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/equipar-metralletas-robots-solucion-ucraniana-combatir-ejercito-ruso-1080301'>Equipar metralletas a los robots, la solución ucraniana para combatir al ejército ruso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/equipar-metralletas-robots-solucion-ucraniana-combatir-ejercito-ruso-1080301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/robot-metralleta-encima-2736251.jpg' alt='Equipar metralletas a los robots, la solución ucraniana para combatir al ejército ruso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-ahora-todos-comentarios-deberan-ser-aprobados-antes-publicacion-1080271'>China sigue poniendo trabas y ahora todos los comentarios deberán ser aprobados antes de su publicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-ahora-todos-comentarios-deberan-ser-aprobados-antes-publicacion-1080271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-2696777.jpg' alt='China sigue poniendo trabas y ahora todos los comentarios deberán ser aprobados antes de su publicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207'>Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-nxtpaper-10s-2698303.jpg' alt='Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-1080247'>El nuevo y polémico producto de Mercadona que generará debate: una mascarilla para niños</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-1080247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-2736055.jpg' alt='El nuevo y polémico producto de Mercadona que generará debate: una mascarilla para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249'>La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-bicicletas-esperando-semaforo-ciudad-2691411.jpg' alt='La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-compara-mejora-pliegue-pantalla-nuevo-galaxy-z-fold-4-1080227'>Una filtración compara la mejora en el pliegue de la pantalla del nuevo Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-compara-mejora-pliegue-pantalla-nuevo-galaxy-z-fold-4-1080227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Una filtración compara la mejora en el pliegue de la pantalla del nuevo Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255'>Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-highlight-search-2736019.jpg' alt='Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda' />
     </a>
 </div>
 
