@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363'>Cómo publicar en la web un documento desde Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo publicar en la web un documento desde Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335'>La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345'>Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2736323.jpg' alt='Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311'>Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-2736169.jpg' alt='Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329'>Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/equipar-metralletas-robots-solucion-ucraniana-combatir-ejercito-ruso-1080301'>Equipar metralletas a los robots, la solución ucraniana para combatir al ejército ruso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/equipar-metralletas-robots-solucion-ucraniana-combatir-ejercito-ruso-1080301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/robot-metralleta-encima-2736251.jpg' alt='Equipar metralletas a los robots, la solución ucraniana para combatir al ejército ruso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-ahora-todos-comentarios-deberan-ser-aprobados-antes-publicacion-1080271'>China sigue poniendo trabas y ahora todos los comentarios deberán ser aprobados antes de su publicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-sigue-poniendo-trabas-ahora-todos-comentarios-deberan-ser-aprobados-antes-publicacion-1080271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/china-sigue-poniendo-trabas-mundo-internet-ahora-turno-streamers-menores-2696777.jpg' alt='China sigue poniendo trabas y ahora todos los comentarios deberán ser aprobados antes de su publicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207'>Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-nxtpaper-10s-2698303.jpg' alt='Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros' />
     </a>
 </div>
 
