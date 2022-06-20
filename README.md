@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249'>La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-bicicletas-esperando-semaforo-ciudad-2691411.jpg' alt='La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-compara-mejora-pliegue-pantalla-nuevo-galaxy-z-fold-4-1080227'>Una filtración compara la mejora en el pliegue de la pantalla del nuevo Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-compara-mejora-pliegue-pantalla-nuevo-galaxy-z-fold-4-1080227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Una filtración compara la mejora en el pliegue de la pantalla del nuevo Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255'>Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-highlight-search-2736019.jpg' alt='Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201'>La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps5-slim-2735887.jpg' alt='La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199'>Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/asteroide-1957099.jpg' alt='Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-11-oferta-20-junio-2022-1079053'>iPhone 11 ya es una de las opciones más baratas de Apple y apenas cuesta 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-11-oferta-20-junio-2022-1079053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/iphone-11-128gb-549eu-2733793.jpg' alt='iPhone 11 ya es una de las opciones más baratas de Apple y apenas cuesta 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-ya-realidad-limites-duplicados-subida-archivos-4-gb-descargas-rapidas-otros-1080217'>Telegram Premium ya es una realidad: límites duplicados, subida de archivos de 4 GB y descargas más rápidas entre otros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telegram-premium-ya-realidad-limites-duplicados-subida-archivos-4-gb-descargas-rapidas-otros-1080217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-premium-2735881.jpg' alt='Telegram Premium ya es una realidad: límites duplicados, subida de archivos de 4 GB y descargas más rápidas entre otros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-viewfinity-s8-monitor-coreano-creadores-contenido-resolucion-4k-panel-ips-hdr-32-1080181'>Samsung ViewFinity S8, el monitor coreano para creadores de contenido: resolución 4K, panel IPS, HDR y hasta 32"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-viewfinity-s8-monitor-coreano-creadores-contenido-resolucion-4k-panel-ips-hdr-32-1080181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-viewfinity-s8-2735793.jpg' alt='Samsung ViewFinity S8, el monitor coreano para creadores de contenido: resolución 4K, panel IPS, HDR y hasta 32"' />
     </a>
 </div>
 
