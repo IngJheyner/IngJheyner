@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451'>Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-14-2465771.jpg' alt='Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comienza-llegar-google-tv-opciones-deseadas-1080435'>Comienza a llegar a Google TV una de las opciones más deseadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comienza-llegar-google-tv-opciones-deseadas-1080435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Comienza a llegar a Google TV una de las opciones más deseadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421'>Todo lo que sabemos de las próximas gafas AR/VR de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todo-sabemos-proximas-gafas-ar-vr-google-2736529.jpg' alt='Todo lo que sabemos de las próximas gafas AR/VR de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763'>Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-2735501.jpg' alt='Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evitar-ira-gamers-amd-estan-planteando-cambiar-requisitos-nueva-generacion-1080443'>Para evitar la ira de los gamers en AMD están planteando cambiar los requisitos de su nueva generación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evitar-ira-gamers-amd-estan-planteando-cambiar-requisitos-nueva-generacion-1080443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='Para evitar la ira de los gamers en AMD están planteando cambiar los requisitos de su nueva generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuales-son-datos-piratas-informaticos-quieren-realmente-robar-1080427'>Cuáles son los datos que los piratas informáticos quieren realmente robar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuales-son-datos-piratas-informaticos-quieren-realmente-robar-1080427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciberespias-indios-infectan-propio-malware-descubre-quien-estaban-espiando-2584529.jpg' alt='Cuáles son los datos que los piratas informáticos quieren realmente robar' />
     </a>
 </div>
 
