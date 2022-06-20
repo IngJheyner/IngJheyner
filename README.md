@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-1080381'>Cuál es el animal mas rápido del mundo y qué velocidad es capaz de alcanzar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-1080381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-2736401.jpg' alt='Cuál es el animal mas rápido del mundo y qué velocidad es capaz de alcanzar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405'>Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335'>La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345'>Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2736323.jpg' alt='Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones' />
     </a>
 </div>
 
