@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523'>iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/garra-pelicula-mas-vista-netflix-juancho-hernangomez-alan-sandler-1080517'>Garra, la película más vista en Netflix en todo el mundo, está protagonizada por un deportista español de altura</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/garra-pelicula-mas-vista-netflix-juancho-hernangomez-alan-sandler-1080517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garra-pelicula-vista-netflix-todo-mundo-protagonizada-deportista-espanol-altura-2736671.jpg' alt='Garra, la película más vista en Netflix en todo el mundo, está protagonizada por un deportista español de altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-1080497'>Los Huawei FreeBuds Pro 2 se dejan ver en detalle antes de su lanzamiento oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-1080497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233877.jpeg' alt='Los Huawei FreeBuds Pro 2 se dejan ver en detalle antes de su lanzamiento oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467'>Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-pay-cash_0.jpg' alt='Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451'>Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-14-2465771.jpg' alt='Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comienza-llegar-google-tv-opciones-deseadas-1080435'>Comienza a llegar a Google TV una de las opciones más deseadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comienza-llegar-google-tv-opciones-deseadas-1080435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Comienza a llegar a Google TV una de las opciones más deseadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421'>Todo lo que sabemos de las próximas gafas AR/VR de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todo-sabemos-proximas-gafas-ar-vr-google-2736529.jpg' alt='Todo lo que sabemos de las próximas gafas AR/VR de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915'>Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hotmail-2475265.jpg' alt='Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas' />
     </a>
 </div>
 
