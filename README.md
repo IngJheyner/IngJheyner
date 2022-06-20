@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553'>Abacus, el mini teclado biodegradable con un PC dentro, que ejecuta Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/abacus-mini-teclado-pc-dentro-ejecuta-windows-10-2736779.jpg' alt='Abacus, el mini teclado biodegradable con un PC dentro, que ejecuta Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477'>Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dormir-ventilador-encendido-toda-noche-podria-no-ser-tan-buena-idea-como-pensabas-1080537'>Dormir con el ventilador encendido toda la noche podría no ser tan buena idea como pensabas</a></h4>
     <a href='https://computerhoy.com/noticias/life/dormir-ventilador-encendido-toda-noche-podria-no-ser-tan-buena-idea-como-pensabas-1080537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-2736697.jpg' alt='Dormir con el ventilador encendido toda la noche podría no ser tan buena idea como pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523'>iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet' />
     </a>
 </div>
 
