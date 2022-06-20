@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-1080381'>Cuál es el animal mas rápido del mundo y qué velocidad es capaz de alcanzar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-1080381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-animal-rapido-mundo-velocidad-capaz-alcanzar-2736401.jpg' alt='Cuál es el animal mas rápido del mundo y qué velocidad es capaz de alcanzar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421'>Todo lo que sabemos de las próximas gafas AR/VR de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-proximas-gafas-ar-vr-google-1080421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/todo-sabemos-proximas-gafas-ar-vr-google-2736529.jpg' alt='Todo lo que sabemos de las próximas gafas AR/VR de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405'>Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915'>Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-cuenta-correo-hotmail-868915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hotmail-2475265.jpg' alt='Cómo recuperar en 2022 esa vieja cuenta de correo Hotmail que hace años que no utilizas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/testea-microsoft-privacidad-windows-11-software-hardware-usas-1080373'>Así testea Microsoft la privacidad en tu Windows 11 y el software y hardware que usas </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/testea-microsoft-privacidad-windows-11-software-hardware-usas-1080373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Así testea Microsoft la privacidad en tu Windows 11 y el software y hardware que usas ' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763'>Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-1077763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/canta-fuera-ducha-estas-aplicaciones-moviles-android-tienes-probar-ya-mismo-2735501.jpg' alt='Canta fuera de la ducha con estas aplicaciones para móviles Android que tienes que probar ya mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363'>Cómo publicar en la web un documento desde Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo publicar en la web un documento desde Google Docs' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evitar-ira-gamers-amd-estan-planteando-cambiar-requisitos-nueva-generacion-1080443'>Para evitar la ira de los gamers en AMD están planteando cambiar los requisitos de su nueva generación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evitar-ira-gamers-amd-estan-planteando-cambiar-requisitos-nueva-generacion-1080443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='Para evitar la ira de los gamers en AMD están planteando cambiar los requisitos de su nueva generación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335'>La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/extensiones-google-chrome-podrian-estar-espiandote-te-estes-dando-cuenta-1080335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='La extensiones de Google Chrome podrían estar espiándote sin que te estés dando cuenta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuales-son-datos-piratas-informaticos-quieren-realmente-robar-1080427'>Cuáles son los datos que los piratas informáticos quieren realmente robar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuales-son-datos-piratas-informaticos-quieren-realmente-robar-1080427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ciberespias-indios-infectan-propio-malware-descubre-quien-estaban-espiando-2584529.jpg' alt='Cuáles son los datos que los piratas informáticos quieren realmente robar' />
     </a>
 </div>
 
