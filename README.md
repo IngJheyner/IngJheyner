@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405'>Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-google-quiere-conquistar-usuarios-presupuesto-ajustado-1080405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='Así es el móvil con el que Google quiere conquistar a los usuarios de presupuesto más ajustado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/testea-microsoft-privacidad-windows-11-software-hardware-usas-1080373'>Así testea Microsoft la privacidad en tu Windows 11 y el software y hardware que usas </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/testea-microsoft-privacidad-windows-11-software-hardware-usas-1080373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2620191.jpg' alt='Así testea Microsoft la privacidad en tu Windows 11 y el software y hardware que usas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363'>Cómo publicar en la web un documento desde Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-publicar-web-documento-google-docs-1080363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo publicar en la web un documento desde Google Docs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345'>Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-moviles-poco-x4-gt-f4-filtrados-especificaciones-1080345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2736323.jpg' alt='Nuevos móviles POCO X4 GT y F4 filtrados con sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311'>Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-1080311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-2736169.jpg' alt='Así es como el verano se ha transformado en una "temporada de peligro" para algunos científicos y sus consecuencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329'>Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bajar-1000-dolares-cuanto-podria-caer-precio-ethereum-1080329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Tras bajar de los 1.000 dólares: ¿cuánto más podría caer el precio de Ethereum?' />
     </a>
 </div>
 
