@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1080165'>38 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/38-noticias-tecnologia-comenzar-manana-informado-ultimo-1080165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/38-noticias-tecnologia-comenzar-manana-informado-ultimo-2735775.jpg' alt='38 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg' alt='Estos son los mejores móviles realme para comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359'>Los 8 trucos de Chrome que deberías estar usando en tu día a día</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/8-trucos-chrome-deberias-estar-usando-dia-dia-1075359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Los 8 trucos de Chrome que deberías estar usando en tu día a día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045'>10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-errores-no-debes-cometer-todocoleccion-hora-vender-321045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/todocoleccion.jpg' alt='10 errores que debes evitar en Todocolección a la hora de comprar y vender en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961'>La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real</a></h4>
-    <a href='https://computerhoy.com/noticias/life/policia-nacional-extrano-mensaje-proteccion-civil-real-1079961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/policia-nacional-avisa-extrano-mensaje-proteccion-civil-real-2735511.jpg' alt='La Policía Nacional avisa sobre un extraño mensaje de Protección Civil, que es real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949'>Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fallecen-dos-actores-serie-chosen-one-netflix-durante-rodaje-1079949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fallecen-dos-actores-serie-elegido-netflix-durante-rodaje-2735465.jpg' alt='Fallecen dos actores de la serie The Chosen One de Netflix durante el rodaje' />
     </a>
 </div>
 
