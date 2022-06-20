@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207'>Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtpaper-10s-oferta-20-junio-2022-1077207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-nxtpaper-10s-2698303.jpg' alt='Una de las mejores tablets para escribir y dibujar que hemos probado baja de precio y roza los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-1080247'>El nuevo y polémico producto de Mercadona que generará debate: una mascarilla para niños</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-1080247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-polemico-producto-mercadona-generara-debate-mascarilla-ninos-2736055.jpg' alt='El nuevo y polémico producto de Mercadona que generará debate: una mascarilla para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249'>La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-aclara-dudas-circunstancias-coche-no-tiene-preferencia-bicicleta-1080249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/personas-bicicletas-esperando-semaforo-ciudad-2691411.jpg' alt='La DGT aclara dudas: las circunstancias en las que el coche NO tiene preferencia sobre la bicicleta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255'>Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-lanzara-proximamente-nueva-funcion-destacados-barra-busqueda-1080255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-highlight-search-2736019.jpg' alt='Microsoft lanzará próximamente su nueva función de destacados en la barra de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201'>La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ps5-delgada-planeta-2-centimetros-refrigerada-agua-1080201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps5-slim-2735887.jpg' alt='La PS5 más delgada del planeta: 2 centímetros y refrigerada por agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199'>Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hera-mision-espacial-esa-defender-planeta-asteroides-1080199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/asteroide-1957099.jpg' alt='Así es Hera, la misión espacial de la ESA para defender el planeta de asteroides' />
     </a>
 </div>
 
