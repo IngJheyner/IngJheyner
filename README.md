@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477'>Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541'>La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ciberdelincuente-2736701.jpg' alt='La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espacial-espanol-encendido-motores-video-1080539'>MIURA-1, el primer cohete espacial español, ya ha encendido los motores en la pista de lanzamiento (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espacial-espanol-encendido-motores-video-1080539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='MIURA-1, el primer cohete espacial español, ya ha encendido los motores en la pista de lanzamiento (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dormir-ventilador-encendido-toda-noche-podria-no-ser-tan-buena-idea-como-pensabas-1080537'>Dormir con el ventilador encendido toda la noche podría no ser tan buena idea como pensabas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dormir-ventilador-encendido-toda-noche-podria-no-ser-tan-buena-idea-como-pensabas-1080537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-2736697.jpg' alt='Dormir con el ventilador encendido toda la noche podría no ser tan buena idea como pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523'>iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ios-16-promete-acabar-elementos-molestos-hora-navegar-internet-1080523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='iOS 16 promete acabar con uno de los elementos más molestos a la hora de navegar por internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/garra-pelicula-mas-vista-netflix-juancho-hernangomez-alan-sandler-1080517'>Garra, la película más vista en Netflix en todo el mundo, está protagonizada por un deportista español de altura</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/garra-pelicula-mas-vista-netflix-juancho-hernangomez-alan-sandler-1080517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garra-pelicula-vista-netflix-todo-mundo-protagonizada-deportista-espanol-altura-2736671.jpg' alt='Garra, la película más vista en Netflix en todo el mundo, está protagonizada por un deportista español de altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-1080497'>Los Huawei FreeBuds Pro 2 se dejan ver en detalle antes de su lanzamiento oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-1080497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/huawei-freebuds-pro-2233877.jpeg' alt='Los Huawei FreeBuds Pro 2 se dejan ver en detalle antes de su lanzamiento oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467'>Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-monopoliza-samsung-pay-android-solo-funcionara-moviles-relojes-galaxy-1080467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-pay-cash_0.jpg' alt='Samsung monopoliza Samsung Pay para Android, solo funcionará en sus móviles y relojes Galaxy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451'>Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-acerca-pantallas-nuevos-iphone-14-1080451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-14-2465771.jpg' alt='Filtrados todos los detalles acerca de las pantallas de los nuevos iPhone 14' />
     </a>
 </div>
 
