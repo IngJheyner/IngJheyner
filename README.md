@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647'>Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-deshacerse-facilmente-aceite-usado-tirarlo-tuberias-ni-meterlo-bote-2736875.jpg' alt='Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561'>Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres</a></h4>
     <a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llega-espana-gap-flota-furgonetas-recargan-coche-electrico-importar-donde-te-encuentres-2736787.jpg' alt='Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553'>Abacus, el mini teclado biodegradable con un PC dentro, que ejecuta Windows 10</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553'>Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/abacus-mini-teclado-pc-dentro-ejecuta-windows-10-2736779.jpg' alt='Abacus, el mini teclado biodegradable con un PC dentro, que ejecuta Windows 10' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/abacus-mini-teclado-pc-dentro-ejecuta-windows-10-2736779.jpg' alt='Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541'>La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ciberdelincuente-2736701.jpg' alt='La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espacial-espanol-encendido-motores-video-1080539'>MIURA-1, el primer cohete espacial español, ya ha encendido los motores en la pista de lanzamiento (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/miura-1-primer-cohete-espacial-espanol-encendido-motores-video-1080539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/miura-1-primer-cohete-espanol-viajara-espacio-2531433.jpg' alt='MIURA-1, el primer cohete espacial español, ya ha encendido los motores en la pista de lanzamiento (vídeo)' />
     </a>
 </div>
 
