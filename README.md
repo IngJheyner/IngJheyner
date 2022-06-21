@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955'>Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-xperia-1-iv-2733251.jpg' alt='Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975'>Cómo añadir nuevas fuentes en Google Docs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo añadir nuevas fuentes en Google Docs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927'>La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/adam-project-2673717.jpg' alt='La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887'>Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-2737321.jpg' alt='Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google' />
     </a>
 </div>
 
