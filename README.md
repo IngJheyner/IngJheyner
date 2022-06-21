@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817'>Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/volvo-nvidia-asocian-crear-plataforma-camiones-autonomos.jpg' alt='Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777'>Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-2737035.jpg' alt='Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-apple-tiene-problema-muy-serio-bateria-1080815'>El AirTag de Apple tiene un problema muy serio con su batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airtag-apple-tiene-problema-muy-serio-bateria-1080815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg' alt='El AirTag de Apple tiene un problema muy serio con su batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-xiaomi-aiot-nueva-band-7-portatil-convertible-tv-a2-cuarta-generacion-patinete-1080699'>Desembarco Xiaomi AIoT: nueva Band 7, un portátil convertible, TV A2 y su cuarta generación de patinete</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-xiaomi-aiot-nueva-band-7-portatil-convertible-tv-a2-cuarta-generacion-patinete-1080699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-xiaomi-2022-2737129.jpg' alt='Desembarco Xiaomi AIoT: nueva Band 7, un portátil convertible, TV A2 y su cuarta generación de patinete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791'>Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/comfee-enfriador-2737087.jpg' alt='Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-1080753'>Un spray hecho a base de plantas para preservar alimentos puede marcar el fin de los plásticos para envasar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-1080753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-2737011.jpg' alt='Un spray hecho a base de plantas para preservar alimentos puede marcar el fin de los plásticos para envasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitos-coches-electricos-deberias-dejar-creer-1080755'>Mitos sobre los coches eléctricos que deberías dejar de creer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mitos-coches-electricos-deberias-dejar-creer-1080755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Mitos sobre los coches eléctricos que deberías dejar de creer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677'>Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spaceshipone-2736941.jpg' alt='Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-index-s2-oferta-13-junio-2022-1074623'>Garmin no solo tiene relojes deportivos: su báscula inteligente con medidor de grasa está más barata que nunca en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-index-s2-oferta-13-junio-2022-1074623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-index-s2-2726235.jpg' alt='Garmin no solo tiene relojes deportivos: su báscula inteligente con medidor de grasa está más barata que nunca en Amazon' />
     </a>
 </div>
 
