@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-supera-stranger-things-twitter-1081045'>Stranger Things era la serie más comentada en redes sociales... hasta que volvió Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-supera-stranger-things-twitter-1081045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos-jon-nieve.jpg' alt='Stranger Things era la serie más comentada en redes sociales... hasta que volvió Juego de Tronos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041'>Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_4.jpg' alt='Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargar-movil-utilizando-teclado-macbook-seria-posible-gracias-prepara-apple-1081021'>Cargar tu móvil utilizando teclado del MacBook sería posible gracias a lo que prepara Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cargar-movil-utilizando-teclado-macbook-seria-posible-gracias-prepara-apple-1081021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538053.jpg' alt='Cargar tu móvil utilizando teclado del MacBook sería posible gracias a lo que prepara Apple' />
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065'>El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planchar-ropa-2737693.jpg' alt='El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955'>Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-xperia-1-iv-2733251.jpg' alt='Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio' />
+    <h4><a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061'>¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sacar-codo-ventanilla-coche-2737687.jpg' alt='¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975'>Cómo añadir nuevas fuentes en Google Docs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo añadir nuevas fuentes en Google Docs' />
+    <h4><a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063'>El primer viaje real de casa al trabajo en coche volador (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-viaje-real-casa-trabajo-coche-volador-2737691.jpg' alt='El primer viaje real de casa al trabajo en coche volador (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933'>Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-canon-zoemini-s2-verano-descuento-1080993'>Esta cámara Canon instantánea para el verano imprime fotos y baja a solo 148€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-canon-zoemini-s2-verano-descuento-1080993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/camara-canon-instantanea-verano-baja-solo-148eu-2737531.jpg' alt='Esta cámara Canon instantánea para el verano imprime fotos y baja a solo 148€' />
     </a>
 </div>
 
