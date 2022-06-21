@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797'>4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/4k-hdr-android-smart-tv-tcl-50-ya-cuesta-menos-300eu-2737093.jpg' alt='4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857'>Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar</a></h4>
+    <a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/iphone-3g.jpg' alt='Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-comienzan-ver-claro-ganador-actual-crisis-criptomonedas-1080807'>Expertos comienzan a ver un claro ganador en la actual crisis de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-comienzan-ver-claro-ganador-actual-crisis-criptomonedas-1080807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='Expertos comienzan a ver un claro ganador en la actual crisis de las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787'>Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg' alt='Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833'>Ya se puede jugar a DOOM en un bloque de LEGO</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/doom-lego-2737217.jpg' alt='Ya se puede jugar a DOOM en un bloque de LEGO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-proximos-auriculares-audio-espacial-sony-ps5-1080847'>Filtrados los próximos auriculares con audio espacial de Sony para PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-proximos-auriculares-audio-espacial-sony-ps5-1080847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-h9-2737215.jpg' alt='Filtrados los próximos auriculares con audio espacial de Sony para PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817'>Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/volvo-nvidia-asocian-crear-plataforma-camiones-autonomos.jpg' alt='Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777'>Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-2737035.jpg' alt='Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio' />
     </a>
 </div>
 
