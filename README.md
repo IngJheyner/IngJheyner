@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2736889.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561'>Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres</a></h4>
     <a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llega-espana-gap-flota-furgonetas-recargan-coche-electrico-importar-donde-te-encuentres-2736787.jpg' alt='Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553'>Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/abacus-mini-teclado-pc-dentro-ejecuta-windows-10-2736779.jpg' alt='Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10' />
     </a>
 </div>
 
