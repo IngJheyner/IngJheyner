@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-supera-stranger-things-twitter-1081045'>Stranger Things era la serie más comentada en redes sociales... hasta que volvió Juego de Tronos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-supera-stranger-things-twitter-1081045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/juego-tronos-jon-nieve.jpg' alt='Stranger Things era la serie más comentada en redes sociales... hasta que volvió Juego de Tronos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargar-movil-utilizando-teclado-macbook-seria-posible-gracias-prepara-apple-1081021'>Cargar tu móvil utilizando teclado del MacBook sería posible gracias a lo que prepara Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cargar-movil-utilizando-teclado-macbook-seria-posible-gracias-prepara-apple-1081021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538053.jpg' alt='Cargar tu móvil utilizando teclado del MacBook sería posible gracias a lo que prepara Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955'>Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deberias-evitar-siempre-puedas-modo-silencio-movil-estudio-1080955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-xperia-1-iv-2733251.jpg' alt='Por qué deberías evitar siempre que puedas el modo silencio del móvil, según un estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933'>Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-isla-grande-mundo-extension-tiene-1080901'>Cuál es la isla más grande del mundo y qué extensión tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-isla-grande-mundo-extension-tiene-1080901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-isla-grande-mundo-extension-tiene-2737377.jpg' alt='Cuál es la isla más grande del mundo y qué extensión tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927'>La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/adam-project-2673717.jpg' alt='La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)' />
     </a>
 </div>
 
