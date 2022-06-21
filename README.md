@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/viernes-24-junio-alinean-literalmente-5-planetas-podras-verlo-1080693'>Este viernes 24 de junio se alinean, literalmente, 5 planetas, y así podrás verlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/viernes-24-junio-alinean-literalmente-5-planetas-podras-verlo-1080693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alineacion-5-planetas-24-junio-2022-2736955.jpg' alt='Este viernes 24 de junio se alinean, literalmente, 5 planetas, y así podrás verlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791'>Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/comfee-enfriador-2737087.jpg' alt='Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-1080753'>Un spray hecho a base de plantas para preservar alimentos puede marcar el fin de los plásticos para envasar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-1080753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spray-hecho-base-plantas-preservar-alimentos-puede-marcar-fin-plasticos-envasar-2737011.jpg' alt='Un spray hecho a base de plantas para preservar alimentos puede marcar el fin de los plásticos para envasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mitos-coches-electricos-deberias-dejar-creer-1080755'>Mitos sobre los coches eléctricos que deberías dejar de creer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mitos-coches-electricos-deberias-dejar-creer-1080755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/estas-son-autonomias-reales-principales-coches-electricos-autopista-2584221.jpg' alt='Mitos sobre los coches eléctricos que deberías dejar de creer' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estaciones-nucleares-portatiles-desalinizacion-luchar-escasez-agua-1080671'>Estaciones nucleares portátiles de desalinización para luchar contra la escasez de agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estaciones-nucleares-portatiles-desalinizacion-luchar-escasez-agua-1080671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sequia-2497527.jpg' alt='Estaciones nucleares portátiles de desalinización para luchar contra la escasez de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2736889.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-index-s2-oferta-13-junio-2022-1074623'>Garmin no solo tiene relojes deportivos: su báscula inteligente con medidor de grasa está más barata que nunca en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-index-s2-oferta-13-junio-2022-1074623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-index-s2-2726235.jpg' alt='Garmin no solo tiene relojes deportivos: su báscula inteligente con medidor de grasa está más barata que nunca en Amazon' />
     </a>
 </div>
 
