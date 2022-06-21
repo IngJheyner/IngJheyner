@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081'>Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/autobus-2264929.jpg' alt='Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075'>Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-microsoft-sony-nvidia-otras-fundan-metaverse-standards-forum-crear-estandares-metaverso-2737701.jpg' alt='Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061'>¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sacar-codo-ventanilla-coche-2737687.jpg' alt='¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063'>El primer viaje real de casa al trabajo en coche volador (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-viaje-real-casa-trabajo-coche-volador-2737691.jpg' alt='El primer viaje real de casa al trabajo en coche volador (vídeo)' />
     </a>
 </div>
 
