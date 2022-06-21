@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/veto-occidental-rusia-ha-hecho-putin-responda-bloqueando-windows-10-11-1080919'>El veto occidental a Rusia ha hecho que Putin responda bloqueando Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/veto-occidental-rusia-ha-hecho-putin-responda-bloqueando-windows-10-11-1080919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='El veto occidental a Rusia ha hecho que Putin responda bloqueando Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-piel-viva-humana-creada-robots-1080867'>Así es como funciona la piel "viva" humana creada para los robots </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-piel-viva-humana-creada-robots-1080867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/gomaespuma-inteligente-robots-2402681.jpg' alt='Así es como funciona la piel "viva" humana creada para los robots ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797'>4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/4k-hdr-android-smart-tv-tcl-50-ya-cuesta-menos-300eu-2737093.jpg' alt='4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857'>Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar</a></h4>
     <a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/iphone-3g.jpg' alt='Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-comienzan-ver-claro-ganador-actual-crisis-criptomonedas-1080807'>Expertos comienzan a ver un claro ganador en la actual crisis de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-comienzan-ver-claro-ganador-actual-crisis-criptomonedas-1080807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2600639.jpg' alt='Expertos comienzan a ver un claro ganador en la actual crisis de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787'>Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg' alt='Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833'>Ya se puede jugar a DOOM en un bloque de LEGO</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/doom-lego-2737217.jpg' alt='Ya se puede jugar a DOOM en un bloque de LEGO' />
     </a>
 </div>
 
