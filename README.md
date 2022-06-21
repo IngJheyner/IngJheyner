@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677'>Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spaceshipone-2736941.jpg' alt='Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estaciones-nucleares-portatiles-desalinizacion-luchar-escasez-agua-1080671'>Estaciones nucleares portátiles de desalinización para luchar contra la escasez de agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estaciones-nucleares-portatiles-desalinizacion-luchar-escasez-agua-1080671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sequia-2497527.jpg' alt='Estaciones nucleares portátiles de desalinización para luchar contra la escasez de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Mejores móviles para hacer fotos: estos son los que mejores cámaras tienen en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433'>Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cargador-usb-c-2736525.jpg' alt='Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647'>Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-deshacerse-facilmente-aceite-usado-tirarlo-tuberias-ni-meterlo-bote-2736875.jpg' alt='Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561'>Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/e-gap-flota-furgonetas-recargan-coche-electrico-1080561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llega-espana-gap-flota-furgonetas-recargan-coche-electrico-importar-donde-te-encuentres-2736787.jpg' alt='Llega a España E-Gap, la flota de furgonetas que recargan tu coche eléctrico sin importar donde te encuentres' />
     </a>
 </div>
 
