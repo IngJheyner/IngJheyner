@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887'>Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-2737321.jpg' alt='Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797'>4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/4k-hdr-android-smart-tv-tcl-50-ya-cuesta-menos-300eu-2737093.jpg' alt='4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857'>Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar</a></h4>
-    <a href='https://computerhoy.com/noticias/ingeniero-apple-explica-primer-iphone-no-permitia-copiar-pegar-1080857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/iphone-3g.jpg' alt='Un ingeniero de Apple explica por qué el primer iPhone no permitía copiar y pegar' />
     </a>
 </div>
 
