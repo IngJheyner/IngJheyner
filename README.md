@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975'>Cómo añadir nuevas fuentes en Google Docs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-anadir-nuevas-fuentes-google-docs-1080975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-docs.jpg' alt='Cómo añadir nuevas fuentes en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933'>Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887'>Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-2737321.jpg' alt='Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador' />
     </a>
 </div>
 
