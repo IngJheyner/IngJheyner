@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787'>Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/descubren-agujero-negro-insaciable-capaz-devorar-planeta-tamano-tierra-cada-segundo-1080787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/agujero-negro-2151205.jpg' alt='Descubren un agujero negro insaciable capaz de devorar un planeta del tamaño de la Tierra cada segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833'>Ya se puede jugar a DOOM en un bloque de LEGO</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ya-puede-jugar-doom-bloque-lego-1080833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/doom-lego-2737217.jpg' alt='Ya se puede jugar a DOOM en un bloque de LEGO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-proximos-auriculares-audio-espacial-sony-ps5-1080847'>Filtrados los próximos auriculares con audio espacial de Sony para PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-proximos-auriculares-audio-espacial-sony-ps5-1080847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-h9-2737215.jpg' alt='Filtrados los próximos auriculares con audio espacial de Sony para PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817'>Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje</a></h4>
     <a href='https://computerhoy.com/noticias/motor/volvo-ya-prueba-camiones-hidrogeno-1000-km-autonomia-solo-15-minutos-repostaje-1080817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/volvo-nvidia-asocian-crear-plataforma-camiones-autonomos.jpg' alt='Volvo ya prueba camiones con hidrógeno: 1.000 km de autonomía, solo 15 minutos de repostaje' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777'>Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-1080777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/consejos-deberias-seguir-quieres-ser-astronauta-quien-ya-ha-viajado-espacio-2737035.jpg' alt='Los consejos que deberías seguir si quieres ser astronauta, según quien ya ha viajado al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airtag-apple-tiene-problema-muy-serio-bateria-1080815'>El AirTag de Apple tiene un problema muy serio con su batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airtag-apple-tiene-problema-muy-serio-bateria-1080815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg' alt='El AirTag de Apple tiene un problema muy serio con su batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-xiaomi-aiot-nueva-band-7-portatil-convertible-tv-a2-cuarta-generacion-patinete-1080699'>Desembarco Xiaomi AIoT: nueva Band 7, un portátil convertible, TV A2 y su cuarta generación de patinete</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-xiaomi-aiot-nueva-band-7-portatil-convertible-tv-a2-cuarta-generacion-patinete-1080699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-xiaomi-2022-2737129.jpg' alt='Desembarco Xiaomi AIoT: nueva Band 7, un portátil convertible, TV A2 y su cuarta generación de patinete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791'>Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/preparate-proxima-ola-calor-enfriador-aire-lidl-mitad-precio-1080791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/comfee-enfriador-2737087.jpg' alt='Prepárate para la próxima ola de calor con el enfriador de aire de Lidl a mitad de precio' />
     </a>
 </div>
 
