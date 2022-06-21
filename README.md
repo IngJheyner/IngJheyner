@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2736889.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433'>Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cargador-usb-c-2736525.jpg' alt='Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647'>Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-deshacerse-facilmente-aceite-usado-1080647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-deshacerse-facilmente-aceite-usado-tirarlo-tuberias-ni-meterlo-bote-2736875.jpg' alt='Cómo deshacerse fácilmente del aceite usado sin tirarlo por las tuberías ni meterlo en un bote' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553'>Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/abacus-mini-teclado-biodegradable-pc-dentro-ejecuta-windows-10-1080553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/abacus-mini-teclado-pc-dentro-ejecuta-windows-10-2736779.jpg' alt='Abacus, el miniteclado biodegradable con un PC dentro, que ejecuta Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477'>Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-1080477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-redmi-note-11-pro-2654767.jpg' alt='Pantalla a 120 Hz, cámara de 108 MP y carga ultrarrápida a 67W: el Xiaomi Redmi Note 11 Pro por poco más de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541'>La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-envio-masivo-correos-extorsion-ni-piques-ni-pagues-1080541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ciberdelincuente-2736701.jpg' alt='La Guardia Civil alerta del envío masivo de correos de extorsión: ni piques ni pagues' />
     </a>
 </div>
 
