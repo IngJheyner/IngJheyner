@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933'>Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-batalla-megapixeles-moviles-fabricando-sensores-100-mpx-1080933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-xperia-pro-1-llegaria-camara-sensor-1-pulgada-2512289.jpg' alt='Sony se sube al carro de la batalla de megapixeles en móviles fabricando sensores de 100 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-isla-grande-mundo-extension-tiene-1080901'>Cuál es la isla más grande del mundo y qué extensión tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-isla-grande-mundo-extension-tiene-1080901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-isla-grande-mundo-extension-tiene-2737377.jpg' alt='Cuál es la isla más grande del mundo y qué extensión tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927'>La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sorprendente-lista-10-peliculas-vistas-netflix-solo-cada-mil-recordara-numero-1-1080927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/adam-project-2673717.jpg' alt='La sorprendente lista de las 10 películas más vistas de Netflix (solo uno de cada mil recordará la número 1)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887'>Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-1080887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-wallet-nueva-aplicacion-compania-trata-hacer-sombra-version-google-2737321.jpg' alt='Samsung Wallet: así es la nueva aplicación de la compañía que trata de hacer sombra a la versión de Google' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655'>Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-mi-ip-como-saber-direccion-ip-publica-privada-ordenador-1025655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/web-30-nueva-internet-confunde-elon-musk-fundador-twitter-2568631.jpg' alt='Cuál es mi IP en 2022: cómo saber la dirección IP pública y privada de un ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/veto-occidental-rusia-ha-hecho-putin-responda-bloqueando-windows-10-11-1080919'>El veto occidental a Rusia ha hecho que Putin responda bloqueando Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/veto-occidental-rusia-ha-hecho-putin-responda-bloqueando-windows-10-11-1080919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='El veto occidental a Rusia ha hecho que Putin responda bloqueando Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-piel-viva-humana-creada-robots-1080867'>Así es como funciona la piel "viva" humana creada para los robots </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-piel-viva-humana-creada-robots-1080867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/gomaespuma-inteligente-robots-2402681.jpg' alt='Así es como funciona la piel "viva" humana creada para los robots ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797'>4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-50bp615-oferta-21-junio-2022-1080797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/4k-hdr-android-smart-tv-tcl-50-ya-cuesta-menos-300eu-2737093.jpg' alt='4K, HDR y con Android: esta Smart TV TCL de 50 pulgadas ya cuesta menos de 300€' />
     </a>
 </div>
 
