@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/viernes-24-junio-alinean-literalmente-5-planetas-podras-verlo-1080693'>Este viernes 24 de junio se alinean, literalmente, 5 planetas, y así podrás verlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/viernes-24-junio-alinean-literalmente-5-planetas-podras-verlo-1080693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alineacion-5-planetas-24-junio-2022-2736955.jpg' alt='Este viernes 24 de junio se alinean, literalmente, 5 planetas, y así podrás verlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677'>Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spaceshipone-2736941.jpg' alt='Hace ya 18 años fue el primer vuelo espacial privado, SpaceShipOne' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1080649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2736889.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433'>Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-cargador-usb-c-doble-apple-1080433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cargador-usb-c-2736525.jpg' alt='Apple ya vende su primer cargador con 2 USB-C pero estos modelos son más potentes y baratos' />
     </a>
 </div>
 
