@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075'>Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-microsoft-sony-nvidia-otras-fundan-metaverse-standards-forum-crear-estandares-metaverso-2737701.jpg' alt='Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041'>Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_4.jpg' alt='Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063'>El primer viaje real de casa al trabajo en coche volador (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/primer-viaje-real-casa-trabajo-coche-volador-video-1081063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/primer-viaje-real-casa-trabajo-coche-volador-2737691.jpg' alt='El primer viaje real de casa al trabajo en coche volador (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-canon-zoemini-s2-verano-descuento-1080993'>Esta cámara Canon instantánea para el verano imprime fotos y baja a solo 148€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-canon-zoemini-s2-verano-descuento-1080993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/camara-canon-instantanea-verano-baja-solo-148eu-2737531.jpg' alt='Esta cámara Canon instantánea para el verano imprime fotos y baja a solo 148€' />
     </a>
 </div>
 
