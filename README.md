@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641'>La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cual-coche-comercial-rapido-mundo-1081589'>Cuál es el coche comercial más rápido del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cual-coche-comercial-rapido-mundo-1081589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-coche-comercial-rapido-mundo-2738259.jpg' alt='Cuál es el coche comercial más rápido del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541'>Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-2738153.jpg' alt='Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839'>Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-nuevos-lg-gram-vienen-acompanados-nuevo-monitor-portatil-view-1081597'>Llegan a España los nuevos LG gram y vienen acompañados del nuevo monitor portátil +view</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-nuevos-lg-gram-vienen-acompanados-nuevo-monitor-portatil-view-1081597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lg-gram-view-2738285.jpg' alt='Llegan a España los nuevos LG gram y vienen acompañados del nuevo monitor portátil +view' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535'>Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-2738151.jpg' alt='Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar' />
     </a>
 </div>
 
