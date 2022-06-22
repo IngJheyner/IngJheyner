@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-empapado-usos-sorprendentes-pantallas-transparentes-1081779'>El televisor empañado, y otros usos sorprendentes de las pantallas transparentes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-empapado-usos-sorprendentes-pantallas-transparentes-1081779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/televisor-niebla-otros-usos-sorprendentes-pantallas-transparentes-2738783.jpg' alt='El televisor empañado, y otros usos sorprendentes de las pantallas transparentes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775'>Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paramount-anuncia-llegada-europa-pero-momento-olvida-espana-2738771.jpg' alt='Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751'>Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747'>Qué ocurre si sufres un accidente sin haber pasado la ITV</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/accidente-coche.jpg' alt='Qué ocurre si sufres un accidente sin haber pasado la ITV' />
     </a>
 </div>
 
