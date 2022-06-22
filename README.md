@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-interior-esconde-troyano-1081755'>Elimina estas aplicaciones de tu teléfono Android: en su interior se esconde un troyano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-interior-esconde-troyano-1081755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/malware-movil-2463417.jpg' alt='Elimina estas aplicaciones de tu teléfono Android: en su interior se esconde un troyano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751'>Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747'>Qué ocurre si sufres un accidente sin haber pasado la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/accidente-coche.jpg' alt='Qué ocurre si sufres un accidente sin haber pasado la ITV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-precios-no-te-arriesgues-trucos-elegir-sandia-melon-perfectos-abrirlos-1081647'>Con estos precios no te arriesgues: trucos para elegir la sandía o melón perfectos sin abrirlos</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-precios-no-te-arriesgues-trucos-elegir-sandia-melon-perfectos-abrirlos-1081647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/melon-sandia-2738467.jpg' alt='Con estos precios no te arriesgues: trucos para elegir la sandía o melón perfectos sin abrirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-star-trek-canal-trekkie-gratis-sin-registro-1081715'>Se estrena Pluto TV Star Trek, el nuevo canal para los trekkies que puedes ver gratis y sin registro</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-star-trek-canal-trekkie-gratis-sin-registro-1081715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estrena-pluto-tv-star-trek-nuevo-canal-trekkies-puedes-ver-gratis-registro-2738593.jpg' alt='Se estrena Pluto TV Star Trek, el nuevo canal para los trekkies que puedes ver gratis y sin registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-gafas-ar-vr-apple-1081727'>Todo lo que sabemos acerca de las gafas AR/VR de Apple </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-gafas-ar-vr-apple-1081727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Todo lo que sabemos acerca de las gafas AR/VR de Apple ' />
     </a>
 </div>
 
