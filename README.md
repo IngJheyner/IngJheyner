@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445'>Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-anuncia-dimensity-9000-viene-competir-snapdragon-8-gen-1-1081467'>Mediatek anuncia el Dimensity 9000+, y viene a competir contra el Snapdragon 8+ Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-anuncia-dimensity-9000-viene-competir-snapdragon-8-gen-1-1081467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mediatek-dimensity-9000-2738041.jpg' alt='Mediatek anuncia el Dimensity 9000+, y viene a competir contra el Snapdragon 8+ Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-velocidad-maxima-puedes-circular-bicicleta-multas-dgt-superas-1081439'>Cuál es la velocidad máxima a la que puedes circular en bicicleta y las multas de la DGT si la superas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-velocidad-maxima-puedes-circular-bicicleta-multas-dgt-superas-1081439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kits-conversion-bicicleta-electrica-funcionan-estos-son-mejores-2732059.jpg' alt='Cuál es la velocidad máxima a la que puedes circular en bicicleta y las multas de la DGT si la superas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447'>“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435'>Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/fecha-declaracion-renta-2020-1867769.jpg' alt='Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-utilizar-bizum-cuando-estas-fuera-espana-1081425'>¿Es posible utilizar Bizum cuando estás fuera de España?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/posible-utilizar-bizum-cuando-estas-fuera-espana-1081425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg' alt='¿Es posible utilizar Bizum cuando estás fuera de España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843'>5 motivos por los que la Xiaomi Smart Band 7 merece mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737303.jpg' alt='5 motivos por los que la Xiaomi Smart Band 7 merece mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/aliexpress-lanza-promocion-verano-moviles-tablets-otros-dispositivos-70-descuento-1080233'>Aliexpress lanza su promoción de verano: móviles, tablets y otros dispositivos con hasta 70% de descuento </a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/aliexpress-lanza-promocion-verano-moviles-tablets-otros-dispositivos-70-descuento-1080233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Aliexpress lanza su promoción de verano: móviles, tablets y otros dispositivos con hasta 70% de descuento ' />
     </a>
 </div>
 
