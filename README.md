@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775'>Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paramount-anuncia-llegada-europa-pero-momento-olvida-espana-2738771.jpg' alt='Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-tv-p1-55-precio-minimo-historico-chollo-1081687'>Xiaomi Smart TV P1 de 55" al mínimo histórico: solo 373 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-tv-p1-55-precio-minimo-historico-chollo-1081687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xiaomi-mi-tv-p1-2365681.jpg' alt='Xiaomi Smart TV P1 de 55" al mínimo histórico: solo 373 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747'>Qué ocurre si sufres un accidente sin haber pasado la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/accidente-coche.jpg' alt='Qué ocurre si sufres un accidente sin haber pasado la ITV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-caracteristicas-android-13-llegara-todos-fabricantes-1081743'>Una de las mejores características de Android 13 llegará a todos los fabricantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-caracteristicas-android-13-llegara-todos-fabricantes-1081743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Una de las mejores características de Android 13 llegará a todos los fabricantes' />
     </a>
 </div>
 
