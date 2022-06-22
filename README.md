@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-telefonos-moviles-cesa-funcionamiento-dejando-miles-usuarios-opciones-1081701'>Android Auto para teléfonos móviles cesa su funcionamiento dejando a miles de usuarios sin opciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-telefonos-moviles-cesa-funcionamiento-dejando-miles-usuarios-opciones-1081701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Android Auto para teléfonos móviles cesa su funcionamiento dejando a miles de usuarios sin opciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639'>Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-bing-2738455.jpg' alt='Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653'>¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación</a></h4>
     <a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665'>Cómo crear un encabezado y pie de página en Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/como-firmar-documentos-google-docs.jpg' alt='Cómo crear un encabezado y pie de página en Google Docs' />
     </a>
 </div>
 
