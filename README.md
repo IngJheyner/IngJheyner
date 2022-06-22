@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447'>“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435'>Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/fecha-declaracion-renta-2020-1867769.jpg' alt='Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-utilizar-bizum-cuando-estas-fuera-espana-1081425'>¿Es posible utilizar Bizum cuando estás fuera de España?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/posible-utilizar-bizum-cuando-estas-fuera-espana-1081425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg' alt='¿Es posible utilizar Bizum cuando estás fuera de España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843'>5 motivos por los que la Xiaomi Smart Band 7 merece mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737303.jpg' alt='5 motivos por los que la Xiaomi Smart Band 7 merece mucho la pena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/aliexpress-lanza-promocion-verano-moviles-tablets-otros-dispositivos-70-descuento-1080233'>Aliexpress lanza su promoción de verano: móviles, tablets y otros dispositivos con hasta 70% de descuento </a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/aliexpress-lanza-promocion-verano-moviles-tablets-otros-dispositivos-70-descuento-1080233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='Aliexpress lanza su promoción de verano: móviles, tablets y otros dispositivos con hasta 70% de descuento ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-descuento-15-norauto-1080967'>Si buscas una bicicleta eléctrica ahora tienes estos modelos con un 15% de descuento y envío gratis en Norauto</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-descuento-15-norauto-1080967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bicicleta-electrica-plegable-wayscral-2737521.jpg' alt='Si buscas una bicicleta eléctrica ahora tienes estos modelos con un 15% de descuento y envío gratis en Norauto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2737903.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389'>El truco viral de TikTok para atarte el bikini sin usar un lazo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-tiktok-atarte-bikini-usar-lazo-2737901.jpg' alt='El truco viral de TikTok para atarte el bikini sin usar un lazo' />
     </a>
 </div>
 
