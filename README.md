@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimo-exito-marvel-llega-disney-reventar-taquilla-doctor-strange-multiverso-locura-1081533'>El último éxito de Marvel llega a Disney+ tras reventar la taquilla: Doctor Strange en el multiverso de la locura</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ultimo-exito-marvel-llega-disney-reventar-taquilla-doctor-strange-multiverso-locura-1081533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/doctor-strange-multiverso-locura-2694143.jpg' alt='El último éxito de Marvel llega a Disney+ tras reventar la taquilla: Doctor Strange en el multiverso de la locura' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839'>Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453'>Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2738015.jpg' alt='Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-nuevos-lg-gram-vienen-acompanados-nuevo-monitor-portatil-view-1081597'>Llegan a España los nuevos LG gram y vienen acompañados del nuevo monitor portátil +view</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-espana-nuevos-lg-gram-vienen-acompanados-nuevo-monitor-portatil-view-1081597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lg-gram-view-2738285.jpg' alt='Llegan a España los nuevos LG gram y vienen acompañados del nuevo monitor portátil +view' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/horario-mercadona-verano-2022-dias-festivos-cierre-julio-agosto-1081441'>Horario de Mercadona para verano de 2022 y días festivos de cierre en julio y agosto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/horario-mercadona-verano-2022-dias-festivos-cierre-julio-agosto-1081441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Horario de Mercadona para verano de 2022 y días festivos de cierre en julio y agosto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535'>Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-2738151.jpg' alt='Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-acceder-personalizar-google-news-ahora-vuelve-estar-disponible-espana-1081497'>Cómo acceder y personalizar Google News ahora que vuelve a estar disponible en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-acceder-personalizar-google-news-ahora-vuelve-estar-disponible-espana-1081497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-news-computer-hoy-2243883.jpg' alt='Cómo acceder y personalizar Google News ahora que vuelve a estar disponible en España' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-era-android-auto-dejara-funcionar-pantalla-telefono-1081519'>Fin de una era: Android Auto dejará de funcionar en nuestra pantalla del teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-era-android-auto-dejara-funcionar-pantalla-telefono-1081519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Fin de una era: Android Auto dejará de funcionar en nuestra pantalla del teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485'>Ha llegado a HBO Max una de las peores películas de superhéroes de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/steel-heroe-acero-2738077.jpg' alt='Ha llegado a HBO Max una de las peores películas de superhéroes de la historia' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-saben-como-nada-1081465'>La función de Netflix que todo el mundo quiere desactivar pero no saben cómo (de nada)</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-saben-como-nada-1081465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-sabe-como-nada-2738057.jpg' alt='La función de Netflix que todo el mundo quiere desactivar pero no saben cómo (de nada)' />
     </a>
 </div>
 
