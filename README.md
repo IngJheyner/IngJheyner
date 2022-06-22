@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639'>Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-bing-2738455.jpg' alt='Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-1081677'>El nuevo Motorola Edge 30 Lite muestra su diseño y algunas de sus especificaciones estrella</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-1081677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-2738523.jpg' alt='El nuevo Motorola Edge 30 Lite muestra su diseño y algunas de sus especificaciones estrella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/industria/solicitud-vida-laboral-como-hacerla-paso-paso-435269'>Cómo pedir online el informe de vida laboral a la Seguridad Social en 2022</a></h4>
+    <a href='https://computerhoy.com/tutoriales/industria/solicitud-vida-laboral-como-hacerla-paso-paso-435269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/me-quiero-comprar-buen-raton-trabajar-cuales-son-mejores-opciones-2134103.jpg' alt='Cómo pedir online el informe de vida laboral a la Seguridad Social en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653'>¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665'>Cómo crear un encabezado y pie de página en Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/como-firmar-documentos-google-docs.jpg' alt='Cómo crear un encabezado y pie de página en Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-zombies-tienes-probar-android-1077765'>Los 7 mejores juegos de zombies que tienes que probar en tu Android</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-zombies-tienes-probar-android-1077765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-mejores-juegos-zombies-tienes-probar-android-2735515.jpg' alt='Los 7 mejores juegos de zombies que tienes que probar en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641'>La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cual-coche-comercial-rapido-mundo-1081589'>Cuál es el coche comercial más rápido del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cual-coche-comercial-rapido-mundo-1081589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-coche-comercial-rapido-mundo-2738259.jpg' alt='Cuál es el coche comercial más rápido del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541'>Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-2738153.jpg' alt='Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial' />
     </a>
 </div>
 
