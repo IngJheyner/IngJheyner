@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389'>El truco viral de TikTok para atarte el bikini sin usar un lazo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-tiktok-atarte-bikini-usar-lazo-2737901.jpg' alt='El truco viral de TikTok para atarte el bikini sin usar un lazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081'>Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/autobus-2264929.jpg' alt='Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065'>El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planchar-ropa-2737693.jpg' alt='El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061'>¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-puede-multar-dgt-conducir-codo-apoyado-ventanilla-coche-1081061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sacar-codo-ventanilla-coche-2737687.jpg' alt='¿Te puede multar la DGT por conducir con el codo apoyado en la ventanilla del coche?' />
     </a>
 </div>
 
