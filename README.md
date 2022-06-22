@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541'>Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-2738153.jpg' alt='Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/decadas-intentandolo-ee-uu-da-mayor-paso-historia-acabar-tabaco-1081583'>Tras décadas intentándolo, EE.UU. da el mayor paso de su historia para acabar con el tabaco</a></h4>
+    <a href='https://computerhoy.com/noticias/decadas-intentandolo-ee-uu-da-mayor-paso-historia-acabar-tabaco-1081583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/tabaco.jpg' alt='Tras décadas intentándolo, EE.UU. da el mayor paso de su historia para acabar con el tabaco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839'>Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535'>Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-1081535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-ha-presentado-nuevo-robot-proteus-forma-muchos-resultara-familiar-2738151.jpg' alt='Amazon ha presentado su nuevo robot Proteus con una forma que a muchos les resultará familiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-era-android-auto-dejara-funcionar-pantalla-telefono-1081519'>Fin de una era: Android Auto dejará de funcionar en nuestra pantalla del teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-era-android-auto-dejara-funcionar-pantalla-telefono-1081519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Fin de una era: Android Auto dejará de funcionar en nuestra pantalla del teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-saben-como-nada-1081465'>La función de Netflix que todo el mundo quiere desactivar pero no saben cómo (de nada)</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-saben-como-nada-1081465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funcion-netflix-todo-mundo-quiere-desactivar-pero-no-sabe-como-nada-2738057.jpg' alt='La función de Netflix que todo el mundo quiere desactivar pero no saben cómo (de nada)' />
     </a>
 </div>
 
