@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-telefonos-moviles-cesa-funcionamiento-dejando-miles-usuarios-opciones-1081701'>Android Auto para teléfonos móviles cesa su funcionamiento dejando a miles de usuarios sin opciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-telefonos-moviles-cesa-funcionamiento-dejando-miles-usuarios-opciones-1081701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Android Auto para teléfonos móviles cesa su funcionamiento dejando a miles de usuarios sin opciones' />
+    <h4><a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747'>Qué ocurre si sufres un accidente sin haber pasado la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/que-ocurre-sufres-accidente-sin-itv-1081747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/accidente-coche.jpg' alt='Qué ocurre si sufres un accidente sin haber pasado la ITV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639'>Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-desespera-google-comienza-pagar-buscar-bing-1081639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-bing-2738455.jpg' alt='Microsoft se desespera con Google y comienza "a pagar" por buscar en Bing' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-caracteristicas-android-13-llegara-todos-fabricantes-1081743'>Una de las mejores características de Android 13 llegará a todos los fabricantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-caracteristicas-android-13-llegara-todos-fabricantes-1081743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Una de las mejores características de Android 13 llegará a todos los fabricantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-1081677'>El nuevo Motorola Edge 30 Lite muestra su diseño y algunas de sus especificaciones estrella</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-1081677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-motorola-edge-30-lite-muestra-diseno-algunas-especificaciones-estrella-2738523.jpg' alt='El nuevo Motorola Edge 30 Lite muestra su diseño y algunas de sus especificaciones estrella' />
+    <h4><a href='https://computerhoy.com/noticias/life/estos-precios-no-te-arriesgues-trucos-elegir-sandia-melon-perfectos-abrirlos-1081647'>Con estos precios no te arriesgues: trucos para elegir la sandía o melón perfectos sin abrirlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-precios-no-te-arriesgues-trucos-elegir-sandia-melon-perfectos-abrirlos-1081647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/melon-sandia-2738467.jpg' alt='Con estos precios no te arriesgues: trucos para elegir la sandía o melón perfectos sin abrirlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/industria/solicitud-vida-laboral-como-hacerla-paso-paso-435269'>Cómo pedir online el informe de vida laboral a la Seguridad Social en 2022</a></h4>
-    <a href='https://computerhoy.com/tutoriales/industria/solicitud-vida-laboral-como-hacerla-paso-paso-435269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/me-quiero-comprar-buen-raton-trabajar-cuales-son-mejores-opciones-2134103.jpg' alt='Cómo pedir online el informe de vida laboral a la Seguridad Social en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-star-trek-canal-trekkie-gratis-sin-registro-1081715'>Se estrena Pluto TV Star Trek, el nuevo canal para los trekkies que puedes ver gratis y sin registro</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-star-trek-canal-trekkie-gratis-sin-registro-1081715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estrena-pluto-tv-star-trek-nuevo-canal-trekkies-puedes-ver-gratis-registro-2738593.jpg' alt='Se estrena Pluto TV Star Trek, el nuevo canal para los trekkies que puedes ver gratis y sin registro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653'>¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ladrones-redes-estallan-mercadona-abuso-reduflacion-1081653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='¡Ladrones! Las redes estallan contra Mercadona por su abuso de la reduflación' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-gafas-ar-vr-apple-1081727'>Todo lo que sabemos acerca de las gafas AR/VR de Apple </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-gafas-ar-vr-apple-1081727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Todo lo que sabemos acerca de las gafas AR/VR de Apple ' />
     </a>
 </div>
 
