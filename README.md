@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2737903.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843'>5 motivos por los que la Xiaomi Mi Band 7 merece mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-xiaomi-smart-band-7-1080843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737303.jpg' alt='5 motivos por los que la Xiaomi Mi Band 7 merece mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389'>El truco viral de TikTok para atarte el bikini sin usar un lazo</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-tiktok-atarte-bikini-sin-lazo-1081389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-tiktok-atarte-bikini-usar-lazo-2737901.jpg' alt='El truco viral de TikTok para atarte el bikini sin usar un lazo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075'>Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-microsoft-sony-nvidia-otras-fundan-metaverse-standards-forum-crear-estandares-metaverso-2737701.jpg' alt='Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041'>Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-nuevo-motorola-razr-3-antes-presentacion-oficial-1081041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_4.jpg' alt='Esto es todo lo que sabemos acerca del nuevo Motorola Razr 3 antes de su presentación oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065'>El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-eliminar-arrugas-ropa-necesidad-plancha-1081065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/planchar-ropa-2737693.jpg' alt='El genial truco viral para eliminar las arrugas de la ropa sin necesidad de plancha' />
     </a>
 </div>
 
