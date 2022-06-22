@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ultimo-exito-marvel-llega-disney-reventar-taquilla-doctor-strange-multiverso-locura-1081533'>El último éxito de Marvel llega a Disney+ tras reventar la taquilla: Doctor Strange en el multiverso de la locura</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ultimo-exito-marvel-llega-disney-reventar-taquilla-doctor-strange-multiverso-locura-1081533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/doctor-strange-multiverso-locura-2694143.jpg' alt='El último éxito de Marvel llega a Disney+ tras reventar la taquilla: Doctor Strange en el multiverso de la locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453'>Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2738015.jpg' alt='Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485'>Ha llegado a HBO Max una de las peores películas de superhéroes de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/steel-heroe-acero-2738077.jpg' alt='Ha llegado a HBO Max una de las peores películas de superhéroes de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445'>Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías' />
     </a>
 </div>
 
