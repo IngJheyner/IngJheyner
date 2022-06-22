@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-descuento-15-norauto-1080967'>Si buscas una bicicleta eléctrica ahora tienes estos modelos con un 15% de descuento y envío gratis en Norauto</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/bicicletas-electricas-descuento-15-norauto-1080967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bicicleta-electrica-plegable-wayscral-2737521.jpg' alt='Si buscas una bicicleta eléctrica ahora tienes estos modelos con un 15% de descuento y envío gratis en Norauto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1081391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2737903.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081'>Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/comprar-autobus-urbano-emt-madrid-subasta-1081081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/autobus-2264929.jpg' alt='Si siempre has soñado con comprar un autobús urbano, ahora puedes hacerlo a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075'>Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/metaverse-standards-forum-meta-microsoft-sony-nvidia-estandares-metaverso-1081075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-microsoft-sony-nvidia-otras-fundan-metaverse-standards-forum-crear-estandares-metaverso-2737701.jpg' alt='Meta, Microsoft, Sony, NVIDIA y otras fundan el Metaverse Standards Forum, para crear los estándares del Metaverso' />
     </a>
 </div>
 
