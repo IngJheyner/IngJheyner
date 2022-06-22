@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453'>Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-22-junio-2022-1081453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2738015.jpg' alt='Ya te puedes comprar la nueva Xiaomi Smart Band 7 con un descuentazo durante las próximas 48 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/horario-mercadona-verano-2022-dias-festivos-cierre-julio-agosto-1081441'>Horario de Mercadona para verano de 2022 y días festivos de cierre en julio y agosto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/horario-mercadona-verano-2022-dias-festivos-cierre-julio-agosto-1081441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Horario de Mercadona para verano de 2022 y días festivos de cierre en julio y agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-acceder-personalizar-google-news-ahora-vuelve-estar-disponible-espana-1081497'>Cómo acceder y personalizar Google News ahora que vuelve a estar disponible en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-acceder-personalizar-google-news-ahora-vuelve-estar-disponible-espana-1081497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-news-computer-hoy-2243883.jpg' alt='Cómo acceder y personalizar Google News ahora que vuelve a estar disponible en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485'>Ha llegado a HBO Max una de las peores películas de superhéroes de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ha-llegado-hbo-max-peores-peliculas-superheroes-historia-1081485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/steel-heroe-acero-2738077.jpg' alt='Ha llegado a HBO Max una de las peores películas de superhéroes de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445'>Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-tiene-camara-oculta-muy-util-seguramente-no-conocias-1081445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Tu iPhone tiene una cámara oculta (y muy útil) que seguramente no conocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-anuncia-dimensity-9000-viene-competir-snapdragon-8-gen-1-1081467'>Mediatek anuncia el Dimensity 9000+, y viene a competir contra el Snapdragon 8+ Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-anuncia-dimensity-9000-viene-competir-snapdragon-8-gen-1-1081467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mediatek-dimensity-9000-2738041.jpg' alt='Mediatek anuncia el Dimensity 9000+, y viene a competir contra el Snapdragon 8+ Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-velocidad-maxima-puedes-circular-bicicleta-multas-dgt-superas-1081439'>Cuál es la velocidad máxima a la que puedes circular en bicicleta y las multas de la DGT si la superas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-velocidad-maxima-puedes-circular-bicicleta-multas-dgt-superas-1081439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kits-conversion-bicicleta-electrica-funcionan-estos-son-mejores-2732059.jpg' alt='Cuál es la velocidad máxima a la que puedes circular en bicicleta y las multas de la DGT si la superas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447'>“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-muerto-mejor-puedes-escuchar-ceo-binance-1081447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/bitcoin-2602279.jpg' alt='“Bitcoin está muerto” es lo mejor que puedes escuchar, según el CEO de Binance' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435'>Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ultimos-dias-presentar-renta-2021-22-cuales-son-sanciones-pasarse-plazo-1081435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/fecha-declaracion-renta-2020-1867769.jpg' alt='Últimos días para presentar la Renta 2021/22: ¿cuáles son las sanciones por pasarse del plazo?' />
     </a>
 </div>
 
