@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665'>Cómo crear un encabezado y pie de página en Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encabezado-pie-pagina-google-docs-1081665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/como-firmar-documentos-google-docs.jpg' alt='Cómo crear un encabezado y pie de página en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-zombies-tienes-probar-android-1077765'>Los 7 mejores juegos de zombies que tienes que probar en tu Android</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/7-mejores-juegos-zombies-tienes-probar-android-1077765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-mejores-juegos-zombies-tienes-probar-android-2735515.jpg' alt='Los 7 mejores juegos de zombies que tienes que probar en tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641'>La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/junta-directiva-twitter-aprueba-definitivamente-compra-parte-elon-musk-1081641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La junta directiva de Twitter aprueba definitivamente la compra por parte de Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541'>Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-1081541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cientificos-desarrollan-nuevo-tatuaje-electronico-puede-controlar-presion-arterial-2738153.jpg' alt='Científicos desarrollan un nuevo "tatuaje" electrónico que puede controlar la presión arterial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/decadas-intentandolo-ee-uu-da-mayor-paso-historia-acabar-tabaco-1081583'>Tras décadas intentándolo, EE.UU. da el mayor paso de su historia para acabar con el tabaco</a></h4>
-    <a href='https://computerhoy.com/noticias/decadas-intentandolo-ee-uu-da-mayor-paso-historia-acabar-tabaco-1081583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/tabaco.jpg' alt='Tras décadas intentándolo, EE.UU. da el mayor paso de su historia para acabar con el tabaco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839'>Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-vuelve-bajar-precio-oferta-amazon-deja-solo-319eu-1080839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='Apple Watch SE vuelve a bajar de precio: esta oferta de Amazon lo deja en solo 319€' />
     </a>
 </div>
 
