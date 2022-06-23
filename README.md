@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-verificar-edad-usuarios-metodo-utilizara-roza-ciencia-ficcion-1082351'>Instagram quiere verificar la edad de sus usuarios y el método que utilizará roza la ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-verificar-edad-usuarios-metodo-utilizara-roza-ciencia-ficcion-1082351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2697819.jpg' alt='Instagram quiere verificar la edad de sus usuarios y el método que utilizará roza la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331'>Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alexa-pronto-podra-imitar-cualquier-voz-incluso-personas-fallecidas-da-muy-mal-rollo-1082259'>Amazon Alexa pronto podrá imitar cualquier voz, incluso de personas fallecidas… y da muy mal rollo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-alexa-pronto-podra-imitar-cualquier-voz-incluso-personas-fallecidas-da-muy-mal-rollo-1082259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Amazon Alexa pronto podrá imitar cualquier voz, incluso de personas fallecidas… y da muy mal rollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309'>Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/isocell-200-mpx-samsung-2478029.jpg' alt='Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo' />
     </a>
 </div>
 
