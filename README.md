@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-chino-solo-118-kg-vendidos-amazon-cuesta-solo-319-euros-903235'>Este portátil chino de sólo 1,18 kg es de los más vendidos en Amazon: cuesta sólo 319 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-chino-solo-118-kg-vendidos-amazon-cuesta-solo-319-euros-903235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclast-f7-air-2415327.jpg' alt='Este portátil chino de sólo 1,18 kg es de los más vendidos en Amazon: cuesta sólo 319 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-oferta-nuevo-curso-926113'>Impresoras en oferta para usar en el nuevo curso</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-oferta-nuevo-curso-926113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Impresoras en oferta para usar en el nuevo curso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015'>5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/enchufe-inteligente-eve-energy-2414745.jpg' alt='5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-roomba-oferta-amazon-modelo-966-cuesta-379-euros-926075'>Una de las mejores Roomba está en oferta en Amazon: es el modelo 966 y cuesta 379 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-roomba-oferta-amazon-modelo-966-cuesta-379-euros-926075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/roomba-966_1.jpg' alt='Una de las mejores Roomba está en oferta en Amazon: es el modelo 966 y cuesta 379 euros' />
     </a>
 </div>
 
