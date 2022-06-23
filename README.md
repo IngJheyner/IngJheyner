@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1082023'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1082023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/noticias-tecnologicas-2739047.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081'>La NASA quiere construir plantas nucleares en la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/blue-origin-compania-fundador-amazon-llevara-astronautas-luna-2024.jpg' alt='La NASA quiere construir plantas nucleares en la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-1081671'>Xiaomi tira la casa por la ventana en su primera ronda de rebajas de verano: móviles, Smart TV, purificadores, aspiradoras y mucho más en oferta</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-1081671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Xiaomi tira la casa por la ventana en su primera ronda de rebajas de verano: móviles, Smart TV, purificadores, aspiradoras y mucho más en oferta' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-1082083'>Elon Musk admite que las fábricas de Tesla son un horno de quemar dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-1082083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-2739093.jpg' alt='Elon Musk admite que las fábricas de Tesla son un horno de quemar dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783'>5 supresores del apetito que son completamente naturales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-supresores-apetito-son-completamente-naturales-2738787.jpg' alt='5 supresores del apetito que son completamente naturales' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049'>Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-oferta-nuevo-curso-926113'>Impresoras en oferta para usar en el nuevo curso</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-oferta-nuevo-curso-926113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Impresoras en oferta para usar en el nuevo curso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comparten-fotos-aterradoras-impactante-historia-nasa-paseos-espaciales-1082063'>Comparten una de las fotos más aterradoras e impactante de la historia de NASA y los paseos espaciales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comparten-fotos-aterradoras-impactante-historia-nasa-paseos-espaciales-1082063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Comparten una de las fotos más aterradoras e impactante de la historia de NASA y los paseos espaciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-roomba-oferta-amazon-modelo-966-cuesta-379-euros-926075'>Una de las mejores Roomba está en oferta en Amazon: es el modelo 966 y cuesta 379 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-roomba-oferta-amazon-modelo-966-cuesta-379-euros-926075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/roomba-966_1.jpg' alt='Una de las mejores Roomba está en oferta en Amazon: es el modelo 966 y cuesta 379 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-619-computer-hoy-1077873'>¡Ya está en tu quiosco el número 619 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-619-computer-hoy-1077873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/computer-hoy-619-2734271.jpg' alt='¡Ya está en tu quiosco el número 619 de Computer Hoy!' />
     </a>
 </div>
 
