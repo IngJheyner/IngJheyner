@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331'>Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-lanzara-nuevo-nivel-suscripcion-barato-anuncios-ha-anunciado-ceo-1082325'>Netflix lanzará un nuevo nivel de suscripción más barato con anuncios, ha anunciado su CEO</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-lanzara-nuevo-nivel-suscripcion-barato-anuncios-ha-anunciado-ceo-1082325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ceo-netflix-2683891.jpg' alt='Netflix lanzará un nuevo nivel de suscripción más barato con anuncios, ha anunciado su CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-borrar-palabras-completas-word-1082323'>Cómo borrar palabras completas desde Word</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-borrar-palabras-completas-word-1082323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo borrar palabras completas desde Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-alexa-pronto-podra-imitar-cualquier-voz-incluso-personas-fallecidas-da-muy-mal-rollo-1082259'>Amazon Alexa pronto podrá imitar cualquier voz, incluso de personas fallecidas… y da muy mal rollo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-alexa-pronto-podra-imitar-cualquier-voz-incluso-personas-fallecidas-da-muy-mal-rollo-1082259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='Amazon Alexa pronto podrá imitar cualquier voz, incluso de personas fallecidas… y da muy mal rollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309'>Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/isocell-200-mpx-samsung-2478029.jpg' alt='Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bebida-consumida-espana-responsable-nos-gastemos-dinero-cuenta-ropa-tecnologia-1082303'>La bebida más consumida en España es la responsable de que nos gastemos más dinero de la cuenta en ropa y tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bebida-consumida-espana-responsable-nos-gastemos-dinero-cuenta-ropa-tecnologia-1082303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/compras-online.jpg' alt='La bebida más consumida en España es la responsable de que nos gastemos más dinero de la cuenta en ropa y tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217'>Cuál es la base reguladora en una nómina y cómo se calcula</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-base-reguladora-nomina-como-calcula-2739389.jpg' alt='Cuál es la base reguladora en una nómina y cómo se calcula' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-poco-f4-poco-x4-gt-xiaomi-quiere-recuperar-trono-1082079'>Llegan los POCO F4 y POCO X4 GT con los que Xiaomi quiere recuperar el trono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llegan-poco-f4-poco-x4-gt-xiaomi-quiere-recuperar-trono-1082079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2739503.jpg' alt='Llegan los POCO F4 y POCO X4 GT con los que Xiaomi quiere recuperar el trono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245'>Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2560339.jpg' alt='Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+' />
     </a>
 </div>
 
