@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783'>5 supresores del apetito que son completamente naturales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-supresores-apetito-son-completamente-naturales-2738787.jpg' alt='5 supresores del apetito que son completamente naturales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-robots-baratos-roomba-puedes-comprar-amazon-548545'>5 robots más baratos que las Roomba que puedes comprar en Amazon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-robots-baratos-roomba-puedes-comprar-amazon-548545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/xiaomi-mi-robot-vacuum-g1-2041839.jpg' alt='5 robots más baratos que las Roomba que puedes comprar en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usar-chromecast-hotel-debes-hacer-383175'>Para usar tu Chromecast en un hotel, esto es lo que debes hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usar-chromecast-hotel-debes-hacer-383175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/chromecast.jpg' alt='Para usar tu Chromecast en un hotel, esto es lo que debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-empapado-usos-sorprendentes-pantallas-transparentes-1081779'>El televisor empañado, y otros usos sorprendentes de las pantallas transparentes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/televisor-empapado-usos-sorprendentes-pantallas-transparentes-1081779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/televisor-niebla-otros-usos-sorprendentes-pantallas-transparentes-2738783.jpg' alt='El televisor empañado, y otros usos sorprendentes de las pantallas transparentes (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775'>Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/paramount-plus-anuncia-llegada-varios-paises-no-espana-1081775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paramount-anuncia-llegada-europa-pero-momento-olvida-espana-2738771.jpg' alt='Paramount+ anuncia su llegada a varios países de Europa, pero de momento se olvida de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-tv-p1-55-precio-minimo-historico-chollo-1081687'>Xiaomi Smart TV P1 de 55" al mínimo histórico: solo 373 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-tv-p1-55-precio-minimo-historico-chollo-1081687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xiaomi-mi-tv-p1-2365681.jpg' alt='Xiaomi Smart TV P1 de 55" al mínimo histórico: solo 373 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-interior-esconde-troyano-1081755'>Elimina estas aplicaciones de tu teléfono Android: en su interior se esconde un troyano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-estas-aplicaciones-telefono-android-interior-esconde-troyano-1081755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/malware-movil-2463417.jpg' alt='Elimina estas aplicaciones de tu teléfono Android: en su interior se esconde un troyano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751'>Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-ahora-quiere-ser-blog-presenta-nueva-plataforma-textos-largos-1081751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/twitter-nuevas-funciones-2691283.jpg' alt='Twitter ahora quiere ser un blog y presenta una nueva plataforma para textos largos' />
     </a>
 </div>
 
