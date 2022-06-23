@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Los mejores comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/google-assistant-1898501.jpg' alt='Los mejores comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217'>Cuál es la base reguladora en una nómina y cómo se calcula</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-base-reguladora-nomina-como-calcula-2739389.jpg' alt='Cuál es la base reguladora en una nómina y cómo se calcula' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cada-vez-tardan-menos-cuando-estrenara-lightyear-disney-1082203'>Cada vez tardan menos: ¿cuándo se estrenará Lightyear en Disney+?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cada-vez-tardan-menos-cuando-estrenara-lightyear-disney-1082203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lightyear-2694037.jpg' alt='Cada vez tardan menos: ¿cuándo se estrenará Lightyear en Disney+?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-poco-f4-poco-x4-gt-xiaomi-quiere-recuperar-trono-1082079'>Llegan los POCO F4 y POCO X4 GT con los que Xiaomi quiere recuperar el trono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-poco-f4-poco-x4-gt-xiaomi-quiere-recuperar-trono-1082079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2739503.jpg' alt='Llegan los POCO F4 y POCO X4 GT con los que Xiaomi quiere recuperar el trono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-iphone-14-pro-max-sea-mejor-13-todas-especificaciones-menos-1082211'>Apple quiere que su iPhone 14 Pro Max sea mejor que el 13 en todas las especificaciones... menos una</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-iphone-14-pro-max-sea-mejor-13-todas-especificaciones-menos-1082211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Apple quiere que su iPhone 14 Pro Max sea mejor que el 13 en todas las especificaciones... menos una' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245'>Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2560339.jpg' alt='Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185'>El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/coche-hidrogeno-2739247.jpg' alt='El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-criptomonedas-creciendo-hay-motivos-seguir-creyendo-1082199'>Shiba Inu es una de las criptomonedas que más está creciendo y hay motivos para seguir creyendo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-criptomonedas-creciendo-hay-motivos-seguir-creyendo-1082199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='Shiba Inu es una de las criptomonedas que más está creciendo y hay motivos para seguir creyendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149'>Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultenic-t10-robot-aspirador-oferta-23-junio-2022-1082103'>Este robot aspirador y fregasuelos tiene un depósito con autovaciado y solo cuesta 380€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultenic-t10-robot-aspirador-oferta-23-junio-2022-1082103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/robot-aspirador-fregasuelos-tiene-deposito-autolimpiado-solo-cuesta-380eu-2739107.jpg' alt='Este robot aspirador y fregasuelos tiene un depósito con autovaciado y solo cuesta 380€' />
     </a>
 </div>
 
