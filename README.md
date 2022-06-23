@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185'>El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/coche-hidrogeno-2739247.jpg' alt='El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149'>Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ninebot-kickscooter-air-t15e-patinete-electrico-oferta-23-junio-2022-1082169'>Ninebot KickScooter Air T15E es el patinete eléctrico más ligero del mundo y ahora tiene 100€ de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ninebot-kickscooter-air-t15e-patinete-electrico-oferta-23-junio-2022-1082169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ninebot-kickscooter-air-t15e-2739225.jpg' alt='Ninebot KickScooter Air T15E es el patinete eléctrico más ligero del mundo y ahora tiene 100€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101'>España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking</a></h4>
     <a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147'>¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro</a></h4>
     <a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/viaje-coche-2360811.jpg' alt='¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-1082087'>Multa millonaria a Samsung por no advertir a los usuarios de un pequeño fallo tras sumergir algunos de sus smartphones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-1082087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-2739103.jpg' alt='Multa millonaria a Samsung por no advertir a los usuarios de un pequeño fallo tras sumergir algunos de sus smartphones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105'>El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pollo-2381861.jpg' alt='El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109'>Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda</a></h4>
-    <a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/primark-gran-madrid-2289701.jpg' alt='Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda' />
     </a>
 </div>
 
