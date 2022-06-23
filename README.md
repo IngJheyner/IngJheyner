@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863'>Los mejores comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/lista-comandos-voz-ok-google-664863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/google-assistant-1898501.jpg' alt='Los mejores comandos de voz 'Ok, Google' para el asistente de Google actualizada en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cada-vez-tardan-menos-cuando-estrenara-lightyear-disney-1082203'>Cada vez tardan menos: ¿cuándo se estrenará Lightyear en Disney+?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cada-vez-tardan-menos-cuando-estrenara-lightyear-disney-1082203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lightyear-2694037.jpg' alt='Cada vez tardan menos: ¿cuándo se estrenará Lightyear en Disney+?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-iphone-14-pro-max-sea-mejor-13-todas-especificaciones-menos-1082211'>Apple quiere que su iPhone 14 Pro Max sea mejor que el 13 en todas las especificaciones... menos una</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-iphone-14-pro-max-sea-mejor-13-todas-especificaciones-menos-1082211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Apple quiere que su iPhone 14 Pro Max sea mejor que el 13 en todas las especificaciones... menos una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185'>El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-hidrogeno-consigue-destruir-coche-electrico-caballos-menos-peso-1082185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/coche-hidrogeno-2739247.jpg' alt='El coche de hidrógeno consigue destruir al coche eléctrico: más caballos y menos peso' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149'>Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-desvincula-criptomonedas-pese-haber-sido-grandes-influenciadores-precios-1082149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/elon-musk-2585859.jpg' alt='Elon Musk se desvincula de las criptomonedas pese haber sido uno de las grandes influenciadores de sus precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ninebot-kickscooter-air-t15e-patinete-electrico-oferta-23-junio-2022-1082169'>Ninebot KickScooter Air T15E es el patinete eléctrico más ligero del mundo y ahora tiene 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ninebot-kickscooter-air-t15e-patinete-electrico-oferta-23-junio-2022-1082169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ninebot-kickscooter-air-t15e-2739225.jpg' alt='Ninebot KickScooter Air T15E es el patinete eléctrico más ligero del mundo y ahora tiene 100€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101'>España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147'>¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/viaje-coche-2360811.jpg' alt='¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro' />
     </a>
 </div>
 
