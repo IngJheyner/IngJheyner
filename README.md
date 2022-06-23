@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101'>España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espana-esconde-gas-varias-decadas-no-puede-explotar-pero-compra-paises-usan-fracking-1082101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fracking-2644073.jpg' alt='España esconde gas para varias décadas que no puede explotar pero lo compra a países que usan el fracking' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147'>¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/merece-pena-contratar-seguro-asistencia-viaje-ocu-deja-muy-claro-1082147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/viaje-coche-2360811.jpg' alt='¿Merece la pena contratar un seguro de asistencia en viaje? La OCU lo deja muy claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-1082087'>Multa millonaria a Samsung por no advertir a los usuarios de un pequeño fallo tras sumergir algunos de sus smartphones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-1082087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/multa-millonaria-samsung-no-advertir-usuarios-pequeno-fallo-sumergir-algunos-smartphones-2739103.jpg' alt='Multa millonaria a Samsung por no advertir a los usuarios de un pequeño fallo tras sumergir algunos de sus smartphones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105'>El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño</a></h4>
     <a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pollo-2381861.jpg' alt='El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109'>Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda</a></h4>
     <a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/primark-gran-madrid-2289701.jpg' alt='Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081'>La NASA quiere construir plantas nucleares en la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/blue-origin-compania-fundador-amazon-llevara-astronautas-luna-2024.jpg' alt='La NASA quiere construir plantas nucleares en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-1082083'>Elon Musk admite que las fábricas de Tesla son un horno de quemar dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-1082083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-2739093.jpg' alt='Elon Musk admite que las fábricas de Tesla son un horno de quemar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049'>Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca' />
     </a>
 </div>
 
