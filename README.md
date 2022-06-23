@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1082023'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1082023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/noticias-tecnologicas-2739047.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-1081671'>Xiaomi tira la casa por la ventana en su primera ronda de rebajas de verano: móviles, Smart TV, purificadores, aspiradoras y mucho más en oferta</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-1081671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Xiaomi tira la casa por la ventana en su primera ronda de rebajas de verano: móviles, Smart TV, purificadores, aspiradoras y mucho más en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783'>5 supresores del apetito que son completamente naturales</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-supresores-apetito-naturales-1081783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-supresores-apetito-son-completamente-naturales-2738787.jpg' alt='5 supresores del apetito que son completamente naturales' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/termostato-inteligente'>¿Cuál es el mejor termostato inteligente? Trucos, consejos mejores modelos y guía de compras</a></h4>
-    <a href='https://computerhoy.com/guia-compra/termostato-inteligente' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/termostato-inteligente-2172413.jpg' alt='¿Cuál es el mejor termostato inteligente? Trucos, consejos mejores modelos y guía de compras' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-buena-calidad-sonido-bateria-40-horas-soundcore-life-q30-ya-solo-cuestan-68eu-817873'>Cancelación de ruido, buena calidad de sonido y batería de 40 horas: Soundcore Life Q30 ya solo cuestan 68€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-buena-calidad-sonido-bateria-40-horas-soundcore-life-q30-ya-solo-cuestan-68eu-817873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/soundcore-life-q30-2244705.jpg' alt='Cancelación de ruido, buena calidad de sonido y batería de 40 horas: Soundcore Life Q30 ya solo cuestan 68€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-watch-lite-motivos-mejores-smartwatch-baratos-momento-774393'>Xiaomi Mi Watch Lite: motivos por el que es uno de los mejores smartwatch baratos del momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mi-watch-lite-motivos-mejores-smartwatch-baratos-momento-774393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/xiaomi-mi-watch-lite-2168239.jpg' alt='Xiaomi Mi Watch Lite: motivos por el que es uno de los mejores smartwatch baratos del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-amazon-semana-previa-759065'>El Black Friday arranca en Amazon: estas son las mejores ofertas disponibles desde hoy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-black-friday-amazon-semana-previa-759065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-portada-2141493.jpg' alt='El Black Friday arranca en Amazon: estas son las mejores ofertas disponibles desde hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/relojes-deportivos'>Guía de compra de relojes deportivos: cuál comprar, en qué fijarme y comparativa de modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/relojes-deportivos' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/nuevo-smartwatch-galaxy-watch-active2-bisel-tactil-electrocardiograma.jpg' alt='Guía de compra de relojes deportivos: cuál comprar, en qué fijarme y comparativa de modelos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-xiaomi-mi-11-100eu-barato-reservas-amazon-ademas-viene-regalo-815815'>El nuevo Xiaomi Mi 11 es 100€ más barato si lo reservas en Amazon y además viene con un regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-xiaomi-mi-11-100eu-barato-reservas-amazon-ademas-viene-regalo-815815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-xiaomi-mi-11-2231041.jpg' alt='El nuevo Xiaomi Mi 11 es 100€ más barato si lo reservas en Amazon y además viene con un regalo' />
     </a>
 </div>
 
