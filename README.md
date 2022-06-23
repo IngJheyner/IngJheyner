@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405'>Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ya-estan-aqui-rebajas-verano-steam-vez-hay-ofertazas-2739753.jpg' alt='Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395'>El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341'>Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/airtag-apple-hackeado-2328577.jpg' alt='Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383'>Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS' />
     </a>
 </div>
 
