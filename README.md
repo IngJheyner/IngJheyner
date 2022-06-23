@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105'>El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimento-basico-escasez-tiene-todas-opciones-convertirse-papel-higienico-otono-1082105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pollo-2381861.jpg' alt='El alimento básico que por su escasez tiene todas las opciones de convertirse en el “papel higiénico” de este otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109'>Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda</a></h4>
+    <a href='https://computerhoy.com/noticias/life/shein-obliga-primark-tomar-decision-historica-podria-cambiar-mundo-moda-1082109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/primark-gran-madrid-2289701.jpg' alt='Shein obliga a Primark a tomar una decisión histórica que podría cambiar el mundo de la moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081'>La NASA quiere construir plantas nucleares en la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nasa-quiere-construir-plantas-nucleares-luna-1082081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/blue-origin-compania-fundador-amazon-llevara-astronautas-luna-2024.jpg' alt='La NASA quiere construir plantas nucleares en la Luna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049'>Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tim-cook-habla-directamente-proximo-lanzamiento-apple-gafas-ar-vr-estan-muy-cerca-1082049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/tim-cook-2220943.jpg' alt='Tim Cook habla directamente sobre el próximo lanzamiento de Apple: sus gafas AR/VR están muy cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comparten-fotos-aterradoras-impactante-historia-nasa-paseos-espaciales-1082063'>Comparten una de las fotos más aterradoras e impactante de la historia de NASA y los paseos espaciales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comparten-fotos-aterradoras-impactante-historia-nasa-paseos-espaciales-1082063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/astronauta-2685043.jpg' alt='Comparten una de las fotos más aterradoras e impactante de la historia de NASA y los paseos espaciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-619-computer-hoy-1077873'>¡Ya está en tu quiosco el número 619 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-619-computer-hoy-1077873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/computer-hoy-619-2734271.jpg' alt='¡Ya está en tu quiosco el número 619 de Computer Hoy!' />
     </a>
 </div>
 
