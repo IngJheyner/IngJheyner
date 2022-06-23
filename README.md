@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309'>Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/presenta-sensor-fotografico-top-isocell-hp3-200-mpx-pixel-pequeno-mundo-1082309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/isocell-200-mpx-samsung-2478029.jpg' alt='Presenta su sensor fotográfico más TOP: ISOCELL HP3 con 200 Mpx y el píxel más pequeño del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bebida-consumida-espana-responsable-nos-gastemos-dinero-cuenta-ropa-tecnologia-1082303'>La bebida más consumida en España es la responsable de que nos gastemos más dinero de la cuenta en ropa y tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bebida-consumida-espana-responsable-nos-gastemos-dinero-cuenta-ropa-tecnologia-1082303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/compras-online.jpg' alt='La bebida más consumida en España es la responsable de que nos gastemos más dinero de la cuenta en ropa y tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217'>Cuál es la base reguladora en una nómina y cómo se calcula</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-base-reguladora-nomina-como-calcula-1082217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cual-base-reguladora-nomina-como-calcula-2739389.jpg' alt='Cuál es la base reguladora en una nómina y cómo se calcula' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245'>Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spider-man-no-way-home-llega-plataformas-julio-podra-ver-movistar-plus-1082245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spider-man-no-way-home-2560339.jpg' alt='Spider-Man: No Way Home llega a plataformas: en julio se podrá ver en Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-criptomonedas-creciendo-hay-motivos-seguir-creyendo-1082199'>Shiba Inu es una de las criptomonedas que más está creciendo y hay motivos para seguir creyendo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-criptomonedas-creciendo-hay-motivos-seguir-creyendo-1082199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='Shiba Inu es una de las criptomonedas que más está creciendo y hay motivos para seguir creyendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultenic-t10-robot-aspirador-oferta-23-junio-2022-1082103'>Este robot aspirador y fregasuelos tiene un depósito con autovaciado y solo cuesta 380€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultenic-t10-robot-aspirador-oferta-23-junio-2022-1082103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/robot-aspirador-fregasuelos-tiene-deposito-autolimpiado-solo-cuesta-380eu-2739107.jpg' alt='Este robot aspirador y fregasuelos tiene un depósito con autovaciado y solo cuesta 380€' />
     </a>
 </div>
 
