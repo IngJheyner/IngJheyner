@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395'>El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393'>Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-presenta-tarjeta-micro-sd-grande-mundo-pero-precio-no-estara-alcance-todos-2739693.jpg' alt='Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391'>La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-haciendo-compra-supermercado-2739691.jpg' alt='La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341'>Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/airtag-apple-hackeado-2328577.jpg' alt='Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383'>Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-toda-informacion-acerca-nuevo-reloj-premium-1082377'>Samsung Galaxy Watch 5: toda la información acerca de este nuevo reloj premium</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-toda-informacion-acerca-nuevo-reloj-premium-1082377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483551.jpg' alt='Samsung Galaxy Watch 5: toda la información acerca de este nuevo reloj premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-nueva-funcion-comunidad-musica-amigos-1082381'>Ahora podrás saber qué están escuchando tus contactos de Spotify... en directo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-nueva-funcion-comunidad-musica-amigos-1082381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ahora-podras-saber-estan-escuchando-contactos-spotify-directo-2739687.jpg' alt='Ahora podrás saber qué están escuchando tus contactos de Spotify... en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-son-oficiales-30-horas-autonomia-sonido-hi-res-cancelacion-ruido-activa-mejorada-1082371'>Huawei FreeBuds Pro 2 son oficiales: 30 horas de autonomía, sonido Hi-Res y cancelación de ruido activa mejorada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-son-oficiales-30-horas-autonomia-sonido-hi-res-cancelacion-ruido-activa-mejorada-1082371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-2736661.jpg' alt='Huawei FreeBuds Pro 2 son oficiales: 30 horas de autonomía, sonido Hi-Res y cancelación de ruido activa mejorada' />
     </a>
 </div>
 
