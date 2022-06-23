@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-buena-calidad-sonido-bateria-40-horas-soundcore-life-q30-ya-solo-cuestan-68eu-817873'>Cancelación de ruido, buena calidad de sonido y batería de 40 horas: Soundcore Life Q30 ya solo cuestan 68€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-ruido-buena-calidad-sonido-bateria-40-horas-soundcore-life-q30-ya-solo-cuestan-68eu-817873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/soundcore-life-q30-2244705.jpg' alt='Cancelación de ruido, buena calidad de sonido y batería de 40 horas: Soundcore Life Q30 ya solo cuestan 68€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-chino-solo-118-kg-vendidos-amazon-cuesta-solo-319-euros-903235'>Este portátil chino de sólo 1,18 kg es de los más vendidos en Amazon: cuesta sólo 319 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-chino-solo-118-kg-vendidos-amazon-cuesta-solo-319-euros-903235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclast-f7-air-2415327.jpg' alt='Este portátil chino de sólo 1,18 kg es de los más vendidos en Amazon: cuesta sólo 319 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-xiaomi-mi-11-100eu-barato-reservas-amazon-ademas-viene-regalo-815815'>El nuevo Xiaomi Mi 11 es 100€ más barato si lo reservas en Amazon y además viene con un regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-xiaomi-mi-11-100eu-barato-reservas-amazon-ademas-viene-regalo-815815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-xiaomi-mi-11-2231041.jpg' alt='El nuevo Xiaomi Mi 11 es 100€ más barato si lo reservas en Amazon y además viene con un regalo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015'>5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-inteligentes-medidor-consumo-ahorrar-factura-903015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/enchufe-inteligente-eve-energy-2414745.jpg' alt='5 enchufes inteligentes con medidor de consumo que te permiten adelantarte al facturón de luz' />
     </a>
 </div>
 
