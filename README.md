@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341'>Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/airtag-apple-hackeado-2328577.jpg' alt='Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383'>Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-malware-no-hace-distinciones-roba-datos-tanto-moviles-android-como-ios-1082383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Este nuevo malware no hace distinciones y roba datos tanto de móviles Android como iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-toda-informacion-acerca-nuevo-reloj-premium-1082377'>Samsung Galaxy Watch 5: toda la información acerca de este nuevo reloj premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-5-toda-informacion-acerca-nuevo-reloj-premium-1082377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/samsung-galaxy-watch-4-classic-analisis-opinion-2483551.jpg' alt='Samsung Galaxy Watch 5: toda la información acerca de este nuevo reloj premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-nueva-funcion-comunidad-musica-amigos-1082381'>Ahora podrás saber qué están escuchando tus contactos de Spotify... en directo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-nueva-funcion-comunidad-musica-amigos-1082381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ahora-podras-saber-estan-escuchando-contactos-spotify-directo-2739687.jpg' alt='Ahora podrás saber qué están escuchando tus contactos de Spotify... en directo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-son-oficiales-30-horas-autonomia-sonido-hi-res-cancelacion-ruido-activa-mejorada-1082371'>Huawei FreeBuds Pro 2 son oficiales: 30 horas de autonomía, sonido Hi-Res y cancelación de ruido activa mejorada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-son-oficiales-30-horas-autonomia-sonido-hi-res-cancelacion-ruido-activa-mejorada-1082371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-freebuds-pro-2-dejan-ver-detalle-antes-lanzamiento-oficial-2736661.jpg' alt='Huawei FreeBuds Pro 2 son oficiales: 30 horas de autonomía, sonido Hi-Res y cancelación de ruido activa mejorada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-detalles-acerca-camara-frontal-samsung-galaxy-s23-mejora-sustancial-calidad-1082359'>Se filtran los detalles acerca de la cámara frontal de los Samsung Galaxy S23: una mejora sustancial en calidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-detalles-acerca-camara-frontal-samsung-galaxy-s23-mejora-sustancial-calidad-1082359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Se filtran los detalles acerca de la cámara frontal de los Samsung Galaxy S23: una mejora sustancial en calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-verificar-edad-usuarios-metodo-utilizara-roza-ciencia-ficcion-1082351'>Instagram quiere verificar la edad de sus usuarios y el método que utilizará roza la ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-verificar-edad-usuarios-metodo-utilizara-roza-ciencia-ficcion-1082351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2697819.jpg' alt='Instagram quiere verificar la edad de sus usuarios y el método que utilizará roza la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331'>Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciones-llamativas-ios-16-podria-no-ser-compatible-iphone-antiguos-1082331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Una de las funciones más llamativas de iOS 16 podría no ser compatible con los iPhone más antiguos' />
     </a>
 </div>
 
