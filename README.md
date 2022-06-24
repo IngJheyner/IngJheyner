@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799'>Cuál es el músculo más fuerte del cuerpo humano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/554661-definir-musculo.jpg' alt='Cuál es el músculo más fuerte del cuerpo humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819'>A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-oferta-24-junio-2022-1082179'>OnePlus Nord 2T 5G, uno de los mejores móviles de OnePlus recién salidos del horno, vuelve a bajar de precio en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-oferta-24-junio-2022-1082179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-nord-2t-385eu-2739239.jpg' alt='OnePlus Nord 2T 5G, uno de los mejores móviles de OnePlus recién salidos del horno, vuelve a bajar de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-tiene-opcion-subtitulos-videos-ios-android-1082781'>Twitter ya tiene opción de subtítulos en vídeos en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-tiene-opcion-subtitulos-videos-ios-android-1082781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter ya tiene opción de subtítulos en vídeos en iOS y Android' />
     </a>
 </div>
 
