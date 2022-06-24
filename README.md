@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-tiktok-ya-gastan-28-horas-mes-plataforma-convierte-red-social-usada-diferencia-1082929'>Los usuarios de TikTok ya gastan más de 28 horas al mes en la plataforma y se convierte en la red social más usada con diferencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-tiktok-ya-gastan-28-horas-mes-plataforma-convierte-red-social-usada-diferencia-1082929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/aplicacion-tiktok-movil-2668503.jpg' alt='Los usuarios de TikTok ya gastan más de 28 horas al mes en la plataforma y se convierte en la red social más usada con diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-1082853'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: los Gucci, Scooby y una identidad equivocada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-1082853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-2740423.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: los Gucci, Scooby y una identidad equivocada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799'>Cuál es el músculo más fuerte del cuerpo humano</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/554661-definir-musculo.jpg' alt='Cuál es el músculo más fuerte del cuerpo humano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879'>Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rog-phone-6-todo-sabemos-prometedor-movil-gaming-asus-1082843'>ROG Phone 6, esto es todo lo que sabemos del prometedor móvil gaming de ASUS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rog-phone-6-todo-sabemos-prometedor-movil-gaming-asus-1082843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='ROG Phone 6, esto es todo lo que sabemos del prometedor móvil gaming de ASUS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-oferta-24-junio-2022-1082179'>OnePlus Nord 2T 5G, uno de los mejores móviles de OnePlus recién salidos del horno, vuelve a bajar de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2t-oferta-24-junio-2022-1082179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-nord-2t-385eu-2739239.jpg' alt='OnePlus Nord 2T 5G, uno de los mejores móviles de OnePlus recién salidos del horno, vuelve a bajar de precio en Amazon' />
     </a>
 </div>
 
