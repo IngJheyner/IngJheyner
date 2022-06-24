@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/compositor-influyente-historia-cine-retirara-ultima-pelicula-indiana-jones-1082815'>El compositor más influyente de la historia del cine se retirará con la última película de Indiana Jones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/compositor-influyente-historia-cine-retirara-ultima-pelicula-indiana-jones-1082815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/john-williams-2610169.jpg' alt='El compositor más influyente de la historia del cine se retirará con la última película de Indiana Jones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/codewishperer-nueva-ia-como-asistente-programacion-amazon-1082697'>CodeWishperer, la nueva IA como asistente de programación de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/codewishperer-nueva-ia-como-asistente-programacion-amazon-1082697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/codewishperer-nueva-ia-como-asistente-programacion-amazon-2740157.jpg' alt='CodeWishperer, la nueva IA como asistente de programación de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ipad-10-4-wifi-4g-oferta-24-junio-2022-1082367'>Amazon rebaja casi 200 euros este iPad de 10,2 pulgadas con WiFi y conexión 4G por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ipad-10-4-wifi-4g-oferta-24-junio-2022-1082367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-ipad-102-2739679.jpg' alt='Amazon rebaja casi 200 euros este iPad de 10,2 pulgadas con WiFi y conexión 4G por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-siniestra-personalizacion-alexa-hablar-voz-familiares-fallecidos-1082687'>La nueva y siniestra personalización de Alexa: Hablar con la voz de tus familiares fallecidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-siniestra-personalizacion-alexa-hablar-voz-familiares-fallecidos-1082687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='La nueva y siniestra personalización de Alexa: Hablar con la voz de tus familiares fallecidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significa-sonar-te-caen-dientes-otros-suenos-recurrentes-1082771'>Qué significa soñar que se te caen los dientes y otros sueños recurrentes</a></h4>
     <a href='https://computerhoy.com/noticias/life/significa-sonar-te-caen-dientes-otros-suenos-recurrentes-1082771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/leer-da-sueno-2405301.jpg' alt='Qué significa soñar que se te caen los dientes y otros sueños recurrentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679'>La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-2740067.jpg' alt='La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-ar-ikea-te-permite-probar-como-quedara-mueble-casa-siquiera-quitar-tienes-1082689'>La app AR de Ikea te permite probar cómo quedará un mueble en tu casa sin siquiera quitar el que tienes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-ar-ikea-te-permite-probar-como-quedara-mueble-casa-siquiera-quitar-tienes-1082689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='La app AR de Ikea te permite probar cómo quedará un mueble en tu casa sin siquiera quitar el que tienes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-pro-muy-cerca-ya-sabemos-como-sera-diseno-1082685'>HUAWEI Nova 10 Pro está muy cerca, y ya sabemos cómo será su diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-pro-muy-cerca-ya-sabemos-como-sera-diseno-1082685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-nova-10-pro-2740101.jpg' alt='HUAWEI Nova 10 Pro está muy cerca, y ya sabemos cómo será su diseño' />
     </a>
 </div>
 
