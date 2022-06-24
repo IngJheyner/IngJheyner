@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669'>Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-perfil-2686169.jpg' alt='Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2740023.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413'>Drift, el último invento para relajarte y reducir el estrés (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/drift-ultimo-invento-relajarte-reducir-estres-2739763.jpg' alt='Drift, el último invento para relajarte y reducir el estrés (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405'>Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ya-estan-aqui-rebajas-verano-steam-vez-hay-ofertazas-2739753.jpg' alt='Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas' />
     </a>
 </div>
 
