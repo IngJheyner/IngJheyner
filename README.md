@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679'>La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-2740067.jpg' alt='La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-ar-ikea-te-permite-probar-como-quedara-mueble-casa-siquiera-quitar-tienes-1082689'>La app AR de Ikea te permite probar cómo quedará un mueble en tu casa sin siquiera quitar el que tienes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-ar-ikea-te-permite-probar-como-quedara-mueble-casa-siquiera-quitar-tienes-1082689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='La app AR de Ikea te permite probar cómo quedará un mueble en tu casa sin siquiera quitar el que tienes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669'>Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-perfil-2686169.jpg' alt='Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2740023.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
