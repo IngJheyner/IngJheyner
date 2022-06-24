@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-tiktok-ya-gastan-28-horas-mes-plataforma-convierte-red-social-usada-diferencia-1082929'>Los usuarios de TikTok ya gastan más de 28 horas al mes en la plataforma y se convierte en la red social más usada con diferencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-tiktok-ya-gastan-28-horas-mes-plataforma-convierte-red-social-usada-diferencia-1082929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/aplicacion-tiktok-movil-2668503.jpg' alt='Los usuarios de TikTok ya gastan más de 28 horas al mes en la plataforma y se convierte en la red social más usada con diferencia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963'>Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/apple-tv-4k-2305637.jpg' alt='Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-1082853'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: los Gucci, Scooby y una identidad equivocada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-1082853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-gucci-scooby-identidad-equivocada-2740423.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: los Gucci, Scooby y una identidad equivocada' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-1082957'>Filtrada la fecha de lanzamiento del Xiaomi 12 Ultra que completaría la familia de terminales de gama alta de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-1082957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-2740613.jpg' alt='Filtrada la fecha de lanzamiento del Xiaomi 12 Ultra que completaría la familia de terminales de gama alta de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799'>Cuál es el músculo más fuerte del cuerpo humano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-musculo-fuerte-cuerpo-humano-1082799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/554661-definir-musculo.jpg' alt='Cuál es el músculo más fuerte del cuerpo humano' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-tv-a2-motivos-comprar-1082753'>Xiaomi quiere que tu próxima Smart TV sea una Xiaomi TV A2, estos son los motivos por los que son interesantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-tv-a2-motivos-comprar-1082753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-tv-a2-2740277.jpg' alt='Xiaomi quiere que tu próxima Smart TV sea una Xiaomi TV A2, estos son los motivos por los que son interesantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819'>A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-esperas-google-nest-hub-fuchsia-ya-son-realidad-1082941'>Se acabaron las esperas: los Google Nest Hub con Fuchsia ya son una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabaron-esperas-google-nest-hub-fuchsia-ya-son-realidad-1082941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/google-nest-hub-max.jpeg' alt='Se acabaron las esperas: los Google Nest Hub con Fuchsia ya son una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879'>Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-robo-thriller-lejano-oeste-1082895'>Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un robo, un thriller y el lejano oeste</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-hbo-max-robo-thriller-lejano-oeste-1082895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/series-fin-semana-2740467.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y HBO Max: un robo, un thriller y el lejano oeste' />
     </a>
 </div>
 
