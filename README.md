@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819'>A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/partir-ahora-cualquiera-podra-utilizar-software-ia-microsoft-mantener-conversaciones-realistas-1082819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='A partir de ahora cualquiera podrá utilizar en su software la IA de Microsoft para mantener conversaciones realistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879'>Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-gamers-estaban-esperando-ahora-mismo-solo-opcional-1082879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Esta actualización de Windows 11 es la que los gamers estaban esperando y ahora mismo es solo opcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rog-phone-6-todo-sabemos-prometedor-movil-gaming-asus-1082843'>ROG Phone 6, esto es todo lo que sabemos del prometedor móvil gaming de ASUS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rog-phone-6-todo-sabemos-prometedor-movil-gaming-asus-1082843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='ROG Phone 6, esto es todo lo que sabemos del prometedor móvil gaming de ASUS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-tiene-opcion-subtitulos-videos-ios-android-1082781'>Twitter ya tiene opción de subtítulos en vídeos en iOS y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-tiene-opcion-subtitulos-videos-ios-android-1082781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter ya tiene opción de subtítulos en vídeos en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/toyota-retirando-miles-coches-electricos-porque-estan-perdiendo-ruedas-1082821'>Toyota está retirando miles de coches eléctricos... porque están perdiendo las ruedas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/toyota-retirando-miles-coches-electricos-porque-estan-perdiendo-ruedas-1082821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/toyota0.jpg' alt='Toyota está retirando miles de coches eléctricos... porque están perdiendo las ruedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/compositor-influyente-historia-cine-retirara-ultima-pelicula-indiana-jones-1082815'>El compositor más influyente de la historia del cine se retirará con la última película de Indiana Jones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/compositor-influyente-historia-cine-retirara-ultima-pelicula-indiana-jones-1082815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/john-williams-2610169.jpg' alt='El compositor más influyente de la historia del cine se retirará con la última película de Indiana Jones' />
     </a>
 </div>
 
