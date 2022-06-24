@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413'>Drift, el último invento para relajarte y reducir el estrés (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/drift-ultimo-invento-relajarte-reducir-estres-2739763.jpg' alt='Drift, el último invento para relajarte y reducir el estrés (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405'>Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ya-estan-aqui-rebajas-verano-steam-vez-hay-ofertazas-2739753.jpg' alt='Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391'>La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-haciendo-compra-supermercado-2739691.jpg' alt='La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341'>Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-airtag-oferta-amazon-1082341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/airtag-apple-hackeado-2328577.jpg' alt='Precio mínimo para los Apple AirTag en Amazon para que nunca pierdas las llaves' />
     </a>
 </div>
 
