@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1082647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2740023.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-24-junio-2022-1082349'>20 ofertas que no te puedes perder este fin de semana en Amazon, PcComponentes, AliExpress y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-24-junio-2022-1082349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='20 ofertas que no te puedes perder este fin de semana en Amazon, PcComponentes, AliExpress y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/receta-sana-verano-nutricionista-te-helado-tailandes-leche-coco-1082645'>Receta sana para el verano de un nutricionista: té helado tailandés con leche de coco</a></h4>
     <a href='https://computerhoy.com/noticias/life/receta-sana-verano-nutricionista-te-helado-tailandes-leche-coco-1082645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/receta-sana-verano-te-helado-tailandes-leche-coco-2740021.jpg' alt='Receta sana para el verano de un nutricionista: té helado tailandés con leche de coco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405'>Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/rebajas-verano-steam-2022-1082405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ya-estan-aqui-rebajas-verano-steam-vez-hay-ofertazas-2739753.jpg' alt='Ya están aquí las Rebajas de Verano de Steam, y esta vez sí hay ofertazas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395'>El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-sueno-inverso-combatir-insomnio-dormir-noches-calurosas-1082395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='El truco del sueño inverso para combatir el insomnio y dormir en noches calurosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393'>Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-presenta-tarjeta-micro-sd-grande-mundo-pero-precio-no-estara-alcance-todos-2739693.jpg' alt='Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos' />
     </a>
 </div>
 
