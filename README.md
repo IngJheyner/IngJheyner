@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-siniestra-personalizacion-alexa-hablar-voz-familiares-fallecidos-1082687'>La nueva y siniestra personalización de Alexa: Hablar con la voz de tus familiares fallecidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-siniestra-personalizacion-alexa-hablar-voz-familiares-fallecidos-1082687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-alexa-2572867.jpg' alt='La nueva y siniestra personalización de Alexa: Hablar con la voz de tus familiares fallecidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significa-sonar-te-caen-dientes-otros-suenos-recurrentes-1082771'>Qué significa soñar que se te caen los dientes y otros sueños recurrentes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significa-sonar-te-caen-dientes-otros-suenos-recurrentes-1082771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/leer-da-sueno-2405301.jpg' alt='Qué significa soñar que se te caen los dientes y otros sueños recurrentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679'>La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-1082679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/blockchain-web3-consiguen-desembarcar-nuevo-smartphone-disenado-transacciones-2740067.jpg' alt='La blockchain y web3 consiguen desembarcar en un nuevo smartphone diseñado para las transacciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-pro-muy-cerca-ya-sabemos-como-sera-diseno-1082685'>HUAWEI Nova 10 Pro está muy cerca, y ya sabemos cómo será su diseño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-pro-muy-cerca-ya-sabemos-como-sera-diseno-1082685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-nova-10-pro-2740101.jpg' alt='HUAWEI Nova 10 Pro está muy cerca, y ya sabemos cómo será su diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-zte-funciona-nube-consume-solo-5-w-1082683'>Este portátil de ZTE que funciona en la nube y consume solo 5 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-zte-funciona-nube-consume-solo-5-w-1082683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/zte-stand-mwc-2633935.jpg' alt='Este portátil de ZTE que funciona en la nube y consume solo 5 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669'>Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-verificara-edad-usuarios-video-selfie-tiempo-record-1082669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/instagram-perfil-2686169.jpg' alt='Instagram verificará la edad de sus usuarios con un vídeo selfie en tiempo récord' />
     </a>
 </div>
 
