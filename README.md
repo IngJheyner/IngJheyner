@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-2740117.jpg' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013'>La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/actualizacion-remota-windows-98-lejana-historia-90-millones-kilometros-tierra-2740741.jpg' alt='La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839'>La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/maquina-moral-conviertete-coche-autonomo-decide-quien-salva-quien-muere-accidente-inevitable-2735245.jpg' alt='La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011'>El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ingeniero-google-despedido-decir-ia-tiene-sentimientos-ahora-dice-ia-ha-contratado-abogado-2740739.jpg' alt='El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005'>Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688803.jpg' alt='Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-revisar-elemento-indispensable-vehiculo-antes-salir-vacaciones-1083001'>La DGT te recuerda revisar este elemento indispensable de tu vehículo antes de salir de vacaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-revisar-elemento-indispensable-vehiculo-antes-salir-vacaciones-1083001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2740725.jpg' alt='La DGT te recuerda revisar este elemento indispensable de tu vehículo antes de salir de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-beneficios-dieta-vegetariana-deberias-conocer-ocu-1082999'>Estos son los beneficios de la dieta vegetariana que deberías conocer, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-beneficios-dieta-vegetariana-deberias-conocer-ocu-1082999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dieta-vegetariana-2740723.jpg' alt='Estos son los beneficios de la dieta vegetariana que deberías conocer, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987'>Motivos por los que pagar por Telegram Premium no es una buena idea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Motivos por los que pagar por Telegram Premium no es una buena idea' />
     </a>
 </div>
 
