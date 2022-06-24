@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011'>El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ingeniero-google-despedido-decir-ia-tiene-sentimientos-ahora-dice-ia-ha-contratado-abogado-2740739.jpg' alt='El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005'>Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688803.jpg' alt='Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987'>Motivos por los que pagar por Telegram Premium no es una buena idea</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Motivos por los que pagar por Telegram Premium no es una buena idea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993'>Las averías más frecuentes según la marca de coche, y cuánto cuestan</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Las averías más frecuentes según la marca de coche, y cuánto cuestan' />
     </a>
 </div>
 
