@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993'>Las averías más frecuentes según la marca de coche, y cuánto cuestan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Las averías más frecuentes según la marca de coche, y cuánto cuestan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-relojes-auriculares-llegaran-mano-oneplus-1082977'>Estos son los nuevos relojes y auriculares que llegarán de la mano de OnePlus</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-relojes-auriculares-llegaran-mano-oneplus-1082977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-analisis-opinion-2570237.jpg' alt='Estos son los nuevos relojes y auriculares que llegarán de la mano de OnePlus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963'>Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/apple-tv-4k-2305637.jpg' alt='Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-1082957'>Filtrada la fecha de lanzamiento del Xiaomi 12 Ultra que completaría la familia de terminales de gama alta de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-1082957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtrada-fecha-lanzamiento-xiaomi-12-ultra-completaria-familia-terminales-gama-alta-xiaomi-2740613.jpg' alt='Filtrada la fecha de lanzamiento del Xiaomi 12 Ultra que completaría la familia de terminales de gama alta de Xiaomi' />
     </a>
 </div>
 
