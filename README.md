@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005'>Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688803.jpg' alt='Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-revisar-elemento-indispensable-vehiculo-antes-salir-vacaciones-1083001'>La DGT te recuerda revisar este elemento indispensable de tu vehículo antes de salir de vacaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-te-recuerda-revisar-elemento-indispensable-vehiculo-antes-salir-vacaciones-1083001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/neumaticos-2740725.jpg' alt='La DGT te recuerda revisar este elemento indispensable de tu vehículo antes de salir de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-beneficios-dieta-vegetariana-deberias-conocer-ocu-1082999'>Estos son los beneficios de la dieta vegetariana que deberías conocer, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-beneficios-dieta-vegetariana-deberias-conocer-ocu-1082999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dieta-vegetariana-2740723.jpg' alt='Estos son los beneficios de la dieta vegetariana que deberías conocer, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987'>Motivos por los que pagar por Telegram Premium no es una buena idea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivos-pagar-telegram-premium-no-buena-idea-1082987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Motivos por los que pagar por Telegram Premium no es una buena idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993'>Las averías más frecuentes según la marca de coche, y cuánto cuestan</a></h4>
     <a href='https://computerhoy.com/noticias/motor/averias-frecuentes-marca-coche-cuanto-cuestan-1082993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/vez-agotada-garantia-coche-mejor-seguir-taller-oficial-ir-libre-2042657.jpg' alt='Las averías más frecuentes según la marca de coche, y cuánto cuestan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-relojes-auriculares-llegaran-mano-oneplus-1082977'>Estos son los nuevos relojes y auriculares que llegarán de la mano de OnePlus</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-relojes-auriculares-llegaran-mano-oneplus-1082977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/oneplus-buds-z2-analisis-opinion-2570237.jpg' alt='Estos son los nuevos relojes y auriculares que llegarán de la mano de OnePlus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-detalles-bestia-gama-alta-motorola-125-w-carga-rapida-snapdragon-8-gen-1-144-hz-pantalla-1082967'>Filtrados más detalles de la bestia de gama alta de Motorola: 125 W de carga rápida, Snapdragon 8+ Gen 1 y 144 Hz para la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-detalles-bestia-gama-alta-motorola-125-w-carga-rapida-snapdragon-8-gen-1-144-hz-pantalla-1082967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725475.jpg' alt='Filtrados más detalles de la bestia de gama alta de Motorola: 125 W de carga rápida, Snapdragon 8+ Gen 1 y 144 Hz para la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-spider-man-estreno-disney-plus-1082973'>Spider-Man vuelve a casa: todas las películas del trepamuros que se estrenan en Disney+ en los próximos días</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-spider-man-estreno-disney-plus-1082973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/spiderman-homecoming.jpg' alt='Spider-Man vuelve a casa: todas las películas del trepamuros que se estrenan en Disney+ en los próximos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963'>Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-renovacion-apple-tv-estaria-llegar-desbancar-fire-tv-cube-trono-1082963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/apple-tv-4k-2305637.jpg' alt='Todo apunta a que la renovación del Apple TV estaría al llegar para desbancar al Fire TV Cube de su trono' />
     </a>
 </div>
 
