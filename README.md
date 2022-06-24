@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/receta-sana-verano-nutricionista-te-helado-tailandes-leche-coco-1082645'>Receta sana para el verano de un nutricionista: té helado tailandés con leche de coco</a></h4>
+    <a href='https://computerhoy.com/noticias/life/receta-sana-verano-nutricionista-te-helado-tailandes-leche-coco-1082645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/receta-sana-verano-te-helado-tailandes-leche-coco-2740021.jpg' alt='Receta sana para el verano de un nutricionista: té helado tailandés con leche de coco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413'>Drift, el último invento para relajarte y reducir el estrés (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/drift-dispositivo-relajarte-reducir-estres-1082413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/drift-ultimo-invento-relajarte-reducir-estres-2739763.jpg' alt='Drift, el último invento para relajarte y reducir el estrés (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393'>Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/micron-tarjeta-micro-sd-mas-grande-mundo-1082393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-presenta-tarjeta-micro-sd-grande-mundo-pero-precio-no-estara-alcance-todos-2739693.jpg' alt='Micron presenta la tarjeta micro SD más grande del mundo, pero su precio no estará al alcance de todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391'>La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-cansa-denuncia-pastas-gallo-danone-pescanova-colacao-tulipan-campofrio-1082391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-haciendo-compra-supermercado-2739691.jpg' alt='La OCU se cansa y denuncia a Pastas Gallo, Danone, Pescanova, Colacao, Tulipán y Campofrío' />
     </a>
 </div>
 
