@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-samsung-obra-arte-salon-casa-ahora-solo-595-euros-1083303'>Esta televisión de Samsung es una obra de arte para el salón de tu casa y ahora a solo 595 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/television-samsung-obra-arte-salon-casa-ahora-solo-595-euros-1083303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-frame-2741155.jpg' alt='Esta televisión de Samsung es una obra de arte para el salón de tu casa y ahora a solo 595 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297'>Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/eventos-vivo-spotify-2741145.jpg' alt='Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291'>Microsoft te avisa de la finalización de soporte de esta versión de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Microsoft te avisa de la finalización de soporte de esta versión de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-podrian-contar-monitoreo-frecuencia-cardiaca-funcion-audifono-1083281'>Los AirPods Pro 2 podrían contar con monitoreo de frecuencia cardíaca y hasta con función de audífono</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-podrian-contar-monitoreo-frecuencia-cardiaca-funcion-audifono-1083281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/airpods-pro-2120367.jpg' alt='Los AirPods Pro 2 podrían contar con monitoreo de frecuencia cardíaca y hasta con función de audífono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/internet-lento-windows-11-trucos-rapidos-mejorar-velocidad-conexion-1080323'>¿Internet lento con Windows 11? Trucos rápidos para mejorar la velocidad de tu conexión</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/internet-lento-windows-11-trucos-rapidos-mejorar-velocidad-conexion-1080323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='¿Internet lento con Windows 11? Trucos rápidos para mejorar la velocidad de tu conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167'>Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/puerto-usb-2734221.jpg' alt='Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad' />
     </a>
 </div>
 
