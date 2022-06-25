@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933'>Mejores walkie-talkie que puedes comprar para comunicarte en viajes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-sujetando-walkie-talkie-2740543.jpg' alt='Mejores walkie-talkie que puedes comprar para comunicarte en viajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151'>Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2675099.jpg' alt='Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013'>La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/actualizacion-remota-windows-98-lejana-historia-90-millones-kilometros-tierra-2740741.jpg' alt='La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839'>La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/maquina-moral-conviertete-coche-autonomo-decide-quien-salva-quien-muere-accidente-inevitable-2735245.jpg' alt='La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable' />
     </a>
 </div>
 
