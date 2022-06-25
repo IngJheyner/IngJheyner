@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979'>El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-podrian-contar-monitoreo-frecuencia-cardiaca-funcion-audifono-1083281'>Los AirPods Pro 2 podrían contar con monitoreo de frecuencia cardíaca y hasta con función de audífono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-podrian-contar-monitoreo-frecuencia-cardiaca-funcion-audifono-1083281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/airpods-pro-2120367.jpg' alt='Los AirPods Pro 2 podrían contar con monitoreo de frecuencia cardíaca y hasta con función de audífono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/internet-lento-windows-11-trucos-rapidos-mejorar-velocidad-conexion-1080323'>¿Internet lento con Windows 11? Trucos rápidos para mejorar la velocidad de tu conexión</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/internet-lento-windows-11-trucos-rapidos-mejorar-velocidad-conexion-1080323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg' alt='¿Internet lento con Windows 11? Trucos rápidos para mejorar la velocidad de tu conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167'>Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/puerto-usb-2734221.jpg' alt='Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743'>Razer Kishi V2 para Android, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-razer-kishi-v2-2740381.jpg' alt='Razer Kishi V2 para Android, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mi-movil-200-euros-hace-mismo-iphone-1080877'>Mi móvil de 200 euros hace lo mismo que tu iPhone </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mi-movil-200-euros-hace-mismo-iphone-1080877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bob-esponja-2737383.jpg' alt='Mi móvil de 200 euros hace lo mismo que tu iPhone ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593'>Cómo eliminar la pantalla de inicio de sesión en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo eliminar la pantalla de inicio de sesión en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577'>Cómo funciona SnapChat</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/snapchat.jpg' alt='Cómo funciona SnapChat' />
     </a>
 </div>
 
