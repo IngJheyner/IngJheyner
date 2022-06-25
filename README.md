@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345'>Apple es la marca de teléfonos inteligentes premium más popular según este informe</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-13-2473969.jpg' alt='Apple es la marca de teléfonos inteligentes premium más popular según este informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317'>Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457'>6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fundacion-serie-2736629.jpg' alt='6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313'>Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp' />
     </a>
 </div>
 
