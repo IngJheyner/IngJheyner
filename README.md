@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315'>Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457'>6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fundacion-serie-2736629.jpg' alt='6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297'>Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/eventos-vivo-spotify-2741145.jpg' alt='Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291'>Microsoft te avisa de la finalización de soporte de esta versión de Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Microsoft te avisa de la finalización de soporte de esta versión de Windows' />
     </a>
 </div>
 
