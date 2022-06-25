@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593'>Cómo eliminar la pantalla de inicio de sesión en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo eliminar la pantalla de inicio de sesión en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577'>Cómo funciona SnapChat</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/snapchat.jpg' alt='Cómo funciona SnapChat' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933'>Mejores walkie-talkie que puedes comprar para comunicarte en viajes</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-sujetando-walkie-talkie-2740543.jpg' alt='Mejores walkie-talkie que puedes comprar para comunicarte en viajes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249'>El truco viral para comerte un trozo de chocolate sin que se note</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-comerte-trozo-chocolate-note-2740925.jpg' alt='El truco viral para comerte un trozo de chocolate sin que se note' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-2740117.jpg' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013'>La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/actualizacion-remota-windows-98-mars-express-marte-1083013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/actualizacion-remota-windows-98-lejana-historia-90-millones-kilometros-tierra-2740741.jpg' alt='La actualización remota de Windows 98 más lejana de la historia: a 90 millones de kilómetros de la Tierra' />
     </a>
 </div>
 
