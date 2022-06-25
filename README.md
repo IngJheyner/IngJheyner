@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457'>6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fundacion-serie-2736629.jpg' alt='6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313'>Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291'>Microsoft te avisa de la finalización de soporte de esta versión de Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Microsoft te avisa de la finalización de soporte de esta versión de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979'>El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis' />
     </a>
 </div>
 
