@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743'>Razer Kishi V2 para Android, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-razer-kishi-v2-2740381.jpg' alt='Razer Kishi V2 para Android, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mi-movil-200-euros-hace-mismo-iphone-1080877'>Mi móvil de 200 euros hace lo mismo que tu iPhone </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mi-movil-200-euros-hace-mismo-iphone-1080877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bob-esponja-2737383.jpg' alt='Mi móvil de 200 euros hace lo mismo que tu iPhone ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593'>Cómo eliminar la pantalla de inicio de sesión en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-pantalla-inicio-sesion-windows-11-1058593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2613707.jpg' alt='Cómo eliminar la pantalla de inicio de sesión en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933'>Mejores walkie-talkie que puedes comprar para comunicarte en viajes</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-sujetando-walkie-talkie-2740543.jpg' alt='Mejores walkie-talkie que puedes comprar para comunicarte en viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151'>Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2675099.jpg' alt='Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249'>El truco viral para comerte un trozo de chocolate sin que se note</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-comerte-trozo-chocolate-note-2740925.jpg' alt='El truco viral para comerte un trozo de chocolate sin que se note' />
     </a>
 </div>
 
