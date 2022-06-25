@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249'>El truco viral para comerte un trozo de chocolate sin que se note</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-comerte-trozo-chocolate-note-2740925.jpg' alt='El truco viral para comerte un trozo de chocolate sin que se note' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-2740117.jpg' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011'>El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ingeniero-google-despedido-decir-ia-tiene-sentimientos-ahora-dice-ia-ha-contratado-abogado-2740739.jpg' alt='El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005'>Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-5g-oferta-1083005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688803.jpg' alt='Uno de los mejores móviles Android que hemos podido probar últimamente baja de precio a 345€' />
     </a>
 </div>
 
