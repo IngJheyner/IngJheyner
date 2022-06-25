@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291'>Microsoft te avisa de la finalización de soporte de esta versión de Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-te-avisa-finalizacion-soporte-version-windows-1083291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Microsoft te avisa de la finalización de soporte de esta versión de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979'>El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-oferta-25-junio-2022-1082979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El famoso ventilador de Xiaomi conectado y compatible con Alexa cuesta 43 euros menos y hasta tiene envío gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167'>Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/puerto-usb-2734221.jpg' alt='Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743'>Razer Kishi V2 para Android, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-razer-kishi-v2-2740381.jpg' alt='Razer Kishi V2 para Android, análisis y opinión' />
     </a>
 </div>
 
