@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167'>Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deshabilitar-puertos-usb-portatil-aumentar-seguridad-1079167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/puerto-usb-2734221.jpg' alt='Cómo deshabilitar los puertos USB de un portátil para aumentar su seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743'>Razer Kishi V2 para Android, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/razer-kishi-v2-android-review-opinion-1080743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-razer-kishi-v2-2740381.jpg' alt='Razer Kishi V2 para Android, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577'>Cómo funciona SnapChat</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-snapchat-1081577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/snapchat.jpg' alt='Cómo funciona SnapChat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933'>Mejores walkie-talkie que puedes comprar para comunicarte en viajes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkie-viajes-1082933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persona-sujetando-walkie-talkie-2740543.jpg' alt='Mejores walkie-talkie que puedes comprar para comunicarte en viajes' />
     </a>
 </div>
 
