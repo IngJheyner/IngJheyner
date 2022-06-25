@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545'>Por qué vemos fantasmas según la ciencia</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fantasmas-2729643.jpg' alt='Por qué vemos fantasmas según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345'>Apple es la marca de teléfonos inteligentes premium más popular según este informe</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-13-2473969.jpg' alt='Apple es la marca de teléfonos inteligentes premium más popular según este informe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315'>Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457'>6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-hacen-apple-tv-plataformas-interesantes-actualidad-1080457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fundacion-serie-2736629.jpg' alt='6 series que hacen de Apple TV+ una de las plataformas más interesantes de la actualidad' />
     </a>
 </div>
 
