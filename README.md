@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317'>Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965'>Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-concentrada-programando-dos-pantallas-2740651.jpg' alt='Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315'>Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313'>Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-hacer-pedidos-mucho-facil-traves-whatsapp-1083313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-business-2734971.jpg' alt='Ahora podrás hacer tus pedidos mucho más fácil a través de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-samsung-obra-arte-salon-casa-ahora-solo-595-euros-1083303'>Esta televisión de Samsung es una obra de arte para el salón de tu casa y ahora a solo 595 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/television-samsung-obra-arte-salon-casa-ahora-solo-595-euros-1083303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-frame-2741155.jpg' alt='Esta televisión de Samsung es una obra de arte para el salón de tu casa y ahora a solo 595 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297'>Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/spotify-te-avisara-conciertos-cercanos-zona-te-facilitara-comprar-entradas-1083297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/eventos-vivo-spotify-2741145.jpg' alt='Spotify te avisará de conciertos cercanos a tu zona y hasta te facilitará comprar entradas' />
     </a>
 </div>
 
