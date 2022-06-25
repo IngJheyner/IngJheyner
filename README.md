@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151'>Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-imprescindibles-todo-usuario-nintendo-switch-deberia-tener-1045151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2675099.jpg' alt='Accesorios imprescindibles que todo usuario de Nintendo Switch debería tener' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249'>El truco viral para comerte un trozo de chocolate sin que se note</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-viral-comerte-trozo-chocolate-tableta-entera-1083249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/truco-viral-comerte-trozo-chocolate-note-2740925.jpg' alt='El truco viral para comerte un trozo de chocolate sin que se note' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839'>La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/maquina-moral-conviertete-coche-autonomo-decisiones-vida-muerte-1079839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/maquina-moral-conviertete-coche-autonomo-decide-quien-salva-quien-muere-accidente-inevitable-2735245.jpg' alt='La Máquina Moral: conviértete en coche autónomo y decide quién se salva y quién muere en un accidente inevitable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011'>El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ingeniero-google-ia-lamda-sentimientos-contratado-abogado-1083011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ingeniero-google-despedido-decir-ia-tiene-sentimientos-ahora-dice-ia-ha-contratado-abogado-2740739.jpg' alt='El ingeniero de Google despedido tras decir que su IA tiene sentimientos, ahora dice que la IA ha contratado a un abogado' />
     </a>
 </div>
 
