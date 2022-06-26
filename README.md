@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761'>Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuidado-estos-sms-banco-santander-bbva-correos-son-estafas-instalan-malware-2741709.jpg' alt='Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759'>Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inventa-canasta-imposible-fallar-paga-1000-dolares-quien-no-enceste-2741705.jpg' alt='Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729'>Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tetera-asesino-usaban-china-envenenar-2741673.jpg' alt='Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721'>Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/restaurante-bored-and-hungry-angeles-2741659.jpg' alt='Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital' />
     </a>
 </div>
 
