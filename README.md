@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721'>Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/restaurante-bored-and-hungry-angeles-2741659.jpg' alt='Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/asteroide-tamano-noria-londres-pasara-muy-cerca-tierra-dias-1083713'>Un asteroide del tamaño de la noria de Londres pasará muy cerca de la Tierra en unos días</a></h4>
+    <a href='https://computerhoy.com/noticias/life/asteroide-tamano-noria-londres-pasara-muy-cerca-tierra-dias-1083713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asteroide-2741643.jpg' alt='Un asteroide del tamaño de la noria de Londres pasará muy cerca de la Tierra en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/subete-8k-smart-tv-samsung-qled-menos-1180-euros-junto-reembolso-1083703'>Súbete al 8K con esta Smart TV Samsung QLED por menos de 1180 euros junto a este reembolso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/subete-8k-smart-tv-samsung-qled-menos-1180-euros-junto-reembolso-1083703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-tv-neo-qe55qn700b-2741619.jpg' alt='Súbete al 8K con esta Smart TV Samsung QLED por menos de 1180 euros junto a este reembolso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-1081047'>7 películas y documentales sobre criptomonedas que te ayudarán a entender qué está ocurriendo en el sector</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-1081047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-2738687.jpg' alt='7 películas y documentales sobre criptomonedas que te ayudarán a entender qué está ocurriendo en el sector' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubre-nuevo-modelo-xiaomi-12-algunas-caracteristicas-1083595'>Se descubre un nuevo modelo del Xiaomi 12 con algunas de sus características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubre-nuevo-modelo-xiaomi-12-algunas-caracteristicas-1083595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Se descubre un nuevo modelo del Xiaomi 12 con algunas de sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-como-funcionan-consejos-comprar-persiana-termica-1079593'>Qué son, cómo funcionan y consejos para comprar una persiana térmica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/son-como-funcionan-consejos-comprar-persiana-termica-1079593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persianas-2734961.jpg' alt='Qué son, cómo funcionan y consejos para comprar una persiana térmica' />
     </a>
 </div>
 
