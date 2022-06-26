@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729'>Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tetera-asesino-usaban-china-envenenar-2741673.jpg' alt='Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721'>Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/restaurante-nacido-fiebre-criptomonedas-nft-ya-no-acepta-dinero-digital-1083721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/restaurante-bored-and-hungry-angeles-2741659.jpg' alt='Este restaurante nacido por la fiebre de las criptomonedas y los NFT ya no acepta dinero digital' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuario-pixel-4-recibe-actualizacion-android-13-antes-tiempo-rompe-telefono-1083607'>Este usuario con un Pixel 4 recibe la actualización de Android 13 antes de tiempo y rompe su teléfono</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuario-pixel-4-recibe-actualizacion-android-13-antes-tiempo-rompe-telefono-1083607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604653.jpg' alt='Este usuario con un Pixel 4 recibe la actualización de Android 13 antes de tiempo y rompe su teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-1081047'>7 películas y documentales sobre criptomonedas que te ayudarán a entender qué está ocurriendo en el sector</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-1081047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-peliculas-documentales-criptomonedas-te-ayudaran-entender-ocurriendo-sector-2738687.jpg' alt='7 películas y documentales sobre criptomonedas que te ayudarán a entender qué está ocurriendo en el sector' />
     </a>
 </div>
 
