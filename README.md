@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663'>Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtuber-crea-coche-conduce-atras-usando-televisores-vez-luna-delantera-2740049.jpg' alt='Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767'>Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar </a></h4>
+    <a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/investigadores-piden-ayuda-identificar-nubes-jupiter-puedes-participar-2741717.jpg' alt='Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761'>Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuidado-estos-sms-banco-santander-bbva-correos-son-estafas-instalan-malware-2741709.jpg' alt='Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rocket-4-plus-destroyer-2-ssd-64-tb-1083749'>Rocket 4 Plus Destroyer 2, el SSD de 64 TB que cuesta más que algunos coches</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rocket-4-plus-destroyer-2-ssd-64-tb-1083749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rocket-4-plus-destroyer-2-ssd-64-tbs-cuesta-algunos-coches-2741697.jpg' alt='Rocket 4 Plus Destroyer 2, el SSD de 64 TB que cuesta más que algunos coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729'>Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tetera-asesino-usaban-china-envenenar-2741673.jpg' alt='Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)' />
     </a>
 </div>
 
