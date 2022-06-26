@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545'>Por qué vemos fantasmas según la ciencia</a></h4>
     <a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fantasmas-2729643.jpg' alt='Por qué vemos fantasmas según la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965'>Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-concentrada-programando-dos-pantallas-2740651.jpg' alt='Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315'>Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-avisan-nasa-podria-infectar-tierra-patogenos-mortales-muestras-rocas-marte-1083315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Científicos avisan: La NASA podría infectar la Tierra con patógenos mortales de muestras de rocas de Marte' />
     </a>
 </div>
 
