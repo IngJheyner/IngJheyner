@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-53-novedades-trae-1076153'>¿Qué es Bluetooth 5.3 y qué novedades trae?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-53-novedades-trae-1076153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bluetooth-53-novedades-trae-2740207.jpg' alt='¿Qué es Bluetooth 5.3 y qué novedades trae?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s22-review-opinion-1083259'>Samsung Galaxy S22, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s22-review-opinion-1083259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741217.jpg' alt='Samsung Galaxy S22, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343'>Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/guardar-equilibrio-2741237.jpg' alt='Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207'>Cómo formatear un iPhone correctamente antes de venderlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Cómo formatear un iPhone correctamente antes de venderlo' />
     </a>
 </div>
 
