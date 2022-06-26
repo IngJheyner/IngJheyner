@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rocket-4-plus-destroyer-2-ssd-64-tb-1083749'>Rocket 4 Plus Destroyer 2, el SSD de 64 TB que cuesta más que algunos coches</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rocket-4-plus-destroyer-2-ssd-64-tb-1083749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rocket-4-plus-destroyer-2-ssd-64-tbs-cuesta-algunos-coches-2741697.jpg' alt='Rocket 4 Plus Destroyer 2, el SSD de 64 TB que cuesta más que algunos coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729'>Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/tetera-asesino-usaban-china-envenenar-video-1083729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tetera-asesino-usaban-china-envenenar-2741673.jpg' alt='Así funciona la Tetera del Asesino que usaban en la Antigua China para envenenar (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/asteroide-tamano-noria-londres-pasara-muy-cerca-tierra-dias-1083713'>Un asteroide del tamaño de la noria de Londres pasará muy cerca de la Tierra en unos días</a></h4>
     <a href='https://computerhoy.com/noticias/life/asteroide-tamano-noria-londres-pasara-muy-cerca-tierra-dias-1083713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asteroide-2741643.jpg' alt='Un asteroide del tamaño de la noria de Londres pasará muy cerca de la Tierra en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/subete-8k-smart-tv-samsung-qled-menos-1180-euros-junto-reembolso-1083703'>Súbete al 8K con esta Smart TV Samsung QLED por menos de 1180 euros junto a este reembolso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/subete-8k-smart-tv-samsung-qled-menos-1180-euros-junto-reembolso-1083703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-tv-neo-qe55qn700b-2741619.jpg' alt='Súbete al 8K con esta Smart TV Samsung QLED por menos de 1180 euros junto a este reembolso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuario-pixel-4-recibe-actualizacion-android-13-antes-tiempo-rompe-telefono-1083607'>Este usuario con un Pixel 4 recibe la actualización de Android 13 antes de tiempo y rompe su teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuario-pixel-4-recibe-actualizacion-android-13-antes-tiempo-rompe-telefono-1083607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604653.jpg' alt='Este usuario con un Pixel 4 recibe la actualización de Android 13 antes de tiempo y rompe su teléfono' />
     </a>
 </div>
 
