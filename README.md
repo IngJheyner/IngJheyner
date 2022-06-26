@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645'>Este mapa del sueño mundial nos dice los países en donde más y menos se duerme</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mapa-sueno-mundial-nos-dice-paises-donde-menos-duerme-2738465.jpg' alt='Este mapa del sueño mundial nos dice los países en donde más y menos se duerme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317'>Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965'>Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-desarrollo-c-sharp-1082965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-concentrada-programando-dos-pantallas-2740651.jpg' alt='Mejores cursos para aprender a programar C#, uno de los lenguajes básicos en el desarrollo de programas' />
     </a>
 </div>
 
