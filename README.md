@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubre-nuevo-modelo-xiaomi-12-algunas-caracteristicas-1083595'>Se descubre un nuevo modelo del Xiaomi 12 con algunas de sus características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubre-nuevo-modelo-xiaomi-12-algunas-caracteristicas-1083595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Se descubre un nuevo modelo del Xiaomi 12 con algunas de sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-como-funcionan-consejos-comprar-persiana-termica-1079593'>Qué son, cómo funcionan y consejos para comprar una persiana térmica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-como-funcionan-consejos-comprar-persiana-termica-1079593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/persianas-2734961.jpg' alt='Qué son, cómo funcionan y consejos para comprar una persiana térmica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-53-novedades-trae-1076153'>¿Qué es Bluetooth 5.3 y qué novedades trae?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/bluetooth-53-novedades-trae-1076153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bluetooth-53-novedades-trae-2740207.jpg' alt='¿Qué es Bluetooth 5.3 y qué novedades trae?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-mejores-herramientas-reparar-windows-10-solucionar-cualquier-problema-1080669'>Las 6 mejores herramientas para reparar Windows 10 y solucionar cualquier problema</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-mejores-herramientas-reparar-windows-10-solucionar-cualquier-problema-1080669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Las 6 mejores herramientas para reparar Windows 10 y solucionar cualquier problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/joven-18-anos-ya-ha-sacado-700000-dolares-vendiendo-juguetes-nft-1083347'>Este joven de 18 años ya se ha sacado más de 700.000 dólares vendiendo juguetes de NFT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/joven-18-anos-ya-ha-sacado-700000-dolares-vendiendo-juguetes-nft-1083347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bored-ape-2741241.jpg' alt='Este joven de 18 años ya se ha sacado más de 700.000 dólares vendiendo juguetes de NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343'>Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/guardar-equilibrio-2741237.jpg' alt='Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema' />
     </a>
 </div>
 
