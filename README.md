@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s22-review-opinion-1083259'>Samsung Galaxy S22, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-s22-review-opinion-1083259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741217.jpg' alt='Samsung Galaxy S22, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-mejores-herramientas-reparar-windows-10-solucionar-cualquier-problema-1080669'>Las 6 mejores herramientas para reparar Windows 10 y solucionar cualquier problema</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-mejores-herramientas-reparar-windows-10-solucionar-cualquier-problema-1080669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg' alt='Las 6 mejores herramientas para reparar Windows 10 y solucionar cualquier problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/joven-18-anos-ya-ha-sacado-700000-dolares-vendiendo-juguetes-nft-1083347'>Este joven de 18 años ya se ha sacado más de 700.000 dólares vendiendo juguetes de NFT</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/joven-18-anos-ya-ha-sacado-700000-dolares-vendiendo-juguetes-nft-1083347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bored-ape-2741241.jpg' alt='Este joven de 18 años ya se ha sacado más de 700.000 dólares vendiendo juguetes de NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343'>Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/guardar-equilibrio-2741237.jpg' alt='Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207'>Cómo formatear un iPhone correctamente antes de venderlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Cómo formatear un iPhone correctamente antes de venderlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307'>Estas son las mejores sillas de oficina con malla para trabajar desde casa sin calor este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/despacho-dos-puestos-trabajo-completos-pantallas-sillas-ergonomicas-decoracion-gaming-2741165.jpg' alt='Estas son las mejores sillas de oficina con malla para trabajar desde casa sin calor este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645'>Este mapa del sueño mundial nos dice los países en donde más y menos se duerme</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mapa-sueno-mundial-nos-dice-paises-donde-menos-duerme-2738465.jpg' alt='Este mapa del sueño mundial nos dice los países en donde más y menos se duerme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
     </a>
 </div>
 
