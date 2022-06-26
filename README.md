@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343'>Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-puedes-mantener-equilibrio-pierna-durante-10-segundos-podrias-estar-problema-1083343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/guardar-equilibrio-2741237.jpg' alt='Si no puedes mantener el equilibrio con una pierna durante 10 segundos, podrías estar en un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207'>Cómo formatear un iPhone correctamente antes de venderlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-formatear-iphone-correctamente-antes-venderlo-1082207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-2022-2638841.jpg' alt='Cómo formatear un iPhone correctamente antes de venderlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307'>Estas son las mejores sillas de oficina con malla para trabajar desde casa sin calor este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/despacho-dos-puestos-trabajo-completos-pantallas-sillas-ergonomicas-decoracion-gaming-2741165.jpg' alt='Estas son las mejores sillas de oficina con malla para trabajar desde casa sin calor este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645'>Este mapa del sueño mundial nos dice los países en donde más y menos se duerme</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-sueno-mundial-paises-donde-menos-duermen-1081645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mapa-sueno-mundial-nos-dice-paises-donde-menos-duerme-2738465.jpg' alt='Este mapa del sueño mundial nos dice los países en donde más y menos se duerme' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343'>Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-pistola-masaje-tipos-accesorios-diferencias-1068343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pistola-masaje-2714951.jpg' alt='Guía y consejos para comprar una pistola de masaje: tipos, accesorios y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545'>Por qué vemos fantasmas según la ciencia</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/vemos-fantasmas-ciencia-1076545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/fantasmas-2729643.jpg' alt='Por qué vemos fantasmas según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345'>Apple es la marca de teléfonos inteligentes premium más popular según este informe</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-marca-telefonos-inteligentes-premium-popular-informe-1083345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-13-2473969.jpg' alt='Apple es la marca de teléfonos inteligentes premium más popular según este informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317'>Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fallo-evita-puedas-realizar-llamada-android-auto-comandos-voz-1083317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Este fallo evita que puedas realizar una llamada en Android Auto con comandos de voz' />
     </a>
 </div>
 
