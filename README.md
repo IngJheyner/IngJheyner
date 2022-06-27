@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2741821.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757'>Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-12-2741711.jpg' alt='Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741'>Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alfombrilla-raton-2671031.jpg' alt='Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767'>Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar </a></h4>
     <a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/investigadores-piden-ayuda-identificar-nubes-jupiter-puedes-participar-2741717.jpg' alt='Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761'>Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sms-falso-santander-bbva-correos-estafas-malware-1083761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuidado-estos-sms-banco-santander-bbva-correos-son-estafas-instalan-malware-2741709.jpg' alt='Cuidado con estos nuevos SMS del Banco de Santander, BBVA y Correos, son estafas o instalan malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759'>Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inventa-canasta-imposible-fallar-paga-1000-dolares-quien-no-enceste-2741705.jpg' alt='Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste' />
     </a>
 </div>
 
