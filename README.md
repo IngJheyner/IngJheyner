@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741'>Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alfombrilla-raton-2671031.jpg' alt='Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663'>Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtuber-crea-coche-conduce-atras-usando-televisores-vez-luna-delantera-2740049.jpg' alt='Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759'>Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/canasta-imposible-fallar-1083759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inventa-canasta-imposible-fallar-paga-1000-dolares-quien-no-enceste-2741705.jpg' alt='Inventa una canasta en la que es imposible fallar, y paga 1.000 dólares a quien no enceste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367'>Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-888-ofertas-927367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/galeria-review-realme-gt-2372133.jpg' alt='Estos son los mejores móviles con Snapdragon 888, el procesador más potente del momento y que puedes comprar ahora mismo' />
     </a>
 </div>
 
