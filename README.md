@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039'>Los 5 libros que Bill Gates recomienda leer este verano 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='Los 5 libros que Bill Gates recomienda leer este verano 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007'>El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2742027.jpg' alt='El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085'>La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/desconectar-aire-acondicionado-coche-realmente-ayuda-ahorrar-gasolina-1084063'>Desconectar el aire acondicionado del coche ¿realmente ayuda a ahorrar gasolina?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/desconectar-aire-acondicionado-coche-realmente-ayuda-ahorrar-gasolina-1084063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='Desconectar el aire acondicionado del coche ¿realmente ayuda a ahorrar gasolina?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027'>Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-ventajas-cocina-aceite-freidora-aire-lidl-menos-50-euros-1084045'>Prueba las ventajas de la cocina sin aceite con la freidora de aire de Lidl por menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-ventajas-cocina-aceite-freidora-aire-lidl-menos-50-euros-1084045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='Prueba las ventajas de la cocina sin aceite con la freidora de aire de Lidl por menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mobile-world-congress-no-movera-barcelona-menos-2030-1084029'>El Mobile World Congress no se moverá de Barcelona... al menos hasta 2030</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mobile-world-congress-no-movera-barcelona-menos-2030-1084029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg' alt='El Mobile World Congress no se moverá de Barcelona... al menos hasta 2030' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067'>Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/moviles-promocion-verano-aliexpress-2739245.jpg' alt='Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005'>Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto' />
     </a>
 </div>
 
