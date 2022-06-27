@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873'>Dónde comprar la tablet Xiaomi Pad 5 más barata del momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Dónde comprar la tablet Xiaomi Pad 5 más barata del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2741821.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663'>Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera</a></h4>
     <a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtuber-crea-coche-conduce-atras-usando-televisores-vez-luna-delantera-2740049.jpg' alt='Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767'>Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar </a></h4>
-    <a href='https://computerhoy.com/noticias/life/investigadores-piden-ayuda-identificar-nubes-jupiter-1083767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/investigadores-piden-ayuda-identificar-nubes-jupiter-puedes-participar-2741717.jpg' alt='Investigadores piden tu ayuda para identificar las nubes de Júpiter, así puedes participar ' />
     </a>
 </div>
 
