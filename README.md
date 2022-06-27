@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961'>Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bancos-interesa-desaparezca-dinero-efectivo-1083923'>¿Por qué a los bancos les interesa que desaparezca el dinero en efectivo?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bancos-interesa-desaparezca-dinero-efectivo-1083923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cajero-banco-2515733.jpg' alt='¿Por qué a los bancos les interesa que desaparezca el dinero en efectivo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/requisitos-acceder-nueva-ayuda-200-euros-gobierno-como-solicitarlo-online-1083929'>Requisitos para acceder a la nueva ayuda de 200 euros del gobierno y cómo solicitarlo online</a></h4>
+    <a href='https://computerhoy.com/noticias/life/requisitos-acceder-nueva-ayuda-200-euros-gobierno-como-solicitarlo-online-1083929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/pedro-sanchez-consejo-ministros-telematico-31-marzo-1906681.jpg' alt='Requisitos para acceder a la nueva ayuda de 200 euros del gobierno y cómo solicitarlo online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aumentan-multas-dgt-200-euros-6-puntos-desconocimiento-norma-tipo-adelantamiento-1083969'>Aumentan las multas de la DGT (200 euros y 6 puntos) por desconocimiento de la norma en este tipo de adelantamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aumentan-multas-dgt-200-euros-6-puntos-desconocimiento-norma-tipo-adelantamiento-1083969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='Aumentan las multas de la DGT (200 euros y 6 puntos) por desconocimiento de la norma en este tipo de adelantamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917'>Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/marte-fotos-nasa-2741885.jpg' alt='Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/intel-evo-portatiles-dan-salto-definitivo-acercarse-perfeccion-1077671'>Intel EVO: los portátiles dan el salto definitivo para acercarse a la perfección</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/intel-evo-portatiles-dan-salto-definitivo-acercarse-perfeccion-1077671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/plataforma-intel-evo-portatiles-tienen-todo-2731543.jpg' alt='Intel EVO: los portátiles dan el salto definitivo para acercarse a la perfección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873'>Dónde comprar la tablet Xiaomi Pad 5 más barata del momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Dónde comprar la tablet Xiaomi Pad 5 más barata del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871'>37 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/37-noticias-tecnologia-comenzar-manana-informado-ultimo-1083871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/37-noticias-tecnologia-comenzar-manana-informado-ultimo-2741821.jpg' alt='37 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757'>Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-12-2741711.jpg' alt='Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?' />
     </a>
 </div>
 
