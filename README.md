@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917'>Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/marte-fotos-nasa-2741885.jpg' alt='Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/intel-evo-portatiles-dan-salto-definitivo-acercarse-perfeccion-1077671'>Intel EVO: los portátiles dan el salto definitivo para acercarse a la perfección</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/intel-evo-portatiles-dan-salto-definitivo-acercarse-perfeccion-1077671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/plataforma-intel-evo-portatiles-tienen-todo-2731543.jpg' alt='Intel EVO: los portátiles dan el salto definitivo para acercarse a la perfección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873'>Dónde comprar la tablet Xiaomi Pad 5 más barata del momento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-xiaomi-pad-5-barata-1083873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg' alt='Dónde comprar la tablet Xiaomi Pad 5 más barata del momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757'>Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-xiaomi-12-1083757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-12-2741711.jpg' alt='Xiaomi 12 está más barato, ¿es el momento de comprar el gama premium de Xiaomi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741'>Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-alfombrilla-raton-jugar-trabajar-1042741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/alfombrilla-raton-2671031.jpg' alt='Guía y consejos para comprar una alfombrilla de ratón para jugar o trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663'>Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/youtuber-crea-coche-conduce-hacia-atras-usando-televisor-1082663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtuber-crea-coche-conduce-atras-usando-televisores-vez-luna-delantera-2740049.jpg' alt='Un youtuber crea un coche que se conduce hacia atrás usando televisores en vez de luna delantera' />
     </a>
 </div>
 
