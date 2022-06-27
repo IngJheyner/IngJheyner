@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-1084225'>Motorola Moto G42 es oficial en España: pantalla AMOLED, gran batería y un precio competitivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-1084225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-2742503.jpg' alt='Motorola Moto G42 es oficial en España: pantalla AMOLED, gran batería y un precio competitivo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261'>Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-westworld-temporada-4-hbo-max-1084245'>Se ha estrenado en HBO Max la nueva temporada de la serie de ciencia ficción que ha marcado época</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-westworld-temporada-4-hbo-max-1084245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ha-estrenado-hbo-max-nueva-temporada-serie-ciencia-ficcion-ha-marcado-epoca-2742537.jpg' alt='Se ha estrenado en HBO Max la nueva temporada de la serie de ciencia ficción que ha marcado época' />
+    <h4><a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265'>4 causas de que el aire acondicionado no enfríe el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-causas-aire-acondicionado-no-enfrie-coche-2742573.jpg' alt='4 causas de que el aire acondicionado no enfríe el coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-auguran-apple-watch-series-8-muy-poco-ilusionante-1084239'>Primeras filtraciones auguran un Apple Watch Series 8 muy poco ilusionante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-auguran-apple-watch-series-8-muy-poco-ilusionante-1084239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='Primeras filtraciones auguran un Apple Watch Series 8 muy poco ilusionante' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253'>El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-llegan-aplicacion-oficial-google-news-espana-1084205'>Todas las novedades que llegan con la aplicación oficial de Google News para España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todas-novedades-llegan-aplicacion-oficial-google-news-espana-1084205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-news-computer-hoy-2243883.jpg' alt='Todas las novedades que llegan con la aplicación oficial de Google News para España' />
+    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-calles-cortadas-restricciones-necesitas-saber-sobrevivir-cumbre-otan-madrid-1084257'>Carreteras, calles cortadas, restricciones y lo que necesitas saber para sobrevivir a la Cumbre de la OTAN en Madrid</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carreteras-calles-cortadas-restricciones-necesitas-saber-sobrevivir-cumbre-otan-madrid-1084257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vista-aerea-madrid-2742545.jpg' alt='Carreteras, calles cortadas, restricciones y lo que necesitas saber para sobrevivir a la Cumbre de la OTAN en Madrid' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995'>Mejores tablets baratas para llevarte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-sujetando-ipad-2742279.jpg' alt='Mejores tablets baratas para llevarte de vacaciones' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/series-s-baja-oferta-precio-minimo-historico-1084189'>Perfecta para el verano: Xbox Series S baja a su precio mínimo histórico, 269 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/series-s-baja-oferta-precio-minimo-historico-1084189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Perfecta para el verano: Xbox Series S baja a su precio mínimo histórico, 269 euros' />
     </a>
 </div>
 
