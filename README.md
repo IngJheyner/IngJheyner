@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093'>DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/joe-biden-dall-2742289.jpg' alt='DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087'>El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bebida-energetica.jpg' alt='El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007'>El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2742027.jpg' alt='El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085'>La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7' />
     </a>
 </div>
 
