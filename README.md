@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-1084225'>Motorola Moto G42 es oficial en España: pantalla AMOLED, gran batería y un precio competitivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-1084225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-moto-g42-oficial-espana-pantalla-amoled-gran-bateria-precio-competitivo-2742503.jpg' alt='Motorola Moto G42 es oficial en España: pantalla AMOLED, gran batería y un precio competitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estreno-westworld-temporada-4-hbo-max-1084245'>Se ha estrenado en HBO Max la nueva temporada de la serie de ciencia ficción que ha marcado época</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estreno-westworld-temporada-4-hbo-max-1084245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ha-estrenado-hbo-max-nueva-temporada-serie-ciencia-ficcion-ha-marcado-epoca-2742537.jpg' alt='Se ha estrenado en HBO Max la nueva temporada de la serie de ciencia ficción que ha marcado época' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-auguran-apple-watch-series-8-muy-poco-ilusionante-1084239'>Primeras filtraciones auguran un Apple Watch Series 8 muy poco ilusionante</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-filtraciones-auguran-apple-watch-series-8-muy-poco-ilusionante-1084239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='Primeras filtraciones auguran un Apple Watch Series 8 muy poco ilusionante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995'>Mejores tablets baratas para llevarte de vacaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-sujetando-ipad-2742279.jpg' alt='Mejores tablets baratas para llevarte de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-simplificar-tarifas-reducir-precios-competir-omv-1084177'>Vodafone se apunta a simplificar sus tarifas y reducir los precios para competir con las OMV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-simplificar-tarifas-reducir-precios-competir-omv-1084177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Vodafone se apunta a simplificar sus tarifas y reducir los precios para competir con las OMV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171'>Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nexus-q-2742447.jpg' alt='Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware' />
     </a>
 </div>
 
