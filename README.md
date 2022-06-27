@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087'>El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bebida-energetica.jpg' alt='El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-errores-windows-11-como-solucionarlos-morir-intento-1082155'>9 errores de Windows 11 y cómo solucionarlos sin morir en el intento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/9-errores-windows-11-como-solucionarlos-morir-intento-1082155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='9 errores de Windows 11 y cómo solucionarlos sin morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039'>Los 5 libros que Bill Gates recomienda leer este verano 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='Los 5 libros que Bill Gates recomienda leer este verano 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085'>La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-pulsera-huawei-band-7-oficial-monitorizacion-activa-salud-24-7-1084085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='La nueva pulsera HUAWEI Band 7 es oficial: monitorización activa de la salud 24/7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/desconectar-aire-acondicionado-coche-realmente-ayuda-ahorrar-gasolina-1084063'>Desconectar el aire acondicionado del coche ¿realmente ayuda a ahorrar gasolina?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/desconectar-aire-acondicionado-coche-realmente-ayuda-ahorrar-gasolina-1084063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='Desconectar el aire acondicionado del coche ¿realmente ayuda a ahorrar gasolina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027'>Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas' />
     </a>
 </div>
 
