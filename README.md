@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995'>Mejores tablets baratas para llevarte de vacaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-baratas-vacaciones-1083995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-sujetando-ipad-2742279.jpg' alt='Mejores tablets baratas para llevarte de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-simplificar-tarifas-reducir-precios-competir-omv-1084177'>Vodafone se apunta a simplificar sus tarifas y reducir los precios para competir con las OMV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vodafone-apunta-simplificar-tarifas-reducir-precios-competir-omv-1084177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vodafone-stand-mwc-2633931.jpg' alt='Vodafone se apunta a simplificar sus tarifas y reducir los precios para competir con las OMV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171'>Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nexus-q-2742447.jpg' alt='Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-vr-ar-apple-podrian-ser-potentes-macbook-actual-1084151'>Las gafas VR/AR de Apple podrían ser más potentes que nuestro MacBook actual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-vr-ar-apple-podrian-ser-potentes-macbook-actual-1084151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas VR/AR de Apple podrían ser más potentes que nuestro MacBook actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093'>DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/joe-biden-dall-2742289.jpg' alt='DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087'>El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bebida-energetica.jpg' alt='El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos' />
     </a>
 </div>
 
