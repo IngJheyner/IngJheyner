@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171'>Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-10-anos-peor-fracaso-google-campo-hardware-1084171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nexus-q-2742447.jpg' alt='Hoy se cumplen 10 años del peor fracaso de Google en el campo del hardware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/dejale-movil-pequenos-casa-preocuparte-mejores-juegos-infantiles-android-1077767'>Déjale el móvil a los más pequeños de la casa sin preocuparte: los mejores juegos infantiles en Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/dejale-movil-pequenos-casa-preocuparte-mejores-juegos-infantiles-android-1077767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dejale-movil-pequenos-casa-preocuparte-mejores-juegos-infantes-android-2735543.jpg' alt='Déjale el móvil a los más pequeños de la casa sin preocuparte: los mejores juegos infantiles en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-vr-ar-apple-podrian-ser-potentes-macbook-actual-1084151'>Las gafas VR/AR de Apple podrían ser más potentes que nuestro MacBook actual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-vr-ar-apple-podrian-ser-potentes-macbook-actual-1084151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gafas-realidad-mixta-apple-llegarian-ano-aunque-harian-forma-intermitente-2579587.jpg' alt='Las gafas VR/AR de Apple podrían ser más potentes que nuestro MacBook actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093'>DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dall-ia-ha-enamorado-internet-haciendo-mejores-locos-memes-1084093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/joe-biden-dall-2742289.jpg' alt='DALL-E es la IA que ha enamorado a internet haciendo los mejores y más locos memes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087'>El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/life/genial-truco-viral-enfriar-latas-refresco-cerveza-tan-solo-10-minutos-1084087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/bebida-energetica.jpg' alt='El genial truco viral para enfriar latas de refresco y cerveza en tan solo 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/9-errores-windows-11-como-solucionarlos-morir-intento-1082155'>9 errores de Windows 11 y cómo solucionarlos sin morir en el intento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/9-errores-windows-11-como-solucionarlos-morir-intento-1082155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ordenador-portatil-windows-11-2688653.jpg' alt='9 errores de Windows 11 y cómo solucionarlos sin morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039'>Los 5 libros que Bill Gates recomienda leer este verano 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-libros-bill-gates-recomienda-leer-verano-2022-1084039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2628607.jpg' alt='Los 5 libros que Bill Gates recomienda leer este verano 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007'>El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-f4-5g-oferta-27-junio-2022-1084007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/poco-f4-2742027.jpg' alt='El nuevo POCO F4 ya está en oferta: es 50€ más barato, y eso que acaba de llegar' />
     </a>
 </div>
 
