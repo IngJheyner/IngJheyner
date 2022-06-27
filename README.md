@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027'>Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-cookies-internet-llaman-riesgos-asumes-aceptandolas-1084027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg' alt='Qué son las cookies de Internet, por qué se llaman así y qué riesgos asumes aceptándolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/prueba-ventajas-cocina-aceite-freidora-aire-lidl-menos-50-euros-1084045'>Prueba las ventajas de la cocina sin aceite con la freidora de aire de Lidl por menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/prueba-ventajas-cocina-aceite-freidora-aire-lidl-menos-50-euros-1084045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg' alt='Prueba las ventajas de la cocina sin aceite con la freidora de aire de Lidl por menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mobile-world-congress-no-movera-barcelona-menos-2030-1084029'>El Mobile World Congress no se moverá de Barcelona... al menos hasta 2030</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mobile-world-congress-no-movera-barcelona-menos-2030-1084029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg' alt='El Mobile World Congress no se moverá de Barcelona... al menos hasta 2030' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067'>Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/moviles-promocion-verano-aliexpress-2739245.jpg' alt='Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005'>Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/tienes-steam-deck-no-hagas-puede-romperte-consola-dias-1083989'>Si tienes una Steam Deck no hagas esto, puede romperte la consola en días</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/tienes-steam-deck-no-hagas-puede-romperte-consola-dias-1083989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg' alt='Si tienes una Steam Deck no hagas esto, puede romperte la consola en días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-aliexpress-27-junio-2022-1083979'>Uno de los mejores móviles de 2022 se estrena con gran descuento: el realme GT Neo 3 baja casi 100€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-aliexpress-27-junio-2022-1083979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725625.jpg' alt='Uno de los mejores móviles de 2022 se estrena con gran descuento: el realme GT Neo 3 baja casi 100€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961'>Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca' />
     </a>
 </div>
 
