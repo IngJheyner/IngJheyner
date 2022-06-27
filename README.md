@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067'>Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-seis-buenos-telefonos-moviles-precio-excelente-1082067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/moviles-promocion-verano-aliexpress-2739245.jpg' alt='Promoción de Verano de AliExpress: seis buenos teléfonos móviles a un precio excelente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005'>Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-pierde-iphone-rio-consiguen-encontrarlo-10-meses-despues-casi-intacto-1084005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='Así es como se pierde un iPhone en un río y consiguen encontrarlo 10 meses después casi intacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/tienes-steam-deck-no-hagas-puede-romperte-consola-dias-1083989'>Si tienes una Steam Deck no hagas esto, puede romperte la consola en días</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/tienes-steam-deck-no-hagas-puede-romperte-consola-dias-1083989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg' alt='Si tienes una Steam Deck no hagas esto, puede romperte la consola en días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-aliexpress-27-junio-2022-1083979'>Uno de los mejores móviles de 2022 se estrena con gran descuento: el realme GT Neo 3 baja casi 100€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-oferta-aliexpress-27-junio-2022-1083979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725625.jpg' alt='Uno de los mejores móviles de 2022 se estrena con gran descuento: el realme GT Neo 3 baja casi 100€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961'>Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca</a></h4>
     <a href='https://computerhoy.com/noticias/life/equivalencias-perfumes-colonias-aldi-nada-tienen-envidiar-fragancias-marca-1083961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg' alt='Equivalencias de los perfumes y colonias de Aldi que nada tienen que envidiar a las fragancias de marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bancos-interesa-desaparezca-dinero-efectivo-1083923'>¿Por qué a los bancos les interesa que desaparezca el dinero en efectivo?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bancos-interesa-desaparezca-dinero-efectivo-1083923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cajero-banco-2515733.jpg' alt='¿Por qué a los bancos les interesa que desaparezca el dinero en efectivo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/requisitos-acceder-nueva-ayuda-200-euros-gobierno-como-solicitarlo-online-1083929'>Requisitos para acceder a la nueva ayuda de 200 euros del gobierno y cómo solicitarlo online</a></h4>
-    <a href='https://computerhoy.com/noticias/life/requisitos-acceder-nueva-ayuda-200-euros-gobierno-como-solicitarlo-online-1083929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/pedro-sanchez-consejo-ministros-telematico-31-marzo-1906681.jpg' alt='Requisitos para acceder a la nueva ayuda de 200 euros del gobierno y cómo solicitarlo online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aumentan-multas-dgt-200-euros-6-puntos-desconocimiento-norma-tipo-adelantamiento-1083969'>Aumentan las multas de la DGT (200 euros y 6 puntos) por desconocimiento de la norma en este tipo de adelantamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aumentan-multas-dgt-200-euros-6-puntos-desconocimiento-norma-tipo-adelantamiento-1083969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='Aumentan las multas de la DGT (200 euros y 6 puntos) por desconocimiento de la norma en este tipo de adelantamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917'>Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curiosity-nasa-muestra-fotos-espectaculares-efectos-cambio-climatico-marte-1083917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/marte-fotos-nasa-2741885.jpg' alt='Curiosity de la NASA muestra fotos espectaculares de los efectos del cambio climático en Marte' />
     </a>
 </div>
 
