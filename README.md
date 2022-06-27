@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271'>El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-m2-2723099.jpg' alt='El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269'>Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261'>Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253'>El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-calles-cortadas-restricciones-necesitas-saber-sobrevivir-cumbre-otan-madrid-1084257'>Carreteras, calles cortadas, restricciones y lo que necesitas saber para sobrevivir a la Cumbre de la OTAN en Madrid</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carreteras-calles-cortadas-restricciones-necesitas-saber-sobrevivir-cumbre-otan-madrid-1084257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vista-aerea-madrid-2742545.jpg' alt='Carreteras, calles cortadas, restricciones y lo que necesitas saber para sobrevivir a la Cumbre de la OTAN en Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/series-s-baja-oferta-precio-minimo-historico-1084189'>Perfecta para el verano: Xbox Series S baja a su precio mínimo histórico, 269 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/series-s-baja-oferta-precio-minimo-historico-1084189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-xbox-series-s-2022-2610083.jpg' alt='Perfecta para el verano: Xbox Series S baja a su precio mínimo histórico, 269 euros' />
     </a>
 </div>
 
