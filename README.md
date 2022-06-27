@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275'>Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-prohibio-teletrabajo-tesla-ahora-empleados-no-tienen-aparcamientos-mesas-ni-wifi-todos-2742583.jpg' alt='Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271'>El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-m2-2723099.jpg' alt='El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265'>4 causas de que el aire acondicionado no enfríe el coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-causas-aire-acondicionado-no-enfrie-coche-2742573.jpg' alt='4 causas de que el aire acondicionado no enfríe el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253'>El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-macbook-pro-procesador-m2-tendria-problema-muy-complicado-solucionar-1084253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='El nuevo Apple MacBook Pro con el procesador M2 tendría un problema muy complicado de solucionar' />
     </a>
 </div>
 
