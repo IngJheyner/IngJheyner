@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671'>Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694705.jpg' alt='Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675'>Tu olor corporal es quien decide tus amistades</a></h4>
+    <a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Tu olor corporal es quien decide tus amistades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661'>La DGT recuerda cómo debes sentarte correctamente para conducir</a></h4>
     <a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='La DGT recuerda cómo debes sentarte correctamente para conducir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667'>Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/windows-defender_0.jpg' alt='Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648889.jpg' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2742803.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
