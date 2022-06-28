@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755'>Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjetas-credito-2674775.jpg' alt='Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelta-htc-mercado-smartphone-tan-oficial-como-decepcionante-1084797'>La vuelta de HTC al mercado smartphone es tan oficial como decepcionante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelta-htc-mercado-smartphone-tan-oficial-como-decepcionante-1084797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/htc-desire-22-pro-2743207.jpg' alt='La vuelta de HTC al mercado smartphone es tan oficial como decepcionante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739'>Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-2743059.jpg' alt='Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779'>Estos son todos los estrenos de Prime Video para julio de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='Estos son todos los estrenos de Prime Video para julio de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-199eu-1083967'>No estás soñando: este aire acondicionado de Cecotec ha bajado un 29% de precio en pleno verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-199eu-1083967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-199eu-2741985.jpg' alt='No estás soñando: este aire acondicionado de Cecotec ha bajado un 29% de precio en pleno verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679'>La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg' alt='La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce' />
     </a>
 </div>
 
