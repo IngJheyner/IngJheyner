@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283'>Un paseo por la increíble Casa del Chocolate de Lindt</a></h4>
+    <a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paseo-increible-casa-chocolate-lindt-2742631.jpg' alt='Un paseo por la increíble Casa del Chocolate de Lindt' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275'>Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-prohibio-teletrabajo-tesla-ahora-empleados-no-tienen-aparcamientos-mesas-ni-wifi-todos-2742583.jpg' alt='Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261'>Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265'>4 causas de que el aire acondicionado no enfríe el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/4-causas-aire-acondicionado-no-enfrie-coche-1084265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tres-causas-aire-acondicionado-no-enfrie-coche-2742573.jpg' alt='4 causas de que el aire acondicionado no enfríe el coche' />
     </a>
 </div>
 
