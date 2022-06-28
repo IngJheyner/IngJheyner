@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teletrabajo-tan-cotizado-hay-personas-utilizando-deepfakes-encontrar-tipo-empleo-1085011'>El teletrabajo está tan cotizado que hay personas utilizando deepfakes para encontrar este tipo de empleo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teletrabajo-tan-cotizado-hay-personas-utilizando-deepfakes-encontrar-tipo-empleo-1085011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacer-tiktoks-deepfakes-tom-cruise-ser-metaphysic-empresa-ai-exitosa-2432777.jpg' alt='El teletrabajo está tan cotizado que hay personas utilizando deepfakes para encontrar este tipo de empleo' />
+    <h4><a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011'>Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC</a></h4>
+    <a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-m9-2743637.jpg' alt='Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009'>Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone' />
+    <h4><a href='https://computerhoy.com/analisis/gaming/sony-inzone-h9-review-opinion-auriculares-tipo-wh1000-xm5-ps5-pc-1084009'>Sony Inzone H9, análisis y opinión de los auriculares tipo WH1000 XM5 para PS5 y PC</a></h4>
+    <a href='https://computerhoy.com/analisis/gaming/sony-inzone-h9-review-opinion-auriculares-tipo-wh1000-xm5-ps5-pc-1084009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-h9-2743545.jpg' alt='Sony Inzone H9, análisis y opinión de los auriculares tipo WH1000 XM5 para PS5 y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-hace-pasar-aplicacion-bbva-poder-hacerse-todos-datos-1085007'>Este malware se hace pasar por la aplicación de BBVA para poder hacerse con todos tus datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-hace-pasar-aplicacion-bbva-poder-hacerse-todos-datos-1085007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Este malware se hace pasar por la aplicación de BBVA para poder hacerse con todos tus datos' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903'>Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-m9-2743641.jpg' alt='Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-chollo-1085017'>El televisor Xiaomi Mi TV P1 de 43 pulgadas con resolución 4K y Dolby Vision, casi regalado: solo 214 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-chollo-1085017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-casi-regalado-solo-214-euros-2743903.jpg' alt='El televisor Xiaomi Mi TV P1 de 43 pulgadas con resolución 4K y Dolby Vision, casi regalado: solo 214 euros' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901'>Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/galeria-review-sony-inzone-h9-2743505.jpg' alt='Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001'>Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-2743861.jpg' alt='Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/atari-celebra-50-aniversario-nuevos-cartuchos-atari-2600-1085025'>Atari celebra su 50 Aniversario lanzando dos nuevos cartuchos para Atari 2600, una consola de 1977</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/atari-celebra-50-aniversario-nuevos-cartuchos-atari-2600-1085025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/atari-celebra-50-aniversario-lanzando-dos-nuevos-cartuchos-atari-2600-consola-1977-2743919.jpg' alt='Atari celebra su 50 Aniversario lanzando dos nuevos cartuchos para Atari 2600, una consola de 1977' />
     </a>
 </div>
 
