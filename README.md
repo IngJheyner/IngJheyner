@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031'>Shark SUV, el jeep eléctrico con las ruedas cuadradas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/shark-suv-jeep-electrico-ruedas-cuadradas-2743927.jpg' alt='Shark SUV, el jeep eléctrico con las ruedas cuadradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011'>Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC</a></h4>
     <a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-m9-2743637.jpg' alt='Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901'>Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/galeria-review-sony-inzone-h9-2743505.jpg' alt='Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/atari-celebra-50-aniversario-nuevos-cartuchos-atari-2600-1085025'>Atari celebra su 50 Aniversario lanzando dos nuevos cartuchos para Atari 2600, una consola de 1977</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/atari-celebra-50-aniversario-nuevos-cartuchos-atari-2600-1085025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/atari-celebra-50-aniversario-lanzando-dos-nuevos-cartuchos-atari-2600-consola-1977-2743919.jpg' alt='Atari celebra su 50 Aniversario lanzando dos nuevos cartuchos para Atari 2600, una consola de 1977' />
     </a>
 </div>
 
