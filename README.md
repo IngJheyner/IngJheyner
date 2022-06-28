@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-renueva-catalogo-productos-equipos-profesionales-portatiles-destinados-gaming-1084931'>HP renueva su catálogo de productos con equipos profesionales y portátiles destinados al gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-renueva-catalogo-productos-equipos-profesionales-portatiles-destinados-gaming-1084931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hp-renueva-catalogo-productos-equipos-profesionales-portatiles-destinados-gaming-2743705.jpg' alt='HP renueva su catálogo de productos con equipos profesionales y portátiles destinados al gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-tipos-diferencias-cuanta-necesitas-tener-smartphone-pc-905577'>Memoria RAM: tipos, diferencias y cuál es la cantidad que necesitas tener en tu ordenador o móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-tipos-diferencias-cuanta-necesitas-tener-smartphone-pc-905577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tipos-memoria-ram-2419843.jpg' alt='Memoria RAM: tipos, diferencias y cuál es la cantidad que necesitas tener en tu ordenador o móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ultima-caer-grupo-piratas-asegura-haber-robado-450-gb-informacion-sensible-1084879'>AMD es la última en caer: un grupo de piratas asegura haber robado 450 GB de información sensible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-ultima-caer-grupo-piratas-asegura-haber-robado-450-gb-informacion-sensible-1084879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD es la última en caer: un grupo de piratas asegura haber robado 450 GB de información sensible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807'>Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/captura-iphone-13-pro-max-2738713.jpg' alt='Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android' />
     </a>
 </div>
 
