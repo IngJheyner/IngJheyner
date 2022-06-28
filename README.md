@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teletrabajo-tan-cotizado-hay-personas-utilizando-deepfakes-encontrar-tipo-empleo-1085011'>El teletrabajo está tan cotizado que hay personas utilizando deepfakes para encontrar este tipo de empleo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teletrabajo-tan-cotizado-hay-personas-utilizando-deepfakes-encontrar-tipo-empleo-1085011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacer-tiktoks-deepfakes-tom-cruise-ser-metaphysic-empresa-ai-exitosa-2432777.jpg' alt='El teletrabajo está tan cotizado que hay personas utilizando deepfakes para encontrar este tipo de empleo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009'>Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001'>Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-2743861.jpg' alt='Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-prepara-ya-snapdragon-8-gen-2-filtra-fecha-presentacion-1084997'>Qualcomm prepara ya el Snapdragon 8 Gen 2 y se filtra hasta su fecha de presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-prepara-ya-snapdragon-8-gen-2-filtra-fecha-presentacion-1084997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Qualcomm prepara ya el Snapdragon 8 Gen 2 y se filtra hasta su fecha de presentación' />
     </a>
 </div>
 
