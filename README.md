@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648889.jpg' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2742803.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283'>Un paseo por la increíble Casa del Chocolate de Lindt</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paseo-increible-casa-chocolate-lindt-2742631.jpg' alt='Un paseo por la increíble Casa del Chocolate de Lindt' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275'>Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-prohibio-teletrabajo-tesla-ahora-empleados-no-tienen-aparcamientos-mesas-ni-wifi-todos-2742583.jpg' alt='Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos' />
     </a>
 </div>
 
