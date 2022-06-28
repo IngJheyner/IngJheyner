@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-tipos-diferencias-cuanta-necesitas-tener-smartphone-pc-905577'>Memoria RAM: tipos, diferencias y cuál es la cantidad que necesitas tener en tu ordenador o móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/memoria-ram-tipos-diferencias-cuanta-necesitas-tener-smartphone-pc-905577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tipos-memoria-ram-2419843.jpg' alt='Memoria RAM: tipos, diferencias y cuál es la cantidad que necesitas tener en tu ordenador o móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733'>Las mejores páginas de karaoke online para cantar en casa en pleno 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/mejores-paginas-karaoke-online-cantar-294733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/karaoke-tesla-2602549.jpg' alt='Las mejores páginas de karaoke online para cantar en casa en pleno 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problema-nuevo-chip-m2-macbook-pro-2022-son-peor-esperado-1084891'>Apple tiene un problema con su nuevo chip M2: los MacBook Pro 2022 son peor de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-tiene-problema-nuevo-chip-m2-macbook-pro-2022-son-peor-esperado-1084891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723203.jpg' alt='Apple tiene un problema con su nuevo chip M2: los MacBook Pro 2022 son peor de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ultima-caer-grupo-piratas-asegura-haber-robado-450-gb-informacion-sensible-1084879'>AMD es la última en caer: un grupo de piratas asegura haber robado 450 GB de información sensible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-ultima-caer-grupo-piratas-asegura-haber-robado-450-gb-informacion-sensible-1084879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD es la última en caer: un grupo de piratas asegura haber robado 450 GB de información sensible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807'>Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/captura-iphone-13-pro-max-2738713.jpg' alt='Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-consigue-batir-records-disney-eso-puede-ser-malo-star-wars-1084841'>Obi-Wan consigue batir récords en Disney+ y eso puede ser malo para Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-consigue-batir-records-disney-eso-puede-ser-malo-star-wars-1084841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/obi-wan-kenobi-2693023.jpg' alt='Obi-Wan consigue batir récords en Disney+ y eso puede ser malo para Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755'>Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjetas-credito-2674775.jpg' alt='Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelta-htc-mercado-smartphone-tan-oficial-como-decepcionante-1084797'>La vuelta de HTC al mercado smartphone es tan oficial como decepcionante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelta-htc-mercado-smartphone-tan-oficial-como-decepcionante-1084797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/htc-desire-22-pro-2743207.jpg' alt='La vuelta de HTC al mercado smartphone es tan oficial como decepcionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739'>Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-2743059.jpg' alt='Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?' />
     </a>
 </div>
 
