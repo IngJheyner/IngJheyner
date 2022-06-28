@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807'>Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-volvera-vender-como-gran-novedad-iphone-14-funcion-lleva-anos-android-1084807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/captura-iphone-13-pro-max-2738713.jpg' alt='Apple volverá a vender como gran novedad del iPhone 14 una función que lleva años en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-consigue-batir-records-disney-eso-puede-ser-malo-star-wars-1084841'>Obi-Wan consigue batir récords en Disney+ y eso puede ser malo para Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/obi-wan-consigue-batir-records-disney-eso-puede-ser-malo-star-wars-1084841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/obi-wan-kenobi-2693023.jpg' alt='Obi-Wan consigue batir récords en Disney+ y eso puede ser malo para Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755'>Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/diferencias-tarjetas-credito-debito-cuando-rentable-utilizar-otra-ocu-1084755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjetas-credito-2674775.jpg' alt='Diferencias entre las tarjetas de crédito y débito y cuándo es más rentable utilizar una u otra, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739'>Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-2743059.jpg' alt='Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roborock-presenta-nuevo-aspirador-premium-roborock-s7-pro-ultra-1084785'>Roborock presenta un nuevo aspirador premium, Roborock S7 Pro Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roborock-presenta-nuevo-aspirador-premium-roborock-s7-pro-ultra-1084785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/roborock-s7-pro-ultra-2743157.jpg' alt='Roborock presenta un nuevo aspirador premium, Roborock S7 Pro Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779'>Estos son todos los estrenos de Prime Video para julio de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='Estos son todos los estrenos de Prime Video para julio de 2022' />
     </a>
 </div>
 
