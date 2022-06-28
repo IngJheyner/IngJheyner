@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009'>Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todavia-hay-esperanza-compatibilidad-pixel-watch-iphone-1085009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Todavía hay esperanza para la compatibilidad del Pixel Watch con el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-hace-pasar-aplicacion-bbva-poder-hacerse-todos-datos-1085007'>Este malware se hace pasar por la aplicación de BBVA para poder hacerse con todos tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-hace-pasar-aplicacion-bbva-poder-hacerse-todos-datos-1085007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Este malware se hace pasar por la aplicación de BBVA para poder hacerse con todos tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-chollo-1085017'>El televisor Xiaomi Mi TV P1 de 43 pulgadas con resolución 4K y Dolby Vision, casi regalado: solo 214 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-chollo-1085017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/televisor-xiaomi-mi-tv-p1-43-pulgadas-resolucion-4k-dolby-vision-casi-regalado-solo-214-euros-2743903.jpg' alt='El televisor Xiaomi Mi TV P1 de 43 pulgadas con resolución 4K y Dolby Vision, casi regalado: solo 214 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001'>Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-1085001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/spotify-lanza-supergrouper-puedas-hacer-grupo-suenos-2743861.jpg' alt='Spotify lanza Supergrouper para que puedas hacer el grupo de tus sueños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-prepara-ya-snapdragon-8-gen-2-filtra-fecha-presentacion-1084997'>Qualcomm prepara ya el Snapdragon 8 Gen 2 y se filtra hasta su fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-prepara-ya-snapdragon-8-gen-2-filtra-fecha-presentacion-1084997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/qualcomm-stand-mwc-2633891.jpg' alt='Qualcomm prepara ya el Snapdragon 8 Gen 2 y se filtra hasta su fecha de presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trazado-rayos-todos-telefonos-android-estaria-cada-vez-cerca-ser-realidad-gracias-arm-1084965'>El trazado de rayos en los todos teléfonos Android estaría cada vez más cerca de ser una realidad gracias a ARM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trazado-rayos-todos-telefonos-android-estaria-cada-vez-cerca-ser-realidad-gracias-arm-1084965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trazado-rayos-telefonos-android-estaria-cada-vez-cerca-ser-realidad-2743779.jpg' alt='El trazado de rayos en los todos teléfonos Android estaría cada vez más cerca de ser una realidad gracias a ARM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/familia-xiaomi-12s-ya-tiene-fecha-presentacion-oficial-seria-diseno-integrantes-1084967'>La familia Xiaomi 12S ya tiene una fecha de presentación oficial y este sería el diseño de uno de sus integrantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/familia-xiaomi-12s-ya-tiene-fecha-presentacion-oficial-seria-diseno-integrantes-1084967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='La familia Xiaomi 12S ya tiene una fecha de presentación oficial y este sería el diseño de uno de sus integrantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/experta-moda-explica-verdadero-significado-simbolos-etiquetas-zara-1084991'>Una experta en moda explica el verdadero significado de los símbolos de las etiquetas de Zara</a></h4>
-    <a href='https://computerhoy.com/noticias/life/experta-moda-explica-verdadero-significado-simbolos-etiquetas-zara-1084991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/zara-2743849.jpg' alt='Una experta en moda explica el verdadero significado de los símbolos de las etiquetas de Zara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-comida-quemada-incrustada-fondo-olla-sarten-necesidad-frotar-1084983'>Cómo quitar la comida quemada incrustada en el fondo de una olla o sartén sin necesidad de frotar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-quitar-comida-quemada-incrustada-fondo-olla-sarten-necesidad-frotar-1084983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-quitar-comida-quemada-incrustada-fondo-olla-sarten-necesidad-frotar-2743839.jpg' alt='Cómo quitar la comida quemada incrustada en el fondo de una olla o sartén sin necesidad de frotar' />
     </a>
 </div>
 
