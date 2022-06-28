@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679'>La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg' alt='La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-estado-whatsapp-contacto-entere-1084761'>Cómo ver el estado de WhatsApp de un contacto sin que se entere</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-estado-whatsapp-contacto-entere-1084761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Cómo ver el estado de WhatsApp de un contacto sin que se entere' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-bitcoin-ethereum-preparan-inminentes-grandes-movimientos-precio-1084713'>Todo apunta a que Bitcoin y Ethereum se preparan para inminentes grandes movimientos de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-bitcoin-ethereum-preparan-inminentes-grandes-movimientos-precio-1084713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='Todo apunta a que Bitcoin y Ethereum se preparan para inminentes grandes movimientos de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671'>Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694705.jpg' alt='Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675'>Tu olor corporal es quien decide tus amistades</a></h4>
     <a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Tu olor corporal es quien decide tus amistades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661'>La DGT recuerda cómo debes sentarte correctamente para conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='La DGT recuerda cómo debes sentarte correctamente para conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-oferta-28-junio-2022-1084033'>No es el Apple Watch: cuesta 73 euros, se vende en España y tiene 14 días de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-oferta-28-junio-2022-1084033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='No es el Apple Watch: cuesta 73 euros, se vende en España y tiene 14 días de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667'>Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/windows-defender_0.jpg' alt='Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución' />
     </a>
 </div>
 
