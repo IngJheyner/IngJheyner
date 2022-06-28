@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2742803.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165'>Estos son los mejores móviles Nokia que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nokia-x-series-2742439.jpg' alt='Estos son los mejores móviles Nokia que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623'>Razones por las que te despiertas en mitad de la noche empapado en sudor</a></h4>
     <a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/razones-te-despiertas-mitad-noche-empapado-sudor-2742801.jpg' alt='Razones por las que te despiertas en mitad de la noche empapado en sudor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275'>Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/elon-musk-teletrabajo-tesla-empleados-sin-aparcamientos-mesas-ni-wifi-1084275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-prohibio-teletrabajo-tesla-ahora-empleados-no-tienen-aparcamientos-mesas-ni-wifi-todos-2742583.jpg' alt='Elon Musk prohibió el teletrabajo en Tesla, y ahora los empleados no tienen aparcamientos, mesas ni WiFi para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271'>El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-m2-seria-avanzadilla-ultimos-rumores-apuntan-apple-tendria-procesador-potente-camino-1084271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-m2-2723099.jpg' alt='El Apple M2 sería la avanzadilla: los últimos rumores apuntan a que Apple tendría un procesador más potente en camino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269'>Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía' />
     </a>
 </div>
 
