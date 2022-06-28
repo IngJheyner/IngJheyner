@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739'>Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-1084739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/entendiendo-enemigo-como-funciona-sistema-recomendaciones-netflix-2743059.jpg' alt='Entendiendo a tu “enemigo”: ¿cómo funciona el sistema de recomendaciones de Netflix?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roborock-presenta-nuevo-aspirador-premium-roborock-s7-pro-ultra-1084785'>Roborock presenta un nuevo aspirador premium, Roborock S7 Pro Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roborock-presenta-nuevo-aspirador-premium-roborock-s7-pro-ultra-1084785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/roborock-s7-pro-ultra-2743157.jpg' alt='Roborock presenta un nuevo aspirador premium, Roborock S7 Pro Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779'>Estos son todos los estrenos de Prime Video para julio de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-prime-video-julio-2022-1084779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-viendo-tv-logo-amazon-prime-video-2548369.jpg' alt='Estos son todos los estrenos de Prime Video para julio de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-199eu-1083967'>No estás soñando: este aire acondicionado de Cecotec ha bajado un 29% de precio en pleno verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-199eu-1083967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-199eu-2741985.jpg' alt='No estás soñando: este aire acondicionado de Cecotec ha bajado un 29% de precio en pleno verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679'>La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-1084679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg' alt='La NASA localiza el impacto de un cohete contra la Luna, y nadie en la Tierra lo reconoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-estado-whatsapp-contacto-entere-1084761'>Cómo ver el estado de WhatsApp de un contacto sin que se entere</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-estado-whatsapp-contacto-entere-1084761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='Cómo ver el estado de WhatsApp de un contacto sin que se entere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-bitcoin-ethereum-preparan-inminentes-grandes-movimientos-precio-1084713'>Todo apunta a que Bitcoin y Ethereum se preparan para inminentes grandes movimientos de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-apunta-bitcoin-ethereum-preparan-inminentes-grandes-movimientos-precio-1084713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='Todo apunta a que Bitcoin y Ethereum se preparan para inminentes grandes movimientos de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671'>Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-desarrollo-permite-personas-paralisis-controlen-extremidades-bionicas-casi-esfuerzo-mental-1084671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694705.jpg' alt='Un nuevo desarrollo permite que las personas con parálisis controlen sus extremidades biónicas casi sin esfuerzo mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675'>Tu olor corporal es quien decide tus amistades</a></h4>
-    <a href='https://computerhoy.com/noticias/life/olor-corporal-quien-decide-amistades-1084675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/como-eliminar-definitivamente-olor-humedad-toallas-2666845.jpg' alt='Tu olor corporal es quien decide tus amistades' />
     </a>
 </div>
 
