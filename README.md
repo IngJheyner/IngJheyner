@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623'>Razones por las que te despiertas en mitad de la noche empapado en sudor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/razones-te-despiertas-mitad-noche-empapado-sudor-2742801.jpg' alt='Razones por las que te despiertas en mitad de la noche empapado en sudor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283'>Un paseo por la increíble Casa del Chocolate de Lindt</a></h4>
     <a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paseo-increible-casa-chocolate-lindt-2742631.jpg' alt='Un paseo por la increíble Casa del Chocolate de Lindt' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269'>Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primeras-imagenes-modulo-refrigeracion-asus-rog-phone-6-levantan-dudas-acerca-ergonomia-1084269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-vera-luz-5-julio-esperamos-2719615.jpg' alt='Las primeras imágenes del módulo de refrigeración del Asus ROG Phone 6 levantan dudas acerca de su ergonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261'>Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recibes-imagen-instagram-probable-quieran-robarte-cuenta-1084261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/alguien-punto-pulsar-app-instagram-movil-2610797.jpg' alt='Si recibes esta imagen por Instagram lo más probable es que quieran robarte la cuenta' />
     </a>
 </div>
 
