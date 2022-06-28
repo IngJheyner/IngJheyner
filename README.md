@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661'>La DGT recuerda cómo debes sentarte correctamente para conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dgt-recuerda-como-debes-sentarte-correctamente-conducir-1084661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dgt-anuncia-carnet-conducir-jovenes-16-anos-coches-podran-conducir-2727101.jpg' alt='La DGT recuerda cómo debes sentarte correctamente para conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-oferta-28-junio-2022-1084033'>No es el Apple Watch: cuesta 73 euros, se vende en España y tiene 14 días de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-oferta-28-junio-2022-1084033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='No es el Apple Watch: cuesta 73 euros, se vende en España y tiene 14 días de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667'>Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demuestran-windows-defender-afecta-sustancialmente-rendimiento-cpu-intel-aunque-hay-solucion-1084667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/windows-defender_0.jpg' alt='Demuestran que Windows Defender afecta sustancialmente el rendimiento de las CPU Intel, aunque hay solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648889.jpg' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1084625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2742803.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165'>Estos son los mejores móviles Nokia que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-nokia-1084165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nokia-x-series-2742439.jpg' alt='Estos son los mejores móviles Nokia que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623'>Razones por las que te despiertas en mitad de la noche empapado en sudor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razones-te-despiertas-mitad-noche-empapado-sudor-1084623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/razones-te-despiertas-mitad-noche-empapado-sudor-2742801.jpg' alt='Razones por las que te despiertas en mitad de la noche empapado en sudor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283'>Un paseo por la increíble Casa del Chocolate de Lindt</a></h4>
-    <a href='https://computerhoy.com/noticias/life/casa-chocolate-lindt-tour-virtual-1084283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/paseo-increible-casa-chocolate-lindt-2742631.jpg' alt='Un paseo por la increíble Casa del Chocolate de Lindt' />
     </a>
 </div>
 
