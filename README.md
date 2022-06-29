@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vigilar-casa-vacaciones-1084927'>Vacaciones seguras: accesorios para vigilar tu casa mientras estás de veraneo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vigilar-casa-vacaciones-1084927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/videoportero-wifi-eufy-security-2743715.jpg' alt='Vacaciones seguras: accesorios para vigilar tu casa mientras estás de veraneo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1085255'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1085255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2744157.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253'>11 trucos para permanecer despiertos sin tomar café ni estimulantes</a></h4>
     <a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-remedios-naturales-permanecer-despierto-tomar-cafe-ni-estimulantes-2744155.jpg' alt='11 trucos para permanecer despiertos sin tomar café ni estimulantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031'>Shark SUV, el jeep eléctrico con las ruedas cuadradas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/shark-suv-jeep-electrico-ruedas-cuadradas-2743927.jpg' alt='Shark SUV, el jeep eléctrico con las ruedas cuadradas' />
     </a>
 </div>
 
