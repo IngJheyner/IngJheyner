@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-dos-modelos-matebook-d16-16s-apuesta-huawei-portatiles-finales-ano-1085309'>Así son los dos modelos de MateBook, D16 y 16s, la apuesta de Huawei en portátiles hasta finales de año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-dos-modelos-matebook-d16-16s-apuesta-huawei-portatiles-finales-ano-1085309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-matebook-d16-2744235.jpg' alt='Así son los dos modelos de MateBook, D16 y 16s, la apuesta de Huawei en portátiles hasta finales de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freebuds-pro-2-anadido-hi-res-auriculares-true-wireless-calidad-huawei-1085275'>FreeBuds Pro 2, añadido Hi-Res a los auriculares true wireless de más calidad de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freebuds-pro-2-anadido-hi-res-auriculares-true-wireless-calidad-huawei-1085275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/freebuds-2-pro-huawei-2744167.jpg' alt='FreeBuds Pro 2, añadido Hi-Res a los auriculares true wireless de más calidad de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicios-prescindibles-puedes-desactivar-windows-10-funcione-rapido-1085341'>Servicios prescindibles que puedes desactivar para que Windows 10 funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicios-prescindibles-puedes-desactivar-windows-10-funcione-rapido-1085341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-solucionar-todos-problemas-windows-10-tan-solo-30-minutos-2408513.jpg' alt='Servicios prescindibles que puedes desactivar para que Windows 10 funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-modo-oscuro-cualquier-web-tanto-movil-como-ordenador-1085319'>Cómo usar el modo oscuro en cualquier web tanto en móvil como ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-modo-oscuro-cualquier-web-tanto-movil-como-ordenador-1085319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/google-modo-oscuro-2166101.jpg' alt='Cómo usar el modo oscuro en cualquier web tanto en móvil como ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-ultima-detalles-lanzamiento-rog-phone-6-ya-han-comentado-como-reduciran-thermal-throttling-1085355'>ASUS ultima detalles del lanzamiento de su ROG Phone 6 y ya han comentado cómo reducirán el Thermal Throttling</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-ultima-detalles-lanzamiento-rog-phone-6-ya-han-comentado-como-reduciran-thermal-throttling-1085355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/asus-rog-phone-6-2744307.jpg' alt='ASUS ultima detalles del lanzamiento de su ROG Phone 6 y ya han comentado cómo reducirán el Thermal Throttling' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-novedades-han-llegado-excel-te-facilitaran-vida-tanto-windows-como-mac-1085291'>Las 7 novedades que han llegado a Excel y que te facilitarán la vida tanto en Windows como en Mac</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-novedades-han-llegado-excel-te-facilitaran-vida-tanto-windows-como-mac-1085291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Las 7 novedades que han llegado a Excel y que te facilitarán la vida tanto en Windows como en Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-alcanza-precio-minimo-999-euros-envio-gratuito-semana-1085311'>El iPhone 13 Pro alcanza su precio mínimo: 999 euros con envío gratuito en una semana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-pro-alcanza-precio-minimo-999-euros-envio-gratuito-semana-1085311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El iPhone 13 Pro alcanza su precio mínimo: 999 euros con envío gratuito en una semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-29-junio-2022-1084049'>Este Mini PC de solo 371 euros tiene Ryzen 7 y apenas ocupa espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-29-junio-2022-1084049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chuwi-larkbox-x-2742095.jpg' alt='Este Mini PC de solo 371 euros tiene Ryzen 7 y apenas ocupa espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vigilar-casa-vacaciones-1084927'>Vacaciones seguras: accesorios para vigilar tu casa mientras estás de veraneo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vigilar-casa-vacaciones-1084927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/videoportero-wifi-eufy-security-2743715.jpg' alt='Vacaciones seguras: accesorios para vigilar tu casa mientras estás de veraneo' />
     </a>
 </div>
 
