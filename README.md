@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627'>Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/refrigerador-2745067.jpg' alt='Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625'>Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-band-7-oferta-lanzamiento-1085555'>La pulsera de actividad Huawei Band 7 acaba de salir: llévate una por 49 euros y la segunda solo 39 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-band-7-oferta-lanzamiento-1085555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pulsera-actividad-huawei-band-7-acaba-salir-llevate-49-euros-segunda-solo-39-euros-2744883.jpg' alt='La pulsera de actividad Huawei Band 7 acaba de salir: llévate una por 49 euros y la segunda solo 39 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-routers-estan-siendo-secuestrados-culpable-nuevo-malware-llamado-zuorat-1085595'>Miles de routers están siendo secuestrados y el culpable es este nuevo malware llamado ZuoRAT</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/miles-routers-estan-siendo-secuestrados-culpable-nuevo-malware-llamado-zuorat-1085595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/router-cable-2390791.jpg' alt='Miles de routers están siendo secuestrados y el culpable es este nuevo malware llamado ZuoRAT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613'>Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mes-despues-estreno-stranger-things-4-ya-no-serie-vista-netflix-2745055.jpg' alt='Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gmail-quiere-seas-consciente-todo-espacio-ocupan-correos-recibes-1085585'>Gmail quiere que seas consciente de todo el espacio que ocupan los correos que recibes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gmail-quiere-seas-consciente-todo-espacio-ocupan-correos-recibes-1085585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/gmail-google-drive-2110809.jpg' alt='Gmail quiere que seas consciente de todo el espacio que ocupan los correos que recibes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571'>WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/videollamadas-2309959.jpg' alt='WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2744229.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553'>El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?' />
     </a>
 </div>
 
