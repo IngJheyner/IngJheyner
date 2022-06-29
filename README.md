@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571'>WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/videollamadas-2309959.jpg' alt='WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689'>Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-1076689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2744229.jpg' alt='Amazon Prime Day 2022: qué es, cuándo empieza y qué podemos esperar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553'>El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537'>Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nikon-z30-2744819.jpg' alt='Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519'>El SSD de Micron que promete acabar con los HDD tradicionales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-5400-2744799.jpg' alt='El SSD de Micron que promete acabar con los HDD tradicionales' />
     </a>
 </div>
 
