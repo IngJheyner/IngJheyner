@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553'>El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/placa-induccion'>Placas de inducción en 2022: guía de compra con comparativas, modelos y precios</a></h4>
+    <a href='https://computerhoy.com/guia-compra/placa-induccion' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/placas-induccion-2249089.jpg' alt='Placas de inducción en 2022: guía de compra con comparativas, modelos y precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537'>Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nikon-z30-2744819.jpg' alt='Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519'>El SSD de Micron que promete acabar con los HDD tradicionales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-5400-2744799.jpg' alt='El SSD de Micron que promete acabar con los HDD tradicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cambios-debes-hacer-configuracion-chrome-navegar-rapido-seguro-1080257'>Cambios que debes hacer en la configuración de Chrome para navegar más rápido y seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/cambios-debes-hacer-configuracion-chrome-navegar-rapido-seguro-1080257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cambios que debes hacer en la configuración de Chrome para navegar más rápido y seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475'>Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/diesel_r33_diesel_azul_gasoleo_azul_2.jpg' alt='Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433'>Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-2744511.jpg' alt='Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta' />
     </a>
 </div>
 
