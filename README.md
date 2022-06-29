@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537'>Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nikon-lanza-camara-compacta-pensada-youtube-twitch-nikon-z30-1085537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nikon-z30-2744819.jpg' alt='Nikon lanza una cámara compacta pensada para YouTube y Twitch: así es la Nikon Z30' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519'>El SSD de Micron que promete acabar con los HDD tradicionales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-micron-promete-acabar-hdd-tradicionales-1085519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/micron-5400-2744799.jpg' alt='El SSD de Micron que promete acabar con los HDD tradicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cambios-debes-hacer-configuracion-chrome-navegar-rapido-seguro-1080257'>Cambios que debes hacer en la configuración de Chrome para navegar más rápido y seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/cambios-debes-hacer-configuracion-chrome-navegar-rapido-seguro-1080257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cambios que debes hacer en la configuración de Chrome para navegar más rápido y seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475'>Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/diesel_r33_diesel_azul_gasoleo_azul_2.jpg' alt='Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433'>Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta</a></h4>
     <a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-2744511.jpg' alt='Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-gaia-esa-continua-revelando-secretos-lactea-1085465'>La misión Gaia de la ESA continúa revelando los secretos de nuestra Vía Láctea</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mision-gaia-esa-continua-revelando-secretos-lactea-1085465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='La misión Gaia de la ESA continúa revelando los secretos de nuestra Vía Láctea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-mambo-12090-habana-robot-cocina-oferta-1084101'>La alternativa española a Thermomix cuesta 449€, tiene WiFi y puedes controlarla a distancia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-mambo-12090-habana-robot-cocina-oferta-1084101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='La alternativa española a Thermomix cuesta 449€, tiene WiFi y puedes controlarla a distancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431'>Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mokwheel-basalt-2744503.jpg' alt='Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo' />
     </a>
 </div>
 
