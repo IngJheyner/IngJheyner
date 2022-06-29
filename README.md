@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613'>Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mes-despues-estreno-stranger-things-4-ya-no-serie-vista-netflix-2745055.jpg' alt='Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gmail-quiere-seas-consciente-todo-espacio-ocupan-correos-recibes-1085585'>Gmail quiere que seas consciente de todo el espacio que ocupan los correos que recibes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gmail-quiere-seas-consciente-todo-espacio-ocupan-correos-recibes-1085585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/gmail-google-drive-2110809.jpg' alt='Gmail quiere que seas consciente de todo el espacio que ocupan los correos que recibes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571'>WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-solucion-definitiva-cuando-no-quieras-mostrar-cara-videollamadas-1085571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/videollamadas-2309959.jpg' alt='WhatsApp está preparando la solución definitiva para cuando no quieras mostrar tu cara en las videollamadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553'>El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-poco-conocido-iphone-divide-usuarios-genialidad-estupidez-1085553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El truco poco conocido para iPhone que divide a sus usuarios ¿genialidad o estupidez?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/placa-induccion'>Placas de inducción en 2022: guía de compra con comparativas, modelos y precios</a></h4>
-    <a href='https://computerhoy.com/guia-compra/placa-induccion' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/placas-induccion-2249089.jpg' alt='Placas de inducción en 2022: guía de compra con comparativas, modelos y precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143'>Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/fondos-pantalla-pc-resoluciones-hd-full-hd-4k-286143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/mejor-aplicacion-fondos-pantalla-animados-llegaria-android-dentro-poco-2482649.jpg' alt='Fondos de pantalla 2022 para el PC por resoluciones: HD, Full HD y 4K' />
     </a>
 </div>
 
