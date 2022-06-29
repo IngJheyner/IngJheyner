@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253'>11 trucos para permanecer despiertos sin tomar café ni estimulantes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-remedios-naturales-permanecer-despierto-tomar-cafe-ni-estimulantes-2744155.jpg' alt='11 trucos para permanecer despiertos sin tomar café ni estimulantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031'>Shark SUV, el jeep eléctrico con las ruedas cuadradas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/shark-suv-jeep-electrico-ruedas-cuadradas-2743927.jpg' alt='Shark SUV, el jeep eléctrico con las ruedas cuadradas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903'>Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-m9-2743641.jpg' alt='Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901'>Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/son-auriculares-sony-inzone-h9-cancelacion-ruido-ps5-pc-1083901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/galeria-review-sony-inzone-h9-2743505.jpg' alt='Así son los auriculares Sony Inzone H9 con cancelación de ruido para PS5 y PC' />
     </a>
 </div>
 
