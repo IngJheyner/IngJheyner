@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633'>Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/valorant-2716341.jpg' alt='Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609'>Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/discord-bots-son-como-funcionan-mejores-puedes-anadir-servidor-2172161.jpg' alt='Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629'>Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627'>Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/refrigerador-2745067.jpg' alt='Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625'>Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-band-7-oferta-lanzamiento-1085555'>La pulsera de actividad Huawei Band 7 acaba de salir: llévate una por 49 euros y la segunda solo 39 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-band-7-oferta-lanzamiento-1085555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pulsera-actividad-huawei-band-7-acaba-salir-llevate-49-euros-segunda-solo-39-euros-2744883.jpg' alt='La pulsera de actividad Huawei Band 7 acaba de salir: llévate una por 49 euros y la segunda solo 39 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/miles-routers-estan-siendo-secuestrados-culpable-nuevo-malware-llamado-zuorat-1085595'>Miles de routers están siendo secuestrados y el culpable es este nuevo malware llamado ZuoRAT</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/miles-routers-estan-siendo-secuestrados-culpable-nuevo-malware-llamado-zuorat-1085595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/router-cable-2390791.jpg' alt='Miles de routers están siendo secuestrados y el culpable es este nuevo malware llamado ZuoRAT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613'>Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-umbrella-academy-temporada-3-supera-stranger-things-4-1085613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mes-despues-estreno-stranger-things-4-ya-no-serie-vista-netflix-2745055.jpg' alt='Un mes después de su estreno, Stranger Things 4 ya no es la serie más vista en Netflix' />
     </a>
 </div>
 
