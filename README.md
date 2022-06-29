@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1085255'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1085255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2744157.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-book-s-razones-comprar-1084901'>5 motivos por los que la Xiaomi Book S con Windows es una tablet PC a tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-book-s-razones-comprar-1084901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-book-s-2743669.jpg' alt='5 motivos por los que la Xiaomi Book S con Windows es una tablet PC a tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-ofertas-portatiles-tablets-1084041'>Promoción de Verano de AliExpress: ofertas de portátiles y tablets</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/promocion-verano-aliexpress-ofertas-portatiles-tablets-1084041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/promocion-verano-aliexpress-2002-tablets-portatiles-2742093.jpg' alt='Promoción de Verano de AliExpress: ofertas de portátiles y tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253'>11 trucos para permanecer despiertos sin tomar café ni estimulantes</a></h4>
     <a href='https://computerhoy.com/noticias/life/11-trucos-permanecer-despiertos-sin-cafe-ni-estimulantes-1085253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/5-remedios-naturales-permanecer-despierto-tomar-cafe-ni-estimulantes-2744155.jpg' alt='11 trucos para permanecer despiertos sin tomar café ni estimulantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031'>Shark SUV, el jeep eléctrico con las ruedas cuadradas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/shark-suv-jeep-electrico-ruedas-cuadradas-1085031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/shark-suv-jeep-electrico-ruedas-cuadradas-2743927.jpg' alt='Shark SUV, el jeep eléctrico con las ruedas cuadradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011'>Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC</a></h4>
-    <a href='https://computerhoy.com/analisis/gaming/sony-inzone-m9-review-opinion-monitor-hibrido-ps5-pc-1084011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-m9-2743637.jpg' alt='Sony Inzone M9, análisis y opinión del monitor híbrido para PS5 y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gaming/sony-inzone-h9-review-opinion-auriculares-tipo-wh1000-xm5-ps5-pc-1084009'>Sony Inzone H9, análisis y opinión de los auriculares tipo WH1000 XM5 para PS5 y PC</a></h4>
-    <a href='https://computerhoy.com/analisis/gaming/sony-inzone-h9-review-opinion-auriculares-tipo-wh1000-xm5-ps5-pc-1084009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-h9-2743545.jpg' alt='Sony Inzone H9, análisis y opinión de los auriculares tipo WH1000 XM5 para PS5 y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903'>Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/monitores-sony-inzone-m9-4k-japoneses-abordan-mercado-pc-son-perfectos-ps5-1083903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/sony-inzone-m9-2743641.jpg' alt='Con los monitores Sony Inzone M9 4K, los japoneses abordan el mercado de PC y son perfectos para PS5' />
     </a>
 </div>
 
