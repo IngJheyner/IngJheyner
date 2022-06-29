@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475'>Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/cadenas-gasolineras-baratas-provincias-mejores-precios-ocu-1085475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/diesel_r33_diesel_azul_gasoleo_azul_2.jpg' alt='Las cadenas de gasolineras más baratas y las provincias con mejores precios, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433'>Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-1085433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/trabajador-pierde-usb-toda-informacion-ciudad-entera-salir-fiesta-2744511.jpg' alt='Un trabajador pierde un USB con toda la información de una ciudad entera al salir de fiesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-gaia-esa-continua-revelando-secretos-lactea-1085465'>La misión Gaia de la ESA continúa revelando los secretos de nuestra Vía Láctea</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mision-gaia-esa-continua-revelando-secretos-lactea-1085465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='La misión Gaia de la ESA continúa revelando los secretos de nuestra Vía Láctea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-mambo-12090-habana-robot-cocina-oferta-1084101'>La alternativa española a Thermomix cuesta 449€, tiene WiFi y puedes controlarla a distancia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-mambo-12090-habana-robot-cocina-oferta-1084101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-mambo-12090-2574459.jpg' alt='La alternativa española a Thermomix cuesta 449€, tiene WiFi y puedes controlarla a distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431'>Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mokwheel-basalt-2744503.jpg' alt='Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-tienen-oidos-video-viral-te-permite-conocer-edad-auditiva-1085435'>¿Qué edad tienen tus oídos? Este vídeo viral te permite conocer tu edad auditiva</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-tienen-oidos-video-viral-te-permite-conocer-edad-auditiva-1085435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/escucha-activamente-oidos.jpg' alt='¿Qué edad tienen tus oídos? Este vídeo viral te permite conocer tu edad auditiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/habitos-todo-mundo-piensa-ayudan-perder-peso-adelgazar-pero-realidad-no-hacen-1085399'>Hábitos que todo el mundo piensa que ayudan a perder peso y adelgazar, pero en realidad no lo hacen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/habitos-todo-mundo-piensa-ayudan-perder-peso-adelgazar-pero-realidad-no-hacen-1085399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dieta-vegetariana-2740723.jpg' alt='Hábitos que todo el mundo piensa que ayudan a perder peso y adelgazar, pero en realidad no lo hacen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/caracteristica-pixel-podria-salvarte-vida-va-llegar-todos-android-1085419'>La característica de los Pixel que podría salvarte la vida y que va a llegar a todos los Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/caracteristica-pixel-podria-salvarte-vida-va-llegar-todos-android-1085419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/google-accidente-sos.jpg' alt='La característica de los Pixel que podría salvarte la vida y que va a llegar a todos los Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escritorio-elevable-electrico-oferta-29-junio-2022-1085297'>Mejora tu salud si pasas muchas horas trabajando sentado con esta mesa elevable eléctrica por menos de 130€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escritorio-elevable-electrico-oferta-29-junio-2022-1085297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-trabajando-delante-mesa-altura-regulable-2744213.jpg' alt='Mejora tu salud si pasas muchas horas trabajando sentado con esta mesa elevable eléctrica por menos de 130€' />
     </a>
 </div>
 
