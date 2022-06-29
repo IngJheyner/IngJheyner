@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431'>Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mokwheel-basalt-bicicleta-electrica-carga-solar-capaz-alimentar-cualquier-dispositivo-1085431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mokwheel-basalt-2744503.jpg' alt='Mokwheel Basalt, la bicicleta eléctrica con carga solar capaz de alimentar cualquier dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/edad-tienen-oidos-video-viral-te-permite-conocer-edad-auditiva-1085435'>¿Qué edad tienen tus oídos? Este vídeo viral te permite conocer tu edad auditiva</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-tienen-oidos-video-viral-te-permite-conocer-edad-auditiva-1085435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/escucha-activamente-oidos.jpg' alt='¿Qué edad tienen tus oídos? Este vídeo viral te permite conocer tu edad auditiva' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/escritorio-elevable-electrico-oferta-29-junio-2022-1085297'>Mejora tu salud si pasas muchas horas trabajando sentado con esta mesa elevable eléctrica por menos de 130€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/escritorio-elevable-electrico-oferta-29-junio-2022-1085297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-trabajando-delante-mesa-altura-regulable-2744213.jpg' alt='Mejora tu salud si pasas muchas horas trabajando sentado con esta mesa elevable eléctrica por menos de 130€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-dos-modelos-matebook-d16-16s-apuesta-huawei-portatiles-finales-ano-1085309'>Así son los dos modelos de MateBook, D16 y 16s, la apuesta de Huawei en portátiles hasta finales de año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-dos-modelos-matebook-d16-16s-apuesta-huawei-portatiles-finales-ano-1085309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-matebook-d16-2744235.jpg' alt='Así son los dos modelos de MateBook, D16 y 16s, la apuesta de Huawei en portátiles hasta finales de año' />
     </a>
 </div>
 
