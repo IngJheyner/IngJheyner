@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619'>El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-2745063.jpg' alt='El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/capitulos-series-streaming-son-cada-vez-mas-largos-problema-1085639'>Los capítulos de las series son cada vez más largos, y eso puede ser un problema</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/capitulos-series-streaming-son-cada-vez-mas-largos-problema-1085639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Los capítulos de las series son cada vez más largos, y eso puede ser un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633'>Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/valorant-2716341.jpg' alt='Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629'>Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627'>Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-organizar-frigorifico-correctamente-ahorrar-factura-luz-1085627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/refrigerador-2745067.jpg' alt='Cómo organizar el frigorífico correctamente para ahorrar en la factura de luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625'>Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-disponible-todos-usuarios-android-auto-78-estas-son-todas-novedades-1085625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg' alt='Ya está disponible para todos los usuarios Android Auto 7.8 y estás son todas sus novedades' />
     </a>
 </div>
 
