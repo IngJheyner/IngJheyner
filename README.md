@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/video-grupal-prime-video-todos-todos-dispositivos-1086239'>La función más social de Prime Video, que no tiene Netflix, llega al fin a todos los dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/video-grupal-prime-video-todos-todos-dispositivos-1086239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funcion-social-prime-video-llega-fin-todos-dispositivos-2746165.jpg' alt='La función más social de Prime Video, que no tiene Netflix, llega al fin a todos los dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231'>Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-legion-duel-3-seria-primer-terminal-estrenar-snapdragon-898-2448825.jpg' alt='Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229'>Spotify estrena un modo karaoke que juzgará tus dotes de canto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meses-despues-spotify-sigue-dandole-vueltas-problema-desinformacion-moderara-contenido-2731101.jpg' alt='Spotify estrena un modo karaoke que juzgará tus dotes de canto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-veloz-fabricante-casi-desconocido-ha-tomado-delantera-1086183'>En la carrera por la carga rápida más veloz un fabricante casi desconocido ha tomado la delantera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carrera-carga-rapida-veloz-fabricante-casi-desconocido-ha-tomado-delantera-1086183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cargador-movil-2710917.jpg' alt='En la carrera por la carga rápida más veloz un fabricante casi desconocido ha tomado la delantera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-book-s-convertible-xiaomi-windows-aterriza-espana-1086193'>Xiaomi Book S: convertible de Xiaomi con Windows aterriza en España</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-book-s-convertible-xiaomi-windows-aterriza-espana-1086193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-book-s-teclado-lapiz-2743667.jpg' alt='Xiaomi Book S: convertible de Xiaomi con Windows aterriza en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/publicidad-llega-netflix-como-te-afectara-ya-tienes-cuenta-1086221'>La publicidad llega a Netflix: ¿cómo te afectará si ya tienes cuenta?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/publicidad-llega-netflix-como-te-afectara-ya-tienes-cuenta-1086221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='La publicidad llega a Netflix: ¿cómo te afectará si ya tienes cuenta?' />
     </a>
 </div>
 
