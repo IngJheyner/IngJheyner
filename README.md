@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-infalible-acabar-molestas-moscas-ha-hecho-viral-1086217'>El método infalible para acabar con las molestas moscas que se ha hecho viral</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-infalible-acabar-molestas-moscas-ha-hecho-viral-1086217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-matamoscas-2746093.jpg' alt='El método infalible para acabar con las molestas moscas que se ha hecho viral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuanto-ganan-apple-google-amazon-facebook-microsoft-por-segundo-1086213'>Cuánto ganan Apple, Google, Amazon, Facebook o Microsoft por segundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuanto-ganan-apple-google-amazon-facebook-microsoft-por-segundo-1086213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cuanto-ganan-apple-google-amazon-facebook-microsoft-segundo-2746091.jpg' alt='Cuánto ganan Apple, Google, Amazon, Facebook o Microsoft por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-dejan-ser-anonimas-europa-como-te-afecta-ya-tienes-1086185'>Las criptomonedas dejan de ser anónimas en Europa: ¿cómo te afecta si ya tienes?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-dejan-ser-anonimas-europa-como-te-afecta-ya-tienes-1086185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='Las criptomonedas dejan de ser anónimas en Europa: ¿cómo te afecta si ya tienes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/llevamos-comiendo-mal-hamburguesas-toda-vida-ninguno-sabiamos-1086123'>Llevamos comiendo mal las hamburguesas toda la vida (y ninguno lo sabíamos)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llevamos-comiendo-mal-hamburguesas-toda-vida-ninguno-sabiamos-1086123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/joven-comiendo-hamburguesa-2745801.jpg' alt='Llevamos comiendo mal las hamburguesas toda la vida (y ninguno lo sabíamos)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947'>Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-ventana-aire-acondicionado-2745499.jpg' alt='Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarifas-roaming-desaparecen-europa-menos-durante-proxima-decada-1086137'>Las tarifas de roaming desaparecen en Europa al menos durante la próxima década</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tarifas-roaming-desaparecen-europa-menos-durante-proxima-decada-1086137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roaming-gratuito-2032-2556893.jpg' alt='Las tarifas de roaming desaparecen en Europa al menos durante la próxima década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907'>8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rtve-app-play-2745905.jpg' alt='8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-disenado-ingenieros-f1-tiene-error-fatal-diseno-1086135'>El patinete eléctrico diseñado por ingenieros de la F1 tiene un error fatal de diseño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-disenado-ingenieros-f1-tiene-error-fatal-diseno-1086135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/patinete-electrico-bo-2745839.jpg' alt='El patinete eléctrico diseñado por ingenieros de la F1 tiene un error fatal de diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081'>Tras el subidón de la pandemia, el mercado del PC se hunde este 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Tras el subidón de la pandemia, el mercado del PC se hunde este 2022' />
     </a>
 </div>
 
