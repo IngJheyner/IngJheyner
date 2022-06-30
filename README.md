@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907'>8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rtve-app-play-2745905.jpg' alt='8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-disenado-ingenieros-f1-tiene-error-fatal-diseno-1086135'>El patinete eléctrico diseñado por ingenieros de la F1 tiene un error fatal de diseño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/patinete-electrico-disenado-ingenieros-f1-tiene-error-fatal-diseno-1086135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/patinete-electrico-bo-2745839.jpg' alt='El patinete eléctrico diseñado por ingenieros de la F1 tiene un error fatal de diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081'>Tras el subidón de la pandemia, el mercado del PC se hunde este 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Tras el subidón de la pandemia, el mercado del PC se hunde este 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099'>Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres</a></h4>
     <a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dormir-coche-2738597.jpg' alt='Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043'>Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-2745641.jpg' alt='Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391'>Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-forceclima-7050-1951845.jpg' alt='Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045'>Ya sabemos cuando se lanzarán a la venta los nuevos MacBook con el chip M2 de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='Ya sabemos cuando se lanzarán a la venta los nuevos MacBook con el chip M2 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053'>Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit' />
     </a>
 </div>
 
