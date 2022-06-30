@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947'>Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-ventana-aire-acondicionado-2745499.jpg' alt='Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tarifas-roaming-desaparecen-europa-menos-durante-proxima-decada-1086137'>Las tarifas de roaming desaparecen en Europa al menos durante la próxima década</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tarifas-roaming-desaparecen-europa-menos-durante-proxima-decada-1086137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/roaming-gratuito-2032-2556893.jpg' alt='Las tarifas de roaming desaparecen en Europa al menos durante la próxima década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907'>8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-rtve-a-la-carta-613907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/rtve-app-play-2745905.jpg' alt='8 películas de RTVE que puedes ver online gratis desde la app en el televisor o desde el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081'>Tras el subidón de la pandemia, el mercado del PC se hunde este 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/subidon-pandemia-mercado-pc-hunde-2022-1086081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/enfado-ordenador-2680501.jpg' alt='Tras el subidón de la pandemia, el mercado del PC se hunde este 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099'>Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dormir-coche-2738597.jpg' alt='Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043'>Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-2745641.jpg' alt='Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento' />
     </a>
 </div>
 
