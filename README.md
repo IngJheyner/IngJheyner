@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-anade-nuevos-canales-tematicos-gratis-series-anime-1085987'>Pluto TV añade nuevos canales temáticos gratis de series y anime</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-anade-nuevos-canales-tematicos-gratis-series-anime-1085987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Pluto TV añade nuevos canales temáticos gratis de series y anime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-oferta-30-junio-2022-1084703'>Se desploma el precio del Samsung Galaxy S22 5G en todos sus colores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-oferta-30-junio-2022-1084703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg' alt='Se desploma el precio del Samsung Galaxy S22 5G en todos sus colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943'>Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925'>La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.</a></h4>
     <a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/5-trucos-diferenciar-gripe-catarro-coronavirus-2103403.jpg' alt='La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nos-quedamos-nanometros-samsung-comienza-produccion-chips-avanzados-1085909'>Nos quedamos sin nanómetros: Samsung comienza la producción de sus chips más avanzados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nos-quedamos-nanometros-samsung-comienza-produccion-chips-avanzados-1085909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ley-koomey-representada-oblea-llena-chips-2411137.jpg' alt='Nos quedamos sin nanómetros: Samsung comienza la producción de sus chips más avanzados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913'>Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-evento-tesla-2728501.jpg' alt='Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina' />
     </a>
 </div>
 
