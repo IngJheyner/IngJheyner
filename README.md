@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461'>Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tren-alta-velocidad-ouigo-sncf-1914693.jpg' alt='Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2745283.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641'>Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ooda-ball-balon-boxear-practicar-artes-marciales-2745073.jpg' alt='Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619'>El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-2745063.jpg' alt='El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación' />
     </a>
 </div>
 
