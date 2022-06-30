@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099'>Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estados-unidos-ya-permite-dormir-coche-aumento-precio-alquileres-1086099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dormir-coche-2738597.jpg' alt='Estados Unidos ya permite dormir en el coche ante el aumento de precio de los alquileres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043'>Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-1086043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vuelve-lidl-maquina-hace-cubitos-hielo-6-minutos-40-descuento-2745641.jpg' alt='Vuelve a Lidl la máquina que hace cubitos de hielo en 6 minutos con un 40% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391'>Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-forceclima-7050-1951845.jpg' alt='Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053'>Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-fecha-lanzamiento-mi-band-7-pro-xiaomi-1086011'>Se filtran imágenes y la fecha de lanzamiento de la Mi Band 7 Pro de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-fecha-lanzamiento-mi-band-7-pro-xiaomi-1086011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Se filtran imágenes y la fecha de lanzamiento de la Mi Band 7 Pro de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-nasa-estremecidos-primeras-imagenes-telescopio-webb-1086025'>Los científicos de la NASA estremecidos ante las primeras imágenes del telescopio Webb</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-nasa-estremecidos-primeras-imagenes-telescopio-webb-1086025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Los científicos de la NASA estremecidos ante las primeras imágenes del telescopio Webb' />
     </a>
 </div>
 
