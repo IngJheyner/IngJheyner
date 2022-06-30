@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925'>La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/5-trucos-diferenciar-gripe-catarro-coronavirus-2103403.jpg' alt='La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nos-quedamos-nanometros-samsung-comienza-produccion-chips-avanzados-1085909'>Nos quedamos sin nanómetros: Samsung comienza la producción de sus chips más avanzados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nos-quedamos-nanometros-samsung-comienza-produccion-chips-avanzados-1085909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ley-koomey-representada-oblea-llena-chips-2411137.jpg' alt='Nos quedamos sin nanómetros: Samsung comienza la producción de sus chips más avanzados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913'>Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-evento-tesla-2728501.jpg' alt='Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461'>Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante</a></h4>
     <a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tren-alta-velocidad-ouigo-sncf-1914693.jpg' alt='Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2745283.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
