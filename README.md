@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641'>Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ooda-ball-balon-boxear-practicar-artes-marciales-2745073.jpg' alt='Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619'>El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-2745063.jpg' alt='El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609'>Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/discord-bots-son-como-funcionan-mejores-puedes-anadir-servidor-2172161.jpg' alt='Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629'>Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acabaron-excusas-aplicacion-google-pasar-ios-android-amplia-compatibilidad-1085629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Se acabaron las excusas: la aplicación de Google para pasar de iOS a Android amplía su compatibilidad' />
     </a>
 </div>
 
