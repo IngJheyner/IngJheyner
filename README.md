@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los hielos: el truco para enfriar una bebida sin aguarla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los hielos: el truco para enfriar una bebida sin aguarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641'>Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/ooda-ball-balon-boxear-practicar-artes-marciales-video-1085641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ooda-ball-balon-boxear-practicar-artes-marciales-2745073.jpg' alt='Ooda Ball, el balón para boxear y practicar artes marciales (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633'>Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/valorant-2716341.jpg' alt='Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609'>Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/discord-ha-convertido-punto-encuentro-adolescentes-dedican-creacion-malware-1085609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/discord-bots-son-como-funcionan-mejores-puedes-anadir-servidor-2172161.jpg' alt='Discord se ha convertido en el punto de encuentro de adolescentes que se dedican a la creación de malware' />
     </a>
 </div>
 
