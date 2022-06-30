@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los hielos: el truco para enfriar una bebida sin aguarla</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los hielos: el truco para enfriar una bebida sin aguarla' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla' />
     </a>
 </div>
 
