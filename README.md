@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943'>Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-has-esperado-mes-ver-final-stranger-things-t4-confirma-mala-situacion-netflix-1085983'>El motivo por el que has esperado un mes para ver el final de Stranger Things T4 confirma la mala situación de Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-has-esperado-mes-ver-final-stranger-things-t4-confirma-mala-situacion-netflix-1085983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='El motivo por el que has esperado un mes para ver el final de Stranger Things T4 confirma la mala situación de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925'>La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.</a></h4>
     <a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/5-trucos-diferenciar-gripe-catarro-coronavirus-2103403.jpg' alt='La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913'>Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-evento-tesla-2728501.jpg' alt='Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dos-nuevas-pruebas-hacen-pasar-itv-sea-ahora-poco-complicado-1085885'>Dos nuevas pruebas hacen que pasar la ITV sea ahora un poco más complicado</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dos-nuevas-pruebas-hacen-pasar-itv-sea-ahora-poco-complicado-1085885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Dos nuevas pruebas hacen que pasar la ITV sea ahora un poco más complicado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461'>Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tren-alta-velocidad-ouigo-sncf-1914693.jpg' alt='Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante' />
     </a>
 </div>
 
