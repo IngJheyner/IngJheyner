@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-book-s-convertible-xiaomi-windows-aterriza-espana-1086193'>Xiaomi Book S: convertible de Xiaomi con Windows aterriza en España</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-book-s-convertible-xiaomi-windows-aterriza-espana-1086193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-book-s-teclado-lapiz-2743667.jpg' alt='Xiaomi Book S: convertible de Xiaomi con Windows aterriza en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/publicidad-llega-netflix-como-te-afectara-ya-tienes-cuenta-1086221'>La publicidad llega a Netflix: ¿cómo te afectará si ya tienes cuenta?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/publicidad-llega-netflix-como-te-afectara-ya-tienes-cuenta-1086221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='La publicidad llega a Netflix: ¿cómo te afectará si ya tienes cuenta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/metodo-infalible-acabar-molestas-moscas-ha-hecho-viral-1086217'>El método infalible para acabar con las molestas moscas que se ha hecho viral</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-infalible-acabar-molestas-moscas-ha-hecho-viral-1086217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-matamoscas-2746093.jpg' alt='El método infalible para acabar con las molestas moscas que se ha hecho viral' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-dejan-ser-anonimas-europa-como-te-afecta-ya-tienes-1086185'>Las criptomonedas dejan de ser anónimas en Europa: ¿cómo te afecta si ya tienes?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/criptomonedas-dejan-ser-anonimas-europa-como-te-afecta-ya-tienes-1086185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/estafa-criptomonedas-linkedin-2734999.jpg' alt='Las criptomonedas dejan de ser anónimas en Europa: ¿cómo te afecta si ya tienes?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/llevamos-comiendo-mal-hamburguesas-toda-vida-ninguno-sabiamos-1086123'>Llevamos comiendo mal las hamburguesas toda la vida (y ninguno lo sabíamos)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/llevamos-comiendo-mal-hamburguesas-toda-vida-ninguno-sabiamos-1086123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/joven-comiendo-hamburguesa-2745801.jpg' alt='Llevamos comiendo mal las hamburguesas toda la vida (y ninguno lo sabíamos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947'>Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-kits-ventana-aire-acondicionado-baratos-faciles-instalar-1085947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-ventana-aire-acondicionado-2745499.jpg' alt='Mejores kits de ventana para aire acondicionado baratos y fáciles de instalar' />
     </a>
 </div>
 
