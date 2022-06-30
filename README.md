@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913'>Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-cumple-amenaza-tesla-ya-rastrea-empleados-no-van-suficiente-oficina-1085913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-evento-tesla-2728501.jpg' alt='Elon Musk cumple su amenaza y Tesla ya rastrea a los empleados que no van lo suficiente a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dos-nuevas-pruebas-hacen-pasar-itv-sea-ahora-poco-complicado-1085885'>Dos nuevas pruebas hacen que pasar la ITV sea ahora un poco más complicado</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dos-nuevas-pruebas-hacen-pasar-itv-sea-ahora-poco-complicado-1085885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='Dos nuevas pruebas hacen que pasar la ITV sea ahora un poco más complicado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461'>Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante</a></h4>
     <a href='https://computerhoy.com/noticias/life/ouigo-ya-ha-puesto-venta-billetes-low-cost-9-euros-valencia-alicante-1085461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tren-alta-velocidad-ouigo-sncf-1914693.jpg' alt='Ouigo ya ha puesto a la venta los billetes low cost de 9 euros a Valencia y Alicante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2745283.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733'>Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla' />
     </a>
 </div>
 
