@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-anade-nuevos-canales-tematicos-gratis-series-anime-1085987'>Pluto TV añade nuevos canales temáticos gratis de series y anime</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-anade-nuevos-canales-tematicos-gratis-series-anime-1085987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pluto-tv-2109691.jpg' alt='Pluto TV añade nuevos canales temáticos gratis de series y anime' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391'>Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-oferta-30-mayo-2022-1085391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cecotec-forceclima-7050-1951845.jpg' alt='Aún en oferta al aire acondicionado portátil top ventas en España: cuesta menos de 200€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-oferta-30-junio-2022-1084703'>Se desploma el precio del Samsung Galaxy S22 5G en todos sus colores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-5g-oferta-30-junio-2022-1084703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741195.jpg' alt='Se desploma el precio del Samsung Galaxy S22 5G en todos sus colores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045'>Ya sabemos cuando se lanzarán a la venta los nuevos MacBook con el chip M2 de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='Ya sabemos cuando se lanzarán a la venta los nuevos MacBook con el chip M2 de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943'>Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafas-habituales-utilizan-bizum-como-gancho-como-reconocerlas-no-te-pillen-1085943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg' alt='Las estafas más habituales que utilizan Bizum como gancho: cómo reconocerlas para no te pillen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053'>Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-pueden-comprar-piezas-repuesto-todos-google-pixel-ifixit-1086053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6-pro-2718705.jpg' alt='Ya se pueden comprar las piezas de repuesto de todos los Google Pixel en iFixit' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/motivo-has-esperado-mes-ver-final-stranger-things-t4-confirma-mala-situacion-netflix-1085983'>El motivo por el que has esperado un mes para ver el final de Stranger Things T4 confirma la mala situación de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/motivo-has-esperado-mes-ver-final-stranger-things-t4-confirma-mala-situacion-netflix-1085983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='El motivo por el que has esperado un mes para ver el final de Stranger Things T4 confirma la mala situación de Netflix' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-fecha-lanzamiento-mi-band-7-pro-xiaomi-1086011'>Se filtran imágenes y la fecha de lanzamiento de la Mi Band 7 Pro de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-imagenes-fecha-lanzamiento-mi-band-7-pro-xiaomi-1086011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Se filtran imágenes y la fecha de lanzamiento de la Mi Band 7 Pro de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925'>La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vacuna-universal-gripe-realidad-ha-sido-desarrollada-gobierno-ee-uu-1085925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/5-trucos-diferenciar-gripe-catarro-coronavirus-2103403.jpg' alt='La vacuna universal contra la gripe es un realidad y ha sido desarrollada por el Gobierno de EE. UU.' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-nasa-estremecidos-primeras-imagenes-telescopio-webb-1086025'>Los científicos de la NASA estremecidos ante las primeras imágenes del telescopio Webb</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-nasa-estremecidos-primeras-imagenes-telescopio-webb-1086025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Los científicos de la NASA estremecidos ante las primeras imágenes del telescopio Webb' />
     </a>
 </div>
 
