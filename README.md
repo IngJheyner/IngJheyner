@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1085865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2745283.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733'>Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-fire-tv-stick-vs-fire-tv-stick-lite-comparativa-cual-es-mejor-991733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Fire TV Stick vs Fire TV Stick Lite de Amazon: diferencias y cuál es la mejor compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863'>Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-enfriar-bebida-sin-hielos-rodajas-limon-congeladas-1085863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejor-hielos-truco-enfriar-bebida-aguarla-2745281.jpg' alt='Mejor que los cubitos de hielo: el truco para enfriar una bebida sin aguarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619'>El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-1085619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/portatil-xiaomi-competira-huawei-matebook-d16-ya-tiene-fecha-presentacion-2745063.jpg' alt='El portátil de Xiaomi que competirá con el Huawei MateBook D16 ya tiene fecha de presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/capitulos-series-streaming-son-cada-vez-mas-largos-problema-1085639'>Los capítulos de las series son cada vez más largos, y eso puede ser un problema</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/capitulos-series-streaming-son-cada-vez-mas-largos-problema-1085639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/stranger-things-4-estrena-trailer-espanol-fecha-lanzamiento-titulos-episodios-2525757.jpg' alt='Los capítulos de las series son cada vez más largos, y eso puede ser un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633'>Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/riot-games-graba-chats-voz-juego-valorant-1085633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/valorant-2716341.jpg' alt='Riot Games comienza a grabar todas las conversaciones de los chats de voz en el juego Valorant, y sienta un peligroso precedente' />
     </a>
 </div>
 
