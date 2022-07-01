@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-afan-competir-tiktok-ultima-medida-no-te-gustara-1086771'>Instagram sigue en su afán de competir con TikTok y su última medida no te gustará</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-afan-competir-tiktok-ultima-medida-no-te-gustara-1086771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram sigue en su afán de competir con TikTok y su última medida no te gustará' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-gboard-pensado-todos-aquellos-tengan-telefono-plegable-1086813'>Lo nuevo de Gboard está pensado para todos aquellos que tengan un teléfono plegable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-gboard-pensado-todos-aquellos-tengan-telefono-plegable-1086813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485883.jpg' alt='Lo nuevo de Gboard está pensado para todos aquellos que tengan un teléfono plegable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767'>Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817'>El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más 110 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más 110 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-cuesta-cambiar-embrague-espana-1086789'>Cuánto cuesta cambiar el embrague</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuanto-cuesta-cambiar-embrague-espana-1086789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cuanto-cuesta-cambiar-embrague-2747091.jpg' alt='Cuánto cuesta cambiar el embrague' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793'>Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725465.jpg' alt='Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159'>Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688795.jpg' alt='Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dos-series-reirte-carcajadas-1086805'>Dos series de estreno, una familiar y otra para adultos, con las que reírte a carcajadas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dos-series-reirte-carcajadas-1086805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-series-estreno-familiar-otra-adultos-reirte-carcajadas-fin-semana-2747111.jpg' alt='Dos series de estreno, una familiar y otra para adultos, con las que reírte a carcajadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775'>Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-2747081.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos' />
+    <h4><a href='https://computerhoy.com/noticias/life/desvelan-planes-china-encontrar-tierra-20-van-muy-serio-1086801'>Desvelan los planes de China para encontrar la Tierra 2.0 y van muy en serio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desvelan-planes-china-encontrar-tierra-20-van-muy-serio-1086801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tierra-2747103.jpg' alt='Desvelan los planes de China para encontrar la Tierra 2.0 y van muy en serio' />
     </a>
 </div>
 
