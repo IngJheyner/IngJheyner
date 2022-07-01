@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005'>Portátiles baratos para teletrabajar en verano estés donde estés</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-terraza-trabajando-portatil-2745909.jpg' alt='Portátiles baratos para teletrabajar en verano estés donde estés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1086437'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1086437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435'>5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/5-trucos-adelgazar-realidad-te-estan-haciendo-envejecer-rapido-2746339.jpg' alt='5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245'>El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-narzo-50-2664449.jpg' alt='El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/video-grupal-prime-video-todos-todos-dispositivos-1086239'>La función más social de Prime Video, que no tiene Netflix, llega al fin a todos los dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/video-grupal-prime-video-todos-todos-dispositivos-1086239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/funcion-social-prime-video-llega-fin-todos-dispositivos-2746165.jpg' alt='La función más social de Prime Video, que no tiene Netflix, llega al fin a todos los dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231'>Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-legion-duel-3-seria-primer-terminal-estrenar-snapdragon-898-2448825.jpg' alt='Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6' />
     </a>
 </div>
 
