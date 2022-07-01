@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ventiladores-nebulizador-ofertas-876653'>5 ventiladores con nebulizador que te refrescarán con agua pulverizada incluso en los días más calurosos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ventiladores-nebulizador-ofertas-876653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/create-air-mist-pro-2745953.jpg' alt='5 ventiladores con nebulizador que te refrescarán con agua pulverizada incluso en los días más calurosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005'>Portátiles baratos para teletrabajar en verano estés donde estés</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-terraza-trabajando-portatil-2745909.jpg' alt='Portátiles baratos para teletrabajar en verano estés donde estés' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433'>La primera cama de masajes para perros con artritis (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-cama-masaje-perros-2746337.jpg' alt='La primera cama de masajes para perros con artritis (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245'>El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-narzo-50-2664449.jpg' alt='El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€' />
     </a>
 </div>
 
