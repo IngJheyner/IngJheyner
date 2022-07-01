@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919'>Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-freebuds-pro-2-2745353.jpg' alt='Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deutsche-bank-lanza-unas-estimaciones-bastante-realistas-precio-bitcoin-finales-ano-1086587'>Deutsche Bank lanza unas estimaciones bastante realistas sobre el precio de Bitcoin a finales de año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deutsche-bank-lanza-unas-estimaciones-bastante-realistas-precio-bitcoin-finales-ano-1086587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='Deutsche Bank lanza unas estimaciones bastante realistas sobre el precio de Bitcoin a finales de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553'>El error con las luces si tienes un coche actual que puede costarte una multa de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/no-te-confies-enciende-luces-manera-automatica-te-puede-caer-multa-200-euros-2484323.jpg' alt='El error con las luces si tienes un coche actual que puede costarte una multa de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507'>Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509'>El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-dyson-cyclone-v10-oferta-1-julio-2022-1084685'>Una de las aspiradoras Dyson más potentes, en oferta a precio sorprendente por primera vez en mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-dyson-cyclone-v10-oferta-1-julio-2022-1084685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dyson-cyclone-v10-2742941.jpg' alt='Una de las aspiradoras Dyson más potentes, en oferta a precio sorprendente por primera vez en mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kairyu-sistema-japon-pretende-conseguir-energia-ilimitada-1086473'>Kairyu, el sistema con el que Japón pretende conseguir energía ilimitada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kairyu-sistema-japon-pretende-conseguir-energia-ilimitada-1086473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/kairyu-2746453.jpg' alt='Kairyu, el sistema con el que Japón pretende conseguir energía ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477'>El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/drako-dragon-2746419.jpg' alt='El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia' />
     </a>
 </div>
 
