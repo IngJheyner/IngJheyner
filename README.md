@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ventiladores-nebulizador-ofertas-876653'>5 ventiladores con nebulizador que te refrescarán con agua pulverizada incluso en los días más calurosos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ventiladores-nebulizador-ofertas-876653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/create-air-mist-pro-2745953.jpg' alt='5 ventiladores con nebulizador que te refrescarán con agua pulverizada incluso en los días más calurosos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509'>El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005'>Portátiles baratos para teletrabajar en verano estés donde estés</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/portatiles-baratos-teletrabajar-verano-1086005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/hombre-terraza-trabajando-portatil-2745909.jpg' alt='Portátiles baratos para teletrabajar en verano estés donde estés' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-dyson-cyclone-v10-oferta-1-julio-2022-1084685'>Una de las aspiradoras Dyson más potentes, en oferta a precio sorprendente por primera vez en mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-dyson-cyclone-v10-oferta-1-julio-2022-1084685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dyson-cyclone-v10-2742941.jpg' alt='Una de las aspiradoras Dyson más potentes, en oferta a precio sorprendente por primera vez en mucho tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1086437'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1086437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kairyu-sistema-japon-pretende-conseguir-energia-ilimitada-1086473'>Kairyu, el sistema con el que Japón pretende conseguir energía ilimitada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kairyu-sistema-japon-pretende-conseguir-energia-ilimitada-1086473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/kairyu-2746453.jpg' alt='Kairyu, el sistema con el que Japón pretende conseguir energía ilimitada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435'>5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/5-trucos-adelgazar-realidad-te-estan-haciendo-envejecer-rapido-2746339.jpg' alt='5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido' />
+    <h4><a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477'>El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/drako-dragon-2746419.jpg' alt='El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433'>La primera cama de masajes para perros con artritis (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-cama-masaje-perros-2746337.jpg' alt='La primera cama de masajes para perros con artritis (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/gobierno-espana-anuncia-anteproyecto-regular-loot-boxes-videojuegos-1086469'>El gobierno de España anuncia el anteproyecto para regular las 'loot boxes' en los videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/gobierno-espana-anuncia-anteproyecto-regular-loot-boxes-videojuegos-1086469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/alberto-garzon-ministro-consumo-2054513.jpg' alt='El gobierno de España anuncia el anteproyecto para regular las 'loot boxes' en los videojuegos' />
     </a>
 </div>
 
