@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739'>El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-comandante-final-todo-baymax-1086709'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: un comandante, el final de todo y Baymax</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-comandante-final-todo-baymax-1086709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2746905.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: un comandante, el final de todo y Baymax' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769'>Las mejores aplicaciones para hacer animaciones en Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-aplicaciones-hacer-animaciones-android-2735591.jpg' alt='Las mejores aplicaciones para hacer animaciones en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-no-esconde-anunciar-tiempos-oscuros-estas-son-algunas-medidas-van-tomar-1086673'>Meta no se esconde al anunciar tiempos oscuros y estas son algunas de las medidas que van a tomar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-no-esconde-anunciar-tiempos-oscuros-estas-son-algunas-medidas-van-tomar-1086673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-2674737.jpg' alt='Meta no se esconde al anunciar tiempos oscuros y estas son algunas de las medidas que van a tomar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-uso-deepfakes-hacer-entrevistas-trabajo-fingiendo-somos-otras-personas-1086695'>El nuevo uso de los deepfakes: hacer entrevistas de trabajo fingiendo que somos otras personas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-uso-deepfakes-hacer-entrevistas-trabajo-fingiendo-somos-otras-personas-1086695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/deepfake-2746831.jpg' alt='El nuevo uso de los deepfakes: hacer entrevistas de trabajo fingiendo que somos otras personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip3-5g-oferta-1-julio-2022-1085945'>El mejor móvil plegable del mercado es de Samsung y ahora baja mucho de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-z-flip3-5g-oferta-1-julio-2022-1085945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='El mejor móvil plegable del mercado es de Samsung y ahora baja mucho de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-opensea-victima-nueva-filtracion-datos-usuarios-culpa-empleado-1086651'>El mercado NFT OpenSea víctima de una nueva filtración de datos de usuarios por culpa de un empleado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mercado-nft-opensea-victima-nueva-filtracion-datos-usuarios-culpa-empleado-1086651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/roban-cientos-nfts-opensea-valor-casi-2-millones-dolares-solo-3-horas-usando-phishing-2622003.jpg' alt='El mercado NFT OpenSea víctima de una nueva filtración de datos de usuarios por culpa de un empleado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmo-capaz-predecir-crimenes-semana-antelacion-1086681'>Un algoritmo es capaz de predecir crímenes con una semana de antelación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/algoritmo-capaz-predecir-crimenes-semana-antelacion-1086681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minority-report-2002-2716631.jpg' alt='Un algoritmo es capaz de predecir crímenes con una semana de antelación' />
     </a>
 </div>
 
