@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-grabar-llamadas-voz-whatsapp-moviles-iphone-android-1086607'>Cómo grabar las llamadas de voz de WhatsApp en móviles iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-grabar-llamadas-voz-whatsapp-moviles-iphone-android-1086607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg' alt='Cómo grabar las llamadas de voz de WhatsApp en móviles iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/precio-luz-sigue-subiendo-pesar-tope-gas-pactado-gobierno-1086569'>Por qué el precio de la luz sigue subiendo a pesar del tope del gas pactado por el gobierno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/precio-luz-sigue-subiendo-pesar-tope-gas-pactado-gobierno-1086569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tramos-luz-2616549.jpg' alt='Por qué el precio de la luz sigue subiendo a pesar del tope del gas pactado por el gobierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919'>Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-freebuds-pro-2-2745353.jpg' alt='Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553'>El error con las luces si tienes un coche actual que puede costarte una multa de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/no-te-confies-enciende-luces-manera-automatica-te-puede-caer-multa-200-euros-2484323.jpg' alt='El error con las luces si tienes un coche actual que puede costarte una multa de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg' alt='La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507'>Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista' />
     </a>
 </div>
 
