@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767'>Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-cuesta-cambiar-embrague-espana-1086789'>Cuánto cuesta cambiar el embrague</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuanto-cuesta-cambiar-embrague-espana-1086789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cuanto-cuesta-cambiar-embrague-2747091.jpg' alt='Cuánto cuesta cambiar el embrague' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159'>Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688795.jpg' alt='Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739'>El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-comandante-final-todo-baymax-1086709'>Qué series ver este fin de semana en Netflix, Prime Video y Disney+: un comandante, el final de todo y Baymax</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-prime-video-disney-comandante-final-todo-baymax-1086709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2746905.jpg' alt='Qué series ver este fin de semana en Netflix, Prime Video y Disney+: un comandante, el final de todo y Baymax' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769'>Las mejores aplicaciones para hacer animaciones en Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-aplicaciones-hacer-animaciones-android-2735591.jpg' alt='Las mejores aplicaciones para hacer animaciones en Android' />
     </a>
 </div>
 
