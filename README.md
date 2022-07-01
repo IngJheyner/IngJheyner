@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159'>Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-1-julio-2022-1086159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688795.jpg' alt='Chollos para el fin de semana: 20 ofertas para ahorrar al máximo en Amazon, PcComponentes y AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775'>Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-2747081.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739'>El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769'>Las mejores aplicaciones para hacer animaciones en Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-animaciones-android-1077769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-aplicaciones-hacer-animaciones-android-2735591.jpg' alt='Las mejores aplicaciones para hacer animaciones en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-no-esconde-anunciar-tiempos-oscuros-estas-son-algunas-medidas-van-tomar-1086673'>Meta no se esconde al anunciar tiempos oscuros y estas son algunas de las medidas que van a tomar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-no-esconde-anunciar-tiempos-oscuros-estas-son-algunas-medidas-van-tomar-1086673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/primera-generacion-gafas-realidad-aumentada-meta-vuelta-esquina-2674737.jpg' alt='Meta no se esconde al anunciar tiempos oscuros y estas son algunas de las medidas que van a tomar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-uso-deepfakes-hacer-entrevistas-trabajo-fingiendo-somos-otras-personas-1086695'>El nuevo uso de los deepfakes: hacer entrevistas de trabajo fingiendo que somos otras personas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-uso-deepfakes-hacer-entrevistas-trabajo-fingiendo-somos-otras-personas-1086695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/deepfake-2746831.jpg' alt='El nuevo uso de los deepfakes: hacer entrevistas de trabajo fingiendo que somos otras personas' />
     </a>
 </div>
 
