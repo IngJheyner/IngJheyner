@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433'>La primera cama de masaje para perros (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435'>5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-trucos-adelgazar-envejecer-rapido-1086435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/5-trucos-adelgazar-realidad-te-estan-haciendo-envejecer-rapido-2746339.jpg' alt='5 trucos para adelgazar que en realidad te están haciendo envejecer más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433'>La primera cama de masajes para perros con artritis (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-cama-masaje-perros-2746337.jpg' alt='La primera cama de masaje para perros (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-cama-masaje-perros-2746337.jpg' alt='La primera cama de masajes para perros con artritis (vídeo)' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231'>Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrado-nuevo-movil-gaming-lenovo-competiria-asus-rog-phone-6-1086231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-legion-duel-3-seria-primer-terminal-estrenar-snapdragon-898-2448825.jpg' alt='Filtrado el nuevo móvil gaming de Lenovo que competiría con el Asus ROG Phone 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229'>Spotify estrena un modo karaoke que juzgará tus dotes de canto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meses-despues-spotify-sigue-dandole-vueltas-problema-desinformacion-moderara-contenido-2731101.jpg' alt='Spotify estrena un modo karaoke que juzgará tus dotes de canto' />
     </a>
 </div>
 
