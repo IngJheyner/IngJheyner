@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433'>La primera cama de masaje para perros (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cama-masaje-perros-video-1086433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-cama-masaje-perros-2746337.jpg' alt='La primera cama de masaje para perros (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245'>El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-realme-narzo-50-pantalla-120-hz-camara-50-mpx-carga-rapida-rebaja-1086245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/realme-narzo-50-2664449.jpg' alt='El móvil realme Narzo 50 con pantalla a 120 Hz, cámara de 50 Mpx y carga rápida, solo cuesta 144€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229'>Spotify estrena un modo karaoke que juzgará tus dotes de canto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-estrena-modo-karaoke-juzgara-dotes-canto-1086229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meses-despues-spotify-sigue-dandole-vueltas-problema-desinformacion-moderara-contenido-2731101.jpg' alt='Spotify estrena un modo karaoke que juzgará tus dotes de canto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/samsung-gaming-hub-nueva-plataforma-videojuegos-streaming-ya-disponible-1086235'>Samsung Gaming Hub, la nueva plataforma de videojuegos en streaming, ya está disponible</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/samsung-gaming-hub-nueva-plataforma-videojuegos-streaming-ya-disponible-1086235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-gaming-hub-nueva-plataforma-videojuegos-streaming-ya-disponible-2746161.jpg' alt='Samsung Gaming Hub, la nueva plataforma de videojuegos en streaming, ya está disponible' />
     </a>
 </div>
 
