@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-afan-competir-tiktok-ultima-medida-no-te-gustara-1086771'>Instagram sigue en su afán de competir con TikTok y su última medida no te gustará</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-sigue-afan-competir-tiktok-ultima-medida-no-te-gustara-1086771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram sigue en su afán de competir con TikTok y su última medida no te gustará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767'>Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-retira-varias-referencias-lineales-estos-son-algunos-productos-ya-no-podras-comprar-1086767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona retira varias referencias de sus lineales: estos son algunos productos que ya no podrás comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775'>Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-1086775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-disney-netflix-filmin-chucky-spider-man-serie-cuentos-terrorificos-2747081.jpg' alt='Qué películas ver este fin de semana en Disney+, Netflix y Filmin: Chucky, Spider-Man y una serie de cuentos terroríficos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739'>El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asistente-google-puede-recordarte-cambies-alarmas-cuando-te-vas-vacaciones-1086739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ya-puedes-usar-frases-rapidas-asistente-google-espanol-decir-ok-google-2664645.jpg' alt='El asistente de Google puede recordarte que cambies tus alarmas cuando te vas de vacaciones' />
     </a>
 </div>
 
