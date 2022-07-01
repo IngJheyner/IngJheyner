@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817'>El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más 110 euros de descuento</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817'>El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más de 110 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más 110 euros de descuento' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más de 110 euros de descuento' />
     </a>
 </div>
 
