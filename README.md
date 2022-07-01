@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507'>Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alerta-cientificos-comprobar-como-ia-robot-convierte-racista-sexista-1086507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Alerta entre los científicos al comprobar como la IA de un robot se convierte en racista y sexista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509'>El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/combustible-aeroespacial-futuro-no-hidrogeno-ni-electricidad-1086509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cohete-espacio-spacex-2533173.jpg' alt='El combustible aeroespacial del futuro no es el hidrógeno ni la electricidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477'>El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia</a></h4>
     <a href='https://computerhoy.com/noticias/motor/proximo-coche-electrico-marca-drako-asusta-2000-caballos-potencia-1086477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/drako-dragon-2746419.jpg' alt='El próximo coche eléctrico de la marca Drako asusta con sus más de 2.000 caballos de potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/gobierno-espana-anuncia-anteproyecto-regular-loot-boxes-videojuegos-1086469'>El gobierno de España anuncia el anteproyecto para regular las 'loot boxes' en los videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/gobierno-espana-anuncia-anteproyecto-regular-loot-boxes-videojuegos-1086469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/alberto-garzon-ministro-consumo-2054513.jpg' alt='El gobierno de España anuncia el anteproyecto para regular las 'loot boxes' en los videojuegos' />
     </a>
 </div>
 
