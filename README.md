@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/algoritmo-capaz-predecir-crimenes-semana-antelacion-1086681'>Un algoritmo es capaz de predecir crímenes con una semana de antelación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/algoritmo-capaz-predecir-crimenes-semana-antelacion-1086681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/minority-report-2002-2716631.jpg' alt='Un algoritmo es capaz de predecir crímenes con una semana de antelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-bicicleta-electrica-barata-decathlon-cara-1086609'>Cuál es la bicicleta eléctrica más barata de Decathlon ¿y la más cara?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-bicicleta-electrica-barata-decathlon-cara-1086609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-2717689.jpg' alt='Cuál es la bicicleta eléctrica más barata de Decathlon ¿y la más cara?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/velocidad-exacta-saltaran-radares-dgt-verano-2022-1086623'>Esta es la velocidad exacta a la que saltarán los radares de la DGT este verano 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/velocidad-exacta-saltaran-radares-dgt-verano-2022-1086623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/radar-dgt-trucam-ii-2007897.jpg' alt='Esta es la velocidad exacta a la que saltarán los radares de la DGT este verano 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pico-w-nueva-raspberry-pi-barata-wifi-solo-cuesta-6-dolares-1086655'>Pico W la nueva Raspberry Pi barata con WiFi que solo cuesta 6 dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pico-w-nueva-raspberry-pi-barata-wifi-solo-cuesta-6-dolares-1086655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-pico-w-2746759.jpg' alt='Pico W la nueva Raspberry Pi barata con WiFi que solo cuesta 6 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-grabar-llamadas-voz-whatsapp-moviles-iphone-android-1086607'>Cómo grabar las llamadas de voz de WhatsApp en móviles iPhone y Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-grabar-llamadas-voz-whatsapp-moviles-iphone-android-1086607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg' alt='Cómo grabar las llamadas de voz de WhatsApp en móviles iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/precio-luz-sigue-subiendo-pesar-tope-gas-pactado-gobierno-1086569'>Por qué el precio de la luz sigue subiendo a pesar del tope del gas pactado por el gobierno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/precio-luz-sigue-subiendo-pesar-tope-gas-pactado-gobierno-1086569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tramos-luz-2616549.jpg' alt='Por qué el precio de la luz sigue subiendo a pesar del tope del gas pactado por el gobierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919'>Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-pro-2-oferta-1julio-2022-1085919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-freebuds-pro-2-2745353.jpg' alt='Huawei FreeBuds Pro 2, ya en oferta y con regalo incluido por solo 169€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deutsche-bank-lanza-unas-estimaciones-bastante-realistas-precio-bitcoin-finales-ano-1086587'>Deutsche Bank lanza unas estimaciones bastante realistas sobre el precio de Bitcoin a finales de año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deutsche-bank-lanza-unas-estimaciones-bastante-realistas-precio-bitcoin-finales-ano-1086587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-contaminacion-2629771.jpg' alt='Deutsche Bank lanza unas estimaciones bastante realistas sobre el precio de Bitcoin a finales de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553'>El error con las luces si tienes un coche actual que puede costarte una multa de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/error-luces-tienes-coche-actual-puede-costarte-multa-dgt-1086553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/no-te-confies-enciende-luces-manera-automatica-te-puede-caer-multa-200-euros-2484323.jpg' alt='El error con las luces si tienes un coche actual que puede costarte una multa de la DGT' />
     </a>
 </div>
 
