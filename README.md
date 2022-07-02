@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127'>Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117'>Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071'>Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069'>Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-2747449.jpg' alt='Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida' />
     </a>
 </div>
 
