@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963'>Falta una palabra, la primera novela en español escrita por una inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Falta una palabra, la primera novela en español escrita por una inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643'>Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721'>Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953'>Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-2745057.jpg' alt='Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-apilacajas-kawasaki-video-1087011'>El robot apilacajas de Kawasaki (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-apilacajas-kawasaki-video-1087011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-apilacajas-kawasaki-video-2747363.jpg' alt='El robot apilacajas de Kawasaki (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489'>Así puedes hacer el truco viral para congelar el agua en un segundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puedes-hacer-truco-viral-congelar-agua-segundo-2746427.jpg' alt='Así puedes hacer el truco viral para congelar el agua en un segundo' />
     </a>
 </div>
 
