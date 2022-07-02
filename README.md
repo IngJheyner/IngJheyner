@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073'>Varios robotaxis ponen en jaque a una ciudad durante horas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg' alt='Varios robotaxis ponen en jaque a una ciudad durante horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071'>Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/enfriador-aire-1077377'>Guía y consejos para comprar un enfriador de aire para combatir el calor en verano por poco dinero</a></h4>
     <a href='https://computerhoy.com/guia-compra/enfriador-aire-1077377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/enfriador-aire-2731193.jpg' alt='Guía y consejos para comprar un enfriador de aire para combatir el calor en verano por poco dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051'>El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV' />
     </a>
 </div>
 
