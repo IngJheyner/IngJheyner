@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579'>5 descubrimientos marinos asombrosos que nos han cautivado en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/6-descubrimientos-marinos-asombrosos-nos-han-cautivado-2022-2746577.jpg' alt='5 descubrimientos marinos asombrosos que nos han cautivado en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127'>Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073'>Varios robotaxis ponen en jaque a una ciudad durante horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg' alt='Varios robotaxis ponen en jaque a una ciudad durante horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071'>Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA' />
     </a>
 </div>
 
