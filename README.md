@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-verano-no-te-despegues-sofa-1085599'>Las 7 series más esperadas del verano para que no te despegues del sofá</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-verano-no-te-despegues-sofa-1085599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-anillos-poder-2612437.jpg' alt='Las 7 series más esperadas del verano para que no te despegues del sofá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/4-errores-cometes-subir-videos-instagram-como-solucionarlos-1074541'>Los 4 errores que cometes al subir vídeos a Instagram y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/4-errores-cometes-subir-videos-instagram-como-solucionarlos-1074541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Los 4 errores que cometes al subir vídeos a Instagram y cómo solucionarlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657'>Qué hacer cuando Windows tarda mucho en apagarse</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apagando-ordenador-2726275.jpg' alt='Qué hacer cuando Windows tarda mucho en apagarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963'>Falta una palabra, la primera novela en español escrita por una inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Falta una palabra, la primera novela en español escrita por una inteligencia artificial' />
     </a>
 </div>
 
