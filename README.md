@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013'>El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/truco-mano-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-2747367.jpg' alt='El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953'>Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-2745057.jpg' alt='Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-apilacajas-kawasaki-video-1087011'>El robot apilacajas de Kawasaki (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-apilacajas-kawasaki-video-1087011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-apilacajas-kawasaki-video-2747363.jpg' alt='El robot apilacajas de Kawasaki (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489'>Así puedes hacer el truco viral para congelar el agua en un segundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puedes-hacer-truco-viral-congelar-agua-segundo-2746427.jpg' alt='Así puedes hacer el truco viral para congelar el agua en un segundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821'>Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-alto-honor-civil-2747143.jpg' alt='Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-gboard-pensado-todos-aquellos-tengan-telefono-plegable-1086813'>Lo nuevo de Gboard está pensado para todos aquellos que tengan un teléfono plegable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-gboard-pensado-todos-aquellos-tengan-telefono-plegable-1086813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485883.jpg' alt='Lo nuevo de Gboard está pensado para todos aquellos que tengan un teléfono plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817'>El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más de 110 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mac-mini-procesador-m1-110-euros-descuento-1086817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg' alt='El Mac Mini con procesador M1 sigue bajando de precio y ya tiene más de 110 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793'>Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725465.jpg' alt='Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles' />
     </a>
 </div>
 
