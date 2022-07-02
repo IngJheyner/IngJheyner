@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/4-errores-cometes-subir-videos-instagram-como-solucionarlos-1074541'>Los 4 errores que cometes al subir vídeos a Instagram y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/4-errores-cometes-subir-videos-instagram-como-solucionarlos-1074541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Los 4 errores que cometes al subir vídeos a Instagram y cómo solucionarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903'>Samsung Neo QLED QN900B 8K, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-diseno-2744593.jpg' alt='Samsung Neo QLED QN900B 8K, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963'>Falta una palabra, la primera novela en español escrita por una inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Falta una palabra, la primera novela en español escrita por una inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643'>Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio' />
     </a>
 </div>
 
