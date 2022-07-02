@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073'>Varios robotaxis ponen en jaque a una ciudad durante horas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg' alt='Varios robotaxis ponen en jaque a una ciudad durante horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-record-visualizacion-ha-marcado-stranger-things-4-va-sorprenderte-1087059'>Este es el nuevo récord de visualización que ha marcado Stranger Things 4 y que va a sorprenderte</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-record-visualizacion-ha-marcado-stranger-things-4-va-sorprenderte-1087059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735547.jpg' alt='Este es el nuevo récord de visualización que ha marcado Stranger Things 4 y que va a sorprenderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/enfriador-aire-1077377'>Guía y consejos para comprar un enfriador de aire para combatir el calor en verano por poco dinero</a></h4>
-    <a href='https://computerhoy.com/guia-compra/enfriador-aire-1077377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/enfriador-aire-2731193.jpg' alt='Guía y consejos para comprar un enfriador de aire para combatir el calor en verano por poco dinero' />
     </a>
 </div>
 
