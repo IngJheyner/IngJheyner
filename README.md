@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051'>El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-nadie-podra-saber-cuando-estas-utilizando-whatsapp-nueva-opcion-privacidad-1087045'>Ahora ya nadie podrá saber cuándo estás utilizando WhatsApp con esta nueva opción de privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-nadie-podra-saber-cuando-estas-utilizando-whatsapp-nueva-opcion-privacidad-1087045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Ahora ya nadie podrá saber cuándo estás utilizando WhatsApp con esta nueva opción de privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-verano-no-te-despegues-sofa-1085599'>Las 7 series más esperadas del verano para que no te despegues del sofá</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-verano-no-te-despegues-sofa-1085599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-anillos-poder-2612437.jpg' alt='Las 7 series más esperadas del verano para que no te despegues del sofá' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903'>Samsung Neo QLED QN900B 8K, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-diseno-2744593.jpg' alt='Samsung Neo QLED QN900B 8K, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757'>Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657'>Qué hacer cuando Windows tarda mucho en apagarse</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apagando-ordenador-2726275.jpg' alt='Qué hacer cuando Windows tarda mucho en apagarse' />
     </a>
 </div>
 
