@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117'>Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069'>Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-2747449.jpg' alt='Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-record-visualizacion-ha-marcado-stranger-things-4-va-sorprenderte-1087059'>Este es el nuevo récord de visualización que ha marcado Stranger Things 4 y que va a sorprenderte</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-record-visualizacion-ha-marcado-stranger-things-4-va-sorprenderte-1087059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735547.jpg' alt='Este es el nuevo récord de visualización que ha marcado Stranger Things 4 y que va a sorprenderte' />
     </a>
 </div>
 
