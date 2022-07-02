@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071'>Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-ver-primeras-imagenes-lejanas-universo-telescopio-webb-nasa-1087071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Cómo ver las primeras imágenes (las más lejanas del Universo) del telescopio Webb de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069'>Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-1087069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-puedes-refrescarte-verano-ventilador-techo-inteligente-luz-incluida-2747449.jpg' alt='Ya puedes refrescarte en verano con este ventilador de techo inteligente con luz incluida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051'>El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-conductores-italianos-pasar-pruebas-duras-itv-1087051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='El truco de los conductores italianos para pasar una de las pruebas más duras de la ITV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-nadie-podra-saber-cuando-estas-utilizando-whatsapp-nueva-opcion-privacidad-1087045'>Ahora ya nadie podrá saber cuándo estás utilizando WhatsApp con esta nueva opción de privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ya-nadie-podra-saber-cuando-estas-utilizando-whatsapp-nueva-opcion-privacidad-1087045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Ahora ya nadie podrá saber cuándo estás utilizando WhatsApp con esta nueva opción de privacidad' />
     </a>
 </div>
 
