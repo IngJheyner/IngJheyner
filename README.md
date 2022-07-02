@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757'>Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657'>Qué hacer cuando Windows tarda mucho en apagarse</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hacer-cuando-windows-tarda-mucho-apagarse-1074657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apagando-ordenador-2726275.jpg' alt='Qué hacer cuando Windows tarda mucho en apagarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963'>Falta una palabra, la primera novela en español escrita por una inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/falta-una-palabra-primera-novela-espanol-escrita-inteligencia-artificial-1085963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Falta una palabra, la primera novela en español escrita por una inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721'>Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013'>El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/truco-mano-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-2747367.jpg' alt='El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953'>Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-1084953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mejores-trucos-tiktok-disfrutar-playa-piscina-verano-2745057.jpg' alt='Los mejores trucos de TikTok para disfrutar en la playa y la piscina este verano' />
     </a>
 </div>
 
