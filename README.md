@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903'>Samsung Neo QLED QN900B 8K, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-neo-qled-qn900b-8k-analisis-opinion-1084903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-neo-qled-qn900b-8k-diseno-2744593.jpg' alt='Samsung Neo QLED QN900B 8K, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757'>Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cupones-descuento-amazon-prime-day-2022-1086757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-2635577.jpg' alt='Cupones descuento Amazon Prime Day 2022: cómo conseguirlos para comprar más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643'>Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-prime-day-2022-cuenta-atras-1086643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/realme-book-analisis-opinion-2563247.jpg' alt='Ofertas Prime Day 2022: los mejores chollos de la cuenta atrás para el 13 y el 14 de julio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721'>Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?' />
     </a>
 </div>
 
