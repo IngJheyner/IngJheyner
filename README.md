@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489'>Así puedes hacer el truco viral para congelar el agua en un segundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puedes-hacer-truco-viral-congelar-agua-segundo-2746427.jpg' alt='Así puedes hacer el truco viral para congelar el agua en un segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821'>Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-alto-honor-civil-2747143.jpg' alt='Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793'>Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrada-primera-imagen-modulo-camaras-motorola-estrenara-primer-sensor-200-megapixeles-1086793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725465.jpg' alt='Filtrada la primera imagen del módulo de cámaras del Motorola que estrenará el primer sensor de 200 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dos-series-reirte-carcajadas-1086805'>Dos series de estreno, una familiar y otra para adultos, con las que reírte a carcajadas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dos-series-reirte-carcajadas-1086805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-series-estreno-familiar-otra-adultos-reirte-carcajadas-fin-semana-2747111.jpg' alt='Dos series de estreno, una familiar y otra para adultos, con las que reírte a carcajadas' />
     </a>
 </div>
 
