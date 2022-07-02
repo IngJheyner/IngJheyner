@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721'>Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/solo-necesito-camara-mi-movil-hacer-buenas-fotos-1084721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/opinion-oppo-find-x5-pro-2626147.jpg' alt='Solo necesito una cámara en mi móvil para hacer buenas fotos ¿y tú?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013'>El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-1087013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/truco-mano-saber-cantidad-proteinas-vegetales-carbohidratos-grasas-debes-comer-2747367.jpg' alt='El truco de 'la mano' para saber la cantidad de proteínas, vegetales, carbohidratos y grasas que debes comer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489'>Así puedes hacer el truco viral para congelar el agua en un segundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-hacer-truco-viral-congelar-agua-segundo-1086489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puedes-hacer-truco-viral-congelar-agua-segundo-2746427.jpg' alt='Así puedes hacer el truco viral para congelar el agua en un segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821'>Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-1086821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/steve-jobs-recibe-medalla-libertad-estados-unidos-titulo-postumo-alto-honor-civil-2747143.jpg' alt='Steve Jobs recibe la Medalla Presidencial de la Libertad de Estados Unidos a título póstumo, el más alto honor a un civil' />
     </a>
 </div>
 
