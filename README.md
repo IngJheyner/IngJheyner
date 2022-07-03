@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123'>Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/delonghi-pinguino-pac-em77-2747693.jpg' alt='Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719'>Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces</a></h4>
     <a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pierde-200-veces-maquina-gancho-llama-policia-empleados-pierden-300-veces-2741655.jpg' alt='Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127'>Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117'>Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT' />
     </a>
 </div>
 
