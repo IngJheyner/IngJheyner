@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941'>8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/trucos-amazon-prime-day-2022-1087329'>Trucos Amazon Prime Day 2022: consejos para ahorrar dinero y comprar más barato</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/trucos-amazon-prime-day-2022-1087329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Trucos Amazon Prime Day 2022: consejos para ahorrar dinero y comprar más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277'>Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-2641673.jpg' alt='Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-traje-te-electrocuta-sientas-mejor-experiencia-realidad-virtual-1087121'>Este nuevo traje "te electrocuta" para que sientas mejor la experiencia de realidad virtual</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-traje-te-electrocuta-sientas-mejor-experiencia-realidad-virtual-1087121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/teslasuit-2747681.jpg' alt='Este nuevo traje "te electrocuta" para que sientas mejor la experiencia de realidad virtual' />
     </a>
 </div>
 
