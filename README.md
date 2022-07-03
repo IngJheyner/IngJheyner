@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-cerveza-hecha-aguas-residuales-recicladas-vas-poder-beber-singapur-1087119'>Esta nueva cerveza está hecha de aguas residuales recicladas y la vas a poder beber en Singapur</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-cerveza-hecha-aguas-residuales-recicladas-vas-poder-beber-singapur-1087119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/newbrew-2747677.jpg' alt='Esta nueva cerveza está hecha de aguas residuales recicladas y la vas a poder beber en Singapur' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mini-proyector-portatil-barato-1079567'>Guía y consejos para comprar un mini proyector portátil barato para ver películas y series en cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mini-proyector-portatil-barato-1079567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/proyector-2734829.jpg' alt='Guía y consejos para comprar un mini proyector portátil barato para ver películas y series en cualquier lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123'>Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/delonghi-pinguino-pac-em77-2747693.jpg' alt='Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873'>Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)</a></h4>
     <a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-bicicleta-electrica-2735329.jpg' alt='Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579'>5 descubrimientos marinos asombrosos que nos han cautivado en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/6-descubrimientos-marinos-asombrosos-nos-han-cautivado-2022-2746577.jpg' alt='5 descubrimientos marinos asombrosos que nos han cautivado en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127'>Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-cuentas-verificadas-twitter-quieren-robar-datos-plataforma-1087127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Ya hasta las cuentas verificadas en Twitter quieren robar tus datos en la plataforma' />
     </a>
 </div>
 
