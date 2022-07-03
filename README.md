@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443'>Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/granja-minado-bitcoin-2224755.jpg' alt='Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437'>La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/curiosa-historia-como-universidad-perdio-200000-euros-ataque-ransomware-3-anos-despues-recupero-500000-euros-2748183.jpg' alt='La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929'>El curioso origen de los códigos QR  </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/codigo-qr.jpg' alt='El curioso origen de los códigos QR  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401'>Este malware de Android te suscribe a servicios premium sin que te enteres</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Este malware de Android te suscribe a servicios premium sin que te enteres' />
     </a>
 </div>
 
