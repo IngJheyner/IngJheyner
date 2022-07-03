@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277'>Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-2641673.jpg' alt='Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-traje-te-electrocuta-sientas-mejor-experiencia-realidad-virtual-1087121'>Este nuevo traje "te electrocuta" para que sientas mejor la experiencia de realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-traje-te-electrocuta-sientas-mejor-experiencia-realidad-virtual-1087121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/teslasuit-2747681.jpg' alt='Este nuevo traje "te electrocuta" para que sientas mejor la experiencia de realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nueva-cerveza-hecha-aguas-residuales-recicladas-vas-poder-beber-singapur-1087119'>Esta nueva cerveza está hecha de aguas residuales recicladas y la vas a poder beber en Singapur</a></h4>
     <a href='https://computerhoy.com/noticias/life/nueva-cerveza-hecha-aguas-residuales-recicladas-vas-poder-beber-singapur-1087119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/newbrew-2747677.jpg' alt='Esta nueva cerveza está hecha de aguas residuales recicladas y la vas a poder beber en Singapur' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123'>Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-aires-acondicionados-tipo-pinguino-1087123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/delonghi-pinguino-pac-em77-2747693.jpg' alt='Mejores aires acondicionados tipo pingüino que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719'>Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pierde-200-veces-maquina-gancho-llama-policia-empleados-pierden-300-veces-2741655.jpg' alt='Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873'>Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)</a></h4>
-    <a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-bicicleta-electrica-2735329.jpg' alt='Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)' />
     </a>
 </div>
 
