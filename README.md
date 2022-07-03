@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719'>Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pierde-200-veces-maquina-gancho-llama-policia-1083719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pierde-200-veces-maquina-gancho-llama-policia-empleados-pierden-300-veces-2741655.jpg' alt='Pierde 200 veces en una máquina de gancho, llama a la policía, y los empleados pierden 300 veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873'>Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)</a></h4>
     <a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-bicicleta-electrica-2735329.jpg' alt='Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117'>Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ubicacion-exacta-60-radares-velolaser-invisibles-dgt-1087117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='Ubicación exacta de los 60 radares Velolaser (o invisibles) de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
     </a>
 </div>
 
