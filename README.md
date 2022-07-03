@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431'>Meta cierra Novi, su monedero de criptomonedas de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-pagos-2555773.jpg' alt='Meta cierra Novi, su monedero de criptomonedas de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929'>El curioso origen de los códigos QR  </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/codigo-qr.jpg' alt='El curioso origen de los códigos QR  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401'>Este malware de Android te suscribe a servicios premium sin que te enteres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Este malware de Android te suscribe a servicios premium sin que te enteres' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-mejor-companero-cocina-robot-multifuncion-inteligente-rebajado-100-euros-1087381'>Ya puedes tener tu mejor compañero de cocina con este robot multifunción inteligente que está rebajado más de 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-mejor-companero-cocina-robot-multifuncion-inteligente-rebajado-100-euros-1087381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moulinex-clickchef-2747989.jpg' alt='Ya puedes tener tu mejor compañero de cocina con este robot multifunción inteligente que está rebajado más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-esperadas-verano-van-llegar-directamente-plataformas-1085603'>Las 6 películas más esperadas del verano que van a llegar directamente a plataformas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-esperadas-verano-van-llegar-directamente-plataformas-1085603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/agente-invisible-2744981.jpg' alt='Las 6 películas más esperadas del verano que van a llegar directamente a plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cuesta-hacer-piscina-obra-espana-precio-minimo-tener-propia-piscina-1087373'>Cuánto cuesta hacer una piscina de obra en España: precio mínimo para tener tu propia piscina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-cuesta-hacer-piscina-obra-espana-precio-minimo-tener-propia-piscina-1087373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piscina-2747971.jpg' alt='Cuánto cuesta hacer una piscina de obra en España: precio mínimo para tener tu propia piscina' />
     </a>
 </div>
 
