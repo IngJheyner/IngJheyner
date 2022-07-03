@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471'>Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fotos-penes-ataques-personales-creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-2748221.jpg' alt='Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443'>Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/granja-minado-bitcoin-2224755.jpg' alt='Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431'>Meta cierra Novi, su monedero de criptomonedas de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-pagos-2555773.jpg' alt='Meta cierra Novi, su monedero de criptomonedas de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929'>El curioso origen de los códigos QR  </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/curioso-origen-codigos-qr-1070929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/codigo-qr.jpg' alt='El curioso origen de los códigos QR  ' />
     </a>
 </div>
 
