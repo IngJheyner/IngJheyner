@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873'>Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)</a></h4>
+    <a href='https://computerhoy.com/guia-compra/kit-bicicleta-electrica-ebike-1079873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/kit-bicicleta-electrica-2735329.jpg' alt='Consejos y guía para comprar un kit para convertir tu bicicleta en una bicicleta eléctrica (e-Bike)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579'>5 descubrimientos marinos asombrosos que nos han cautivado en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-descubrimientos-marinos-asombrosos-2022-1086579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/6-descubrimientos-marinos-asombrosos-nos-han-cautivado-2022-2746577.jpg' alt='5 descubrimientos marinos asombrosos que nos han cautivado en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-a13-2747431.jpg' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073'>Varios robotaxis ponen en jaque a una ciudad durante horas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varios-robotaxis-ponen-jaque-ciudad-durante-horas-1087073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg' alt='Varios robotaxis ponen en jaque a una ciudad durante horas' />
     </a>
 </div>
 
