@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917'>Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reproductor-mp3-portatil-aspecto-retro-puedes-construirlo-mismo-2745345.jpg' alt='Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471'>Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fotos-penes-ataques-personales-creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-2748221.jpg' alt='Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333'>5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mosquitera-tesa-insect-stop-2747927.jpg' alt='5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431'>Meta cierra Novi, su monedero de criptomonedas de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-cierra-novi-monedero-criptomonedas-whatsapp-1087431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/whatsapp-pagos-2555773.jpg' alt='Meta cierra Novi, su monedero de criptomonedas de WhatsApp' />
     </a>
 </div>
 
