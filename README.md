@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437'>La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/curiosa-historia-como-universidad-perdio-200000-euros-ataque-ransomware-3-anos-despues-recupero-500000-euros-2748183.jpg' alt='La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333'>5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mosquitera-tesa-insect-stop-2747927.jpg' alt='5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401'>Este malware de Android te suscribe a servicios premium sin que te enteres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-android-te-suscribe-servicios-premium-te-enteres-1087401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Este malware de Android te suscribe a servicios premium sin que te enteres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/grave-error-muchos-cometen-viaje-largo-destrozando-motor-coche-1087395'>El grave error que muchos cometen tras un viaje largo y que está destrozando el motor de su coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/grave-error-muchos-cometen-viaje-largo-destrozando-motor-coche-1087395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/motor-coche-2748063.jpg' alt='El grave error que muchos cometen tras un viaje largo y que está destrozando el motor de su coche' />
     </a>
 </div>
 
