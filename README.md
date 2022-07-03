@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-mejor-companero-cocina-robot-multifuncion-inteligente-rebajado-100-euros-1087381'>Ya puedes tener tu mejor compañero de cocina con este robot multifunción inteligente que está rebajado más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-tener-mejor-companero-cocina-robot-multifuncion-inteligente-rebajado-100-euros-1087381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moulinex-clickchef-2747989.jpg' alt='Ya puedes tener tu mejor compañero de cocina con este robot multifunción inteligente que está rebajado más de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-esperadas-verano-van-llegar-directamente-plataformas-1085603'>Las 6 películas más esperadas del verano que van a llegar directamente a plataformas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-esperadas-verano-van-llegar-directamente-plataformas-1085603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/agente-invisible-2744981.jpg' alt='Las 6 películas más esperadas del verano que van a llegar directamente a plataformas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-cuesta-hacer-piscina-obra-espana-precio-minimo-tener-propia-piscina-1087373'>Cuánto cuesta hacer una piscina de obra en España: precio mínimo para tener tu propia piscina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-cuesta-hacer-piscina-obra-espana-precio-minimo-tener-propia-piscina-1087373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piscina-2747971.jpg' alt='Cuánto cuesta hacer una piscina de obra en España: precio mínimo para tener tu propia piscina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ultima-valor-percibido-clientes-encuesta-1087365'>Netflix es la última en valor percibido para los clientes según esta encuesta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ultima-valor-percibido-clientes-encuesta-1087365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estafa-netflix-2538525.jpg' alt='Netflix es la última en valor percibido para los clientes según esta encuesta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/actualizaciones-mejoraran-rendimiento-pc-ordenadas-mejor-peor-1079051'>Actualizaciones que mejorarán el rendimiento de tu PC ordenadas de mejor a peor</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/actualizaciones-mejoraran-rendimiento-pc-ordenadas-mejor-peor-1079051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/interior-ordenador-2733791.jpg' alt='Actualizaciones que mejorarán el rendimiento de tu PC ordenadas de mejor a peor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941'>8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/trucos-amazon-prime-day-2022-1087329'>Trucos Amazon Prime Day 2022: consejos para ahorrar dinero y comprar más barato</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/trucos-amazon-prime-day-2022-1087329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazon-prime-day-2729915.jpg' alt='Trucos Amazon Prime Day 2022: consejos para ahorrar dinero y comprar más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bioinformatica-1075841'>¿Qué es la bioinformática?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bioinformatica-1075841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1656680685935-2746909.jpg' alt='¿Qué es la bioinformática?' />
     </a>
 </div>
 
