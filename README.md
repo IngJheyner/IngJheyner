@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-ultima-valor-percibido-clientes-encuesta-1087365'>Netflix es la última en valor percibido para los clientes según esta encuesta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-ultima-valor-percibido-clientes-encuesta-1087365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/estafa-netflix-2538525.jpg' alt='Netflix es la última en valor percibido para los clientes según esta encuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/actualizaciones-mejoraran-rendimiento-pc-ordenadas-mejor-peor-1079051'>Actualizaciones que mejorarán el rendimiento de tu PC ordenadas de mejor a peor</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/actualizaciones-mejoraran-rendimiento-pc-ordenadas-mejor-peor-1079051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/interior-ordenador-2733791.jpg' alt='Actualizaciones que mejorarán el rendimiento de tu PC ordenadas de mejor a peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941'>8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-1072941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/8-gadgets-tecnologicos-mejoraran-experiencia-proximo-festival-2739651.jpg' alt='8 gadgets tecnológicos que mejorarán tu experiencia en el próximo festival' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/bioinformatica-1075841'>¿Qué es la bioinformática?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/bioinformatica-1075841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1656680685935-2746909.jpg' alt='¿Qué es la bioinformática?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-2t-5g-review-opinion-1086745'>OnePlus Nord 2T 5G, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/oneplus-nord-2t-5g-review-opinion-1086745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-nord-2t-5g-analisis-opinion-2747171.jpg' alt='OnePlus Nord 2T 5G, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277'>Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ejecutar-automatizar-tareas-windows-11-ejecuten-cuando-queramos-1059277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ordenador-2641673.jpg' alt='Cómo ejecutar automatizar tareas en Windows 11 y que se ejecuten cuando queramos' />
     </a>
 </div>
 
