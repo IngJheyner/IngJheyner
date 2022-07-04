@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-alcanza-nuevo-hito-plena-crisis-criptomonedas-1087821'>Shiba Inu alcanza un nuevo hito en plena crisis de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-alcanza-nuevo-hito-plena-crisis-criptomonedas-1087821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Shiba Inu alcanza un nuevo hito en plena crisis de las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hackean-tesla-model-s-consiguen-alcanzar-350-km-h-1087835'>Hackean un Tesla Model S y consiguen alcanzar los 350 km/h</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hackean-tesla-model-s-consiguen-alcanzar-350-km-h-1087835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tesla-model-s-plaid-no-solo-coche-puede-correr-juegos-nivel-grafico-ps5-2368497.jpg' alt='Hackean un Tesla Model S y consiguen alcanzar los 350 km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/envasadora-vacio-cecotec-oferta-30-junio-2022-1084809'>Si te va la moda del batch cooking, este accesorio es absolutamente imprescindible en tu cocina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/envasadora-vacio-cecotec-oferta-30-junio-2022-1084809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cecotec-sealvac-120-steelcut-2228575.jpg' alt='Si te va la moda del batch cooking, este accesorio es absolutamente imprescindible en tu cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781'>Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-2748551.jpg' alt='Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775'>Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales</a></h4>
     <a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cervezas-terraza-2111793.jpg' alt='Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/steam-deja-evidencia-sorprendente-complicada-situacion-actual-windows-11-1087773'>Steam deja en evidencia la sorprendente y complicada situación actual de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/steam-deja-evidencia-sorprendente-complicada-situacion-actual-windows-11-1087773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Steam deja en evidencia la sorprendente y complicada situación actual de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-copia-funciones-estrella-safari-microsoft-edge-dejara-traducir-texto-seleccionado-1087771'>Google Chrome copia una de las funciones estrella de Safari y Microsoft Edge y dejará traducir el texto seleccionado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-copia-funciones-estrella-safari-microsoft-edge-dejara-traducir-texto-seleccionado-1087771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-chrome-2712889.jpg' alt='Google Chrome copia una de las funciones estrella de Safari y Microsoft Edge y dejará traducir el texto seleccionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-convertira-nuevo-termometro-personal-1087719'>El nuevo Apple Watch Series 8 se convertirá en tu nuevo termómetro personal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-convertira-nuevo-termometro-personal-1087719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='El nuevo Apple Watch Series 8 se convertirá en tu nuevo termómetro personal' />
     </a>
 </div>
 
