@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077'>Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-m13-2713853.jpg' alt='Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041'>La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065'>Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dune-2-retrasa-nuevo-porque-repente-vuelve-importar-taquilla-cines-2749331.jpg' alt='Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocu-muestra-como-hacer-propio-detergente-casero-ahorrar-cesta-compra-1088047'>La OCU muestra cómo hacer tu propio detergente casero y ahorrar en la cesta de la compra</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-muestra-como-hacer-propio-detergente-casero-ahorrar-cesta-compra-1088047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/detergente-2749293.jpg' alt='La OCU muestra cómo hacer tu propio detergente casero y ahorrar en la cesta de la compra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/peores-alimentos-bebidas-cerebro-expertos-1088039'>Los peores alimentos y bebidas para nuestro cerebro, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/peores-alimentos-bebidas-cerebro-expertos-1088039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dieta-equilibrada-2749279.jpg' alt='Los peores alimentos y bebidas para nuestro cerebro, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-quiere-seguir-estrategia-samsung-prepara-dos-nuevos-telefonos-plegables-diferentes-formatos-1088019'>OPPO quiere seguir la estrategia de Samsung y prepara dos nuevos teléfonos plegables con diferentes formatos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-quiere-seguir-estrategia-samsung-prepara-dos-nuevos-telefonos-plegables-diferentes-formatos-1088019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-oppo-find-n-2588329.jpg' alt='OPPO quiere seguir la estrategia de Samsung y prepara dos nuevos teléfonos plegables con diferentes formatos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/experto-seguridad-desvela-numero-magico-caracteres-debe-tener-contrasena-ser-segura-1087997'>Experto en seguridad desvela el número mágico de caracteres que debe tener una contraseña para ser segura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/experto-seguridad-desvela-numero-magico-caracteres-debe-tener-contrasena-ser-segura-1087997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/google-permitira-sincronizar-ajustes-autocompletado-contrasenas-varios-dispositivos-2359687.jpg' alt='Experto en seguridad desvela el número mágico de caracteres que debe tener una contraseña para ser segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/reproductor-acuatico-agptek-2345421.jpg' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
     </a>
 </div>
 
