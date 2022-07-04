@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2748419.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917'>Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reproductor-mp3-portatil-aspecto-retro-puedes-construirlo-mismo-2745345.jpg' alt='Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437'>La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437'>La universidad que perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/curiosa-historia-como-universidad-perdio-200000-euros-ataque-ransomware-3-anos-despues-recupero-500000-euros-2748183.jpg' alt='La curiosa historia de cómo una universidad perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333'>5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mosquiteras-faciles-instalar-1087333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mosquitera-tesa-insect-stop-2747927.jpg' alt='5 mosquiteras fáciles de instalar que te ayudarán a librarte de los mosquitos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/curiosa-historia-como-universidad-perdio-200000-euros-ataque-ransomware-3-anos-despues-recupero-500000-euros-2748183.jpg' alt='La universidad que perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros' />
     </a>
 </div>
 
