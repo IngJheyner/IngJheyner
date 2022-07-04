@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693'>PC Days de PcComponentes 2022: 5 chollos que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg' alt='PC Days de PcComponentes 2022: 5 chollos que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-puede-participar-prime-day-1087669'>¿Quién puede participar en Prime Day?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-puede-participar-prime-day-1087669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='¿Quién puede participar en Prime Day?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2748419.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471'>Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fotos-penes-ataques-personales-creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-2748221.jpg' alt='Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443'>Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/precios-tarjetas-graficas-usadas-caen-consejo-no-compres-1087443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/granja-minado-bitcoin-2224755.jpg' alt='Los precios de las tarjetas gráficas usadas caen un 50%, y nuestro consejo es que no las compres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437'>La universidad que perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/universidad-maastricht-ataque-ransomware-1087437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/curiosa-historia-como-universidad-perdio-200000-euros-ataque-ransomware-3-anos-despues-recupero-500000-euros-2748183.jpg' alt='La universidad que perdió 200.000 euros en un ataque ransomware, y 3 años después recuperó 500.000 euros' />
     </a>
 </div>
 
