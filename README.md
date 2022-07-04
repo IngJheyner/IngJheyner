@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957'>SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/perdida-tiempo-fans-stranger-things-frustrados-tramas-temporada-4-1087953'>"Una pérdida de tiempo” los fans de Stranger Things frustrados por una de las tramas de la temporada 4</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/perdida-tiempo-fans-stranger-things-frustrados-tramas-temporada-4-1087953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2727571.jpg' alt='"Una pérdida de tiempo” los fans de Stranger Things frustrados por una de las tramas de la temporada 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867'>Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-2749051.jpg' alt='Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915'>La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba</a></h4>
     <a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bicicletas-electricas-baratas-oferta-50-km-autonomia-200eu-menos-1087717'>Una de las bicicletas eléctricas más baratas está en oferta: hasta 50 km de autonomía y por 200€ menos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bicicletas-electricas-baratas-oferta-50-km-autonomia-200eu-menos-1087717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/smartgyro-ebike-crosscity-2304641.jpg' alt='Una de las bicicletas eléctricas más baratas está en oferta: hasta 50 km de autonomía y por 200€ menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857'>Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)' />
     </a>
 </div>
 
