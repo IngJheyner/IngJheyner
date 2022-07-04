@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-nueva-amazfit-band-7-100-modos-deporte-pantalla-amoled-brillo-500-nits-1087755'>Así luce la nueva Amazfit Band 7: más de 100 modos de deporte, pantalla AMOLED y brillo de 500 nits.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/luce-nueva-amazfit-band-7-100-modos-deporte-pantalla-amoled-brillo-500-nits-1087755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazfit-band-7-2748523.jpg' alt='Así luce la nueva Amazfit Band 7: más de 100 modos de deporte, pantalla AMOLED y brillo de 500 nits.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/viajar-europa-dejara-ser-gratis-todos-partir-2023-1087703'>Viajar por Europa dejará de ser gratis para todos a partir de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/life/viajar-europa-dejara-ser-gratis-todos-partir-2023-1087703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/paris-2380679.jpg' alt='Viajar por Europa dejará de ser gratis para todos a partir de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693'>PC Days de PcComponentes 2022: 5 chollos que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg' alt='PC Days de PcComponentes 2022: 5 chollos que merecen mucho la pena' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1087671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2748419.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917'>Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reproductor-mp3-portatil-retro-diy-1085917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/reproductor-mp3-portatil-aspecto-retro-puedes-construirlo-mismo-2745345.jpg' alt='Este reproductor MP3 portátil de aspecto retro puedes construirlo tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471'>Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-1087471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fotos-penes-ataques-personales-creadores-god-war-ragnarok-return-monkey-island-toxicidad-redes-2748221.jpg' alt='Fotos de penes y ataques personales: los creadores de God of War Ragnarok y Return to Monkey Island, y la toxicidad de las redes' />
     </a>
 </div>
 
