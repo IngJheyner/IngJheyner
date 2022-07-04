@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867'>Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-2749051.jpg' alt='Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907'>Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mujer-ropa-invierno-pasando-frio-2516009.jpg' alt='Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857'>Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-asegura-haber-robado-identidad-1000-millones-chinos-1087879'>Un grupo de piratas asegura haber robado la identidad de 1.000 millones de chinos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-asegura-haber-robado-identidad-1000-millones-chinos-1087879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-ciberseguridad-2265949.jpg' alt='Un grupo de piratas asegura haber robado la identidad de 1.000 millones de chinos' />
     </a>
 </div>
 
