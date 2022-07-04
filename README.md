@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/experto-seguridad-desvela-numero-magico-caracteres-debe-tener-contrasena-ser-segura-1087997'>Experto en seguridad desvela el número mágico de caracteres que debe tener una contraseña para ser segura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/experto-seguridad-desvela-numero-magico-caracteres-debe-tener-contrasena-ser-segura-1087997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/google-permitira-sincronizar-ajustes-autocompletado-contrasenas-varios-dispositivos-2359687.jpg' alt='Experto en seguridad desvela el número mágico de caracteres que debe tener una contraseña para ser segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/reproductor-acuatico-agptek-2345421.jpg' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12s-12s-pro-12s-ultra-snapdragon-8-plus-gen-1-leica-1088001'>Nuevos Xiaomi 12S, 12S Pro y 12S Ultra con Snapdragon 8+ Gen 1, sensor de una pulgada y óptica Leica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12s-12s-pro-12s-ultra-snapdragon-8-plus-gen-1-leica-1088001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-xiaomi-12s-12s-pro-12s-ultra-snapdragon-8-gen-1-sensor-pulgada-optica-leica-2749229.jpg' alt='Nuevos Xiaomi 12S, 12S Pro y 12S Ultra con Snapdragon 8+ Gen 1, sensor de una pulgada y óptica Leica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-detectar-estafa-renta-hacienda-inundando-moviles-espanoles-1087971'>Cómo detectar la estafa de la Renta y Hacienda que está inundando los móviles españoles</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-detectar-estafa-renta-hacienda-inundando-moviles-espanoles-1087971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/movil-trabajo-hacienda-banco-2332029.jpg' alt='Cómo detectar la estafa de la Renta y Hacienda que está inundando los móviles españoles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-antivirus-gratis-para-windows-595627'>Los mejores antivirus gratis para Windows en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-antivirus-gratis-para-windows-595627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/antivirus-pc-movil-2602675.jpg' alt='Los mejores antivirus gratis para Windows en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-1087447'>7 aplicaciones que te permitirán saber dónde se encuentra tu teléfono Android en todo momento</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-1087447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-2748881.jpg' alt='7 aplicaciones que te permitirán saber dónde se encuentra tu teléfono Android en todo momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-elimina-contenidos-cancela-producciones-originales-muchos-paises-europeos-1087981'>HBO Max elimina contenidos y cancela producciones originales en muchos países europeos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-elimina-contenidos-cancela-producciones-originales-muchos-paises-europeos-1087981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='HBO Max elimina contenidos y cancela producciones originales en muchos países europeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957'>SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte' />
     </a>
 </div>
 
