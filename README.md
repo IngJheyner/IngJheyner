@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-detectar-estafa-renta-hacienda-inundando-moviles-espanoles-1087971'>Cómo detectar la estafa de la Renta y Hacienda que está inundando los móviles españoles</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-detectar-estafa-renta-hacienda-inundando-moviles-espanoles-1087971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/movil-trabajo-hacienda-banco-2332029.jpg' alt='Cómo detectar la estafa de la Renta y Hacienda que está inundando los móviles españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-antivirus-gratis-para-windows-595627'>Los mejores antivirus gratis para Windows en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-antivirus-gratis-para-windows-595627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/antivirus-pc-movil-2602675.jpg' alt='Los mejores antivirus gratis para Windows en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-1087447'>7 aplicaciones que te permitirán saber dónde se encuentra tu teléfono Android en todo momento</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-1087447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-aplicaciones-te-permitiran-saber-donde-encuentra-telefono-android-todo-momento-2748881.jpg' alt='7 aplicaciones que te permitirán saber dónde se encuentra tu teléfono Android en todo momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-elimina-contenidos-cancela-producciones-originales-muchos-paises-europeos-1087981'>HBO Max elimina contenidos y cancela producciones originales en muchos países europeos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-elimina-contenidos-cancela-producciones-originales-muchos-paises-europeos-1087981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hbo-max-2597923.jpg' alt='HBO Max elimina contenidos y cancela producciones originales en muchos países europeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957'>SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spacex-muestra-imagen-motores-llevaran-humanidad-marte-1087957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/spacex-2575053.jpg' alt='SpaceX muestra una imagen de los motores que llevarán a la humanidad a Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/perdida-tiempo-fans-stranger-things-frustrados-tramas-temporada-4-1087953'>"Una pérdida de tiempo” los fans de Stranger Things frustrados por una de las tramas de la temporada 4</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/perdida-tiempo-fans-stranger-things-frustrados-tramas-temporada-4-1087953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2727571.jpg' alt='"Una pérdida de tiempo” los fans de Stranger Things frustrados por una de las tramas de la temporada 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867'>Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-1087867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/diferencias-principales-ataques-bluetooth-bluesnarfing-bluejacking-bluebugging-2749051.jpg' alt='Diferencias entre los principales ataques por bluetooth: Bluesnarfing, Bluejacking y Bluebugging' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907'>Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mujer-ropa-invierno-pasando-frio-2516009.jpg' alt='Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915'>La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba' />
     </a>
 </div>
 
