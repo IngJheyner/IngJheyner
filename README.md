@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061'>Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-nuevas-aplicaciones-play-store-son-malware-solo-buscan-robar-informacion-1088059'>Descubren nuevas aplicaciones en la Play Store que son malware y solo buscan robar información</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-nuevas-aplicaciones-play-store-son-malware-solo-buscan-robar-informacion-1088059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Descubren nuevas aplicaciones en la Play Store que son malware y solo buscan robar información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077'>Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-m13-2713853.jpg' alt='Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065'>Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dune-2-retrasa-nuevo-porque-repente-vuelve-importar-taquilla-cines-2749331.jpg' alt='Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-muestra-como-hacer-propio-detergente-casero-ahorrar-cesta-compra-1088047'>La OCU muestra cómo hacer tu propio detergente casero y ahorrar en la cesta de la compra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-muestra-como-hacer-propio-detergente-casero-ahorrar-cesta-compra-1088047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/detergente-2749293.jpg' alt='La OCU muestra cómo hacer tu propio detergente casero y ahorrar en la cesta de la compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/peores-alimentos-bebidas-cerebro-expertos-1088039'>Los peores alimentos y bebidas para nuestro cerebro, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/peores-alimentos-bebidas-cerebro-expertos-1088039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dieta-equilibrada-2749279.jpg' alt='Los peores alimentos y bebidas para nuestro cerebro, según los expertos' />
     </a>
 </div>
 
