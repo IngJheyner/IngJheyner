@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087'>Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/botella-lavavajillas-tiene-segundo-uso-te-ayuda-ahorrar-35000-litros-agua-ano-2749401.jpg' alt='Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061'>Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041'>La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065'>Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dune-2-retraso-nueva-fecha-estreno-1088065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dune-2-retrasa-nuevo-porque-repente-vuelve-importar-taquilla-cines-2749331.jpg' alt='Dune 2 se retrasa de nuevo, porque de repente vuelve a importar la taquilla en los cines' />
     </a>
 </div>
 
