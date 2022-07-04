@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-alcanza-nuevo-hito-plena-crisis-criptomonedas-1087821'>Shiba Inu alcanza un nuevo hito en plena crisis de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-alcanza-nuevo-hito-plena-crisis-criptomonedas-1087821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg' alt='Shiba Inu alcanza un nuevo hito en plena crisis de las criptomonedas' />
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907'>Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-crean-material-perfecto-llevar-verano-12-grados-menos-algodon-1087907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/mujer-ropa-invierno-pasando-frio-2516009.jpg' alt='Científicos crean el material perfecto para llevar en verano: hasta 12 grados menos que el algodón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hackean-tesla-model-s-consiguen-alcanzar-350-km-h-1087835'>Hackean un Tesla Model S y consiguen alcanzar los 350 km/h</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hackean-tesla-model-s-consiguen-alcanzar-350-km-h-1087835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tesla-model-s-plaid-no-solo-coche-puede-correr-juegos-nivel-grafico-ps5-2368497.jpg' alt='Hackean un Tesla Model S y consiguen alcanzar los 350 km/h' />
+    <h4><a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915'>La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dgt-recuerda-lugares-donde-prohibido-adelantar-aunque-no-haya-senal-prohiba-1087915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/adelantamiento-2447617.jpg' alt='La DGT recuerda los lugares donde está prohibido adelantar aunque no haya señal que lo prohíba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/envasadora-vacio-cecotec-oferta-30-junio-2022-1084809'>Si te va la moda del batch cooking, este accesorio es absolutamente imprescindible en tu cocina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/envasadora-vacio-cecotec-oferta-30-junio-2022-1084809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cecotec-sealvac-120-steelcut-2228575.jpg' alt='Si te va la moda del batch cooking, este accesorio es absolutamente imprescindible en tu cocina' />
+    <h4><a href='https://computerhoy.com/noticias/motor/bicicletas-electricas-baratas-oferta-50-km-autonomia-200eu-menos-1087717'>Una de las bicicletas eléctricas más baratas está en oferta: hasta 50 km de autonomía y por 200€ menos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/bicicletas-electricas-baratas-oferta-50-km-autonomia-200eu-menos-1087717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/smartgyro-ebike-crosscity-2304641.jpg' alt='Una de las bicicletas eléctricas más baratas está en oferta: hasta 50 km de autonomía y por 200€ menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781'>Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-2748551.jpg' alt='Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857'>Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/principal-razon-apple-ha-decidido-nuevo-iphone-14-lleve-chip-a15-iphone-13-1087857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='Esta es la principal razón por la que Apple ha decidido que su nuevo iPhone 14 lleve el chip A15 (iPhone 13)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775'>Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cervezas-terraza-2111793.jpg' alt='Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-asegura-haber-robado-identidad-1000-millones-chinos-1087879'>Un grupo de piratas asegura haber robado la identidad de 1.000 millones de chinos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/grupo-piratas-asegura-haber-robado-identidad-1000-millones-chinos-1087879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-ciberseguridad-2265949.jpg' alt='Un grupo de piratas asegura haber robado la identidad de 1.000 millones de chinos' />
     </a>
 </div>
 
