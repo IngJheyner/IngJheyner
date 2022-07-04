@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781'>Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-1087781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-revoluciona-nevera-playera-version-electrica-menos-60-euros-2748551.jpg' alt='Lidl revoluciona la nevera playera con una versión eléctrica por menos de 60 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775'>Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llegan-espana-terrazas-cronometradas-tiempo-maximo-tomarse-cerveza-minimo-comensales-1087775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cervezas-terraza-2111793.jpg' alt='Llegan a España las terrazas cronometradas: tiempo máximo para tomarse la cerveza y mínimo de comensales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/steam-deja-evidencia-sorprendente-complicada-situacion-actual-windows-11-1087773'>Steam deja en evidencia la sorprendente y complicada situación actual de Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/steam-deja-evidencia-sorprendente-complicada-situacion-actual-windows-11-1087773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Steam deja en evidencia la sorprendente y complicada situación actual de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-convertira-nuevo-termometro-personal-1087719'>El nuevo Apple Watch Series 8 se convertirá en tu nuevo termómetro personal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-convertira-nuevo-termometro-personal-1087719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='El nuevo Apple Watch Series 8 se convertirá en tu nuevo termómetro personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/obligado-esperarte-crucero-llegas-tarde-parada-puerto-1087757'>¿Está obligado a esperarte un crucero si llegas tarde a una parada en un puerto?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/obligado-esperarte-crucero-llegas-tarde-parada-puerto-1087757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/crucero-diamond-princess-1864491.jpg' alt='¿Está obligado a esperarte un crucero si llegas tarde a una parada en un puerto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/luce-nueva-amazfit-band-7-100-modos-deporte-pantalla-amoled-brillo-500-nits-1087755'>Así luce la nueva Amazfit Band 7: más de 100 modos de deporte, pantalla AMOLED y brillo de 500 nits.</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/luce-nueva-amazfit-band-7-100-modos-deporte-pantalla-amoled-brillo-500-nits-1087755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazfit-band-7-2748523.jpg' alt='Así luce la nueva Amazfit Band 7: más de 100 modos de deporte, pantalla AMOLED y brillo de 500 nits.' />
     </a>
 </div>
 
