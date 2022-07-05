@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gama-k-redmi-vuelta-mano-redmi-k50i-5g-1088465'>La gama K de Redmi está de vuelta de la mano del Redmi K50i 5G</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gama-k-redmi-vuelta-mano-redmi-k50i-5g-1088465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/redmi-k50i-2749915.jpg' alt='La gama K de Redmi está de vuelta de la mano del Redmi K50i 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sale-luz-curriculum-mandaba-bill-gates-70-empresas-1088435'>Sale a la luz el curriculum que mandaba Bill Gates en los 70 a las empresas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sale-luz-curriculum-mandaba-bill-gates-70-empresas-1088435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Sale a la luz el curriculum que mandaba Bill Gates en los 70 a las empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-youtube-ordenador-40-anos-antiguedad-1088415'>Así funciona YouTube en un ordenador de 40 años de antigüedad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-youtube-ordenador-40-anos-antiguedad-1088415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/commodore-pet-2749767.jpg' alt='Así funciona YouTube en un ordenador de 40 años de antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocasiones-bateria-iphone-deja-cargar-cuando-llega-80-1088357'>Por qué en ocasiones la batería de tu iPhone deja de cargar cuando llega al 80%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocasiones-bateria-iphone-deja-cargar-cuando-llega-80-1088357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galeria-iphone-2022-2656579.jpg' alt='Por qué en ocasiones la batería de tu iPhone deja de cargar cuando llega al 80%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345'>Las mejores fotos espaciales de 2022 parecen de ciencia ficción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/foto-espacio-2749699.jpg' alt='Las mejores fotos espaciales de 2022 parecen de ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gadget-decathlon-imprescindible-barato-nadadores-1086003'>Este gadget de Decathlon es imprescindible (y barato) para nadadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gadget-decathlon-imprescindible-barato-nadadores-1086003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/natacion-2732879.jpg' alt='Este gadget de Decathlon es imprescindible (y barato) para nadadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/no-son-adorno-sirven-rayas-rojas-cuentakilometros-coche-1088333'>No son un adorno, ¿para qué sirven las rayas rojas del cuentakilómetros del coche?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/no-son-adorno-sirven-rayas-rojas-cuentakilometros-coche-1088333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='No son un adorno, ¿para qué sirven las rayas rojas del cuentakilómetros del coche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-compara-nuevas-peliculas-avatar-senor-anillos-1088311'>James Cameron compara las nuevas películas de Avatar con El Señor de los Anillos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-compara-nuevas-peliculas-avatar-senor-anillos-1088311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avatar-sentido-agua-2746135.jpg' alt='James Cameron compara las nuevas películas de Avatar con El Señor de los Anillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905'>POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/poco-f4-vs-poco-x4-gt-2749033.jpg' alt='POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?' />
     </a>
 </div>
 
