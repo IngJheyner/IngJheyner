@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633'>Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-defender-2733965.jpg' alt='Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-portatil-disenado-jugar-rebaja-325-euros-1088635'>HP Victus 16, un portátil diseñado para jugar, tiene una rebaja de 325 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-portatil-disenado-jugar-rebaja-325-euros-1088635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='HP Victus 16, un portátil diseñado para jugar, tiene una rebaja de 325 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687'>El falso hijo: la nueva estafa por WhatsApp en los meses de verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El falso hijo: la nueva estafa por WhatsApp en los meses de verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677'>La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lista-final-2725793.jpg' alt='La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-1088641'>Los nuevos Asus ROG Phone 6 y Phone 6 Pro son oficiales: especificaciones gaming y un precio propio de la gama alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-1088641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Los nuevos Asus ROG Phone 6 y Phone 6 Pro son oficiales: especificaciones gaming y un precio propio de la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611'>El suministro de semiconductores está a punto de empeorar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semiconductores-2711213.jpg' alt='El suministro de semiconductores está a punto de empeorar' />
     </a>
 </div>
 
