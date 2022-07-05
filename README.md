@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345'>Las mejores fotos espaciales de 2022 parecen de ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/foto-espacio-2749699.jpg' alt='Las mejores fotos espaciales de 2022 parecen de ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gadget-decathlon-imprescindible-barato-nadadores-1086003'>Este gadget de Decathlon es imprescindible (y barato) para nadadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gadget-decathlon-imprescindible-barato-nadadores-1086003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/natacion-2732879.jpg' alt='Este gadget de Decathlon es imprescindible (y barato) para nadadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/no-son-adorno-sirven-rayas-rojas-cuentakilometros-coche-1088333'>No son un adorno, ¿para qué sirven las rayas rojas del cuentakilómetros del coche?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/no-son-adorno-sirven-rayas-rojas-cuentakilometros-coche-1088333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dgt-explica-truco-infalible-saber-cuentakilometros-coche-segunda-mano-trucado-2531267.jpg' alt='No son un adorno, ¿para qué sirven las rayas rojas del cuentakilómetros del coche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-compara-nuevas-peliculas-avatar-senor-anillos-1088311'>James Cameron compara las nuevas películas de Avatar con El Señor de los Anillos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-compara-nuevas-peliculas-avatar-senor-anillos-1088311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/avatar-sentido-agua-2746135.jpg' alt='James Cameron compara las nuevas películas de Avatar con El Señor de los Anillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905'>POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/poco-f4-vs-poco-x4-gt-2749033.jpg' alt='POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1088289'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1088289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2749609.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cinco-alimentos-incrementan-tamano-pechos-forma-natural-1088285'>5 alimentos que incrementan el tamaño de los pechos de forma natural</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cinco-alimentos-incrementan-tamano-pechos-forma-natural-1088285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alimentos-incrementan-tamano-pechos-forma-natural-2749607.jpg' alt='5 alimentos que incrementan el tamaño de los pechos de forma natural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087'>Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/botella-lavavajillas-tiene-segundo-uso-te-ayuda-ahorrar-35000-litros-agua-ano-2749401.jpg' alt='Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061'>Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things' />
     </a>
 </div>
 
