@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687'>El falso hijo: la nueva estafa por WhatsApp en los meses de verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El falso hijo: la nueva estafa por WhatsApp en los meses de verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/asteroide-peligroso-tierra-deja-ser-amenaza-1088683'>El asteroide más peligroso para la Tierra deja de ser una amenaza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/asteroide-peligroso-tierra-deja-ser-amenaza-1088683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg' alt='El asteroide más peligroso para la Tierra deja de ser una amenaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677'>La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lista-final-2725793.jpg' alt='La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611'>El suministro de semiconductores está a punto de empeorar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semiconductores-2711213.jpg' alt='El suministro de semiconductores está a punto de empeorar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fuera-juego-mundial-futbol-2022-seran-cosa-inteligencia-artificial-1088559'>Los fuera de juego del Mundial de fútbol de 2022 serán cosa de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fuera-juego-mundial-futbol-2022-seran-cosa-inteligencia-artificial-1088559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/seleccion-espanola-futbol-celebra-gol-2354669.jpg' alt='Los fuera de juego del Mundial de fútbol de 2022 serán cosa de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509'>Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador' />
     </a>
 </div>
 
