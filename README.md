@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717'>HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/htc-anuncio-nueva-tablet-hace-mes-nadie-habia-enterado-2750443.jpg' alt='HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665'>Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680691.jpg' alt='Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-pensando-montar-pc-sobremesa-mejor-puedes-hacer-esperar-1088703'>Si estás pensando en montar un pc de sobremesa, lo mejor que puedes hacer es esperar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-pensando-montar-pc-sobremesa-mejor-puedes-hacer-esperar-1088703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Si estás pensando en montar un pc de sobremesa, lo mejor que puedes hacer es esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715'>HUAWEI presenta su propio rival para los Airtags</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-tag-2750441.jpg' alt='HUAWEI presenta su propio rival para los Airtags' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697'>WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vinilo-digital-otros-reproductores-increibles-yamaha-video-1088711'>El vinilo digital y otros reproductores increíbles de Yamaha (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vinilo-digital-otros-reproductores-increibles-yamaha-video-1088711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vinilo-digital-otros-reproductores-increibles-yamaha-2750435.jpg' alt='El vinilo digital y otros reproductores increíbles de Yamaha (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633'>Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-defender-2733965.jpg' alt='Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-portatil-disenado-jugar-rebaja-325-euros-1088635'>HP Victus 16, un portátil diseñado para jugar, tiene una rebaja de 325 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-portatil-disenado-jugar-rebaja-325-euros-1088635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='HP Victus 16, un portátil diseñado para jugar, tiene una rebaja de 325 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687'>El falso hijo: la nueva estafa por WhatsApp en los meses de verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El falso hijo: la nueva estafa por WhatsApp en los meses de verano' />
     </a>
 </div>
 
