@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905'>POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/poco-f4-vs-poco-x4-gt-1087905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/poco-f4-vs-poco-x4-gt-2749033.jpg' alt='POCO F4 vs. POCO X4 GT, ¿qué móvil es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1088289'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1088289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2749609.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061'>Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/fecha-estreno-trama-todo-ya-sabemos-temporada-final-stranger-things-1088061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Fecha de estreno, trama y todo lo que ya sabemos de la temporada final de Stranger Things' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-nuevas-aplicaciones-play-store-son-malware-solo-buscan-robar-informacion-1088059'>Descubren nuevas aplicaciones en la Play Store que son malware y solo buscan robar información</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-nuevas-aplicaciones-play-store-son-malware-solo-buscan-robar-informacion-1088059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-malware-2663557.jpg' alt='Descubren nuevas aplicaciones en la Play Store que son malware y solo buscan robar información' />
     </a>
 </div>
 
