@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677'>La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lista-final-2725793.jpg' alt='La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-1088641'>Los nuevos Asus ROG Phone 6 y Phone 6 Pro son oficiales: especificaciones gaming y un precio propio de la gama alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-1088641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Los nuevos Asus ROG Phone 6 y Phone 6 Pro son oficiales: especificaciones gaming y un precio propio de la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611'>El suministro de semiconductores está a punto de empeorar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/suministro-semiconductores-punto-empeorar-1088611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/semiconductores-2711213.jpg' alt='El suministro de semiconductores está a punto de empeorar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509'>Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguro-enviar-dinero-familiares-amigos-bizum-paypal-1088487'>Qué es más seguro para enviar dinero entre familiares y amigos: ¿Bizum o Paypal?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguro-enviar-dinero-familiares-amigos-bizum-paypal-1088487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguro-enviar-dinero-familiares-amigos-bizum-paypal-2750039.jpg' alt='Qué es más seguro para enviar dinero entre familiares y amigos: ¿Bizum o Paypal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-muy-fans-apple-airtag-solo-25-euros-1088539'>Chollo para muy fans de Apple: los AirTag por solo 25 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-muy-fans-apple-airtag-solo-25-euros-1088539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Chollo para muy fans de Apple: los AirTag por solo 25 euros' />
     </a>
 </div>
 
