@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509'>Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-alerta-vulnerabilidad-dia-cero-pide-todos-usuarios-actualicen-navegador-1088509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Google Chrome alerta de una vulnerabilidad de día cero y pide a todos los usuarios que actualicen el navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguro-enviar-dinero-familiares-amigos-bizum-paypal-1088487'>Qué es más seguro para enviar dinero entre familiares y amigos: ¿Bizum o Paypal?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguro-enviar-dinero-familiares-amigos-bizum-paypal-1088487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguro-enviar-dinero-familiares-amigos-bizum-paypal-2750039.jpg' alt='Qué es más seguro para enviar dinero entre familiares y amigos: ¿Bizum o Paypal?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-muy-fans-apple-airtag-solo-25-euros-1088539'>Chollo para muy fans de Apple: los AirTag por solo 25 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-muy-fans-apple-airtag-solo-25-euros-1088539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg' alt='Chollo para muy fans de Apple: los AirTag por solo 25 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-vuelve-obligar-amazon-realizar-cambios-app-favor-clientes-1088505'>La Unión Europea vuelve a obligar a Amazon a realizar cambios en su app: a favor de los clientes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/union-europea-vuelve-obligar-amazon-realizar-cambios-app-favor-clientes-1088505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portada-amazon-prime-2749921.jpg' alt='La Unión Europea vuelve a obligar a Amazon a realizar cambios en su app: a favor de los clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/todo-sabemos-suscripcion-barata-netflix-fecha-lanzamiento-precio-condiciones-1088455'>Todo lo que sabemos de la suscripción barata de Netflix: fecha de lanzamiento, precio y condiciones</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/todo-sabemos-suscripcion-barata-netflix-fecha-lanzamiento-precio-condiciones-1088455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='Todo lo que sabemos de la suscripción barata de Netflix: fecha de lanzamiento, precio y condiciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tardan-principales-modelos-tesla-cargarse-1088417'>Esto es lo que tardan los principales modelos de Tesla en cargarse</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tardan-principales-modelos-tesla-cargarse-1088417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/filefield_paths/tesla-supercharger.jpg' alt='Esto es lo que tardan los principales modelos de Tesla en cargarse' />
     </a>
 </div>
 
