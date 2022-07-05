@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gama-k-redmi-vuelta-mano-redmi-k50i-5g-1088465'>La gama K de Redmi está de vuelta de la mano del Redmi K50i 5G</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gama-k-redmi-vuelta-mano-redmi-k50i-5g-1088465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/redmi-k50i-2749915.jpg' alt='La gama K de Redmi está de vuelta de la mano del Redmi K50i 5G' />
+    <h4><a href='https://computerhoy.com/noticias/motor/tardan-principales-modelos-tesla-cargarse-1088417'>Esto es lo que tardan los principales modelos de Tesla en cargarse</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tardan-principales-modelos-tesla-cargarse-1088417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/filefield_paths/tesla-supercharger.jpg' alt='Esto es lo que tardan los principales modelos de Tesla en cargarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sale-luz-curriculum-mandaba-bill-gates-70-empresas-1088435'>Sale a la luz el curriculum que mandaba Bill Gates en los 70 a las empresas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sale-luz-curriculum-mandaba-bill-gates-70-empresas-1088435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Sale a la luz el curriculum que mandaba Bill Gates en los 70 a las empresas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/solucion-mit-cuando-cambio-climatico-sea-imparable-burbujas-espaciales-1088467'>Esta es la solución del MIT para cuando el cambio climático sea imparable: burbujas espaciales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/solucion-mit-cuando-cambio-climatico-sea-imparable-burbujas-espaciales-1088467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/burbujas-espaciales-2749953.jpg' alt='Esta es la solución del MIT para cuando el cambio climático sea imparable: burbujas espaciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-youtube-ordenador-40-anos-antiguedad-1088415'>Así funciona YouTube en un ordenador de 40 años de antigüedad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-youtube-ordenador-40-anos-antiguedad-1088415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/commodore-pet-2749767.jpg' alt='Así funciona YouTube en un ordenador de 40 años de antigüedad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/parrilla-electrica-verano-modelo-tiene-ruedas-realmente-versatil-1084835'>Parrilla eléctrica para el verano: este modelo tiene ruedas y es realmente versátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/parrilla-electrica-verano-modelo-tiene-ruedas-realmente-versatil-1084835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/barbacoa-2743231.jpg' alt='Parrilla eléctrica para el verano: este modelo tiene ruedas y es realmente versátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocasiones-bateria-iphone-deja-cargar-cuando-llega-80-1088357'>Por qué en ocasiones la batería de tu iPhone deja de cargar cuando llega al 80%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocasiones-bateria-iphone-deja-cargar-cuando-llega-80-1088357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galeria-iphone-2022-2656579.jpg' alt='Por qué en ocasiones la batería de tu iPhone deja de cargar cuando llega al 80%' />
+    <h4><a href='https://computerhoy.com/noticias/life/encuentra-animal-oculto-desafiante-ilusion-optica-99-personas-no-consigue-resolver-1088481'>Encuentra el animal oculto, la desafiante ilusión óptica que el 99% de las personas no consigue resolver</a></h4>
+    <a href='https://computerhoy.com/noticias/life/encuentra-animal-oculto-desafiante-ilusion-optica-99-personas-no-consigue-resolver-1088481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ilusion-optica-animales-2749965.jpg' alt='Encuentra el animal oculto, la desafiante ilusión óptica que el 99% de las personas no consigue resolver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345'>Las mejores fotos espaciales de 2022 parecen de ciencia ficción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-espaciales-2022-parecen-ciencia-ficcion-1088345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/foto-espacio-2749699.jpg' alt='Las mejores fotos espaciales de 2022 parecen de ciencia ficción' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-tiene-patente-desarrollo-caracteristica-permitiria-uso-iphone-lluvia-1088395'>Apple ya tiene la patente para el desarrollo de una característica que permitiría el uso del iPhone bajo la lluvia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-tiene-patente-desarrollo-caracteristica-permitiria-uso-iphone-lluvia-1088395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-ya-tiene-patente-desarrollo-caracteristica-permitiria-uso-iphone-lluvia-2749747.jpg' alt='Apple ya tiene la patente para el desarrollo de una característica que permitiría el uso del iPhone bajo la lluvia' />
     </a>
 </div>
 
