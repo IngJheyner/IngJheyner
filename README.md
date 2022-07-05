@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cinco-alimentos-incrementan-tamano-pechos-forma-natural-1088285'>5 alimentos que incrementan el tamaño de los pechos de forma natural</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cinco-alimentos-incrementan-tamano-pechos-forma-natural-1088285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alimentos-incrementan-tamano-pechos-forma-natural-2749607.jpg' alt='5 alimentos que incrementan el tamaño de los pechos de forma natural' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087'>Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar</a></h4>
     <a href='https://computerhoy.com/noticias/life/botella-lavavajillas-tapon-ahorra-35000-litros-agua-1088087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/botella-lavavajillas-tiene-segundo-uso-te-ayuda-ahorrar-35000-litros-agua-ano-2749401.jpg' alt='Esta botella de lavavajillas tiene un segundo uso que ahorra 35.000 litros de agua al año por hogar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077'>Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m13-barato-oferta-1088077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-m13-2713853.jpg' alt='Uno de los móviles Samsung más baratos ahora lo es incluso más: cuesta solo 169 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041'>La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-whatsapp-pensada-darte-privacidad-dentro-aplicacion-1088041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='La nueva característica de WhatsApp está pensada para darte más privacidad dentro de la aplicación' />
     </a>
 </div>
 
