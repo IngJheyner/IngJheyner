@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697'>WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vinilo-digital-otros-reproductores-increibles-yamaha-video-1088711'>El vinilo digital y otros reproductores increíbles de Yamaha (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vinilo-digital-otros-reproductores-increibles-yamaha-video-1088711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vinilo-digital-otros-reproductores-increibles-yamaha-2750435.jpg' alt='El vinilo digital y otros reproductores increíbles de Yamaha (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633'>Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-antivirus-gratis-windows-sorprende-pruebas-proteccion-ransomware-1088633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/microsoft-defender-2733965.jpg' alt='Microsoft Defender (antivirus gratis de Windows) sorprende en las pruebas de protección contra el ransomware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687'>El falso hijo: la nueva estafa por WhatsApp en los meses de verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/falso-hijo-nueva-estafa-whatsapp-meses-verano-1088687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='El falso hijo: la nueva estafa por WhatsApp en los meses de verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/asteroide-peligroso-tierra-deja-ser-amenaza-1088683'>El asteroide más peligroso para la Tierra deja de ser una amenaza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/asteroide-peligroso-tierra-deja-ser-amenaza-1088683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg' alt='El asteroide más peligroso para la Tierra deja de ser una amenaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677'>La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/la-lista-final-serie-accion-chris-pratt-amazon-prime-video-1088677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lista-final-2725793.jpg' alt='La nueva serie de acción de Chris Pratt ya es la más vista en Amazon Prime Video' />
     </a>
 </div>
 
