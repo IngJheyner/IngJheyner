@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173'>Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492365.jpg' alt='Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157'>Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-2751191.jpg' alt='Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143'>La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117'>La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg' alt='La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-cancela-mejor-serie-ciencia-ficcion-expanse-1089161'>Amazon cancela su mejor serie de ciencia ficción tras The Expanse</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-cancela-mejor-serie-ciencia-ficcion-expanse-1089161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/night-sky-2707745.jpg' alt='Amazon cancela su mejor serie de ciencia ficción tras The Expanse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139'>El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera</a></h4>
-    <a href='https://computerhoy.com/noticias/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-2636091.jpg' alt='El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera' />
     </a>
 </div>
 
