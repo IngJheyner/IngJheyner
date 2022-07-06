@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999'>El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-arrasa-podria-batir-record-juego-calamar-parecia-insuperable-1088955'>Stranger Things 4 arrasa y podría batir un récord de El juego del calamar que parecía insuperable</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-arrasa-podria-batir-record-juego-calamar-parecia-insuperable-1088955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Stranger Things 4 arrasa y podría batir un récord de El juego del calamar que parecía insuperable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693'>PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg' alt='PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963'>Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/winnie-pooh-blood-and-honey-2715065.jpg' alt='Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973'>¿Es malo cargar tu Amazon Kindle durante la noche?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='¿Es malo cargar tu Amazon Kindle durante la noche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-intel-ya-estan-listos-entrar-produccion-sera-intel-4-1088961'>Los nuevos procesadores Intel ya están listos para entrar en producción: así será Intel 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-intel-ya-estan-listos-entrar-produccion-sera-intel-4-1088961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Los nuevos procesadores Intel ya están listos para entrar en producción: así será Intel 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933'>La batería del futuro ya se vende y está hecha de arena</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/turistas-exploran-dunas-arena-desierto-mauritano-africa-1885379.jpg' alt='La batería del futuro ya se vende y está hecha de arena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923'>Consejos para comprar más barato en Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Consejos para comprar más barato en Prime Day 2022' />
     </a>
 </div>
 
