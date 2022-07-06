@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963'>Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/winnie-pooh-blood-and-honey-2715065.jpg' alt='Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973'>¿Es malo cargar tu Amazon Kindle durante la noche?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='¿Es malo cargar tu Amazon Kindle durante la noche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-intel-ya-estan-listos-entrar-produccion-sera-intel-4-1088961'>Los nuevos procesadores Intel ya están listos para entrar en producción: así será Intel 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-procesadores-intel-ya-estan-listos-entrar-produccion-sera-intel-4-1088961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Los nuevos procesadores Intel ya están listos para entrar en producción: así será Intel 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933'>La batería del futuro ya se vende y está hecha de arena</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/turistas-exploran-dunas-arena-desierto-mauritano-africa-1885379.jpg' alt='La batería del futuro ya se vende y está hecha de arena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923'>Consejos para comprar más barato en Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Consejos para comprar más barato en Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/juegos-baratos-amazon-prime-day-2022-1088597'>Super precios en juegos en el Amazon Prime Day Gaming 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/juegos-baratos-amazon-prime-day-2022-1088597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='Super precios en juegos en el Amazon Prime Day Gaming 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2750621.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471'>Amazon Prime Day 2022: mejores ofertas que ya están disponibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2750203.jpg' alt='Amazon Prime Day 2022: mejores ofertas que ya están disponibles' />
     </a>
 </div>
 
