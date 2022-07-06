@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar y desinfectar correctamente el saco de dormir</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar correctamente el saco de dormir</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar y desinfectar correctamente el saco de dormir' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar correctamente el saco de dormir' />
     </a>
 </div>
 
