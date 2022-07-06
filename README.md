@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2750621.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471'>Amazon Prime Day 2022: mejores ofertas que ya están disponibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2750203.jpg' alt='Amazon Prime Day 2022: mejores ofertas que ya están disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar correctamente el saco de dormir</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar correctamente el saco de dormir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665'>Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680691.jpg' alt='Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-pensando-montar-pc-sobremesa-mejor-puedes-hacer-esperar-1088703'>Si estás pensando en montar un pc de sobremesa, lo mejor que puedes hacer es esperar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-pensando-montar-pc-sobremesa-mejor-puedes-hacer-esperar-1088703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/escritorio-pc-sobremesa-portatil-monitor-2671435.jpg' alt='Si estás pensando en montar un pc de sobremesa, lo mejor que puedes hacer es esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715'>HUAWEI presenta su propio rival para los Airtags</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-tag-2750441.jpg' alt='HUAWEI presenta su propio rival para los Airtags' />
     </a>
 </div>
 
