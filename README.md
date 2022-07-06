@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301'>IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estanteria-mesilla-ikea-symfonisk-2751515.jpg' alt='IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sueno-cualquier-influencer-empresa-te-permite-asegurar-cuenta-instagram-caso-robo-1089269'>El sueño de cualquier influencer: esta empresa te permite asegurar tu cuenta de Instagram en caso de robo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sueno-cualquier-influencer-empresa-te-permite-asegurar-cuenta-instagram-caso-robo-1089269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instagram-2590905.jpg' alt='El sueño de cualquier influencer: esta empresa te permite asegurar tu cuenta de Instagram en caso de robo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/levanta-cabeza-truco-utilizan-supermercados-hacerte-comprar-productos-caros-1089299'>Levanta la cabeza: el truco que utilizan los supermercados para hacerte comprar los productos más caros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/levanta-cabeza-truco-utilizan-supermercados-hacerte-comprar-productos-caros-1089299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg' alt='Levanta la cabeza: el truco que utilizan los supermercados para hacerte comprar los productos más caros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-duracion-avatar-el-sentido-del-agua-1089297'>James Cameron carga contra los que critican la duración de Avatar 2: 'luego se pasan 8 horas viendo la tele'</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-duracion-avatar-el-sentido-del-agua-1089297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/james-cameron-carga-critican-duracion-avatar-2-luego-pasan-8-horas-viendo-tele-2751507.jpg' alt='James Cameron carga contra los que critican la duración de Avatar 2: 'luego se pasan 8 horas viendo la tele'' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/creadores-stranger-things-desvelan-detalles-futuro-max-confirman-muchos-temian-1089223'>Los creadores de Stranger Things desvelan detalles sobre el futuro de Max y confirman lo que muchos temían</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/creadores-stranger-things-desvelan-detalles-futuro-max-confirman-muchos-temian-1089223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/eleven-once-max-stranger-things-2737645.jpg' alt='Los creadores de Stranger Things desvelan detalles sobre el futuro de Max y confirman lo que muchos temían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255'>Huawei MateBook D16, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751375.jpg' alt='Huawei MateBook D16, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-6-julio-2022-1088329'>¿Xiaomi Mi Band? Esta pulsera de Xiaomi es mejor y cuesta menos de 30 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-6-julio-2022-1088329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591281.jpg' alt='¿Xiaomi Mi Band? Esta pulsera de Xiaomi es mejor y cuesta menos de 30 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449'>Aplicaciones de contactos para Android que te harán olvidar la de Google </a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-contactos-android-te-haran-olvidar-google-2749075.jpg' alt='Aplicaciones de contactos para Android que te harán olvidar la de Google ' />
     </a>
 </div>
 
