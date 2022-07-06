@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923'>Consejos para comprar más barato en Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Consejos para comprar más barato en Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/juegos-baratos-amazon-prime-day-2022-1088597'>Super precios en juegos en el Amazon Prime Day Gaming 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/juegos-baratos-amazon-prime-day-2022-1088597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='Super precios en juegos en el Amazon Prime Day Gaming 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1088917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2750621.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar correctamente el saco de dormir</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar correctamente el saco de dormir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717'>HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/htc-anuncio-nueva-tablet-hace-mes-nadie-habia-enterado-2750443.jpg' alt='HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665'>Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-10t-estaria-caer-todo-sabemos-1088665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680691.jpg' alt='Los últimos rumores apuntan a que el OnePlus 10T estaría al caer y esto es todo lo que sabemos de él' />
     </a>
 </div>
 
