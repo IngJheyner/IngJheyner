@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255'>Huawei MateBook D16, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751375.jpg' alt='Huawei MateBook D16, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-6-julio-2022-1088329'>¿Xiaomi Mi Band? Esta pulsera de Xiaomi es mejor y cuesta menos de 30 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-6-julio-2022-1088329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591281.jpg' alt='¿Xiaomi Mi Band? Esta pulsera de Xiaomi es mejor y cuesta menos de 30 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449'>Aplicaciones de contactos para Android que te harán olvidar la de Google </a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-contactos-android-te-haran-olvidar-google-2749075.jpg' alt='Aplicaciones de contactos para Android que te harán olvidar la de Google ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173'>Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492365.jpg' alt='Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157'>Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-2751191.jpg' alt='Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143'>La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045'>Ya hay fecha oficial de lanzamiento para los nuevos MacBook con el chip M2 de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='Ya hay fecha oficial de lanzamiento para los nuevos MacBook con el chip M2 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117'>La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg' alt='La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día' />
     </a>
 </div>
 
