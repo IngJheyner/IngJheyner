@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-duracion-avatar-el-sentido-del-agua-1089297'>James Cameron carga contra los que critican la duración de Avatar 2: 'luego se pasan 8 horas viendo la tele'</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/james-cameron-duracion-avatar-el-sentido-del-agua-1089297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/james-cameron-carga-critican-duracion-avatar-2-luego-pasan-8-horas-viendo-tele-2751507.jpg' alt='James Cameron carga contra los que critican la duración de Avatar 2: 'luego se pasan 8 horas viendo la tele'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/creadores-stranger-things-desvelan-detalles-futuro-max-confirman-muchos-temian-1089223'>Los creadores de Stranger Things desvelan detalles sobre el futuro de Max y confirman lo que muchos temían</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/creadores-stranger-things-desvelan-detalles-futuro-max-confirman-muchos-temian-1089223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/eleven-once-max-stranger-things-2737645.jpg' alt='Los creadores de Stranger Things desvelan detalles sobre el futuro de Max y confirman lo que muchos temían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255'>Huawei MateBook D16, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-matebook-d16-review-opinion-1089255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751375.jpg' alt='Huawei MateBook D16, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449'>Aplicaciones de contactos para Android que te harán olvidar la de Google </a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/aplicaciones-contactos-android-te-haran-olvidar-google-1087449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-contactos-android-te-haran-olvidar-google-2749075.jpg' alt='Aplicaciones de contactos para Android que te harán olvidar la de Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173'>Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-cambia-iphone-siempre-modelos-normal-mini-nunca-llevaran-mejor-chip-1089173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492365.jpg' alt='Apple cambia el iPhone para siempre: sus modelos normal y mini nunca más llevarán el mejor chip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157'>Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-1089157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/significa-rebote-gato-muerto-criptomonedas-como-ha-sufrido-ethereum-2751191.jpg' alt='Qué significa un “rebote de gato muerto” en criptomonedas como el que ha sufrido Ethereum' />
     </a>
 </div>
 
