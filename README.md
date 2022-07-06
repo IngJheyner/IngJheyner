@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333'>Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gigabyte-lanza-inmenso-monitor-gaming-hibrido-54-pulgadas-resolucion-4k-120-hz-android-os-chromecast-2751569.jpg' alt='Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291'>Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-aterriza-espana-mano-orange-precio-disponibilidad-pequeno-familia-1089289'>El Xiaomi 12 Lite aterriza en España de la mano de Orange: precio y disponibilidad del más pequeño de la familia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-aterriza-espana-mano-orange-precio-disponibilidad-pequeno-familia-1089289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12-lite-5g-2672371.jpg' alt='El Xiaomi 12 Lite aterriza en España de la mano de Orange: precio y disponibilidad del más pequeño de la familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301'>IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estanteria-mesilla-ikea-symfonisk-2751515.jpg' alt='IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima' />
     </a>
 </div>
 
