@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/remake-casa-papel-consigue-seguir-pasos-serie-original-1089075'>El remake de La casa de papel consigue seguir los pasos de la serie original</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/remake-casa-papel-consigue-seguir-pasos-serie-original-1089075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/version-coreana-casa-papel-2750963.jpg' alt='El remake de La casa de papel consigue seguir los pasos de la serie original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-oferta-6-julio-2022-1088363'>El Samsung Galaxy Watch 4 baja de precio y no espera al Prime Day: ya cuesta solo 159 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-oferta-6-julio-2022-1088363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515787.jpg' alt='El Samsung Galaxy Watch 4 baja de precio y no espera al Prime Day: ya cuesta solo 159 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-1089003'>La nueva moda de los suplementos de vitamina D podría salir muy cara a algunos consumidores, según los médicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-1089003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-2750777.jpg' alt='La nueva moda de los suplementos de vitamina D podría salir muy cara a algunos consumidores, según los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015'>Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer</a></h4>
     <a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/prueba-skoda-octavia-rs-cuadro-2414817.jpg' alt='Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993'>Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999'>El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-arrasa-podria-batir-record-juego-calamar-parecia-insuperable-1088955'>Stranger Things 4 arrasa y podría batir un récord de El juego del calamar que parecía insuperable</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/stranger-things-4-arrasa-podria-batir-record-juego-calamar-parecia-insuperable-1088955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/stranger-things-2746979.jpg' alt='Stranger Things 4 arrasa y podría batir un récord de El juego del calamar que parecía insuperable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693'>PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg' alt='PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena' />
     </a>
 </div>
 
