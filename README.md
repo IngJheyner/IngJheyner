@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/remake-casa-papel-consigue-seguir-pasos-serie-original-1089075'>El remake de La casa de papel consigue seguir los pasos de la serie original</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/remake-casa-papel-consigue-seguir-pasos-serie-original-1089075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/version-coreana-casa-papel-2750963.jpg' alt='El remake de La casa de papel consigue seguir los pasos de la serie original' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139'>El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-2636091.jpg' alt='El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-oferta-6-julio-2022-1088363'>El Samsung Galaxy Watch 4 baja de precio y no espera al Prime Day: ya cuesta solo 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-watch-4-oferta-6-julio-2022-1088363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515787.jpg' alt='El Samsung Galaxy Watch 4 baja de precio y no espera al Prime Day: ya cuesta solo 159 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-anos-investigacion-ibm-ya-ha-sacado-luz-lengua-electronica-asistida-ia-1089091'>Tras varios años de investigación, IBM ya ha sacado a la luz su lengua electrónica asistida por IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/varios-anos-investigacion-ibm-ya-ha-sacado-luz-lengua-electronica-asistida-ia-1089091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hypertaste.jpg' alt='Tras varios años de investigación, IBM ya ha sacado a la luz su lengua electrónica asistida por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-1089003'>La nueva moda de los suplementos de vitamina D podría salir muy cara a algunos consumidores, según los médicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-1089003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-moda-suplementos-vitamina-d-podria-salir-muy-cara-algunos-consumidores-medicos-2750777.jpg' alt='La nueva moda de los suplementos de vitamina D podría salir muy cara a algunos consumidores, según los médicos' />
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-desarrollan-exito-molecula-quema-grasas-combatir-obesidad-1089137'>Científicos desarrollan con éxito una molécula quema grasas para combatir la obesidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-desarrollan-exito-molecula-quema-grasas-combatir-obesidad-1089137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/celulas-grasa-2751073.jpg' alt='Científicos desarrollan con éxito una molécula quema grasas para combatir la obesidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015'>Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer</a></h4>
-    <a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/prueba-skoda-octavia-rs-cuadro-2414817.jpg' alt='Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-android-echan-menos-cuando-cambian-iphone-1089051'>Esto es lo que los usuarios de Android más echan de menos cuando se cambian a iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-android-echan-menos-cuando-cambian-iphone-1089051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-cosas-no-sabias-guerra-ios-android-1042943.jpg' alt='Esto es lo que los usuarios de Android más echan de menos cuando se cambian a iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993'>Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente' />
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-abre-debate-verano-ocu-abre-debate-verano-aire-acondicionado-ventilador-techo-1089057'>La OCU abre el debate del verano: ¿aire acondicionado o ventilador de techo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-abre-debate-verano-ocu-abre-debate-verano-aire-acondicionado-ventilador-techo-1089057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='La OCU abre el debate del verano: ¿aire acondicionado o ventilador de techo?' />
     </a>
 </div>
 
