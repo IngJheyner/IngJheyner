@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139'>El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143'>La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-1089143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='La era de la experimentación de las criptomonedas sin trabas (y de las estafas descontroladas) podría estar en vías de extinción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045'>Ya hay fecha oficial de lanzamiento para los nuevos MacBook con el chip M2 de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-cuando-lanzaran-venta-nuevos-macbook-chip-m2-apple-1086045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/macbook-pro-m2-2723215.jpg' alt='Ya hay fecha oficial de lanzamiento para los nuevos MacBook con el chip M2 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117'>La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ue-paso-aprobar-ley-mercados-digitales-controlara-grandes-tecnologicas-participas-cada-dia-1089117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg' alt='La UE a un paso de aprobar la Ley de Mercados Digitales que controlará a las grandes tecnológicas de las que participas cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-cancela-mejor-serie-ciencia-ficcion-expanse-1089161'>Amazon cancela su mejor serie de ciencia ficción tras The Expanse</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-cancela-mejor-serie-ciencia-ficcion-expanse-1089161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/night-sky-2707745.jpg' alt='Amazon cancela su mejor serie de ciencia ficción tras The Expanse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139'>El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera</a></h4>
+    <a href='https://computerhoy.com/noticias/primer-paso-mision-artemisa-conquistar-luna-empieza-peor-manera-1089139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/ya-puedes-enviar-nombre-luna-mision-artemisa-i-nasa-2636091.jpg' alt='El primer paso de la misión Artemisa para conquistar la Luna empieza de la peor manera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/varios-anos-investigacion-ibm-ya-ha-sacado-luz-lengua-electronica-asistida-ia-1089091'>Tras varios años de investigación, IBM ya ha sacado a la luz su lengua electrónica asistida por IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/varios-anos-investigacion-ibm-ya-ha-sacado-luz-lengua-electronica-asistida-ia-1089091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/hypertaste.jpg' alt='Tras varios años de investigación, IBM ya ha sacado a la luz su lengua electrónica asistida por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-desarrollan-exito-molecula-quema-grasas-combatir-obesidad-1089137'>Científicos desarrollan con éxito una molécula quema grasas para combatir la obesidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-desarrollan-exito-molecula-quema-grasas-combatir-obesidad-1089137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/celulas-grasa-2751073.jpg' alt='Científicos desarrollan con éxito una molécula quema grasas para combatir la obesidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-android-echan-menos-cuando-cambian-iphone-1089051'>Esto es lo que los usuarios de Android más echan de menos cuando se cambian a iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-android-echan-menos-cuando-cambian-iphone-1089051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/7-cosas-no-sabias-guerra-ios-android-1042943.jpg' alt='Esto es lo que los usuarios de Android más echan de menos cuando se cambian a iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-abre-debate-verano-ocu-abre-debate-verano-aire-acondicionado-ventilador-techo-1089057'>La OCU abre el debate del verano: ¿aire acondicionado o ventilador de techo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-abre-debate-verano-ocu-abre-debate-verano-aire-acondicionado-ventilador-techo-1089057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-ventilador-techo-2729599.jpg' alt='La OCU abre el debate del verano: ¿aire acondicionado o ventilador de techo?' />
     </a>
 </div>
 
