@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291'>Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-iphone-problema-nueva-caracteristica-ios-16-quiere-paliar-situacion-1089325'>El malware en los iPhone es un problema y la nueva característica de iOS 16 quiere paliar esta situación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-iphone-problema-nueva-caracteristica-ios-16-quiere-paliar-situacion-1089325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El malware en los iPhone es un problema y la nueva característica de iOS 16 quiere paliar esta situación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-tarjeta-rtx-descuento-500-euros-1089321'>El portátil gaming Asus TUF F15 con tarjeta RTX recibe un hachazo de 500 euros y baja a solo 699 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-tarjeta-rtx-descuento-500-euros-1089321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portatil-gaming-asus-tuf-f15-tarjeta-rtx-recibe-hachazo-500-euros-baja-solo-699-euros-2751533.jpg' alt='El portátil gaming Asus TUF F15 con tarjeta RTX recibe un hachazo de 500 euros y baja a solo 699 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301'>IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ikea-lanza-europa-mesilla-te-carga-movil-solo-dejarlo-encima-1089301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estanteria-mesilla-ikea-symfonisk-2751515.jpg' alt='IKEA lanza en Europa la mesilla que te carga el móvil con solo dejarlo encima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sueno-cualquier-influencer-empresa-te-permite-asegurar-cuenta-instagram-caso-robo-1089269'>El sueño de cualquier influencer: esta empresa te permite asegurar tu cuenta de Instagram en caso de robo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sueno-cualquier-influencer-empresa-te-permite-asegurar-cuenta-instagram-caso-robo-1089269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/instagram-2590905.jpg' alt='El sueño de cualquier influencer: esta empresa te permite asegurar tu cuenta de Instagram en caso de robo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/levanta-cabeza-truco-utilizan-supermercados-hacerte-comprar-productos-caros-1089299'>Levanta la cabeza: el truco que utilizan los supermercados para hacerte comprar los productos más caros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/levanta-cabeza-truco-utilizan-supermercados-hacerte-comprar-productos-caros-1089299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg' alt='Levanta la cabeza: el truco que utilizan los supermercados para hacerte comprar los productos más caros' />
     </a>
 </div>
 
