@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar y desinfectar correctamente el saco de dormir</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar y desinfectar correctamente el saco de dormir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717'>HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/htc-a101-tablet-1088717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/htc-anuncio-nueva-tablet-hace-mes-nadie-habia-enterado-2750443.jpg' alt='HTC anunció una nueva tablet el mes pasado... y nadie se ha enterado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715'>HUAWEI presenta su propio rival para los Airtags</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-presenta-propio-rival-airtags-1088715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-tag-2750441.jpg' alt='HUAWEI presenta su propio rival para los Airtags' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697'>WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-preparando-caracteristica-inutilizara-codigos-verificacion-iniciar-sesion-1088697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/seguridad-whatsapp-2721455.jpg' alt='WhatsApp está preparando una característica que inutilizará los códigos de verificación para iniciar sesión' />
     </a>
 </div>
 
