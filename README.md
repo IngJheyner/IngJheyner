@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015'>Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer</a></h4>
+    <a href='https://computerhoy.com/listas/motor/9-luces-importantes-cuadro-instrumentos-coche-todo-conductor-debe-conocer-1089015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/prueba-skoda-octavia-rs-cuadro-2414817.jpg' alt='Las 9 luces más importantes del cuadro de instrumentos del coche que todo conductor debe conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993'>Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-anular-envio-correo-electronico-gmail-has-mandado-accidente-1088993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='Cómo anular el envío de un correo electrónico en Gmail si lo has mandado por accidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999'>El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-trailer-senor-anillos-anillos-poder-nos-muestra-nuevos-detalles-historia-1088999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='El nuevo tráiler de El Señor de los Anillos: los Anillos de Poder nos muestra nuevos detalles de la historia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693'>PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/pc-days-2022-pccomponentes-mejores-ofertas-1087693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg' alt='PC Days de PcComponentes 2022: 10 chollos que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963'>Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bots-youtube-vuelven-liar-marca-videos-terror-como-contenido-ninos-1088963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/winnie-pooh-blood-and-honey-2715065.jpg' alt='Los bots de YouTube la vuelven a liar: marca vídeos de terror como contenido para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973'>¿Es malo cargar tu Amazon Kindle durante la noche?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malo-cargar-amazon-kindle-durante-noche-1088973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-kindle-luz-frontal-integrada-2121709.jpg' alt='¿Es malo cargar tu Amazon Kindle durante la noche?' />
     </a>
 </div>
 
