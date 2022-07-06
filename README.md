@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933'>La batería del futuro ya se vende y está hecha de arena</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-futuro-ya-vende-hecha-arena-1088933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/turistas-exploran-dunas-arena-desierto-mauritano-africa-1885379.jpg' alt='La batería del futuro ya se vende y está hecha de arena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923'>Consejos para comprar más barato en Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/consejos-comprar-barato-prime-day-2022-1088923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Consejos para comprar más barato en Prime Day 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471'>Amazon Prime Day 2022: mejores ofertas que ya están disponibles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/amazon-prime-day-2022-mejores-ofertas-1088471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2750203.jpg' alt='Amazon Prime Day 2022: mejores ofertas que ya están disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915'>Cómo lavar correctamente el saco de dormir</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-lavar-desinfectar-correctamente-saco-dormir-1088915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-lavar-desinfectar-correctamente-saco-dormir-2750619.jpg' alt='Cómo lavar correctamente el saco de dormir' />
     </a>
 </div>
 
