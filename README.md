@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919'>Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943'>Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335'>Prime Day 2022 Ahorra con estas 10 ofertas anticipadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Prime Day 2022 Ahorra con estas 10 ofertas anticipadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899'>El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mejores-relojes-deportivos-polar_2.jpg' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925'>Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-adolescentes-netflix-ha-cargado-dos-mejores-personajes-cuarta-temporada-1089935'>La mejor serie de adolescentes de Netflix se ha cargado a dos de sus mejores personajes para la cuarta temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-adolescentes-netflix-ha-cargado-dos-mejores-personajes-cuarta-temporada-1089935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sex-education-2411503.jpg' alt='La mejor serie de adolescentes de Netflix se ha cargado a dos de sus mejores personajes para la cuarta temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903'>Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-2752741.jpg' alt='Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED' />
     </a>
 </div>
 
