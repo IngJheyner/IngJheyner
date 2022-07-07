@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-1089751'>Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-1089751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-2752197.jpg' alt='Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/llegan-nuevos-detalles-apple-watch-deportes-extremos-mayor-pantalla-temperatura-corporal-1089763'>Llegan nuevos detalles del Apple Watch para deportes extremos: mayor pantalla, temperatura corporal y más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/llegan-nuevos-detalles-apple-watch-deportes-extremos-mayor-pantalla-temperatura-corporal-1089763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2732883.jpg' alt='Llegan nuevos detalles del Apple Watch para deportes extremos: mayor pantalla, temperatura corporal y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-3-oferta-7-julio-2022-1088399'>Xiaomi tira la casa por la ventana con su patinete eléctrico: Mi Electric Scooter 3 en oferta por solo 399€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-electric-scooter-3-oferta-7-julio-2022-1088399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-electric-scooter-3-399eu-2749727.jpg' alt='Xiaomi tira la casa por la ventana con su patinete eléctrico: Mi Electric Scooter 3 en oferta por solo 399€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-dejar-dar-soporte-version-81-windows-significa-usuarios-1089701'>Microsoft va a dejar de dar soporte a la versión 8.1 de Windows y esto es lo que significa para los usuarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-dejar-dar-soporte-version-81-windows-significa-usuarios-1089701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/update-windows-2510467.jpg' alt='Microsoft va a dejar de dar soporte a la versión 8.1 de Windows y esto es lo que significa para los usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-nos-explica-cuales-son-grandes-retos-disenar-traje-espacial-futuro-1089749'>La NASA nos explica cuáles son los grandes retos de diseñar el traje espacial del futuro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nasa-nos-explica-cuales-son-grandes-retos-disenar-traje-espacial-futuro-1089749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronauta-esa-luca-parmitano-realizando-paseo-espacial-2044611.jpg' alt='La NASA nos explica cuáles son los grandes retos de diseñar el traje espacial del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dazn-actualiza-planes-precios-te-costara-ahora-ver-liga-f1-1089737'>DAZN actualiza sus planes y precios, esto es lo que te costará desde ahora ver La Liga y la F1</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dazn-actualiza-planes-precios-te-costara-ahora-ver-liga-f1-1089737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dazn-2235571.jpg' alt='DAZN actualiza sus planes y precios, esto es lo que te costará desde ahora ver La Liga y la F1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687'>Así es como los drones colaboran con las tareas de rescate en aguas valencianas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-drones-colaboran-tareas-rescate-aguas-valencianas-2751981.jpg' alt='Así es como los drones colaboran con las tareas de rescate en aguas valencianas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717'>La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas' />
     </a>
 </div>
 
