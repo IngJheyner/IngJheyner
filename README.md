@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863'>Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-2752463.jpg' alt='Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823'>Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-2752493.jpg' alt='Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819'>Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-1089753'>Científicos imitan con éxito un nuevo material sostenible, biodegradable y el más fuerte conocido hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-1089753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-2752209.jpg' alt='Científicos imitan con éxito un nuevo material sostenible, biodegradable y el más fuerte conocido hasta la fecha' />
     </a>
 </div>
 
