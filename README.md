@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593'>Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-samsung-galaxy-watch-4-2516679.jpg' alt='Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-620-computer-hoy-1082725'>¡Ya está en tu quiosco el número 620 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-620-computer-hoy-1082725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-620-2749003.jpg' alt='¡Ya está en tu quiosco el número 620 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/enchufes-programar-aire-acondicionado-1089187'>5 enchufes para programar el aire acondicionado y ahorrar electricidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/enchufes-programar-aire-acondicionado-1089187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enchufe-inteligente-philips-hue-2751233.jpg' alt='5 enchufes para programar el aire acondicionado y ahorrar electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197'>5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-h9-2743543.jpg' alt='5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2751797.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/actor-stranger-things-truco-limpieza-1089343'>Un actor de Stranger Things revela un sorprendente objeto de limpieza que siempre lleva en su maleta, muy útil si viajas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/actor-stranger-things-truco-limpieza-1089343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/actores-estrella-stranger-things-revela-sorprendente-objeto-limpieza-siempre-lleva-maleta-2751591.jpg' alt='Un actor de Stranger Things revela un sorprendente objeto de limpieza que siempre lleva en su maleta, muy útil si viajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333'>Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gigabyte-lanza-inmenso-monitor-gaming-hibrido-54-pulgadas-resolucion-4k-120-hz-android-os-chromecast-2751569.jpg' alt='Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291'>Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real' />
     </a>
 </div>
 
