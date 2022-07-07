@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823'>Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-2752493.jpg' alt='Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-widgets-windows-consuman-mucha-memoria-1059915'>Cómo evitar que los widgets de Windows consuman mucha memoria</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-widgets-windows-consuman-mucha-memoria-1059915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/widgets-windows-10-2352979.jpg' alt='Cómo evitar que los widgets de Windows consuman mucha memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chip-m2-apple-acaba-vencer-apu-amd-gaming-1089865'>El chip M2 de Apple acaba de vencer a una APU de AMD... ¡en gaming!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chip-m2-apple-acaba-vencer-apu-amd-gaming-1089865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='El chip M2 de Apple acaba de vencer a una APU de AMD... ¡en gaming!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819'>Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-1089753'>Científicos imitan con éxito un nuevo material sostenible, biodegradable y el más fuerte conocido hasta la fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-1089753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-imitan-exito-nuevo-material-sostenible-biodegradable-fuerte-conocido-fecha-2752209.jpg' alt='Científicos imitan con éxito un nuevo material sostenible, biodegradable y el más fuerte conocido hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ciudad-ha-decidido-coche-electrico-presente-cargadores-todas-aceras-1089817'>Esta ciudad ha decidido que el coche eléctrico es el presente: cargadores en todas las aceras</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ciudad-ha-decidido-coche-electrico-presente-cargadores-todas-aceras-1089817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cargadores-coche-electrico-2547745.jpg' alt='Esta ciudad ha decidido que el coche eléctrico es el presente: cargadores en todas las aceras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vacuna-universal-coronavirus-ya-marcha-1089807'>La vacuna universal contra el coronavirus ya está en marcha</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vacuna-universal-coronavirus-ya-marcha-1089807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/coronavirus-2116395.jpg' alt='La vacuna universal contra el coronavirus ya está en marcha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/te-gusta-senderismo-trekking-estas-botas-pistones-hidraulicos-son-ti-1089789'>Si te gusta el senderismo o el trekking, estas botas con pistones hidráulicos son para ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/te-gusta-senderismo-trekking-estas-botas-pistones-hidraulicos-son-ti-1089789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/botas-senderismo-2752351.jpg' alt='Si te gusta el senderismo o el trekking, estas botas con pistones hidráulicos son para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-1089751'>Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-1089751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-2752197.jpg' alt='Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros' />
     </a>
 </div>
 
