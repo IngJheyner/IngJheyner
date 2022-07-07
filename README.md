@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-eficiencia-navegador-edge-1090043'>Cómo activar los dos Modos de Eficiencia en el navegador Edge para consumir menos CPU, memoria y batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-eficiencia-navegador-edge-1090043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Cómo activar los dos Modos de Eficiencia en el navegador Edge para consumir menos CPU, memoria y batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029'>Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-lidl-ya-vende-freidora-aceite-marca-blanca-sorprendentemente-barata-2753109.jpg' alt='Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021'>La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987'>La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitter-2255769.jpg' alt='La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta' />
     </a>
 </div>
 
