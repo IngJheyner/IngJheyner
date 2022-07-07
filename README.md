@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/son-camaras-aprobadas-netflix-pueden-rodar-peliculas-series-1089611'>Así son las cámaras "aprobadas por Netflix" que pueden rodar sus películas y series</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/son-camaras-aprobadas-netflix-pueden-rodar-peliculas-series-1089611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/camara-cine-2751873.jpg' alt='Así son las cámaras "aprobadas por Netflix" que pueden rodar sus películas y series' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687'>Así es como los drones colaboran con las tareas de rescate en aguas valencianas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-drones-colaboran-tareas-rescate-aguas-valencianas-2751981.jpg' alt='Así es como los drones colaboran con las tareas de rescate en aguas valencianas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593'>Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-samsung-galaxy-watch-4-2516679.jpg' alt='Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android' />
+    <h4><a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717'>La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-620-computer-hoy-1082725'>¡Ya está en tu quiosco el número 620 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-620-computer-hoy-1082725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-620-2749003.jpg' alt='¡Ya está en tu quiosco el número 620 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/noticias/life/low-cost-plus-premium-aditivos-mezclas-consejos-dgt-elegir-mejor-combustible-1089629'>Low Cost, Plus, Premium, aditivos o mezclas: consejos de la DGT para elegir el mejor combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/life/low-cost-plus-premium-aditivos-mezclas-consejos-dgt-elegir-mejor-combustible-1089629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolineras-aumentaron-casi-24-margenes-diesel-2743233.jpg' alt='Low Cost, Plus, Premium, aditivos o mezclas: consejos de la DGT para elegir el mejor combustible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/enchufes-programar-aire-acondicionado-1089187'>5 enchufes para programar el aire acondicionado y ahorrar electricidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/enchufes-programar-aire-acondicionado-1089187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enchufe-inteligente-philips-hue-2751233.jpg' alt='5 enchufes para programar el aire acondicionado y ahorrar electricidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-trabajo-origino-robo-600-millones-dolares-criptomonedas-1089627'>La oferta de trabajo que originó un robo de 600 millones de dólares en criptomonedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-trabajo-origino-robo-600-millones-dolares-criptomonedas-1089627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fbi-desvela-pais-detras-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-2675401.jpg' alt='La oferta de trabajo que originó un robo de 600 millones de dólares en criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197'>5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-h9-2743543.jpg' alt='5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-65a6g-oferta-7-julio-2022-1088461'>Este televisor 4K de 65" tiene la característica que tu consola necesita y ahora cuesta menos de 500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hisense-65a6g-oferta-7-julio-2022-1088461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-65a6g-2749913.jpg' alt='Este televisor 4K de 65" tiene la característica que tu consola necesita y ahora cuesta menos de 500 euros' />
     </a>
 </div>
 
