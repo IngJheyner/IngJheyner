@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/actor-stranger-things-truco-limpieza-1089343'>Un actor de Stranger Things revela un sorprendente objeto de limpieza que siempre lleva en su maleta, muy útil si viajas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/actor-stranger-things-truco-limpieza-1089343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/actores-estrella-stranger-things-revela-sorprendente-objeto-limpieza-siempre-lleva-maleta-2751591.jpg' alt='Un actor de Stranger Things revela un sorprendente objeto de limpieza que siempre lleva en su maleta, muy útil si viajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333'>Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gigabyte-s55u-monitor-gaming-hibrido-55-pulgadas-resolucion-4k-120-hz-android-os-chromecast-1089333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gigabyte-lanza-inmenso-monitor-gaming-hibrido-54-pulgadas-resolucion-4k-120-hz-android-os-chromecast-2751569.jpg' alt='Gigabyte lanza un inmenso monitor gaming híbrido de 55 pulgadas con resolución 4K a 120 Hz, Android OS y Chromecast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-tarjeta-rtx-descuento-500-euros-1089321'>El portátil gaming Asus TUF F15 con tarjeta RTX recibe un hachazo de 500 euros y baja a solo 699 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-tarjeta-rtx-descuento-500-euros-1089321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portatil-gaming-asus-tuf-f15-tarjeta-rtx-recibe-hachazo-500-euros-baja-solo-699-euros-2751533.jpg' alt='El portátil gaming Asus TUF F15 con tarjeta RTX recibe un hachazo de 500 euros y baja a solo 699 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-aterriza-espana-mano-orange-precio-disponibilidad-pequeno-familia-1089289'>El Xiaomi 12 Lite aterriza en España de la mano de Orange: precio y disponibilidad del más pequeño de la familia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-lite-aterriza-espana-mano-orange-precio-disponibilidad-pequeno-familia-1089289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-12-lite-5g-2672371.jpg' alt='El Xiaomi 12 Lite aterriza en España de la mano de Orange: precio y disponibilidad del más pequeño de la familia' />
     </a>
 </div>
 
