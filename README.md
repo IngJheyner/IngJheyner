@@ -50,8 +50,16 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593'>Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/son-camaras-aprobadas-netflix-pueden-rodar-peliculas-series-1089611'>Así son las cámaras "aprobadas por Netflix" que pueden rodar sus películas y series</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/son-camaras-aprobadas-netflix-pueden-rodar-peliculas-series-1089611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/camara-cine-2751873.jpg' alt='Así son las cámaras "aprobadas por Netflix" que pueden rodar sus películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593'>Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/filtra-diseno-completo-nuevo-galaxy-watch-5-smartwatch-referencia-android-1089593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-samsung-galaxy-watch-4-2516679.jpg' alt='Se filtra el diseño completo del nuevo Galaxy Watch 5, el smartwatch de referencia en Android' />
     </a>
 </div>
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197'>5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-h9-2743543.jpg' alt='5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2751797.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
