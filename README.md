@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925'>Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-adolescentes-netflix-ha-cargado-dos-mejores-personajes-cuarta-temporada-1089935'>La mejor serie de adolescentes de Netflix se ha cargado a dos de sus mejores personajes para la cuarta temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mejor-serie-adolescentes-netflix-ha-cargado-dos-mejores-personajes-cuarta-temporada-1089935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sex-education-2411503.jpg' alt='La mejor serie de adolescentes de Netflix se ha cargado a dos de sus mejores personajes para la cuarta temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903'>Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-2752741.jpg' alt='Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/vivo-x80-pro-review-opinion-1082247'>vivo X80 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/vivo-x80-pro-review-opinion-1082247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='vivo X80 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863'>Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-2752463.jpg' alt='Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823'>Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-1089823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-2752493.jpg' alt='Así es el Zenfone 9: características top y rediseño del nuevo smartphone de ASUS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-widgets-windows-consuman-mucha-memoria-1059915'>Cómo evitar que los widgets de Windows consuman mucha memoria</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-evitar-widgets-windows-consuman-mucha-memoria-1059915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/widgets-windows-10-2352979.jpg' alt='Cómo evitar que los widgets de Windows consuman mucha memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chip-m2-apple-acaba-vencer-apu-amd-gaming-1089865'>El chip M2 de Apple acaba de vencer a una APU de AMD... ¡en gaming!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chip-m2-apple-acaba-vencer-apu-amd-gaming-1089865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='El chip M2 de Apple acaba de vencer a una APU de AMD... ¡en gaming!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819'>Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-da-marcha-atras-algunas-funciones-basadas-ia-incluido-reconocimiento-facial-falta-precision-1089819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/inteligencia-artificial-2621939.jpg' alt='Microsoft da marcha atrás con algunas funciones basadas en IA, incluido el reconocimiento facial por falta de precisión' />
     </a>
 </div>
 
