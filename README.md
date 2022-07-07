@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197'>5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/5-motivos-te-convenceran-comprarte-nuevos-auriculares-sony-inzone-h9-ps5-pc-1089197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-sony-inzone-h9-2743543.jpg' alt='5 motivos que te convencerán para comprarte los nuevos auriculares Sony Inzone H9 para PS5 y PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1089559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2751797.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291'>Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/meta-presenta-nueva-inteligencia-artificial-domina-200-idiomas-capaz-traducir-tiempo-real-1089291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/inteligencia-artificial-2707953.jpg' alt='Meta presenta su nueva inteligencia artificial que domina 200 idiomas y es capaz de traducir en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-iphone-problema-nueva-caracteristica-ios-16-quiere-paliar-situacion-1089325'>El malware en los iPhone es un problema y la nueva característica de iOS 16 quiere paliar esta situación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-iphone-problema-nueva-caracteristica-ios-16-quiere-paliar-situacion-1089325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg' alt='El malware en los iPhone es un problema y la nueva característica de iOS 16 quiere paliar esta situación' />
     </a>
 </div>
 
