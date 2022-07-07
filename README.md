@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029'>Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-lidl-ya-vende-freidora-aceite-marca-blanca-sorprendentemente-barata-2753109.jpg' alt='Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-peores-autopistas-autovias-espana-ocu-1090025'>Estas son las peores autopistas y autovías de España, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estas-son-peores-autopistas-autovias-espana-ocu-1090025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Estas son las peores autopistas y autovías de España, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023'>Este mini portátil se transforma en una Steam Deck cuando te pones a jugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-portatil-transforma-steam-deck-cuando-te-pones-jugar-2753097.jpg' alt='Este mini portátil se transforma en una Steam Deck cuando te pones a jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021'>La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987'>La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitter-2255769.jpg' alt='La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967'>El Audio Espacial llega a Netflix y lo hace con un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='El Audio Espacial llega a Netflix y lo hace con un gran inconveniente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-visibilidad-perfil-linkedin-1048401'>Cómo mejorar la visibilidad de tu perfil en LinkedIn</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-visibilidad-perfil-linkedin-1048401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/linkedin-2680321.jpg' alt='Cómo mejorar la visibilidad de tu perfil en LinkedIn' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919'>Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943'>Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A' />
     </a>
 </div>
 
