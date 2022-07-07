@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023'>Este mini portátil se transforma en una Steam Deck cuando te pones a jugar</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023'>Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-portatil-transforma-steam-deck-cuando-te-pones-jugar-2753097.jpg' alt='Este mini portátil se transforma en una Steam Deck cuando te pones a jugar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-portatil-transforma-steam-deck-cuando-te-pones-jugar-2753097.jpg' alt='Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)' />
     </a>
 </div>
 
