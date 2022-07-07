@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-dejar-dar-soporte-version-81-windows-significa-usuarios-1089701'>Microsoft va a dejar de dar soporte a la versión 8.1 de Windows y esto es lo que significa para los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-va-dejar-dar-soporte-version-81-windows-significa-usuarios-1089701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/update-windows-2510467.jpg' alt='Microsoft va a dejar de dar soporte a la versión 8.1 de Windows y esto es lo que significa para los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nasa-nos-explica-cuales-son-grandes-retos-disenar-traje-espacial-futuro-1089749'>La NASA nos explica cuáles son los grandes retos de diseñar el traje espacial del futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nasa-nos-explica-cuales-son-grandes-retos-disenar-traje-espacial-futuro-1089749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/astronauta-esa-luca-parmitano-realizando-paseo-espacial-2044611.jpg' alt='La NASA nos explica cuáles son los grandes retos de diseñar el traje espacial del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dazn-actualiza-planes-precios-te-costara-ahora-ver-liga-f1-1089737'>DAZN actualiza sus planes y precios, esto es lo que te costará desde ahora ver La Liga y la F1</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dazn-actualiza-planes-precios-te-costara-ahora-ver-liga-f1-1089737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dazn-2235571.jpg' alt='DAZN actualiza sus planes y precios, esto es lo que te costará desde ahora ver La Liga y la F1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687'>Así es como los drones colaboran con las tareas de rescate en aguas valencianas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-drones-colaboran-tareas-rescate-aguas-valencianas-1089687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-drones-colaboran-tareas-rescate-aguas-valencianas-2751981.jpg' alt='Así es como los drones colaboran con las tareas de rescate en aguas valencianas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717'>La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas</a></h4>
     <a href='https://computerhoy.com/noticias/life/regla-70-30-permite-familia-bitcoin-sobrevivir-crisis-criptomonedas-1089717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='La regla 70/30 que permite a la familia Bitcoin sobrevivir a la crisis de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/low-cost-plus-premium-aditivos-mezclas-consejos-dgt-elegir-mejor-combustible-1089629'>Low Cost, Plus, Premium, aditivos o mezclas: consejos de la DGT para elegir el mejor combustible</a></h4>
-    <a href='https://computerhoy.com/noticias/life/low-cost-plus-premium-aditivos-mezclas-consejos-dgt-elegir-mejor-combustible-1089629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolineras-aumentaron-casi-24-margenes-diesel-2743233.jpg' alt='Low Cost, Plus, Premium, aditivos o mezclas: consejos de la DGT para elegir el mejor combustible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-trabajo-origino-robo-600-millones-dolares-criptomonedas-1089627'>La oferta de trabajo que originó un robo de 600 millones de dólares en criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-trabajo-origino-robo-600-millones-dolares-criptomonedas-1089627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/fbi-desvela-pais-detras-robo-560-millones-euros-criptomonedas-juego-nft-axie-infinity-2675401.jpg' alt='La oferta de trabajo que originó un robo de 600 millones de dólares en criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-65a6g-oferta-7-julio-2022-1088461'>Este televisor 4K de 65" tiene la característica que tu consola necesita y ahora cuesta menos de 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hisense-65a6g-oferta-7-julio-2022-1088461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-65a6g-2749913.jpg' alt='Este televisor 4K de 65" tiene la característica que tu consola necesita y ahora cuesta menos de 500 euros' />
     </a>
 </div>
 
