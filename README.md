@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899'>El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mejores-relojes-deportivos-polar_2.jpg' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925'>Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-activar-funcion-experimental-chrome-promete-alargar-10-duracion-bateria-1089925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Cómo activar la función experimental de Chrome que promete alargar un 10% de duración de la batería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903'>Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-1089903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gamers-estan-enhorabuena-lg-acaba-presentar-primer-monitor-gaming-panel-oled-2752741.jpg' alt='Los gamers están de enhorabuena: LG acaba de presentar el primer monitor gaming con panel OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/vivo-x80-pro-review-opinion-1082247'>vivo X80 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/vivo-x80-pro-review-opinion-1082247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='vivo X80 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863'>Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-1089863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/interruptor-hombre-muerto-relacion-tiene-hombre-detras-antivirus-mcafee-2752463.jpg' alt='Qué es un "interruptor de hombre muerto" y qué relación tiene con el hombre detrás del antivirus McAfee' />
     </a>
 </div>
 
