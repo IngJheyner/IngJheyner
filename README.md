@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987'>La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcionalidad-twitter-permitira-compartir-autoria-tweet-funciona-cotweet-como-te-afecta-1089987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/twitter-2255769.jpg' alt='La nueva funcionalidad de Twitter permitirá compartir la autoría de un tweet: así funciona CoTweet y cómo te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967'>El Audio Espacial llega a Netflix y lo hace con un gran inconveniente</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='El Audio Espacial llega a Netflix y lo hace con un gran inconveniente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943'>Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-trabajando-democratizar-plegables-modelo-barato-enmarcado-gama-galaxy-1089943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Samsung estaría trabajando en democratizar los plegables con un modelo barato enmarcado en la gama Galaxy A' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335'>Prime Day 2022 Ahorra con estas 10 ofertas anticipadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Prime Day 2022 Ahorra con estas 10 ofertas anticipadas' />
     </a>
 </div>
 
