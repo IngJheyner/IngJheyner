@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967'>El Audio Espacial llega a Netflix y lo hace con un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/audio-espacial-llega-netflix-hace-gran-inconveniente-1089967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-app-tv-2682771.jpg' alt='El Audio Espacial llega a Netflix y lo hace con un gran inconveniente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-visibilidad-perfil-linkedin-1048401'>Cómo mejorar la visibilidad de tu perfil en LinkedIn</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-visibilidad-perfil-linkedin-1048401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/linkedin-2680321.jpg' alt='Cómo mejorar la visibilidad de tu perfil en LinkedIn' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919'>Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-demandada-tribunal-reino-unido-1800-millones-dolares-multa-1089919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tienda-apple-2708783.jpg' alt='Apple es demandada por un tribunal de Reino Unido: 1.800 millones de dólares de multa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335'>Prime Day 2022 Ahorra con estas 10 ofertas anticipadas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-anticipadas-prime-day-2022-1088335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/quien-puede-participar-prime-day-2748415.jpg' alt='Prime Day 2022 Ahorra con estas 10 ofertas anticipadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899'>El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-autonomo-xiaomi-deja-ver-plena-luz-dia-confirmando-diseno-deportivo-1089899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='El coche autónomo de Xiaomi se deja ver a plena luz del día confirmando su diseño deportivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/mejores-relojes-deportivos-polar_2.jpg' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2022' />
     </a>
 </div>
 
