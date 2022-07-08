@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659'>Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hoteles-vegas-ofrecen-porno-realidad-virtual-gafas-quest-2-te-entrega-robot-autonomo-2754405.jpg' alt='Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tener-whatsapp-dos-moviles-mismo-tiempo-cada-vez-cerca-funcionara-modo-companion-1090647'>Tener WhatsApp en dos móviles al mismo tiempo cada vez está más cerca: así funcionará el Modo Companion</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tener-whatsapp-dos-moviles-mismo-tiempo-cada-vez-cerca-funcionara-modo-companion-1090647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Tener WhatsApp en dos móviles al mismo tiempo cada vez está más cerca: así funcionará el Modo Companion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629'>La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-2754357.jpg' alt='La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603'>Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/quentin-tarantino-peppa-pig-mejor-produccion-britanica-decada-1090637'>Quentin Tarantino elige la mejor producción británica de la década, y deja a todo el mundo con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/quentin-tarantino-peppa-pig-mejor-produccion-britanica-decada-1090637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/quentin-tarantino-2392043.jpg' alt='Quentin Tarantino elige la mejor producción británica de la década, y deja a todo el mundo con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-whatsapp-millones-usuarios-debes-cambiar-estas-dos-configuraciones-1090597'>Advertencia de WhatsApp para millones de usuarios “debes cambiar estas dos configuraciones"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-whatsapp-millones-usuarios-debes-cambiar-estas-dos-configuraciones-1090597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='Advertencia de WhatsApp para millones de usuarios “debes cambiar estas dos configuraciones"' />
     </a>
 </div>
 
