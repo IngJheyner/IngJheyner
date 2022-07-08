@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405'>Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-2753763.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575'>Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/modo-aislamiento-ios-16-2754219.jpg' alt='Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523'>Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/guerra-drones.jpg' alt='Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/drama-compras-digitales-playstation-te-eliminara-toda-biblioteca-peliculas-1090513'>El drama de las compras digitales: PlayStation te eliminará toda tu biblioteca de películas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/drama-compras-digitales-playstation-te-eliminara-toda-biblioteca-peliculas-1090513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-disney-netflix-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-2669433.jpg' alt='El drama de las compras digitales: PlayStation te eliminará toda tu biblioteca de películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-solicitar-cheque-ayuda-200-euros-requisitos-como-pedirlo-online-1090481'>Ya puedes solicitar el cheque ayuda de 200 euros: requisitos y cómo pedirlo online</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-puedes-solicitar-cheque-ayuda-200-euros-requisitos-como-pedirlo-online-1090481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/vicepresidenta-ministra-trabajo-yolanda-diaz-presidente-gobierno-pedro-sanchez-antes-consejo-ministros-ha-aprobado-presupuestos-2022-2495073.jpg' alt='Ya puedes solicitar el cheque ayuda de 200 euros: requisitos y cómo pedirlo online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441'>Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad' />
     </a>
 </div>
 
