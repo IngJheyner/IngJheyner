@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-1090317'>Un estudio revela los terribles efectos para la Tierra de una posible guerra nuclear</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-1090317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-2753523.jpg' alt='Un estudio revela los terribles efectos para la Tierra de una posible guerra nuclear' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cuantico-fisicos-consiguen-conectar-primera-vez-dos-atomos-separados-30-km-1090413'>Hacia el internet cuántico: físicos consiguen conectar por primera vez dos átomos separados por más 30 km</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/internet-cuantico-fisicos-consiguen-conectar-primera-vez-dos-atomos-separados-30-km-1090413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/modem-cuantico-2128697.jpg' alt='Hacia el internet cuántico: físicos consiguen conectar por primera vez dos átomos separados por más 30 km' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprarte-barco-pagar-cuota-spacex-elon-musk-pierde-papeles-1090341'>Comprarte un barco o pagar la cuota de SpaceX: Elon Musk pierde los papeles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/comprarte-barco-pagar-cuota-spacex-elon-musk-pierde-papeles-1090341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/starlink-barcos-2753535.jpg' alt='Comprarte un barco o pagar la cuota de SpaceX: Elon Musk pierde los papeles' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vigor-normativa-union-europea-obliga-coches-salgan-venta-2024-incluir-tecnologia-exceso-velocidad-1090377'>En vigor la normativa de la Unión Europea que obliga a los coches que salgan a la venta en 2024 incluir una tecnología contra el exceso de velocidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vigor-normativa-union-europea-obliga-coches-salgan-venta-2024-incluir-tecnologia-exceso-velocidad-1090377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trafico-2580447.jpg' alt='En vigor la normativa de la Unión Europea que obliga a los coches que salgan a la venta en 2024 incluir una tecnología contra el exceso de velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-314-oferta-8-julio-2022-1088489'>Adelanta la vuelta al cole: este portátil para estudiantes cuesta 179€ y pesa 1,56 kg</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-314-oferta-8-julio-2022-1088489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/acer-chromebook-314-2107163.jpg' alt='Adelanta la vuelta al cole: este portátil para estudiantes cuesta 179€ y pesa 1,56 kg' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-buscando-excusas-romper-acuerdo-twitter-1090415'>Elon Musk está buscando excusas para romper su acuerdo con Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-buscando-excusas-romper-acuerdo-twitter-1090415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk está buscando excusas para romper su acuerdo con Twitter' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/despues-decada-amd-pone-altura-nvidia-labores-streaming-emision-1090297'>Después de una década, AMD se pone a la altura de NVIDIA en labores de streaming y emisión</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/despues-decada-amd-pone-altura-nvidia-labores-streaming-emision-1090297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='Después de una década, AMD se pone a la altura de NVIDIA en labores de streaming y emisión' />
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-maquina-hacer-granizados-oferta-1089751'>Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-maquina-hacer-granizados-oferta-1089751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-2752197.jpg' alt='Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/muero-no-uses-mi-muerte-tiktok-polemico-video-agita-debate-correcto-uso-redes-1090285'>“Si muero, no uses mi muerte en TikTok”, un polémico vídeo agita el debate del correcto uso de las redes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/muero-no-uses-mi-muerte-tiktok-polemico-video-agita-debate-correcto-uso-redes-1090285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='“Si muero, no uses mi muerte en TikTok”, un polémico vídeo agita el debate del correcto uso de las redes' />
+    <h4><a href='https://computerhoy.com/noticias/life/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-1090337'>Este es el gran fracaso de la "pastilla para la resaca" que Reino Unido ya está comercializando</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-1090337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-2753549.jpg' alt='Este es el gran fracaso de la "pastilla para la resaca" que Reino Unido ya está comercializando' />
     </a>
 </div>
 
