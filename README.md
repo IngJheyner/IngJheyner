@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593'>Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafa-alquiler-vacacional-2754235.jpg' alt='Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-noche-interminable-grupo-amigos-superheroes-1090545'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una noche interminable, un grupo de amigos y superhéroes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-noche-interminable-grupo-amigos-superheroes-1090545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2754087.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: una noche interminable, un grupo de amigos y superhéroes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iconos-han-vuelto-enormes-android-auto-no-estas-solo-google-ya-trabaja-arreglarlo-1090585'>Si tus iconos se han vuelto enormes en Android Auto no estás solo, Google ya trabaja en arreglarlo.</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iconos-han-vuelto-enormes-android-auto-no-estas-solo-google-ya-trabaja-arreglarlo-1090585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Si tus iconos se han vuelto enormes en Android Auto no estás solo, Google ya trabaja en arreglarlo.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405'>Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-2753763.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575'>Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/modo-aislamiento-ios-16-2754219.jpg' alt='Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523'>Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/guerra-drones.jpg' alt='Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alarmas-estafa-tener-cuenta-amazon-prime-day-2022-1090475'>Alarmas de estafa a tener en cuenta en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alarmas-estafa-tener-cuenta-amazon-prime-day-2022-1090475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafas-tener-cuenta-ahora-acerca-amazon-prime-day-2022-2753823.jpg' alt='Alarmas de estafa a tener en cuenta en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/drama-compras-digitales-playstation-te-eliminara-toda-biblioteca-peliculas-1090513'>El drama de las compras digitales: PlayStation te eliminará toda tu biblioteca de películas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/drama-compras-digitales-playstation-te-eliminara-toda-biblioteca-peliculas-1090513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/peliculas-ver-fin-semana-disney-netflix-prime-video-increible-gal-gadot-vuelta-jumanji-oscarizada-japonesa-2669433.jpg' alt='El drama de las compras digitales: PlayStation te eliminará toda tu biblioteca de películas' />
     </a>
 </div>
 
