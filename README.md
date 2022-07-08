@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267'>Los increíbles beneficios de comer sandía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increibles-beneficios-comer-sandia-2753347.jpg' alt='Los increíbles beneficios de comer sandía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-eficiencia-navegador-edge-1090043'>Cómo activar los dos Modos de Eficiencia en el navegador Edge para consumir menos CPU, memoria y batería</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-activar-modo-eficiencia-navegador-edge-1090043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Cómo activar los dos Modos de Eficiencia en el navegador Edge para consumir menos CPU, memoria y batería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023'>Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-portatil-transforma-steam-deck-cuando-te-pones-jugar-2753097.jpg' alt='Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021'>La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-timo-suscripcion-cancelada-1090021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg' alt='La Guardia Civil alerta sobre una nueva estafa: el timo de suscripción cancelada' />
     </a>
 </div>
 
