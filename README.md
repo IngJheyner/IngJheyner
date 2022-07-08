@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-1090601'>“Mi bebito fiu fiu”, origen y significado real de la canción más viral del momento</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-1090601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-2754283.jpg' alt='“Mi bebito fiu fiu”, origen y significado real de la canción más viral del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593'>Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafa-alquiler-vacacional-2754235.jpg' alt='Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405'>Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-1090405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-prime-video-netflix-disney-sapo-miles-morales-terror-taiwanes-2753763.jpg' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: el Sapo, Miles Morales y una terror taiwanés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575'>Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-modo-lockdown-iphone-como-funciona-quienes-puede-utilizarlo-1090575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/modo-aislamiento-ios-16-2754219.jpg' alt='Qué es el nuevo modo “Lockdown” de iPhone, cómo funciona y quiénes puede utilizarlo' />
     </a>
 </div>
 
