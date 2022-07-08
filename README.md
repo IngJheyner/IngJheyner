@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523'>Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-esfuerzos-ucrania-crear-ejercito-drones-ayuden-ganar-guerra-1090523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/guerra-drones.jpg' alt='Así son los esfuerzos de Ucrania por crear un ejército de drones que le ayuden a ganar la guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alarmas-estafa-tener-cuenta-amazon-prime-day-2022-1090475'>Alarmas de estafa a tener en cuenta en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alarmas-estafa-tener-cuenta-amazon-prime-day-2022-1090475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafas-tener-cuenta-ahora-acerca-amazon-prime-day-2022-2753823.jpg' alt='Alarmas de estafa a tener en cuenta en el Amazon Prime Day 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441'>Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-xiaomi-tiene-tamano-botella-dejara-coche-como-nuevo-1089599'>Esta aspiradora Xiaomi tiene el tamaño de una botella y dejará tu coche como nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-xiaomi-tiene-tamano-botella-dejara-coche-como-nuevo-1089599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-vacuum-cleaner-mini-2751845.jpg' alt='Esta aspiradora Xiaomi tiene el tamaño de una botella y dejará tu coche como nuevo' />
     </a>
 </div>
 
