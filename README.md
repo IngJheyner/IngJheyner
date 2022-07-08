@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-ecg-2752477.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1090269'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1090269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2753349.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267'>Los increíbles beneficios de comer sandía</a></h4>
     <a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increibles-beneficios-comer-sandia-2753347.jpg' alt='Los increíbles beneficios de comer sandía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029'>Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-basics-freidora-sin-aceite-barata-1090029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-lidl-ya-vende-freidora-aceite-marca-blanca-sorprendentemente-barata-2753109.jpg' alt='Amazon, a por Lidl: ya vende su freidora sin aceite marca blanca y es sorprendentemente barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estas-son-peores-autopistas-autovias-espana-ocu-1090025'>Estas son las peores autopistas y autovías de España, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estas-son-peores-autopistas-autovias-espana-ocu-1090025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Estas son las peores autopistas y autovías de España, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023'>Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gpd-win-max-2-mini-portatil-steam-deck-1090023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-portatil-transforma-steam-deck-cuando-te-pones-jugar-2753097.jpg' alt='Este mini portátil se transforma en una Steam Deck cuando te pones a jugar (vídeo)' />
     </a>
 </div>
 
