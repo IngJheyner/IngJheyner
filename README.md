@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441'>Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proyecto-demuestra-ia-capaz-repartir-mejor-riquezas-ser-humano-evitar-desigualdad-1090441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/falta-palabra-primera-novela-escrita-inteligencia-artificial-2745397.jpg' alt='Este proyecto demuestra que la IA es capaz de repartir mejor las riquezas que el ser humano y evitar la desigualdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-xiaomi-tiene-tamano-botella-dejara-coche-como-nuevo-1089599'>Esta aspiradora Xiaomi tiene el tamaño de una botella y dejará tu coche como nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-xiaomi-tiene-tamano-botella-dejara-coche-como-nuevo-1089599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-vacuum-cleaner-mini-2751845.jpg' alt='Esta aspiradora Xiaomi tiene el tamaño de una botella y dejará tu coche como nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hora-dia-hoy-8-julio-2022-99-humanidad-disfrutara-sol-mismo-tiempo-1090455'>A esta hora del día de hoy, 8 de julio de 2022, el 99% de la humanidad disfrutará del sol al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hora-dia-hoy-8-julio-2022-99-humanidad-disfrutara-sol-mismo-tiempo-1090455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='A esta hora del día de hoy, 8 de julio de 2022, el 99% de la humanidad disfrutará del sol al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cuantico-fisicos-consiguen-conectar-primera-vez-dos-atomos-separados-30-km-1090413'>Hacia el internet cuántico: físicos consiguen conectar por primera vez dos átomos separados por más 30 km</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/internet-cuantico-fisicos-consiguen-conectar-primera-vez-dos-atomos-separados-30-km-1090413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/modem-cuantico-2128697.jpg' alt='Hacia el internet cuántico: físicos consiguen conectar por primera vez dos átomos separados por más 30 km' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vigor-normativa-union-europea-obliga-coches-salgan-venta-2024-incluir-tecnologia-exceso-velocidad-1090377'>En vigor la normativa de la Unión Europea que obliga a los coches que salgan a la venta en 2024 incluir una tecnología contra el exceso de velocidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vigor-normativa-union-europea-obliga-coches-salgan-venta-2024-incluir-tecnologia-exceso-velocidad-1090377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/trafico-2580447.jpg' alt='En vigor la normativa de la Unión Europea que obliga a los coches que salgan a la venta en 2024 incluir una tecnología contra el exceso de velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-buscando-excusas-romper-acuerdo-twitter-1090415'>Elon Musk está buscando excusas para romper su acuerdo con Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-buscando-excusas-romper-acuerdo-twitter-1090415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk está buscando excusas para romper su acuerdo con Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-maquina-hacer-granizados-oferta-1089751'>Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-maquina-hacer-granizados-oferta-1089751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lidl-cumple-sueno-nino-maquina-hacer-granizados-casa-solo-3499-euros-2752197.jpg' alt='Lidl cumple tu sueño de niño con esta máquina para hacer granizados en casa por solo 34,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-1090337'>Este es el gran fracaso de la "pastilla para la resaca" que Reino Unido ya está comercializando</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-1090337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gran-fracaso-pastilla-resaca-reino-unido-ya-comercializando-2753549.jpg' alt='Este es el gran fracaso de la "pastilla para la resaca" que Reino Unido ya está comercializando' />
     </a>
 </div>
 
