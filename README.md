@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-1090317'>Un estudio revela los terribles efectos para la Tierra de una posible guerra nuclear</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-1090317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-2753523.jpg' alt='Un estudio revela los terribles efectos para la Tierra de una posible guerra nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comprarte-barco-pagar-cuota-spacex-elon-musk-pierde-papeles-1090341'>Comprarte un barco o pagar la cuota de SpaceX: Elon Musk pierde los papeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comprarte-barco-pagar-cuota-spacex-elon-musk-pierde-papeles-1090341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/starlink-barcos-2753535.jpg' alt='Comprarte un barco o pagar la cuota de SpaceX: Elon Musk pierde los papeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-314-oferta-8-julio-2022-1088489'>Adelanta la vuelta al cole: este portátil para estudiantes cuesta 179€ y pesa 1,56 kg</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acer-chromebook-314-oferta-8-julio-2022-1088489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/acer-chromebook-314-2107163.jpg' alt='Adelanta la vuelta al cole: este portátil para estudiantes cuesta 179€ y pesa 1,56 kg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/despues-decada-amd-pone-altura-nvidia-labores-streaming-emision-1090297'>Después de una década, AMD se pone a la altura de NVIDIA en labores de streaming y emisión</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/despues-decada-amd-pone-altura-nvidia-labores-streaming-emision-1090297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='Después de una década, AMD se pone a la altura de NVIDIA en labores de streaming y emisión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/muero-no-uses-mi-muerte-tiktok-polemico-video-agita-debate-correcto-uso-redes-1090285'>“Si muero, no uses mi muerte en TikTok”, un polémico vídeo agita el debate del correcto uso de las redes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/muero-no-uses-mi-muerte-tiktok-polemico-video-agita-debate-correcto-uso-redes-1090285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ataud-viviente-fabrica-hongos-convierte-cuerpo-nutrientes-fundirse-naturaleza-2678557.jpg' alt='“Si muero, no uses mi muerte en TikTok”, un polémico vídeo agita el debate del correcto uso de las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-ecg-2752477.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1090269'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1090269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2753349.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267'>Los increíbles beneficios de comer sandía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/increibles-beneficios-comer-sandia-1090267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increibles-beneficios-comer-sandia-2753347.jpg' alt='Los increíbles beneficios de comer sandía' />
     </a>
 </div>
 
