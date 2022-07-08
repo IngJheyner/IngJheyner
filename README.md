@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629'>La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-2754357.jpg' alt='La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/videotimbre-inteligente-ring-amazon-prime-day-descuento-1090651'>El videotimbre inteligente Ring de Amazon se adelanta al Prime Day con un descuento del 30%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/videotimbre-inteligente-ring-amazon-prime-day-descuento-1090651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='El videotimbre inteligente Ring de Amazon se adelanta al Prime Day con un descuento del 30%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603'>Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-whatsapp-millones-usuarios-debes-cambiar-estas-dos-configuraciones-1090597'>Advertencia de WhatsApp para millones de usuarios “debes cambiar estas dos configuraciones"</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/advertencia-whatsapp-millones-usuarios-debes-cambiar-estas-dos-configuraciones-1090597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='Advertencia de WhatsApp para millones de usuarios “debes cambiar estas dos configuraciones"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-1090601'>“Mi bebito fiu fiu”, origen y significado real de la canción más viral del momento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-1090601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mi-bebito-fiu-fiu-origen-significado-real-cancion-viral-momento-2754283.jpg' alt='“Mi bebito fiu fiu”, origen y significado real de la canción más viral del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593'>Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tecnicas-reconocer-fraudes-anuncios-alquiler-viviendas-vacacionales-1090593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafa-alquiler-vacacional-2754235.jpg' alt='Técnicas para reconocer fraudes en los anuncios de alquiler de viviendas vacacionales' />
     </a>
 </div>
 
