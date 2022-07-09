@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347'>Xiaomi y Sony acaban de matar a las cámaras tradicionales</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12-ultra-2750163.jpg' alt='Xiaomi y Sony acaban de matar a las cámaras tradicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189'>Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acupresion-2702631.jpg' alt='Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661'>La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pista-hockey-hielo-profesional-jardin-monta-60-minutos-herramientas-video-2754421.jpg' alt='La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659'>Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hoteles-vegas-ofrecen-porno-realidad-virtual-gafas-quest-2-te-entrega-robot-autonomo-2754405.jpg' alt='Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo' />
     </a>
 </div>
 
