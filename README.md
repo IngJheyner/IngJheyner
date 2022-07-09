@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883'>Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471'>Cosas que debes hacer en Windows 11 después de instalar un disco SSD</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Cosas que debes hacer en Windows 11 después de instalar un disco SSD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691'>7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-2750417.jpg' alt='7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617'>Lenovo Legion Slim 7 Gen 6, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738349.jpg' alt='Lenovo Legion Slim 7 Gen 6, análisis y opinión' />
     </a>
 </div>
 
