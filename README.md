@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347'>¿Adivinas qué están haciendo estas personas?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adivinas-estan-haciendo-estas-personas-2753533.jpg' alt='¿Adivinas qué están haciendo estas personas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945'>Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917'>La razón por la que dura tanto el episodio final de Stranger Things 4</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='La razón por la que dura tanto el episodio final de Stranger Things 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907'>Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acer-nitro-5-2754669.jpg' alt='Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros' />
     </a>
 </div>
 
