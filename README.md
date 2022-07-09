@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917'>La razón por la que dura tanto el episodio final de Stranger Things 4</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='La razón por la que dura tanto el episodio final de Stranger Things 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907'>Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acer-nitro-5-2754669.jpg' alt='Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887'>El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-2754619.jpg' alt='El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883'>Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter' />
     </a>
 </div>
 
