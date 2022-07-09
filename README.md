@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291'>Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piel-serpiente-rover-perseverance-ha-encontrado-marte-2753373.jpg' alt='Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625'>Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695455.jpg' alt='Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189'>Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acupresion-2702631.jpg' alt='Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alimentos-peligrosos-sufres-acidez-estomago-1090849'>Alimentos peligrosos si sufres acidez de estómago</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alimentos-peligrosos-sufres-acidez-estomago-1090849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alimentos-peligrosos-sufres-acidez-estomago-2754585.jpg' alt='Alimentos peligrosos si sufres acidez de estómago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409'>La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-maquina-expendedora-funcionaba-monedas-usaban-griegos-hace-2000-anos-2753687.jpg' alt='La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años' />
     </a>
 </div>
 
