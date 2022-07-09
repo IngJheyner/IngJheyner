@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941'>Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919'>Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/serpiente-2754679.jpg' alt='Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895'>El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?</a></h4>
     <a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-2754659.jpg' alt='El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625'>Cómo crear una cuenta de Windows 11 segura para niños</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-ordenador-2711993.jpg' alt='Cómo crear una cuenta de Windows 11 segura para niños' />
     </a>
 </div>
 
