@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945'>Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941'>Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907'>Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acer-nitro-5-2754669.jpg' alt='Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895'>El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-2754659.jpg' alt='El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?' />
     </a>
 </div>
 
