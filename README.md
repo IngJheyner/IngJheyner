@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907'>Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-te-vale-tanto-jugar-como-trabajar-solo-549-euros-1090907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acer-nitro-5-2754669.jpg' alt='Este portátil gaming te vale tanto para jugar como para trabajar y está a solo 549 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895'>El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-1090895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/limpiador-chimeneas-mercadona-convierte-pleno-verano-superventas-2754659.jpg' alt='El limpiador de chimeneas de Mercadona se convierte (en pleno verano) en un superventas: ¿por qué?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625'>Cómo crear una cuenta de Windows 11 segura para niños</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-ordenador-2711993.jpg' alt='Cómo crear una cuenta de Windows 11 segura para niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887'>El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-2754619.jpg' alt='El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883'>Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471'>Cosas que debes hacer en Windows 11 después de instalar un disco SSD</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Cosas que debes hacer en Windows 11 después de instalar un disco SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/camara-marcha-atras-coche-1072323'>Guía de compra y cómo instalar correctamente una cámara de marcha atrás para el coche</a></h4>
-    <a href='https://computerhoy.com/guia-compra/camara-marcha-atras-coche-1072323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/camara-marcha-atras-coche-2721733.jpg' alt='Guía de compra y cómo instalar correctamente una cámara de marcha atrás para el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633'>16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-victus-16-d0055ns-2751939.jpg' alt='16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros' />
     </a>
 </div>
 
