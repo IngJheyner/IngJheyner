@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409'>La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-maquina-expendedora-funcionaba-monedas-usaban-griegos-hace-2000-anos-2753687.jpg' alt='La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661'>La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pista-hockey-hielo-profesional-jardin-monta-60-minutos-herramientas-video-2754421.jpg' alt='La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659'>Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo</a></h4>
     <a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hoteles-vegas-ofrecen-porno-realidad-virtual-gafas-quest-2-te-entrega-robot-autonomo-2754405.jpg' alt='Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629'>La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-2754357.jpg' alt='La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videotimbre-inteligente-ring-amazon-prime-day-descuento-1090651'>El videotimbre inteligente Ring de Amazon se adelanta al Prime Day con un descuento del 30%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videotimbre-inteligente-ring-amazon-prime-day-descuento-1090651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='El videotimbre inteligente Ring de Amazon se adelanta al Prime Day con un descuento del 30%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603'>Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/analistas-tienen-claro-futuro-corto-plazo-bitcoin-ultima-tendencia-positiva-1090603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/caida-bitcoin-2604591.jpg' alt='Los analistas tienen claro el futuro a corto plazo de Bitcoin tras la última tendencia positiva' />
     </a>
 </div>
 
