@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617'>Lenovo Legion Slim 7 Gen 6, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738349.jpg' alt='Lenovo Legion Slim 7 Gen 6, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347'>Xiaomi y Sony acaban de matar a las cámaras tradicionales</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12-ultra-2750163.jpg' alt='Xiaomi y Sony acaban de matar a las cámaras tradicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189'>Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acupresion-2702631.jpg' alt='Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar' />
     </a>
 </div>
 
