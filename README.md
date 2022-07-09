@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625'>Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695455.jpg' alt='Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347'>Xiaomi y Sony acaban de matar a las cámaras tradicionales</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12-ultra-2750163.jpg' alt='Xiaomi y Sony acaban de matar a las cámaras tradicionales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409'>La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-maquina-expendedora-funcionaba-monedas-usaban-griegos-hace-2000-anos-2753687.jpg' alt='La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661'>La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pista-hockey-hielo-profesional-jardin-monta-60-minutos-video-1090661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pista-hockey-hielo-profesional-jardin-monta-60-minutos-herramientas-video-2754421.jpg' alt='La pista de hockey sobre hielo profesional para el jardín que se monta en 60 minutos sin herramientas (vídeo)' />
     </a>
 </div>
 
