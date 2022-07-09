@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471'>Cosas que debes hacer en Windows 11 después de instalar un disco SSD</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/cosas-debes-hacer-windows-11-despues-instalar-disco-ssd-1080471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Cosas que debes hacer en Windows 11 después de instalar un disco SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/camara-marcha-atras-coche-1072323'>Guía de compra y cómo instalar correctamente una cámara de marcha atrás para el coche</a></h4>
+    <a href='https://computerhoy.com/guia-compra/camara-marcha-atras-coche-1072323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/camara-marcha-atras-coche-2721733.jpg' alt='Guía de compra y cómo instalar correctamente una cámara de marcha atrás para el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633'>16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-victus-16-d0055ns-2751939.jpg' alt='16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617'>Lenovo Legion Slim 7 Gen 6, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738349.jpg' alt='Lenovo Legion Slim 7 Gen 6, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291'>Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piel-serpiente-rover-perseverance-ha-encontrado-marte-2753373.jpg' alt='Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte' />
     </a>
 </div>
 
