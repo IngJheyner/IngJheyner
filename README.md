@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919'>Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/serpiente-2754679.jpg' alt='Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917'>La razón por la que dura tanto el episodio final de Stranger Things 4</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='La razón por la que dura tanto el episodio final de Stranger Things 4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625'>Cómo crear una cuenta de Windows 11 segura para niños</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-cuenta-windows-11-segura-ninos-1066625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nino-ordenador-2711993.jpg' alt='Cómo crear una cuenta de Windows 11 segura para niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887'>El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-2754619.jpg' alt='El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos' />
     </a>
 </div>
 
