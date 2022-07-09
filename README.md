@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189'>Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/esterilla-acupresion-1061189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/acupresion-2702631.jpg' alt='Esterillas de acupresión: cómo funcionan, beneficios, diferencias y en que debes fijarte antes de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alimentos-peligrosos-sufres-acidez-estomago-1090849'>Alimentos peligrosos si sufres acidez de estómago</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alimentos-peligrosos-sufres-acidez-estomago-1090849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alimentos-peligrosos-sufres-acidez-estomago-2754585.jpg' alt='Alimentos peligrosos si sufres acidez de estómago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409'>La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/primera-maquina-expendedora-heron-alejandria-1090409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-maquina-expendedora-funcionaba-monedas-usaban-griegos-hace-2000-anos-2753687.jpg' alt='La primera máquina expendedora que funcionaba con monedas la usaban los griegos hace 2.000 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659'>Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo</a></h4>
     <a href='https://computerhoy.com/noticias/life/hoteles-las-vegas-porno-realidad-virtual-gafas-quest-2-robot-autonomo-1090659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hoteles-vegas-ofrecen-porno-realidad-virtual-gafas-quest-2-te-entrega-robot-autonomo-2754405.jpg' alt='Los hoteles de Las Vegas ofrecen porno en realidad virtual con gafas Quest 2 que te entrega un robot autónomo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tener-whatsapp-dos-moviles-mismo-tiempo-cada-vez-cerca-funcionara-modo-companion-1090647'>Tener WhatsApp en dos móviles al mismo tiempo cada vez está más cerca: así funcionará el Modo Companion</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tener-whatsapp-dos-moviles-mismo-tiempo-cada-vez-cerca-funcionara-modo-companion-1090647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Tener WhatsApp en dos móviles al mismo tiempo cada vez está más cerca: así funcionará el Modo Companion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629'>La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-1090629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carga-rapida-sigue-siendo-gran-baza-realme-nuevo-gt-2-master-explorer-estaria-caer-reafirmar-estrategia-2754357.jpg' alt='La carga rápida sigue siendo la gran baza de realme y su nuevo GT 2 Master Explorer estaría al caer para reafirmar su estrategia' />
     </a>
 </div>
 
