@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633'>16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-victus-16-d0055ns-2751939.jpg' alt='16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691'>7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-2750417.jpg' alt='7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617'>Lenovo Legion Slim 7 Gen 6, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/lenovo-legion-slim-7-gen-6-review-opinion-1081617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738349.jpg' alt='Lenovo Legion Slim 7 Gen 6, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291'>Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/foto-piel-serpiente-rover-perseverance-marte-1090291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piel-serpiente-rover-perseverance-ha-encontrado-marte-2753373.jpg' alt='Qué es la 'piel de serpiente' que el rover Perseverance ha encontrado en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625'>Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/rebajas-verano-xiaomi-julio-2022-1090625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695455.jpg' alt='Rebajas Xiaomi: báscula por menos de 10€, pistola de masaje, móviles y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347'>Xiaomi y Sony acaban de matar a las cámaras tradicionales</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-sony-acaban-matar-camaras-tradicionales-1088347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12-ultra-2750163.jpg' alt='Xiaomi y Sony acaban de matar a las cámaras tradicionales' />
     </a>
 </div>
 
