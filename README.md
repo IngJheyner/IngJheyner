@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887'>El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/truco-bajar-varios-grados-temperatura-coche-horas-sol-menos-60-segundos-1090887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-2754619.jpg' alt='El truco para bajar varios grados la temperatura del coche tras horas al sol en menos de 60 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883'>Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/afirmaciones-elon-musk-han-envejecido-muy-mal-anunciar-no-comprara-twitter-1090883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2658491.jpg' alt='Afirmaciones de Elon Musk que han envejecido muy mal tras anunciar que no comprará Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633'>16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-victus-16-d0055ns-oferta-9-julio-2022-1089633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-victus-16-d0055ns-2751939.jpg' alt='16GB de RAM, Intel Core i7 y RTX 3060: esta bestia para el gaming baja 260 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691'>7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-1088691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-peliculas-prime-video-son-poco-conocidas-pero-no-deberias-dejar-pasar-2750417.jpg' alt='7 películas de Prime Video que son poco conocidas pero no deberías dejar pasar' />
     </a>
 </div>
 
