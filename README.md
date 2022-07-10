@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209'>La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177'>Huawei FreeBuds Pro 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754933.jpg' alt='Huawei FreeBuds Pro 2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/test-turing-sigue-siendo-tan-relevante-hoy-dia-1084227'>¿Qué es el Test de Turing y por qué sigue siendo tan relevante hoy en día?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/test-turing-sigue-siendo-tan-relevante-hoy-dia-1084227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/test-turing-20.jpg' alt='¿Qué es el Test de Turing y por qué sigue siendo tan relevante hoy en día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-f4-review-opinion-1089189'>POCO F4, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-f4-review-opinion-1089189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-f4-2753061.jpg' alt='POCO F4, análisis y opinión' />
     </a>
 </div>
 
