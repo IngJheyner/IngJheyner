@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alertan-invasion-caracoles-gigantes-no-deberias-tocar-1090947'>Alertan de una invasión de caracoles gigantes que no los deberías tocar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alertan-invasion-caracoles-gigantes-no-deberias-tocar-1090947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/caracol-2754705.jpg' alt='Alertan de una invasión de caracoles gigantes que no los deberías tocar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/dispensador-tirador-cerveza-1080949'>Guía para comprar un dispensador o tirador de cerveza para disfrutar de la mejor cerveza de barril en casa</a></h4>
+    <a href='https://computerhoy.com/guia-compra/dispensador-tirador-cerveza-1080949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bebiendo-cervezas-2737433.jpg' alt='Guía para comprar un dispensador o tirador de cerveza para disfrutar de la mejor cerveza de barril en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-batidoras-comparativa-cual-es-mejor-646539'>Las mejores batidoras que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-batidoras-comparativa-cual-es-mejor-646539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/braun-multiquick-9-2754309.jpg' alt='Las mejores batidoras que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763'>En Japón han inventado los pantalones vaqueros fabricados con cerveza</a></h4>
     <a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/japon-han-inventado-tejanos-fabricados-cerveza-2740195.jpg' alt='En Japón han inventado los pantalones vaqueros fabricados con cerveza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347'>¿Adivinas qué están haciendo estas personas?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adivinas-estan-haciendo-estas-personas-2753533.jpg' alt='¿Adivinas qué están haciendo estas personas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945'>Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-marca-smartphones-exitosa-primer-trimestre-2022-pero-apple-muy-cerca-1090945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='Samsung es la marca de smartphones más exitosa del primer trimestre de 2022, pero Apple está muy cerca' />
     </a>
 </div>
 
