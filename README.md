@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-accidentalmente-whatsapp-1090375'>Cómo recuperar mensajes borrados accidentalmente en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-accidentalmente-whatsapp-1090375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2628597.jpg' alt='Cómo recuperar mensajes borrados accidentalmente en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-crear-tren-alta-velocidad-principales-ciudades-tan-rapido-como-avion-1090943'>El plan de Europa para crear un tren de alta velocidad que una las principales ciudades tan rápido como un avión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/plan-europa-crear-tren-alta-velocidad-principales-ciudades-tan-rapido-como-avion-1090943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg' alt='El plan de Europa para crear un tren de alta velocidad que una las principales ciudades tan rápido como un avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/alertan-invasion-caracoles-gigantes-no-deberias-tocar-1090947'>Alertan de una invasión de caracoles gigantes que no los deberías tocar</a></h4>
     <a href='https://computerhoy.com/noticias/life/alertan-invasion-caracoles-gigantes-no-deberias-tocar-1090947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/caracol-2754705.jpg' alt='Alertan de una invasión de caracoles gigantes que no los deberías tocar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-batidoras-comparativa-cual-es-mejor-646539'>Las mejores batidoras que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-batidoras-comparativa-cual-es-mejor-646539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/braun-multiquick-9-2754309.jpg' alt='Las mejores batidoras que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-navegador-abra-defecto-modo-incognito-1090459'>Cómo hacer que tu navegador se abra por defecto en modo incógnito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-navegador-abra-defecto-modo-incognito-1090459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-ordenador-2753809.jpg' alt='Cómo hacer que tu navegador se abra por defecto en modo incógnito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763'>En Japón han inventado los pantalones vaqueros fabricados con cerveza</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/japon-han-inventado-tejanos-fabricados-cerveza-2740195.jpg' alt='En Japón han inventado los pantalones vaqueros fabricados con cerveza' />
     </a>
 </div>
 
