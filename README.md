@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215'>Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/todas-series-star-wars-hay-disney-ordenadas-puntuacion-1088639'>Todas las series de Star Wars que hay en Disney+, ordenadas según su puntuación</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/todas-series-star-wars-hay-disney-ordenadas-puntuacion-1088639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/obi-wan-kenobi-2719191.jpg' alt='Todas las series de Star Wars que hay en Disney+, ordenadas según su puntuación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209'>La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-chips-exynos-samsung-solo-apostaria-qualcomm-galaxy-s-1091205'>Adiós a los chips Exynos: Samsung solo apostaría por Qualcomm en los Galaxy S</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adios-chips-exynos-samsung-solo-apostaria-qualcomm-galaxy-s-1091205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741207.jpg' alt='Adiós a los chips Exynos: Samsung solo apostaría por Qualcomm en los Galaxy S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hisense-dhgs90m-secadora-ofertas-12-julio-2022-1089991'>La inflación no entiende cuándo es un mal momento, por eso es una suerte que esta secadora tenga 324€ de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hisense-dhgs90m-secadora-ofertas-12-julio-2022-1089991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-dhgs90m-2752965.jpg' alt='La inflación no entiende cuándo es un mal momento, por eso es una suerte que esta secadora tenga 324€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/test-turing-sigue-siendo-tan-relevante-hoy-dia-1084227'>¿Qué es el Test de Turing y por qué sigue siendo tan relevante hoy en día?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/test-turing-sigue-siendo-tan-relevante-hoy-dia-1084227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/test-turing-20.jpg' alt='¿Qué es el Test de Turing y por qué sigue siendo tan relevante hoy en día?' />
     </a>
 </div>
 
