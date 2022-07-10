@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243'>Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-mejor-alternativa-barata-reproductor-fire-tv-stick-4k-ademas-tiene-android-1091233'>Xiaomi tiene la mejor alternativa barata al reproductor Fire TV Stick 4K y además tiene Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-mejor-alternativa-barata-reproductor-fire-tv-stick-4k-ademas-tiene-android-1091233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-tv-stick-4k-2755039.jpg' alt='Xiaomi tiene la mejor alternativa barata al reproductor Fire TV Stick 4K y además tiene Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209'>La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177'>Huawei FreeBuds Pro 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754933.jpg' alt='Huawei FreeBuds Pro 2, análisis y opinión' />
     </a>
 </div>
 
