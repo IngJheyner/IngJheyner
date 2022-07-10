@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261'>El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-router-wifi-7-ya-aqui-descarga-datos-18-gbps-2755113.jpg' alt='El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707'>Los mejores reproductores de música para Android </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escuchando-musica-2731597.jpg' alt='Los mejores reproductores de música para Android ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243'>Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215'>Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/todas-series-star-wars-hay-disney-ordenadas-puntuacion-1088639'>Todas las series de Star Wars que hay en Disney+, ordenadas según su puntuación</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/todas-series-star-wars-hay-disney-ordenadas-puntuacion-1088639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/obi-wan-kenobi-2719191.jpg' alt='Todas las series de Star Wars que hay en Disney+, ordenadas según su puntuación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209'>La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-confirma-primeros-objetivos-telescopio-webb-cuando-donde-podremos-ver-imagenes-1091209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='La NASA confirma los primeros objetivos del telescopio Webb y cuándo y dónde podremos ver las imágenes' />
     </a>
 </div>
 
