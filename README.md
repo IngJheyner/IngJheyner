@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-navegador-abra-defecto-modo-incognito-1090459'>Cómo hacer que tu navegador se abra por defecto en modo incógnito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-navegador-abra-defecto-modo-incognito-1090459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-ordenador-2753809.jpg' alt='Cómo hacer que tu navegador se abra por defecto en modo incógnito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763'>En Japón han inventado los pantalones vaqueros fabricados con cerveza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tejanos-de-cerveza-japon-1082763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/japon-han-inventado-tejanos-fabricados-cerveza-2740195.jpg' alt='En Japón han inventado los pantalones vaqueros fabricados con cerveza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347'>¿Adivinas qué están haciendo estas personas?</a></h4>
     <a href='https://computerhoy.com/noticias/life/localizadores-sonido-primera-guerra-mundial-1090347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adivinas-estan-haciendo-estas-personas-2753533.jpg' alt='¿Adivinas qué están haciendo estas personas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941'>Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-quiere-airpods-puedan-salvarte-posibles-accidentes-carretera-1090941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hombre-airpods-pro-apple-calle-2637005.jpg' alt='Apple quiere que los Airpods puedan salvarte de posibles accidentes en carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919'>Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/serpiente-deja-10000-hogares-aire-acondicionado-plena-ola-calor-1090919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/serpiente-2754679.jpg' alt='Una serpiente deja a más de 10.000 hogares sin aire acondicionado en plena ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917'>La razón por la que dura tanto el episodio final de Stranger Things 4</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/razon-dura-tanto-episodio-final-stranger-things-4-1090917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/stranger-things-4-2735563.jpg' alt='La razón por la que dura tanto el episodio final de Stranger Things 4' />
     </a>
 </div>
 
