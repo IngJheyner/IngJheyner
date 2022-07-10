@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267'>Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-ha-estrenado-interesante-documental-nos-muestra-como-hacian-videos-espana-anos-80-2755117.jpg' alt='Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245'>Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-tab-p11-2446517.jpg' alt='Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261'>El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-router-wifi-7-ya-aqui-descarga-datos-18-gbps-2755113.jpg' alt='El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243'>Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-mejor-alternativa-barata-reproductor-fire-tv-stick-4k-ademas-tiene-android-1091233'>Xiaomi tiene la mejor alternativa barata al reproductor Fire TV Stick 4K y además tiene Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-tiene-mejor-alternativa-barata-reproductor-fire-tv-stick-4k-ademas-tiene-android-1091233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-tv-stick-4k-2755039.jpg' alt='Xiaomi tiene la mejor alternativa barata al reproductor Fire TV Stick 4K y además tiene Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215'>Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/carreteras-espana-ahora-son-gratis-pero-pasaran-ser-pago-antes-final-2022-1091215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carretera-peaje-2755011.jpg' alt='Carreteras en España que ahora son gratis pero que pasarán a ser de pago antes de final de 2022' />
     </a>
 </div>
 
