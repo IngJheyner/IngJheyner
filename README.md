@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561'>El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hotel-resort-movil-tesla-unas-vacaciones-sonadas-planeta-rojo-2751803.jpg' alt='El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281'>Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/rivian-r1t-camper_6.jpg' alt='Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245'>Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-tab-p11-2446517.jpg' alt='Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261'>El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-router-wifi-7-ya-aqui-descarga-datos-18-gbps-2755113.jpg' alt='El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps' />
     </a>
 </div>
 
