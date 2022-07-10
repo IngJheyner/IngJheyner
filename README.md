@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267'>Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267'>Netflix ha estrenado un interesante documental que muestra cómo se hacían los videojuegos en España en los años 80</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-ha-estrenado-interesante-documental-nos-muestra-como-hacian-videos-espana-anos-80-2755117.jpg' alt='Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-ha-estrenado-interesante-documental-nos-muestra-como-hacian-videos-espana-anos-80-2755117.jpg' alt='Netflix ha estrenado un interesante documental que muestra cómo se hacían los videojuegos en España en los años 80' />
     </a>
 </div>
 
