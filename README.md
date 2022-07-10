@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275'>Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-copia-mineros-criptomonedas-sumerge-servidores-baneras-extrano-liquido-2289913.jpg' alt='Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267'>Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-ha-estrenado-interesante-documental-nos-muestra-como-hacian-videos-espana-anos-80-2755117.jpg' alt='Netflix ha estrenado un interesante documental que nos muestra cómo se hacían los videojuegos en España en los años 80' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707'>Los mejores reproductores de música para Android </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escuchando-musica-2731597.jpg' alt='Los mejores reproductores de música para Android ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243'>Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elimina-ahora-mismo-estas-4-aplicaciones-movil-porque-contienen-peligroso-malware-1091243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Elimina ahora mismo estas 4 aplicaciones del móvil porque contienen un peligroso malware' />
     </a>
 </div>
 
