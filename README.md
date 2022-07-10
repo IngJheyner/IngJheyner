@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177'>Huawei FreeBuds Pro 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-freebuds-pro-2-review-opinion-1091177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754933.jpg' alt='Huawei FreeBuds Pro 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adios-chips-exynos-samsung-solo-apostaria-qualcomm-galaxy-s-1091205'>Adiós a los chips Exynos: Samsung solo apostaría por Qualcomm en los Galaxy S</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adios-chips-exynos-samsung-solo-apostaria-qualcomm-galaxy-s-1091205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741207.jpg' alt='Adiós a los chips Exynos: Samsung solo apostaría por Qualcomm en los Galaxy S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hisense-dhgs90m-secadora-ofertas-12-julio-2022-1089991'>La inflación no entiende cuándo es un mal momento, por eso es una suerte que esta secadora tenga 324€ de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/life/hisense-dhgs90m-secadora-ofertas-12-julio-2022-1089991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-dhgs90m-2752965.jpg' alt='La inflación no entiende cuándo es un mal momento, por eso es una suerte que esta secadora tenga 324€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/poco-f4-review-opinion-1089189'>POCO F4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-f4-review-opinion-1089189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-f4-2753061.jpg' alt='POCO F4, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-accidentalmente-whatsapp-1090375'>Cómo recuperar mensajes borrados accidentalmente en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-recuperar-mensajes-borrados-accidentalmente-whatsapp-1090375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2628597.jpg' alt='Cómo recuperar mensajes borrados accidentalmente en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-europa-crear-tren-alta-velocidad-principales-ciudades-tan-rapido-como-avion-1090943'>El plan de Europa para crear un tren de alta velocidad que una las principales ciudades tan rápido como un avión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/plan-europa-crear-tren-alta-velocidad-principales-ciudades-tan-rapido-como-avion-1090943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg' alt='El plan de Europa para crear un tren de alta velocidad que una las principales ciudades tan rápido como un avión' />
     </a>
 </div>
 
