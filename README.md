@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281'>Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/rivian-r1t-camper_6.jpg' alt='Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275'>Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-copia-mineros-criptomonedas-sumerge-servidores-baneras-extrano-liquido-2289913.jpg' alt='Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261'>El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primer-router-wifi-7-h3c-magic-be18000-18-gbps-1091261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-router-wifi-7-ya-aqui-descarga-datos-18-gbps-2755113.jpg' alt='El primer router con WiFi 7 ya está aquí, descarga datos a 18 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707'>Los mejores reproductores de música para Android </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-musica-android-1077707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/escuchando-musica-2731597.jpg' alt='Los mejores reproductores de música para Android ' />
     </a>
 </div>
 
