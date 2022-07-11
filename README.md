@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795'>El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767'>La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente</a></h4>
     <a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763'>WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades' />
     </a>
 </div>
 
