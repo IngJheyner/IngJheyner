@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691'>Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nave-hasp-2755795.jpg' alt='Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-nuevo-anillo-inteligente-permite-compartir-datos-tan-solo-toque-gracias-tecnologia-nfc-1091671'>Así es el posible nuevo anillo inteligente que permite compartir datos con tan solo un toque gracias a la tecnología NFC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/posible-nuevo-anillo-inteligente-permite-compartir-datos-tan-solo-toque-gracias-tecnologia-nfc-1091671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-anillo-inteligente-espera-finales-2022-permite-compartir-todo-tipo-datos-tan-solo-toque-2755707.jpg' alt='Así es el posible nuevo anillo inteligente que permite compartir datos con tan solo un toque gracias a la tecnología NFC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659'>Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-mi-robot-vacuum-mop-2-ultra-review-opinion-1076423'>Xiaomi Mi Robot Vacuum Mop 2 Ultra, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-mi-robot-vacuum-mop-2-ultra-review-opinion-1076423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg' alt='Xiaomi Mi Robot Vacuum Mop 2 Ultra, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313'>Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/espera-precio-nuevo-apple-watch-pro-supere-actual-iphone-13-pro-1091657'>Se espera que el precio del nuevo Apple Watch Pro supere el del actual iPhone 13 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/espera-precio-nuevo-apple-watch-pro-supere-actual-iphone-13-pro-1091657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Se espera que el precio del nuevo Apple Watch Pro supere el del actual iPhone 13 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/60-millones-anos-ya-sabemos-t-rex-tenian-brazos-diminutos-1091649'>Tras 60 millones de años, ya sabemos por qué los T-Rex tenían los brazos diminutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/60-millones-anos-ya-sabemos-t-rex-tenian-brazos-diminutos-1091649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/jurassic-world-evolution-2-dinosaurios-2449665.jpg' alt='Tras 60 millones de años, ya sabemos por qué los T-Rex tenían los brazos diminutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-canciones-verano-2022-spotify-probablemente-no-estes-acuerdo-1091631'>Estas serán las canciones del verano 2022 según Spotify y probablemente no estés de acuerdo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-canciones-verano-2022-spotify-probablemente-no-estes-acuerdo-1091631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ahora-podras-saber-estan-escuchando-contactos-spotify-directo-2739687.jpg' alt='Estas serán las canciones del verano 2022 según Spotify y probablemente no estés de acuerdo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-amazon-echo-como-altavoz-bluetooth-tradicional-reproducir-cualquier-fuente-sonido-1091643'>Cómo usar un Amazon Echo como un altavoz bluetooth tradicional y reproducir cualquier fuente de sonido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-amazon-echo-como-altavoz-bluetooth-tradicional-reproducir-cualquier-fuente-sonido-1091643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Cómo usar un Amazon Echo como un altavoz bluetooth tradicional y reproducir cualquier fuente de sonido' />
     </a>
 </div>
 
