@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2755361.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-filtros-agua-1089999'>Filtros de agua: qué tipos hay, para qué sirven y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-filtros-agua-1089999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/jarra-filtrante-agua-brita-2755107.jpg' alt='Filtros de agua: qué tipos hay, para qué sirven y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561'>El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hotel-resort-movil-tesla-unas-vacaciones-sonadas-planeta-rojo-2751803.jpg' alt='El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275'>Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-copia-mineros-criptomonedas-sumerge-servidores-baneras-extrano-liquido-2289913.jpg' alt='Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267'>Netflix ha estrenado un interesante documental que muestra cómo se hacían los videojuegos en España en los años 80</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-documental-videojuegos-espana-anos-80-1091267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-ha-estrenado-interesante-documental-nos-muestra-como-hacian-videos-espana-anos-80-2755117.jpg' alt='Netflix ha estrenado un interesante documental que muestra cómo se hacían los videojuegos en España en los años 80' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245'>Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-teclado-incluido-1091245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/lenovo-tab-p11-2446517.jpg' alt='Tablets con teclado incluido: estas son las mejores que puedes encontrar en Amazon y AliExpress' />
     </a>
 </div>
 
