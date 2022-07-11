@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-vuelve-dar-vida-gama-media-nuevo-smartphone-x40i-1091809'>Honor vuelve a dar vida a la gama media con su nuevo smartphone X40i</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-vuelve-dar-vida-gama-media-nuevo-smartphone-x40i-1091809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/honor-x40i-2756157.jpg' alt='Honor vuelve a dar vida a la gama media con su nuevo smartphone X40i' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769'>Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763'>WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-1087451'>Juegos Android a los que jugar cuando no tienes acceso a WiFi o cobertura de datos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-1087451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-2748935.jpg' alt='Juegos Android a los que jugar cuando no tienes acceso a WiFi o cobertura de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709'>DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/analiza-gestiona-agua-riego-evitar-perdidas-contaminacion.jpg' alt='DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua' />
     </a>
 </div>
 
