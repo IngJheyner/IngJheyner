@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707'>La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-verano-oportunidad-varios-modelos-kindle-estan-oferta-prime-day-2022-1089849'>Si quieres leer este verano, esta es tu oportunidad: varios modelos de Kindle están en oferta por el Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-verano-oportunidad-varios-modelos-kindle-estan-oferta-prime-day-2022-1089849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-2021-2557371.jpg' alt='Si quieres leer este verano, esta es tu oportunidad: varios modelos de Kindle están en oferta por el Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691'>Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nave-hasp-2755795.jpg' alt='Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659'>Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-mi-robot-vacuum-mop-2-ultra-review-opinion-1076423'>Xiaomi Mi Robot Vacuum Mop 2 Ultra, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-mi-robot-vacuum-mop-2-ultra-review-opinion-1076423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-xiaomi-mi-robot-vacuum-mop-2-ultra-2755775.jpg' alt='Xiaomi Mi Robot Vacuum Mop 2 Ultra, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313'>Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022' />
     </a>
 </div>
 
