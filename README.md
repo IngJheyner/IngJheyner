@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ford-llama-revision-100000-coches-hibridos-peligro-incendio-espontaneo-1091609'>Ford llama a revisión a 100.000 coches híbridos por peligro de incendio espontáneo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ford-llama-revision-100000-coches-hibridos-peligro-incendio-espontaneo-1091609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/ford-kuga-phev-2020-1995725.jpg' alt='Ford llama a revisión a 100.000 coches híbridos por peligro de incendio espontáneo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551'>¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541'>La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851'>Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagina-amazon-puede-ahorrarte-mucho-dinero-amazon-prime-day-2022-2754589.jpg' alt='Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022' />
     </a>
 </div>
 
