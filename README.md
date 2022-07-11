@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767'>La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente</a></h4>
+    <a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763'>WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-1091763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-recurre-mismisimo-mark-zuckerberg-anunciar-dos-grandes-novedades-2755989.jpg' alt='WhatsApp recurre al mismísimo Mark Zuckerberg para anunciar dos grandes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-1087451'>Juegos Android a los que jugar cuando no tienes acceso a WiFi o cobertura de datos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-1087451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juegos-android-jugar-cuando-no-tienes-acceso-wifi-cobertura-datos-2748935.jpg' alt='Juegos Android a los que jugar cuando no tienes acceso a WiFi o cobertura de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709'>DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/analiza-gestiona-agua-riego-evitar-perdidas-contaminacion.jpg' alt='DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707'>La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-verano-oportunidad-varios-modelos-kindle-estan-oferta-prime-day-2022-1089849'>Si quieres leer este verano, esta es tu oportunidad: varios modelos de Kindle están en oferta por el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-leer-verano-oportunidad-varios-modelos-kindle-estan-oferta-prime-day-2022-1089849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-2021-2557371.jpg' alt='Si quieres leer este verano, esta es tu oportunidad: varios modelos de Kindle están en oferta por el Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691'>Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nave-futurista-desplegara-teruel-puede-ser-primera-piedra-agencia-espacial-espanola-1091691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nave-hasp-2755795.jpg' alt='Esta nave futurista se desplegará en Teruel y puede ser la primera piedra de la Agencia Espacial Española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/posible-nuevo-anillo-inteligente-permite-compartir-datos-tan-solo-toque-gracias-tecnologia-nfc-1091671'>Así es el posible nuevo anillo inteligente que permite compartir datos con tan solo un toque gracias a la tecnología NFC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/posible-nuevo-anillo-inteligente-permite-compartir-datos-tan-solo-toque-gracias-tecnologia-nfc-1091671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-anillo-inteligente-espera-finales-2022-permite-compartir-todo-tipo-datos-tan-solo-toque-2755707.jpg' alt='Así es el posible nuevo anillo inteligente que permite compartir datos con tan solo un toque gracias a la tecnología NFC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659'>Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-consumo-apple-watch-promete-dias-bateria-gran-noticia-todos-1091659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Un modo de bajo consumo para el Apple Watch promete días de batería y esto es una gran noticia para todos' />
     </a>
 </div>
 
