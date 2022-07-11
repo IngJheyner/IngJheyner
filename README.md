@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577'>6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-portatiles-amazon-prime-day-2022-1089109'>Mejores ofertas de portátiles en Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-portatiles-amazon-prime-day-2022-1089109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Mejores ofertas de portátiles en Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/descuentos-apple-amazon-prime-day-2022-1089731'>Descuentos Apple en el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/descuentos-apple-amazon-prime-day-2022-1089731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Descuentos Apple en el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183'>10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935'>Mejores ofertas del Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2755981.jpg' alt='Mejores ofertas del Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-twitter-te-permitira-hacer-bombas-humo-conversaciones-nadie-entere-1091869'>Ahora Twitter te permitirá hacer bombas de humo en las conversaciones sin que nadie se entere</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-twitter-te-permitira-hacer-bombas-humo-conversaciones-nadie-entere-1091869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Ahora Twitter te permitirá hacer bombas de humo en las conversaciones sin que nadie se entere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desplome-precios-china-tarjetas-graficas-nuevas-menos-pvp-1091873'>Desplome de precios: en China las tarjetas gráficas nuevas ya cuestan un 33% menos que su PVP</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desplome-precios-china-tarjetas-graficas-nuevas-menos-pvp-1091873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='Desplome de precios: en China las tarjetas gráficas nuevas ya cuestan un 33% menos que su PVP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-hace-publicas-ultimas-betas-sistemas-operativos-puedes-descargar-ios-16-macos-ventura-watchos-9-1091849'>Apple hace públicas las últimas betas de sus sistemas operativos: así puedes descargar iOS 16, macOS Ventura o watchOS 9</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-hace-publicas-ultimas-betas-sistemas-operativos-puedes-descargar-ios-16-macos-ventura-watchos-9-1091849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Apple hace públicas las últimas betas de sus sistemas operativos: así puedes descargar iOS 16, macOS Ventura o watchOS 9' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841'>El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones' />
     </a>
 </div>
 
