@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769'>Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767'>La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente</a></h4>
     <a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709'>DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/deepdrop-nuevo-sistema-riego-subterraneo-espanol-ahorra-70-agua-1091709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/analiza-gestiona-agua-riego-evitar-perdidas-contaminacion.jpg' alt='DeepDrop, el nuevo sistema de riego subterráneo español que ahorra un 70 % de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707'>La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-1091707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='La nueva serie Red Magic 7S y 7S Pro buscan romper los esquemas gaming con el Snapdragon 8+ Gen 1' />
     </a>
 </div>
 
