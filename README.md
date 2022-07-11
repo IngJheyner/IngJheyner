@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841'>El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-musica-hd-audio-espacial-3d-1091865'>Amazon Music Unlimited - 4 meses gratis para nuevos usuarios con música en HD y audio espacial en 3D</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-musica-hd-audio-espacial-3d-1091865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-music-unlimited-4-meses-gratis-nuevos-usuarios-musica-hd-audio-espacial-3d-2756239.jpg' alt='Amazon Music Unlimited - 4 meses gratis para nuevos usuarios con música en HD y audio espacial en 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827'>La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/xiaomi-cargador-inalambrico.jpg' alt='La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853'>Top Gun 3 está en marcha, según uno de sus actores protagonista</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853'>Top Gun 3 está en marcha, según uno de los actores protagonista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2659461.jpg' alt='Top Gun 3 está en marcha, según uno de sus actores protagonista' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2659461.jpg' alt='Top Gun 3 está en marcha, según uno de los actores protagonista' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851'>Si utilizas Android Auto no deberías actualizar a la última versión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Si utilizas Android Auto no deberías actualizar a la última versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-ventilador-convencional-enfrie-aire-como-aire-acondicionado-1091845'>El genial truco viral para que tu ventilador convencional enfríe el aire como un aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-ventilador-convencional-enfrie-aire-como-aire-acondicionado-1091845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2756217.jpg' alt='El genial truco viral para que tu ventilador convencional enfríe el aire como un aire acondicionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795'>El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas' />
     </a>
 </div>
 
