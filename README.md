@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935'>Mejores ofertas del Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2755981.jpg' alt='Mejores ofertas del Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-twitter-te-permitira-hacer-bombas-humo-conversaciones-nadie-entere-1091869'>Ahora Twitter te permitirá hacer bombas de humo en las conversaciones sin que nadie se entere</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-twitter-te-permitira-hacer-bombas-humo-conversaciones-nadie-entere-1091869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Ahora Twitter te permitirá hacer bombas de humo en las conversaciones sin que nadie se entere' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desplome-precios-china-tarjetas-graficas-nuevas-menos-pvp-1091873'>Desplome de precios: en China las tarjetas gráficas nuevas ya cuestan un 33% menos que su PVP</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desplome-precios-china-tarjetas-graficas-nuevas-menos-pvp-1091873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amd-desvela-tarjetas-radeon-rx-6000-potentes-rtx-3000-nvidia-baratas-2117365.jpg' alt='Desplome de precios: en China las tarjetas gráficas nuevas ya cuestan un 33% menos que su PVP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-hace-publicas-ultimas-betas-sistemas-operativos-puedes-descargar-ios-16-macos-ventura-watchos-9-1091849'>Apple hace públicas las últimas betas de sus sistemas operativos: así puedes descargar iOS 16, macOS Ventura o watchOS 9</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-hace-publicas-ultimas-betas-sistemas-operativos-puedes-descargar-ios-16-macos-ventura-watchos-9-1091849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Apple hace públicas las últimas betas de sus sistemas operativos: así puedes descargar iOS 16, macOS Ventura o watchOS 9' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841'>El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-ha-filtrado-detalle-ya-conocemos-todas-especificaciones-1091841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/camara-200-megapixeles-carga-rapida-125-w-mucho-bestia-prepara-motorola-2658329.jpg' alt='El Motorola Edge 30 Ultra se ha filtrado al detalle y ya conocemos todas sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-musica-hd-audio-espacial-3d-1091865'>Amazon Music Unlimited - 4 meses gratis para nuevos usuarios con música en HD y audio espacial en 3D</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/amazon-music-unlimited-4-meses-gratis-musica-hd-audio-espacial-3d-1091865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-music-unlimited-4-meses-gratis-nuevos-usuarios-musica-hd-audio-espacial-3d-2756239.jpg' alt='Amazon Music Unlimited - 4 meses gratis para nuevos usuarios con música en HD y audio espacial en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827'>La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/xiaomi-cargador-inalambrico.jpg' alt='La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853'>Top Gun 3 está en marcha, según uno de los actores protagonista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2659461.jpg' alt='Top Gun 3 está en marcha, según uno de los actores protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851'>Si utilizas Android Auto no deberías actualizar a la última versión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Si utilizas Android Auto no deberías actualizar a la última versión' />
     </a>
 </div>
 
