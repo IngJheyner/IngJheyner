@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851'>Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagina-amazon-puede-ahorrarte-mucho-dinero-amazon-prime-day-2022-2754589.jpg' alt='Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-dfs-router-wifi-ya-obligatorio-europa-ley-importante-1091511'>El modo DFS de tu router WiFi ya es obligatorio en Europa por ley y por qué es importante</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-dfs-router-wifi-ya-obligatorio-europa-ley-importante-1091511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-wi-fi-range-extender-pro-2603941.jpg' alt='El modo DFS de tu router WiFi ya es obligatorio en Europa por ley y por qué es importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-entrenar-dos-veces-ninguna-ciencia-defiende-deportistas-fin-semana-1091505'>Mejor entrenar dos veces que ninguna: la ciencia defiende a los deportistas de fin de semana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-entrenar-dos-veces-ninguna-ciencia-defiende-deportistas-fin-semana-1091505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hombre-atandose-cordones-correr-runner-2531741.jpg' alt='Mejor entrenar dos veces que ninguna: la ciencia defiende a los deportistas de fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891'>14 ofertas contra la inflación que te ahorrarán dinero en el supermercado</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='14 ofertas contra la inflación que te ahorrarán dinero en el supermercado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2755361.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-filtros-agua-1089999'>Filtros de agua: qué tipos hay, para qué sirven y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-filtros-agua-1089999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/jarra-filtrante-agua-brita-2755107.jpg' alt='Filtros de agua: qué tipos hay, para qué sirven y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561'>El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hotel-resort-movil-tesla-vacaciones-marte-1089561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hotel-resort-movil-tesla-unas-vacaciones-sonadas-planeta-rojo-2751803.jpg' alt='El Hotel Resort Móvil de Tesla, unas vacaciones soñadas en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281'>Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/rivian-r1t-camper_6.jpg' alt='Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan' />
     </a>
 </div>
 
