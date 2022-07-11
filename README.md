@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891'>14 ofertas contra la inflación que te ahorrarán dinero en el supermercado</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='14 ofertas contra la inflación que te ahorrarán dinero en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2755361.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281'>Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tim-cook-conduce-rivian-r1t-1091281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/rivian-r1t-camper_6.jpg' alt='Descubren a Tim Cook conduciendo el rival del Cybertruck de Tesla, y los rumores se disparan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275'>Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vende-hardware-falso-cisco-1000-millones-dolares-agencias-gubernamentales-1091275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/microsoft-copia-mineros-criptomonedas-sumerge-servidores-baneras-extrano-liquido-2289913.jpg' alt='Detienen a un hombre que vendió hardware falso por valor de 1.000 millones de dólares a agencias gubernamentales, y nadie se enteró' />
     </a>
 </div>
 
