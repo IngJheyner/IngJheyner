@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/ford-llama-revision-100000-coches-hibridos-peligro-incendio-espontaneo-1091609'>Ford llama a revisión a 100.000 coches híbridos por peligro de incendio espontáneo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/ford-llama-revision-100000-coches-hibridos-peligro-incendio-espontaneo-1091609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/ford-kuga-phev-2020-1995725.jpg' alt='Ford llama a revisión a 100.000 coches híbridos por peligro de incendio espontáneo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313'>Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puede-televisor-necesite-aparato-amazon-ademas-rebajado-prime-day-2022-1090313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Puede que tu televisor necesite este aparato de Amazon, que además está rebajado por el Prime Day 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551'>¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/espera-precio-nuevo-apple-watch-pro-supere-actual-iphone-13-pro-1091657'>Se espera que el precio del nuevo Apple Watch Pro supere el del actual iPhone 13 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/espera-precio-nuevo-apple-watch-pro-supere-actual-iphone-13-pro-1091657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Se espera que el precio del nuevo Apple Watch Pro supere el del actual iPhone 13 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/app-movil-mantener-llama-amor-pareja-incluso-verano-1091571'>La app móvil para mantener la llama del amor con tu pareja incluso en verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/app-movil-mantener-llama-amor-pareja-incluso-verano-1091571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pareja-perro-vacaciones-mirando-mapa-2359029.jpg' alt='La app móvil para mantener la llama del amor con tu pareja incluso en verano' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/60-millones-anos-ya-sabemos-t-rex-tenian-brazos-diminutos-1091649'>Tras 60 millones de años, ya sabemos por qué los T-Rex tenían los brazos diminutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/60-millones-anos-ya-sabemos-t-rex-tenian-brazos-diminutos-1091649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/jurassic-world-evolution-2-dinosaurios-2449665.jpg' alt='Tras 60 millones de años, ya sabemos por qué los T-Rex tenían los brazos diminutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-ia-ha-sido-notablemente-fallido-acertado-ceo-compania-robotica-1091537'>El avance de la IA ha sido notablemente más fallido que acertado según el CEO de una compañía de robótica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avance-ia-ha-sido-notablemente-fallido-acertado-ceo-compania-robotica-1091537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='El avance de la IA ha sido notablemente más fallido que acertado según el CEO de una compañía de robótica' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-canciones-verano-2022-spotify-probablemente-no-estes-acuerdo-1091631'>Estas serán las canciones del verano 2022 según Spotify y probablemente no estés de acuerdo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estas-seran-canciones-verano-2022-spotify-probablemente-no-estes-acuerdo-1091631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ahora-podras-saber-estan-escuchando-contactos-spotify-directo-2739687.jpg' alt='Estas serán las canciones del verano 2022 según Spotify y probablemente no estés de acuerdo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541'>La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-usar-amazon-echo-como-altavoz-bluetooth-tradicional-reproducir-cualquier-fuente-sonido-1091643'>Cómo usar un Amazon Echo como un altavoz bluetooth tradicional y reproducir cualquier fuente de sonido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-usar-amazon-echo-como-altavoz-bluetooth-tradicional-reproducir-cualquier-fuente-sonido-1091643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='Cómo usar un Amazon Echo como un altavoz bluetooth tradicional y reproducir cualquier fuente de sonido' />
     </a>
 </div>
 
