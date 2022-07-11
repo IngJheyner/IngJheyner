@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551'>¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podrian-obligar-elon-musk-comprar-twitter-aunque-ya-no-quiera-1091551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Podrían obligar a Elon Musk a comprar Twitter aunque ya no quiera?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/app-movil-mantener-llama-amor-pareja-incluso-verano-1091571'>La app móvil para mantener la llama del amor con tu pareja incluso en verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/app-movil-mantener-llama-amor-pareja-incluso-verano-1091571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/pareja-perro-vacaciones-mirando-mapa-2359029.jpg' alt='La app móvil para mantener la llama del amor con tu pareja incluso en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avance-ia-ha-sido-notablemente-fallido-acertado-ceo-compania-robotica-1091537'>El avance de la IA ha sido notablemente más fallido que acertado según el CEO de una compañía de robótica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avance-ia-ha-sido-notablemente-fallido-acertado-ceo-compania-robotica-1091537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='El avance de la IA ha sido notablemente más fallido que acertado según el CEO de una compañía de robótica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541'>La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-google-maps-salvo-multa-carcel-conductor-reino-unido-deberias-activar-1091541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La función de Google Maps que salvó de una multa y cárcel a un conductor en Reino Unido y que deberías activar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851'>Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pagina-amazon-ahorro-amazon-prime-day-2022-1090851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagina-amazon-puede-ahorrarte-mucho-dinero-amazon-prime-day-2022-2754589.jpg' alt='Esta página de Amazon puede ahorrarte mucho dinero en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-dfs-router-wifi-ya-obligatorio-europa-ley-importante-1091511'>El modo DFS de tu router WiFi ya es obligatorio en Europa por ley y por qué es importante</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-dfs-router-wifi-ya-obligatorio-europa-ley-importante-1091511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-wi-fi-range-extender-pro-2603941.jpg' alt='El modo DFS de tu router WiFi ya es obligatorio en Europa por ley y por qué es importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-entrenar-dos-veces-ninguna-ciencia-defiende-deportistas-fin-semana-1091505'>Mejor entrenar dos veces que ninguna: la ciencia defiende a los deportistas de fin de semana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-entrenar-dos-veces-ninguna-ciencia-defiende-deportistas-fin-semana-1091505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hombre-atandose-cordones-correr-runner-2531741.jpg' alt='Mejor entrenar dos veces que ninguna: la ciencia defiende a los deportistas de fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891'>14 ofertas contra la inflación que te ahorrarán dinero en el supermercado</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/14-ofertas-inflacion-te-ahorraran-dinero-supermercado-1090891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='14 ofertas contra la inflación que te ahorrarán dinero en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1091481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2755361.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
