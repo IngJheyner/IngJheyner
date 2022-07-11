@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827'>La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-rapida-200-w-xiaomi-ya-estaria-lista-llegaria-desbancar-realme-1091827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/xiaomi-cargador-inalambrico.jpg' alt='La carga rápida de 200 W de Xiaomi ya estaría lista y llegaría para desbancar a la de realme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853'>Top Gun 3 está en marcha, según uno de sus actores protagonista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/top-gun-3-rodaje-1091853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/top-gun-maverick-2659461.jpg' alt='Top Gun 3 está en marcha, según uno de sus actores protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851'>Si utilizas Android Auto no deberías actualizar a la última versión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utilizas-android-auto-no-deberias-actualizar-ultima-version-1091851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/android-auto-2663003.jpg' alt='Si utilizas Android Auto no deberías actualizar a la última versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/genial-truco-viral-ventilador-convencional-enfrie-aire-como-aire-acondicionado-1091845'>El genial truco viral para que tu ventilador convencional enfríe el aire como un aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/genial-truco-viral-ventilador-convencional-enfrie-aire-como-aire-acondicionado-1091845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2756217.jpg' alt='El genial truco viral para que tu ventilador convencional enfríe el aire como un aire acondicionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795'>El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gran-problema-seguridad-ultima-version-kernel-android-afecta-moviles-todas-marcas-1091795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='El gran problema de seguridad de la última versión del kernel Android que afecta a móviles de todas las marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883'>Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelven-ofertas-altavoces-alexa-amazon-18-euros-1089883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg' alt='Vuelven las ofertas de los altavoces con Alexa de Amazon desde 18 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-vuelve-dar-vida-gama-media-nuevo-smartphone-x40i-1091809'>Honor vuelve a dar vida a la gama media con su nuevo smartphone X40i</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-vuelve-dar-vida-gama-media-nuevo-smartphone-x40i-1091809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/honor-x40i-2756157.jpg' alt='Honor vuelve a dar vida a la gama media con su nuevo smartphone X40i' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769'>Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-fold-4-1091769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/samsung-galaxy-z-fold-3-analisis-opinion-2445859.jpg' alt='Esto es todo lo que sabemos acerca del Samsung Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767'>La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente</a></h4>
-    <a href='https://computerhoy.com/noticias/guardia-civil-alerta-te-llegan-algunos-estos-mensajes-whatsapp-borralos-inmediatamente-1091767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/multa-trafico-guardia-civil.jpg' alt='La Guardia Civil alerta: si te llegan algunos de estos mensajes por WhatsApp bórralos inmediatamente' />
     </a>
 </div>
 
