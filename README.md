@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275'>Nothing Phone (1), primeras impresiones del móvil más esperado de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-primeras-impresiones-2756901.jpg' alt='Nothing Phone (1), primeras impresiones del móvil más esperado de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179'>Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-2754957.jpg' alt='Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243'>Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-2732999.jpg' alt='Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/invento-loco-lidl-mantiene-bebidas-frias-tierra-necesidad-electricidad-1092395'>El invento más loco de Lidl que mantiene tus bebidas frías bajo tierra sin necesidad de electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/invento-loco-lidl-mantiene-bebidas-frias-tierra-necesidad-electricidad-1092395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/invento-lidl-bebidas-2757051.jpg' alt='El invento más loco de Lidl que mantiene tus bebidas frías bajo tierra sin necesidad de electricidad' />
     </a>
 </div>
 
