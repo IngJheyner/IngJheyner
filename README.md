@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885'>Cómo prevenir y tratar las venas varicosas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-prevenir-tratar-venas-varicosas-2756257.jpg' alt='Cómo prevenir y tratar las venas varicosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577'>6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183'>10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935'>Mejores ofertas del Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-amazon-prime-day-2022-1088935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2755981.jpg' alt='Mejores ofertas del Amazon Prime Day 2022' />
     </a>
 </div>
 
