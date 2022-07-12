@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495'>Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primeras-imagenes-telescopio-webb-son-revolucion-estrellas-agonizantes-choques-galaxias-foto-hace-4600-millones-anos-2757259.jpg' alt='Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/calor-extremo-haciendo-nintendo-switch-apaguen-forma-automatica-protegerse-1092487'>El calor extremo está haciendo que las Nintendo Switch se apaguen de forma automática para protegerse                                            </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/calor-extremo-haciendo-nintendo-switch-apaguen-forma-automatica-protegerse-1092487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2672431.jpg' alt='El calor extremo está haciendo que las Nintendo Switch se apaguen de forma automática para protegerse                                            ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473'>Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/casi-30-anos-despues-doom-doom-ii-actualizan-anadir-soporte-panoramico-2056289.jpg' alt='Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455'>Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-2757241.jpg' alt='Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479'>Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nominados-emmy-hbo-max-arrasa-juego-calamar-hace-historia-2757239.jpg' alt='Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185'>La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cosori-2443375.jpg' alt='La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ipad-pantalla-oled-estaria-cada-vez-cerca-ser-anunciado-1092439'>El primer iPad con pantalla OLED estaría cada vez más cerca de ser anunciado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-ipad-pantalla-oled-estaria-cada-vez-cerca-ser-anunciado-1092439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='El primer iPad con pantalla OLED estaría cada vez más cerca de ser anunciado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463'>El sencillo gesto que puede salvar tu móvil en plena ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-arena-playa-2757191.jpg' alt='El sencillo gesto que puede salvar tu móvil en plena ola de calor' />
     </a>
 </div>
 
