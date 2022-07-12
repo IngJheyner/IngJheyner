@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-calor-amazon-prime-day-2022-aire-acondicionado-portatil-solo-199-euros-1090395'>Chollo contra el calor en el Amazon Prime Day 2022: aire acondicionado portátil ¡por solo 199 euros!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-calor-amazon-prime-day-2022-aire-acondicionado-portatil-solo-199-euros-1090395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comfee-mppha-07crn7-2753661.jpg' alt='Chollo contra el calor en el Amazon Prime Day 2022: aire acondicionado portátil ¡por solo 199 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-solo-15-kg-peso-portatil-barato-huawei-gangas-amazon-prime-day-1091219'>Windows 11 y solo 1,5 kg de peso: este portátil barato de Huawei es una de las gangas del Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-solo-15-kg-peso-portatil-barato-huawei-gangas-amazon-prime-day-1091219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Windows 11 y solo 1,5 kg de peso: este portátil barato de Huawei es una de las gangas del Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-1091855'>El reconocimiento facial no es solo para personas: esta gatera deja fuera a los animales que no reconoce</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-1091855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-2756255.jpg' alt='El reconocimiento facial no es solo para personas: esta gatera deja fuera a los animales que no reconoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2756465.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-moviles-amazon-prime-day-2022-1089211'>Amazon Prime Day 2022: mejores ofertas en móviles que vas encontrar hoy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-moviles-amazon-prime-day-2022-1089211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485885.jpg' alt='Amazon Prime Day 2022: mejores ofertas en móviles que vas encontrar hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591'>PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon' />
     </a>
 </div>
 
