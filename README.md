@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-1091855'>El reconocimiento facial no es solo para personas: esta gatera deja fuera a los animales que no reconoce</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-1091855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/reconocimiento-facial-no-solo-personas-gatera-deja-fuera-animales-no-reconoce-2756255.jpg' alt='El reconocimiento facial no es solo para personas: esta gatera deja fuera a los animales que no reconoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-menos-20-euros-amazon-prime-day-2022-1091575'>Chollos de menos de 20 euros por el Amazon Prime Day 2022 que son irrepetibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-menos-20-euros-amazon-prime-day-2022-1091575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/almacen-lleno-cajas-robots-organizadores-2755669.jpg' alt='Chollos de menos de 20 euros por el Amazon Prime Day 2022 que son irrepetibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2756465.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591'>PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885'>Cómo prevenir y tratar las venas varicosas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-prevenir-tratar-venas-varicosas-2756257.jpg' alt='Cómo prevenir y tratar las venas varicosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577'>6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar' />
     </a>
 </div>
 
