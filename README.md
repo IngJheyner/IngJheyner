@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-poco-acaba-estrenar-ya-baja-150eu-amazon-prime-day-2022-1091877'>El móvil más potente de POCO se acaba de estrenar y ya baja 150€ por el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-poco-acaba-estrenar-ya-baja-150eu-amazon-prime-day-2022-1091877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='El móvil más potente de POCO se acaba de estrenar y ya baja 150€ por el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-explotado-cohete-elon-musk-nos-debia-llevar-marte-video-1092165'>Así ha explotado el cohete de Elon Musk que nos debía llevar a Marte (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ha-explotado-cohete-elon-musk-nos-debia-llevar-marte-video-1092165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg' alt='Así ha explotado el cohete de Elon Musk que nos debía llevar a Marte (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151'>Los 30 juegos gratis para PC que puedes conseguir en el Prime Day</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-juegos-gratis-pc-puedes-conseguir-prime-day-2756525.jpg' alt='Los 30 juegos gratis para PC que puedes conseguir en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-fotografia-hecha-telescopio-james-webb-muestra-miles-galaxias-lejanas-todo-color-1092131'>La primera fotografía hecha por el telescopio James Webb muestra miles de galaxias lejanas a todo color</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-fotografia-hecha-telescopio-james-webb-muestra-miles-galaxias-lejanas-todo-color-1092131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-imagen-todo-color-telescopio-espacial-james-webb-nasa-2756501.jpg' alt='La primera fotografía hecha por el telescopio James Webb muestra miles de galaxias lejanas a todo color' />
     </a>
 </div>
 
