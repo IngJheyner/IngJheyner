@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macos-ya-cuenta-version-nativa-whatsapp-hemos-probado-1092167'>macOS ya cuenta con su versión nativa de WhatsApp, la hemos probado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macos-ya-cuenta-version-nativa-whatsapp-hemos-probado-1092167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-macos-nativo-2756537.jpg' alt='macOS ya cuenta con su versión nativa de WhatsApp, la hemos probado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/trucos-consejos-dgt-conducir-durante-ola-calor-1092141'>Trucos y consejos de la DGT para conducir durante esta ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/trucos-consejos-dgt-conducir-durante-ola-calor-1092141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/conducir-amanecer-2392235.jpg' alt='Trucos y consejos de la DGT para conducir durante esta ola de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-a97-5g-ya-oficial-procesador-mediatek-12-gb-ram-mucho-1092119'>El Oppo A97 5G ya es oficial: procesador MediaTek, 12 GB de RAM y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-a97-5g-ya-oficial-procesador-mediatek-12-gb-ram-mucho-1092119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oppo-a97-5g-2756479.jpg' alt='El Oppo A97 5G ya es oficial: procesador MediaTek, 12 GB de RAM y mucho más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ofertas-ps-plus-donde-sale-barato-prime-day-2022-1090869'>Ofertas PS Plus: dónde sale más barato en el Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ofertas-ps-plus-donde-sale-barato-prime-day-2022-1090869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ps-plus-2754605.jpg' alt='Ofertas PS Plus: dónde sale más barato en el Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-calor-amazon-prime-day-2022-aire-acondicionado-portatil-solo-199-euros-1090395'>Chollo contra el calor en el Amazon Prime Day 2022: aire acondicionado portátil ¡por solo 199 euros!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-calor-amazon-prime-day-2022-aire-acondicionado-portatil-solo-199-euros-1090395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comfee-mppha-07crn7-2753661.jpg' alt='Chollo contra el calor en el Amazon Prime Day 2022: aire acondicionado portátil ¡por solo 199 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-solo-15-kg-peso-portatil-barato-huawei-gangas-amazon-prime-day-1091219'>Windows 11 y solo 1,5 kg de peso: este portátil barato de Huawei es una de las gangas del Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-solo-15-kg-peso-portatil-barato-huawei-gangas-amazon-prime-day-1091219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/huawei-matebook-d15-2369105.jpg' alt='Windows 11 y solo 1,5 kg de peso: este portátil barato de Huawei es una de las gangas del Amazon Prime Day' />
     </a>
 </div>
 
