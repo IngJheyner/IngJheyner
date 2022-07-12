@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-amazon-prime-day-2022-1092127'>Si no tienes robot aspirador, estos son los mejores del Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-amazon-prime-day-2022-1092127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-tienes-robot-aspirador-estos-son-mejores-amazon-prime-day-2022-2756491.jpg' alt='Si no tienes robot aspirador, estos son los mejores del Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-arruina-aplicacion-youtube-chromecast-antiguos-1092385'>Google arruina la aplicación de YouTube en los Chromecast más antiguos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-arruina-aplicacion-youtube-chromecast-antiguos-1092385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='Google arruina la aplicación de YouTube en los Chromecast más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-enciende-cafetera-amazon-rebaja-enchufe-wifi-prime-day-2022-deja-mitad-precio-1089733'>Alexa, enciende la cafetera: Amazon rebaja su enchufe WiFi en el Prime Day 2022 y lo deja a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alexa-enciende-cafetera-amazon-rebaja-enchufe-wifi-prime-day-2022-deja-mitad-precio-1089733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/amazon-smart-plug-2034903.jpg' alt='Alexa, enciende la cafetera: Amazon rebaja su enchufe WiFi en el Prime Day 2022 y lo deja a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275'>Nothing Phone (1), primeras impresiones del móvil más esperado de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-primeras-impresiones-2756901.jpg' alt='Nothing Phone (1), primeras impresiones del móvil más esperado de 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179'>Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-2754957.jpg' alt='Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-nueva-edicion-economica-cancelacion-ruido-llamadas-1092423'>HUAWEI Freebuds SE, nueva edición económica con cancelación de ruido en llamadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-nueva-edicion-economica-cancelacion-ruido-llamadas-1092423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-2757095.jpg' alt='HUAWEI Freebuds SE, nueva edición económica con cancelación de ruido en llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-1092389'>Hisense apuesta por paneles OLED, Mini-LED y QLED para su nueva línea de televisores que ha presentado en el día de hoy</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-1092389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-2757005.jpg' alt='Hisense apuesta por paneles OLED, Mini-LED y QLED para su nueva línea de televisores que ha presentado en el día de hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243'>Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-2732999.jpg' alt='Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei' />
     </a>
 </div>
 
