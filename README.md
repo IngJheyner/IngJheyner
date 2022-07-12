@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455'>Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-2757241.jpg' alt='Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479'>Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nominados-emmy-hbo-max-arrasa-juego-calamar-hace-historia-2757239.jpg' alt='Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185'>La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cosori-2443375.jpg' alt='La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463'>El sencillo gesto que puede salvar tu móvil en plena ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-arena-playa-2757191.jpg' alt='El sencillo gesto que puede salvar tu móvil en plena ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-1092417'>El realme GT 2 Master Explorer Edition ya es oficial: 100 W de carga rápida y Snapdragon 8+ Gen 1 para este nuevo buque insignia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-1092417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-2757167.jpg' alt='El realme GT 2 Master Explorer Edition ya es oficial: 100 W de carga rápida y Snapdragon 8+ Gen 1 para este nuevo buque insignia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-oxido-etileno-helados-marcas-populares-consumidas-1092459'>Alerta sanitaria por óxido de etileno en los helados de una de las marcas más populares y consumidas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-oxido-etileno-helados-marcas-populares-consumidas-1092459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/helado-vainilla-2757185.jpg' alt='Alerta sanitaria por óxido de etileno en los helados de una de las marcas más populares y consumidas' />
     </a>
 </div>
 
