@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macos-ya-cuenta-version-nativa-whatsapp-hemos-probado-1092167'>macOS ya cuenta con su versión nativa de WhatsApp, la hemos probado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macos-ya-cuenta-version-nativa-whatsapp-hemos-probado-1092167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-macos-nativo-2756537.jpg' alt='macOS ya cuenta con su versión nativa de WhatsApp, la hemos probado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-explotado-cohete-elon-musk-nos-debia-llevar-marte-video-1092165'>Así ha explotado el cohete de Elon Musk que nos debía llevar a Marte (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ha-explotado-cohete-elon-musk-nos-debia-llevar-marte-video-1092165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/spacex-nave-espacial-2514031.jpg' alt='Así ha explotado el cohete de Elon Musk que nos debía llevar a Marte (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/trucos-consejos-dgt-conducir-durante-ola-calor-1092141'>Trucos y consejos de la DGT para conducir durante esta ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/trucos-consejos-dgt-conducir-durante-ola-calor-1092141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/conducir-amanecer-2392235.jpg' alt='Trucos y consejos de la DGT para conducir durante esta ola de calor' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidoras-aceite-baratas-oferta-amazon-prime-day-2022-1090641'>Freidoras sin aceite baratas en oferta en el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/freidoras-aceite-baratas-oferta-amazon-prime-day-2022-1090641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg' alt='Freidoras sin aceite baratas en oferta en el Amazon Prime Day 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-a97-5g-ya-oficial-procesador-mediatek-12-gb-ram-mucho-1092119'>El Oppo A97 5G ya es oficial: procesador MediaTek, 12 GB de RAM y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-a97-5g-ya-oficial-procesador-mediatek-12-gb-ram-mucho-1092119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oppo-a97-5g-2756479.jpg' alt='El Oppo A97 5G ya es oficial: procesador MediaTek, 12 GB de RAM y mucho más' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-1092189'>Así funciona la IA europea que juzga tu cara con un selfie: adivina tu edad y peso y te dice cómo de normal eres </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-1092189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-2756577.jpg' alt='Así funciona la IA europea que juzga tu cara con un selfie: adivina tu edad y peso y te dice cómo de normal eres ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ofertas-xbox-game-pass-prime-day-2022-donde-conseguirlo-barato-1090879'>Ofertas Xbox Game Pass en el Prime Day 2022: dónde conseguirlo más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ofertas-xbox-game-pass-prime-day-2022-donde-conseguirlo-barato-1090879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xbox-game-pass-2754617.jpg' alt='Ofertas Xbox Game Pass en el Prime Day 2022: dónde conseguirlo más barato' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151'>Los 30 juegos gratis para PC que puedes conseguir en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-juegos-gratis-pc-puedes-conseguir-prime-day-2756525.jpg' alt='Los 30 juegos gratis para PC que puedes conseguir en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ofertas-ps-plus-donde-sale-barato-prime-day-2022-1090869'>Ofertas PS Plus: dónde sale más barato en el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ofertas-ps-plus-donde-sale-barato-prime-day-2022-1090869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ps-plus-2754605.jpg' alt='Ofertas PS Plus: dónde sale más barato en el Prime Day 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-fotografia-hecha-telescopio-james-webb-muestra-miles-galaxias-lejanas-todo-color-1092131'>La primera fotografía hecha por el telescopio James Webb muestra miles de galaxias lejanas a todo color</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-fotografia-hecha-telescopio-james-webb-muestra-miles-galaxias-lejanas-todo-color-1092131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primera-imagen-todo-color-telescopio-espacial-james-webb-nasa-2756501.jpg' alt='La primera fotografía hecha por el telescopio James Webb muestra miles de galaxias lejanas a todo color' />
     </a>
 </div>
 
