@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881'>55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-amazon-rastrea-busquedas-prime-day-2022-1092365'>Así es como Amazon rastrea tus búsquedas para el Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-amazon-rastrea-busquedas-prime-day-2022-1092365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Así es como Amazon rastrea tus búsquedas para el Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbina-permite-luz-ilimitada-menos-20-anos-poco-1000-euros-1092347'>Esta turbina permite luz ilimitada para al menos 20 años por poco más de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/turbina-permite-luz-ilimitada-menos-20-anos-poco-1000-euros-1092347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/avatartm-small-wind-turbine-2756937.jpg' alt='Esta turbina permite luz ilimitada para al menos 20 años por poco más de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327'>Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-nos-han-gustado-ultimamente-rebajado-31-amazon-prime-day-2022-1090327'>Uno de los auriculares que más nos han gustado últimamente está rebajado en un 31% en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-nos-han-gustado-ultimamente-rebajado-31-amazon-prime-day-2022-1090327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-soundcore-liberty-3-pro-2600497.jpg' alt='Uno de los auriculares que más nos han gustado últimamente está rebajado en un 31% en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bluetooth-anade-ultimo-elemento-estandar-bluetooth-audio-da-pistoletazo-salida-fabricantes-incluyan-dispositivos-1092283'>Bluetooth añade un último elemento a su estándar Bluetooth LE Audio y da el pistoletazo de salida para que los fabricantes lo incluyan en sus dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bluetooth-anade-ultimo-elemento-estandar-bluetooth-audio-da-pistoletazo-salida-fabricantes-incluyan-dispositivos-1092283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/bluetooth-2560687.jpg' alt='Bluetooth añade un último elemento a su estándar Bluetooth LE Audio y da el pistoletazo de salida para que los fabricantes lo incluyan en sus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/historico-abandona-barco-nikon-retira-mercado-camaras-reflex-1092293'>Un histórico abandona el barco: Nikon se retira del mercado de las cámaras réflex</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/historico-abandona-barco-nikon-retira-mercado-camaras-reflex-1092293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/nikon-d3500-2249919.jpg' alt='Un histórico abandona el barco: Nikon se retira del mercado de las cámaras réflex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-estos-productos-oferta-amazon-prime-day-2022-son-mejores-mercado-1089253'>Los hemos probado: estos productos en oferta en el Amazon Prime Day 2022 son de los mejores del mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hemos-probado-estos-productos-oferta-amazon-prime-day-2022-son-mejores-mercado-1089253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531763.jpg' alt='Los hemos probado: estos productos en oferta en el Amazon Prime Day 2022 son de los mejores del mercado' />
     </a>
 </div>
 
