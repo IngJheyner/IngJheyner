@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-menos-20-euros-amazon-prime-day-2022-1091575'>Chollos de menos de 20 euros por el Amazon Prime Day 2022 que son irrepetibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chollos-menos-20-euros-amazon-prime-day-2022-1091575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/almacen-lleno-cajas-robots-organizadores-2755669.jpg' alt='Chollos de menos de 20 euros por el Amazon Prime Day 2022 que son irrepetibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/capturas-google-earth-revelan-construccion-arma-antisatelite-ruso-ha-comenzado-1092241'>Capturas de Google Earth revelan que la construcción del arma antisatélite ruso ha comenzado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/capturas-google-earth-revelan-construccion-arma-antisatelite-ruso-ha-comenzado-1092241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/capturas-google-earth-revelan-construccion-arma-antisatelite-ruso-ha-comenzado-2756685.jpg' alt='Capturas de Google Earth revelan que la construcción del arma antisatélite ruso ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-potente-poco-acaba-estrenar-ya-baja-150eu-amazon-prime-day-2022-1091877'>El móvil más potente de POCO se acaba de estrenar y ya baja 150€ por el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-potente-poco-acaba-estrenar-ya-baja-150eu-amazon-prime-day-2022-1091877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-f4-gt-2685173.jpg' alt='El móvil más potente de POCO se acaba de estrenar y ya baja 150€ por el Amazon Prime Day 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/freidoras-aceite-baratas-oferta-amazon-prime-day-2022-1090641'>Freidoras sin aceite baratas en oferta en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/freidoras-aceite-baratas-oferta-amazon-prime-day-2022-1090641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cosori-817915025574-2505521.jpg' alt='Freidoras sin aceite baratas en oferta en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-1092189'>Así funciona la IA europea que juzga tu cara con un selfie: adivina tu edad y peso y te dice cómo de normal eres </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-1092189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-ia-europea-juzga-cara-selfie-adivina-edad-peso-te-dice-como-normal-eres-2756577.jpg' alt='Así funciona la IA europea que juzga tu cara con un selfie: adivina tu edad y peso y te dice cómo de normal eres ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151'>Los 30 juegos gratis para PC que puedes conseguir en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/30-juegos-gratis-pc-puedes-conseguir-prime-day-1092151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-juegos-gratis-pc-puedes-conseguir-prime-day-2756525.jpg' alt='Los 30 juegos gratis para PC que puedes conseguir en el Prime Day' />
     </a>
 </div>
 
