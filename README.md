@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1092097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2756465.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-moviles-amazon-prime-day-2022-1089211'>Amazon Prime Day 2022: mejores ofertas en móviles que vas encontrar hoy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-moviles-amazon-prime-day-2022-1089211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/accesorios-galaxy-z-fold-3-2485885.jpg' alt='Amazon Prime Day 2022: mejores ofertas en móviles que vas encontrar hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591'>PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ps5-prime-day-2022-como-comprar-nueva-consola-sony-prime-day-amazon-1091591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='PS5 en el Prime Day 2022: cómo comprar la nueva consola de Sony en el Prime Day de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885'>Cómo prevenir y tratar las venas varicosas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-prevenir-tratar-venas-varicosas-varices-1091885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-prevenir-tratar-venas-varicosas-2756257.jpg' alt='Cómo prevenir y tratar las venas varicosas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577'>6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/6-juegos-ps5-oferta-amazon-prime-day-2022-no-puedes-dejar-escapar-1090577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='6 juegos de PS5 en oferta por el Amazon Prime Day 2022 que no puedes dejar escapar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-portatiles-amazon-prime-day-2022-1089109'>Mejores ofertas de portátiles en Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-portatiles-amazon-prime-day-2022-1089109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg' alt='Mejores ofertas de portátiles en Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/descuentos-apple-amazon-prime-day-2022-1089731'>Descuentos Apple en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/descuentos-apple-amazon-prime-day-2022-1089731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Descuentos Apple en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183'>10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo' />
     </a>
 </div>
 
