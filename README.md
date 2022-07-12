@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-ereader-baja-menos-100-euros-fire-hd-10-tablet-referencia-amazon-1089317'>Tablet, ereader y más: baja a menos de 100 euros la Fire HD 10, la tablet de referencia de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-ereader-baja-menos-100-euros-fire-hd-10-tablet-referencia-amazon-1089317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-amazon-fire-hd-10-2451725.jpg' alt='Tablet, ereader y más: baja a menos de 100 euros la Fire HD 10, la tablet de referencia de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881'>55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327'>Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-nos-han-gustado-ultimamente-rebajado-31-amazon-prime-day-2022-1090327'>Uno de los auriculares que más nos han gustado últimamente está rebajado en un 31% en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-nos-han-gustado-ultimamente-rebajado-31-amazon-prime-day-2022-1090327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-soundcore-liberty-3-pro-2600497.jpg' alt='Uno de los auriculares que más nos han gustado últimamente está rebajado en un 31% en el Amazon Prime Day 2022' />
     </a>
 </div>
 
