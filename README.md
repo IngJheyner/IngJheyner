@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-ereader-baja-menos-100-euros-fire-hd-10-tablet-referencia-amazon-1089317'>Tablet, ereader y más: baja a menos de 100 euros la Fire HD 10, la tablet de referencia de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-ereader-baja-menos-100-euros-fire-hd-10-tablet-referencia-amazon-1089317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/galeria-amazon-fire-hd-10-2451725.jpg' alt='Tablet, ereader y más: baja a menos de 100 euros la Fire HD 10, la tablet de referencia de Amazon' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179'>Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-2754957.jpg' alt='Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881'>55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/55-km-autonomia-patinete-electrico-planta-cara-monopolio-xiaomi-amazon-prime-day-2022-1091881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg' alt='55 km de autonomía: este patinete eléctrico planta cara al monopolio Xiaomi en el Amazon Prime Day 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-nueva-edicion-economica-cancelacion-ruido-llamadas-1092423'>HUAWEI Freebuds SE, nueva edición económica con cancelación de ruido en llamadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-freebuds-nueva-edicion-economica-cancelacion-ruido-llamadas-1092423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-2757095.jpg' alt='HUAWEI Freebuds SE, nueva edición económica con cancelación de ruido en llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-amazon-rastrea-busquedas-prime-day-2022-1092365'>Así es como Amazon rastrea tus búsquedas para el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-amazon-rastrea-busquedas-prime-day-2022-1092365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/consejos-comprar-barato-prime-day-2022-2750637.jpg' alt='Así es como Amazon rastrea tus búsquedas para el Prime Day 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-1092389'>Hisense apuesta por paneles OLED, Mini-LED y QLED para su nueva línea de televisores que ha presentado en el día de hoy</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-1092389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-apuesta-paneles-oled-mini-led-qled-nueva-linea-televisores-ha-presentado-dia-hoy-2757005.jpg' alt='Hisense apuesta por paneles OLED, Mini-LED y QLED para su nueva línea de televisores que ha presentado en el día de hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbina-permite-luz-ilimitada-menos-20-anos-poco-1000-euros-1092347'>Esta turbina permite luz ilimitada para al menos 20 años por poco más de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/turbina-permite-luz-ilimitada-menos-20-anos-poco-1000-euros-1092347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/avatartm-small-wind-turbine-2756937.jpg' alt='Esta turbina permite luz ilimitada para al menos 20 años por poco más de 1.000 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243'>Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-heredero-oneplus-carl-pei-1092243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nothing-phone-1-2732999.jpg' alt='Así es el Nothing Phone (1), el heredero de la OnePlus de Carl Pei' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327'>Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-segunda-generacion-gafas-ar-vr-apple-nueva-opcion-economica-1092327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/gafas-apple-2538187.jpg' alt='Ya tenemos fecha para la segunda generación de las gafas AR/VR de Apple y de una nueva opción económica' />
+    <h4><a href='https://computerhoy.com/noticias/life/invento-loco-lidl-mantiene-bebidas-frias-tierra-necesidad-electricidad-1092395'>El invento más loco de Lidl que mantiene tus bebidas frías bajo tierra sin necesidad de electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/invento-loco-lidl-mantiene-bebidas-frias-tierra-necesidad-electricidad-1092395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/invento-lidl-bebidas-2757051.jpg' alt='El invento más loco de Lidl que mantiene tus bebidas frías bajo tierra sin necesidad de electricidad' />
     </a>
 </div>
 
