@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-amazon-prime-day-2022-1092127'>Si no tienes robot aspirador, estos son los mejores del Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-amazon-prime-day-2022-1092127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-tienes-robot-aspirador-estos-son-mejores-amazon-prime-day-2022-2756491.jpg' alt='Si no tienes robot aspirador, estos son los mejores del Amazon Prime Day 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185'>La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-80000-valoraciones-amazon-baja-precio-prime-day-2022-1092185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cosori-2443375.jpg' alt='La freidora sin aceite con más de 80.000 valoraciones en Amazon baja de precio en el Prime Day 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-arruina-aplicacion-youtube-chromecast-antiguos-1092385'>Google arruina la aplicación de YouTube en los Chromecast más antiguos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-arruina-aplicacion-youtube-chromecast-antiguos-1092385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/youtube-roto-2397733.jpg' alt='Google arruina la aplicación de YouTube en los Chromecast más antiguos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-ipad-pantalla-oled-estaria-cada-vez-cerca-ser-anunciado-1092439'>El primer iPad con pantalla OLED estaría cada vez más cerca de ser anunciado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-ipad-pantalla-oled-estaria-cada-vez-cerca-ser-anunciado-1092439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg' alt='El primer iPad con pantalla OLED estaría cada vez más cerca de ser anunciado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alexa-enciende-cafetera-amazon-rebaja-enchufe-wifi-prime-day-2022-deja-mitad-precio-1089733'>Alexa, enciende la cafetera: Amazon rebaja su enchufe WiFi en el Prime Day 2022 y lo deja a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alexa-enciende-cafetera-amazon-rebaja-enchufe-wifi-prime-day-2022-deja-mitad-precio-1089733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/amazon-smart-plug-2034903.jpg' alt='Alexa, enciende la cafetera: Amazon rebaja su enchufe WiFi en el Prime Day 2022 y lo deja a mitad de precio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463'>El sencillo gesto que puede salvar tu móvil en plena ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-gesto-puede-salvar-movil-plena-ola-calor-1092463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-arena-playa-2757191.jpg' alt='El sencillo gesto que puede salvar tu móvil en plena ola de calor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275'>Nothing Phone (1), primeras impresiones del móvil más esperado de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/nothing-phone-1-primeras-impresiones-unboxing-movil-esperado-2022-1092275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-primeras-impresiones-2756901.jpg' alt='Nothing Phone (1), primeras impresiones del móvil más esperado de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-1092417'>El realme GT 2 Master Explorer Edition ya es oficial: 100 W de carga rápida y Snapdragon 8+ Gen 1 para este nuevo buque insignia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-1092417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-2-master-explorer-edition-ya-oficial-100-w-carga-rapida-snapdragon-8-gen-1-nuevo-buque-insignia-2757167.jpg' alt='El realme GT 2 Master Explorer Edition ya es oficial: 100 W de carga rápida y Snapdragon 8+ Gen 1 para este nuevo buque insignia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179'>Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-1091179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventiladores-baratos-verano-oferta-amazon-prime-day-2022-2754957.jpg' alt='Ventiladores baratos para el verano en oferta por el Amazon Prime Day 2022' />
+    <h4><a href='https://computerhoy.com/noticias/life/alerta-sanitaria-oxido-etileno-helados-marcas-populares-consumidas-1092459'>Alerta sanitaria por óxido de etileno en los helados de una de las marcas más populares y consumidas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alerta-sanitaria-oxido-etileno-helados-marcas-populares-consumidas-1092459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/helado-vainilla-2757185.jpg' alt='Alerta sanitaria por óxido de etileno en los helados de una de las marcas más populares y consumidas' />
     </a>
 </div>
 
