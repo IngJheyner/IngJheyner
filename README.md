@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-oficial-presentacion-asus-zenfone-9-1092743'>Ya tenemos fecha oficial de presentación del Asus Zenfone 9, y viene con todo: Snapdragon 8+ Gen 1 y hasta 16 GB de RAM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-oficial-presentacion-asus-zenfone-9-1092743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-2752493.jpg' alt='Ya tenemos fecha oficial de presentación del Asus Zenfone 9, y viene con todo: Snapdragon 8+ Gen 1 y hasta 16 GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aires-acondicionados-portatiles-oferta-amazon-prime-day-2022-1092467'>Aires acondicionados portátiles en oferta por el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aires-acondicionados-portatiles-oferta-amazon-prime-day-2022-1092467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aires-acondicionados-portatiles-oferta-amazon-prime-day-2022-2757209.jpg' alt='Aires acondicionados portátiles en oferta por el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1092733'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1092733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2757477.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729'>Cómo limpiar el cuero de sofás y ropa sin dañarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-cuero-sofas-ropa-danarlo-2757473.jpg' alt='Cómo limpiar el cuero de sofás y ropa sin dañarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727'>Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-ubot-aichuang-sierra-electrica-xiaomi-2757471.jpg' alt='Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495'>Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primeras-imagenes-telescopio-webb-son-revolucion-estrellas-agonizantes-choques-galaxias-foto-hace-4600-millones-anos-2757259.jpg' alt='Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años' />
     </a>
 </div>
 
