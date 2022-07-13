@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495'>Hay más imágenes del telescopio Webb de la NASA que nadie muestra y son mucho mejores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primeras-imagenes-telescopio-webb-son-revolucion-estrellas-agonizantes-choques-galaxias-foto-hace-4600-millones-anos-2757259.jpg' alt='Hay más imágenes del telescopio Webb de la NASA que nadie muestra y son mucho mejores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buena-idea-optar-envio-lento-prime-day-amazon-1092785'>Por qué es buena idea optar por el envío lento este Prime Day de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buena-idea-optar-envio-lento-prime-day-amazon-1092785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Por qué es buena idea optar por el envío lento este Prime Day de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/amazon-prime-day-2022-estas-son-ofertas-tecnologia-mayor-descuento-1091527'>Amazon Prime Day 2022: estas son las ofertas en tecnología con mayor descuento</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/amazon-prime-day-2022-estas-son-ofertas-tecnologia-mayor-descuento-1091527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/amazon-prime-day-2100521.jpg' alt='Amazon Prime Day 2022: estas son las ofertas en tecnología con mayor descuento' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183'>10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/solo-tres-anos-ha-durado-colaboracion-prometia-larga-jony-ive-apple-dejar-compania-1092751'>Tres años ha durado la colaboración que prometía larga Jony Ive con Apple tras dejar la compañía, y podría ser bueno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/solo-tres-anos-ha-durado-colaboracion-prometia-larga-jony-ive-apple-dejar-compania-1092751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/jony-ive-charlando-tim-cook-2757487.jpg' alt='Tres años ha durado la colaboración que prometía larga Jony Ive con Apple tras dejar la compañía, y podría ser bueno' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronostican-cuando-shiba-inu-podria-llegar-valer-dolar-1092769'>Pronostican cuando Shiba Inu podría llegar a valer un dólar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pronostican-cuando-shiba-inu-podria-llegar-valer-dolar-1092769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Pronostican cuando Shiba Inu podría llegar a valer un dólar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-elimina-4-aplicaciones-play-store-malware-joker-revisa-tienes-instalada-alguna-ellas-1092247'>Google elimina 4 aplicaciones de la Play Store con el malware Joker, revisa si tienes instalada alguna de ellas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-elimina-4-aplicaciones-play-store-malware-joker-revisa-tienes-instalada-alguna-ellas-1092247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/malware-android-2310787.jpg' alt='Google elimina 4 aplicaciones de la Play Store con el malware Joker, revisa si tienes instalada alguna de ellas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-169-euros-chollo-amazon-prime-day-2022-promete-arrasar-1092209'>Una Roomba por 169 euros: este chollo del Amazon Prime Day 2022 promete arrasar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/roomba-169-euros-chollo-amazon-prime-day-2022-promete-arrasar-1092209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/irobot-roomba-692-2332085.jpg' alt='Una Roomba por 169 euros: este chollo del Amazon Prime Day 2022 promete arrasar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-oficial-presentacion-asus-zenfone-9-1092743'>Ya tenemos fecha oficial de presentación del Asus Zenfone 9, y viene con todo: Snapdragon 8+ Gen 1 y hasta 16 GB de RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-tenemos-fecha-oficial-presentacion-asus-zenfone-9-1092743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-caracteristicas-top-rediseno-nuevo-smartphone-asus-2752493.jpg' alt='Ya tenemos fecha oficial de presentación del Asus Zenfone 9, y viene con todo: Snapdragon 8+ Gen 1 y hasta 16 GB de RAM' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-chip-qualcomm-optimizado-smartwatches-como-competencia-exynos-popular-galaxy-watch-4-1092761'>Nuevo chip Qualcomm optimizado para smartwatches como competencia del Exynos del popular Galaxy Watch 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-chip-qualcomm-optimizado-smartwatches-como-competencia-exynos-popular-galaxy-watch-4-1092761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/snapdragon-wear-4100-1980607.jpg' alt='Nuevo chip Qualcomm optimizado para smartwatches como competencia del Exynos del popular Galaxy Watch 4' />
     </a>
 </div>
 
