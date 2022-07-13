@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969'>Cuál es el país más pequeño de África</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más pequeño de África' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935'>Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tinder-2708837.jpg' alt='Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/patinetes-pueden-optar-subvencion-150-euros-comunidad-madrid-904595'>Qué patinetes pueden optar a la subvención de hasta 150 euros de la Comunidad de Madrid</a></h4>
     <a href='https://computerhoy.com/reportajes/patinetes-pueden-optar-subvencion-150-euros-comunidad-madrid-904595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mujer-subida-patinete-electrico-2268481.jpg' alt='Qué patinetes pueden optar a la subvención de hasta 150 euros de la Comunidad de Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/analistas-shiba-inu-dogecoin-son-nuevos-caballos-ganadores-superando-bitcoin-1092909'>Según analistas, Shiba Inu y Dogecoin son los nuevos caballos ganadores, superando a Bitcoin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/analistas-shiba-inu-dogecoin-son-nuevos-caballos-ganadores-superando-bitcoin-1092909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-dogecoin-2527041.jpg' alt='Según analistas, Shiba Inu y Dogecoin son los nuevos caballos ganadores, superando a Bitcoin' />
     </a>
 </div>
 
