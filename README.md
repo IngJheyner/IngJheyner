@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/billetes-bonos-trayectos-transporte-publico-seran-gratis-partir-septiembre-como-solicitarlos-1092801'>Billetes, bonos y trayectos en transporte público que serán gratis a partir de septiembre y cómo solicitarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/billetes-bonos-trayectos-transporte-publico-seran-gratis-partir-septiembre-como-solicitarlos-1092801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg' alt='Billetes, bonos y trayectos en transporte público que serán gratis a partir de septiembre y cómo solicitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/son-dos-imagenes-telescopio-espacial-james-webb-tomo-jupiter-han-pasado-alto-1092827'>Esta son las dos imágenes que el telescopio espacial James Webb tomó de Júpiter y que se han pasado por alto</a></h4>
+    <a href='https://computerhoy.com/noticias/son-dos-imagenes-telescopio-espacial-james-webb-tomo-jupiter-han-pasado-alto-1092827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/james-webb-2757603.jpg' alt='Esta son las dos imágenes que el telescopio espacial James Webb tomó de Júpiter y que se han pasado por alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aspirinas-plantas-pueden-ayudar-combatir-cambio-climatico-1092787'>Las aspirinas para plantas que pueden ayudar a combatir el cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aspirinas-plantas-pueden-ayudar-combatir-cambio-climatico-1092787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aspirinas-plantas-pueden-ayudar-cambio-climatico-2757545.jpg' alt='Las aspirinas para plantas que pueden ayudar a combatir el cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ofertas-bicicletas-electricas-amazon-prime-day-2022-1091665'>Amazon también ha rebajado durante Prime Day esta colección de bicicletas eléctricas con grandes descuentos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ofertas-bicicletas-electricas-amazon-prime-day-2022-1091665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Amazon también ha rebajado durante Prime Day esta colección de bicicletas eléctricas con grandes descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buena-idea-optar-envio-lento-prime-day-amazon-1092785'>Por qué es buena idea optar por el envío lento este Prime Day de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buena-idea-optar-envio-lento-prime-day-amazon-1092785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Por qué es buena idea optar por el envío lento este Prime Day de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183'>10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-productos-xiaomi-oferta-prime-day-estan-precio-saldo-1089183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg' alt='10 productos de Xiaomi en oferta por el Prime Day que están a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronostican-cuando-shiba-inu-podria-llegar-valer-dolar-1092769'>Pronostican cuando Shiba Inu podría llegar a valer un dólar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pronostican-cuando-shiba-inu-podria-llegar-valer-dolar-1092769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Pronostican cuando Shiba Inu podría llegar a valer un dólar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/roomba-169-euros-chollo-amazon-prime-day-2022-promete-arrasar-1092209'>Una Roomba por 169 euros: este chollo del Amazon Prime Day 2022 promete arrasar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/roomba-169-euros-chollo-amazon-prime-day-2022-promete-arrasar-1092209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/irobot-roomba-692-2332085.jpg' alt='Una Roomba por 169 euros: este chollo del Amazon Prime Day 2022 promete arrasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-chip-qualcomm-optimizado-smartwatches-como-competencia-exynos-popular-galaxy-watch-4-1092761'>Nuevo chip Qualcomm optimizado para smartwatches como competencia del Exynos del popular Galaxy Watch 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-chip-qualcomm-optimizado-smartwatches-como-competencia-exynos-popular-galaxy-watch-4-1092761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/snapdragon-wear-4100-1980607.jpg' alt='Nuevo chip Qualcomm optimizado para smartwatches como competencia del Exynos del popular Galaxy Watch 4' />
     </a>
 </div>
 
