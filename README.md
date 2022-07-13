@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-ofertas-prime-day-2022-1092783'>Vuelta al Cole: ahorra con estas ofertas en el Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-ofertas-prime-day-2022-1092783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vuelta-cole-ahorra-estas-ofertas-prime-day-2022-2757525.jpg' alt='Vuelta al Cole: ahorra con estas ofertas en el Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fibra-no-da-100-cable-red-ultrarrapido-arreglara-menos-10-euros-1091241'>Si tu fibra no da el 100%, este cable de red ultrarrápido lo arreglará y por menos de 10 euros </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fibra-no-da-100-cable-red-ultrarrapido-arreglara-menos-10-euros-1091241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/kabeldirect-2755061.jpg' alt='Si tu fibra no da el 100%, este cable de red ultrarrápido lo arreglará y por menos de 10 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuales-son-horas-perfectas-publicar-twitter-facebook-2022-1092893'>Cuáles son las horas perfectas para publicar en Twitter y Facebook en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuales-son-horas-perfectas-publicar-twitter-facebook-2022-1092893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Cuáles son las horas perfectas para publicar en Twitter y Facebook en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/radio-portatil-necesita-abrir-coche-honda-te-olvidas-llaves-casa-1092851'>Una radio portátil es lo que se necesita para abrir un coche Honda si te olvidas las llaves en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/radio-portatil-necesita-abrir-coche-honda-te-olvidas-llaves-casa-1092851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/precio-honda-civic-2744945.jpg' alt='Una radio portátil es lo que se necesita para abrir un coche Honda si te olvidas las llaves en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-puede-ser-bueno-polemico-helado-chino-no-derrite-ni-fuego-video-1092163'>¡No puede ser bueno! El polémico helado chino que no se derrite ni con el fuego (VÍDEO)</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-puede-ser-bueno-polemico-helado-chino-no-derrite-ni-fuego-video-1092163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-puede-ser-bueno-polemico-helado-chino-no-derrite-ni-fuego-video-2756539.jpg' alt='¡No puede ser bueno! El polémico helado chino que no se derrite ni con el fuego (VÍDEO)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-fitbit-supera-nueva-xiaomi-mi-band-casi-todo-ahora-tambien-precio-1091227'>Esta pulsera de Fitbit supera a la nueva Xiaomi Mi Band en casi todo, y ahora también en precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-fitbit-supera-nueva-xiaomi-mi-band-casi-todo-ahora-tambien-precio-1091227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fitbit-inspire-2-2755029.jpg' alt='Esta pulsera de Fitbit supera a la nueva Xiaomi Mi Band en casi todo, y ahora también en precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-desarrollo-whatsapp-notas-voz-estado-1092805'>Nueva función en desarrollo para WhatsApp, notas de voz en el estado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-desarrollo-whatsapp-notas-voz-estado-1092805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/whatsapp-2626255.jpg' alt='Nueva función en desarrollo para WhatsApp, notas de voz en el estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-stanading-fan-2-oferta-amazon-prime-day-2022-1092261'>El ventilador Xiaomi que consume 1 kW en todo el verano, rebajado en el Amazon Prime Day 2022 a solo 67 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-stanading-fan-2-oferta-amazon-prime-day-2022-1092261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-smart-standing-fan-2-2433707.jpg' alt='El ventilador Xiaomi que consume 1 kW en todo el verano, rebajado en el Amazon Prime Day 2022 a solo 67 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/bmw-ya-cobra-tener-trasero-caliente-comienza-pesadilla-microtransacciones-coches-1092843'>BMW ya cobra por tener el trasero caliente: comienza la pesadilla de las microtransacciones en los coches</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/bmw-ya-cobra-tener-trasero-caliente-comienza-pesadilla-microtransacciones-coches-1092843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/bmw-ix-2137387.jpg' alt='BMW ya cobra por tener el trasero caliente: comienza la pesadilla de las microtransacciones en los coches' />
     </a>
 </div>
 
