@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-monstruo-marino-pelicula-animacion-netflix-1093085'>La nueva película de animación de Netflix que nos gustaría haber visto en el cine</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/el-monstruo-marino-pelicula-animacion-netflix-1093085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='La nueva película de animación de Netflix que nos gustaría haber visto en el cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033'>Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-2758175.jpg' alt='Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467'>Los mejores juegos Android para jugar en compañía en la playa</a></h4>
     <a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-juegos-android-jugar-compania-playa-2757861.jpg' alt='Los mejores juegos Android para jugar en compañía en la playa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969'>Cuál es el país más pequeño de África</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más pequeño de África' />
     </a>
 </div>
 
