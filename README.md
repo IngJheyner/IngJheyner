@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727'>Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-ubot-aichuang-sierra-electrica-xiaomi-2757471.jpg' alt='Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495'>Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años</a></h4>
     <a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primeras-imagenes-telescopio-webb-son-revolucion-estrellas-agonizantes-choques-galaxias-foto-hace-4600-millones-anos-2757259.jpg' alt='Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455'>Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-2757241.jpg' alt='Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479'>Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nominados-emmy-2022-hbo-max-juego-calamar-1092479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nominados-emmy-hbo-max-arrasa-juego-calamar-hace-historia-2757239.jpg' alt='Nominados a los Emmy: HBO Max arrasa, y El Juego del Calamar y Barack Obama hacen historia' />
     </a>
 </div>
 
