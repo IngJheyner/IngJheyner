@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029'>Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979'>Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_33.jpg' alt='Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935'>Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tinder-2708837.jpg' alt='Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-calidad-diseno-como-pocos-nothing-ear-1-cuestan-59eu-prime-day-2022-1092319'>Cancelación de calidad y diseño como pocos: los Nothing Ear (1) cuestan 59€ en el Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-calidad-diseno-como-pocos-nothing-ear-1-cuestan-59eu-prime-day-2022-1092319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-nothing-ear-1-2421511.jpg' alt='Cancelación de calidad y diseño como pocos: los Nothing Ear (1) cuestan 59€ en el Prime Day 2022' />
     </a>
 </div>
 
