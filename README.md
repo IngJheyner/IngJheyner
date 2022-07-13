@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979'>Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_33.jpg' alt='Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467'>Los mejores juegos Android para jugar en compañía en la playa</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-juegos-android-jugar-compania-playa-2757861.jpg' alt='Los mejores juegos Android para jugar en compañía en la playa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969'>Cuál es el país más pequeño de África</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más pequeño de África' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cancelacion-calidad-diseno-como-pocos-nothing-ear-1-cuestan-59eu-prime-day-2022-1092319'>Cancelación de calidad y diseño como pocos: los Nothing Ear (1) cuestan 59€ en el Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cancelacion-calidad-diseno-como-pocos-nothing-ear-1-cuestan-59eu-prime-day-2022-1092319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/galeria-analisis-nothing-ear-1-2421511.jpg' alt='Cancelación de calidad y diseño como pocos: los Nothing Ear (1) cuestan 59€ en el Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-blade-v40-pro-oficial-nuevo-modelo-gama-media-compania-china-1092955'>El ZTE Blade V40 Pro es oficial: así el nuevo modelo de gama media de la compañía china</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-blade-v40-pro-oficial-nuevo-modelo-gama-media-compania-china-1092955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zte-v40-pro-2757833.jpg' alt='El ZTE Blade V40 Pro es oficial: así el nuevo modelo de gama media de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/patinetes-pueden-optar-subvencion-150-euros-comunidad-madrid-904595'>Qué patinetes pueden optar a la subvención de hasta 150 euros de la Comunidad de Madrid</a></h4>
-    <a href='https://computerhoy.com/reportajes/patinetes-pueden-optar-subvencion-150-euros-comunidad-madrid-904595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/mujer-subida-patinete-electrico-2268481.jpg' alt='Qué patinetes pueden optar a la subvención de hasta 150 euros de la Comunidad de Madrid' />
     </a>
 </div>
 
