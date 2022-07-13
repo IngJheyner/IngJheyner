@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729'>Cómo limpiar el cuero de sofás y ropa sin dañarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-cuero-sofas-ropa-danarlo-2757473.jpg' alt='Cómo limpiar el cuero de sofás y ropa sin dañarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727'>Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-ubot-aichuang-sierra-electrica-taladro-lijadora-xiaomi-1092727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-ubot-aichuang-sierra-electrica-xiaomi-2757471.jpg' alt='Xiaomi UBOT Aichuang, la sierra eléctrica y taladro de Xiaomi (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473'>Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/casi-30-anos-despues-doom-doom-ii-actualizan-anadir-soporte-panoramico-2056289.jpg' alt='Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455'>Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-1092455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spotify-hace-wordle-musical-llamado-heardle-ahora-ya-no-podras-jugar-2757241.jpg' alt='Spotify se hace con el Wordle musical llamado Heardle y ahora ya no podrás jugar más' />
     </a>
 </div>
 
