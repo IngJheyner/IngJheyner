@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1092733'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1092733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2757477.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasaron-primer-dia-amazon-prime-day-2022-1092289'>Estas son las ofertas que arrasaron en el primer día del Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasaron-primer-dia-amazon-prime-day-2022-1092289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Estas son las ofertas que arrasaron en el primer día del Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729'>Cómo limpiar el cuero de sofás y ropa sin dañarlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-cuero-sofas-ropa-1092729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-cuero-sofas-ropa-danarlo-2757473.jpg' alt='Cómo limpiar el cuero de sofás y ropa sin dañarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495'>Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años</a></h4>
     <a href='https://computerhoy.com/noticias/life/primeras-imagenes-telescopio-james-webb-1092495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primeras-imagenes-telescopio-webb-son-revolucion-estrellas-agonizantes-choques-galaxias-foto-hace-4600-millones-anos-2757259.jpg' alt='Las primeras imágenes del telescopio Webb son una revolución: estrellas agonizantes, choques de galaxias y una foto de hace 4.600 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/calor-extremo-haciendo-nintendo-switch-apaguen-forma-automatica-protegerse-1092487'>El calor extremo está haciendo que las Nintendo Switch se apaguen de forma automática para protegerse                                            </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/calor-extremo-haciendo-nintendo-switch-apaguen-forma-automatica-protegerse-1092487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/nintendo-switch-2672431.jpg' alt='El calor extremo está haciendo que las Nintendo Switch se apaguen de forma automática para protegerse                                            ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473'>Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/test-embarazo-ficha-lego-ahora-propio-juego-consiguen-jugar-doom-dentro-doom-1092473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/casi-30-anos-despues-doom-doom-ii-actualizan-anadir-soporte-panoramico-2056289.jpg' alt='Un test de embarazo, una ficha de LEGO y ahora el propio juego: consiguen jugar a DOOM dentro de DOOM' />
     </a>
 </div>
 
