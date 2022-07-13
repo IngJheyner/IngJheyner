@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-cubre-espaldas-recomienda-no-jugar-switch-estos-dias-calor-1093091'>Nintendo se cubre las espaldas y recomienda no jugar a la Switch estos días de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-cubre-espaldas-recomienda-no-jugar-switch-estos-dias-calor-1093091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Nintendo se cubre las espaldas y recomienda no jugar a la Switch estos días de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-cede-presion-redes-vuelve-poner-venta-producto-retirado-1093097'>Mercadona cede a la presión de las redes y vuelve a poner a la venta un producto retirado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-cede-presion-redes-vuelve-poner-venta-producto-retirado-1093097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/salmorejo-2758209.jpg' alt='Mercadona cede a la presión de las redes y vuelve a poner a la venta un producto retirado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/12-productos-supermercado-han-subido-precio-2022-ocu-1093093'>Los 12 productos de supermercado que más han subido de precio en 2022, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/12-productos-supermercado-han-subido-precio-2022-ocu-1093093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cesta-compra-2758205.jpg' alt='Los 12 productos de supermercado que más han subido de precio en 2022, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/el-monstruo-marino-pelicula-animacion-netflix-1093085'>La nueva película de animación de Netflix que nos gustaría haber visto en el cine</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/el-monstruo-marino-pelicula-animacion-netflix-1093085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='La nueva película de animación de Netflix que nos gustaría haber visto en el cine' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033'>Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-2758175.jpg' alt='Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029'>Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979'>Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/renovacion-plegable-razr-2022-motorola-movil-top-1000-euros-1092979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/opinion-motorola-razr-2020_33.jpg' alt='Así es la renovación del plegable Razr 2022 de Motorola, móvil top de más de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467'>Los mejores juegos Android para jugar en compañía en la playa</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/mejores-juegos-android-jugar-compania-playa-1087467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-juegos-android-jugar-compania-playa-2757861.jpg' alt='Los mejores juegos Android para jugar en compañía en la playa' />
     </a>
 </div>
 
