@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033'>Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-1093033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estos-son-nuevos-emojis-aterrizaran-ios-android-mismo-ano-2758175.jpg' alt='Estos son los nuevos emojis que aterrizarán en iOS y Android este mismo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029'>Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-ves-obligado-adelantar-derecha-conductor-recibe-multa-dgt-1093029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/senal-prohibido-adelantar-2397271.jpg' alt='Si te ves obligado a adelantar por la derecha ¿qué conductor recibe la multa de la DGT?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969'>Cuál es el país más pequeño de África</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-africa-1092969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más pequeño de África' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935'>Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tinder-podria-dejar-estar-disponible-moviles-android-google-play-mismo-motivo-fortnite-1092935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tinder-2708837.jpg' alt='Tinder podría dejar de estar disponible para móviles Android en Google Play por el mismo motivo que Fortnite' />
     </a>
 </div>
 
