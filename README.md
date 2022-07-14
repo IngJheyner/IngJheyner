@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/hyundai-ioniq-6-coche-electrico-podria-desbancar-tesla-model-3-autonomia-escandalo-1093729'>Así es el Hyundai Ioniq 6, el coche eléctrico que podría desbancar al Tesla Model 3 con una autonomía de escándalo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/hyundai-ioniq-6-coche-electrico-podria-desbancar-tesla-model-3-autonomia-escandalo-1093729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hyundai-ioniq-6-2759381.jpg' alt='Así es el Hyundai Ioniq 6, el coche eléctrico que podría desbancar al Tesla Model 3 con una autonomía de escándalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721'>Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-peligro-malware-android-desinstala-estas-aplicaciones-ya-mismo-1093711'>Nuevo peligro de malware en Android: desinstala estas aplicaciones ya mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-peligro-malware-android-desinstala-estas-aplicaciones-ya-mismo-1093711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Nuevo peligro de malware en Android: desinstala estas aplicaciones ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-purificador-dyson-sin-aspas-oferta-1093709'>El ventilador purificador Dyson sin aspas, en oferta en su tienda oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-purificador-dyson-sin-aspas-oferta-1093709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dyson-purifier-cool-2758509.jpg' alt='El ventilador purificador Dyson sin aspas, en oferta en su tienda oficial' />
     </a>
 </div>
 
