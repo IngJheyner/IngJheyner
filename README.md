@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953'>El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-naruto-2726111.jpg' alt='El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947'>Beneficios (y algunos riesgos) de cocinar con una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Beneficios (y algunos riesgos) de cocinar con una freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/casco-airbag-ciclistas-ya-realidad-1093427'>El casco con airbag para ciclistas ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/casco-airbag-ciclistas-ya-realidad-1093427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-casco-bici-gafas-proteccion-2620843.jpg' alt='El casco con airbag para ciclistas ya es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383'>Si tu problema es la toma de decisiones: juega a videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-aclara-como-evitar-problemas-sobrecalentamiento-nintendo-switch-jugar-verano-2421241.jpg' alt='Si tu problema es la toma de decisiones: juega a videojuegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923'>Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble</a></h4>
     <a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bongo-serie-connected-cecotec-2439423.jpg' alt='Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367'>Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ultima-beta-android-13-antes-version-final-te-ensenamos-como-instalarla-1093353'>Google lanza la última beta de Android 13 antes de la versión final, te enseñamos cómo instalarla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ultima-beta-android-13-antes-version-final-te-ensenamos-como-instalarla-1093353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-13-2699727.jpg' alt='Google lanza la última beta de Android 13 antes de la versión final, te enseñamos cómo instalarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599'>Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/interfaz-cerebro.jpg' alt='Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa' />
     </a>
 </div>
 
