@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947'>Beneficios (y algunos riesgos) de cocinar con una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Beneficios (y algunos riesgos) de cocinar con una freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953'>El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-naruto-2726111.jpg' alt='El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947'>Beneficios (y algunos riesgos) de cocinar con una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Beneficios (y algunos riesgos) de cocinar con una freidora de aire' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469'>Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383'>Si tu problema es la toma de decisiones: juega a videojuegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-aclara-como-evitar-problemas-sobrecalentamiento-nintendo-switch-jugar-verano-2421241.jpg' alt='Si tu problema es la toma de decisiones: juega a videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923'>Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bongo-serie-connected-cecotec-2439423.jpg' alt='Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble' />
     </a>
 </div>
 
