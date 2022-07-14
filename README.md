@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693'>Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hace-viral-original-forma-convertir-ventilador-aire-acondicionado-muy-casero-1093685'>Se hace viral por su original forma de convertir su ventilador en un aire acondicionado (muy) casero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hace-viral-original-forma-convertir-ventilador-aire-acondicionado-muy-casero-1093685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2759315.jpg' alt='Se hace viral por su original forma de convertir su ventilador en un aire acondicionado (muy) casero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671'>Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-blanca-muerte-windows-como-solucionarlo-2759237.jpg' alt='Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665'>Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/plantas-absorben-calor-refrescan-ambiente-1093595'>8 plantas que absorben el calor y refrescan el ambiente, ¿funcionan?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/plantas-absorben-calor-refrescan-ambiente-1093595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/plantas-absorben-calor-refrescan-ambiente-funcionan-2759057.jpg' alt='8 plantas que absorben el calor y refrescan el ambiente, ¿funcionan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022' />
     </a>
 </div>
 
