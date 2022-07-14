@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665'>Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/plantas-absorben-calor-refrescan-ambiente-1093595'>8 plantas que absorben el calor y refrescan el ambiente, ¿funcionan?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/plantas-absorben-calor-refrescan-ambiente-1093595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/plantas-absorben-calor-refrescan-ambiente-funcionan-2759057.jpg' alt='8 plantas que absorben el calor y refrescan el ambiente, ¿funcionan?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-robot-vacuum-mop-p-robot-aspirador-tambien-friega-suelo-baja-precio-solo-229-euros-2685407.jpg' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625'>Qué es la inflación y cómo te afecta en el día a día</a></h4>
     <a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='Qué es la inflación y cómo te afecta en el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/senor-anillos-los-anillos-poder-trailer-completo-1093637'>Primer tráiler completo de El Señor de los Anillos: Los Anillos de Poder, es tan espectacular como las películas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/senor-anillos-los-anillos-poder-trailer-completo-1093637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-trailer-completo-senor-anillos-anillos-poder-tan-espectacular-como-peliculas-2759163.jpg' alt='Primer tráiler completo de El Señor de los Anillos: Los Anillos de Poder, es tan espectacular como las películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hasbro-selfie-series-video-1093591'>Hasbro pone tu cara en sus figuras de Marvel, Star Wars o los Power Ranger (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hasbro-selfie-series-video-1093591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hasbro-pone-cara-figuras-marvel-star-wars-power-ranger-video-2759053.jpg' alt='Hasbro pone tu cara en sus figuras de Marvel, Star Wars o los Power Ranger (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581'>No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551'>¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mirando-ordenador-experto-pccomponentes-2633977.jpg' alt='¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?' />
     </a>
 </div>
 
