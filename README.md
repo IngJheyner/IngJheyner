@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/practicamente-fin-minado-gpus-nvidia-recorta-notablemente-precio-graficas-1093621'>Con prácticamente el fin del minado con GPUs NVIDIA recorta notablemente el precio de sus gráficas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/practicamente-fin-minado-gpus-nvidia-recorta-notablemente-precio-graficas-1093621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='Con prácticamente el fin del minado con GPUs NVIDIA recorta notablemente el precio de sus gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/5-trucos-ahorrar-gasolina-no-fallan-1093705'>5 trucos para ahorrar gasolina que no fallan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-trucos-ahorrar-gasolina-no-fallan-1093705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/gasolina-2361783.jpg' alt='5 trucos para ahorrar gasolina que no fallan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693'>Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671'>Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-blanca-muerte-windows-como-solucionarlo-2759237.jpg' alt='Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-horoscopo-eneagrama-1093585'>Cuál es la diferencia entre horóscopo y eneagrama</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-diferencia-horoscopo-eneagrama-1093585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg' alt='Cuál es la diferencia entre horóscopo y eneagrama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665'>Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad' />
     </a>
 </div>
 
