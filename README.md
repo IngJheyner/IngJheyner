@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671'>Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-blanca-muerte-windows-como-solucionarlo-2759237.jpg' alt='Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-diferencia-horoscopo-eneagrama-1093585'>Cuál es la diferencia entre horóscopo y eneagrama</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-diferencia-horoscopo-eneagrama-1093585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/horoscopo-zodiaco-2022-2576357.jpg' alt='Cuál es la diferencia entre horóscopo y eneagrama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665'>Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/funciona-ciencia-optimiza-cacerolas-hacer-agua-hierva-antes-ahorres-gas-electricidad-1093665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cocer-pasta-italiana-2575217.jpg' alt='Así funciona la ciencia que optimiza las cacerolas para hacer que el agua hierva antes y ahorres gas o electricidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022</a></h4>
     <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/xiaomi-robot-vacuum-mop-p-robot-aspirador-tambien-friega-suelo-baja-precio-solo-229-euros-2685407.jpg' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625'>Qué es la inflación y cómo te afecta en el día a día</a></h4>
-    <a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='Qué es la inflación y cómo te afecta en el día a día' />
     </a>
 </div>
 
