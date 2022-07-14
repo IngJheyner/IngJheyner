@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977'>Estas son las ofertas que han arrasado en el Amazon Prime Day 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557287.jpg' alt='Estas son las ofertas que han arrasado en el Amazon Prime Day 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/medicamento-cancer-podria-ayudar-exitosa-recuperacion-lesiones-medula-espinal-1093349'>Un medicamento contra el cáncer podría ayudar a una exitosa recuperación de las lesiones de la médula espinal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/medicamento-cancer-podria-ayudar-exitosa-recuperacion-lesiones-medula-espinal-1093349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/medula-espinal-2530127.jpg' alt='Un medicamento contra el cáncer podría ayudar a una exitosa recuperación de las lesiones de la médula espinal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1093341'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1093341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/noticias-resumen-mier-13-07-22-2758423.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-socio-tarifa-anuncios-microsoft-1093103'>Netflix se busca un socio inesperado para su tarifa con anuncios: Microsoft</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-socio-tarifa-anuncios-microsoft-1093103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Netflix se busca un socio inesperado para su tarifa con anuncios: Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-primera-imagen-real-grafica-sobremesa-intel-intel-arc-a750-limited-edition-1093087'>Se filtra la primera imagen real la gráfica de sobremesa de Intel: así es la Intel Arc A750 Limited Edition</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-primera-imagen-real-grafica-sobremesa-intel-intel-arc-a750-limited-edition-1093087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/intel-arc-nueva-marca-graficos-alto-rendimiento-2440637.jpg' alt='Se filtra la primera imagen real la gráfica de sobremesa de Intel: así es la Intel Arc A750 Limited Edition' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-flip-4-1093067'>Esto es todo lo que sabemos acerca del Samsung Galaxy Z Flip 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-acerca-samsung-galaxy-z-flip-4-1093067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/filtracion-galaxy-z-flip-4-2728833.jpg' alt='Esto es todo lo que sabemos acerca del Samsung Galaxy Z Flip 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-cubre-espaldas-recomienda-no-jugar-switch-estos-dias-calor-1093091'>Nintendo se cubre las espaldas y recomienda no jugar a la Switch estos días de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-cubre-espaldas-recomienda-no-jugar-switch-estos-dias-calor-1093091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Nintendo se cubre las espaldas y recomienda no jugar a la Switch estos días de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-cede-presion-redes-vuelve-poner-venta-producto-retirado-1093097'>Mercadona cede a la presión de las redes y vuelve a poner a la venta un producto retirado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-cede-presion-redes-vuelve-poner-venta-producto-retirado-1093097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/salmorejo-2758209.jpg' alt='Mercadona cede a la presión de las redes y vuelve a poner a la venta un producto retirado' />
     </a>
 </div>
 
