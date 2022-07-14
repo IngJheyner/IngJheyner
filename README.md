@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383'>Si tu problema es la toma de decisiones: juega a videojuegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-aclara-como-evitar-problemas-sobrecalentamiento-nintendo-switch-jugar-verano-2421241.jpg' alt='Si tu problema es la toma de decisiones: juega a videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923'>Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/menos-300-euros-ahorraras-mucho-dinero-patinete-electrico-bateria-extraible-1092923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/bongo-serie-connected-cecotec-2439423.jpg' alt='Por menos de 300 euros ahorrarás mucho dinero con este patinete eléctrico, y con batería extraíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367'>Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599'>Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa</a></h4>
     <a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/interfaz-cerebro.jpg' alt='Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/motor-electrico-ha-preparado-rolls-royce-perfecto-coche-volador-1093113'>El motor eléctrico que ha preparado Rolls-Royce, perfecto para un coche volador</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/motor-electrico-ha-preparado-rolls-royce-perfecto-coche-volador-1093113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/motor-avion-2758425.jpg' alt='El motor eléctrico que ha preparado Rolls-Royce, perfecto para un coche volador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977'>Estas son las ofertas que han arrasado en el Amazon Prime Day 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557287.jpg' alt='Estas son las ofertas que han arrasado en el Amazon Prime Day 2022' />
     </a>
 </div>
 
