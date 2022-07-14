@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-peligro-malware-android-desinstala-estas-aplicaciones-ya-mismo-1093711'>Nuevo peligro de malware en Android: desinstala estas aplicaciones ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-peligro-malware-android-desinstala-estas-aplicaciones-ya-mismo-1093711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/malware-android-2490673.jpg' alt='Nuevo peligro de malware en Android: desinstala estas aplicaciones ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-purificador-dyson-sin-aspas-oferta-1093709'>El ventilador purificador Dyson sin aspas, en oferta en su tienda oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-purificador-dyson-sin-aspas-oferta-1093709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dyson-purifier-cool-2758509.jpg' alt='El ventilador purificador Dyson sin aspas, en oferta en su tienda oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/practicamente-fin-minado-gpus-nvidia-recorta-notablemente-precio-graficas-1093621'>Con prácticamente el fin del minado con GPUs NVIDIA recorta notablemente el precio de sus gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/practicamente-fin-minado-gpus-nvidia-recorta-notablemente-precio-graficas-1093621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/geforce-rtx-3090-ti-bestia-nvidia-destroza-resto-graficas-no-podras-comprar-2659573.jpg' alt='Con prácticamente el fin del minado con GPUs NVIDIA recorta notablemente el precio de sus gráficas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693'>Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-como-funcionan-nuevas-notificaciones-respuesta-rapida-whatsapp-1093693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Qué son y cómo funcionan las nuevas notificaciones de respuesta rápida de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hace-viral-original-forma-convertir-ventilador-aire-acondicionado-muy-casero-1093685'>Se hace viral por su original forma de convertir su ventilador en un aire acondicionado (muy) casero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hace-viral-original-forma-convertir-ventilador-aire-acondicionado-muy-casero-1093685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2759315.jpg' alt='Se hace viral por su original forma de convertir su ventilador en un aire acondicionado (muy) casero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671'>Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-blanca-muerte-windows-como-solucionarlo-1093671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-blanca-muerte-windows-como-solucionarlo-2759237.jpg' alt='Qué es la pantalla blanca de la muerte en Windows y cómo solucionarlo' />
     </a>
 </div>
 
