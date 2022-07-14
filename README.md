@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581'>No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551'>¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mirando-ordenador-experto-pccomponentes-2633977.jpg' alt='¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947'>Beneficios (y algunos riesgos) de cocinar con una freidora de aire</a></h4>
     <a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Beneficios (y algunos riesgos) de cocinar con una freidora de aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469'>Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/casco-airbag-ciclistas-ya-realidad-1093427'>El casco con airbag para ciclistas ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/casco-airbag-ciclistas-ya-realidad-1093427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hombre-casco-bici-gafas-proteccion-2620843.jpg' alt='El casco con airbag para ciclistas ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383'>Si tu problema es la toma de decisiones: juega a videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/problema-toma-decisiones-juega-videojuegos-1093383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/nintendo-aclara-como-evitar-problemas-sobrecalentamiento-nintendo-switch-jugar-verano-2421241.jpg' alt='Si tu problema es la toma de decisiones: juega a videojuegos' />
     </a>
 </div>
 
