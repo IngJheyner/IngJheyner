@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625'>Qué es la inflación y cómo te afecta en el día a día</a></h4>
+    <a href='https://computerhoy.com/noticias/life/inflacion-como-te-afecta-dia-dia-1093625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carrito-compra-inflacion-2754653.jpg' alt='Qué es la inflación y cómo te afecta en el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/senor-anillos-los-anillos-poder-trailer-completo-1093637'>Primer tráiler completo de El Señor de los Anillos: Los Anillos de Poder, es tan espectacular como las películas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/senor-anillos-los-anillos-poder-trailer-completo-1093637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primer-trailer-completo-senor-anillos-anillos-poder-tan-espectacular-como-peliculas-2759163.jpg' alt='Primer tráiler completo de El Señor de los Anillos: Los Anillos de Poder, es tan espectacular como las películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hasbro-selfie-series-video-1093591'>Hasbro pone tu cara en sus figuras de Marvel, Star Wars o los Power Ranger (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hasbro-selfie-series-video-1093591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hasbro-pone-cara-figuras-marvel-star-wars-power-ranger-video-2759053.jpg' alt='Hasbro pone tu cara en sus figuras de Marvel, Star Wars o los Power Ranger (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581'>No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-cosa-movil-twitter-acaba-caerse-todo-mundo-1093581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='No es cosa de tu móvil, es que Twitter acaba de caerse en todo el mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551'>¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/cuanto-calienta-casa-ordenador-mientras-juegas-partida-1093551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mirando-ordenador-experto-pccomponentes-2633977.jpg' alt='¿Cuánto calienta tu casa tu ordenador mientras juegas una partida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947'>Beneficios (y algunos riesgos) de cocinar con una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/life/beneficios-algunos-riesgos-cocinar-freidora-aire-1092947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Beneficios (y algunos riesgos) de cocinar con una freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953'>El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3-naruto-moviles-buscados-ya-puedes-comprar-aunque-letra-pequena-1092953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-naruto-2726111.jpg' alt='El realme GT Neo 3 de Naruto es de los móviles más buscados: ya lo puedes comprar, aunque con letra pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469'>Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tesla-pierde-gran-impulsor-autopilot-ia-coches-ello-implica-1093469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tesla-autopilot-2488927.jpg' alt='Tesla pierde al gran impulsor del Autopilot e IA de sus coches y lo ello que implica' />
     </a>
 </div>
 
