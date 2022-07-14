@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367'>Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bill-gates-desvela-motivo-dejara-estar-lista-personas-ricas-mundo-1093367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Bill Gates desvela el motivo por el que dejará de estar en lista de personas más ricas del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ultima-beta-android-13-antes-version-final-te-ensenamos-como-instalarla-1093353'>Google lanza la última beta de Android 13 antes de la versión final, te enseñamos cómo instalarla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-ultima-beta-android-13-antes-version-final-te-ensenamos-como-instalarla-1093353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-13-2699727.jpg' alt='Google lanza la última beta de Android 13 antes de la versión final, te enseñamos cómo instalarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599'>Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cerebro-tambien-cuenta-modo-consumo-no-buena-senal-activa-1091599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/interfaz-cerebro.jpg' alt='Nuestro cerebro también cuenta con un “modo de bajo consumo” y no es buena señal si se activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/motor-electrico-ha-preparado-rolls-royce-perfecto-coche-volador-1093113'>El motor eléctrico que ha preparado Rolls-Royce, perfecto para un coche volador</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/motor-electrico-ha-preparado-rolls-royce-perfecto-coche-volador-1093113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/motor-avion-2758425.jpg' alt='El motor eléctrico que ha preparado Rolls-Royce, perfecto para un coche volador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977'>Estas son las ofertas que han arrasado en el Amazon Prime Day 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ofertas-arrasado-amazon-prime-day-2022-1092977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-signature-edition-2021-2557287.jpg' alt='Estas son las ofertas que han arrasado en el Amazon Prime Day 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/medicamento-cancer-podria-ayudar-exitosa-recuperacion-lesiones-medula-espinal-1093349'>Un medicamento contra el cáncer podría ayudar a una exitosa recuperación de las lesiones de la médula espinal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/medicamento-cancer-podria-ayudar-exitosa-recuperacion-lesiones-medula-espinal-1093349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/medula-espinal-2530127.jpg' alt='Un medicamento contra el cáncer podría ayudar a una exitosa recuperación de las lesiones de la médula espinal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1093341'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1093341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/noticias-resumen-mier-13-07-22-2758423.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411673.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-socio-tarifa-anuncios-microsoft-1093103'>Netflix se busca un socio inesperado para su tarifa con anuncios: Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-socio-tarifa-anuncios-microsoft-1093103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Netflix se busca un socio inesperado para su tarifa con anuncios: Microsoft' />
     </a>
 </div>
 
