@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299'>Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/selfie-2760279.jpg' alt='Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295'>Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-acabar-problemas-almacenamiento-iphone-segundos-casi-nadie-usa-1094291'>El truco para acabar con los problemas de almacenamiento del iPhone en segundos que casi nadie usa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/truco-acabar-problemas-almacenamiento-iphone-segundos-casi-nadie-usa-1094291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/icloud-iphone-2760271.jpg' alt='El truco para acabar con los problemas de almacenamiento del iPhone en segundos que casi nadie usa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-1087455'>Las mejores aplicaciones para gestionar los gastos durante las vacaciones con amigos</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-1087455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-2749069.jpg' alt='Las mejores aplicaciones para gestionar los gastos durante las vacaciones con amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-2049-ultima-scream-1094109'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: Dakota Johnson, Blade Runner 2049 y la última de Scream</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-2049-ultima-scream-1094109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-ultima-scream-2759981.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: Dakota Johnson, Blade Runner 2049 y la última de Scream' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/unicornio-robot-trae-aperitivos-ninos-pueden-montar-video-1094279'>El unicornio robot que te trae los aperitivos, y los niños pueden montar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/unicornio-robot-trae-aperitivos-ninos-pueden-montar-video-1094279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unicornio-robot-te-trae-aperitivos-ninos-pueden-montar-2760247.jpg' alt='El unicornio robot que te trae los aperitivos, y los niños pueden montar (vídeo)' />
     </a>
 </div>
 
