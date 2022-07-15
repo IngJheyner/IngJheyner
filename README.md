@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-1094107'>Facebook ya tiene su propia herramienta para crear imágenes con IA, así funciona Make-A-Scene </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-1094107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-2759817.jpg' alt='Facebook ya tiene su propia herramienta para crear imágenes con IA, así funciona Make-A-Scene ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/holanda-llama-paises-bajos-1094139'>¿Por qué Holanda se llama Paises Bajos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/holanda-llama-paises-bajos-1094139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hora-dejes-llamar-holanda-paises-bajos-ya-no-llama-2359773.jpg' alt='¿Por qué Holanda se llama Paises Bajos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-15-julio-2022-1093423'>La nueva Xiaomi Smart band 7 sigue bajando de precio: ya en oferta por 43 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-15-julio-2022-1093423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-band-7-2758545.jpg' alt='La nueva Xiaomi Smart band 7 sigue bajando de precio: ya en oferta por 43 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-12-podria-llegar-2024-microsoft-sigue-estrategia-actualizar-sistema-operativo-cada-tres-anos-1094055'>Windows 12 podría llegar en 2024 si Microsoft sigue la estrategia de actualizar su sistema operativo cada tres años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-12-podria-llegar-2024-microsoft-sigue-estrategia-actualizar-sistema-operativo-cada-tres-anos-1094055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-pro-8-2756191.jpg' alt='Windows 12 podría llegar en 2024 si Microsoft sigue la estrategia de actualizar su sistema operativo cada tres años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/100-radares-peligrosos-espana-verano-2022-ubicacion-exacta-1094051'>Los 100 radares más peligrosos de España en este verano 2022 y su ubicación exacta</a></h4>
     <a href='https://computerhoy.com/noticias/motor/100-radares-peligrosos-espana-verano-2022-ubicacion-exacta-1094051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg' alt='Los 100 radares más peligrosos de España en este verano 2022 y su ubicación exacta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/impactantes-primeras-imagenes-cuales-son-proximos-objetivos-telescopio-webb-nasa-1093991'>Tras las impactantes primeras imágenes, ¿cuáles son los próximos objetivos del telescopio Webb de la NASA?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/impactantes-primeras-imagenes-cuales-son-proximos-objetivos-telescopio-webb-nasa-1093991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Tras las impactantes primeras imágenes, ¿cuáles son los próximos objetivos del telescopio Webb de la NASA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-avance-vital-humanidad-podremos-crear-cosas-ahora-inimaginables-1093993'>Científicos logran un avance vital para la humanidad: "podremos crear cosas hasta ahora inimaginables"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-avance-vital-humanidad-podremos-crear-cosas-ahora-inimaginables-1093993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/laboratorio-ciencia-2474569.jpg' alt='Científicos logran un avance vital para la humanidad: "podremos crear cosas hasta ahora inimaginables"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989'>Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ikea-tradfri-enchufe-2757907.jpg' alt='Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios' />
     </a>
 </div>
 
