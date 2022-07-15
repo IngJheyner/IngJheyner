@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945'>Facebook permitirá por fin tener varios perfiles en una misma cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-facebook-2520341.jpg' alt='Facebook permitirá por fin tener varios perfiles en una misma cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415'>5 móviles Android de gama alta que hemos probado últimamente y que recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='5 móviles Android de gama alta que hemos probado últimamente y que recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2759567.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935'>Personas que no deben tomar agua con limón o limonada, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/agua-limon-2759563.jpg' alt='Personas que no deben tomar agua con limón o limonada, según los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/hyundai-ioniq-6-coche-electrico-podria-desbancar-tesla-model-3-autonomia-escandalo-1093729'>Así es el Hyundai Ioniq 6, el coche eléctrico que podría desbancar al Tesla Model 3 con una autonomía de escándalo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/hyundai-ioniq-6-coche-electrico-podria-desbancar-tesla-model-3-autonomia-escandalo-1093729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hyundai-ioniq-6-2759381.jpg' alt='Así es el Hyundai Ioniq 6, el coche eléctrico que podría desbancar al Tesla Model 3 con una autonomía de escándalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721'>Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy' />
     </a>
 </div>
 
