@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mejor-numero-eneagrama-1094163'>Cuál es el mejor número del eneagrama</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mejor-numero-eneagrama-1094163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hemisferios-cerebrales-1914037.jpg' alt='Cuál es el mejor número del eneagrama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prueba-realidad-aumentada-te-convencera-futuro-1094217'>La prueba de realidad aumentada que te convencerá de que es el futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prueba-realidad-aumentada-te-convencera-futuro-1094217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/gafas-neal-light-vodafone-sube-carro-realidad-aumentada-2354131.jpg' alt='La prueba de realidad aumentada que te convencerá de que es el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-placas-solares-balcon-te-daran-electricidad-ilimitada-durante-menos-25-anos-menos-800-euros-1094235'>Estas placas solares para tu balcón te darán electricidad ilimitada durante al menos 25 años por menos de 800 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-placas-solares-balcon-te-daran-electricidad-ilimitada-durante-menos-25-anos-menos-800-euros-1094235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/placas-solares-balcones-2760007.jpg' alt='Estas placas solares para tu balcón te darán electricidad ilimitada durante al menos 25 años por menos de 800 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-acaba-romper-record-vuelo-tripulacion-largo-historia-1094181'>Este dron acaba de romper un récord: el vuelo sin tripulación más largo de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dron-acaba-romper-record-vuelo-tripulacion-largo-historia-1094181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-zephyr-2759961.jpg' alt='Este dron acaba de romper un récord: el vuelo sin tripulación más largo de la historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/consiguen-crear-casco-moto-tiene-peso-nulo-autovia-1094143'>Consiguen crear un casco de moto que tiene peso nulo en autovía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/consiguen-crear-casco-moto-tiene-peso-nulo-autovia-1094143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-moto-2284441.jpg' alt='Consiguen crear un casco de moto que tiene peso nulo en autovía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-1094107'>Facebook ya tiene su propia herramienta para crear imágenes con IA, así funciona Make-A-Scene </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-1094107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/facebook-ya-tiene-propia-herramienta-crear-imagenes-ia-funciona-make-scene-2759817.jpg' alt='Facebook ya tiene su propia herramienta para crear imágenes con IA, así funciona Make-A-Scene ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/holanda-llama-paises-bajos-1094139'>¿Por qué Holanda se llama Paises Bajos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/holanda-llama-paises-bajos-1094139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hora-dejes-llamar-holanda-paises-bajos-ya-no-llama-2359773.jpg' alt='¿Por qué Holanda se llama Paises Bajos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-15-julio-2022-1093423'>La nueva Xiaomi Smart band 7 sigue bajando de precio: ya en oferta por 43 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-oferta-15-julio-2022-1093423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-band-7-2758545.jpg' alt='La nueva Xiaomi Smart band 7 sigue bajando de precio: ya en oferta por 43 euros' />
     </a>
 </div>
 
