@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303'>ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331'>Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293'>Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-causas-nos-hacen-parecer-viejos-somos-ciencia-2523413.jpg' alt='Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299'>Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/selfie-2760279.jpg' alt='Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295'>Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-acabar-problemas-almacenamiento-iphone-segundos-casi-nadie-usa-1094291'>El truco para acabar con los problemas de almacenamiento del iPhone en segundos que casi nadie usa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-acabar-problemas-almacenamiento-iphone-segundos-casi-nadie-usa-1094291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/icloud-iphone-2760271.jpg' alt='El truco para acabar con los problemas de almacenamiento del iPhone en segundos que casi nadie usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-zombis-paternidad-verano-1094237'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: zombis, paternidad y un verano</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-zombis-paternidad-verano-1094237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2760053.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: zombis, paternidad y un verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-1087455'>Las mejores aplicaciones para gestionar los gastos durante las vacaciones con amigos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-1087455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-gestionar-gastos-durante-vacaciones-amigos-2749069.jpg' alt='Las mejores aplicaciones para gestionar los gastos durante las vacaciones con amigos' />
     </a>
 </div>
 
