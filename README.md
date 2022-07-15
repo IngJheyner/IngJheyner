@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333'>7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341'>El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-air-purifier-3c-2619207.jpg' alt='El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303'>ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331'>Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos ' />
     </a>
 </div>
 
