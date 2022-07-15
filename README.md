@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2759567.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dyson-purifier-cool-2758509.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935'>Personas que no deben tomar agua con limón o limonada, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/agua-limon-2759563.jpg' alt='Personas que no deben tomar agua con limón o limonada, según los médicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721'>Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/movil-no-tiene-culpa-instagram-no-funciona-igual-paso-twitter-dia-hoy-1093721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Tu móvil no tiene la culpa: Instagram no funciona al igual que le pasó a Twitter en el día de hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nintendo-pictures-estudio-cine-animacion-1093719'>Nace Nintendo Pictures, la nueva aventura cinematográfica de la mítica compañía de videojuegos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nintendo-pictures-estudio-cine-animacion-1093719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nace-nintendo-pictures-nueva-aventura-cinematografica-mitica-compania-2759353.jpg' alt='Nace Nintendo Pictures, la nueva aventura cinematográfica de la mítica compañía de videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-maps-estaria-preparando-caracteristica-mucha-utilidad-coches-electricos-1093701'>Google Maps estaría preparando una característica de mucha utilidad para los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-maps-estaria-preparando-caracteristica-mucha-utilidad-coches-electricos-1093701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Google Maps estaría preparando una característica de mucha utilidad para los coches eléctricos' />
     </a>
 </div>
 
