@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989'>Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ikea-tradfri-enchufe-2757907.jpg' alt='Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ilogica-tecnica-superenfriar-casa-ahorrar-energia-expertos-1093971'>La ilógica técnica para superenfriar tu casa y ahorrar energía según los expertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilogica-tecnica-superenfriar-casa-ahorrar-energia-expertos-1093971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/aire-acondicionado-2718925.jpg' alt='La ilógica técnica para superenfriar tu casa y ahorrar energía según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-instagram-ya-tiene-contenido-exclusivo-pago-suscriptores-1093981'>Es oficial: Instagram ya tiene contenido exclusivo de pago para suscriptores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oficial-instagram-ya-tiene-contenido-exclusivo-pago-suscriptores-1093981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Es oficial: Instagram ya tiene contenido exclusivo de pago para suscriptores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pastilla-te-quita-migrana-te-hace-adelgazar-existe-grupo-cientificos-1093961'>La pastilla que te quita la migraña y te hace adelgazar existe según un grupo de científicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pastilla-te-quita-migrana-te-hace-adelgazar-existe-grupo-cientificos-1093961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='La pastilla que te quita la migraña y te hace adelgazar existe según un grupo de científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951'>Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pc-gaming-2523335.jpg' alt='Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuadrados-circulos-ilusion-optica-verano-2022-volviendo-locas-redes-1093535'>¿Cuadrados o círculos? La ilusión óptica del verano 2022 que está volviendo locas a las redes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuadrados-circulos-ilusion-optica-verano-2022-volviendo-locas-redes-1093535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/problema-ojos-2371547.jpg' alt='¿Cuadrados o círculos? La ilusión óptica del verano 2022 que está volviendo locas a las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945'>Facebook permitirá por fin tener varios perfiles en una misma cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-facebook-2520341.jpg' alt='Facebook permitirá por fin tener varios perfiles en una misma cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415'>5 móviles Android de gama alta que hemos probado últimamente y que recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='5 móviles Android de gama alta que hemos probado últimamente y que recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2759567.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
