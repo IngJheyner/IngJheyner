@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335'>Ferrari, la nueva serie de Apple TV+ que no va sobre coches</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ferrari-nueva-serie-apple-tv-no-va-coches-2760605.jpg' alt='Ferrari, la nueva serie de Apple TV+ que no va sobre coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543'>Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg' alt='Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303'>ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293'>Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-causas-nos-hacen-parecer-viejos-somos-ciencia-2523413.jpg' alt='Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299'>Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dime-cual-fondo-pantalla-movil-te-dire-como-eres-1094299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/selfie-2760279.jpg' alt='Dime cuál es el fondo de pantalla de tu móvil y te diré cómo eres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295'>Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-advierte-ordenadores-podria-subir-mucho-precio-proximos-meses-1094295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/nuevos-ordenadores-hp-serie-z-cambian-adaptarse-teletrabajo-nueva-normalidad-2049583.jpg' alt='Intel advierte que los ordenadores podría subir mucho de precio en los próximos meses' />
     </a>
 </div>
 
