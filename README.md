@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/impactantes-primeras-imagenes-cuales-son-proximos-objetivos-telescopio-webb-nasa-1093991'>Tras las impactantes primeras imágenes, ¿cuáles son los próximos objetivos del telescopio Webb de la NASA?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/impactantes-primeras-imagenes-cuales-son-proximos-objetivos-telescopio-webb-nasa-1093991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Tras las impactantes primeras imágenes, ¿cuáles son los próximos objetivos del telescopio Webb de la NASA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-avance-vital-humanidad-podremos-crear-cosas-ahora-inimaginables-1093993'>Científicos logran un avance vital para la humanidad: “podremos crear cosas hasta ahora inimaginables</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-logran-avance-vital-humanidad-podremos-crear-cosas-ahora-inimaginables-1093993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/laboratorio-ciencia-2474569.jpg' alt='Científicos logran un avance vital para la humanidad: “podremos crear cosas hasta ahora inimaginables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989'>Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ikea-tradfri-enchufe-inteligente-oferta-15-julio-2022-1092989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ikea-tradfri-enchufe-2757907.jpg' alt='Este enchufe WiFi de IKEA es bastante barato y compatible con todos sus accesorios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficial-instagram-ya-tiene-contenido-exclusivo-pago-suscriptores-1093981'>Es oficial: Instagram ya tiene contenido exclusivo de pago para suscriptores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficial-instagram-ya-tiene-contenido-exclusivo-pago-suscriptores-1093981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/instagram-2657363.jpg' alt='Es oficial: Instagram ya tiene contenido exclusivo de pago para suscriptores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pastilla-te-quita-migrana-te-hace-adelgazar-existe-grupo-cientificos-1093961'>La pastilla que te quita la migraña y te hace adelgazar existe según un grupo de científicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pastilla-te-quita-migrana-te-hace-adelgazar-existe-grupo-cientificos-1093961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='La pastilla que te quita la migraña y te hace adelgazar existe según un grupo de científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951'>Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pc-gaming-2523335.jpg' alt='Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta' />
     </a>
 </div>
 
