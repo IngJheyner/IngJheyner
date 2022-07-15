@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951'>Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/requisitos-poder-jugar-juegos-android-pc-nuevos-paises-google-play-beta-1093951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pc-gaming-2523335.jpg' alt='Requisitos para poder jugar a juegos Android en PC, nuevos países para Google Play Beta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuadrados-circulos-ilusion-optica-verano-2022-volviendo-locas-redes-1093535'>¿Cuadrados o círculos? La ilusión óptica del verano 2022 que está volviendo locas a las redes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuadrados-circulos-ilusion-optica-verano-2022-volviendo-locas-redes-1093535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/problema-ojos-2371547.jpg' alt='¿Cuadrados o círculos? La ilusión óptica del verano 2022 que está volviendo locas a las redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945'>Facebook permitirá por fin tener varios perfiles en una misma cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-permitira-fin-tener-varios-perfiles-misma-cuenta-1093945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-facebook-2520341.jpg' alt='Facebook permitirá por fin tener varios perfiles en una misma cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1093937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2759567.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109'>Ventilador sin aspas: cómo funciona y cuál comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventilador-aspas-1064109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dyson-purifier-cool-2758509.jpg' alt='Ventilador sin aspas: cómo funciona y cuál comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935'>Personas que no deben tomar agua con limón o limonada, según los médicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/personas-no-deben-tomar-agua-limon-limonada-1093935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/agua-limon-2759563.jpg' alt='Personas que no deben tomar agua con limón o limonada, según los médicos' />
     </a>
 </div>
 
