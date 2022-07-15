@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345'>Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/intel-desvela-fecha-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rapida-rtx-3060-2760621.jpg' alt='Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333'>7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543'>Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg' alt='Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303'>ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromeos-flex-sistema-operativo-google-puede-revitalizar-viejo-portatil-windows-macos-1094303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-chrome-ordenador-portatil-2125059.jpg' alt='ChromeOS Flex: así es el sistema operativo de Google que puede revitalizar tu viejo portátil con Windows o macOS' />
     </a>
 </div>
 
