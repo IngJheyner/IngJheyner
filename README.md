@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-llevar-piscina-verano-1086779'>Gadgets imprescindibles para llevar a la piscina este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gadgets-imprescindibles-llevar-piscina-verano-1086779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/piscina-2747075.jpg' alt='Gadgets imprescindibles para llevar a la piscina este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345'>Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/intel-desvela-fecha-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rapida-rtx-3060-2760621.jpg' alt='Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335'>Ferrari, la nueva serie de Apple TV+ que no va sobre coches</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ferrari-nueva-serie-apple-tv-no-va-coches-2760605.jpg' alt='Ferrari, la nueva serie de Apple TV+ que no va sobre coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543'>Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-1093543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg' alt='Trucos efectivos para conciliar el sueño cuando hace mucho calor sin ventilador ni aire acondicionado' />
     </a>
 </div>
 
