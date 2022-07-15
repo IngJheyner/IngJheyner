@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341'>El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-air-purifier-3c-2619207.jpg' alt='El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335'>Ferrari, la nueva serie de Apple TV+ que no va sobre coches</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ferrari-nueva-serie-apple-tv-plus-1094335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ferrari-nueva-serie-apple-tv-no-va-coches-2760605.jpg' alt='Ferrari, la nueva serie de Apple TV+ que no va sobre coches' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331'>Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-elimina-100000-productos-marca-propia-1094331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazon-alexa-2694817.jpg' alt='Amazon elimina más de 100.000 productos de su marca, estos son los dos motivos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293'>Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-afirman-haber-encontrado-motivo-mujeres-viven-hombres-1094293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/8-causas-nos-hacen-parecer-viejos-somos-ciencia-2523413.jpg' alt='Científicos afirman haber encontrado el motivo por el que las mujeres viven más que los hombres' />
     </a>
 </div>
 
