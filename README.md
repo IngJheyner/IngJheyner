@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-2049-ultima-scream-1094109'>Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: Dakota Johnson, Blade Runner 2049 y la última de Scream</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-2049-ultima-scream-1094109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-hbo-max-netflix-prime-video-dakota-johnson-blade-runner-ultima-scream-2759981.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y Prime Video: Dakota Johnson, Blade Runner 2049 y la última de Scream' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/unicornio-robot-trae-aperitivos-ninos-pueden-montar-video-1094279'>El unicornio robot que te trae los aperitivos, y los niños pueden montar (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/unicornio-robot-trae-aperitivos-ninos-pueden-montar-video-1094279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unicornio-robot-te-trae-aperitivos-ninos-pueden-montar-2760247.jpg' alt='El unicornio robot que te trae los aperitivos, y los niños pueden montar (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-mejor-numero-eneagrama-1094163'>Cuál es el mejor número del eneagrama</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-mejor-numero-eneagrama-1094163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hemisferios-cerebrales-1914037.jpg' alt='Cuál es el mejor número del eneagrama' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-placas-solares-balcon-te-daran-electricidad-ilimitada-durante-menos-25-anos-menos-800-euros-1094235'>Estas placas solares para tu balcón te darán electricidad ilimitada durante al menos 25 años por menos de 800 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-placas-solares-balcon-te-daran-electricidad-ilimitada-durante-menos-25-anos-menos-800-euros-1094235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/placas-solares-balcones-2760007.jpg' alt='Estas placas solares para tu balcón te darán electricidad ilimitada durante al menos 25 años por menos de 800 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-acaba-romper-record-vuelo-tripulacion-largo-historia-1094181'>Este dron acaba de romper un récord: el vuelo sin tripulación más largo de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-acaba-romper-record-vuelo-tripulacion-largo-historia-1094181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-zephyr-2759961.jpg' alt='Este dron acaba de romper un récord: el vuelo sin tripulación más largo de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/consiguen-crear-casco-moto-tiene-peso-nulo-autovia-1094143'>Consiguen crear un casco de moto que tiene peso nulo en autovía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/consiguen-crear-casco-moto-tiene-peso-nulo-autovia-1094143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/casco-moto-2284441.jpg' alt='Consiguen crear un casco de moto que tiene peso nulo en autovía' />
     </a>
 </div>
 
