@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233'>Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increible-video-colorizado-san-francisco-1906-nos-muestra-ciudad-dias-antes-ser-arrasada-terremoto-2759999.jpg' alt='Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613'>Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias</a></h4>
     <a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/efecto-pasillo-dgt-aconseja-aprender-usar-emergencias-2760919.jpg' alt='Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035'>Guía y consejos para comprar un dron submarino</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-submarino-2747413.jpg' alt='Guía y consejos para comprar un dron submarino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581'>Enseñan a un robot a ser consciente de sí mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ensenan-robot-ser-consciente-mismo-2760879.jpg' alt='Enseñan a un robot a ser consciente de sí mismo' />
     </a>
 </div>
 
