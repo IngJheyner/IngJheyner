@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195'>Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ledger-nano-s-2759929.jpg' alt='Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737'>¿Cuál es el portátil perfecto? El portátil perfecto eres tú</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cual-portatil-perfecto-portatil-perfecto-eres-2756171.jpg' alt='¿Cuál es el portátil perfecto? El portátil perfecto eres tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-nothing-phone-1-1093963'>5 motivos por los que el Nothing Phone (1) es un móvil muy a tener en cuenta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-nothing-phone-1-1093963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757121.jpg' alt='5 motivos por los que el Nothing Phone (1) es un móvil muy a tener en cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537'>Si WhatsApp no te funciona, te contamos que posibles soluciones hay</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Si WhatsApp no te funciona, te contamos que posibles soluciones hay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/plantas-roban-oxigeno-noches-1094513'>¿Es cierto que las plantas te roban oxígeno por las noches?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/plantas-roban-oxigeno-noches-1094513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cierto-plantas-te-roban-oxigeno-noches-2760773.jpg' alt='¿Es cierto que las plantas te roban oxígeno por las noches?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ripear-cds-musicales-1094347'>Windows 11 se actualiza con una sorprendente función que echaban de menos los dueños de CDs musicales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ripear-cds-musicales-1094347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-actualiza-sorprendente-funcion-echaban-menos-duenos-cds-musicales-2760625.jpg' alt='Windows 11 se actualiza con una sorprendente función que echaban de menos los dueños de CDs musicales' />
     </a>
 </div>
 
