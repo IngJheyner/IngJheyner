@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-te-ayudaran-realizar-fotos-profesionales-movil-1091203'>Accesorios que te ayudarán a realizar fotos profesionales con tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-te-ayudaran-realizar-fotos-profesionales-movil-1091203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/foto-smartphone-2754999.jpg' alt='Accesorios que te ayudarán a realizar fotos profesionales con tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409'>Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645457.jpg' alt='Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195'>Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ledger-nano-s-2759929.jpg' alt='Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737'>¿Cuál es el portátil perfecto? El portátil perfecto eres tú</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cual-portatil-perfecto-portatil-perfecto-eres-2756171.jpg' alt='¿Cuál es el portátil perfecto? El portátil perfecto eres tú' />
     </a>
 </div>
 
