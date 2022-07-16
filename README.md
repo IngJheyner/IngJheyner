@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607'>Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias</a></h4>
+    <a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adios-cepillos-microbots-limpian-dientes-ajustandose-forma-matan-bacterias-2759069.jpg' alt='Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233'>Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increible-video-colorizado-san-francisco-1906-nos-muestra-ciudad-dias-antes-ser-arrasada-terremoto-2759999.jpg' alt='Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605'>La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas</a></h4>
     <a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035'>Guía y consejos para comprar un dron submarino</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-submarino-2747413.jpg' alt='Guía y consejos para comprar un dron submarino' />
     </a>
 </div>
 
