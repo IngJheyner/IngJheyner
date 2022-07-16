@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575'>Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-2760865.jpg' alt='Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817'>7 series basadas en películas, y algunas son muy poco conocidas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/westworld-2756177.jpg' alt='7 series basadas en películas, y algunas son muy poco conocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563'>Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicacion-citas-2760835.jpg' alt='Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553'>Dinamarca prohíbe productos de Google en ayuntamientos y colegios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg' alt='Dinamarca prohíbe productos de Google en ayuntamientos y colegios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ya-puedes-comprarte-nuevo-pokemon-purpura-nintendo-switch-preventa-46eu-1093509'>Ya puedes comprarte el nuevo Pokémon Púrpura para Nintendo Switch en preventa por 46€</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ya-puedes-comprarte-nuevo-pokemon-purpura-nintendo-switch-preventa-46eu-1093509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pokemon-purpura-preventa-4699eu-2758775.jpg' alt='Ya puedes comprarte el nuevo Pokémon Púrpura para Nintendo Switch en preventa por 46€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/lg-gram-2022-view-review-opinion-1092453'>LG Gram 2022 y LG View, análisis y opinión </a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/lg-gram-2022-view-review-opinion-1092453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lg-gram-view-2758841.jpg' alt='LG Gram 2022 y LG View, análisis y opinión ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-te-ayudaran-realizar-fotos-profesionales-movil-1091203'>Accesorios que te ayudarán a realizar fotos profesionales con tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-te-ayudaran-realizar-fotos-profesionales-movil-1091203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/foto-smartphone-2754999.jpg' alt='Accesorios que te ayudarán a realizar fotos profesionales con tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409'>Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645457.jpg' alt='Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible' />
     </a>
 </div>
 
