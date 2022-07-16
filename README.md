@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035'>Guía y consejos para comprar un dron submarino</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-submarino-2747413.jpg' alt='Guía y consejos para comprar un dron submarino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581'>Enseñan a un robot a ser consciente de sí mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ensenan-robot-ser-consciente-mismo-2760879.jpg' alt='Enseñan a un robot a ser consciente de sí mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575'>Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-2760865.jpg' alt='Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817'>7 series basadas en películas, y algunas son muy poco conocidas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/westworld-2756177.jpg' alt='7 series basadas en películas, y algunas son muy poco conocidas' />
     </a>
 </div>
 
