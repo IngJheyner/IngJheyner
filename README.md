@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611'>Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie</a></h4>
+    <a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oficinista-asiatica-2760917.jpg' alt='Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605'>La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas</a></h4>
     <a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579'>Netflix podría ser adquirida por Microsoft según este analista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix podría ser adquirida por Microsoft según este analista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577'>Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-pavilion-14-2760871.jpg' alt='Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros' />
     </a>
 </div>
 
