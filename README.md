@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577'>Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-pavilion-14-2760871.jpg' alt='Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575'>Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-2760865.jpg' alt='Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553'>Dinamarca prohíbe productos de Google en ayuntamientos y colegios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg' alt='Dinamarca prohíbe productos de Google en ayuntamientos y colegios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ya-puedes-comprarte-nuevo-pokemon-purpura-nintendo-switch-preventa-46eu-1093509'>Ya puedes comprarte el nuevo Pokémon Púrpura para Nintendo Switch en preventa por 46€</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ya-puedes-comprarte-nuevo-pokemon-purpura-nintendo-switch-preventa-46eu-1093509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pokemon-purpura-preventa-4699eu-2758775.jpg' alt='Ya puedes comprarte el nuevo Pokémon Púrpura para Nintendo Switch en preventa por 46€' />
     </a>
 </div>
 
