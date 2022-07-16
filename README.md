@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605'>La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035'>Guía y consejos para comprar un dron submarino</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-dron-submarino-1087035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dron-submarino-2747413.jpg' alt='Guía y consejos para comprar un dron submarino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577'>Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-pavilion-14-2760871.jpg' alt='Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575'>Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-1094575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-te-permite-descansar-pasillo-congelados-tumbonas-polos-hielo-gratis-evitar-ola-calor-2760865.jpg' alt='Este supermercado te permite descansar en el pasillo de congelados con tumbonas y polos de hielo gratis para evitar la ola de calor' />
     </a>
 </div>
 
