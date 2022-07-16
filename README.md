@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613'>Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/efecto-pasillo-dgt-aconseja-aprender-usar-emergencias-2760919.jpg' alt='Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611'>Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie</a></h4>
     <a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oficinista-asiatica-2760917.jpg' alt='Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581'>Enseñan a un robot a ser consciente de sí mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ensenan-robot-ser-consciente-mismo-2760879.jpg' alt='Enseñan a un robot a ser consciente de sí mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579'>Netflix podría ser adquirida por Microsoft según este analista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix podría ser adquirida por Microsoft según este analista' />
     </a>
 </div>
 
