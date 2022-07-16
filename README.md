@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/significado-colores-usa-google-maps-1092469'>El significado de los colores que usa Google Maps</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/significado-colores-usa-google-maps-1092469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='El significado de los colores que usa Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195'>Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ledger-nano-s-oferta-16-julio-2022-1094195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ledger-nano-s-2759929.jpg' alt='Consigue la cartera fría para criptomonedas Ledger Nano S antes de que se acaben, ya no fabricarán más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gata-ladrona-esme-1093079'>Mi gata es una ladrona: esto es lo que tuvo que hacer su dueña para calmar a los vecinos</a></h4>
     <a href='https://computerhoy.com/noticias/life/gata-ladrona-esme-1093079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mi-gato-ladron-tuvo-hacer-duena-calmar-vecinos-2758191.jpg' alt='Mi gata es una ladrona: esto es lo que tuvo que hacer su dueña para calmar a los vecinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537'>Si WhatsApp no te funciona, te contamos que posibles soluciones hay</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Si WhatsApp no te funciona, te contamos que posibles soluciones hay' />
     </a>
 </div>
 
