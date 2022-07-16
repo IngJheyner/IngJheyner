@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537'>Si WhatsApp no te funciona, te contamos que posibles soluciones hay</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/whatsapp-no-te-funciona-te-contamos-posibles-soluciones-hay-1086537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Si WhatsApp no te funciona, te contamos que posibles soluciones hay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/plantas-roban-oxigeno-noches-1094513'>¿Es cierto que las plantas te roban oxígeno por las noches?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/plantas-roban-oxigeno-noches-1094513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cierto-plantas-te-roban-oxigeno-noches-2760773.jpg' alt='¿Es cierto que las plantas te roban oxígeno por las noches?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ripear-cds-musicales-1094347'>Windows 11 se actualiza con una sorprendente función que echaban de menos los dueños de CDs musicales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ripear-cds-musicales-1094347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-actualiza-sorprendente-funcion-echaban-menos-duenos-cds-musicales-2760625.jpg' alt='Windows 11 se actualiza con una sorprendente función que echaban de menos los dueños de CDs musicales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345'>Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rtx-3060-1094345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/intel-desvela-fecha-lanzamiento-benchmarks-tarjeta-grafica-intel-arc-a750-rapida-rtx-3060-2760621.jpg' alt='Intel desvela la ventana de lanzamiento y los benchmarks de la tarjeta gráfica Intel ARC A750, es más rápida que la RTX 3060' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333'>7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-cosas-puedes-hacer-movil-android-no-puedes-hacer-iphone-1094333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='7 cosas que puedes hacer con un móvil Android que no puedes hacer con un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341'>El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-xiaomi-mi-air-purifier-3c-descuento-1094341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-mi-air-purifier-3c-2619207.jpg' alt='El purificador Xiaomi Mi Air Purifier 3C, con un 53% de descuento' />
     </a>
 </div>
 
