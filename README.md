@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581'>Enseñan a un robot a ser consciente de sí mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ensenan-robot-ser-consciente-mismo-1094581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ensenan-robot-ser-consciente-mismo-2760879.jpg' alt='Enseñan a un robot a ser consciente de sí mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579'>Netflix podría ser adquirida por Microsoft según este analista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix podría ser adquirida por Microsoft según este analista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817'>7 series basadas en películas, y algunas son muy poco conocidas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-basadas-peliculas-algunas-son-muy-poco-conocidas-1091817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/westworld-2756177.jpg' alt='7 series basadas en películas, y algunas son muy poco conocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563'>Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicacion-citas-2760835.jpg' alt='Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar' />
     </a>
 </div>
 
