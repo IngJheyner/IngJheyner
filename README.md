@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579'>Netflix podría ser adquirida por Microsoft según este analista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-ser-adquirida-microsoft-analista-1094579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix podría ser adquirida por Microsoft según este analista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577'>Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-puedes-comprar-portatil-hp-pavilion-14-16-gb-ram-1-tb-ssd-menos-750-euros-1094577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-pavilion-14-2760871.jpg' alt='Ahora puedes comprar este portátil HP Pavilion 14 con 16 GB de RAM y 1 TB SSD por menos de 750 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563'>Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dime-horoscopo-eres-te-dire-hacemos-match-nueva-tendencia-apps-ligar-1094563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicacion-citas-2760835.jpg' alt='Dime de qué horóscopo eres y te diré si hacemos match, la nueva tendencia en las apps de ligar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553'>Dinamarca prohíbe productos de Google en ayuntamientos y colegios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dinamarca-prohibe-productos-google-ayuntamientos-colegios-1094553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg' alt='Dinamarca prohíbe productos de Google en ayuntamientos y colegios' />
     </a>
 </div>
 
