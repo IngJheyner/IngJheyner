@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409'>Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-ordenador-seleccione-automaticamente-mejor-red-wifi-disponible-1088409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/wifi-2645457.jpg' alt='Cómo hacer que tu ordenador seleccione automáticamente la mejor red WiFi disponible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/zte-axon-40-ultra-review-opinion-1074507'>ZTE Axon 40 Ultra, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/zte-axon-40-ultra-review-opinion-1074507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-zte-axon-40-ultra-2760395.jpg' alt='ZTE Axon 40 Ultra, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/significado-colores-usa-google-maps-1092469'>El significado de los colores que usa Google Maps</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/significado-colores-usa-google-maps-1092469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='El significado de los colores que usa Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737'>¿Cuál es el portátil perfecto? El portátil perfecto eres tú</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cual-portatil-perfecto-portatil-perfecto-eres-1091737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cual-portatil-perfecto-portatil-perfecto-eres-2756171.jpg' alt='¿Cuál es el portátil perfecto? El portátil perfecto eres tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-nothing-phone-1-1093963'>5 motivos por los que el Nothing Phone (1) es un móvil muy a tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-nothing-phone-1-1093963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-2757121.jpg' alt='5 motivos por los que el Nothing Phone (1) es un móvil muy a tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gata-ladrona-esme-1093079'>Mi gata es una ladrona: esto es lo que tuvo que hacer su dueña para calmar a los vecinos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gata-ladrona-esme-1093079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mi-gato-ladron-tuvo-hacer-duena-calmar-vecinos-2758191.jpg' alt='Mi gata es una ladrona: esto es lo que tuvo que hacer su dueña para calmar a los vecinos' />
     </a>
 </div>
 
