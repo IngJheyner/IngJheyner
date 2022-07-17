@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-crear-distro-personalizada-linux-1062067'>5 herramientas para crear una distro personalizada de Linux</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-crear-distro-personalizada-linux-1062067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg' alt='5 herramientas para crear una distro personalizada de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607'>Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias</a></h4>
     <a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adios-cepillos-microbots-limpian-dientes-ajustandose-forma-matan-bacterias-2759069.jpg' alt='Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611'>Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie</a></h4>
     <a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oficinista-asiatica-2760917.jpg' alt='Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605'>La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/brillante-idea-ha-tenido-aerolinea-evitar-pierda-maleta-agilizar-llegada-misma-cintas-1094605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='La brillante idea que ha tenido una aerolínea para evitar que se pierda tu maleta y agilizar la llegada de la misma a las cintas' />
     </a>
 </div>
 
