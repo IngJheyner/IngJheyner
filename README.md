@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estamos-muy-cerca-ser-8000-millones-personas-tierra-1094609'>Estamos muy cerca de ser 8000 millones de personas en la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estamos-muy-cerca-ser-8000-millones-personas-tierra-1094609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/poblacion-mundial-2760913.jpg' alt='Estamos muy cerca de ser 8000 millones de personas en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-bases-ventilacion-portatil-1094321'>5 bases refrigeradoras con ventilación para que tu portátil soporte las altas temperaturas del verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-bases-ventilacion-portatil-1094321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mujer-usando-portatil-movil-mesa-2760905.jpg' alt='5 bases refrigeradoras con ventilación para que tu portátil soporte las altas temperaturas del verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-es-extincion-anonima-1093601'>Qué es la extinción anónima, y por qué preocupa a los científicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/que-es-extincion-anonima-1093601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/extincion-anonima-preocupa-cientificos-2759063.jpg' alt='Qué es la extinción anónima, y por qué preocupa a los científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-crear-distro-personalizada-linux-1062067'>5 herramientas para crear una distro personalizada de Linux</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-herramientas-crear-distro-personalizada-linux-1062067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg' alt='5 herramientas para crear una distro personalizada de Linux' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607'>Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias</a></h4>
     <a href='https://computerhoy.com/noticias/life/microbots-limpian-dientes-matan-bacterias-1093607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/adios-cepillos-microbots-limpian-dientes-ajustandose-forma-matan-bacterias-2759069.jpg' alt='Adiós a los cepillos: unos microbots limpian los dientes ajustándose a su forma, y matan las bacterias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233'>Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-colorizado-san-francisco-1906-antes-terremoto-1094233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/increible-video-colorizado-san-francisco-1906-nos-muestra-ciudad-dias-antes-ser-arrasada-terremoto-2759999.jpg' alt='Este increíble vídeo colorizado de San Francisco en 1906, nos muestra la ciudad días antes de ser arrasada por un terremoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613'>Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/efecto-pasillo-que-es-dgt-emergencias-1094613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/efecto-pasillo-dgt-aconseja-aprender-usar-emergencias-2760919.jpg' alt='Qué es el Efecto Pasillo, que la DGT aconseja aprender para usar en emergencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611'>Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie</a></h4>
-    <a href='https://computerhoy.com/noticias/life/oficinas-japon-instalaran-capsulas-echarse-siesta-tendras-dormir-pie-1094611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oficinista-asiatica-2760917.jpg' alt='Oficinas en Japón instalarán cápsulas para echarse la siesta en las que tendrás que dormir de pie' />
     </a>
 </div>
 
