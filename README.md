@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957'>La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 6 meses, a 7.000 Km de distancia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/antartida-vuelve-rosa-fenomeno-tuvo-lugar-hace-6-meses-7000-km-distancia-2761369.jpg' alt='La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 6 meses, a 7.000 Km de distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-video-rascacielos-jungla-cristal-34-anos-despues-1094949'>Bruce Willis emociona a los fans con un vídeo en el rascacielos de La Jungla de Cristal, 34 años después</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-video-rascacielos-jungla-cristal-34-anos-despues-1094949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/jungla-cristal-2758911.jpg' alt='Bruce Willis emociona a los fans con un vídeo en el rascacielos de La Jungla de Cristal, 34 años después' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939'>El final de los discos duros está cerca: las ventas caen un 33% año tras año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-desfragmentadores-disco-duro-2019.jpg' alt='El final de los discos duros está cerca: las ventas caen un 33% año tras año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921'>Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249055.jpg' alt='Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución' />
     </a>
 </div>
 
