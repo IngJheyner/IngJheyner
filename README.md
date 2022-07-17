@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915'>Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349'>7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/matanza-texas-2757233.jpg' alt='7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893'>Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769'>realme GT Neo 3T, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759205.jpg' alt='realme GT Neo 3T, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669'>Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/persona-jugando-pc-gaming-2424965.jpg' alt='Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311'>¿Qué es Auracast Audio?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1657888627848-2760031.jpg' alt='¿Qué es Auracast Audio?' />
     </a>
 </div>
 
