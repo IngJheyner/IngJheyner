@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669'>Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/persona-jugando-pc-gaming-2424965.jpg' alt='Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311'>¿Qué es Auracast Audio?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1657888627848-2760031.jpg' alt='¿Qué es Auracast Audio?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143'>YouTube Premium: ¿merece la pena pagar?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube Premium: ¿merece la pena pagar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319'>Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-smart-standing-fan-2-lite-2754945.jpg' alt='Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor' />
     </a>
 </div>
 
