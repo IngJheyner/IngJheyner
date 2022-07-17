@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957'>La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 6 meses, a 7.000 Km de distancia</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961'>Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/video-largo-youtube-dura-13000-horas-necesitarias-casi-dos-anos-verlo-1890249.jpg' alt='Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957'>La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 7 meses, a 7.000 Km de distancia</a></h4>
     <a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/antartida-vuelve-rosa-fenomeno-tuvo-lugar-hace-6-meses-7000-km-distancia-2761369.jpg' alt='La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 6 meses, a 7.000 Km de distancia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/antartida-vuelve-rosa-fenomeno-tuvo-lugar-hace-6-meses-7000-km-distancia-2761369.jpg' alt='La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 7 meses, a 7.000 Km de distancia' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171'>Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/olla-presion-vs-freidora-aceite-2756545.jpg' alt='Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939'>El final de los discos duros está cerca: las ventas caen un 33% año tras año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-desfragmentadores-disco-duro-2019.jpg' alt='El final de los discos duros está cerca: las ventas caen un 33% año tras año' />
     </a>
 </div>
 
