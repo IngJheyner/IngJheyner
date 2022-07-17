@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-video-rascacielos-jungla-cristal-34-anos-despues-1094949'>Bruce Willis emociona a los fans con un vídeo en el rascacielos de La Jungla de Cristal, 34 años después</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/bruce-willis-video-rascacielos-jungla-cristal-34-anos-despues-1094949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/jungla-cristal-2758911.jpg' alt='Bruce Willis emociona a los fans con un vídeo en el rascacielos de La Jungla de Cristal, 34 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-matebook-d-15-oferta-17-julio-2022-1094275'>El nuevo Huawei MateBook D 15 con procesador AMD y Windows 11 ya tiene 300€ de rebaja por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-matebook-d-15-oferta-17-julio-2022-1094275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='El nuevo Huawei MateBook D 15 con procesador AMD y Windows 11 ya tiene 300€ de rebaja por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171'>Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/olla-presion-vs-freidora-aceite-2756545.jpg' alt='Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939'>El final de los discos duros está cerca: las ventas caen un 33% año tras año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/final-discos-duros-cerca-ventas-caen-33-ano-ano-1094939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mejores-desfragmentadores-disco-duro-2019.jpg' alt='El final de los discos duros está cerca: las ventas caen un 33% año tras año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921'>Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249055.jpg' alt='Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919'>La gente compra ahora menos chocolate que antes y hay una razón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comer-chocolate-2761319.jpg' alt='La gente compra ahora menos chocolate que antes y hay una razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-runners-huawei-tiene-mejores-gps-ha-bajado-130-euros-amazon-1094917'>Este reloj para runners de Huawei tiene uno de los mejores GPS y ha bajado más de 130 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-runners-huawei-tiene-mejores-gps-ha-bajado-130-euros-amazon-1094917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600579.jpg' alt='Este reloj para runners de Huawei tiene uno de los mejores GPS y ha bajado más de 130 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915'>Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349'>7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/matanza-texas-2757233.jpg' alt='7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas' />
     </a>
 </div>
 
