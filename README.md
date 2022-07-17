@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311'>¿Qué es Auracast Audio?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1657888627848-2760031.jpg' alt='¿Qué es Auracast Audio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617'>El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/video-sobrevivir-ataque-nuclear-publicado-ayuntamiento-nueva-york-2760927.jpg' alt='El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319'>Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-smart-standing-fan-2-lite-2754945.jpg' alt='Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-1094607'>Inventan un guante inspirado en un pulpo para sujetar cualquier objeto debajo del agua</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-1094607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-2760911.jpg' alt='Inventan un guante inspirado en un pulpo para sujetar cualquier objeto debajo del agua' />
     </a>
 </div>
 
