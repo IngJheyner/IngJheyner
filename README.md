@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577'>POCO X4 GT, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143'>YouTube Premium: ¿merece la pena pagar?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube Premium: ¿merece la pena pagar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319'>Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-standing-fan-2-lite-oferta-17-julio-2022-1094319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-mi-smart-standing-fan-2-lite-2754945.jpg' alt='Con Amazon Prime mañana tendrías en casa este ventilador inteligente de Xiaomi para sobrellevar la ola de calor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenador-nucleo-seguro-windows-11-1091651'>Qué es un ordenador con núcleo seguro en Windows 11</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ordenador-nucleo-seguro-windows-11-1091651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2755641.jpg' alt='Qué es un ordenador con núcleo seguro en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estamos-muy-cerca-ser-8000-millones-personas-tierra-1094609'>Estamos muy cerca de ser 8000 millones de personas en la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estamos-muy-cerca-ser-8000-millones-personas-tierra-1094609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/poblacion-mundial-2760913.jpg' alt='Estamos muy cerca de ser 8000 millones de personas en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-bases-ventilacion-portatil-1094321'>5 bases refrigeradoras con ventilación para que tu portátil soporte las altas temperaturas del verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-bases-ventilacion-portatil-1094321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mujer-usando-portatil-movil-mesa-2760905.jpg' alt='5 bases refrigeradoras con ventilación para que tu portátil soporte las altas temperaturas del verano' />
     </a>
 </div>
 
