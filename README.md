@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261'>Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/compra-unas-baratijas-joyeria-online-descubre-anillo-vikingo-oro-macizo-hace-1000-anos-2760219.jpg' alt='Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961'>Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/video-largo-youtube-dura-13000-horas-necesitarias-casi-dos-anos-verlo-1890249.jpg' alt='Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-matebook-d-15-oferta-17-julio-2022-1094275'>El nuevo Huawei MateBook D 15 con procesador AMD y Windows 11 ya tiene 300€ de rebaja por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-huawei-matebook-d-15-oferta-17-julio-2022-1094275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311199.jpg' alt='El nuevo Huawei MateBook D 15 con procesador AMD y Windows 11 ya tiene 300€ de rebaja por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171'>Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/olla-presion-vs-freidora-aceite-diferencias-ventajas-inconvenientes-cual-mejor-ti-1092171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/olla-presion-vs-freidora-aceite-2756545.jpg' alt='Olla a presión vs Freidora sin aceite: diferencias, ventajas, inconvenientes y cuál es mejor para ti' />
     </a>
 </div>
 
