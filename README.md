@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617'>El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/video-sobrevivir-ataque-nuclear-publicado-ayuntamiento-nueva-york-2760927.jpg' alt='El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577'>POCO X4 GT, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-1094607'>Inventan un guante inspirado en un pulpo para sujetar cualquier objeto debajo del agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-1094607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inventan-guante-inspirado-pulpo-sujetar-cualquier-objeto-debajo-agua-2760911.jpg' alt='Inventan un guante inspirado en un pulpo para sujetar cualquier objeto debajo del agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ordenador-nucleo-seguro-windows-11-1091651'>Qué es un ordenador con núcleo seguro en Windows 11</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ordenador-nucleo-seguro-windows-11-1091651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2755641.jpg' alt='Qué es un ordenador con núcleo seguro en Windows 11' />
     </a>
 </div>
 
