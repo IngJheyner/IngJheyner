@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921'>Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-samsung-galaxy-buds-bloquean-forma-constante-hay-solucion-1094921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249055.jpg' alt='Las aplicaciones de los Samsung Galaxy Buds se bloquean de forma constante y hay una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919'>La gente compra ahora menos chocolate que antes y hay una razón</a></h4>
     <a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comer-chocolate-2761319.jpg' alt='La gente compra ahora menos chocolate que antes y hay una razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349'>7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-miedo-estan-basadas-hechos-reales-eso-hace-terrorificas-1092349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/matanza-texas-2757233.jpg' alt='7 películas de miedo que están basadas en hechos reales, y eso las hace más terroríficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893'>Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp' />
     </a>
 </div>
 
