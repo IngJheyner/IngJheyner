@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919'>La gente compra ahora menos chocolate que antes y hay una razón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gente-compra-ahora-menos-chocolate-antes-hay-razon-1094919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comer-chocolate-2761319.jpg' alt='La gente compra ahora menos chocolate que antes y hay una razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-runners-huawei-tiene-mejores-gps-ha-bajado-130-euros-amazon-1094917'>Este reloj para runners de Huawei tiene uno de los mejores GPS y ha bajado más de 130 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-runners-huawei-tiene-mejores-gps-ha-bajado-130-euros-amazon-1094917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-runner-2600579.jpg' alt='Este reloj para runners de Huawei tiene uno de los mejores GPS y ha bajado más de 130 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915'>Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-tanto-calor-lugar-mineros-criptomonedas-han-cesado-actividad-1094915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='Hace tanto calor que en este lugar los mineros de criptomonedas han cesado su actividad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893'>Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-c925e-oferta-17-julio-2022-1094171'>Si buscas calidad en tus videollamadas esta webcam de Logitech corrige hasta la iluminación y está rebajada un 32%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-c925e-oferta-17-julio-2022-1094171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/buscas-calidad-videollamadas-webcam-logitech-corrige-iluminacion-rebajada-32-2759885.jpg' alt='Si buscas calidad en tus videollamadas esta webcam de Logitech corrige hasta la iluminación y está rebajada un 32%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769'>realme GT Neo 3T, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759205.jpg' alt='realme GT Neo 3T, análisis y opinión' />
     </a>
 </div>
 
