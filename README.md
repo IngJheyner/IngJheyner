@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893'>Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podremos-configurar-varias-conversaciones-mensajes-temporales-mismo-tiempo-whatsapp-1094893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Podremos configurar varias conversaciones con mensajes temporales al mismo tiempo en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-c925e-oferta-17-julio-2022-1094171'>Si buscas calidad en tus videollamadas esta webcam de Logitech corrige hasta la iluminación y está rebajada un 32%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-c925e-oferta-17-julio-2022-1094171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/buscas-calidad-videollamadas-webcam-logitech-corrige-iluminacion-rebajada-32-2759885.jpg' alt='Si buscas calidad en tus videollamadas esta webcam de Logitech corrige hasta la iluminación y está rebajada un 32%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769'>realme GT Neo 3T, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-gt-neo-3t-review-opinion-1081769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759205.jpg' alt='realme GT Neo 3T, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669'>Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/modificaciones-registro-windows-mejorar-rendimiento-pc-jugar-1086669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/persona-jugando-pc-gaming-2424965.jpg' alt='Modificaciones del Registro de Windows para mejorar el rendimiento de tu PC para jugar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311'>¿Qué es Auracast Audio?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/auracast-audio-1083311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1657888627848-2760031.jpg' alt='¿Qué es Auracast Audio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617'>El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-sobrevivir-ataque-nuclear-ayuntamiento-nueva-york-1094617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/video-sobrevivir-ataque-nuclear-publicado-ayuntamiento-nueva-york-2760927.jpg' alt='El vídeo para sobrevivir a un ataque nuclear, publicado por el ayuntamiento de Nueva York' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577'>POCO X4 GT, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-x4-gt-review-opinion-1093577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143'>YouTube Premium: ¿merece la pena pagar?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/youtube-premium-merece-pena-pagar-1070143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube Premium: ¿merece la pena pagar?' />
     </a>
 </div>
 
