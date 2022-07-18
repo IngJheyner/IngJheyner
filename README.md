@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171'>Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-xiaomi-2761615.jpg' alt='Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-300-euros-1094953'>Mejores móviles por debajo de 300€ que puedes comprar este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-300-euros-1094953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519631.jpg' alt='Mejores móviles por debajo de 300€ que puedes comprar este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1095155'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1095155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2761593.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261'>Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/compra-unas-baratijas-joyeria-online-descubre-anillo-vikingo-oro-macizo-hace-1000-anos-2760219.jpg' alt='Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961'>Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/lofi-girl-video-musica-relajante-disponible-1094961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/video-largo-youtube-dura-13000-horas-necesitarias-casi-dos-anos-verlo-1890249.jpg' alt='Lofi Girl, el vídeo de música relajante más largo de YouTube, más de 13.000 horas, vuelve a estar disponible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957'>La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 7 meses, a 7.000 Km de distancia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/antartida-rosa-fenomeno-volcan-tonga-1094957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/antartida-vuelve-rosa-fenomeno-tuvo-lugar-hace-6-meses-7000-km-distancia-2761369.jpg' alt='La Antártida se vuelve rosa por un fenómeno que tuvo lugar hace 7 meses, a 7.000 Km de distancia' />
     </a>
 </div>
 
