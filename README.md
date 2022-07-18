@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523'>15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/15-temporadas-hospital-descubrimiento-george-clooney-urgencias-ha-regresado-hbo-max-2762319.jpg' alt='15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-pro-bip-3-llegan-espana-mayor-bateria-gps-pantalla-1095473'>Los Amazfit Bip 3 Pro y Bip 3 llegan a España con mayor batería, GPS y más pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-pro-bip-3-llegan-espana-mayor-bateria-gps-pantalla-1095473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='Los Amazfit Bip 3 Pro y Bip 3 llegan a España con mayor batería, GPS y más pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197'>Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-book2-pro-2762045.jpg' alt='Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447'>Cómo ahorrar tiempo con atajos de teclado en Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo ahorrar tiempo con atajos de teclado en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-sacarle-todo-partido-tablet-android-1087457'>Las mejores aplicaciones para sacarle todo el partido a tu tablet Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-sacarle-todo-partido-tablet-android-1087457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-sacarle-todo-partido-tablet-android-2749117.jpg' alt='Las mejores aplicaciones para sacarle todo el partido a tu tablet Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441'>Intel quiere volver al negocio del software tras años de fracasos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel quiere volver al negocio del software tras años de fracasos' />
     </a>
 </div>
 
