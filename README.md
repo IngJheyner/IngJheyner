@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197'>Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-book2-pro-2762045.jpg' alt='Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi'>Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-tv-q1e-55-2585959.jpg' alt='Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441'>Intel quiere volver al negocio del software tras años de fracasos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel quiere volver al negocio del software tras años de fracasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439'>Nuevo rediseño de la vista de la galería para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Nuevo rediseño de la vista de la galería para WhatsApp' />
     </a>
 </div>
 
