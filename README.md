@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-confirma-demo-steam-podria-llegar-mes-viene-tesla-1095209'>Elon Musk confirma que una demo de Steam podría llegar el mes que viene a sus Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-confirma-demo-steam-podria-llegar-mes-viene-tesla-1095209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-2624673.jpg' alt='Elon Musk confirma que una demo de Steam podría llegar el mes que viene a sus Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-caracteristicas-bill-gates-tienes-tener-triunfar-trabajo-1095229'>Las tres características según Bill Gates que tienes que tener para triunfar en el trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-caracteristicas-bill-gates-tienes-tener-triunfar-trabajo-1095229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bill-gates-fundador-microsoft-2726203.jpg' alt='Las tres características según Bill Gates que tienes que tener para triunfar en el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/velocimetro-no-marca-velocidad-real-coche-motivo-1095225'>Tu velocímetro no marca la velocidad real de tu coche y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/velocimetro-no-marca-velocidad-real-coche-motivo-1095225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razon-velocimetros-coches-alcanzan-240-km-h-tope-legal-justo-centro-2146359.jpg' alt='Tu velocímetro no marca la velocidad real de tu coche y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elefantes-evitan-cancer-manera-natural-nosotros-tambien-podriamos-1095189'>Los elefantes evitan el cáncer de una manera natural, nosotros también podríamos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elefantes-evitan-cancer-manera-natural-nosotros-tambien-podriamos-1095189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/elefantes-2205783.jpg' alt='Los elefantes evitan el cáncer de una manera natural, nosotros también podríamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175'>2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana</a></h4>
     <a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171'>Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-xiaomi-2761615.jpg' alt='Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-300-euros-1094953'>Mejores móviles por debajo de 300€ que puedes comprar este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-300-euros-1094953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519631.jpg' alt='Mejores móviles por debajo de 300€ que puedes comprar este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1095155'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1095155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2761593.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-tecnologicos-vacaciones-1094947'>5 productos tecnológicos que no te pueden faltar si te vas de vacaciones ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/productos-tecnologicos-vacaciones-1094947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mujer-relajandose-playa-2761341.jpg' alt='5 productos tecnológicos que no te pueden faltar si te vas de vacaciones ya' />
     </a>
 </div>
 
