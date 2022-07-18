@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-core-i9-13900k-raptor-lake-bestia-videojuegos-mejora-27-frente-generacion-anterior-1095259'>Intel Core i9 13900K Raptor Lake es una bestia para videojuegos, mejora de hasta un 27 % frente a la generación anterior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-core-i9-13900k-raptor-lake-bestia-videojuegos-mejora-27-frente-generacion-anterior-1095259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel Core i9 13900K Raptor Lake es una bestia para videojuegos, mejora de hasta un 27 % frente a la generación anterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teachtoker-como-profesores-hoy-dia-pueden-pasar-raya-como-influencers-exponiendo-alumnos-1095253'>Teachtoker o cómo los profesores de hoy día se pueden pasar de la raya como influencers exponiendo a sus alumnos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teachtoker-como-profesores-hoy-dia-pueden-pasar-raya-como-influencers-exponiendo-alumnos-1095253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Teachtoker o cómo los profesores de hoy día se pueden pasar de la raya como influencers exponiendo a sus alumnos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-confirma-demo-steam-podria-llegar-mes-viene-tesla-1095209'>Elon Musk confirma que una demo de Steam podría llegar el mes que viene a sus Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-confirma-demo-steam-podria-llegar-mes-viene-tesla-1095209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tesla-2624673.jpg' alt='Elon Musk confirma que una demo de Steam podría llegar el mes que viene a sus Tesla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/velocimetro-no-marca-velocidad-real-coche-motivo-1095225'>Tu velocímetro no marca la velocidad real de tu coche y este es el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/velocimetro-no-marca-velocidad-real-coche-motivo-1095225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razon-velocimetros-coches-alcanzan-240-km-h-tope-legal-justo-centro-2146359.jpg' alt='Tu velocímetro no marca la velocidad real de tu coche y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elefantes-evitan-cancer-manera-natural-nosotros-tambien-podriamos-1095189'>Los elefantes evitan el cáncer de una manera natural, nosotros también podríamos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elefantes-evitan-cancer-manera-natural-nosotros-tambien-podriamos-1095189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/elefantes-2205783.jpg' alt='Los elefantes evitan el cáncer de una manera natural, nosotros también podríamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175'>2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana' />
     </a>
 </div>
 
