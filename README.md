@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529'>Estos son los errores que no debes cometer con tu ventilador este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2762345.jpg' alt='Estos son los errores que no debes cometer con tu ventilador este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523'>15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/15-temporadas-hospital-descubrimiento-george-clooney-urgencias-ha-regresado-hbo-max-2762319.jpg' alt='15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi'>Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-tv-q1e-55-2585959.jpg' alt='Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447'>Cómo ahorrar tiempo con atajos de teclado en Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo ahorrar tiempo con atajos de teclado en Word' />
     </a>
 </div>
 
