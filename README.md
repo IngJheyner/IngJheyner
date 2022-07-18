@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439'>Nuevo rediseño de la vista de la galería para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Nuevo rediseño de la vista de la galería para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-ha-dividido-espectadores-tendra-secuela-aunque-aun-no-oficial-1095359'>Una de las películas de Marvel que más ha dividido a los espectadores tendrá secuela, aunque aún no es oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-ha-dividido-espectadores-tendra-secuela-aunque-aun-no-oficial-1095359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Una de las películas de Marvel que más ha dividido a los espectadores tendrá secuela, aunque aún no es oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-helado-menos-engorda-mercadona-1095365'>Cuál es el helado que menos engorda de Mercadona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-helado-menos-engorda-mercadona-1095365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mochi-mercadona-2731143.jpg' alt='Cuál es el helado que menos engorda de Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/decada-funcionamiento-snapchat-llega-web-1095289'>Tras una década en funcionamiento, Snapchat llega a la web</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/decada-funcionamiento-snapchat-llega-web-1095289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Tras una década en funcionamiento, Snapchat llega a la web' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/confirma-seguridad-nacional-estados-unidos-borrar-sms-no-implica-desaparezca-todo-1095343'>Lo confirma Seguridad Nacional de Estados Unidos “Borrar un SMS no implica que desaparezca del todo”</a></h4>
     <a href='https://computerhoy.com/noticias/confirma-seguridad-nacional-estados-unidos-borrar-sms-no-implica-desaparezca-todo-1095343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mensaje-texto-sms-2228157.jpg' alt='Lo confirma Seguridad Nacional de Estados Unidos “Borrar un SMS no implica que desaparezca del todo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresionante-retoque-foto-gratuito-ia-enhance-x-moviles-samsung-1095317'>Así de impresionante es el retoque de foto gratuito con la IA de Enhance-X para móviles Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/impresionante-retoque-foto-gratuito-ia-enhance-x-moviles-samsung-1095317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Así de impresionante es el retoque de foto gratuito con la IA de Enhance-X para móviles Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/policia-navarra-queda-bateria-coches-electricos-mitad-servicio-1095331'>La policía navarra se queda sin batería en sus coches eléctricos a mitad de servicio</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/policia-navarra-queda-bateria-coches-electricos-mitad-servicio-1095331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-bateria-policia-navarra-2761893.jpg' alt='La policía navarra se queda sin batería en sus coches eléctricos a mitad de servicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-lanzara-nueva-familia-plegables-galaxy-z-fold-4-flip-4-10-agosto-1095339'>Samsung lanzará la nueva familia de plegables Galaxy Z Fold 4 y Flip 4 el 10 de agosto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-lanzara-nueva-familia-plegables-galaxy-z-fold-4-flip-4-10-agosto-1095339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/banner-presentacion-samsung-fold-evan-blass-2761887.jpg' alt='Samsung lanzará la nueva familia de plegables Galaxy Z Fold 4 y Flip 4 el 10 de agosto' />
     </a>
 </div>
 
