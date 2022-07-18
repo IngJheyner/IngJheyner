@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175'>2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/2-horas-electricidad-dia-dispondran-finlandia-invierno-guerra-ruso-ucraniana-1095175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/nieve-carretera-2234235.jpg' alt='2 horas de electricidad al día es de lo que dispondrán en Finlandia este invierno por la guerra ruso-ucraniana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171'>Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto</a></h4>
     <a href='https://computerhoy.com/noticias/motor/xiaomi-suma-coches-electricos-nos-dejara-ver-prototipo-agosto-1095171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-xiaomi-2761615.jpg' alt='Xiaomi se suma a los coches eléctricos y nos dejará ver un prototipo en agosto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/productos-tecnologicos-vacaciones-1094947'>5 productos tecnológicos que no te pueden faltar si te vas de vacaciones ya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/productos-tecnologicos-vacaciones-1094947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mujer-relajandose-playa-2761341.jpg' alt='5 productos tecnológicos que no te pueden faltar si te vas de vacaciones ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261'>Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/compra-baratijas-subasta-online-anillo-vikingo-oro-macizo-1094261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/compra-unas-baratijas-joyeria-online-descubre-anillo-vikingo-oro-macizo-hace-1000-anos-2760219.jpg' alt='Compra unas baratijas en una subasta online y descubre un anillo vikingo de oro macizo de hace 1.000 años' />
     </a>
 </div>
 
