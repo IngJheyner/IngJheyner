@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresionante-retoque-foto-gratuito-ia-enhance-x-moviles-samsung-1095317'>Así de impresionante es el retoque de foto gratuito con la IA de Enhance-X para móviles Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/impresionante-retoque-foto-gratuito-ia-enhance-x-moviles-samsung-1095317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Así de impresionante es el retoque de foto gratuito con la IA de Enhance-X para móviles Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/policia-navarra-queda-bateria-coches-electricos-mitad-servicio-1095331'>La policía navarra se queda sin batería en sus coches eléctricos a mitad de servicio</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/policia-navarra-queda-bateria-coches-electricos-mitad-servicio-1095331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-bateria-policia-navarra-2761893.jpg' alt='La policía navarra se queda sin batería en sus coches eléctricos a mitad de servicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-lanzara-nueva-familia-plegables-galaxy-z-fold-4-flip-4-10-agosto-1095339'>Samsung lanzará la nueva familia de plegables Galaxy Z Fold 4 y Flip 4 el 10 de agosto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-lanzara-nueva-familia-plegables-galaxy-z-fold-4-flip-4-10-agosto-1095339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/banner-presentacion-samsung-fold-evan-blass-2761887.jpg' alt='Samsung lanzará la nueva familia de plegables Galaxy Z Fold 4 y Flip 4 el 10 de agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-instalar-windows-11-equipo-mac-1095303'>Así puedes instalar Windows 11 en un equipo Mac</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-instalar-windows-11-equipo-mac-1095303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Así puedes instalar Windows 11 en un equipo Mac' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cosas-deberias-hacer-evitar-muerte-prematura-bateria-movil-1095221'>Las cosas que deberías hacer para evitar la muerte prematura de la batería de tu móvil </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cosas-deberias-hacer-evitar-muerte-prematura-bateria-movil-1095221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-primeras-impresiones-2756901.jpg' alt='Las cosas que deberías hacer para evitar la muerte prematura de la batería de tu móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-potente-eficiente-ademas-barato-msi-gf63-thin-ha-bajado-280-euros-amazon-1095213'>¿Un portátil gaming potente, eficiente y además barato? MSI GF63 Thin ha bajado 280 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-potente-eficiente-ademas-barato-msi-gf63-thin-ha-bajado-280-euros-amazon-1095213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gf63-thin-2737609.jpg' alt='¿Un portátil gaming potente, eficiente y además barato? MSI GF63 Thin ha bajado 280 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-core-i9-13900k-raptor-lake-bestia-videojuegos-mejora-27-frente-generacion-anterior-1095259'>Intel Core i9 13900K Raptor Lake es una bestia para videojuegos, mejora de hasta un 27 % frente a la generación anterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-core-i9-13900k-raptor-lake-bestia-videojuegos-mejora-27-frente-generacion-anterior-1095259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='Intel Core i9 13900K Raptor Lake es una bestia para videojuegos, mejora de hasta un 27 % frente a la generación anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teachtoker-como-profesores-hoy-dia-pueden-pasar-raya-como-influencers-exponiendo-alumnos-1095253'>Teachtoker o cómo los profesores de hoy día se pueden pasar de la raya como influencers exponiendo a sus alumnos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teachtoker-como-profesores-hoy-dia-pueden-pasar-raya-como-influencers-exponiendo-alumnos-1095253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Teachtoker o cómo los profesores de hoy día se pueden pasar de la raya como influencers exponiendo a sus alumnos' />
     </a>
 </div>
 
