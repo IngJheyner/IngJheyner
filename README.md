@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525'>Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471'>Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-nebulizador-2762231.jpg' alt='Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533'>La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-procesadores-m2-pro-m2-max-estarian-caer-1095501'>Los últimos rumores apuntan a que los procesadores M2 Pro y M2 Max estarían al caer</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-procesadores-m2-pro-m2-max-estarian-caer-1095501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638597.jpg' alt='Los últimos rumores apuntan a que los procesadores M2 Pro y M2 Max estarían al caer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529'>Estos son los errores que no debes cometer con tu ventilador este verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2762345.jpg' alt='Estos son los errores que no debes cometer con tu ventilador este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523'>15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-urgencias-george-clooney-hbo-max-1095523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/15-temporadas-hospital-descubrimiento-george-clooney-urgencias-ha-regresado-hbo-max-2762319.jpg' alt='15 temporadas, un hospital y el descubrimiento de George Clooney: Urgencias ha regresado a HBO Max ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-pro-bip-3-llegan-espana-mayor-bateria-gps-pantalla-1095473'>Los Amazfit Bip 3 Pro y Bip 3 llegan a España con mayor batería, GPS y más pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-pro-bip-3-llegan-espana-mayor-bateria-gps-pantalla-1095473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='Los Amazfit Bip 3 Pro y Bip 3 llegan a España con mayor batería, GPS y más pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197'>Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-book2-pro-oferta-18-julio-2022-1094197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-book2-pro-2762045.jpg' alt='Samsung tiene una de las alternativas premium al MacBook Air con este Galaxy Book2 Pro con 200€ de rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi'>Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-tv-q1e-55-2585959.jpg' alt='Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta' />
     </a>
 </div>
 
