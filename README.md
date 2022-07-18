@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545'>El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día</a></h4>
+    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-webb-tiene-ssd-pequeno-pc-solo-puede-guardar-fotos-dia-2762377.jpg' alt='El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tendria-manos-nuevo-surface-duo-hecho-plastico-ha-filtrado-completo-ebay-1095541'>Microsoft tendría entre manos un nuevo Surface Duo hecho de plástico que se ha filtrado al completo en eBay</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tendria-manos-nuevo-surface-duo-hecho-plastico-ha-filtrado-completo-ebay-1095541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg' alt='Microsoft tendría entre manos un nuevo Surface Duo hecho de plástico que se ha filtrado al completo en eBay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525'>Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533'>La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-procesadores-m2-pro-m2-max-estarian-caer-1095501'>Los últimos rumores apuntan a que los procesadores M2 Pro y M2 Max estarían al caer</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-procesadores-m2-pro-m2-max-estarian-caer-1095501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/m1-ultra-2638597.jpg' alt='Los últimos rumores apuntan a que los procesadores M2 Pro y M2 Max estarían al caer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529'>Estos son los errores que no debes cometer con tu ventilador este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-errores-no-debes-cometer-ventilador-verano-1095529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-2762345.jpg' alt='Estos son los errores que no debes cometer con tu ventilador este verano' />
     </a>
 </div>
 
