@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi'>Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tv-televisor-xiaomi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-tv-q1e-55-2585959.jpg' alt='Comprar un televisor barato de Xiaomi en 2022: todo lo qué debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447'>Cómo ahorrar tiempo con atajos de teclado en Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-tiempo-atajos-teclado-word-1095447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo ahorrar tiempo con atajos de teclado en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-sacarle-todo-partido-tablet-android-1087457'>Las mejores aplicaciones para sacarle todo el partido a tu tablet Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-sacarle-todo-partido-tablet-android-1087457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-sacarle-todo-partido-tablet-android-2749117.jpg' alt='Las mejores aplicaciones para sacarle todo el partido a tu tablet Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441'>Intel quiere volver al negocio del software tras años de fracasos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-quiere-volver-negocio-software-anos-fracasos-1095441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-stand-mwc-2633929.jpg' alt='Intel quiere volver al negocio del software tras años de fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439'>Nuevo rediseño de la vista de la galería para WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-rediseno-vista-galeria-whatsapp-1095439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/whatsapp-web.jpg' alt='Nuevo rediseño de la vista de la galería para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-ha-dividido-espectadores-tendra-secuela-aunque-aun-no-oficial-1095359'>Una de las películas de Marvel que más ha dividido a los espectadores tendrá secuela, aunque aún no es oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-marvel-ha-dividido-espectadores-tendra-secuela-aunque-aun-no-oficial-1095359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/eternals-marvel-studios-2525561.jpg' alt='Una de las películas de Marvel que más ha dividido a los espectadores tendrá secuela, aunque aún no es oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-helado-menos-engorda-mercadona-1095365'>Cuál es el helado que menos engorda de Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-helado-menos-engorda-mercadona-1095365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mochi-mercadona-2731143.jpg' alt='Cuál es el helado que menos engorda de Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/decada-funcionamiento-snapchat-llega-web-1095289'>Tras una década en funcionamiento, Snapchat llega a la web</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/decada-funcionamiento-snapchat-llega-web-1095289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Tras una década en funcionamiento, Snapchat llega a la web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/confirma-seguridad-nacional-estados-unidos-borrar-sms-no-implica-desaparezca-todo-1095343'>Lo confirma Seguridad Nacional de Estados Unidos “Borrar un SMS no implica que desaparezca del todo”</a></h4>
-    <a href='https://computerhoy.com/noticias/confirma-seguridad-nacional-estados-unidos-borrar-sms-no-implica-desaparezca-todo-1095343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/mensaje-texto-sms-2228157.jpg' alt='Lo confirma Seguridad Nacional de Estados Unidos “Borrar un SMS no implica que desaparezca del todo”' />
     </a>
 </div>
 
