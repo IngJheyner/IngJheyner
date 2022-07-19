@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885'>Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947'>Robots que aprenden observando e imitando cómo los humanos hacemos las cosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/grupo-robots.jpg' alt='Robots que aprenden observando e imitando cómo los humanos hacemos las cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945'>Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-2762965.jpg' alt='Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubrimiento-podria-hacer-coche-hidrogeno-pase-derecha-coche-electrico-1095911'>El descubrimiento que podría hacer que el coche de hidrógeno pase por la derecha al coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubrimiento-podria-hacer-coche-hidrogeno-pase-derecha-coche-electrico-1095911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-gr-yaris-hidrogeno-2551181.jpg' alt='El descubrimiento que podría hacer que el coche de hidrógeno pase por la derecha al coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933'>La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener</a></h4>
     <a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861'>Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/jugadores-videojuegos-tienen-capacidad-cognitiva-toma-decisiones-superior-estudio-1095857'>Los jugadores de videojuegos tienen una capacidad cognitiva y de toma de decisiones superior, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/jugadores-videojuegos-tienen-capacidad-cognitiva-toma-decisiones-superior-estudio-1095857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tertulia-mejores-videojuegos-2017-660502.jpg' alt='Los jugadores de videojuegos tienen una capacidad cognitiva y de toma de decisiones superior, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-ha-redisenado-aplicacion-te-sea-sencillo-elegir-ver-1095893'>Prime Video ha rediseñado su aplicación para que te sea más sencillo elegir qué ver</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-ha-redisenado-aplicacion-te-sea-sencillo-elegir-ver-1095893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/prime-video-2762797.jpg' alt='Prime Video ha rediseñado su aplicación para que te sea más sencillo elegir qué ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879'>Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-venta-espana-surface-laptop-go-2-microsoft-2762807.jpg' alt='Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía' />
     </a>
 </div>
 
