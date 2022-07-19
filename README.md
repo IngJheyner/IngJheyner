@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933'>La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861'>Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879'>Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-venta-espana-surface-laptop-go-2-microsoft-2762807.jpg' alt='Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nubia-z40s-pro-descubierto-nuevo-smartphone-top-aroma-gaming-1095853'>Nubia Z40S Pro al descubierto, nuevo smartphone top con aroma gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nubia-z40s-pro-descubierto-nuevo-smartphone-top-aroma-gaming-1095853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nubia-z40s-pro-2762737.jpg' alt='Nubia Z40S Pro al descubierto, nuevo smartphone top con aroma gaming' />
     </a>
 </div>
 
