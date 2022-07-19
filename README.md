@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201'>PlayStation Network se ha caído, y la culpa es de este gato callejero </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/playstation-network-ha-caido-culpa-gato-callejero-2763535.jpg' alt='PlayStation Network se ha caído, y la culpa es de este gato callejero ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-1096187'>El futuro de Nova Launcher es incierto: los desarrolladores venden la aplicación a una empresa de publicidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-1096187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-2763521.jpg' alt='El futuro de Nova Launcher es incierto: los desarrolladores venden la aplicación a una empresa de publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169'>WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119'>Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-buds-live-analisis-opinion-2045947.jpg' alt='Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/contraintuitivo-truco-pasar-frescas-noches-verano-1096183'>El contraintuitivo truco para pasar frescas las noches de verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/contraintuitivo-truco-pasar-frescas-noches-verano-1096183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bolsa-agua-caliente-2763483.jpg' alt='El contraintuitivo truco para pasar frescas las noches de verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117'>Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-2763395.jpg' alt='Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta' />
     </a>
 </div>
 
