@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083'>Las mejores comunidades online para ti si eres una persona introvertida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/trucos-usan-menores-chinos-esquivar-prohibicion-jugar-online-3-horas-semana-2468407.jpg' alt='Las mejores comunidades online para ti si eres una persona introvertida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517'>La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-codigo-2762311.jpg' alt='La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101'>Blade A72 y V40, las apuestas de ZTE para la gama media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zte-blade-v40-2763309.jpg' alt='Blade A72 y V40, las apuestas de ZTE para la gama media' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989'>Cuál es el peor número del eneagrama</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hemisferios-cerebrales-1914037.jpg' alt='Cuál es el peor número del eneagrama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-coche-hibrido-1096065'>Cómo funciona un coche híbrido</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-funciona-coche-hibrido-1096065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/comprar-coche-hibrido-hibrido-enchufable-ventajas-inconvenientes-1979587.jpg' alt='Cómo funciona un coche híbrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551'>Errores que no cometer al comprar un coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760819.jpg' alt='Errores que no cometer al comprar un coche eléctrico' />
     </a>
 </div>
 
