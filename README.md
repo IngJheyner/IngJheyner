@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/5-ratones-ultraligeros-haran-no-te-sude-mano-durante-verano-1095363'>5 ratones ultraligeros que harán que no te sude la mano durante el verano</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/5-ratones-ultraligeros-haran-no-te-sude-mano-durante-verano-1095363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/redragon-m808-storm-2736037.jpg' alt='5 ratones ultraligeros que harán que no te sude la mano durante el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/noticias-tecnologicas-2762615.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773'>Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/shadow-six-auv-utv-motos-acuaticas-vez-ruedas-video-2762607.jpg' alt='Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545'>El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día</a></h4>
-    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-webb-tiene-ssd-pequeno-pc-solo-puede-guardar-fotos-dia-2762377.jpg' alt='El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día' />
     </a>
 </div>
 
