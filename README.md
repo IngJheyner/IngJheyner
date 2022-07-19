@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967'>Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/calor-quita-hambre-engorda-aire-acondicionado-1096023'>Si el calor quita el hambre... ¿engorda el aire acondicionado?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/calor-quita-hambre-engorda-aire-acondicionado-1096023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-causas-no-bajas-kilos-pese-seguir-dieta-2528541.jpg' alt='Si el calor quita el hambre... ¿engorda el aire acondicionado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885'>Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945'>Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-2762965.jpg' alt='Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubrimiento-podria-hacer-coche-hidrogeno-pase-derecha-coche-electrico-1095911'>El descubrimiento que podría hacer que el coche de hidrógeno pase por la derecha al coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubrimiento-podria-hacer-coche-hidrogeno-pase-derecha-coche-electrico-1095911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/toyota-gr-yaris-hidrogeno-2551181.jpg' alt='El descubrimiento que podría hacer que el coche de hidrógeno pase por la derecha al coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933'>La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tormenta-solar-impacta-directamente-hoy-tierra-peligrosas-consecuencias-puede-tener-1095933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamarada-solar-2721197.jpg' alt='La tormenta solar que impacta directamente hoy en la Tierra y las peligrosas consecuencias que puede tener' />
     </a>
 </div>
 
