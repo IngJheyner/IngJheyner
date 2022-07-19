@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773'>Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/shadow-six-auv-utv-motos-acuaticas-vez-ruedas-video-2762607.jpg' alt='Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545'>El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-webb-tiene-ssd-pequeno-pc-solo-puede-guardar-fotos-dia-2762377.jpg' alt='El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471'>Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-nebulizador-2762231.jpg' alt='Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533'>La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/policia-nacional-alerta-mensaje-whatsapp-debes-evitar-1095533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/persona-mayor-usando-whatsapp-2531311.jpg' alt='La Policía Nacional alerta sobre este mensaje de WhatsApp que debes evitar' />
     </a>
 </div>
 
