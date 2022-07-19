@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551'>Errores que no cometer al comprar un coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760819.jpg' alt='Errores que no cometer al comprar un coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967'>Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947'>Robots que aprenden observando e imitando cómo los humanos hacemos las cosas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/grupo-robots.jpg' alt='Robots que aprenden observando e imitando cómo los humanos hacemos las cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945'>Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-prepara-presentacion-numerosos-productos-junto-harmonyos-3-27-julio-1095945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-2762965.jpg' alt='Huawei prepara la presentación de numerosos productos junto con HarmonyOS 3 el 27 de julio ' />
     </a>
 </div>
 
