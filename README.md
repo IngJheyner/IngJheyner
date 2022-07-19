@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777'>Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-mochila-dejarla-como-nueva-mano-lavadora-2762613.jpg' alt='Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773'>Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/shadow-six-auv-utv-motos-acuaticas-vez-ruedas-video-2762607.jpg' alt='Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525'>Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471'>Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-nebulizador-barato-amazon-1095471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ventilador-nebulizador-2762231.jpg' alt='Si no puedes más con los 40ºC hazte con el ventilador con nebulizador más barato de Amazon' />
     </a>
 </div>
 
