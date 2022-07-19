@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079'>YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989'>Cuál es el peor número del eneagrama</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hemisferios-cerebrales-1914037.jpg' alt='Cuál es el peor número del eneagrama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-coche-hibrido-1096065'>Cómo funciona un coche híbrido</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-funciona-coche-hibrido-1096065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/comprar-coche-hibrido-hibrido-enchufable-ventajas-inconvenientes-1979587.jpg' alt='Cómo funciona un coche híbrido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551'>Errores que no cometer al comprar un coche eléctrico</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760819.jpg' alt='Errores que no cometer al comprar un coche eléctrico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967'>Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/calor-quita-hambre-engorda-aire-acondicionado-1096023'>Si el calor quita el hambre... ¿engorda el aire acondicionado?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/calor-quita-hambre-engorda-aire-acondicionado-1096023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/7-causas-no-bajas-kilos-pese-seguir-dieta-2528541.jpg' alt='Si el calor quita el hambre... ¿engorda el aire acondicionado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885'>Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-air-fryer-vuelve-estar-precio-minimo-mejores-freidoras-aire-puedes-comprar-1095885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-smart-air-fryer-2411675.jpg' alt='Xiaomi Mi Smart Air Fryer vuelve a estar a precio mínimo, una de las mejores freidoras de aire que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947'>Robots que aprenden observando e imitando cómo los humanos hacemos las cosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-aprenden-observando-imitando-como-humanos-hacemos-cosas-1095947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/grupo-robots.jpg' alt='Robots que aprenden observando e imitando cómo los humanos hacemos las cosas' />
     </a>
 </div>
 
