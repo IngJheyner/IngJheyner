@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861'>Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ponte-forma-oferta-xiaomi-mi-smart-band-6-37-euros-1095861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-band-6-2397739.jpg' alt='Ponte en forma con esta oferta: Xiaomi Mi Smart Band 6 por 37 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/jugadores-videojuegos-tienen-capacidad-cognitiva-toma-decisiones-superior-estudio-1095857'>Los jugadores de videojuegos tienen una capacidad cognitiva y de toma de decisiones superior, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/jugadores-videojuegos-tienen-capacidad-cognitiva-toma-decisiones-superior-estudio-1095857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tertulia-mejores-videojuegos-2017-660502.jpg' alt='Los jugadores de videojuegos tienen una capacidad cognitiva y de toma de decisiones superior, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-ha-redisenado-aplicacion-te-sea-sencillo-elegir-ver-1095893'>Prime Video ha rediseñado su aplicación para que te sea más sencillo elegir qué ver</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-ha-redisenado-aplicacion-te-sea-sencillo-elegir-ver-1095893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/prime-video-2762797.jpg' alt='Prime Video ha rediseñado su aplicación para que te sea más sencillo elegir qué ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879'>Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-venta-espana-surface-laptop-go-2-microsoft-portatil-economico-compania-1095879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ya-venta-espana-surface-laptop-go-2-microsoft-2762807.jpg' alt='Ya a la venta en España el Surface Laptop Go 2 de Microsoft, el portátil económico de la compañía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nubia-z40s-pro-descubierto-nuevo-smartphone-top-aroma-gaming-1095853'>Nubia Z40S Pro al descubierto, nuevo smartphone top con aroma gaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nubia-z40s-pro-descubierto-nuevo-smartphone-top-aroma-gaming-1095853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nubia-z40s-pro-2762737.jpg' alt='Nubia Z40S Pro al descubierto, nuevo smartphone top con aroma gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-expande-paises-nueva-suscripcion-te-gustara-menos-opcion-anuncios-1095831'>Netflix expande a más países su nueva suscripción, y te gustará menos que la opción de los anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-expande-paises-nueva-suscripcion-te-gustara-menos-opcion-anuncios-1095831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-logo-2739597.jpg' alt='Netflix expande a más países su nueva suscripción, y te gustará menos que la opción de los anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/huawei-da-paso-coche-electrico-aporta-software-arcfox-alpha-s-grandes-pantallas-conduccion-autonoma-nivel-3-1095821'>Huawei da el paso hacia el coche eléctrico y aporta su software al ArcFox Alpha-S, con grandes pantallas y conducción autónoma nivel 3</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/huawei-da-paso-coche-electrico-aporta-software-arcfox-alpha-s-grandes-pantallas-conduccion-autonoma-nivel-3-1095821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-huawei-2762669.jpg' alt='Huawei da el paso hacia el coche eléctrico y aporta su software al ArcFox Alpha-S, con grandes pantallas y conducción autónoma nivel 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-multa-youtube-365-millones-euros-mostrar-videos-prohibidos-1095803'>Rusia multa a YouTube con 365 millones de euros por mostrar vídeos “prohibidos”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusia-multa-youtube-365-millones-euros-mostrar-videos-prohibidos-1095803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Rusia multa a YouTube con 365 millones de euros por mostrar vídeos “prohibidos”' />
     </a>
 </div>
 
