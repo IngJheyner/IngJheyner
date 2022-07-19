@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169'>WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193'>Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/repartidor-entregando-paquetes-amazon-prime-2749917.jpg' alt='Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117'>Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-2763395.jpg' alt='Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/viraliza-error-etiquetado-producto-popular-mercadona-1096177'>Se viraliza este error de etiquetado de un producto popular en Mercadona</a></h4>
-    <a href='https://computerhoy.com/noticias/life/viraliza-error-etiquetado-producto-popular-mercadona-1096177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2763477.jpg' alt='Se viraliza este error de etiquetado de un producto popular en Mercadona' />
     </a>
 </div>
 
