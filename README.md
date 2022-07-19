@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/noticias-tecnologicas-2762615.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183'>Estas son las mejores alternativas a los AirTags para usuarios de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filotag-2761701.jpg' alt='Estas son las mejores alternativas a los AirTags para usuarios de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777'>Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-mochila-dejarla-como-nueva-mano-lavadora-2762613.jpg' alt='Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545'>El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-ssd-1095545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-webb-tiene-ssd-pequeno-pc-solo-puede-guardar-fotos-dia-2762377.jpg' alt='El telescopio James Webb tiene un SSD más pequeño que el de tu PC, solo puede guardar fotos un día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-tendria-manos-nuevo-surface-duo-hecho-plastico-ha-filtrado-completo-ebay-1095541'>Microsoft tendría entre manos un nuevo Surface Duo hecho de plástico que se ha filtrado al completo en eBay</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-tendria-manos-nuevo-surface-duo-hecho-plastico-ha-filtrado-completo-ebay-1095541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg' alt='Microsoft tendría entre manos un nuevo Surface Duo hecho de plástico que se ha filtrado al completo en eBay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525'>Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-podras-reproducir-bucle-momento-favorito-video-youtube-solo-clic-1095525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/youtube-2654003.jpg' alt='Ahora podrás reproducir en bucle tu momento favorito de un vídeo en YouTube con solo un clic' />
     </a>
 </div>
 
