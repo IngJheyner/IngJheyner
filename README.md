@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101'>Blade A72 y V40, las apuestas de ZTE para la gama media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zte-blade-v40-2763309.jpg' alt='Blade A72 y V40, las apuestas de ZTE para la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079'>YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551'>Errores que no cometer al comprar un coche eléctrico</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-coche-electrico-1094551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760819.jpg' alt='Errores que no cometer al comprar un coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967'>Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-trucos-evitar-zapatillas-chanclas-calzado-huelan-mal-verano-1095967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/olor-zapatos-2573327.jpg' alt='Los mejores trucos para evitar que tus zapatillas, chanclas y calzado huelan mal en verano' />
     </a>
 </div>
 
