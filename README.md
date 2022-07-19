@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataformas-records-audiencia-medicion-audiencia-1096179'>Las plataformas siguen batiendo récords de audiencia, pero los datos no son demasiado fiables</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plataformas-records-audiencia-medicion-audiencia-1096179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Las plataformas siguen batiendo récords de audiencia, pero los datos no son demasiado fiables' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193'>Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/repartidor-entregando-paquetes-amazon-prime-2749917.jpg' alt='Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-1096113'>Mayor eficiencia y hasta el doble de potencia es lo que promete el nuevo procesador de Qualcomm para smartwatch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-1096113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-2763423.jpg' alt='Mayor eficiencia y hasta el doble de potencia es lo que promete el nuevo procesador de Qualcomm para smartwatch' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119'>Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-buds-live-analisis-opinion-2045947.jpg' alt='Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cede-play-store-tendra-metodos-pago-alternativos-europa-1096163'>Google cede y la Play Store tendrá métodos de pago alternativos en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-cede-play-store-tendra-metodos-pago-alternativos-europa-1096163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2654739.jpg' alt='Google cede y la Play Store tendrá métodos de pago alternativos en Europa' />
+    <h4><a href='https://computerhoy.com/noticias/life/contraintuitivo-truco-pasar-frescas-noches-verano-1096183'>El contraintuitivo truco para pasar frescas las noches de verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/contraintuitivo-truco-pasar-frescas-noches-verano-1096183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bolsa-agua-caliente-2763483.jpg' alt='El contraintuitivo truco para pasar frescas las noches de verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083'>Las mejores comunidades online para ti si eres una persona introvertida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/trucos-usan-menores-chinos-esquivar-prohibicion-jugar-online-3-horas-semana-2468407.jpg' alt='Las mejores comunidades online para ti si eres una persona introvertida' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117'>Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-1096117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-estrena-sistema-pago-acercandose-cada-vez-plataforma-compra-venta-2763395.jpg' alt='Instagram estrena su sistema de pago, acercándose cada vez más a una plataforma de compra y venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517'>La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-codigo-2762311.jpg' alt='La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos' />
+    <h4><a href='https://computerhoy.com/noticias/life/viraliza-error-etiquetado-producto-popular-mercadona-1096177'>Se viraliza este error de etiquetado de un producto popular en Mercadona</a></h4>
+    <a href='https://computerhoy.com/noticias/life/viraliza-error-etiquetado-producto-popular-mercadona-1096177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2763477.jpg' alt='Se viraliza este error de etiquetado de un producto popular en Mercadona' />
     </a>
 </div>
 
