@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-expande-paises-nueva-suscripcion-te-gustara-menos-opcion-anuncios-1095831'>Netflix expande a más países su nueva suscripción, y te gustará menos que la opción de los anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-expande-paises-nueva-suscripcion-te-gustara-menos-opcion-anuncios-1095831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-logo-2739597.jpg' alt='Netflix expande a más países su nueva suscripción, y te gustará menos que la opción de los anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/huawei-da-paso-coche-electrico-aporta-software-arcfox-alpha-s-grandes-pantallas-conduccion-autonoma-nivel-3-1095821'>Huawei da el paso hacia el coche eléctrico y aporta su software al ArcFox Alpha-S, con grandes pantallas y conducción autónoma nivel 3</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/huawei-da-paso-coche-electrico-aporta-software-arcfox-alpha-s-grandes-pantallas-conduccion-autonoma-nivel-3-1095821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-huawei-2762669.jpg' alt='Huawei da el paso hacia el coche eléctrico y aporta su software al ArcFox Alpha-S, con grandes pantallas y conducción autónoma nivel 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusia-multa-youtube-365-millones-euros-mostrar-videos-prohibidos-1095803'>Rusia multa a YouTube con 365 millones de euros por mostrar vídeos “prohibidos”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusia-multa-youtube-365-millones-euros-mostrar-videos-prohibidos-1095803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rusia-teclado-2637799.jpg' alt='Rusia multa a YouTube con 365 millones de euros por mostrar vídeos “prohibidos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/5-ratones-ultraligeros-haran-no-te-sude-mano-durante-verano-1095363'>5 ratones ultraligeros que harán que no te sude la mano durante el verano</a></h4>
     <a href='https://computerhoy.com/listas/gaming/5-ratones-ultraligeros-haran-no-te-sude-mano-durante-verano-1095363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/redragon-m808-storm-2736037.jpg' alt='5 ratones ultraligeros que harán que no te sude la mano durante el verano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1095779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/noticias-tecnologicas-2762615.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183'>Estas son las mejores alternativas a los AirTags para usuarios de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filotag-2761701.jpg' alt='Estas son las mejores alternativas a los AirTags para usuarios de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777'>Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-mochila-mano-lavadora-1095777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-mochila-dejarla-como-nueva-mano-lavadora-2762613.jpg' alt='Cómo limpiar una mochila para dejarla como nueva, a mano o en la lavadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773'>Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/shadow-six-typhoon-auv-video-1095773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/shadow-six-auv-utv-motos-acuaticas-vez-ruedas-video-2762607.jpg' alt='Shadow Six Typhoon, el UTV con motos acuáticas en vez de ruedas (vídeo)' />
     </a>
 </div>
 
