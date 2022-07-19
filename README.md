@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataformas-records-audiencia-medicion-audiencia-1096179'>Las plataformas siguen batiendo récords de audiencia, pero los datos no son demasiado fiables</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plataformas-records-audiencia-medicion-audiencia-1096179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Las plataformas siguen batiendo récords de audiencia, pero los datos no son demasiado fiables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-1096113'>Mayor eficiencia y hasta el doble de potencia es lo que promete el nuevo procesador de Qualcomm para smartwatch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-1096113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mayor-eficiencia-doble-potencia-promete-nuevo-procesador-qualcomm-smartwatch-2763423.jpg' alt='Mayor eficiencia y hasta el doble de potencia es lo que promete el nuevo procesador de Qualcomm para smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cede-play-store-tendra-metodos-pago-alternativos-europa-1096163'>Google cede y la Play Store tendrá métodos de pago alternativos en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cede-play-store-tendra-metodos-pago-alternativos-europa-1096163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-2654739.jpg' alt='Google cede y la Play Store tendrá métodos de pago alternativos en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083'>Las mejores comunidades online para ti si eres una persona introvertida</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-comunidades-online-ti-eres-persona-introvertida-1096083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/trucos-usan-menores-chinos-esquivar-prohibicion-jugar-online-3-horas-semana-2468407.jpg' alt='Las mejores comunidades online para ti si eres una persona introvertida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517'>La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-necesidad-codigos-1095517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alternativa-barata-xiaomi-airpods-pro-ya-solo-cuesta-menos-40eu-codigo-2762311.jpg' alt='La alternativa barata de Xiaomi a los AirPods Pro ya solo cuesta menos de 40€ y sin necesidad de códigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101'>Blade A72 y V40, las apuestas de ZTE para la gama media</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zte-blade-a72-v40-apuestas-zte-gama-media-1096101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zte-blade-v40-2763309.jpg' alt='Blade A72 y V40, las apuestas de ZTE para la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079'>YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-hagas-dinero-canal-vendiendo-juguetes-camisetas-1096079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/youtube-premium-2718177.jpg' alt='YouTube quiere que hagas dinero con tu canal... vendiendo juguetes y camisetas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989'>Cuál es el peor número del eneagrama</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-peor-numero-eneagrama-1095989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hemisferios-cerebrales-1914037.jpg' alt='Cuál es el peor número del eneagrama' />
     </a>
 </div>
 
