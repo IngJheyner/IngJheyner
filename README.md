@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2763761.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/rebajas-verano-xiaomi-finales-julio-2022-1095301'>Rebajas de verano de Xiaomi: móviles, tablets, Smart TV y mucho más en su tercera ronda</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/rebajas-verano-xiaomi-finales-julio-2022-1095301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2689663.jpg' alt='Rebajas de verano de Xiaomi: móviles, tablets, Smart TV y mucho más en su tercera ronda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435'>La mejor postura para dormir en noche calurosas según los expertos del sueño</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejor-postura-dormir-noche-calurosas-expertos-sueno-2763759.jpg' alt='La mejor postura para dormir en noche calurosas según los expertos del sueño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201'>PlayStation Network se ha caído, y la culpa es de este gato callejero </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/playstation-network-ha-caido-culpa-gato-callejero-2763535.jpg' alt='PlayStation Network se ha caído, y la culpa es de este gato callejero ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-1096187'>El futuro de Nova Launcher es incierto: los desarrolladores venden la aplicación a una empresa de publicidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-1096187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/futuro-nova-launcher-incierto-desarrolladores-venden-aplicacion-empresa-publicidad-2763521.jpg' alt='El futuro de Nova Launcher es incierto: los desarrolladores venden la aplicación a una empresa de publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169'>WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram' />
     </a>
 </div>
 
