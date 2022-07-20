@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847'>Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/habitacion-hotel-2764541.jpg' alt='Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843'>El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ceo-netflix-da-muerta-tdt-pone-fecha-desaparicion-2764537.jpg' alt='El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-tiene-trailer-oficial-anuncia-fecha-estreno-hbo-max-1096831'>La Casa del Dragón tiene tráiler oficial y anuncia su fecha de estreno en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-tiene-trailer-oficial-anuncia-fecha-estreno-hbo-max-1096831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='La Casa del Dragón tiene tráiler oficial y anuncia su fecha de estreno en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773'>SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-2764347.jpg' alt='SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787'>Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-2764425.jpg' alt='Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-1096757'>Etiquetas de tinta electrónica en tus maletas para evitar usar papel y acortar el tiempo de facturación, la solución que ya acepta Alaska Airlines</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-1096757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-2764427.jpg' alt='Etiquetas de tinta electrónica en tus maletas para evitar usar papel y acortar el tiempo de facturación, la solución que ya acepta Alaska Airlines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-16-gb-ram-ocupa-poco-perfecto-trabajar-casa-solo-290eu-1095859'>Este Mini PC tiene 16 GB de RAM, ocupa poco y es perfecto para trabajar desde casa por solo 290€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-16-gb-ram-ocupa-poco-perfecto-trabajar-casa-solo-290eu-1095859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-pc-16-gb-ram-290eu-2762741.jpg' alt='Este Mini PC tiene 16 GB de RAM, ocupa poco y es perfecto para trabajar desde casa por solo 290€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/radio-coche-android-auto'>Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/radio-coche-android-auto' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022' />
     </a>
 </div>
 
