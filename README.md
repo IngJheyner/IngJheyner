@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787'>Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-2764425.jpg' alt='Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-1096757'>Etiquetas de tinta electrónica en tus maletas para evitar usar papel y acortar el tiempo de facturación, la solución que ya acepta Alaska Airlines</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-1096757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/etiquetas-tinta-electronica-maletas-evitar-usar-papel-acortar-tiempo-facturacion-solucion-ya-acepta-alaska-airlines-2764427.jpg' alt='Etiquetas de tinta electrónica en tus maletas para evitar usar papel y acortar el tiempo de facturación, la solución que ya acepta Alaska Airlines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-16-gb-ram-ocupa-poco-perfecto-trabajar-casa-solo-290eu-1095859'>Este Mini PC tiene 16 GB de RAM, ocupa poco y es perfecto para trabajar desde casa por solo 290€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mini-pc-tiene-16-gb-ram-ocupa-poco-perfecto-trabajar-casa-solo-290eu-1095859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-pc-16-gb-ram-290eu-2762741.jpg' alt='Este Mini PC tiene 16 GB de RAM, ocupa poco y es perfecto para trabajar desde casa por solo 290€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/radio-coche-android-auto'>Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022</a></h4>
     <a href='https://computerhoy.com/guia-compra/radio-coche-android-auto' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141'>Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/luz-v16-luz-flash-2483049.jpg' alt='Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-paro-sepe-espana-1096771'>Cómo funciona el paro (SEPE) en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-funciona-paro-sepe-espana-1096771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cola-oficina-sepe-madrid-2634655.jpg' alt='Cómo funciona el paro (SEPE) en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-ocu-usar-freidora-aceite-1096735'>Los mejores consejos de la OCU para usar una freidora sin aceite</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-consejos-ocu-usar-freidora-aceite-1096735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aceite-freidora-aire-pollo-frito-2711549.jpg' alt='Los mejores consejos de la OCU para usar una freidora sin aceite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701'>Cuál es el país más pequeño de Asia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-goku-bardock-fin-encontraran-persona-episodio-anime-oficial-estas-preparado-2748213.jpg' alt='Cuál es el país más pequeño de Asia' />
     </a>
 </div>
 
