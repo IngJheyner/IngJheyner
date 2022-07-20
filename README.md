@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-fecha-lanzamiento-esperar-nuevo-soc-top-qualcomm-1096493'>Snapdragon 8 Gen 2, fecha de lanzamiento y lo que cabe esperar del nuevo SoC top de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-fecha-lanzamiento-esperar-nuevo-soc-top-qualcomm-1096493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/snapdragon-8-gen-1-snapdragon-7-gen-1-2707675.jpg' alt='Snapdragon 8 Gen 2, fecha de lanzamiento y lo que cabe esperar del nuevo SoC top de Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-oppo-watch-3-sera-primera-integrar-nuevo-snapdragon-w5-gen-1-1096485'>La serie Oppo Watch 3 será la primera en integrar el nuevo Snapdragon W5 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/serie-oppo-watch-3-sera-primera-integrar-nuevo-snapdragon-w5-gen-1-1096485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/nuevo-smartwatch-galaxy-watch-active2-bisel-tactil-electrocardiograma.jpg' alt='La serie Oppo Watch 3 será la primera en integrar el nuevo Snapdragon W5 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-llegara-polemica-pelicula-lightyear-pixar-disney-plus-1096473'>Cuándo llegará la polémica película Lightyear de Pixar a Disney Plus</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-llegara-polemica-pelicula-lightyear-pixar-disney-plus-1096473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lightyear-2729471.jpeg' alt='Cuándo llegará la polémica película Lightyear de Pixar a Disney Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455'>Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421'>Dónde comprar el iPhone 13 más barato este verano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Dónde comprar el iPhone 13 más barato este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2763761.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/rebajas-verano-xiaomi-finales-julio-2022-1095301'>Rebajas de verano de Xiaomi: móviles, tablets, Smart TV y mucho más en su tercera ronda</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/rebajas-verano-xiaomi-finales-julio-2022-1095301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-poco-f4-gt-2689663.jpg' alt='Rebajas de verano de Xiaomi: móviles, tablets, Smart TV y mucho más en su tercera ronda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435'>La mejor postura para dormir en noche calurosas según los expertos del sueño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejor-postura-dormir-noche-calurosas-expertos-sueno-2763759.jpg' alt='La mejor postura para dormir en noche calurosas según los expertos del sueño' />
     </a>
 </div>
 
