@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-creador-avatares-heredado-facebook-claramente-1096589'>WhatsApp trabaja en un creador de avatares, heredado de Facebook claramente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-creador-avatares-heredado-facebook-claramente-1096589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='WhatsApp trabaja en un creador de avatares, heredado de Facebook claramente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605'>La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/bicicleta-ciclista.jpg' alt='La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511'>Cómo evitar que tu Amazon Echo espíe tus conversaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Cómo evitar que tu Amazon Echo espíe tus conversaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/valve-sigue-pasos-nintendo-advierte-uso-consola-steam-deck-ola-calor-1096585'>Valve sigue los pasos de Nintendo y advierte sobre el uso de su consola Steam Deck con la ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/valve-sigue-pasos-nintendo-advierte-uso-consola-steam-deck-ola-calor-1096585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Valve sigue los pasos de Nintendo y advierte sobre el uso de su consola Steam Deck con la ola de calor' />
     </a>
 </div>
 
