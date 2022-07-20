@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/radio-coche-android-auto'>Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/radio-coche-android-auto' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141'>Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/luz-v16-luz-flash-2483049.jpg' alt='Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-funciona-paro-sepe-espana-1096771'>Cómo funciona el paro (SEPE) en España</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-funciona-paro-sepe-espana-1096771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cola-oficina-sepe-madrid-2634655.jpg' alt='Cómo funciona el paro (SEPE) en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701'>Cuál es el país más pequeño de Asia</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-goku-bardock-fin-encontraran-persona-episodio-anime-oficial-estas-preparado-2748213.jpg' alt='Cuál es el país más pequeño de Asia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677'>La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637'>Cómo ahorrar cuando estamos al volante, según la DGT </a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llantas-coche-2616067.jpg' alt='Cómo ahorrar cuando estamos al volante, según la DGT ' />
     </a>
 </div>
 
