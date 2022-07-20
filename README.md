@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435'>La mejor postura para dormir en noche calurosas según los expertos del sueño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejor-postura-dormir-noche-calurosas-expertos-sueno-2763759.jpg' alt='La mejor postura para dormir en noche calurosas según los expertos del sueño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433'>El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/reloj-disenado-elon-musk-da-hora-tierra-marte-2763755.jpg' alt='El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201'>PlayStation Network se ha caído, y la culpa es de este gato callejero </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/playstation-network-ha-caido-culpa-gato-callejero-2763535.jpg' alt='PlayStation Network se ha caído, y la culpa es de este gato callejero ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169'>WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-no-rinde-estados-anadira-caracteristica-ya-hemos-visto-instagram-1096169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp no se rinde con los estados y añadirá una característica que ya hemos visto en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193'>Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-denuncia-creadores-10000-grupos-facebook-resenas-falsas-1096193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/repartidor-entregando-paquetes-amazon-prime-2749917.jpg' alt='Amazon denuncia a los creadores de 10.000 grupos de Facebook por reseñas falsas en España y otros países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119'>Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-live-cancelacion-ruido-oferta-1096119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/samsung-galaxy-buds-live-analisis-opinion-2045947.jpg' alt='Los auriculares Samsung Galaxy Buds Live con cancelación de ruido bajan de precio y son ideales para el verano' />
     </a>
 </div>
 
