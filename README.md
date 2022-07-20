@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-creador-avatares-heredado-facebook-claramente-1096589'>WhatsApp trabaja en un creador de avatares, heredado de Facebook claramente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-trabaja-creador-avatares-heredado-facebook-claramente-1096589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='WhatsApp trabaja en un creador de avatares, heredado de Facebook claramente' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637'>Cómo ahorrar cuando estamos al volante, según la DGT </a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llantas-coche-2616067.jpg' alt='Cómo ahorrar cuando estamos al volante, según la DGT ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605'>La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/bicicleta-ciclista.jpg' alt='La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-sistema-reconocimiento-gestual-eario-usa-sonido-modo-sonar-lugar-camara-puede-funcionar-total-oscuridad-1096689'>Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar en lugar de una cámara y puede funcionar en total oscuridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-sistema-reconocimiento-gestual-eario-usa-sonido-modo-sonar-lugar-camara-puede-funcionar-total-oscuridad-1096689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sonar-2764147.jpg' alt='Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar en lugar de una cámara y puede funcionar en total oscuridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/configuraciones-defecto-windows-10-debes-cambiar-mejorar-rendimiento-1089621'>Configuraciones por defecto de Windows 10 que debes cambiar para mejorar el rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/configuraciones-defecto-windows-10-debes-cambiar-mejorar-rendimiento-1089621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-10-chromebook-2422721.jpg' alt='Configuraciones por defecto de Windows 10 que debes cambiar para mejorar el rendimiento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/disfruta-peliculas-calidad-cine-estes-donde-estes-proyector-portatil-poco-100eu-1096559'>Disfruta de películas en calidad de cine estés donde estés con este proyector portátil por poco más de 100€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/disfruta-peliculas-calidad-cine-estes-donde-estes-proyector-portatil-poco-100eu-1096559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/proyector-wimius-k5-2763851.jpg' alt='Disfruta de películas en calidad de cine estés donde estés con este proyector portátil por poco más de 100€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-momento-perfecto-llevarla-viaje-1096497'>La Nintendo Switch OLED está de oferta en el momento perfecto para llevarla de viaje</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-momento-perfecto-llevarla-viaje-1096497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-nintendo-switch-oled-2508281.jpg' alt='La Nintendo Switch OLED está de oferta en el momento perfecto para llevarla de viaje' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671'>Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instax-link-wide-fujifilm-impresora-smartphone-2499895.jpg' alt='Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511'>Cómo evitar que tu Amazon Echo espíe tus conversaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Cómo evitar que tu Amazon Echo espíe tus conversaciones' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-recupera-ethereum-dispara-valor-no-visto-hace-meses-renacimiento-cripto-1096639'>Bitcoin se recupera y Ethereum se dispara a un valor no visto desde hace meses, ¿renacimiento cripto?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-recupera-ethereum-dispara-valor-no-visto-hace-meses-renacimiento-cripto-1096639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='Bitcoin se recupera y Ethereum se dispara a un valor no visto desde hace meses, ¿renacimiento cripto?' />
     </a>
 </div>
 
