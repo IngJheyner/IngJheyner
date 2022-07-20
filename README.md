@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421'>Dónde comprar el iPhone 13 más barato este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Dónde comprar el iPhone 13 más barato este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1096437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2763761.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433'>El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/reloj-disenado-elon-musk-da-hora-tierra-marte-2763755.jpg' alt='El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201'>PlayStation Network se ha caído, y la culpa es de este gato callejero </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/playstation-network-ha-caido-culpa-gato-callejero-1096201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/playstation-network-ha-caido-culpa-gato-callejero-2763535.jpg' alt='PlayStation Network se ha caído, y la culpa es de este gato callejero ' />
     </a>
 </div>
 
