@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859'>Freidora sin aceite Mellerware a precio mínimo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/freidora-aceite-mellerware-precio-minimo-2764553.jpg' alt='Freidora sin aceite Mellerware a precio mínimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-planeando-eliminar-sensor-fotografico-proximos-moviles-1096841'>Samsung estaría planeando eliminar un sensor fotográfico en sus próximos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-planeando-eliminar-sensor-fotografico-proximos-moviles-1096841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678331.jpg' alt='Samsung estaría planeando eliminar un sensor fotográfico en sus próximos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reduflacion-vuelve-supermercado-estos-son-productos-te-ofrecen-menos-mismo-precio-1096849'>La reduflación vuelve a tu supermercado y estos son los productos que te ofrecen menos al mismo precio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reduflacion-vuelve-supermercado-estos-son-productos-te-ofrecen-menos-mismo-precio-1096849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carro-supermercado-2764543.jpg' alt='La reduflación vuelve a tu supermercado y estos son los productos que te ofrecen menos al mismo precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847'>Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/habitacion-hotel-2764541.jpg' alt='Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843'>El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ceo-netflix-da-muerta-tdt-pone-fecha-desaparicion-2764537.jpg' alt='El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-tiene-trailer-oficial-anuncia-fecha-estreno-hbo-max-1096831'>La Casa del Dragón tiene tráiler oficial y anuncia su fecha de estreno en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-tiene-trailer-oficial-anuncia-fecha-estreno-hbo-max-1096831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='La Casa del Dragón tiene tráiler oficial y anuncia su fecha de estreno en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773'>SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-2764347.jpg' alt='SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787'>Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-2764425.jpg' alt='Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive' />
     </a>
 </div>
 
