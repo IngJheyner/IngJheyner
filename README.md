@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-fecha-lanzamiento-esperar-nuevo-soc-top-qualcomm-1096493'>Snapdragon 8 Gen 2, fecha de lanzamiento y lo que cabe esperar del nuevo SoC top de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-fecha-lanzamiento-esperar-nuevo-soc-top-qualcomm-1096493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/snapdragon-8-gen-1-snapdragon-7-gen-1-2707675.jpg' alt='Snapdragon 8 Gen 2, fecha de lanzamiento y lo que cabe esperar del nuevo SoC top de Qualcomm' />
+    <h4><a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605'>La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/forma-correcta-senalizar-bici-son-gestos-hacen-intermitentes-ciclistas-dgt-1096605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/bicicleta-ciclista.jpg' alt='La forma correcta de señalizar en bici, así son los gestos que hacen de intermitentes para ciclistas según la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-oppo-watch-3-sera-primera-integrar-nuevo-snapdragon-w5-gen-1-1096485'>La serie Oppo Watch 3 será la primera en integrar el nuevo Snapdragon W5 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/serie-oppo-watch-3-sera-primera-integrar-nuevo-snapdragon-w5-gen-1-1096485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/nuevo-smartwatch-galaxy-watch-active2-bisel-tactil-electrocardiograma.jpg' alt='La serie Oppo Watch 3 será la primera en integrar el nuevo Snapdragon W5 Gen 1' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/configuraciones-defecto-windows-10-debes-cambiar-mejorar-rendimiento-1089621'>Configuraciones por defecto de Windows 10 que debes cambiar para mejorar el rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/configuraciones-defecto-windows-10-debes-cambiar-mejorar-rendimiento-1089621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-10-chromebook-2422721.jpg' alt='Configuraciones por defecto de Windows 10 que debes cambiar para mejorar el rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cuando-llegara-polemica-pelicula-lightyear-pixar-disney-plus-1096473'>Cuándo llegará la polémica película Lightyear de Pixar a Disney Plus</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cuando-llegara-polemica-pelicula-lightyear-pixar-disney-plus-1096473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lightyear-2729471.jpeg' alt='Cuándo llegará la polémica película Lightyear de Pixar a Disney Plus' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-momento-perfecto-llevarla-viaje-1096497'>La Nintendo Switch OLED está de oferta en el momento perfecto para llevarla de viaje</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-switch-oled-oferta-momento-perfecto-llevarla-viaje-1096497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-nintendo-switch-oled-2508281.jpg' alt='La Nintendo Switch OLED está de oferta en el momento perfecto para llevarla de viaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455'>Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511'>Cómo evitar que tu Amazon Echo espíe tus conversaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-evitar-amazon-echo-espie-conversaciones-1096511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Cómo evitar que tu Amazon Echo espíe tus conversaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421'>Dónde comprar el iPhone 13 más barato este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Dónde comprar el iPhone 13 más barato este verano' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/valve-sigue-pasos-nintendo-advierte-uso-consola-steam-deck-ola-calor-1096585'>Valve sigue los pasos de Nintendo y advierte sobre el uso de su consola Steam Deck con la ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/valve-sigue-pasos-nintendo-advierte-uso-consola-steam-deck-ola-calor-1096585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-steam-deck-2704103.jpg' alt='Valve sigue los pasos de Nintendo y advierte sobre el uso de su consola Steam Deck con la ola de calor' />
     </a>
 </div>
 
