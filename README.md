@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455'>Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-informa-ha-perdido-otro-millon-suscriptores-pone-fecha-tarifa-barata-anuncios-1096455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Netflix informa que ha perdido otro millón de suscriptores y pone fecha a la tarifa barata con anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421'>Dónde comprar el iPhone 13 más barato este verano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-13-barato-verano-1095421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/review-iphone-13-pro-2487731.jpg' alt='Dónde comprar el iPhone 13 más barato este verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435'>La mejor postura para dormir en noche calurosas según los expertos del sueño</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-postura-dormir-noche-calor-1096435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejor-postura-dormir-noche-calurosas-expertos-sueno-2763759.jpg' alt='La mejor postura para dormir en noche calurosas según los expertos del sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433'>El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reloj-disenado-elon-musk-da-hora-tierra-marte-video-1096433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/reloj-disenado-elon-musk-da-hora-tierra-marte-2763755.jpg' alt='El reloj diseñado para Elon Musk: da la hora de la Tierra y de Marte (vídeo)' />
     </a>
 </div>
 
