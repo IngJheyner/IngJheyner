@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677'>La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637'>Cómo ahorrar cuando estamos al volante, según la DGT </a></h4>
     <a href='https://computerhoy.com/noticias/life/como-ahorrar-cuando-estamos-volante-dgt-1096637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/llantas-coche-2616067.jpg' alt='Cómo ahorrar cuando estamos al volante, según la DGT ' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-sistema-reconocimiento-gestual-eario-usa-sonido-modo-sonar-lugar-camara-puede-funcionar-total-oscuridad-1096689'>Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar en lugar de una cámara y puede funcionar en total oscuridad</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-sistema-reconocimiento-gestual-eario-usa-sonido-modo-sonar-lugar-camara-puede-funcionar-total-oscuridad-1096689'>Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar y puede funcionar en total oscuridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-sistema-reconocimiento-gestual-eario-usa-sonido-modo-sonar-lugar-camara-puede-funcionar-total-oscuridad-1096689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sonar-2764147.jpg' alt='Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar en lugar de una cámara y puede funcionar en total oscuridad' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sonar-2764147.jpg' alt='Así funciona el nuevo sistema de reconocimiento gestual Eario que usa sonido a modo sónar y puede funcionar en total oscuridad' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671'>Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instax-link-wide-fujifilm-impresora-smartphone-2499895.jpg' alt='Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-recupera-ethereum-dispara-valor-no-visto-hace-meses-renacimiento-cripto-1096639'>Bitcoin se recupera y Ethereum se dispara a un valor no visto desde hace meses, ¿renacimiento cripto?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-recupera-ethereum-dispara-valor-no-visto-hace-meses-renacimiento-cripto-1096639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/bitcoin-2661901.jpg' alt='Bitcoin se recupera y Ethereum se dispara a un valor no visto desde hace meses, ¿renacimiento cripto?' />
     </a>
 </div>
 
