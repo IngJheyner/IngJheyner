@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701'>Cuál es el país más pequeño de Asia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-pequeno-asia-1096701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-goku-bardock-fin-encontraran-persona-episodio-anime-oficial-estas-preparado-2748213.jpg' alt='Cuál es el país más pequeño de Asia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677'>La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/suscripcion-barata-anuncios-netflix-no-tendra-acceso-todo-catalogo-contenidos-1096677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/pese-malos-resultados-netflix-insiste-no-reducira-produccion-series-anuncia-importantes-cambios-series-internacionales-2730051.jpg' alt='La suscripción barata con anuncios de Netflix no tendrá acceso a todo el catálogo de contenidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/disfruta-peliculas-calidad-cine-estes-donde-estes-proyector-portatil-poco-100eu-1096559'>Disfruta de películas en calidad de cine estés donde estés con este proyector portátil por poco más de 100€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/disfruta-peliculas-calidad-cine-estes-donde-estes-proyector-portatil-poco-100eu-1096559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/proyector-wimius-k5-2763851.jpg' alt='Disfruta de películas en calidad de cine estés donde estés con este proyector portátil por poco más de 100€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671'>Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-prints-europa-te-imprima-fotos-vacaciones-incluso-cuadro-1096671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/instax-link-wide-fujifilm-impresora-smartphone-2499895.jpg' alt='Ya puedes pedir a Google Prints en Europa que te imprima las fotos de tus vacaciones e incluso un cuadro' />
     </a>
 </div>
 
