@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773'>SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-1096773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/spc-jasper-2-4g-movil-mayores-podran-utilizar-whatsapp-2764347.jpg' alt='SPC Jasper 2 4G: así es el móvil para mayores con el que podrán utilizar WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787'>Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-1096787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/digi-regala-50-gb-clientes-fibra-propio-icloud-google-drive-2764425.jpg' alt='Digi regala 50 GB a sus clientes de fibra en su propio iCloud/Google Drive' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/radio-coche-android-auto'>Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022</a></h4>
     <a href='https://computerhoy.com/guia-compra/radio-coche-android-auto' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Guía para comprar una radio con Android Auto con pantalla táctil para el coche en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141'>Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/luces-flash-v16-coche-809141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/luz-v16-luz-flash-2483049.jpg' alt='Luces flash V16 para tu coche en 2022: modelos, diferencias, legalidad, cómo se utilizan y todo lo que debes saber' />
     </a>
 </div>
 
