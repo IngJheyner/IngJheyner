@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pay-desaparece-llega-google-wallet-1096871'>Google Pay desaparece, ya está aquí Google Wallet </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pay-desaparece-llega-google-wallet-1096871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-pay-desaparece-ya-aqui-google-wallet-2764587.jpg' alt='Google Pay desaparece, ya está aquí Google Wallet ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853'>Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-2764581.jpg' alt='Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859'>Freidora sin aceite Mellerware a precio mínimo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/freidora-aceite-mellerware-precio-minimo-2764553.jpg' alt='Freidora sin aceite Mellerware a precio mínimo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/reduflacion-vuelve-supermercado-estos-son-productos-te-ofrecen-menos-mismo-precio-1096849'>La reduflación vuelve a tu supermercado y estos son los productos que te ofrecen menos al mismo precio</a></h4>
     <a href='https://computerhoy.com/noticias/life/reduflacion-vuelve-supermercado-estos-son-productos-te-ofrecen-menos-mismo-precio-1096849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/carro-supermercado-2764543.jpg' alt='La reduflación vuelve a tu supermercado y estos son los productos que te ofrecen menos al mismo precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847'>Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/debes-saber-antes-entrar-habitacion-hotel-verano-1096847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/habitacion-hotel-2764541.jpg' alt='Esto es lo que debes saber antes de entrar a tu habitación de hotel este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843'>El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ceo-netflix-fin-tdt-pone-fecha-desaparicion-1096843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ceo-netflix-da-muerta-tdt-pone-fecha-desaparicion-2764537.jpg' alt='El CEO de Netflix da por muerta a la TDT y pone fecha a su desaparición' />
     </a>
 </div>
 
