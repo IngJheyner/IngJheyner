@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549'>Cómo hacer que Windows 11 se apague mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo hacer que Windows 11 se apague mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/despiece-nuevo-macbook-air-m2-muestra-disipacion-pasiva-thermal-throttling-partir-5-minutos-uso-100-1097185'>Despiece del nuevo MacBook Air con M2 muestra su disipación pasiva, thermal throttling a partir de 5 minutos de uso al 100 %</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/despiece-nuevo-macbook-air-m2-muestra-disipacion-pasiva-thermal-throttling-partir-5-minutos-uso-100-1097185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/macbook-air-chip-m2-2765023.jpg' alt='Despiece del nuevo MacBook Air con M2 muestra su disipación pasiva, thermal throttling a partir de 5 minutos de uso al 100 %' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-comparte-cifras-ventas-plegables-2021-lejos-ser-moda-momentanea-hay-claro-ganador-1097135'>Samsung comparte las cifras de ventas de sus plegables en 2021, está lejos de ser una moda momentánea y hay un claro ganador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-comparte-cifras-ventas-plegables-2021-lejos-ser-moda-momentanea-hay-claro-ganador-1097135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Samsung comparte las cifras de ventas de sus plegables en 2021, está lejos de ser una moda momentánea y hay un claro ganador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125'>Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111'>La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg' alt='La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-621-computer-hoy-1093037'>¡Ya está en tu quiosco el número 621 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-621-computer-hoy-1093037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-621-2761657.jpg' alt='¡Ya está en tu quiosco el número 621 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cierra-cuentas-importantes-twitter-13-anos-suerte-proxima-vez-te-rompa-algo-1097097'>Netflix cierra una de sus cuentas más importantes en Twitter tras 13 años: suerte la próxima vez que se te rompa algo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cierra-cuentas-importantes-twitter-13-anos-suerte-proxima-vez-te-rompa-algo-1097097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Netflix cierra una de sus cuentas más importantes en Twitter tras 13 años: suerte la próxima vez que se te rompa algo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649'>La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/porsche-taycan-2764107.jpg' alt='La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida' />
     </a>
 </div>
 
