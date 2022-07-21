@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524101.jpg' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2764783.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877'>Por qué no debes apagar el motor al aparcar, después de un viaje largo</a></h4>
     <a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-debes-apagar-motor-aparcar-despues-viaje-largo-2764589.jpg' alt='Por qué no debes apagar el motor al aparcar, después de un viaje largo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765'>Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-pro-10-promocion-verano-aliexpress-2739111.jpg' alt='Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto' />
     </a>
 </div>
 
