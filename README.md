@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767'>Cómo crear un eBook con Canva</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ebook-2662245.jpg' alt='Cómo crear un eBook con Canva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tesla-vende-mayoria-bitcoins-hace-tambalear-ecosistema-criptomonedas-1097209'>Tesla vende la mayoría de sus Bitcoins y hace tambalear el ecosistema de criptomonedas </a></h4>
+    <a href='https://computerhoy.com/noticias/tesla-vende-mayoria-bitcoins-hace-tambalear-ecosistema-criptomonedas-1097209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Tesla vende la mayoría de sus Bitcoins y hace tambalear el ecosistema de criptomonedas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303'>Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275'>Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-2765361.jpg' alt='Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-controlado-laser-no-puede-detener-ninguna-contramedida-solo-derribandolo-1097241'>El dron controlado por láser al que no se puede detener con ninguna contramedida, solo derribándolo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dron-controlado-laser-no-puede-detener-ninguna-contramedida-solo-derribandolo-1097241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/drones-2661503.jpg' alt='El dron controlado por láser al que no se puede detener con ninguna contramedida, solo derribándolo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161'>La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/usos-recreativos-ia-completar-cuadros-famosos-dalle-2-sorprendentes-resultados-2761343.jpg' alt='La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis' />
     </a>
 </div>
 
