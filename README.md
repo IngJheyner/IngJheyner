@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125'>Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111'>La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg' alt='La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649'>La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida</a></h4>
     <a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/porsche-taycan-2764107.jpg' alt='La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524101.jpg' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
     </a>
 </div>
 
