@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-smartssd-1097475'>Samsung lanza un SSD semiautónomo que procesa datos sin necesidad de usar la CPU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-smartssd-1097475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-lanza-ssd-semiautonomo-procesa-datos-necesidad-usar-cpu-2765793.jpg' alt='Samsung lanza un SSD semiautónomo que procesa datos sin necesidad de usar la CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-descubren-nuevas-aplicaciones-maliciosas-play-store-tienes-desinstalar-ya-mismo-1097467'>Investigadores descubren nuevas aplicaciones maliciosas en la Play Store que tienes que desinstalar ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-descubren-nuevas-aplicaciones-maliciosas-play-store-tienes-desinstalar-ya-mismo-1097467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Investigadores descubren nuevas aplicaciones maliciosas en la Play Store que tienes que desinstalar ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463'>Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469'>600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416869.jpg' alt='600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/han-filtrado-precios-nuevos-samsung-galaxy-z-flip-4-antes-lanzamiento-oficial-1097439'>Se han filtrado los precios de los nuevos Samsung Galaxy Z Flip 4 antes de su lanzamiento oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/han-filtrado-precios-nuevos-samsung-galaxy-z-flip-4-antes-lanzamiento-oficial-1097439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Se han filtrado los precios de los nuevos Samsung Galaxy Z Flip 4 antes de su lanzamiento oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/resident-evil-netflix-videollamadas-microsoft-paint-sin-internet-1097461'>Puedes hacer videollamadas desde Microsoft Paint sin Internet, según la serie Resident Evil de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/resident-evil-netflix-videollamadas-microsoft-paint-sin-internet-1097461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-2765781.jpg' alt='Puedes hacer videollamadas desde Microsoft Paint sin Internet, según la serie Resident Evil de Netflix' />
     </a>
 </div>
 
