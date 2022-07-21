@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367'>Así es el superordenador de la NASA que está construyendo junto a Intel y AMD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/superordenador-1946653.jpg' alt='Así es el superordenador de la NASA que está construyendo junto a Intel y AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939'>Todos los métodos para poder ejecutar apps Android desde Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-windows-11-2502487.jpg' alt='Todos los métodos para poder ejecutar apps Android desde Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tesla-vende-mayoria-bitcoins-hace-tambalear-ecosistema-criptomonedas-1097209'>Tesla vende la mayoría de sus Bitcoins y hace tambalear el ecosistema de criptomonedas </a></h4>
     <a href='https://computerhoy.com/noticias/tesla-vende-mayoria-bitcoins-hace-tambalear-ecosistema-criptomonedas-1097209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='Tesla vende la mayoría de sus Bitcoins y hace tambalear el ecosistema de criptomonedas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303'>Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones' />
     </a>
 </div>
 
