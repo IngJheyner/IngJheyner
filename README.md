@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939'>Todos los métodos para poder ejecutar apps Android desde Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-windows-11-2502487.jpg' alt='Todos los métodos para poder ejecutar apps Android desde Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-calendar-arregla-error-lleva-tres-anos-molestando-usuarios-1097355'>Google Calendar arregla un error que lleva tres años molestando a los usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-calendar-arregla-error-lleva-tres-anos-molestando-usuarios-1097355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg' alt='Google Calendar arregla un error que lleva tres años molestando a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767'>Cómo crear un eBook con Canva</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ebook-2662245.jpg' alt='Cómo crear un eBook con Canva' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303'>Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-11i-5g-oferta-21-julio-2022-1096693'>Si buscas un nuevo móvil, esta opción es irresistible: el potente Xiaomi Mi 11i 5G está rebajado a 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-11i-5g-oferta-21-julio-2022-1096693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-xiaomi-mi-11i-2397093.jpg' alt='Si buscas un nuevo móvil, esta opción es irresistible: el potente Xiaomi Mi 11i 5G está rebajado a 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275'>Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-2765361.jpg' alt='Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social' />
     </a>
 </div>
 
