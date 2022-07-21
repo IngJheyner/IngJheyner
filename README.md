@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079'>Cómo limpiar las plantas y quitarles el polvo, sin dañarlas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-plantas-quitarles-polvo-danarlas-2764779.jpg' alt='Cómo limpiar las plantas y quitarles el polvo, sin dañarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877'>Por qué no debes apagar el motor al aparcar, después de un viaje largo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-debes-apagar-motor-aparcar-despues-viaje-largo-2764589.jpg' alt='Por qué no debes apagar el motor al aparcar, después de un viaje largo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765'>Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-pro-10-promocion-verano-aliexpress-2739111.jpg' alt='Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853'>Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-2764581.jpg' alt='Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859'>Freidora sin aceite Mellerware a precio mínimo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-sin-aceite-mellerware-precio-minimo-1096859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/freidora-aceite-mellerware-precio-minimo-2764553.jpg' alt='Freidora sin aceite Mellerware a precio mínimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-planeando-eliminar-sensor-fotografico-proximos-moviles-1096841'>Samsung estaría planeando eliminar un sensor fotográfico en sus próximos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-estaria-planeando-eliminar-sensor-fotografico-proximos-moviles-1096841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a53-5g-analisis-opinion-2678331.jpg' alt='Samsung estaría planeando eliminar un sensor fotográfico en sus próximos móviles' />
     </a>
 </div>
 
