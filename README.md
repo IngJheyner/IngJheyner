@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177'>Google Pixel 6a, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google Pixel 6a, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-tambien-quiere-ser-tienda-ha-utilizado-influencers-probar-nuevo-sistema-venta-1097413'>YouTube también quiere ser una tienda y ha utilizado influencers para probar su nuevo sistema de venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-tambien-quiere-ser-tienda-ha-utilizado-influencers-probar-nuevo-sistema-venta-1097413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='YouTube también quiere ser una tienda y ha utilizado influencers para probar su nuevo sistema de venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-grande-africa-1097305'>Cuál es el país más grande de África</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-pais-grande-africa-1097305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más grande de África' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399'>Cómo mejorar tu productividad en Excel con estos trucos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mejorar tu productividad en Excel con estos trucos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367'>Así es el superordenador de la NASA que está construyendo junto a Intel y AMD</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/superordenador-1946653.jpg' alt='Así es el superordenador de la NASA que está construyendo junto a Intel y AMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939'>Todos los métodos para poder ejecutar apps Android desde Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/todos-metodos-poder-ejecutar-apps-android-windows-1095939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-windows-11-2502487.jpg' alt='Todos los métodos para poder ejecutar apps Android desde Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-calendar-arregla-error-lleva-tres-anos-molestando-usuarios-1097355'>Google Calendar arregla un error que lleva tres años molestando a los usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-calendar-arregla-error-lleva-tres-anos-molestando-usuarios-1097355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg' alt='Google Calendar arregla un error que lleva tres años molestando a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767'>Cómo crear un eBook con Canva</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-ebook-canva-1037767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ebook-2662245.jpg' alt='Cómo crear un eBook con Canva' />
     </a>
 </div>
 
