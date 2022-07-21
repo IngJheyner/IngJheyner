@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463'>Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-cambia-diseno-anade-nueva-pestana-muy-util-informan-usando-red-social-1097457'>Facebook cambia su diseño y añade una nueva pestaña muy útil para los que se informan usando la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-cambia-diseno-anade-nueva-pestana-muy-util-informan-usando-red-social-1097457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631389.jpg' alt='Facebook cambia su diseño y añade una nueva pestaña muy útil para los que se informan usando la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469'>600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416869.jpg' alt='600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/han-filtrado-precios-nuevos-samsung-galaxy-z-flip-4-antes-lanzamiento-oficial-1097439'>Se han filtrado los precios de los nuevos Samsung Galaxy Z Flip 4 antes de su lanzamiento oficial</a></h4>
     <a href='https://computerhoy.com/noticias/han-filtrado-precios-nuevos-samsung-galaxy-z-flip-4-antes-lanzamiento-oficial-1097439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2487003.jpg' alt='Se han filtrado los precios de los nuevos Samsung Galaxy Z Flip 4 antes de su lanzamiento oficial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/resident-evil-netflix-videollamadas-microsoft-paint-sin-internet-1097461'>Puedes hacer videollamadas desde Microsoft Paint sin Internet, según la serie Resident Evil de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/resident-evil-netflix-videollamadas-microsoft-paint-sin-internet-1097461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-2765781.jpg' alt='Puedes hacer videollamadas desde Microsoft Paint sin Internet, según la serie Resident Evil de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lista-terminales-mejor-carga-rapida-te-sorprenderan-integrantes-1097437'>Esta es la lista de los terminales con la mejor carga rápida y te sorprenderán sus integrantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lista-terminales-mejor-carga-rapida-te-sorprenderan-integrantes-1097437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/carga-rapida-xiaomi-2375319.jpg' alt='Esta es la lista de los terminales con la mejor carga rápida y te sorprenderán sus integrantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-renueva-diseno-interfaz-aplicaciones-musica-luce-1097447'>Android Auto renueva el diseño y la interfaz de las aplicaciones de música, y así luce</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-renueva-diseno-interfaz-aplicaciones-musica-luce-1097447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto renueva el diseño y la interfaz de las aplicaciones de música, y así luce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443'>Estas son las calles más bonitas del mundo según este estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primavera-kioto-2765757.jpg' alt='Estas son las calles más bonitas del mundo según este estudio' />
     </a>
 </div>
 
