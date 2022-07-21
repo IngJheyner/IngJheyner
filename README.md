@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-echa-freno-mano-permisos-aplicaciones-quedan-play-store-1097421'>Google echa el freno de mano y los permisos de las aplicaciones se quedan en la Play Store</a></h4>
+    <a href='https://computerhoy.com/noticias/google-echa-freno-mano-permisos-aplicaciones-quedan-play-store-1097421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/gps.jpg' alt='Google echa el freno de mano y los permisos de las aplicaciones se quedan en la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177'>Google Pixel 6a, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google Pixel 6a, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399'>Cómo mejorar tu productividad en Excel con estos trucos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mejorar tu productividad en Excel con estos trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367'>Así es el superordenador de la NASA que está construyendo junto a Intel y AMD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/superordenador-nasa-construyendo-junto-intel-amd-1097367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/superordenador-1946653.jpg' alt='Así es el superordenador de la NASA que está construyendo junto a Intel y AMD' />
     </a>
 </div>
 
