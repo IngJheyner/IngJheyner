@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161'>La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/usos-recreativos-ia-completar-cuadros-famosos-dalle-2-sorprendentes-resultados-2761343.jpg' alt='La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-intel-hacen-todo-bien-menos-minar-1097225'>Las nuevas tarjetas gráficas de Intel lo hacen todo bien menos minar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-intel-hacen-todo-bien-menos-minar-1097225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las nuevas tarjetas gráficas de Intel lo hacen todo bien menos minar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/funciona-cargador-robotizado-coches-electricos-ha-desarrollado-ford-1097141'>Así funciona el cargador robotizado para coches eléctricos que ha desarrollado Ford</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/funciona-cargador-robotizado-coches-electricos-ha-desarrollado-ford-1097141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2764959.jpg' alt='Así funciona el cargador robotizado para coches eléctricos que ha desarrollado Ford' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-x80j-55-pulgadas-oferta-21-julio-2022-1096595'>Esta Smart TV de 55" 4K de Sony viene con Google TV y está rebajada 370€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-x80j-55-pulgadas-oferta-21-julio-2022-1096595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-x81j-55-analisis-opinion-2592857.jpg' alt='Esta Smart TV de 55" 4K de Sony viene con Google TV y está rebajada 370€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549'>Cómo hacer que Windows 11 se apague mucho más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo hacer que Windows 11 se apague mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/despiece-nuevo-macbook-air-m2-muestra-disipacion-pasiva-thermal-throttling-partir-5-minutos-uso-100-1097185'>Despiece del nuevo MacBook Air con M2 muestra su disipación pasiva, thermal throttling a partir de 5 minutos de uso al 100 %</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/despiece-nuevo-macbook-air-m2-muestra-disipacion-pasiva-thermal-throttling-partir-5-minutos-uso-100-1097185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/macbook-air-chip-m2-2765023.jpg' alt='Despiece del nuevo MacBook Air con M2 muestra su disipación pasiva, thermal throttling a partir de 5 minutos de uso al 100 %' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-comparte-cifras-ventas-plegables-2021-lejos-ser-moda-momentanea-hay-claro-ganador-1097135'>Samsung comparte las cifras de ventas de sus plegables en 2021, está lejos de ser una moda momentánea y hay un claro ganador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-comparte-cifras-ventas-plegables-2021-lejos-ser-moda-momentanea-hay-claro-ganador-1097135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-galaxy-z-flip-3-2486977.jpg' alt='Samsung comparte las cifras de ventas de sus plegables en 2021, está lejos de ser una moda momentánea y hay un claro ganador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125'>Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-oficial-funcion-poder-mover-conversaciones-whatsapp-cambias-movil-android-iphone-viceversa-1097125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2670977.jpg' alt='Ya es oficial la función de poder mover tus conversaciones de WhatsApp si cambias de móvil Android a iPhone o viceversa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111'>La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compania-china-socs-lleva-20-anos-copiando-tsmc-sigue-haciendo-1097111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/tsmc-2502241.jpg' alt='La compañía china de SoCs que lleva 20 años copiando a TSMC sigue haciendo de las suyas' />
     </a>
 </div>
 
