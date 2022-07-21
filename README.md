@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303'>Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-caracteristica-windows-11-perfecta-odian-cerrar-aplicaciones-1097303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/windows-11-android-2676677.jpg' alt='Esta nueva característica de Windows 11 es perfecta para los que odian cerrar aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-11i-5g-oferta-21-julio-2022-1096693'>Si buscas un nuevo móvil, esta opción es irresistible: el potente Xiaomi Mi 11i 5G está rebajado a 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-11i-5g-oferta-21-julio-2022-1096693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/review-xiaomi-mi-11i-2397093.jpg' alt='Si buscas un nuevo móvil, esta opción es irresistible: el potente Xiaomi Mi 11i 5G está rebajado a 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275'>Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-1097275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/instagram-hace-competencia-google-maps-ya-puedes-buscar-lugares-dentro-red-social-2765361.jpg' alt='Instagram le hace la competencia a Google Maps, ya puedes buscar lugares desde dentro de la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dron-controlado-laser-no-puede-detener-ninguna-contramedida-solo-derribandolo-1097241'>El dron controlado por láser al que no se puede detener con ninguna contramedida, solo derribándolo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dron-controlado-laser-no-puede-detener-ninguna-contramedida-solo-derribandolo-1097241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/drones-2661503.jpg' alt='El dron controlado por láser al que no se puede detener con ninguna contramedida, solo derribándolo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161'>La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-dall-abrira-modo-beta-1-millon-artistas-digitales-cada-50-dibujos-completamente-gratis-1097161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/usos-recreativos-ia-completar-cuadros-famosos-dalle-2-sorprendentes-resultados-2761343.jpg' alt='La IA DALL-E se abrirá en modo beta a 1 millón de artistas digitales, cada uno con 50 dibujos completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-intel-hacen-todo-bien-menos-minar-1097225'>Las nuevas tarjetas gráficas de Intel lo hacen todo bien menos minar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-graficas-intel-hacen-todo-bien-menos-minar-1097225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Las nuevas tarjetas gráficas de Intel lo hacen todo bien menos minar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/funciona-cargador-robotizado-coches-electricos-ha-desarrollado-ford-1097141'>Así funciona el cargador robotizado para coches eléctricos que ha desarrollado Ford</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/funciona-cargador-robotizado-coches-electricos-ha-desarrollado-ford-1097141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2764959.jpg' alt='Así funciona el cargador robotizado para coches eléctricos que ha desarrollado Ford' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-x80j-55-pulgadas-oferta-21-julio-2022-1096595'>Esta Smart TV de 55" 4K de Sony viene con Google TV y está rebajada 370€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-x80j-55-pulgadas-oferta-21-julio-2022-1096595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sony-bravia-x81j-55-analisis-opinion-2592857.jpg' alt='Esta Smart TV de 55" 4K de Sony viene con Google TV y está rebajada 370€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549'>Cómo hacer que Windows 11 se apague mucho más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-windows-11-apague-mucho-rapido-1091549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2514479.jpg' alt='Cómo hacer que Windows 11 se apague mucho más rápido' />
     </a>
 </div>
 
