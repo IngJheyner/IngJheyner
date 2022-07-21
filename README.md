@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-621-computer-hoy-1093037'>¡Ya está en tu quiosco el número 621 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-621-computer-hoy-1093037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-621-2761657.jpg' alt='¡Ya está en tu quiosco el número 621 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cierra-cuentas-importantes-twitter-13-anos-suerte-proxima-vez-te-rompa-algo-1097097'>Netflix cierra una de sus cuentas más importantes en Twitter tras 13 años: suerte la próxima vez que se te rompa algo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cierra-cuentas-importantes-twitter-13-anos-suerte-proxima-vez-te-rompa-algo-1097097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/netflix-2648473.jpg' alt='Netflix cierra una de sus cuentas más importantes en Twitter tras 13 años: suerte la próxima vez que se te rompa algo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649'>La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/realidad-coche-electrico-actualizaciones-ota-porsche-taycan-autonomia-carga-rapida-1096649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/porsche-taycan-2764107.jpg' alt='La realidad del coche eléctrico y sus actualizaciones OTA: Porsche Taycan con más autonomía y carga rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663'>5 auriculares inalámbricos que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-hemos-probado-recomendamos-1096663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524101.jpg' alt='5 auriculares inalámbricos que hemos probado y recomendamos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2764783.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-unidades-ssd-1096601'>Estas son las mejores unidades SSD que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-unidades-ssd-1096601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg' alt='Estas son las mejores unidades SSD que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079'>Cómo limpiar las plantas y quitarles el polvo, sin dañarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-plantas-quitarles-polvo-danarlas-2764779.jpg' alt='Cómo limpiar las plantas y quitarles el polvo, sin dañarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877'>Por qué no debes apagar el motor al aparcar, después de un viaje largo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/no-apagar-motor-despues-viaje-largo-1096877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/no-debes-apagar-motor-aparcar-despues-viaje-largo-2764589.jpg' alt='Por qué no debes apagar el motor al aparcar, después de un viaje largo' />
     </a>
 </div>
 
