@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lista-terminales-mejor-carga-rapida-te-sorprenderan-integrantes-1097437'>Esta es la lista de los terminales con la mejor carga rápida y te sorprenderán sus integrantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lista-terminales-mejor-carga-rapida-te-sorprenderan-integrantes-1097437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/carga-rapida-xiaomi-2375319.jpg' alt='Esta es la lista de los terminales con la mejor carga rápida y te sorprenderán sus integrantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-renueva-diseno-interfaz-aplicaciones-musica-luce-1097447'>Android Auto renueva el diseño y la interfaz de las aplicaciones de música, y así luce</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-renueva-diseno-interfaz-aplicaciones-musica-luce-1097447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg' alt='Android Auto renueva el diseño y la interfaz de las aplicaciones de música, y así luce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443'>Estas son las calles más bonitas del mundo según este estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primavera-kioto-2765757.jpg' alt='Estas son las calles más bonitas del mundo según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/google-echa-freno-mano-permisos-aplicaciones-quedan-play-store-1097421'>Google echa el freno de mano y los permisos de las aplicaciones se quedan en la Play Store</a></h4>
     <a href='https://computerhoy.com/noticias/google-echa-freno-mano-permisos-aplicaciones-quedan-play-store-1097421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/gps.jpg' alt='Google echa el freno de mano y los permisos de las aplicaciones se quedan en la Play Store' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177'>Google Pixel 6a, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/google-pixel-6a-review-opinion-1097177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google Pixel 6a, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-tambien-quiere-ser-tienda-ha-utilizado-influencers-probar-nuevo-sistema-venta-1097413'>YouTube también quiere ser una tienda y ha utilizado influencers para probar su nuevo sistema de venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-tambien-quiere-ser-tienda-ha-utilizado-influencers-probar-nuevo-sistema-venta-1097413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='YouTube también quiere ser una tienda y ha utilizado influencers para probar su nuevo sistema de venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-pais-grande-africa-1097305'>Cuál es el país más grande de África</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-pais-grande-africa-1097305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/africa-2574175.jpg' alt='Cuál es el país más grande de África' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399'>Cómo mejorar tu productividad en Excel con estos trucos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-productividad-excel-estos-trucos-1097399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/excel-2011453.jpg' alt='Cómo mejorar tu productividad en Excel con estos trucos' />
     </a>
 </div>
 
