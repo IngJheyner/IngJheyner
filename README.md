@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1097083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2764783.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-unidades-ssd-1096601'>Estas son las mejores unidades SSD que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-unidades-ssd-1096601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg' alt='Estas son las mejores unidades SSD que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079'>Cómo limpiar las plantas y quitarles el polvo, sin dañarlas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-plantas-quitarles-polvo-sin-danarlas-1097079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-limpiar-plantas-quitarles-polvo-danarlas-2764779.jpg' alt='Cómo limpiar las plantas y quitarles el polvo, sin dañarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765'>Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-sabemos-oneplus-10t-presentara-3-agosto-1096765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/oneplus-pro-10-promocion-verano-aliexpress-2739111.jpg' alt='Esto es todo lo que sabemos del OnePlus 10T que se presentará el 3 de agosto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pay-desaparece-llega-google-wallet-1096871'>Google Pay desaparece, ya está aquí Google Wallet </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pay-desaparece-llega-google-wallet-1096871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-pay-desaparece-ya-aqui-google-wallet-2764587.jpg' alt='Google Pay desaparece, ya está aquí Google Wallet ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853'>Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-1096853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gafas-realidad-aumentada-google-estan-cada-vez-cerca-ser-realidad-2764581.jpg' alt='Las gafas de realidad aumentada de Google están cada vez más cerca de ser una realidad' />
     </a>
 </div>
 
