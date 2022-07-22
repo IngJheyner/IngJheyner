@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-primer-videoclip-musical-iphone-1098045'>Steven Spielberg rueda su primer videoclip musical, una sola toma con un iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-primer-videoclip-musical-iphone-1098045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/steven-spielberg-rueda-primer-video-musical-sola-toma-iphone-2767047.jpg' alt='Steven Spielberg rueda su primer videoclip musical, una sola toma con un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-cuentas-twitter-han-sido-victimas-brecha-seguridad-cambia-contrasena-cuanto-antes-1097999'>Millones de cuentas de Twitter han sido víctimas de una brecha de seguridad: cambia tu contraseña cuanto antes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/millones-cuentas-twitter-han-sido-victimas-brecha-seguridad-cambia-contrasena-cuanto-antes-1097999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='Millones de cuentas de Twitter han sido víctimas de una brecha de seguridad: cambia tu contraseña cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033'>Esta es la razón por la que debes siempre lavar la ropa recién comprada</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comprar-ropa-2767013.jpg' alt='Esta es la razón por la que debes siempre lavar la ropa recién comprada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027'>En Japón ya puedes hasta dar la mano a los avatares virtuales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vtuber-2767007.jpg' alt='En Japón ya puedes hasta dar la mano a los avatares virtuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459'>7 aplicaciones con las que puedes llevar un registro de todos tus sueños</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-aplicaciones-puedes-llevar-registro-todos-suenos-2755907.jpg' alt='7 aplicaciones con las que puedes llevar un registro de todos tus sueños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859'>Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg' alt='Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei' />
     </a>
 </div>
 
