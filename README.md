@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033'>Esta es la razón por la que debes siempre lavar la ropa recién comprada</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comprar-ropa-2767013.jpg' alt='Esta es la razón por la que debes siempre lavar la ropa recién comprada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-1098003'>Pantalla con resolución 2K, ocho altavoces y batería de 7.250 mAh para la nueva Honor Pad 8</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-1098003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-2767015.jpg' alt='Pantalla con resolución 2K, ocho altavoces y batería de 7.250 mAh para la nueva Honor Pad 8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027'>En Japón ya puedes hasta dar la mano a los avatares virtuales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vtuber-2767007.jpg' alt='En Japón ya puedes hasta dar la mano a los avatares virtuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459'>7 aplicaciones con las que puedes llevar un registro de todos tus sueños</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-aplicaciones-puedes-llevar-registro-todos-suenos-2755907.jpg' alt='7 aplicaciones con las que puedes llevar un registro de todos tus sueños' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859'>Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg' alt='Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-movistar-plus-chavales-abogado-salvaje-oeste-1097935'>Qué series ver este fin de semana en Netflix, HBO Max y Movistar Plus+: unos chavales, un abogado y el salvaje oeste</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-movistar-plus-chavales-abogado-salvaje-oeste-1097935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2766585.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Movistar Plus+: unos chavales, un abogado y el salvaje oeste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-1097813'>Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: Ryan Gosling, la saga completa de Fast and Furious y la mafia irlandesa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-1097813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-2766299.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: Ryan Gosling, la saga completa de Fast and Furious y la mafia irlandesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911'>Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-2766545.jpg' alt='Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo' />
     </a>
 </div>
 
