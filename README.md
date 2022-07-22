@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889'>Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ha-filtrado-tecnologia-audio-ruidos-competencia-rtx-nvidia-1097863'>AMD ha filtrado su tecnología de audio sin ruidos, competencia para las RTX de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-ha-filtrado-tecnologia-audio-ruidos-competencia-rtx-nvidia-1097863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/marantz-microfono-2112837.jpg' alt='AMD ha filtrado su tecnología de audio sin ruidos, competencia para las RTX de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/trailer-mision-artemis-i-nasa-llevara-humanos-luna-50-anos-1097837'>Este es el tráiler de la misión Artemis I de la NASA, que llevará humanos a la Luna tras 50 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/trailer-mision-artemis-i-nasa-llevara-humanos-luna-50-anos-1097837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='Este es el tráiler de la misión Artemis I de la NASA, que llevará humanos a la Luna tras 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239'>Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845'>Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/smartphone-medico-2569441.jpg' alt='Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/segundo-descubrimiento-almacenar-energia-generar-hidrogeno-polvo-coche-electrico-podria-tener-dias-contados-1097759'>Segundo descubrimiento para almacenar energía y generar hidrógeno desde polvo, el coche eléctrico podría tener los días contados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/segundo-descubrimiento-almacenar-energia-generar-hidrogeno-polvo-coche-electrico-podria-tener-dias-contados-1097759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-hidrogeno-2766161.jpg' alt='Segundo descubrimiento para almacenar energía y generar hidrógeno desde polvo, el coche eléctrico podría tener los días contados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-todo-podria-acabar-posibles-finales-universo-1097831'>Y así es como todo podría acabar: los posibles finales del universo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-todo-podria-acabar-posibles-finales-universo-1097831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/universos-paralelos-no-son-solo-cosa-ciencia-ficcion-nuevo-estudio-cientifico-2486569.jpg' alt='Y así es como todo podría acabar: los posibles finales del universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-ganar-mano-razr-3-nueva-generacion-smartphones-plegables-llegando-semana-antes-samsung-1097797'>Motorola quiere ganar por la mano con su RAZR 3 en la nueva generación de smartphones plegables llegando una semana antes que Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-ganar-mano-razr-3-nueva-generacion-smartphones-plegables-llegando-semana-antes-samsung-1097797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-razr-3-2696401.jpg' alt='Motorola quiere ganar por la mano con su RAZR 3 en la nueva generación de smartphones plegables llegando una semana antes que Samsung' />
     </a>
 </div>
 
