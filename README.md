@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459'>7 aplicaciones con las que puedes llevar un registro de todos tus sueños</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-puedes-llevar-registro-todos-suenos-1087459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/7-aplicaciones-puedes-llevar-registro-todos-suenos-2755907.jpg' alt='7 aplicaciones con las que puedes llevar un registro de todos tus sueños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859'>Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg' alt='Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911'>Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-2766545.jpg' alt='Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919'>Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sudar-calor-2413683.jpg' alt='Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU' />
     </a>
 </div>
 
