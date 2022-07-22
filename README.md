@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859'>Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-pro-titanium-oferta-22-julio-2022-1097859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg' alt='Huawei Watch GT 3 Pro Titanium, el reloj inteligente de diseño y duradero, baja de precio a 299€ en la tienda de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-movistar-plus-chavales-abogado-salvaje-oeste-1097935'>Qué series ver este fin de semana en Netflix, HBO Max y Movistar Plus+: unos chavales, un abogado y el salvaje oeste</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-movistar-plus-chavales-abogado-salvaje-oeste-1097935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2766585.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Movistar Plus+: unos chavales, un abogado y el salvaje oeste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-1097813'>Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: Ryan Gosling, la saga completa de Fast and Furious y la mafia irlandesa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-1097813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-netflix-hbo-max-disney-ryan-gosling-saga-completa-fast-and-furious-mafia-irlandesa-2766299.jpg' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Disney+: Ryan Gosling, la saga completa de Fast and Furious y la mafia irlandesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911'>Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-2766545.jpg' alt='Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919'>Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sudar-calor-2413683.jpg' alt='Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-all-one-hp-mejorcito-segmento-tiene-descuento-120-euros-amazon-1097257'>Este ordenador All In One de HP es de lo mejorcito en su segmento y tiene un descuento de 120 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-all-one-hp-mejorcito-segmento-tiene-descuento-120-euros-amazon-1097257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-24-cb0000ss-2765301.jpg' alt='Este ordenador All In One de HP es de lo mejorcito en su segmento y tiene un descuento de 120 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885'>TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889'>Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp' />
     </a>
 </div>
 
