@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/invento-te-permitira-aparcar-coche-sola-maniobra-1097741'>Este invento te permitirá aparcar el coche de una sola maniobra</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/invento-te-permitira-aparcar-coche-sola-maniobra-1097741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='Este invento te permitirá aparcar el coche de una sola maniobra' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-nuevas-medidas-proteger-mujeres-aplicacion-1097757'>Tinder y sus nuevas medidas para proteger a las mujeres en la aplicación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-nuevas-medidas-proteger-mujeres-aplicacion-1097757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tinder-app-2658855.jpg' alt='Tinder y sus nuevas medidas para proteger a las mujeres en la aplicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tiktok-coca-cola-casera-saludable-vinagre-balsamico-modena-1097705'>En TikTok enseñan a fabricar Coca Cola casera y saludable, con un ingrediente secreto que está dando que hablar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tiktok-coca-cola-casera-saludable-vinagre-balsamico-modena-1097705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tiktok-ensenan-fabricar-coca-cola-casera-saludable-ingrediente-secreto-dando-hablar-2766041.jpg' alt='En TikTok enseñan a fabricar Coca Cola casera y saludable, con un ingrediente secreto que está dando que hablar' />
+    <h4><a href='https://computerhoy.com/guia-compra/horno-cocina'>Consejos y guía para comprar un horno eléctrico para tu cocina en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/horno-cocina' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-usando-horno-conectado-2354241.jpg' alt='Consejos y guía para comprar un horno eléctrico para tu cocina en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-vencer-tiktok-terreno-anade-nuevas-opciones-reels-1097723'>Instagram quiere vencer a TikTok en su terreno y añade nuevas opciones para los Reels</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-vencer-tiktok-terreno-anade-nuevas-opciones-reels-1097723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram quiere vencer a TikTok en su terreno y añade nuevas opciones para los Reels' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-vivo-x80-pro-1097255'>5 razones por las que Vivo X80 Pro 5G es el móvil fotográfico del año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-vivo-x80-pro-1097255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752591.jpg' alt='5 razones por las que Vivo X80 Pro 5G es el móvil fotográfico del año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443'>Estas son las calles más bonitas del mundo según este estudio y España sale bien parada </a></h4>
-    <a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primavera-kioto-2765757.jpg' alt='Estas son las calles más bonitas del mundo según este estudio y España sale bien parada ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Estos son los mejores móviles de Apple por rango de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1097707'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1097707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2766043.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambiar-audio-dispositivos-android-ya-no-sera-tan-complicado-1097755'>Cambiar el audio entre dispositivos Android ya no será tan complicado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cambiar-audio-dispositivos-android-ya-no-sera-tan-complicado-1097755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/futuros-auriculares-deben-tener-estas-5-caracteristicas-no-todos-tienen-2391667.jpg' alt='Cambiar el audio entre dispositivos Android ya no será tan complicado' />
     </a>
 </div>
 
