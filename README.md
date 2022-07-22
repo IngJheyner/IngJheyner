@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091'>¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables</a></h4>
+    <a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/muneco-articulado-elon-musk-spacex-mattel-llegan-acuerdo-fabricar-juguetes-2767103.jpg' alt='¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/paseo-tren-volador-wuppertal-113-anos-diferencia-1094615'>Un paseo en el tren volador de Wuppertal, con 113 años de diferencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/paseo-tren-volador-wuppertal-113-anos-diferencia-1094615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/paseo-tren-volador-wuppertal-113-anos-diferencia-2760923.jpg' alt='Un paseo en el tren volador de Wuppertal, con 113 años de diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-comic-con-senor-anillos-anillos-poder-1098087'>El nuevo tráiler de El Señor de los Anillos: Los Anillos de Poder de la Comic-Con es aún más brutal que los anteriores</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trailer-comic-con-senor-anillos-anillos-poder-1098087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-trailer-senor-anillos-anillos-poder-comic-aun-espectacular-anteriores-2767091.jpg' alt='El nuevo tráiler de El Señor de los Anillos: Los Anillos de Poder de la Comic-Con es aún más brutal que los anteriores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-vez-hay-menos-excusas-pronto-podras-seguir-reuniones-google-meet-youtube-1098073'>Cada vez hay menos excusas: pronto podrás seguir las reuniones de Google Meet desde YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cada-vez-hay-menos-excusas-pronto-podras-seguir-reuniones-google-meet-youtube-1098073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='Cada vez hay menos excusas: pronto podrás seguir las reuniones de Google Meet desde YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitch-no-quiere-dejar-titere-cabeza-permitira-streamers-compartir-listas-usuarios-baneados-1098049'>Twitch no quiere dejar títere con cabeza y permitirá a los streamers compartir sus listas de usuarios baneados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitch-no-quiere-dejar-titere-cabeza-permitira-streamers-compartir-listas-usuarios-baneados-1098049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/twitch.jpg' alt='Twitch no quiere dejar títere con cabeza y permitirá a los streamers compartir sus listas de usuarios baneados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-baja-precio-1098081'>El Samsung Galaxy M52 5G baja de precio para competir con los Xiaomi, solo cuesta 229 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-baja-precio-1098081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-m52-5g-2507075.jpg' alt='El Samsung Galaxy M52 5G baja de precio para competir con los Xiaomi, solo cuesta 229 euros' />
     </a>
 </div>
 
