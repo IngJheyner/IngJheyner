@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-nuevas-medidas-proteger-mujeres-aplicacion-1097757'>Tinder y sus nuevas medidas para proteger a las mujeres en la aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tinder-nuevas-medidas-proteger-mujeres-aplicacion-1097757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tinder-app-2658855.jpg' alt='Tinder y sus nuevas medidas para proteger a las mujeres en la aplicación' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239'>Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/horno-cocina'>Consejos y guía para comprar un horno eléctrico para tu cocina en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/horno-cocina' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-usando-horno-conectado-2354241.jpg' alt='Consejos y guía para comprar un horno eléctrico para tu cocina en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845'>Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/smartphone-medico-2569441.jpg' alt='Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-vivo-x80-pro-1097255'>5 razones por las que Vivo X80 Pro 5G es el móvil fotográfico del año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-comprar-vivo-x80-pro-1097255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752591.jpg' alt='5 razones por las que Vivo X80 Pro 5G es el móvil fotográfico del año' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/segundo-descubrimiento-almacenar-energia-generar-hidrogeno-polvo-coche-electrico-podria-tener-dias-contados-1097759'>Segundo descubrimiento para almacenar energía y generar hidrógeno desde polvo, el coche eléctrico podría tener los días contados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/segundo-descubrimiento-almacenar-energia-generar-hidrogeno-polvo-coche-electrico-podria-tener-dias-contados-1097759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-hidrogeno-2766161.jpg' alt='Segundo descubrimiento para almacenar energía y generar hidrógeno desde polvo, el coche eléctrico podría tener los días contados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423'>Estos son los mejores móviles de Apple por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-apple-rango-precio-931423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Estos son los mejores móviles de Apple por rango de precio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-todo-podria-acabar-posibles-finales-universo-1097831'>Y así es como todo podría acabar: los posibles finales del universo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-todo-podria-acabar-posibles-finales-universo-1097831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/universos-paralelos-no-son-solo-cosa-ciencia-ficcion-nuevo-estudio-cientifico-2486569.jpg' alt='Y así es como todo podría acabar: los posibles finales del universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambiar-audio-dispositivos-android-ya-no-sera-tan-complicado-1097755'>Cambiar el audio entre dispositivos Android ya no será tan complicado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cambiar-audio-dispositivos-android-ya-no-sera-tan-complicado-1097755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/futuros-auriculares-deben-tener-estas-5-caracteristicas-no-todos-tienen-2391667.jpg' alt='Cambiar el audio entre dispositivos Android ya no será tan complicado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-ganar-mano-razr-3-nueva-generacion-smartphones-plegables-llegando-semana-antes-samsung-1097797'>Motorola quiere ganar por la mano con su RAZR 3 en la nueva generación de smartphones plegables llegando una semana antes que Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-quiere-ganar-mano-razr-3-nueva-generacion-smartphones-plegables-llegando-semana-antes-samsung-1097797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/motorola-razr-3-2696401.jpg' alt='Motorola quiere ganar por la mano con su RAZR 3 en la nueva generación de smartphones plegables llegando una semana antes que Samsung' />
     </a>
 </div>
 
