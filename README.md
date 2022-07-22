@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-baja-precio-1098081'>El Samsung Galaxy M52 5G baja de precio para competir con los Xiaomi, solo cuesta 229 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m52-5g-baja-precio-1098081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/samsung-galaxy-m52-5g-2507075.jpg' alt='El Samsung Galaxy M52 5G baja de precio para competir con los Xiaomi, solo cuesta 229 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-estaria-preparando-nuevo-terminal-gama-alta-seria-huawei-p60-1098037'>Huawei ya estaría preparando su nuevo terminal de gama alta: así sería el Huawei P60</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-ya-estaria-preparando-nuevo-terminal-gama-alta-seria-huawei-p60-1098037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-huawei-p50-pro-2600195.jpg' alt='Huawei ya estaría preparando su nuevo terminal de gama alta: así sería el Huawei P60' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-galaxy-watch-5-pro-seria-reloj-wear-os-mejor-autonomia-1098025'>Los últimos rumores apuntan a que el Galaxy Watch 5 Pro sería el reloj con Wear OS con mejor autonomía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-galaxy-watch-5-pro-seria-reloj-wear-os-mejor-autonomia-1098025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-galaxy-watch-4-2515809.jpg' alt='Los últimos rumores apuntan a que el Galaxy Watch 5 Pro sería el reloj con Wear OS con mejor autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-primer-videoclip-musical-iphone-1098045'>Steven Spielberg rueda su primer videoclip musical, una sola toma con un iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/steven-spielberg-primer-videoclip-musical-iphone-1098045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/steven-spielberg-rueda-primer-video-musical-sola-toma-iphone-2767047.jpg' alt='Steven Spielberg rueda su primer videoclip musical, una sola toma con un iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-cuentas-twitter-han-sido-victimas-brecha-seguridad-cambia-contrasena-cuanto-antes-1097999'>Millones de cuentas de Twitter han sido víctimas de una brecha de seguridad: cambia tu contraseña cuanto antes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/millones-cuentas-twitter-han-sido-victimas-brecha-seguridad-cambia-contrasena-cuanto-antes-1097999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='Millones de cuentas de Twitter han sido víctimas de una brecha de seguridad: cambia tu contraseña cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033'>Esta es la razón por la que debes siempre lavar la ropa recién comprada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-debes-siempre-lavar-ropa-recien-comprada-1098033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comprar-ropa-2767013.jpg' alt='Esta es la razón por la que debes siempre lavar la ropa recién comprada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-1098003'>Pantalla con resolución 2K, ocho altavoces y batería de 7.250 mAh para la nueva Honor Pad 8</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-1098003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-resolucion-2k-ocho-altavoces-bateria-7250-mah-nueva-honor-pad-8-2767015.jpg' alt='Pantalla con resolución 2K, ocho altavoces y batería de 7.250 mAh para la nueva Honor Pad 8' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027'>En Japón ya puedes hasta dar la mano a los avatares virtuales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/japon-ya-puedes-dar-mano-avatares-virtuales-1098027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vtuber-2767007.jpg' alt='En Japón ya puedes hasta dar la mano a los avatares virtuales' />
     </a>
 </div>
 
