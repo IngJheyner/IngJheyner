@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885'>TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889'>Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239'>Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845'>Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-tambien-quiere-ser-medico-plantea-futuro-gigante-americano-1097845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/smartphone-medico-2569441.jpg' alt='Amazon también quiere ser nuestro médico: así plantea el futuro el gigante americano' />
     </a>
 </div>
 
