@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-smartssd-1097475'>Samsung lanza un SSD semiautónomo que procesa datos sin necesidad de usar la CPU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-smartssd-1097475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-lanza-ssd-semiautonomo-procesa-datos-necesidad-usar-cpu-2765793.jpg' alt='Samsung lanza un SSD semiautónomo que procesa datos sin necesidad de usar la CPU' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-vencer-tiktok-terreno-anade-nuevas-opciones-reels-1097723'>Instagram quiere vencer a TikTok en su terreno y añade nuevas opciones para los Reels</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-vencer-tiktok-terreno-anade-nuevas-opciones-reels-1097723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Instagram quiere vencer a TikTok en su terreno y añade nuevas opciones para los Reels' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/investigadores-descubren-nuevas-aplicaciones-maliciosas-play-store-tienes-desinstalar-ya-mismo-1097467'>Investigadores descubren nuevas aplicaciones maliciosas en la Play Store que tienes que desinstalar ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/investigadores-descubren-nuevas-aplicaciones-maliciosas-play-store-tienes-desinstalar-ya-mismo-1097467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/android-malware-2755065.jpg' alt='Investigadores descubren nuevas aplicaciones maliciosas en la Play Store que tienes que desinstalar ya mismo' />
+    <h4><a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443'>Estas son las calles más bonitas del mundo según este estudio y España sale bien parada </a></h4>
+    <a href='https://computerhoy.com/noticias/life/estas-son-calles-bonitas-mundo-estudio-1097443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/primavera-kioto-2765757.jpg' alt='Estas son las calles más bonitas del mundo según este estudio y España sale bien parada ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463'>Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videos-publiques-instagram-convertiran-reels-no-podras-hacer-nada-remediarlo-1097463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Los vídeos que publiques en Instagram se convertirán en Reels y no podrás hacer nada para remediarlo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1097707'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1097707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2766043.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-cambia-diseno-anade-nueva-pestana-muy-util-informan-usando-red-social-1097457'>Facebook cambia su diseño y añade una nueva pestaña muy útil para los que se informan usando la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-cambia-diseno-anade-nueva-pestana-muy-util-informan-usando-red-social-1097457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/facebook-2631389.jpg' alt='Facebook cambia su diseño y añade una nueva pestaña muy útil para los que se informan usando la red social' />
+    <h4><a href='https://computerhoy.com/noticias/life/tiktok-coca-cola-casera-saludable-vinagre-balsamico-modena-1097705'>En TikTok enseñan a fabricar Coca Cola casera y saludable, con un ingrediente secreto que está dando que hablar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tiktok-coca-cola-casera-saludable-vinagre-balsamico-modena-1097705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tiktok-ensenan-fabricar-coca-cola-casera-saludable-ingrediente-secreto-dando-hablar-2766041.jpg' alt='En TikTok enseñan a fabricar Coca Cola casera y saludable, con un ingrediente secreto que está dando que hablar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469'>600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-x-pro-descuento-600-euros-1097469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416869.jpg' alt='600€ de descuento en el portátil Huawei MateBook X Pro con 16 GB de RAM y un SSD de 1 TB' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/caja-herramientas-futurista-wiha-xiaomi-mesa-asiento-escalera-video-1097703'>La caja de herramientas futurista que sirve de mesa, asiento y escalera (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/caja-herramientas-futurista-wiha-xiaomi-mesa-asiento-escalera-video-1097703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/caja-herramientas-futurista-sirve-mesa-asiento-escalera-video-2766005.jpg' alt='La caja de herramientas futurista que sirve de mesa, asiento y escalera (vídeo)' />
     </a>
 </div>
 
