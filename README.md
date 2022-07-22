@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911'>Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-1097911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/funciona-nuwa-infinity-ia-microsoft-generacion-imagenes-video-2766545.jpg' alt='Así funciona Nuwa-infinity, la IA de Microsoft de generación de imágenes y vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919'>Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-evitar-golpe-calor-sintomas-hacer-sufrimos-ocu-1097919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sudar-calor-2413683.jpg' alt='Como evitar un golpe de calor, síntomas y qué hacer si sufrimos uno según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-all-one-hp-mejorcito-segmento-tiene-descuento-120-euros-amazon-1097257'>Este ordenador All In One de HP es de lo mejorcito en su segmento y tiene un descuento de 120 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-all-one-hp-mejorcito-segmento-tiene-descuento-120-euros-amazon-1097257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hp-24-cb0000ss-2765301.jpg' alt='Este ordenador All In One de HP es de lo mejorcito en su segmento y tiene un descuento de 120 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885'>TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-anade-subtitulos-generados-automaticamente-usuarios-multitud-opciones-traduccion-1097885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok añade subtítulos generados automáticamente para los usuarios con multitud de opciones de traducción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889'>Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-podras-personalizar-quien-ve-no-ultima-conexion-whatsapp-1097889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Por fin podrás personalizar quien ve o no tu última conexión en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ha-filtrado-tecnologia-audio-ruidos-competencia-rtx-nvidia-1097863'>AMD ha filtrado su tecnología de audio sin ruidos, competencia para las RTX de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-ha-filtrado-tecnologia-audio-ruidos-competencia-rtx-nvidia-1097863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/marantz-microfono-2112837.jpg' alt='AMD ha filtrado su tecnología de audio sin ruidos, competencia para las RTX de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/trailer-mision-artemis-i-nasa-llevara-humanos-luna-50-anos-1097837'>Este es el tráiler de la misión Artemis I de la NASA, que llevará humanos a la Luna tras 50 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/trailer-mision-artemis-i-nasa-llevara-humanos-luna-50-anos-1097837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='Este es el tráiler de la misión Artemis I de la NASA, que llevará humanos a la Luna tras 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239'>Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-tab-a8-oferta-22-julio-2022-1097239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-tab-a8-2600591.jpg' alt='Esta tablet de Samsung tiene una pantalla de 10", 64 GB de almacenamiento y ahora cuesta menos de 200 euros' />
     </a>
 </div>
 
