@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-sacar-mayor-partido-webcam-windows-11-videos-camara-falsa-efectos-mucho-1094085'>Cómo sacar el mayor partido a tu webcam en Windows 11: vídeos, cámara falsa, efectos y mucho más</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-sacar-mayor-partido-webcam-windows-11-videos-camara-falsa-efectos-mucho-1094085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/webcam-2759771.jpg' alt='Cómo sacar el mayor partido a tu webcam en Windows 11: vídeos, cámara falsa, efectos y mucho más' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965'>Nebula Cosmos Láser 4K, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nebula-cosmos-laser-4k-analisis-opinion-2766723.jpg' alt='Nebula Cosmos Láser 4K, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/satelite-geoestacionario-son-tan-importantes-1090009'>¿Qué es un satélite geoestacionario y por qué son tan importantes?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/satelite-geoestacionario-son-tan-importantes-1090009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658336749554-2764511.jpg' alt='¿Qué es un satélite geoestacionario y por qué son tan importantes?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-despide-ingeniero-software-declaro-chatbot-ia-compania-era-consciente-1098327'>Google despide al ingeniero de software que declaró que un chatbot de IA de la compañía “era consciente"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-despide-ingeniero-software-declaro-chatbot-ia-compania-era-consciente-1098327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inteligencia-artificial-2767383.jpg' alt='Google despide al ingeniero de software que declaró que un chatbot de IA de la compañía “era consciente"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301'>Huawei Watch Fit 2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2759307.jpg' alt='Huawei Watch Fit 2, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-coreanas-puedes-encontrar-netflix-muchas-ellas-desconocidas-1096803'>Las 7 series coreanas que puedes encontrar en Netflix, muchas de ellas desconocidas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-coreanas-puedes-encontrar-netflix-muchas-ellas-desconocidas-1096803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/rumbo-infierno-2764455.jpg' alt='Las 7 series coreanas que puedes encontrar en Netflix, muchas de ellas desconocidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737'>Mejores bombillas WiFi por 10 euros o menos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lamparas-bombillas-2766289.jpg' alt='Mejores bombillas WiFi por 10 euros o menos que puedes comprar' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277'>djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/flowmate-tower-one-2765363.jpg' alt='djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817'>Los efectos positivos de las redes sociales en la sociedad, no todo es malo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/redes%20sociales_0.jpg' alt='Los efectos positivos de las redes sociales en la sociedad, no todo es malo' />
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-band-7-review-opinion-1095187'>Xiaomi Smart Band 7, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-band-7-review-opinion-1095187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-xiaomi-band-7-2766613.jpg' alt='Xiaomi Smart Band 7, análisis y opinión' />
     </a>
 </div>
 
