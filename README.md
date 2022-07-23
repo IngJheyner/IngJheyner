@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539'>Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ciclismo-2767643.jpg' alt='Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115'>Cómo conectar y usar tu móvil Android con un PC Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-movil-2712693.jpg' alt='Cómo conectar y usar tu móvil Android con un PC Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485'>Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-14-2767537.jpg' alt='Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481'>Fabrican un coche eléctrico que captura carbono mientras se conduce</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zem-em-07-2767535.jpg' alt='Fabrican un coche eléctrico que captura carbono mientras se conduce' />
     </a>
 </div>
 
