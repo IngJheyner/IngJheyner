@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289'>El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/espresso-cafe-cafetera-no-mismo-sube-colesterol-2767281.jpg' alt='El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/significa-error-17-android-auto-como-solucionarlo-1082065'>Qué significa el Error 17 de Android Auto y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/significa-error-17-android-auto-como-solucionarlo-1082065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Qué significa el Error 17 de Android Auto y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955'>Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287'>Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blizzbrush-revolucionaria-esponja-dental-sustituye-cepillo-dientes-2767279.jpg' alt='Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091'>¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables</a></h4>
     <a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/muneco-articulado-elon-musk-spacex-mattel-llegan-acuerdo-fabricar-juguetes-2767103.jpg' alt='¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/paseo-tren-volador-wuppertal-113-anos-diferencia-1094615'>Un paseo en el tren volador de Wuppertal, con 113 años de diferencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/paseo-tren-volador-wuppertal-113-anos-diferencia-1094615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/paseo-tren-volador-wuppertal-113-anos-diferencia-2760923.jpg' alt='Un paseo en el tren volador de Wuppertal, con 113 años de diferencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-comic-con-senor-anillos-anillos-poder-1098087'>El nuevo tráiler de El Señor de los Anillos: Los Anillos de Poder de la Comic-Con es aún más brutal que los anteriores</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-comic-con-senor-anillos-anillos-poder-1098087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-trailer-senor-anillos-anillos-poder-comic-aun-espectacular-anteriores-2767091.jpg' alt='El nuevo tráiler de El Señor de los Anillos: Los Anillos de Poder de la Comic-Con es aún más brutal que los anteriores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-habria-mejorado-rendimiento-bruto-graficas-ultima-actualizacion-1098085'>Intel habría mejorado el rendimiento bruto de sus gráficas en su última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-habria-mejorado-rendimiento-bruto-graficas-ultima-actualizacion-1098085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Intel habría mejorado el rendimiento bruto de sus gráficas en su última actualización' />
     </a>
 </div>
 
