@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547'>Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539'>Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan</a></h4>
     <a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ciclismo-2767643.jpg' alt='Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487'>Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485'>Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-14-2767537.jpg' alt='Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial' />
     </a>
 </div>
 
