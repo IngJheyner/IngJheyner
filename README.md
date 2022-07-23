@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473'>Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965'>Nebula Cosmos Láser 4K, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nebula-cosmos-laser-4k-analisis-opinion-2766723.jpg' alt='Nebula Cosmos Láser 4K, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277'>djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/flowmate-tower-one-2765363.jpg' alt='djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-band-7-review-opinion-1095187'>Xiaomi Smart Band 7, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-band-7-review-opinion-1095187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-xiaomi-band-7-2766613.jpg' alt='Xiaomi Smart Band 7, análisis y opinión' />
     </a>
 </div>
 
