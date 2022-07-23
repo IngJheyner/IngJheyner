@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737'>Mejores bombillas WiFi por 10 euros o menos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lamparas-bombillas-2766289.jpg' alt='Mejores bombillas WiFi por 10 euros o menos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817'>Los efectos positivos de las redes sociales en la sociedad, no todo es malo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/redes%20sociales_0.jpg' alt='Los efectos positivos de las redes sociales en la sociedad, no todo es malo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289'>El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol</a></h4>
     <a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/espresso-cafe-cafetera-no-mismo-sube-colesterol-2767281.jpg' alt='El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/significa-error-17-android-auto-como-solucionarlo-1082065'>Qué significa el Error 17 de Android Auto y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/significa-error-17-android-auto-como-solucionarlo-1082065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='Qué significa el Error 17 de Android Auto y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955'>Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo' />
     </a>
 </div>
 
