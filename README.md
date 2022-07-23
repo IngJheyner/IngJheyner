@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887'>Guía y consejos para automatizar sistemas de iluminación LED para el hogar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/luz-led-2757661.jpg' alt='Guía y consejos para automatizar sistemas de iluminación LED para el hogar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955'>Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejores-accesorios-compatibles-amazon-echo-1079955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg' alt='Guía y consejos para comprar los mejores accesorios compatibles con tu Amazon Echo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287'>Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blizzbrush-revolucionaria-esponja-dental-sustituye-cepillo-dientes-2767279.jpg' alt='Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)' />
     </a>
 </div>
 
