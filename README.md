@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887'>Guía y consejos para automatizar sistemas de iluminación LED para el hogar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/luz-led-2757661.jpg' alt='Guía y consejos para automatizar sistemas de iluminación LED para el hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289'>El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol</a></h4>
     <a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/espresso-cafe-cafetera-no-mismo-sube-colesterol-2767281.jpg' alt='El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287'>Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blizzbrush-revolucionaria-esponja-dental-sustituye-cepillo-dientes-2767279.jpg' alt='Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091'>¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables</a></h4>
-    <a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/muneco-articulado-elon-musk-spacex-mattel-llegan-acuerdo-fabricar-juguetes-2767103.jpg' alt='¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables' />
     </a>
 </div>
 
