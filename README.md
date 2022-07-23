@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287'>Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/blizzbrush-esponja-dental-sustituye-cepillo-dientes-video-1098287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blizzbrush-revolucionaria-esponja-dental-sustituye-cepillo-dientes-2767279.jpg' alt='Blizzbrush, la revolucionaria esponja dental que sustituye al cepillo de dientes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091'>¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables</a></h4>
     <a href='https://computerhoy.com/noticias/life/spacex-mattel-acuerdo-fabricar-juguetes-coleccionables-1098091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/muneco-articulado-elon-musk-spacex-mattel-llegan-acuerdo-fabricar-juguetes-2767103.jpg' alt='¿Una figura de acción de Elon Musk? SpaceX y Mattel llegan a un acuerdo para fabricar juguetes y coleccionables' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-habria-mejorado-rendimiento-bruto-graficas-ultima-actualizacion-1098085'>Intel habría mejorado el rendimiento bruto de sus gráficas en su última actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-habria-mejorado-rendimiento-bruto-graficas-ultima-actualizacion-1098085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tarjetas-graficas-intel-arc-parece-retrasan-nuevo-julio-agosto-motivo-2696141.jpg' alt='Intel habría mejorado el rendimiento bruto de sus gráficas en su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cada-vez-hay-menos-excusas-pronto-podras-seguir-reuniones-google-meet-youtube-1098073'>Cada vez hay menos excusas: pronto podrás seguir las reuniones de Google Meet desde YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cada-vez-hay-menos-excusas-pronto-podras-seguir-reuniones-google-meet-youtube-1098073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='Cada vez hay menos excusas: pronto podrás seguir las reuniones de Google Meet desde YouTube' />
     </a>
 </div>
 
