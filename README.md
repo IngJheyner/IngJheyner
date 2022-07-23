@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-sacar-mayor-partido-webcam-windows-11-videos-camara-falsa-efectos-mucho-1094085'>Cómo sacar el mayor partido a tu webcam en Windows 11: vídeos, cámara falsa, efectos y mucho más</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-sacar-mayor-partido-webcam-windows-11-videos-camara-falsa-efectos-mucho-1094085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/webcam-2759771.jpg' alt='Cómo sacar el mayor partido a tu webcam en Windows 11: vídeos, cámara falsa, efectos y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/satelite-geoestacionario-son-tan-importantes-1090009'>¿Qué es un satélite geoestacionario y por qué son tan importantes?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/satelite-geoestacionario-son-tan-importantes-1090009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658336749554-2764511.jpg' alt='¿Qué es un satélite geoestacionario y por qué son tan importantes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301'>Huawei Watch Fit 2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2759307.jpg' alt='Huawei Watch Fit 2, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817'>Los efectos positivos de las redes sociales en la sociedad, no todo es malo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/efectos-positivos-redes-sociales-sociedad-no-todo-malo-1092817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/redes%20sociales_0.jpg' alt='Los efectos positivos de las redes sociales en la sociedad, no todo es malo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887'>Guía y consejos para automatizar sistemas de iluminación LED para el hogar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/luz-led-2757661.jpg' alt='Guía y consejos para automatizar sistemas de iluminación LED para el hogar' />
     </a>
 </div>
 
