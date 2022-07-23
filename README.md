@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115'>Cómo conectar y usar tu móvil Android con un PC Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-movil-2712693.jpg' alt='Cómo conectar y usar tu móvil Android con un PC Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489'>Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487'>Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481'>Fabrican un coche eléctrico que captura carbono mientras se conduce</a></h4>
     <a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zem-em-07-2767535.jpg' alt='Fabrican un coche eléctrico que captura carbono mientras se conduce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473'>Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965'>Nebula Cosmos Láser 4K, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nebula-cosmos-laser-4k-analisis-opinion-2766723.jpg' alt='Nebula Cosmos Láser 4K, análisis y opinión' />
     </a>
 </div>
 
