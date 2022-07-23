@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487'>Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485'>Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-ultraligero-huawei-14-pulgadas-ha-bajado-350-euros-oferta-especial-1098485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-14-2767537.jpg' alt='Este portátil ultraligero de Huawei de 14 pulgadas ha bajado 350 euros en esta oferta especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481'>Fabrican un coche eléctrico que captura carbono mientras se conduce</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/fabrican-coche-electrico-captura-carbono-mientras-conduce-1098481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zem-em-07-2767535.jpg' alt='Fabrican un coche eléctrico que captura carbono mientras se conduce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473'>Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-windows-11-retrasara-ataques-fuerza-bruta-forma-predeterminada-1098473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Así es como Windows 11 retrasará los ataques de fuerza bruta de forma predeterminada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965'>Nebula Cosmos Láser 4K, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nebula-cosmos-laser-4k-review-opinion-1097965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nebula-cosmos-laser-4k-analisis-opinion-2766723.jpg' alt='Nebula Cosmos Láser 4K, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-despide-ingeniero-software-declaro-chatbot-ia-compania-era-consciente-1098327'>Google despide al ingeniero de software que declaró que un chatbot de IA de la compañía “era consciente"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-despide-ingeniero-software-declaro-chatbot-ia-compania-era-consciente-1098327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inteligencia-artificial-2767383.jpg' alt='Google despide al ingeniero de software que declaró que un chatbot de IA de la compañía “era consciente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-coreanas-puedes-encontrar-netflix-muchas-ellas-desconocidas-1096803'>Las 7 series coreanas que puedes encontrar en Netflix, muchas de ellas desconocidas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-coreanas-puedes-encontrar-netflix-muchas-ellas-desconocidas-1096803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/rumbo-infierno-2764455.jpg' alt='Las 7 series coreanas que puedes encontrar en Netflix, muchas de ellas desconocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277'>djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/djive-flowmate-tower-one-oferta-23-julio-2022-1097277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/flowmate-tower-one-2765363.jpg' alt='djive Flowmate Tower One: Ventilador sin aspas, con purificador de aire, compatible con Alexa y ahora en oferta' />
     </a>
 </div>
 
