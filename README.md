@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301'>Huawei Watch Fit 2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-watch-fit-2-review-opinion-1092301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2759307.jpg' alt='Huawei Watch Fit 2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737'>Mejores bombillas WiFi por 10 euros o menos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-bombillas-wifi-baratas-1097737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lamparas-bombillas-2766289.jpg' alt='Mejores bombillas WiFi por 10 euros o menos que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887'>Guía y consejos para automatizar sistemas de iluminación LED para el hogar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-automatizar-sistemas-iluminacion-led-hogar-1092887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/luz-led-2757661.jpg' alt='Guía y consejos para automatizar sistemas de iluminación LED para el hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289'>El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espresso-cafe-cafetera-sube-colesterol-1098289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/espresso-cafe-cafetera-no-mismo-sube-colesterol-2767281.jpg' alt='El espresso y el café de cafetera no es lo mismo: uno sube más el colesterol' />
     </a>
 </div>
 
