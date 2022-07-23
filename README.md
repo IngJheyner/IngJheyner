@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023'>Perro robot y metralleta, ¿qué puede salir mal?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/perro-robot-disparando-metralleta-puede-salir-mal-2767005.jpg' alt='Perro robot y metralleta, ¿qué puede salir mal?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547'>Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489'>Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487'>Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-boton-suscripcion-externo-netflix-pone-disposicion-usuarios-ios-1098487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Este es el nuevo botón de suscripción externo que Netflix pone a disposición de los usuarios de iOS' />
     </a>
 </div>
 
