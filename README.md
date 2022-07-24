@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/televisores-qled-led-oled-diferencias-ventajas-inconvenientes-cual-mejor-ti-1091185'>Televisores QLED, LED y OLED: diferencias, ventajas, inconvenientes y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/televisores-qled-led-oled-diferencias-ventajas-inconvenientes-cual-mejor-ti-1091185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-tv-oled-ch-2668723.jpg' alt='Televisores QLED, LED y OLED: diferencias, ventajas, inconvenientes y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-archivos-aparentemente-imborrables-windows-11-1094231'>Cómo eliminar archivos aparentemente imborrables en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-archivos-aparentemente-imborrables-windows-11-1094231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/borrar-2759995.jpg' alt='Cómo eliminar archivos aparentemente imborrables en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805'>Un robot rompe el dedo a un niño durante una partida de ajedrez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-rompe-dedo-nino-durante-partida-ajedrez-2768041.jpg' alt='Un robot rompe el dedo a un niño durante una partida de ajedrez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673'>Cómo usar un Apple Watch con un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-android-2759233.jpg' alt='Cómo usar un Apple Watch con un móvil Android' />
     </a>
 </div>
 
