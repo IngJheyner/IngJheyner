@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/temperatura-ideal-agua-bebes-combatir-ola-calor-1098725'>Esta es la temperatura ideal del agua que bebes para combatir la ola de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/temperatura-ideal-agua-bebes-combatir-ola-calor-1098725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/beber-agua-ola-calor-2767855.jpg' alt='Esta es la temperatura ideal del agua que bebes para combatir la ola de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807'>Las series más ambiciosas que se han rodado, ordenadas según su presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Las series más ambiciosas que se han rodado, ordenadas según su presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715'>Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juego-tronos-2767831.jpg' alt='Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861'>Monitor HP U28 4K HDR, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-hp-u28-4k-hdr-2766383.jpg' alt='Monitor HP U28 4K HDR, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-watch-fit-2-ahora-viene-auriculares-inalambricos-regalo-1097773'>La pulsera de actividad Huawei Watch Fit 2 ahora viene con auriculares inalámbricos de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-watch-fit-2-ahora-viene-auriculares-inalambricos-regalo-1097773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2766155.jpg' alt='La pulsera de actividad Huawei Watch Fit 2 ahora viene con auriculares inalámbricos de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-conserves-serie-mensajes-temporales-gracias-nueva-funcion-1098701'>WhatsApp quiere que conserves una serie de mensajes temporales gracias a esta nueva función</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-conserves-serie-mensajes-temporales-gracias-nueva-funcion-1098701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='WhatsApp quiere que conserves una serie de mensajes temporales gracias a esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433'>Métodos para crear un acceso directo en el escritorio a una página web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acceso-directo-web-2757139.jpg' alt='Métodos para crear un acceso directo en el escritorio a una página web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315'>Los 7 mejores navegadores web para Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/navegador-2761861.jpg' alt='Los 7 mejores navegadores web para Windows 11' />
     </a>
 </div>
 
