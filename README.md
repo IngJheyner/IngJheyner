@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433'>Métodos para crear un acceso directo en el escritorio a una página web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acceso-directo-web-2757139.jpg' alt='Métodos para crear un acceso directo en el escritorio a una página web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315'>Los 7 mejores navegadores web para Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/navegador-2761861.jpg' alt='Los 7 mejores navegadores web para Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543'>El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/overture-2767651.jpg' alt='El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549'>Este es el puente colgante de una sola torre más largo del mundo y está en China</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puente-luzhijiang-provincia-yunnan-2767659.jpg' alt='Este es el puente colgante de una sola torre más largo del mundo y está en China' />
     </a>
 </div>
 
