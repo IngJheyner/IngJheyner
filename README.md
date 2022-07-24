@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/telescopio-espacial-xuntian-china-300-veces-potente-hubble-1098817'>China responde al telescopio James Webb: su telescopio espacial Xuntian será 300 veces más potente que el Hubble</a></h4>
+    <a href='https://computerhoy.com/noticias/life/telescopio-espacial-xuntian-china-300-veces-potente-hubble-1098817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/china-responde-telescopio-james-webb-telescopio-espacial-xuntian-sera-300-veces-potente-hubble-2768099.jpg' alt='China responde al telescopio James Webb: su telescopio espacial Xuntian será 300 veces más potente que el Hubble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805'>Un robot rompe el dedo a un niño durante una partida de ajedrez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-rompe-dedo-nino-durante-partida-ajedrez-2768041.jpg' alt='Un robot rompe el dedo a un niño durante una partida de ajedrez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747'>YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/youtube-music-2767917.jpg' alt='YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735'>Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chuwi-gemibook-ordenador-portatil-2767889.jpg' alt='Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros' />
     </a>
 </div>
 
