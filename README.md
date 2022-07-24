@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805'>Un robot rompe el dedo a un niño durante una partida de ajedrez</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-rompe-dedo-nino-partida-ajedrez-video-1098805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-rompe-dedo-nino-durante-partida-ajedrez-2768041.jpg' alt='Un robot rompe el dedo a un niño durante una partida de ajedrez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673'>Cómo usar un Apple Watch con un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-android-2759233.jpg' alt='Cómo usar un Apple Watch con un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789'>Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-nube-fallan-no-culpa-calor-sobrecalentando-centros-datos-2767997.jpg' alt='Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735'>Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chuwi-gemibook-ordenador-portatil-2767889.jpg' alt='Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/temperatura-ideal-agua-bebes-combatir-ola-calor-1098725'>Esta es la temperatura ideal del agua que bebes para combatir la ola de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/temperatura-ideal-agua-bebes-combatir-ola-calor-1098725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/beber-agua-ola-calor-2767855.jpg' alt='Esta es la temperatura ideal del agua que bebes para combatir la ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807'>Las series más ambiciosas que se han rodado, ordenadas según su presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Las series más ambiciosas que se han rodado, ordenadas según su presupuesto' />
     </a>
 </div>
 
