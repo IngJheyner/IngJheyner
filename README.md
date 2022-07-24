@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789'>Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-nube-fallan-no-culpa-calor-sobrecalentando-centros-datos-2767997.jpg' alt='Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747'>YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/youtube-music-2767917.jpg' alt='YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807'>Las series más ambiciosas que se han rodado, ordenadas según su presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-ambiciosas-han-rodado-ordenadas-presupuesto-1096807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Las series más ambiciosas que se han rodado, ordenadas según su presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715'>Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juego-tronos-2767831.jpg' alt='Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max' />
     </a>
 </div>
 
