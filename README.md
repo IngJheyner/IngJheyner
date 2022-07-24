@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-1098819'>Marvel desvela las Fases 5 y 6 del  MCU en la Comic-Con: películas y series hasta 2025</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-1098819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-2768101.jpg' alt='Marvel desvela las Fases 5 y 6 del  MCU en la Comic-Con: películas y series hasta 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-espacial-xuntian-china-300-veces-potente-hubble-1098817'>China responde al telescopio James Webb: su telescopio espacial Xuntian será 300 veces más potente que el Hubble</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-espacial-xuntian-china-300-veces-potente-hubble-1098817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/china-responde-telescopio-james-webb-telescopio-espacial-xuntian-sera-300-veces-potente-hubble-2768099.jpg' alt='China responde al telescopio James Webb: su telescopio espacial Xuntian será 300 veces más potente que el Hubble' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789'>Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-nube-fallan-no-culpa-calor-sobrecalentando-centros-datos-2767997.jpg' alt='Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747'>YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/youtube-music-2767917.jpg' alt='YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función' />
     </a>
 </div>
 
