@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549'>Este es el puente colgante de una sola torre más largo del mundo y está en China</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puente-luzhijiang-provincia-yunnan-2767659.jpg' alt='Este es el puente colgante de una sola torre más largo del mundo y está en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-organizar-vida-digital-reducir-nivel-estres-1097167'>Cómo organizar tu vida digital para reducir tu nivel de estrés</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-organizar-vida-digital-reducir-nivel-estres-1097167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/desorden-2764955.jpg' alt='Cómo organizar tu vida digital para reducir tu nivel de estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roborock-s7-maxv-ultra-2576575.jpg' alt='Estos son los mejores robots aspiradores que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mochilas-portatiles-debes-fijarte-como-elegir-modelo-adecuado-ti-1068305'>Mochilas portátiles: en qué debes fijarte y cómo elegir el modelo adecuado para ti</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mochilas-portatiles-debes-fijarte-como-elegir-modelo-adecuado-ti-1068305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mochilas-2714861.jpg' alt='Mochilas portátiles: en qué debes fijarte y cómo elegir el modelo adecuado para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023'>Perro robot y metralleta, ¿qué puede salir mal?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/perro-robot-disparando-metralleta-puede-salir-mal-2767005.jpg' alt='Perro robot y metralleta, ¿qué puede salir mal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547'>Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podria-costar-galaxy-watch-5-samsung-cada-modelos-1098547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516651.jpg' alt='Esto es lo que podría costar el Galaxy Watch 5 de Samsung en cada uno de sus modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539'>Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hace-tanto-calor-tour-francia-vertiendo-agua-carreteras-evitar-derritan-1098539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ciclismo-2767643.jpg' alt='Hace tanto calor que el Tour de Francia está vertiendo agua en las carreteras para evitar que se derritan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115'>Cómo conectar y usar tu móvil Android con un PC Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-conectar-usar-movil-android-pc-windows-1067115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-movil-2712693.jpg' alt='Cómo conectar y usar tu móvil Android con un PC Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489'>Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-sera-mucho-facil-actualizar-ultima-version-windows-11-equipo-nuevo-1098489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Ahora será mucho más fácil actualizar a la última versión de Windows 11 en un equipo nuevo' />
     </a>
 </div>
 
