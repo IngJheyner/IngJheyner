@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861'>Monitor HP U28 4K HDR, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-hp-u28-4k-hdr-2766383.jpg' alt='Monitor HP U28 4K HDR, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-watch-fit-2-ahora-viene-auriculares-inalambricos-regalo-1097773'>La pulsera de actividad Huawei Watch Fit 2 ahora viene con auriculares inalámbricos de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pulsera-actividad-huawei-watch-fit-2-ahora-viene-auriculares-inalambricos-regalo-1097773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2766155.jpg' alt='La pulsera de actividad Huawei Watch Fit 2 ahora viene con auriculares inalámbricos de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-conserves-serie-mensajes-temporales-gracias-nueva-funcion-1098701'>WhatsApp quiere que conserves una serie de mensajes temporales gracias a esta nueva función</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-conserves-serie-mensajes-temporales-gracias-nueva-funcion-1098701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='WhatsApp quiere que conserves una serie de mensajes temporales gracias a esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433'>Métodos para crear un acceso directo en el escritorio a una página web</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-crear-acceso-directo-escritorio-pagina-web-1092433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/acceso-directo-web-2757139.jpg' alt='Métodos para crear un acceso directo en el escritorio a una página web' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315'>Los 7 mejores navegadores web para Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/7-mejores-navegadores-web-windows-11-1095315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/navegador-2761861.jpg' alt='Los 7 mejores navegadores web para Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/soundcore-motion-boom-plus-review-opinion-1094933'>Soundcore Motion Boom Plus, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/soundcore-motion-boom-plus-review-opinion-1094933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/soundcore-motion-boom-plus-2762331.jpg' alt='Soundcore Motion Boom Plus, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/microsoft-surface-laptop-go-2-motivos-comprarla-1097835'>Estos motivos son suficientes para que te quieras comprar la nueva Microsoft Surface Laptop Go 2</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/microsoft-surface-laptop-go-2-motivos-comprarla-1097835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-laptop-go-2-2766437.jpg' alt='Estos motivos son suficientes para que te quieras comprar la nueva Microsoft Surface Laptop Go 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543'>El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/overture-2767651.jpg' alt='El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media' />
     </a>
 </div>
 
