@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-archivos-aparentemente-imborrables-windows-11-1094231'>Cómo eliminar archivos aparentemente imborrables en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-archivos-aparentemente-imborrables-windows-11-1094231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/borrar-2759995.jpg' alt='Cómo eliminar archivos aparentemente imborrables en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-1098819'>Marvel desvela las Fases 5 y 6 del  MCU en la Comic-Con: películas y series hasta 2025</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-1098819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvel-desvela-fases-5-6-mcu-comic-peliculas-series-2025-2768101.jpg' alt='Marvel desvela las Fases 5 y 6 del  MCU en la Comic-Con: películas y series hasta 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673'>Cómo usar un Apple Watch con un móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-apple-watch-movil-android-1093673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-android-2759233.jpg' alt='Cómo usar un Apple Watch con un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789'>Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicaciones-nube-fallan-calor-sobrecalentando-centros-datos-1098789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicaciones-nube-fallan-no-culpa-calor-sobrecalentando-centros-datos-2767997.jpg' alt='Si tus aplicaciones en la nube fallan no es culpa tuya: el calor esta sobrecalentando los centros de datos ' />
     </a>
 </div>
 
