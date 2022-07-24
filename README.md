@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747'>YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-music-adaptara-forma-dinamica-escuchas-gracias-nueva-funcion-1098747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/youtube-music-2767917.jpg' alt='YouTube Music se adaptará de forma dinámica a lo que escuchas gracias a su nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735'>Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-tiene-pantalla-13-pulgadas-te-servira-divertirte-estudiar-poco-250-euros-1098735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chuwi-gemibook-ordenador-portatil-2767889.jpg' alt='Este portátil tiene una pantalla de 13 pulgadas y te servirá para divertirte y estudiar por poco más de 250 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715'>Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/juego-tronos-finalmente-podra-ver-4k-dolby-vision-hbo-max-1098715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juego-tronos-2767831.jpg' alt='Juego de Tronos finalmente se podrá ver en 4K y Dolby Vision en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861'>Monitor HP U28 4K HDR, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/monitor-hp-u28-4k-hdr-review-opinion-1097861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-hp-u28-4k-hdr-2766383.jpg' alt='Monitor HP U28 4K HDR, análisis y opinión' />
     </a>
 </div>
 
