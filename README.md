@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/microsoft-surface-laptop-go-2-motivos-comprarla-1097835'>Estos motivos son suficientes para que te quieras comprar la nueva Microsoft Surface Laptop Go 2</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/microsoft-surface-laptop-go-2-motivos-comprarla-1097835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-laptop-go-2-2766437.jpg' alt='Estos motivos son suficientes para que te quieras comprar la nueva Microsoft Surface Laptop Go 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543'>El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/avion-pasajeros-rapido-mundo-podria-unir-madrid-nueva-york-solo-3-horas-media-1098543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/overture-2767651.jpg' alt='El avión de pasajeros más rápido del mundo podría unir Madrid con Nueva York en solo 3 horas y media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549'>Este es el puente colgante de una sola torre más largo del mundo y está en China</a></h4>
     <a href='https://computerhoy.com/noticias/life/puente-colgante-sola-torre-largo-mundo-china-1098549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/puente-luzhijiang-provincia-yunnan-2767659.jpg' alt='Este es el puente colgante de una sola torre más largo del mundo y está en China' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/roborock-s7-maxv-ultra-2576575.jpg' alt='Estos son los mejores robots aspiradores que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mochilas-portatiles-debes-fijarte-como-elegir-modelo-adecuado-ti-1068305'>Mochilas portátiles: en qué debes fijarte y cómo elegir el modelo adecuado para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mochilas-portatiles-debes-fijarte-como-elegir-modelo-adecuado-ti-1068305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mochilas-2714861.jpg' alt='Mochilas portátiles: en qué debes fijarte y cómo elegir el modelo adecuado para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023'>Perro robot y metralleta, ¿qué puede salir mal?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/perro-robot-dispara-metralleta-1098023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/perro-robot-disparando-metralleta-puede-salir-mal-2767005.jpg' alt='Perro robot y metralleta, ¿qué puede salir mal?' />
     </a>
 </div>
 
