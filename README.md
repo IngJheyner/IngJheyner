@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039'>El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-2768337.jpg' alt='El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033'>La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-juegos-microsoft-preinstalados-windows-historia-1097937'>Los 10 mejores juegos de Microsoft preinstalados en Windows de la historia</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-juegos-microsoft-preinstalados-windows-historia-1097937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juegos-instalados-windows-2766577.jpg' alt='Los 10 mejores juegos de Microsoft preinstalados en Windows de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023'>Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-2768327.jpg' alt='Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949'>Vine a Apple por el iPhone y me quedé por el ecosistema</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487563.jpg' alt='Vine a Apple por el iPhone y me quedé por el ecosistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647'>6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dolor-cabeza-trabajando-2764029.jpg' alt='6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/herramientas-nos-van-servir-sacar-partido-juegos-stream-1077783'>Herramientas que nos van a servir para sacar más partido a los juegos de Stream </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/herramientas-nos-van-servir-sacar-partido-juegos-stream-1077783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/steam.jpg' alt='Herramientas que nos van a servir para sacar más partido a los juegos de Stream ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1099015'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1099015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2768297.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
