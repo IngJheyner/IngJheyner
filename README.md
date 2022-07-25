@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131'>El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461'>Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-hacer-curriculum-telefono-android-2762983.jpg' alt='Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099'>El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-2768487.jpg' alt='El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049'>POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087'>Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359'>Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber' />
     </a>
 </div>
 
