@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023'>Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-2768327.jpg' alt='Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949'>Vine a Apple por el iPhone y me quedé por el ecosistema</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487563.jpg' alt='Vine a Apple por el iPhone y me quedé por el ecosistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647'>6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dolor-cabeza-trabajando-2764029.jpg' alt='6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1099015'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1099015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2768297.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309'>Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/split-aire-acondicionado-2767381.jpg' alt='Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-robot-cortacesped-guia-consejos-elegir-mejor-modelo-1075831'>Comprar un robot cortacésped: guía y consejos para elegir el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-robot-cortacesped-guia-consejos-elegir-mejor-modelo-1075831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cortacesped-inteligente-2728539.jpg' alt='Comprar un robot cortacésped: guía y consejos para elegir el mejor modelo' />
     </a>
 </div>
 
