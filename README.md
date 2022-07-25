@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099'>El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-2768487.jpg' alt='El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501'>Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359'>Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065'>Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux' />
     </a>
 </div>
 
