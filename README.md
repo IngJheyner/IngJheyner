@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/ocu-quiere-revise-sistema-asignacion-etiquetas-medioambientales-dgt-razon-1099217'>La OCU quiere que se revise el sistema de asignación de etiquetas medioambientales de la DGT por esta razón</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/ocu-quiere-revise-sistema-asignacion-etiquetas-medioambientales-dgt-razon-1099217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='La OCU quiere que se revise el sistema de asignación de etiquetas medioambientales de la DGT por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227'>Cómo pegar texto desde tu móvil a tu ordenador Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enlazar-movil-ordenador-windows-2761667.jpg' alt='Cómo pegar texto desde tu móvil a tu ordenador Windows' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139'>Anker lanza sus nuevos cargadores GaN con tecnología PowerIQ, eficiencia, fiabilidad y potencia</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139'>Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anker-2768611.jpg' alt='Anker lanza sus nuevos cargadores GaN con tecnología PowerIQ, eficiencia, fiabilidad y potencia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anker-2768611.jpg' alt='Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131'>El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461'>Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-hacer-curriculum-telefono-android-2762983.jpg' alt='Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android' />
     </a>
 </div>
 
