@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223'>Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg' alt='Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-utilizara-servicios-intel-fabricar-chips-futura-gama-dispositivos-inteligentes-1099191'>MediaTek utilizará los servicios de Intel para fabricar chips de una futura gama de dispositivos inteligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-utilizara-servicios-intel-fabricar-chips-futura-gama-dispositivos-inteligentes-1099191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg' alt='MediaTek utilizará los servicios de Intel para fabricar chips de una futura gama de dispositivos inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/ocu-quiere-revise-sistema-asignacion-etiquetas-medioambientales-dgt-razon-1099217'>La OCU quiere que se revise el sistema de asignación de etiquetas medioambientales de la DGT por esta razón</a></h4>
     <a href='https://computerhoy.com/noticias/motor/ocu-quiere-revise-sistema-asignacion-etiquetas-medioambientales-dgt-razon-1099217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/etiquetas-dgt-2238245.jpg' alt='La OCU quiere que se revise el sistema de asignación de etiquetas medioambientales de la DGT por esta razón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139'>Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anker-2768611.jpg' alt='Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-4g-1099045'>Estas son las mejores tablets 4G que puedes comprar este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-4g-1099045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667667.jpg' alt='Estas son las mejores tablets 4G que puedes comprar este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131'>El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida' />
     </a>
 </div>
 
