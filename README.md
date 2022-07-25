@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501'>Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049'>POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065'>Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039'>El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-2768337.jpg' alt='El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo' />
     </a>
 </div>
 
