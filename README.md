@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531'>Errores que todos comentemos al comprar un robot de cocina</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/robot-cocina-taurus-mycook-touch_1.jpg' alt='Errores que todos comentemos al comprar un robot de cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223'>Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg' alt='Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227'>Cómo pegar texto desde tu móvil a tu ordenador Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enlazar-movil-ordenador-windows-2761667.jpg' alt='Cómo pegar texto desde tu móvil a tu ordenador Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139'>Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anker-2768611.jpg' alt='Llega una nueva remesa de cargadores Anker GaN de hasta 150 W, perfectos desde móviles hasta portátiles' />
     </a>
 </div>
 
