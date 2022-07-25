@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227'>Cómo pegar texto desde tu móvil a tu ordenador Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-pegar-texto-movil-ordenador-windows-1095227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enlazar-movil-ordenador-windows-2761667.jpg' alt='Cómo pegar texto desde tu móvil a tu ordenador Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139'>Anker lanza sus nuevos cargadores GaN con tecnología PowerIQ, eficiencia, fiabilidad y potencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/anker-lanza-nuevos-cargadores-gan-tecnologia-poweriq-eficiencia-fiabilidad-potencia-1099139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anker-2768611.jpg' alt='Anker lanza sus nuevos cargadores GaN con tecnología PowerIQ, eficiencia, fiabilidad y potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-4g-1099045'>Estas son las mejores tablets 4G que puedes comprar este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-4g-1099045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667667.jpg' alt='Estas son las mejores tablets 4G que puedes comprar este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131'>El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-marcara-diferencias-linea-pro-ram-rapida-1099131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 marcará diferencias con la línea Pro con más RAM y más rápida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461'>Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-hacer-curriculum-telefono-android-1087461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-aplicaciones-hacer-curriculum-telefono-android-2762983.jpg' alt='Las mejores aplicaciones para hacer tu curriculum desde tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099'>El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-1099099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hackeo-satan-convierte-emisor-radio-cable-disco-duro-permite-copiar-contenido-abrir-pc-2768487.jpg' alt='El hackeo SATAn convierte en un emisor de radio el cable de tu disco duro y permite copiar su contenido sin abrir el PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501'>Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-rendimiento-cualquier-programa-windows-utilizando-modo-juego-1088501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/windows-2554569.jpg' alt='Cómo mejorar el rendimiento de cualquier programa en Windows utilizando el modo juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049'>POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado' />
     </a>
 </div>
 
