@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647'>6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-extensiones-chrome-te-ayudan-evitar-dolores-mientras-estas-trabajando-1096647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dolor-cabeza-trabajando-2764029.jpg' alt='6 extensiones de Chrome que te ayudan a evitar dolores mientras estás trabajando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/herramientas-nos-van-servir-sacar-partido-juegos-stream-1077783'>Herramientas que nos van a servir para sacar más partido a los juegos de Stream </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/herramientas-nos-van-servir-sacar-partido-juegos-stream-1077783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/steam.jpg' alt='Herramientas que nos van a servir para sacar más partido a los juegos de Stream ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-robot-cortacesped-guia-consejos-elegir-mejor-modelo-1075831'>Comprar un robot cortacésped: guía y consejos para elegir el mejor modelo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comprar-robot-cortacesped-guia-consejos-elegir-mejor-modelo-1075831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/cortacesped-inteligente-2728539.jpg' alt='Comprar un robot cortacésped: guía y consejos para elegir el mejor modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/televisores-qled-led-oled-diferencias-ventajas-inconvenientes-cual-mejor-ti-1091185'>Televisores QLED, LED y OLED: diferencias, ventajas, inconvenientes y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/televisores-qled-led-oled-diferencias-ventajas-inconvenientes-cual-mejor-ti-1091185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/lg-tv-oled-ch-2668723.jpg' alt='Televisores QLED, LED y OLED: diferencias, ventajas, inconvenientes y cuál es mejor para ti' />
     </a>
 </div>
 
