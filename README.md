@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087'>Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359'>Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-smartwatch-2022-sistemas-operativos-notificaciones-compatibilidad-todo-debes-saber-1072359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Comprar un smartwatch en 2022: sistemas operativos, notificaciones, compatibilidad y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065'>Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033'>La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-juegos-microsoft-preinstalados-windows-historia-1097937'>Los 10 mejores juegos de Microsoft preinstalados en Windows de la historia</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-juegos-microsoft-preinstalados-windows-historia-1097937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/juegos-instalados-windows-2766577.jpg' alt='Los 10 mejores juegos de Microsoft preinstalados en Windows de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023'>Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-2768327.jpg' alt='Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma' />
     </a>
 </div>
 
