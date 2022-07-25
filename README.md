@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049'>POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-movil-gaming-barato-xiaomi-solo-te-costara-299eu-tiempo-limitado-1099049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='POCO X4 GT, el móvil gaming barato de Xiaomi, solo te costará 299€ por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087'>Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-netflix-evita-mordida-app-store-ios-posible-muchas-sigan-1099087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='Así es como Netflix evita la mordida de la App Store en iOS, es posible que muchas la sigan ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039'>El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-2768337.jpg' alt='El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033'>La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-xiaomi-mi-pad-5-oferta-solo-289-euros-cupon-1099033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531761.jpg' alt='La tablet Xiaomi Mi Pad 5 está de oferta: sólo 289 euros con un cupón' />
     </a>
 </div>
 
