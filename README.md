@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065'>Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-chrome-ultima-version-podrian-tomar-control-equipo-windows-mac-linux-1099065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/hacker-1862883.jpg' alt='Actualiza Chrome a la última versión o podrían tomar el control de tu equipo Windows, Mac o Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039'>El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-1099039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-10t-sera-modelo-menos-oneplus-toda-familia-nota-integracion-oppo-2768337.jpg' alt='El OnePlus 10T será el modelo menos OnePlus de toda la familia, se nota la integración en Oppo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023'>Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-1099023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-telescopio-estudiara-desarrollo-universo-isla-palma-2768327.jpg' alt='Este es el nuevo telescopio que estudiará el desarrollo de nuestro universo y está en la isla de La Palma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949'>Vine a Apple por el iPhone y me quedé por el ecosistema</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vine-apple-iphone-me-quede-ecosistema-1095949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487563.jpg' alt='Vine a Apple por el iPhone y me quedé por el ecosistema' />
     </a>
 </div>
 
