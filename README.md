@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553'>Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sensor-450-mpx-continua-guerra-megapixeles-moviles-1099539'>Samsung y su sensor de 450 Mpx, continúa la guerra de megapíxeles en móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sensor-450-mpx-continua-guerra-megapixeles-moviles-1099539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lente-fotografia-sensor-2615489.jpg' alt='Samsung y su sensor de 450 Mpx, continúa la guerra de megapíxeles en móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523'>Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con un sensor Samsung de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725475.jpg' alt='Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con un sensor Samsung de 200 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519'>El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio</a></h4>
     <a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/levantar-pesas-2153765.jpg' alt='El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501'>Amazon sube el precio de su suscripción Prime y lo achaca a la inflación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Amazon sube el precio de su suscripción Prime y lo achaca a la inflación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-aspirador-cecotec-base-vaciado-2769053.jpg' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2769045.jpg' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201'>5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a' />
     </a>
 </div>
 
