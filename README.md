@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837'>Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-2769973.jpg' alt='Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/google-microsoft-meta-amazon-segundo-bisiesto-intercalar-reloj-1099845'>Google, Microsoft, Meta y Amazon se asocian para robarle un segundo al reloj</a></h4>
+    <a href='https://computerhoy.com/noticias/life/google-microsoft-meta-amazon-segundo-bisiesto-intercalar-reloj-1099845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-fin-mundo-2634593.jpg' alt='Google, Microsoft, Meta y Amazon se asocian para robarle un segundo al reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825'>El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming</a></h4>
     <a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-watch-pro-estaria-cada-vez-cerca-ser-realidad-1099817'>Los últimos rumores apuntan a que el Apple Watch Pro estaría cada vez más cerca de ser realidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-watch-pro-estaria-cada-vez-cerca-ser-realidad-1099817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Los últimos rumores apuntan a que el Apple Watch Pro estaría cada vez más cerca de ser realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829'>Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg' alt='Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo' />
     </a>
 </div>
 
