@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607'>La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378479.jpg' alt='La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561'>Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gts-3-2593155.jpg' alt='Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563'>Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-2769279.jpg' alt='Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553'>Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía</a></h4>
     <a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sensor-450-mpx-continua-guerra-megapixeles-moviles-1099539'>Samsung y su sensor de 450 Mpx, continúa la guerra de megapíxeles en móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sensor-450-mpx-continua-guerra-megapixeles-moviles-1099539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/lente-fotografia-sensor-2615489.jpg' alt='Samsung y su sensor de 450 Mpx, continúa la guerra de megapíxeles en móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523'>Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con la mejor cámara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725475.jpg' alt='Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con la mejor cámara' />
     </a>
 </div>
 
