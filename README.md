@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825'>El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843'>El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829'>Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg' alt='Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-responde-criticas-mantiene-inamovible-videos-han-llegado-quedarse-1099809'>Instagram responde a las críticas y se mantiene inamovible: los vídeos han llegado para quedarse</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-responde-criticas-mantiene-inamovible-videos-han-llegado-quedarse-1099809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram responde a las críticas y se mantiene inamovible: los vídeos han llegado para quedarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827'>Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%</a></h4>
-    <a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mascarilla-n95-2769961.jpg' alt='Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%' />
     </a>
 </div>
 
