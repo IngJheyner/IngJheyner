@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637'>Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpieza-salpicadero-model-3-2554855.jpg' alt='Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-celebra-10-anos-play-store-nuevo-logo-multiplicadores-puntos-1099665'>Google celebra los 10 años de la Play Store con un nuevo logo y con multiplicadores de puntos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-celebra-10-anos-play-store-nuevo-logo-multiplicadores-puntos-1099665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Google celebra los 10 años de la Play Store con un nuevo logo y con multiplicadores de puntos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607'>La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378479.jpg' alt='La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563'>Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-2769279.jpg' alt='Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/demuestran-cientificamente-como-cerebro-hombres-mujeres-trans-funciona-manera-diferente-personas-cisgenero-1099591'>Demuestran científicamente cómo el cerebro de hombres y mujeres trans funciona de manera diferente a personas cisgénero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/demuestran-cientificamente-como-cerebro-hombres-mujeres-trans-funciona-manera-diferente-personas-cisgenero-1099591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Demuestran científicamente cómo el cerebro de hombres y mujeres trans funciona de manera diferente a personas cisgénero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553'>Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía' />
     </a>
 </div>
 
