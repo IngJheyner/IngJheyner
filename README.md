@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2769045.jpg' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201'>5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-componer-musica-navegador-chrome-music-lab-1081499'>Cómo componer música desde el navegador con Chrome Music Lab</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-componer-musica-navegador-chrome-music-lab-1081499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chrome-music-lab-2738101.jpg' alt='Cómo componer música desde el navegador con Chrome Music Lab' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531'>Errores que todos comentemos al comprar un robot de cocina</a></h4>
     <a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/robot-cocina-taurus-mycook-touch_1.jpg' alt='Errores que todos comentemos al comprar un robot de cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223'>Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-aviones-apagan-luz-durante-vuelo-no-duermas-mejor-1099223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg' alt='Esta es la razón por la que los aviones apagan la luz durante el vuelo y no es para que duermas mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mediatek-utilizara-servicios-intel-fabricar-chips-futura-gama-dispositivos-inteligentes-1099191'>MediaTek utilizará los servicios de Intel para fabricar chips de una futura gama de dispositivos inteligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mediatek-utilizara-servicios-intel-fabricar-chips-futura-gama-dispositivos-inteligentes-1099191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg' alt='MediaTek utilizará los servicios de Intel para fabricar chips de una futura gama de dispositivos inteligentes' />
     </a>
 </div>
 
