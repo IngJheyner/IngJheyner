@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781'>A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/auriculares'>Guía para comprar unos auriculares en 2022: en qué fijarte y cuáles son actualmente los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/auriculares' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/audio-technica-ath-m50xbt2-renovacion-auriculares-populares-audio-techinca-2442819.jpg' alt='Guía para comprar unos auriculares en 2022: en qué fijarte y cuáles son actualmente los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-pantalla-asistente-virtual-ver-videos-camara-vigilancia-google-nest-hub-oferta-71eu-1099533'>Si quieres una pantalla con asistente virtual para ver vídeos o tu cámara de vigilancia, Google Nest Hub está en oferta por 71€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-pantalla-asistente-virtual-ver-videos-camara-vigilancia-google-nest-hub-oferta-71eu-1099533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-google-nest-hub-2-2450665.jpg' alt='Si quieres una pantalla con asistente virtual para ver vídeos o tu cámara de vigilancia, Google Nest Hub está en oferta por 71€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783'>¿Cómo funciona Chromecast?</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='¿Cómo funciona Chromecast?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749'>Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-2625541.jpg' alt='Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/legion-y70-movil-gaming-lenovo-promete-rendimiento-top-1099751'>Así es el Legion Y70, móvil gaming Lenovo que promete un rendimiento top</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/legion-y70-movil-gaming-lenovo-promete-rendimiento-top-1099751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lenovo-legion-y70-2769849.jpg' alt='Así es el Legion Y70, móvil gaming Lenovo que promete un rendimiento top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729'>La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-2769769.jpg' alt='La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593'>Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg' alt='Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon' />
     </a>
 </div>
 
