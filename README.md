@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519'>El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/levantar-pesas-2153765.jpg' alt='El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501'>Amazon sube el precio de su suscripción Prime y lo achaca a la inflación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Amazon sube el precio de su suscripción Prime y lo achaca a la inflación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-aspirador-cecotec-base-vaciado-2769053.jpg' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201'>5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/motivos-comprar-google-pixel-6a-1099201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-pixel-6a-2736481.jpg' alt='5 motivos por el que vas a querer comprarte el nuevo Google Pixel 6a' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-componer-musica-navegador-chrome-music-lab-1081499'>Cómo componer música desde el navegador con Chrome Music Lab</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-componer-musica-navegador-chrome-music-lab-1081499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chrome-music-lab-2738101.jpg' alt='Cómo componer música desde el navegador con Chrome Music Lab' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-5-razones-increibles-imagenes-telescopio-webb-no-significan-fin-hubble-1099119'>Estas son las 5 razones por las que las increíbles imágenes del telescopio Webb no significan el fin del Hubble</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-5-razones-increibles-imagenes-telescopio-webb-no-significan-fin-hubble-1099119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/china-responde-telescopio-james-webb-telescopio-espacial-xuntian-sera-300-veces-potente-hubble-2768099.jpg' alt='Estas son las 5 razones por las que las increíbles imágenes del telescopio Webb no significan el fin del Hubble' />
     </a>
 </div>
 
