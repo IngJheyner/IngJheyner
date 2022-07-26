@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677'>realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-pad-x-2769601.jpg' alt='realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637'>Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpieza-salpicadero-model-3-2554855.jpg' alt='Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561'>Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gts-3-2593155.jpg' alt='Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563'>Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-2769279.jpg' alt='Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky' />
     </a>
 </div>
 
