@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robot-aspirador-cecotec-base-vaciado-2769053.jpg' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459'>20 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/20-noticias-tecnologia-comenzar-manana-informado-ultimo-1099459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/20-noticias-tecnologia-comenzar-manana-informado-ultimo-2769045.jpg' alt='20 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-5-razones-increibles-imagenes-telescopio-webb-no-significan-fin-hubble-1099119'>Estas son las 5 razones por las que las increíbles imágenes del telescopio Webb no significan el fin del Hubble</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-5-razones-increibles-imagenes-telescopio-webb-no-significan-fin-hubble-1099119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/china-responde-telescopio-james-webb-telescopio-espacial-xuntian-sera-300-veces-potente-hubble-2768099.jpg' alt='Estas son las 5 razones por las que las increíbles imágenes del telescopio Webb no significan el fin del Hubble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531'>Errores que todos comentemos al comprar un robot de cocina</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/errores-todos-comentemos-comprar-robot-cocina-1094531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/robot-cocina-taurus-mycook-touch_1.jpg' alt='Errores que todos comentemos al comprar un robot de cocina' />
     </a>
 </div>
 
