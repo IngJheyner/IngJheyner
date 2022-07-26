@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729'>La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-2769769.jpg' alt='La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593'>Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg' alt='Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715'>El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ia-2769733.jpg' alt='El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637'>Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpieza-salpicadero-model-3-2554855.jpg' alt='Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-celebra-10-anos-play-store-nuevo-logo-multiplicadores-puntos-1099665'>Google celebra los 10 años de la Play Store con un nuevo logo y con multiplicadores de puntos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-celebra-10-anos-play-store-nuevo-logo-multiplicadores-puntos-1099665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Google celebra los 10 años de la Play Store con un nuevo logo y con multiplicadores de puntos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607'>La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378479.jpg' alt='La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado' />
     </a>
 </div>
 
