@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563'>Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-1099563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robots-reparten-comida-zaragoza-ya-son-realidad-mano-martin-varsavsky-2769279.jpg' alt='Robots que reparten comida en Zaragoza, ya son una realidad de la mano de Martin Varsavsky' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/demuestran-cientificamente-como-cerebro-hombres-mujeres-trans-funciona-manera-diferente-personas-cisgenero-1099591'>Demuestran científicamente cómo el cerebro de hombres y mujeres trans funciona de manera diferente a personas cisgénero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/demuestran-cientificamente-como-cerebro-hombres-mujeres-trans-funciona-manera-diferente-personas-cisgenero-1099591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='Demuestran científicamente cómo el cerebro de hombres y mujeres trans funciona de manera diferente a personas cisgénero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553'>Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía</a></h4>
     <a href='https://computerhoy.com/noticias/life/acaban-descubrir-proteina-regula-perdida-pelo-mala-noticia-turismo-turquia-1099553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cura-calvicie-cerca-tratamiento-japones-celulas-madre-hace-vuelva-crecer-pelo-2237077.jpg' alt='Acaban de descubrir la proteína que regula la pérdida de pelo, mala noticia para el turismo a Turquía' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523'>Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con un sensor Samsung de 200 megapíxeles</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523'>Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con la mejor cámara</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-prepara-lanzamiento-edge-x30-pro-modelo-moto-sensor-samsung-200-megapixeles-1099523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725475.jpg' alt='Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con un sensor Samsung de 200 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519'>El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gen-activado-deporte-acaban-descubrir-promete-mejoras-salud-incluso-ejercicio-1099519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/levantar-pesas-2153765.jpg' alt='El gen activado por el deporte que acaban de descubrir y que promete mejoras de salud incluso sin ejercicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501'>Amazon sube el precio de su suscripción Prime y lo achaca a la inflación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-sube-precio-suscripcion-prime-achaca-inflacion-1099501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-prime-camion-2552633.jpg' alt='Amazon sube el precio de su suscripción Prime y lo achaca a la inflación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/motorola-edge-30-2725475.jpg' alt='Motorola prepara el lanzamiento del Edge X30 Pro, el modelo Moto con la mejor cámara' />
     </a>
 </div>
 
