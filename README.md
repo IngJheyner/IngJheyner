@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715'>El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ia-2769733.jpg' alt='El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677'>realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-pad-x-2769601.jpg' alt='realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607'>La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/serie-rtx-4000-nvidia-podria-ser-mucho-potente-esperado-1099607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378479.jpg' alt='La serie RTX 4000 de NVIDIA podría ser mucho más potente de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561'>Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-reloj-gps-spo2-150-modos-deportivos-cuesta-poco-120-euros-1099561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amazfit-gts-3-2593155.jpg' alt='Amazfit GTS 3, el reloj con GPS, SpO2 y 150 modos deportivos que cuesta poco más de 120 euros' />
     </a>
 </div>
 
