@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-watch-pro-estaria-cada-vez-cerca-ser-realidad-1099817'>Los últimos rumores apuntan a que el Apple Watch Pro estaría cada vez más cerca de ser realidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-apple-watch-pro-estaria-cada-vez-cerca-ser-realidad-1099817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='Los últimos rumores apuntan a que el Apple Watch Pro estaría cada vez más cerca de ser realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829'>Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg' alt='Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827'>Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%</a></h4>
     <a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mascarilla-n95-2769961.jpg' alt='Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/the-line-ciudad-170-kilometros-arabia-saudi-video-1099821'>The Line, la ciudad de 170 Kilómetros dentro de un muro sin coches, carreteras ni emisiones (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/the-line-ciudad-170-kilometros-arabia-saudi-video-1099821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/line-ciudad-170-kilometros-dentro-muro-coches-carreteras-ni-emisiones-2769947.jpg' alt='The Line, la ciudad de 170 Kilómetros dentro de un muro sin coches, carreteras ni emisiones (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781'>A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas' />
     </a>
 </div>
 
