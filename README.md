@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829'>Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-actualizar-android-auto-79-ultima-version-sistema-operativo-vehiculo-1099829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg' alt='Así puedes actualizar a Android Auto 7.9, la última versión del sistema operativo para nuestro vehículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-responde-criticas-mantiene-inamovible-videos-han-llegado-quedarse-1099809'>Instagram responde a las críticas y se mantiene inamovible: los vídeos han llegado para quedarse</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-responde-criticas-mantiene-inamovible-videos-han-llegado-quedarse-1099809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram responde a las críticas y se mantiene inamovible: los vídeos han llegado para quedarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827'>Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%</a></h4>
+    <a href='https://computerhoy.com/noticias/life/crean-nueva-mascarilla-capaz-capturar-desactivar-particulas-coronavirus-99-1099827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mascarilla-n95-2769961.jpg' alt='Crean una nueva mascarilla capaz de capturar y desactivar partículas del coronavirus al 99%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/the-line-ciudad-170-kilometros-arabia-saudi-video-1099821'>The Line, la ciudad de 170 Kilómetros dentro de un muro sin coches, carreteras ni emisiones (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/the-line-ciudad-170-kilometros-arabia-saudi-video-1099821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/line-ciudad-170-kilometros-dentro-muro-coches-carreteras-ni-emisiones-2769947.jpg' alt='The Line, la ciudad de 170 Kilómetros dentro de un muro sin coches, carreteras ni emisiones (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781'>A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-chrome-no-gustan-contrasenas-debiles-estaria-desarrollando-caracteristica-acabar-ellas-1099781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='A Google Chrome no le gustan las contraseñas débiles y estaría desarrollando una característica para acabar con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/auriculares'>Guía para comprar unos auriculares en 2022: en qué fijarte y cuáles son actualmente los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/auriculares' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/audio-technica-ath-m50xbt2-renovacion-auriculares-populares-audio-techinca-2442819.jpg' alt='Guía para comprar unos auriculares en 2022: en qué fijarte y cuáles son actualmente los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-pantalla-asistente-virtual-ver-videos-camara-vigilancia-google-nest-hub-oferta-71eu-1099533'>Si quieres una pantalla con asistente virtual para ver vídeos o tu cámara de vigilancia, Google Nest Hub está en oferta por 71€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-pantalla-asistente-virtual-ver-videos-camara-vigilancia-google-nest-hub-oferta-71eu-1099533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/analisis-google-nest-hub-2-2450665.jpg' alt='Si quieres una pantalla con asistente virtual para ver vídeos o tu cámara de vigilancia, Google Nest Hub está en oferta por 71€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783'>¿Cómo funciona Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='¿Cómo funciona Chromecast?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749'>Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-2625541.jpg' alt='Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google' />
     </a>
 </div>
 
