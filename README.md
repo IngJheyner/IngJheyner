@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783'>¿Cómo funciona Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-chromecast-1099783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='¿Cómo funciona Chromecast?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749'>Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtran-especificaciones-camaras-nuevo-pixel-7-pixel-tablet-google-1099749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filtradas-primeras-imagenes-especificaciones-google-pixel-7-pixel-7-pro-2625541.jpg' alt='Se filtran especificaciones de las cámaras del nuevo Pixel 7 y de la Pixel Tablet de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/legion-y70-movil-gaming-lenovo-promete-rendimiento-top-1099751'>Así es el Legion Y70, móvil gaming Lenovo que promete un rendimiento top</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/legion-y70-movil-gaming-lenovo-promete-rendimiento-top-1099751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lenovo-legion-y70-2769849.jpg' alt='Así es el Legion Y70, móvil gaming Lenovo que promete un rendimiento top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729'>La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-1099729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-esteorides-core-i7-11th-gen-placa-tamano-tarjeta-credito-2769769.jpg' alt='La Raspberry en esteorides: Core i7 11th gen en una placa tamaño tarjeta de crédito' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593'>Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tile-mate-oferta-26-julio-2022-1099593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg' alt='Pack de dos Tile Mate, la alternativa a los AirTags en Android, por 36€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715'>El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exceo-google-eric-schmidt-ha-comparado-importancia-ia-bombas-nucleares-1099715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ia-2769733.jpg' alt='El exCEO de Google, Eric Schmidt, ha comparado la importancia de la IA con las bombas nucleares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677'>realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-pad-x-realme-watch-3-nueva-tablet-top-nuevo-smartwatch-barato-compania-china-1099677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-pad-x-2769601.jpg' alt='realme Pad X y realme Watch 3: así es la nueva tablet TOP y el nuevo smartwatch barato de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637'>Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-empieza-cobrar-navegacion-coches-vendidos-pasada-semana-1099637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/limpieza-salpicadero-model-3-2554855.jpg' alt='Tesla empieza a cobrar la navegación en sus coches vendidos desde la pasada semana' />
     </a>
 </div>
 
