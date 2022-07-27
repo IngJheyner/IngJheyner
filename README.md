@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617'>Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-band-7-vs-xiaomi-smart-band-7-2769787.jpg' alt='Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2770191.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851'>El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837'>Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-2769973.jpg' alt='Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento' />
     </a>
 </div>
 
