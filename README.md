@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203'>Cómo funciona la Bolsa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/ibex-35.jpg' alt='Cómo funciona la Bolsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-revela-nuevos-detalles-proximo-casco-playstation-vr2-vista-transparente-opciones-streaming-modo-cinematico-mucho-1100239'>Sony revela nuevos detalles sobre su próximo casco PlayStation VR2: vista transparente, opciones para streaming, modo cinemático y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-revela-nuevos-detalles-proximo-casco-playstation-vr2-vista-transparente-opciones-streaming-modo-cinematico-mucho-1100239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony revela nuevos detalles sobre su próximo casco PlayStation VR2: vista transparente, opciones para streaming, modo cinemático y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245'>El sector smartphone chino se hunde como no lo habíamos visto en una década</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg' alt='El sector smartphone chino se hunde como no lo habíamos visto en una década' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057'>Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/pese-mucho-nos-guste-jugar-videojuegos-no-relaciona-mejor-bienestar-1100229'>Pese a lo mucho que nos guste, jugar a videojuegos no se relaciona con un mejor bienestar</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/pese-mucho-nos-guste-jugar-videojuegos-no-relaciona-mejor-bienestar-1100229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/valve-anuncia-steam-deck-consola-portatil-juegos-pc-2408177.jpg' alt='Pese a lo mucho que nos guste, jugar a videojuegos no se relaciona con un mejor bienestar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169'>Cómo preparar el coche según la DGT para un viaje este verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-2667015.jpg' alt='Cómo preparar el coche según la DGT para un viaje este verano' />
     </a>
 </div>
 
