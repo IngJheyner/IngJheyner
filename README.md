@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851'>El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837'>Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-2769973.jpg' alt='Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843'>El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
     </a>
 </div>
 
