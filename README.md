@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2770191.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643049.jpg' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067'>Qué hacer si encuentras una garrapata en tu cuerpo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hacer-encuentras-garrapata-cuerpo-2770189.jpg' alt='Qué hacer si encuentras una garrapata en tu cuerpo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837'>Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-1099837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-todas-especificaciones-oneplus-10t-antes-lanzamiento-2769973.jpg' alt='Se filtran todas las especificaciones del OnePlus 10T antes de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/google-microsoft-meta-amazon-segundo-bisiesto-intercalar-reloj-1099845'>Google, Microsoft, Meta y Amazon se asocian para robarle un segundo al reloj</a></h4>
-    <a href='https://computerhoy.com/noticias/life/google-microsoft-meta-amazon-segundo-bisiesto-intercalar-reloj-1099845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/reloj-fin-mundo-2634593.jpg' alt='Google, Microsoft, Meta y Amazon se asocian para robarle un segundo al reloj' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825'>El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming' />
     </a>
 </div>
 
