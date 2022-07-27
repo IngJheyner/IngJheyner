@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095'>Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando</a></h4>
+    <a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bill-gates-roger-federer-2770213.jpg' alt='Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559'>Cómo mantener tu ordenador fresco en verano</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/escribiendo-ordenador-2522917.jpg' alt='Cómo mantener tu ordenador fresco en verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643049.jpg' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067'>Qué hacer si encuentras una garrapata en tu cuerpo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hacer-encuentras-garrapata-cuerpo-2770189.jpg' alt='Qué hacer si encuentras una garrapata en tu cuerpo' />
     </a>
 </div>
 
