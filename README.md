@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067'>Qué hacer si encuentras una garrapata en tu cuerpo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hacer-encuentras-garrapata-cuerpo-2770189.jpg' alt='Qué hacer si encuentras una garrapata en tu cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851'>El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825'>El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming</a></h4>
     <a href='https://computerhoy.com/noticias/red-magic-7s-pro-oficial-nivel-internacional-caracteristicas-precios-bestia-gaming-1099825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-serie-red-magic-7s-7s-pro-buscan-romper-esquemas-gaming-snapdragon-8-gen-1-2755819.jpg' alt='El Red Magic 7S Pro es oficial a nivel internacional: características y precios de esta bestia gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843'>El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-barato-apple-oferta-verano-descuento-1099843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/apple-watch-2413483.jpg' alt='El reloj barato de Apple es una gran compra para el verano, y el descuento se agradece' />
     </a>
 </div>
 
