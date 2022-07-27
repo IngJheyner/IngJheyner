@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresionante-visualizacion-localizaciones-acaba-anadir-google-maps-otras-novedades-1100153'>La impresionante visualización de localizaciones que acaba de añadir Google Maps entre otras novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/impresionante-visualizacion-localizaciones-acaba-anadir-google-maps-otras-novedades-1100153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La impresionante visualización de localizaciones que acaba de añadir Google Maps entre otras novedades' />
+    <h4><a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057'>Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecmologia/hoy-hace-41-anos-origen-windows-microsoft-compro-dos-1100089'>Hoy hace 41 años del origen de Windows: Microsoft compró DOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecmologia/hoy-hace-41-anos-origen-windows-microsoft-compro-dos-1100089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bill-gates-joven-2770207.jpg' alt='Hoy hace 41 años del origen de Windows: Microsoft compró DOS' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/pese-mucho-nos-guste-jugar-videojuegos-no-relaciona-mejor-bienestar-1100229'>Pese a lo mucho que nos guste, jugar a videojuegos no se relaciona con un mejor bienestar</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/pese-mucho-nos-guste-jugar-videojuegos-no-relaciona-mejor-bienestar-1100229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/valve-anuncia-steam-deck-consola-portatil-juegos-pc-2408177.jpg' alt='Pese a lo mucho que nos guste, jugar a videojuegos no se relaciona con un mejor bienestar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cecotec-outsider-e-volution-oferta-27-julio-2022-1099541'>Patinete barato y con funciones avanzadas: por 269 euros puede ser tuyo</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cecotec-outsider-e-volution-oferta-27-julio-2022-1099541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/phoenix.jpg' alt='Patinete barato y con funciones avanzadas: por 269 euros puede ser tuyo' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169'>Cómo preparar el coche según la DGT para un viaje este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-2667015.jpg' alt='Cómo preparar el coche según la DGT para un viaje este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robots-partir-aranas-muertas-necrorobotica-1100189'>Científicos crean robots a partir de arañas muertas, así es la necrorobótica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robots-partir-aranas-muertas-necrorobotica-1100189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aranas-robot-2770411.jpg' alt='Científicos crean robots a partir de arañas muertas, así es la necrorobótica' />
+    <h4><a href='https://computerhoy.com/guia-compra/receptor-amplificador-av'>Guía y consejos para comprar un amplificador o receptor AV en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/receptor-amplificador-av' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/denon-presenta-primeros-amplificadores-soporte-8k-mercado-1964349.jpg' alt='Guía y consejos para comprar un amplificador o receptor AV en 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125'>Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puede-programar-word-veamos-como-1099767'>Se puede programar desde Word, veamos cómo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puede-programar-word-veamos-como-1099767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Se puede programar desde Word, veamos cómo' />
     </a>
 </div>
 
