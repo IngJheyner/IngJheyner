@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285'>AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-1087463'>Las mejores webs de rompecabezas para pasar el verano uniendo piezas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-1087463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-2763159.jpg' alt='Las mejores webs de rompecabezas para pasar el verano uniendo piezas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203'>Cómo funciona la Bolsa</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/ibex-35.jpg' alt='Cómo funciona la Bolsa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245'>El sector smartphone chino se hunde como no lo habíamos visto en una década</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg' alt='El sector smartphone chino se hunde como no lo habíamos visto en una década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-oro-1100213'>Cómo saber si una joya es realmente de oro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-oro-1100213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/anillo-joyas-2342999.jpg' alt='Cómo saber si una joya es realmente de oro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057'>Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo' />
     </a>
 </div>
 
