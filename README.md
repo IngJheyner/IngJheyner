@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413'>El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/manchester-city-comercializa-bufanda-inteligente-medir-emociones-fans-partidos-2771063.jpg' alt='El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407'>La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409'>Los tornillos que te avisan cuando se aflojan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658952456624-2771005.jpg' alt='Los tornillos que te avisan cuando se aflojan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365'>Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-solo-169-euros-oferta-1100397'>La tablet realme pad es una de las mejores del mercado, y es tuya por solo 169 euros con esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-realme-pad-solo-169-euros-oferta-1100397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/realme-pad-2597535.jpg' alt='La tablet realme pad es una de las mejores del mercado, y es tuya por solo 169 euros con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-telefono-android-lea-voz-alta-ve-pantalla-1100371'>Cómo hacer que tu teléfono Android lea en voz alta lo que ve en la pantalla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-telefono-android-lea-voz-alta-ve-pantalla-1100371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604417.jpg' alt='Cómo hacer que tu teléfono Android lea en voz alta lo que ve en la pantalla' />
     </a>
 </div>
 
