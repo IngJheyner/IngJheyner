@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresionante-visualizacion-localizaciones-acaba-anadir-google-maps-otras-novedades-1100153'>La impresionante visualización de localizaciones que acaba de añadir Google Maps entre otras novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/impresionante-visualizacion-localizaciones-acaba-anadir-google-maps-otras-novedades-1100153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='La impresionante visualización de localizaciones que acaba de añadir Google Maps entre otras novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecmologia/hoy-hace-41-anos-origen-windows-microsoft-compro-dos-1100089'>Hoy hace 41 años del origen de Windows: Microsoft compró DOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecmologia/hoy-hace-41-anos-origen-windows-microsoft-compro-dos-1100089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bill-gates-joven-2770207.jpg' alt='Hoy hace 41 años del origen de Windows: Microsoft compró DOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cecotec-outsider-e-volution-oferta-27-julio-2022-1099541'>Patinete barato y con funciones avanzadas: por 269 euros puede ser tuyo</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cecotec-outsider-e-volution-oferta-27-julio-2022-1099541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/phoenix.jpg' alt='Patinete barato y con funciones avanzadas: por 269 euros puede ser tuyo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robots-partir-aranas-muertas-necrorobotica-1100189'>Científicos crean robots a partir de arañas muertas, así es la necrorobótica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robots-partir-aranas-muertas-necrorobotica-1100189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aranas-robot-2770411.jpg' alt='Científicos crean robots a partir de arañas muertas, así es la necrorobótica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125'>Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133'>Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/evolucion-natural-google-llegar-pixel-buds-pro-1100115'>La evolución natural de Google para llegar hasta los Pixel Buds Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/evolucion-natural-google-llegar-pixel-buds-pro-1100115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-buds-2435767.jpg' alt='La evolución natural de Google para llegar hasta los Pixel Buds Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/wearable-detecta-covid-19-dos-dias-antes-tener-sintomas-1100111'>El wearable que detecta COVID-19 dos días antes de tener síntomas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/wearable-detecta-covid-19-dos-dias-antes-tener-sintomas-1100111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/fallo-servidores-samsung-limita-funciones-wearables-marca.jpg' alt='El wearable que detecta COVID-19 dos días antes de tener síntomas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509'>El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-smarttag-2769157.jpg' alt='El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros' />
     </a>
 </div>
 
