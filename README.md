@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133'>Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evolucion-natural-google-llegar-pixel-buds-pro-1100115'>La evolución natural de Google para llegar hasta los Pixel Buds Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evolucion-natural-google-llegar-pixel-buds-pro-1100115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-buds-2435767.jpg' alt='La evolución natural de Google para llegar hasta los Pixel Buds Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/wearable-detecta-covid-19-dos-dias-antes-tener-sintomas-1100111'>El wearable que detecta COVID-19 dos días antes de tener síntomas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/wearable-detecta-covid-19-dos-dias-antes-tener-sintomas-1100111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/fallo-servidores-samsung-limita-funciones-wearables-marca.jpg' alt='El wearable que detecta COVID-19 dos días antes de tener síntomas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509'>El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-smarttag-2769157.jpg' alt='El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095'>Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando</a></h4>
     <a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bill-gates-roger-federer-2770213.jpg' alt='Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559'>Cómo mantener tu ordenador fresco en verano</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/escribiendo-ordenador-2522917.jpg' alt='Cómo mantener tu ordenador fresco en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617'>Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-band-7-vs-xiaomi-smart-band-7-2769787.jpg' alt='Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1100069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2770191.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643049.jpg' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
     </a>
 </div>
 
