@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-consigue-trabajo-suenos-google-despues-intentarlo-39-ocasiones-1100393'>Este hombre consigue su trabajo de los sueños en Google después de intentarlo en 39 ocasiones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hombre-consigue-trabajo-suenos-google-despues-intentarlo-39-ocasiones-1100393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/empleo-2770985.jpg' alt='Este hombre consigue su trabajo de los sueños en Google después de intentarlo en 39 ocasiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-hervidor-electrico-xiaomi-puede-calentar-agua-tan-solo-segundos-1100387'>Este es el nuevo hervidor eléctrico de Xiaomi y que puede calentar el agua en tan solo unos segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-hervidor-electrico-xiaomi-puede-calentar-agua-tan-solo-segundos-1100387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hervidor-electrico-mijia-xiaomi-2770961.jpg' alt='Este es el nuevo hervidor eléctrico de Xiaomi y que puede calentar el agua en tan solo unos segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trailer-pinocho-guillermo-toro-netflix-stop-motion-1100379'>Primer tráiler de Pinocho de Guillermo del Toro para Netflix, una maravilla en stop-motion</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trailer-pinocho-guillermo-toro-netflix-stop-motion-1100379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658945208921-2770947.jpg' alt='Primer tráiler de Pinocho de Guillermo del Toro para Netflix, una maravilla en stop-motion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-1100315'>La Huawei MatePad Pro 11 es oficial: así es la nueva tablet que estrena HarmonyOS 3.0 y un diseño premium</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-1100315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-2770767.jpg' alt='La Huawei MatePad Pro 11 es oficial: así es la nueva tablet que estrena HarmonyOS 3.0 y un diseño premium' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/amazon-prime-subida-precio-servicios-seguir-pagando-1100097'>Amazon Prime sube de precio: funciones que no estás usando y que justifican seguir pagando</a></h4>
     <a href='https://computerhoy.com/reportajes/life/amazon-prime-subida-precio-servicios-seguir-pagando-1100097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/caja-carton-logo-amazon-prime-sobreimpresionado-encima-2770377.jpg' alt='Amazon Prime sube de precio: funciones que no estás usando y que justifican seguir pagando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285'>AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-1087463'>Las mejores webs de rompecabezas para pasar el verano uniendo piezas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-1087463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-webs-rompecabezas-pasar-verano-uniendo-piezas-2763159.jpg' alt='Las mejores webs de rompecabezas para pasar el verano uniendo piezas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203'>Cómo funciona la Bolsa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/ibex-35.jpg' alt='Cómo funciona la Bolsa' />
     </a>
 </div>
 
