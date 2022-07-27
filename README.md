@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-1100315'>La Huawei MatePad Pro 11 es oficial: así es la nueva tablet que estrena HarmonyOS 3.0 y un diseño premium</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-1100315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-11-oficial-nueva-tablet-estrena-harmonyos-30-diseno-premium-2770767.jpg' alt='La Huawei MatePad Pro 11 es oficial: así es la nueva tablet que estrena HarmonyOS 3.0 y un diseño premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/amazon-prime-subida-precio-servicios-seguir-pagando-1100097'>Amazon Prime sube de precio: funciones que no estás usando y que justifican seguir pagando</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/amazon-prime-subida-precio-servicios-seguir-pagando-1100097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/caja-carton-logo-amazon-prime-sobreimpresionado-encima-2770377.jpg' alt='Amazon Prime sube de precio: funciones que no estás usando y que justifican seguir pagando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285'>AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-lanza-supresor-ruido-microfonos-ultimos-drivers-funciona-1100285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/amd-2577833.jpg' alt='AMD lanza su supresor de ruido para micrófonos en sus últimos drivers: así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203'>Cómo funciona la Bolsa</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-funciona-bolsa-1100203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/ibex-35.jpg' alt='Cómo funciona la Bolsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-revela-nuevos-detalles-proximo-casco-playstation-vr2-vista-transparente-opciones-streaming-modo-cinematico-mucho-1100239'>Sony revela nuevos detalles sobre su próximo casco PlayStation VR2: vista transparente, opciones para streaming, modo cinemático y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-revela-nuevos-detalles-proximo-casco-playstation-vr2-vista-transparente-opciones-streaming-modo-cinematico-mucho-1100239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Sony revela nuevos detalles sobre su próximo casco PlayStation VR2: vista transparente, opciones para streaming, modo cinemático y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245'>El sector smartphone chino se hunde como no lo habíamos visto en una década</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg' alt='El sector smartphone chino se hunde como no lo habíamos visto en una década' />
     </a>
 </div>
 
