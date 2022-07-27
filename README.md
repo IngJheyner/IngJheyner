@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409'>Los tornillos que te avisan cuando se aflojan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658952456624-2771005.jpg' alt='Los tornillos que te avisan cuando se aflojan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-nord-watch-estaria-cada-vez-cerca-ser-presentado-1100403'>Los últimos rumores apuntan a que el OnePlus Nord Watch estaría cada vez más cerca de ser presentado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-nord-watch-estaria-cada-vez-cerca-ser-presentado-1100403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430517.jpg' alt='Los últimos rumores apuntan a que el OnePlus Nord Watch estaría cada vez más cerca de ser presentado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365'>Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-telefono-android-lea-voz-alta-ve-pantalla-1100371'>Cómo hacer que tu teléfono Android lea en voz alta lo que ve en la pantalla</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-telefono-android-lea-voz-alta-ve-pantalla-1100371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604417.jpg' alt='Cómo hacer que tu teléfono Android lea en voz alta lo que ve en la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-consigue-trabajo-suenos-google-despues-intentarlo-39-ocasiones-1100393'>Este hombre consigue su trabajo de los sueños en Google después de intentarlo en 39 ocasiones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hombre-consigue-trabajo-suenos-google-despues-intentarlo-39-ocasiones-1100393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/empleo-2770985.jpg' alt='Este hombre consigue su trabajo de los sueños en Google después de intentarlo en 39 ocasiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-hervidor-electrico-xiaomi-puede-calentar-agua-tan-solo-segundos-1100387'>Este es el nuevo hervidor eléctrico de Xiaomi y que puede calentar el agua en tan solo unos segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-hervidor-electrico-xiaomi-puede-calentar-agua-tan-solo-segundos-1100387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hervidor-electrico-mijia-xiaomi-2770961.jpg' alt='Este es el nuevo hervidor eléctrico de Xiaomi y que puede calentar el agua en tan solo unos segundos' />
     </a>
 </div>
 
