@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125'>Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/netflix-anade-3-nuevos-juegos-suscriptores-ellos-basado-movimiento-ocular-1100125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-juegos-2770293.jpg' alt='Netflix añade 3 nuevos juegos para suscriptores, uno de ellos basado en el movimiento ocular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133'>Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-lanza-portatil-windows-chip-arm-snapdragon-8cx-gen-3-siguiendo-senda-apple-1100133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/snapdragon-8cx-gen-3-2549193.jpg' alt='Lenovo lanza un portátil Windows con chip ARM Snapdragon 8cx gen 3, siguiendo la senda Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509'>El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-smarttag-oferta-27-julio-2022-1099509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-smarttag-2769157.jpg' alt='El rival de Samsung para los AirTag de Apple, rebajado a solo 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095'>Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando</a></h4>
-    <a href='https://computerhoy.com/noticias/pickleball-deporte-moda-bill-gates-lleva-50-anos-jugando-1100095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bill-gates-roger-federer-2770213.jpg' alt='Pickleball, así es el deporte de moda al que Bill Gates lleva 50 años jugando' />
     </a>
 </div>
 
