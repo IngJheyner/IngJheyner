@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245'>El sector smartphone chino se hunde como no lo habíamos visto en una década</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sector-smartphone-chino-hunde-como-no-habiamos-visto-decada-1100245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg' alt='El sector smartphone chino se hunde como no lo habíamos visto en una década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-oro-1100213'>Cómo saber si una joya es realmente de oro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-oro-1100213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/anillo-joyas-2342999.jpg' alt='Cómo saber si una joya es realmente de oro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057'>Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/gaming/ps5-queda-congelada-da-errores-como-arreglarlo-1099057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/acabo-escasez-ps5-stock-consola-volvera-normalidad-ano-2429173.jpg' alt='Por qué tu PS5 se queda congelada o da errores y cómo arreglarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169'>Cómo preparar el coche según la DGT para un viaje este verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-preparar-coche-dgt-viaje-verano-1100169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/multas-pueden-ponerte-no-coger-ni-circular-bien-glorieta-dgt-2667015.jpg' alt='Cómo preparar el coche según la DGT para un viaje este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/receptor-amplificador-av'>Guía y consejos para comprar un amplificador o receptor AV en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/receptor-amplificador-av' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/denon-presenta-primeros-amplificadores-soporte-8k-mercado-1964349.jpg' alt='Guía y consejos para comprar un amplificador o receptor AV en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puede-programar-word-veamos-como-1099767'>Se puede programar desde Word, veamos cómo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puede-programar-word-veamos-como-1099767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Se puede programar desde Word, veamos cómo' />
     </a>
 </div>
 
