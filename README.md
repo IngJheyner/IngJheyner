@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559'>Cómo mantener tu ordenador fresco en verano</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mantener-ordenador-fresco-verano-1099559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/escribiendo-ordenador-2522917.jpg' alt='Cómo mantener tu ordenador fresco en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617'>Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-huawei-band-7-vs-xiaomi-smart-band-7-1099617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-band-7-vs-xiaomi-smart-band-7-2769787.jpg' alt='Huawei Band 7 vs Xiaomi Smart Band 7: comparativa de características entre las dos smartband líderes en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067'>Qué hacer si encuentras una garrapata en tu cuerpo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-quitar-garrapata-1100067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hacer-encuentras-garrapata-cuerpo-2770189.jpg' alt='Qué hacer si encuentras una garrapata en tu cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851'>El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hombre-tiro-basura-8000-bitcoin-perros-robot-spot-1099851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/james-howells-durante-entrevista-2563609.jpg' alt='El hombre que tiró a la basura 7.500 bitcoin no descansa: quiere excavar el vertedero con 2 perros robot Spot' />
     </a>
 </div>
 
