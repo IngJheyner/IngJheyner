@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931'>Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781'>Cómo saber y comprobar si estás de baja médica en la Seguridad Social</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/seguridad-social-2219279.jpg' alt='Cómo saber y comprobar si estás de baja médica en la Seguridad Social' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889'>La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857'>El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS</a></h4>
-    <a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771697.jpg' alt='El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS' />
     </a>
 </div>
 
