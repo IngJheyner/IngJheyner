@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857'>El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771697.jpg' alt='El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-vacio-redes-sociales-podria-ser-delito-filipinas-quieren-acabar-ghosting-1100855'>Hacer el vacío en redes sociales podría ser delito en Filipinas: así quieren acabar con el ghosting</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hacer-vacio-redes-sociales-podria-ser-delito-filipinas-quieren-acabar-ghosting-1100855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/chat-whatsapp-1842833.jpg' alt='Hacer el vacío en redes sociales podría ser delito en Filipinas: así quieren acabar con el ghosting' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821'>Motorola presenta su Moto g32, un gama media a un precio muy asequible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-g32-2771567.jpg' alt='Motorola presenta su Moto g32, un gama media a un precio muy asequible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779'>Cuidado con las medusas, conoce cómo de peligrosas son haciéndoles una foto con esta app</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/medusapp-2771465.jpg' alt='Cuidado con las medusas, conoce cómo de peligrosas son haciéndoles una foto con esta app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-electrico-apple-sigue-adelante-contratan-director-desarrollo-lamborghini-1100683'>El coche eléctrico de Apple sigue adelante: contratan al director de desarrollo de Lamborghini</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-electrico-apple-sigue-adelante-contratan-director-desarrollo-lamborghini-1100683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='El coche eléctrico de Apple sigue adelante: contratan al director de desarrollo de Lamborghini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/televisor-4k-76319'>Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022</a></h4>
-    <a href='https://computerhoy.com/guia-compra/televisor-4k-76319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-neo-qled-4k-qn85a-2609905.jpg' alt='Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022' />
     </a>
 </div>
 
