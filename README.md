@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-hace-oficial-carga-200-w-real-tiempo-carga-ridiculo-1100729'>Vivo lo hace oficial: su carga de 200 W es real y su tiempo de carga es ridículo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-hace-oficial-carga-200-w-real-tiempo-carga-ridiculo-1100729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='Vivo lo hace oficial: su carga de 200 W es real y su tiempo de carga es ridículo' />
+    <h4><a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775'>La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera </a></h4>
+    <a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/64-multas-dgt-espana-son-unico-motivo-2761875.jpg' alt='La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rediseno-gmail-oficial-todo-mundo-1100709'>El rediseño de Gmail es oficial para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rediseno-gmail-oficial-todo-mundo-1100709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='El rediseño de Gmail es oficial para todo el mundo' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-gastos-viaje-excel-google-spreadsheet-1100761'>Cómo organizar los gastos de un viaje en Excel / Google Spreadsheet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-gastos-viaje-excel-google-spreadsheet-1100761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='Cómo organizar los gastos de un viaje en Excel / Google Spreadsheet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701'>WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-2771349.jpg' alt='WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribir-novela-acabarla-3-dias-ayuda-ia-1100653'>Cómo escribir una novela y acabarla en 3 días con la ayuda de una IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-escribir-novela-acabarla-3-dias-ayuda-ia-1100653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/escribir-papel-cuaderno.jpg' alt='Cómo escribir una novela y acabarla en 3 días con la ayuda de una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-amd-ryzen-7000-luchar-intel-core-12a-gen-1100675'>Así será la nueva generación AMD Ryzen 7000 para luchar contra los Intel Core de 12ª gen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-amd-ryzen-7000-luchar-intel-core-12a-gen-1100675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Así será la nueva generación AMD Ryzen 7000 para luchar contra los Intel Core de 12ª gen' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-led-bulb-oferta-28-julio-2022-1100109'>La bombilla WiFi de Xiaomi, a precio de ganga ¡y tiene Alexa!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-led-bulb-oferta-28-julio-2022-1100109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='La bombilla WiFi de Xiaomi, a precio de ganga ¡y tiene Alexa!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667'>Car Thing: el asistente virtual para coches de Spotify ha muerto</a></h4>
-    <a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/car-thing-2771297.jpg' alt='Car Thing: el asistente virtual para coches de Spotify ha muerto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/beneficios-netos-meta-caen-picado-desploman-36-1100727'>Los beneficios netos de Meta caen en picado y se desploman un 36%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/beneficios-netos-meta-caen-picado-desploman-36-1100727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/meta-2771383.jpg' alt='Los beneficios netos de Meta caen en picado y se desploman un 36%' />
     </a>
 </div>
 
