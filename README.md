@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779'>Cuidado con las medusas, conoce cómo de peligrosa es con una foto y esta app</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821'>Motorola presenta su Moto g32, un gama media a un precio muy asequible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-g32-2771567.jpg' alt='Motorola presenta su Moto g32, un gama media a un precio muy asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usos-sorprendentes-ia-completar-cuadros-famosos-dalle-2-increibles-resultados-1094955'>Usos sorprendentes de la IA para completar cuadros famosos con DALL·E 2 y sus increíbles resultados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/usos-sorprendentes-ia-completar-cuadros-famosos-dalle-2-increibles-resultados-1094955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/usos-recreativos-ia-completar-cuadros-famosos-dalle-2-sorprendentes-resultados-2761343.jpg' alt='Usos sorprendentes de la IA para completar cuadros famosos con DALL·E 2 y sus increíbles resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779'>Cuidado con las medusas, conoce cómo de peligrosas son haciéndoles una foto con esta app</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/medusapp-2771465.jpg' alt='Cuidado con las medusas, conoce cómo de peligrosa es con una foto y esta app' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/medusapp-2771465.jpg' alt='Cuidado con las medusas, conoce cómo de peligrosas son haciéndoles una foto con esta app' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/televisor-4k-76319'>Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022</a></h4>
     <a href='https://computerhoy.com/guia-compra/televisor-4k-76319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-neo-qled-4k-qn85a-2609905.jpg' alt='Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cura-vih-celulas-madre-cada-vez-real-1100815'>La cura del VIH con células madre es cada vez más real</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cura-vih-celulas-madre-cada-vez-real-1100815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vacuna-vih-2574205.jpg' alt='La cura del VIH con células madre es cada vez más real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775'>La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera </a></h4>
-    <a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/64-multas-dgt-espana-son-unico-motivo-2761875.jpg' alt='La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera ' />
     </a>
 </div>
 
