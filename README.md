@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173'>Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jugando-nintendo-switch-2682065.jpg' alt='Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2771247.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-wireless-comfort-desktop-5050-2770465.jpg' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773'>Los lenguajes de programación más complicados de aprender que casi todo el mundo evita</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/programador-enfadado-2738769.jpg' alt='Los lenguajes de programación más complicados de aprender que casi todo el mundo evita' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621'>Los mejores y peores aperitivos para comer en los viajes largos, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-peores-aperitivos-comer-viajes-largos-ciencia-2771245.jpg' alt='Los mejores y peores aperitivos para comer en los viajes largos, según los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503'>Guía de comprar y consejos de compra para una bicicleta de spinning</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bicicleta-spining-2734697.jpg' alt='Guía de comprar y consejos de compra para una bicicleta de spinning' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/millon-conductores-espanoles-confiesa-haber-circulado-200-km-h-1100417'>Más de 1 millón de conductores españoles confiesan haber circulado a 200 Km/h, y otras burradas al volante</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/millon-conductores-espanoles-confiesa-haber-circulado-200-km-h-1100417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/1-millon-conductores-confiesan-haber-circulado-200-km-h-otras-burradas-volante-2771067.jpg' alt='Más de 1 millón de conductores españoles confiesan haber circulado a 200 Km/h, y otras burradas al volante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413'>El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/manchester-city-comercializa-bufanda-inteligente-medir-emociones-fans-partidos-2771063.jpg' alt='El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos' />
     </a>
 </div>
 
