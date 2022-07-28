@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621'>Los mejores y peores aperitivos para comer en los viajes largos, según los médicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-peores-aperitivos-comer-viajes-largos-ciencia-2771245.jpg' alt='Los mejores y peores aperitivos para comer en los viajes largos, según los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503'>Guía de comprar y consejos de compra para una bicicleta de spinning</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bicicleta-spining-2734697.jpg' alt='Guía de comprar y consejos de compra para una bicicleta de spinning' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407'>La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409'>Los tornillos que te avisan cuando se aflojan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658952456624-2771005.jpg' alt='Los tornillos que te avisan cuando se aflojan' />
     </a>
 </div>
 
