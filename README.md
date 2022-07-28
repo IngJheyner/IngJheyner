@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981'> AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt=' AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973'>El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-2772039.jpg' alt='El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967'>Estas son las frases con las que más se liga en Tinder</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-personas-tomandose-cafe-2772029.jpg' alt='Estas son las frases con las que más se liga en Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911'>Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754931.jpg' alt='Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta' />
     </a>
 </div>
 
