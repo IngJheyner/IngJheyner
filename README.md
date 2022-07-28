@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503'>Guía de comprar y consejos de compra para una bicicleta de spinning</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-consejos-compra-bicicleta-spinning-1079503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bicicleta-spining-2734697.jpg' alt='Guía de comprar y consejos de compra para una bicicleta de spinning' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/millon-conductores-espanoles-confiesa-haber-circulado-200-km-h-1100417'>Más de 1 millón de conductores españoles confiesan haber circulado a 200 Km/h, y otras burradas al volante</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/millon-conductores-espanoles-confiesa-haber-circulado-200-km-h-1100417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/1-millon-conductores-confiesan-haber-circulado-200-km-h-otras-burradas-volante-2771067.jpg' alt='Más de 1 millón de conductores españoles confiesan haber circulado a 200 Km/h, y otras burradas al volante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413'>El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/manchester-city-comercializa-bufanda-inteligente-medir-emociones-fans-partidos-2771063.jpg' alt='El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409'>Los tornillos que te avisan cuando se aflojan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tornillos-con-sensores-te-avisan-cuando-aflojan-1100409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1658952456624-2771005.jpg' alt='Los tornillos que te avisan cuando se aflojan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-nord-watch-estaria-cada-vez-cerca-ser-presentado-1100403'>Los últimos rumores apuntan a que el OnePlus Nord Watch estaría cada vez más cerca de ser presentado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-oneplus-nord-watch-estaria-cada-vez-cerca-ser-presentado-1100403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430517.jpg' alt='Los últimos rumores apuntan a que el OnePlus Nord Watch estaría cada vez más cerca de ser presentado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365'>Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubiertas-nuevas-aplicaciones-infectadas-troyanos-tienes-eliminar-telefono-android-1100365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Descubiertas nuevas aplicaciones infectadas con troyanos que tienes que eliminar de tu teléfono Android' />
     </a>
 </div>
 
