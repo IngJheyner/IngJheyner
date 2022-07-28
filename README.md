@@ -50,8 +50,8 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857'>El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857' target='_blank'>
+    <h4><a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857'>El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS</a></h4>
+    <a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771697.jpg' alt='El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS' />
     </a>
 </div>
