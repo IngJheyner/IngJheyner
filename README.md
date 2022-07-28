@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-hace-oficial-carga-200-w-real-tiempo-carga-ridiculo-1100729'>Vivo lo hace oficial: su carga de 200 W es real y su tiempo de carga es ridículo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-hace-oficial-carga-200-w-real-tiempo-carga-ridiculo-1100729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-vivo-x80-pro-2752737.jpg' alt='Vivo lo hace oficial: su carga de 200 W es real y su tiempo de carga es ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rediseno-gmail-oficial-todo-mundo-1100709'>El rediseño de Gmail es oficial para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rediseno-gmail-oficial-todo-mundo-1100709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gmail-2715359.jpg' alt='El rediseño de Gmail es oficial para todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701'>WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-2771349.jpg' alt='WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667'>Car Thing: el asistente virtual para coches de Spotify ha muerto</a></h4>
     <a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/car-thing-2771297.jpg' alt='Car Thing: el asistente virtual para coches de Spotify ha muerto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-wifi-low-cost-oferta-28-julio-2022-1099567'>Mide tu consumo eléctrico con este enchufe WiFi low cost de solo 7 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-wifi-low-cost-oferta-28-julio-2022-1099567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enchufe-inteligente-tuay-2769293.jpg' alt='Mide tu consumo eléctrico con este enchufe WiFi low cost de solo 7 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651'>Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/microsoft-presenta-agnus-tecnologia-blockchain-ofrecer-recompensas-quienes-denuncien-piratas-forma-anonima-2440725.jpg' alt='Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario' />
     </a>
 </div>
 
