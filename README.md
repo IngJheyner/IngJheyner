@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951'>El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blonde-pelicula-netflix-marylin-monroe-ana-armas-1100959'>Así será la Marilyn Monroe de Ana de Armas que llegará a Netflix con la película Blonde</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/blonde-pelicula-netflix-marylin-monroe-ana-armas-1100959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659030819336-2772021.jpg' alt='Así será la Marilyn Monroe de Ana de Armas que llegará a Netflix con la película Blonde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931'>Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923'>Google quiere acabar con los enlaces a pantalla completa en las aplicaciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Google quiere acabar con los enlaces a pantalla completa en las aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-ecg-2752477.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889'>La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p' />
     </a>
 </div>
 
