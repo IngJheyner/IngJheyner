@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779'>Cuidado con las medusas, conoce cómo de peligrosa es con una foto y esta app</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-medusas-conoce-como-peligrosa-foto-app-1100779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/medusapp-2771465.jpg' alt='Cuidado con las medusas, conoce cómo de peligrosa es con una foto y esta app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-electrico-apple-sigue-adelante-contratan-director-desarrollo-lamborghini-1100683'>El coche eléctrico de Apple sigue adelante: contratan al director de desarrollo de Lamborghini</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-electrico-apple-sigue-adelante-contratan-director-desarrollo-lamborghini-1100683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg' alt='El coche eléctrico de Apple sigue adelante: contratan al director de desarrollo de Lamborghini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/televisor-4k-76319'>Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022</a></h4>
+    <a href='https://computerhoy.com/guia-compra/televisor-4k-76319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-neo-qled-4k-qn85a-2609905.jpg' alt='Guía, consejos y recomendaciones para comprar un televisor Smart TV 4K UHD en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cura-vih-celulas-madre-cada-vez-real-1100815'>La cura del VIH con células madre es cada vez más real</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cura-vih-celulas-madre-cada-vez-real-1100815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/vacuna-vih-2574205.jpg' alt='La cura del VIH con células madre es cada vez más real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775'>La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera </a></h4>
     <a href='https://computerhoy.com/noticias/life/velocidad-nos-cazan-radares-como-evitar-multas-exceso-velocidad-carretera-1100775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/64-multas-dgt-espana-son-unico-motivo-2761875.jpg' alt='La velocidad a la que nos cazan los radares o cómo evitar multas por exceso velocidad en carretera ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-gastos-viaje-excel-google-spreadsheet-1100761'>Cómo organizar los gastos de un viaje en Excel / Google Spreadsheet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-gastos-viaje-excel-google-spreadsheet-1100761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/viajar-avion-2760907.jpg' alt='Cómo organizar los gastos de un viaje en Excel / Google Spreadsheet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribir-novela-acabarla-3-dias-ayuda-ia-1100653'>Cómo escribir una novela y acabarla en 3 días con la ayuda de una IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-escribir-novela-acabarla-3-dias-ayuda-ia-1100653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/escribir-papel-cuaderno.jpg' alt='Cómo escribir una novela y acabarla en 3 días con la ayuda de una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-led-bulb-oferta-28-julio-2022-1100109'>La bombilla WiFi de Xiaomi, a precio de ganga ¡y tiene Alexa!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-smart-led-bulb-oferta-28-julio-2022-1100109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/xiaomi-mi-smart-led-bulb-2111487.jpg' alt='La bombilla WiFi de Xiaomi, a precio de ganga ¡y tiene Alexa!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/beneficios-netos-meta-caen-picado-desploman-36-1100727'>Los beneficios netos de Meta caen en picado y se desploman un 36%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/beneficios-netos-meta-caen-picado-desploman-36-1100727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/meta-2771383.jpg' alt='Los beneficios netos de Meta caen en picado y se desploman un 36%' />
     </a>
 </div>
 
