@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651'>Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/microsoft-presenta-agnus-tecnologia-blockchain-ofrecer-recompensas-quienes-denuncien-piratas-forma-anonima-2440725.jpg' alt='Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/portabicicletas-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098317'>Portabicicletas para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/portabicicletas-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portabicicletas-2767313.jpg' alt='Portabicicletas para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tp-link-deco-x50-2770517.jpg' alt='Estos son los cinco mejores routers con WiFi Mesh de 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2771247.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-wireless-comfort-desktop-5050-2770465.jpg' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773'>Los lenguajes de programación más complicados de aprender que casi todo el mundo evita</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/programador-enfadado-2738769.jpg' alt='Los lenguajes de programación más complicados de aprender que casi todo el mundo evita' />
     </a>
 </div>
 
