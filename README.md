@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701'>WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-lanzando-vistas-previas-mejoradas-enlaces-estados-1100701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/whatsapp-2771349.jpg' alt='WhatsApp está lanzando vistas previas mejoradas de enlaces para los estados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-amd-ryzen-7000-luchar-intel-core-12a-gen-1100675'>Así será la nueva generación AMD Ryzen 7000 para luchar contra los Intel Core de 12ª gen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-nueva-generacion-amd-ryzen-7000-luchar-intel-core-12a-gen-1100675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amd-ryzen-3600-2491827.jpg' alt='Así será la nueva generación AMD Ryzen 7000 para luchar contra los Intel Core de 12ª gen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667'>Car Thing: el asistente virtual para coches de Spotify ha muerto</a></h4>
+    <a href='https://computerhoy.com/noticias/car-thing-asistente-virtual-coches-spotify-desaparece-1100667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/car-thing-2771297.jpg' alt='Car Thing: el asistente virtual para coches de Spotify ha muerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/enchufe-wifi-low-cost-oferta-28-julio-2022-1099567'>Mide tu consumo eléctrico con este enchufe WiFi low cost de solo 7 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/enchufe-wifi-low-cost-oferta-28-julio-2022-1099567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/enchufe-inteligente-tuay-2769293.jpg' alt='Mide tu consumo eléctrico con este enchufe WiFi low cost de solo 7 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651'>Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-avisa-empresas-europeas-hay-nuevo-equipo-piratas-operando-suelo-comunitario-1100651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/microsoft-presenta-agnus-tecnologia-blockchain-ofrecer-recompensas-quienes-denuncien-piratas-forma-anonima-2440725.jpg' alt='Microsoft avisa a las empresas europeas de que hay un nuevo equipo de piratas operando en suelo comunitario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/portabicicletas-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098317'>Portabicicletas para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/portabicicletas-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portabicicletas-2767313.jpg' alt='Portabicicletas para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tp-link-deco-x50-2770517.jpg' alt='Estos son los cinco mejores routers con WiFi Mesh de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173'>Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jugando-nintendo-switch-2682065.jpg' alt='Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1100623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2771247.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
