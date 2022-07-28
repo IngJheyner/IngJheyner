@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773'>Los lenguajes de programación más complicados de aprender que casi todo el mundo evita</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/programador-enfadado-2738769.jpg' alt='Los lenguajes de programación más complicados de aprender que casi todo el mundo evita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621'>Los mejores y peores aperitivos para comer en los viajes largos, según los médicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-peores-aperitivos-comer-viajes-largos-ciencia-2771245.jpg' alt='Los mejores y peores aperitivos para comer en los viajes largos, según los médicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413'>El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/manchester-city-bufanda-inteligente-1100413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/manchester-city-comercializa-bufanda-inteligente-medir-emociones-fans-partidos-2771063.jpg' alt='El Manchester City presenta una bufanda inteligente para medir las emociones de los fans en los partidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407'>La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estafa-nina-cancer-ha-gestado-youtube-ha-conseguido-robar-medio-millon-dolares-1100407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/youtube-2583617.jpg' alt='La estafa de la niña con cáncer que se ha gestado en YouTube ha conseguido robar más de medio millón de dólares' />
     </a>
 </div>
 
