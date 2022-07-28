@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781'>Cómo saber y comprobar si estás de baja médica en la Seguridad Social</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/seguridad-social-2219279.jpg' alt='Cómo saber y comprobar si estás de baja médica en la Seguridad Social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923'>Google quiere acabar con los enlaces a pantalla completa en las aplicaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Google quiere acabar con los enlaces a pantalla completa en las aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-watch-ecg-2752477.jpg' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889'>La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nueva-beta-playstation-5-anade-fin-soporte-monitores-resolucion-1440p-1100889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/persona-sujetando-mando-daulsense-playstation-5-2669597.jpg' alt='La nueva beta de PlayStation 5 añade, por fin, el soporte para monitores con resolución 1.440p' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857'>El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS</a></h4>
     <a href='https://computerhoy.com/noticias/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-1100857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771697.jpg' alt='El Zenfone 9 es oficial: así el nuevo teléfono de gama alta compacto de ASUS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hacer-vacio-redes-sociales-podria-ser-delito-filipinas-quieren-acabar-ghosting-1100855'>Hacer el vacío en redes sociales podría ser delito en Filipinas: así quieren acabar con el ghosting</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hacer-vacio-redes-sociales-podria-ser-delito-filipinas-quieren-acabar-ghosting-1100855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/chat-whatsapp-1842833.jpg' alt='Hacer el vacío en redes sociales podría ser delito en Filipinas: así quieren acabar con el ghosting' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821'>Motorola presenta su Moto g32, un gama media a un precio muy asequible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-presenta-moto-g32-gama-media-precio-muy-asequible-1100821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-g32-2771567.jpg' alt='Motorola presenta su Moto g32, un gama media a un precio muy asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usos-sorprendentes-ia-completar-cuadros-famosos-dalle-2-increibles-resultados-1094955'>Usos sorprendentes de la IA para completar cuadros famosos con DALL·E 2 y sus increíbles resultados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/usos-sorprendentes-ia-completar-cuadros-famosos-dalle-2-increibles-resultados-1094955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/usos-recreativos-ia-completar-cuadros-famosos-dalle-2-sorprendentes-resultados-2761343.jpg' alt='Usos sorprendentes de la IA para completar cuadros famosos con DALL·E 2 y sus increíbles resultados' />
     </a>
 </div>
 
