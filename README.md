@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tp-link-deco-x50-2770517.jpg' alt='Estos son los cinco mejores routers con WiFi Mesh de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173'>Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-elegir-mejor-base-dock-nintendo-switch-funciones-adicionales-frente-original-1049173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jugando-nintendo-switch-2682065.jpg' alt='Cómo elegir la mejor base o dock para Nintendo Switch con funciones adicionales frente a la original' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773'>Los lenguajes de programación más complicados de aprender que casi todo el mundo evita</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/lenguajes-programacion-complicados-aprender-casi-todo-mundo-evita-1081773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/programador-enfadado-2738769.jpg' alt='Los lenguajes de programación más complicados de aprender que casi todo el mundo evita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621'>Los mejores y peores aperitivos para comer en los viajes largos, según los médicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-peores-aperitivos-comer-viajes-largos-1100621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-peores-aperitivos-comer-viajes-largos-ciencia-2771245.jpg' alt='Los mejores y peores aperitivos para comer en los viajes largos, según los médicos' />
     </a>
 </div>
 
