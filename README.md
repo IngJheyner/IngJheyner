@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975'>Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aun-guardas-monedas-5-pesetas-casa-estas-cuatro-valen-40000-euros-2772043.jpg' alt='Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971'>Esta empresa quiere crear su propio parque jurásico pero con mamuts</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mamuts-2772037.jpg' alt='Esta empresa quiere crear su propio parque jurásico pero con mamuts' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967'>Estas son las frases con las que más se liga en Tinder</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-personas-tomandose-cafe-2772029.jpg' alt='Estas son las frases con las que más se liga en Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911'>Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754931.jpg' alt='Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951'>El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/blonde-pelicula-netflix-marylin-monroe-ana-armas-1100959'>Así será la Marilyn Monroe de Ana de Armas que llegará a Netflix con la película Blonde</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/blonde-pelicula-netflix-marylin-monroe-ana-armas-1100959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659030819336-2772021.jpg' alt='Así será la Marilyn Monroe de Ana de Armas que llegará a Netflix con la película Blonde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931'>Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-apple-music-tendran-competencia-muy-pronto-llegaria-mano-tiktok-1100931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='Spotify y Apple Music tendrán competencia muy pronto y llegaría de la mano de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781'>Cómo saber y comprobar si estás de baja médica en la Seguridad Social</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-comprobar-estas-baja-medica-seguridad-social-1100781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/seguridad-social-2219279.jpg' alt='Cómo saber y comprobar si estás de baja médica en la Seguridad Social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923'>Google quiere acabar con los enlaces a pantalla completa en las aplicaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-acabar-enlaces-pantalla-completa-aplicaciones-1100923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Google quiere acabar con los enlaces a pantalla completa en las aplicaciones' />
     </a>
 </div>
 
