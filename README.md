@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973'>El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-2772039.jpg' alt='El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975'>Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aun-guardas-monedas-5-pesetas-casa-estas-cuatro-valen-40000-euros-2772043.jpg' alt='Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911'>Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-huawei-freebuds-pro-2-oferta-1100911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754931.jpg' alt='Pásate al sonido de alta fidelidad con los auriculares Huawei FreeBuds Pro 2, acaban de salir y están en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951'>El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mix-fold-2-presentara-agosto-todo-sabemos-acerca-movil-plegable-1100951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='El Xiaomi Mix Fold 2 se presentará en agosto y esto es todo lo que sabemos acerca de este móvil plegable' />
     </a>
 </div>
 
