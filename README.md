@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213'>Cómo conseguir que el hielo dure más tiempo al aire libre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-conseguir-hielo-dure-tiempo-aire-libre-2772277.jpg' alt='Cómo conseguir que el hielo dure más tiempo al aire libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lapiz-infinito-aeon-nunca-se-gasta-1101211'>El lápiz infinito que nunca se gasta</a></h4>
     <a href='https://computerhoy.com/noticias/life/lapiz-infinito-aeon-nunca-se-gasta-1101211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659051931402-2772275.jpg' alt='El lápiz infinito que nunca se gasta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975'>Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aun-guardas-monedas-5-pesetas-casa-estas-cuatro-valen-40000-euros-2772043.jpg' alt='Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971'>Esta empresa quiere crear su propio parque jurásico pero con mamuts</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mamuts-2772037.jpg' alt='Esta empresa quiere crear su propio parque jurásico pero con mamuts' />
     </a>
 </div>
 
