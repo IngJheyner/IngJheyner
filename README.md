@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239'>Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anade-bluetooth-nokia-5110-hace-25-anos-abre-mundo-posibilidades-2772309.jpg' alt='Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563'>El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mitico-reproductor-musical-winamp-actualiza-4-anos-despues-estas-son-novedades-2773131.jpg' alt='El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/imagenes-prensa-samsung-galaxy-z-flip-4-galaxy-z-fold-4-1101555'>Se filtran las imágenes de prensa de los plegables Samsung Galaxy Z Flip 4 y Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/imagenes-prensa-samsung-galaxy-z-flip-4-galaxy-z-fold-4-1101555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-imagenes-prensa-plegables-samsung-galaxy-z-flip-4-galaxy-z-fold-4-2773001.jpg' alt='Se filtran las imágenes de prensa de los plegables Samsung Galaxy Z Flip 4 y Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-microfono-inalambrico-movil-1068673'>Guía y consejos para comprar un micrófono inalámbrico para el móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-microfono-inalambrico-movil-1068673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movil-microfono-2715361.jpg' alt='Guía y consejos para comprar un micrófono inalámbrico para el móvil' />
     </a>
 </div>
 
