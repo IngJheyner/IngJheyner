@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979'>Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-2021-2557371.jpg' alt='Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-pueblos-te-pagan-dinero-te-vayas-vivir-alli-1101541'>Estos pueblos te pagan dinero para que te vayas a vivir allí</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-pueblos-te-pagan-dinero-te-vayas-vivir-alli-1101541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pueblo-2772979.jpg' alt='Estos pueblos te pagan dinero para que te vayas a vivir allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-monitor-curvo-jugar-trabajar-ventajas-diferencias-monitores-planos-1064441'>Guía para comprar un monitor curvo para jugar o trabajar: ventajas y diferencias con los monitores planos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-monitor-curvo-jugar-trabajar-ventajas-diferencias-monitores-planos-1064441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/monitor-curvo-2708447.jpg' alt='Guía para comprar un monitor curvo para jugar o trabajar: ventajas y diferencias con los monitores planos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519'>Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/will-smith-sube-video-youtube-hablar-bofeton-chris-rock-responde-preguntas-fans-2772899.jpg' alt='Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725'>Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sistema-alarma-ring-alarm-amazon-2772391.jpg' alt='Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2770797.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-1101435'>Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: El Grinch, una sicaria que busca venganza y la falsedad de las redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-1101435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-2772643.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: El Grinch, una sicaria que busca venganza y la falsedad de las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465'>Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-2763193.jpg' alt='Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil' />
     </a>
 </div>
 
