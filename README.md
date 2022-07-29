@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547'>Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-2772989.jpg' alt='Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979'>Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-2021-2557371.jpg' alt='Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519'>Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/will-smith-sube-video-youtube-hablar-bofeton-chris-rock-responde-preguntas-fans-2772899.jpg' alt='Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725'>Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sistema-alarma-ring-alarm-amazon-2772391.jpg' alt='Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones' />
     </a>
 </div>
 
