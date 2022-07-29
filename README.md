@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2770797.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-1101435'>Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: El Grinch, una sicaria que busca venganza y la falsedad de las redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-1101435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/peliculas-ver-fin-semana-netflix-disney-prime-video-grinch-sicaria-busca-venganza-falsedad-redes-sociales-2772643.jpg' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: El Grinch, una sicaria que busca venganza y la falsedad de las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465'>Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-2763193.jpg' alt='Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381'>A qué edad puede dejar un niños de usar silla en el coche</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/silla-coche-2772551.jpg' alt='A qué edad puede dejar un niños de usar silla en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-estos-populares-tipos-video-tiktok-1097819'>Cómo hacer estos populares tipos de vídeo en TikTok</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-estos-populares-tipos-video-tiktok-1097819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Cómo hacer estos populares tipos de vídeo en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bicicaravana-caravana-individual-tirada-bicicleta-electrica-1101391'>La bicicaravana, una caravana individual tirada por una bicicleta eléctrica </a></h4>
-    <a href='https://computerhoy.com/noticias/life/bicicaravana-caravana-individual-tirada-bicicleta-electrica-1101391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bicicaravana-caravana-individual-tirada-bicicleta-electrica-2772561.jpg' alt='La bicicaravana, una caravana individual tirada por una bicicleta eléctrica ' />
     </a>
 </div>
 
