@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465'>Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-2763193.jpg' alt='Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/exprimir-todas-funciones-steam-deck-nada-como-dock-probamos-mejor-valorados-1100961'>Para exprimir todas las funciones de Steam Deck, nada como un dock: probamos uno de los mejor valorados</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/exprimir-todas-funciones-steam-deck-nada-como-dock-probamos-mejor-valorados-1100961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/opinion-dock-jsaux-steam-deck-2769827.jpg' alt='Para exprimir todas las funciones de Steam Deck, nada como un dock: probamos uno de los mejor valorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381'>A qué edad puede dejar un niños de usar silla en el coche</a></h4>
     <a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/silla-coche-2772551.jpg' alt='A qué edad puede dejar un niños de usar silla en el coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/bicicaravana-caravana-individual-tirada-bicicleta-electrica-1101391'>La bicicaravana, una caravana individual tirada por una bicicleta eléctrica </a></h4>
     <a href='https://computerhoy.com/noticias/life/bicicaravana-caravana-individual-tirada-bicicleta-electrica-1101391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bicicaravana-caravana-individual-tirada-bicicleta-electrica-2772561.jpg' alt='La bicicaravana, una caravana individual tirada por una bicicleta eléctrica ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ia-disenada-crear-dibujos-infantiles-siendo-pesadilla-ninos-1100777'>Esta IA diseñada para crear dibujos infantiles está siendo la pesadilla de los niños</a></h4>
-    <a href='https://computerhoy.com/noticias/ia-disenada-crear-dibujos-infantiles-siendo-pesadilla-ninos-1100777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ia-pesadillas-2771495.jpg' alt='Esta IA diseñada para crear dibujos infantiles está siendo la pesadilla de los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743'>Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra' />
     </a>
 </div>
 
