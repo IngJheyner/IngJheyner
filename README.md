@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561'>Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543'>El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-recibe-buen-descuento-2772981.jpg' alt='El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547'>Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-2772989.jpg' alt='Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979'>Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-poner-como-pantalla-bloqueo-kindle-libro-te-estas-leyendo-1088979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/analisis-kindle-paperwhite-2021-2557371.jpg' alt='Cómo poner como pantalla de bloqueo de Kindle el libro que te estás leyendo ' />
     </a>
 </div>
 
