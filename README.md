@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181'>Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-anunciara-novedades-chat-proximas-versiones-1101331'>WhatsApp nos anunciará sus novedades desde un chat en próximas versiones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-anunciara-novedades-chat-proximas-versiones-1101331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='WhatsApp nos anunciará sus novedades desde un chat en próximas versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/linterna-futuro-kickstarter-ajustable-mediante-gestos-puro-estilo-jedi-1101353'>La linterna del futuro en Kickstarter, ajustable mediante gestos al más puro estilo Jedi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/linterna-futuro-kickstarter-ajustable-mediante-gestos-puro-estilo-jedi-1101353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/linterna-led-2772547.jpg' alt='La linterna del futuro en Kickstarter, ajustable mediante gestos al más puro estilo Jedi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327'>Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/intel-optane-ssd-1846503.jpg' alt='Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-da-paso-atras-nuevos-cambios-debido-presion-social-1101299'>Instagram da un paso atrás con los nuevos cambios debido a la presión social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-da-paso-atras-nuevos-cambios-debido-presion-social-1101299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram da un paso atrás con los nuevos cambios debido a la presión social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/segunda-persona-llegar-100-millones-suscriptores-youtube-11-anos-subiendo-videos-1101293'>La segunda persona en llegar a 100 millones de suscriptores en YouTube, 11 años subiendo vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/segunda-persona-llegar-100-millones-suscriptores-youtube-11-anos-subiendo-videos-1101293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mrbeast-2772425.jpg' alt='La segunda persona en llegar a 100 millones de suscriptores en YouTube, 11 años subiendo vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/plan-nasa-traer-rocas-marcianas-tierra-helicopteros-espaciales-1100841'>El plan de la NASA para traer rocas marcianas a la Tierra: helicópteros espaciales</a></h4>
-    <a href='https://computerhoy.com/noticias/plan-nasa-traer-rocas-marcianas-tierra-helicopteros-espaciales-1100841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/marte-nasa-2634091.jpg' alt='El plan de la NASA para traer rocas marcianas a la Tierra: helicópteros espaciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suscripcion-azul-twitter-vuelve-aun-cara-1101281'>La suscripción azul de Twitter se vuelve aún más cara</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suscripcion-azul-twitter-vuelve-aun-cara-1101281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='La suscripción azul de Twitter se vuelve aún más cara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-50a7100f-oferta-29-julio-2022-1100715'>Televisor 4K de 50" a precio de chollo, por menos de 300 euros: corre, se va a agotar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hisense-50a7100f-oferta-29-julio-2022-1100715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-50a7100f-2771369.jpg' alt='Televisor 4K de 50" a precio de chollo, por menos de 300 euros: corre, se va a agotar' />
     </a>
 </div>
 
