@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563'>El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mitico-reproductor-musical-winamp-actualiza-4-anos-despues-estas-son-novedades-2773131.jpg' alt='El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561'>Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-microfono-inalambrico-movil-1068673'>Guía y consejos para comprar un micrófono inalámbrico para el móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-microfono-inalambrico-movil-1068673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/movil-microfono-2715361.jpg' alt='Guía y consejos para comprar un micrófono inalámbrico para el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547'>Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-1101547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-crean-robot-tan-preciso-puede-vencer-mayoria-humanos-jenga-2772989.jpg' alt='Científicos crean un robot tan preciso que puede vencer a la mayoría de los humanos en el Jenga' />
     </a>
 </div>
 
