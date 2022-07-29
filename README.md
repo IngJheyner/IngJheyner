@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1101215'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1101215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2772279.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/ofertas-ikea-rebaja-precio-incluida-1100801'>15 ofertas de IKEA para tu casa con rebaja de precio incluida</a></h4>
+    <a href='https://computerhoy.com/listas/life/ofertas-ikea-rebaja-precio-incluida-1100801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/salon-decorado-muebles-ikea-2771617.jpg' alt='15 ofertas de IKEA para tu casa con rebaja de precio incluida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213'>Cómo conseguir que el hielo dure más tiempo al aire libre</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-conseguir-hielo-dure-tiempo-aire-libre-2772277.jpg' alt='Cómo conseguir que el hielo dure más tiempo al aire libre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981'> AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt=' AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973'>El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-1100973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/moto-x30-pro-filtra-imagenes-reales-mostrando-camara-200-megapixeles-2772039.jpg' alt='El Moto X30 Pro se filtra en imágenes reales mostrando su cámara de 200 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975'>Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/monedas-5-pesetas-valiosas-1100975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aun-guardas-monedas-5-pesetas-casa-estas-cuatro-valen-40000-euros-2772043.jpg' alt='Si aún guardas monedas de 5 pesetas en casa, estas cuatro valen hasta 40.000 euros' />
     </a>
 </div>
 
