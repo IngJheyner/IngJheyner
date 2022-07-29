@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suscripcion-azul-twitter-vuelve-aun-cara-1101281'>La suscripción azul de Twitter se vuelve aún más cara</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suscripcion-azul-twitter-vuelve-aun-cara-1101281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='La suscripción azul de Twitter se vuelve aún más cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hisense-50a7100f-oferta-29-julio-2022-1100715'>Televisor 4K de 50" a precio de chollo, por menos de 300 euros: corre, se va a agotar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hisense-50a7100f-oferta-29-julio-2022-1100715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-50a7100f-2771369.jpg' alt='Televisor 4K de 50" a precio de chollo, por menos de 300 euros: corre, se va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bateria-papel-descubrimiento-biodegradable-reducir-contaminacion-1101257'>Batería de papel, el descubrimiento biodegradable para reducir la contaminación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bateria-papel-descubrimiento-biodegradable-reducir-contaminacion-1101257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/basura-2772343.jpg' alt='Batería de papel, el descubrimiento biodegradable para reducir la contaminación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249'>Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-watch-3-realme-buds-air-3-neo-2772327.jpg' alt='Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-oppo-find-x5-lite-2693669.jpg' alt='Estos son los mejores móviles Oppo que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1101215'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1101215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2772279.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/ofertas-ikea-rebaja-precio-incluida-1100801'>15 ofertas de IKEA para tu casa con rebaja de precio incluida</a></h4>
-    <a href='https://computerhoy.com/listas/life/ofertas-ikea-rebaja-precio-incluida-1100801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/salon-decorado-muebles-ikea-2771617.jpg' alt='15 ofertas de IKEA para tu casa con rebaja de precio incluida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213'>Cómo conseguir que el hielo dure más tiempo al aire libre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-conseguir-hielo-dure-mas-tiempo-aire-libre-1101213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/como-conseguir-hielo-dure-tiempo-aire-libre-2772277.jpg' alt='Cómo conseguir que el hielo dure más tiempo al aire libre' />
     </a>
 </div>
 
