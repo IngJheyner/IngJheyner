@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lapiz-infinito-aeon-nunca-se-gasta-1101211'>El lápiz infinito que nunca se gasta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lapiz-infinito-aeon-nunca-se-gasta-1101211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659051931402-2772275.jpg' alt='El lápiz infinito que nunca se gasta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981'> AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amd-revela-procesadores-ryzen9-7950x-7900x-ryzen7-7700x-ryzen5-5600x-sobremesa-1100981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt=' AMD revela accidentalmente 4 procesadores de la nueva generación Ryzen 7000 de sobremesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971'>Esta empresa quiere crear su propio parque jurásico pero con mamuts</a></h4>
     <a href='https://computerhoy.com/noticias/life/empresa-quiere-crear-propio-parque-jurasico-pero-mamuts-1100971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mamuts-2772037.jpg' alt='Esta empresa quiere crear su propio parque jurásico pero con mamuts' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967'>Estas son las frases con las que más se liga en Tinder</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-frases-liga-tinder-1100967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-personas-tomandose-cafe-2772029.jpg' alt='Estas son las frases con las que más se liga en Tinder' />
     </a>
 </div>
 
