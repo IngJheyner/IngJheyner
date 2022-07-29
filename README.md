@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381'>A qué edad puede dejar un niños de usar silla en el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/silla-coche-2772551.jpg' alt='A qué edad puede dejar un niños de usar silla en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-estos-populares-tipos-video-tiktok-1097819'>Cómo hacer estos populares tipos de vídeo en TikTok</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-estos-populares-tipos-video-tiktok-1097819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Cómo hacer estos populares tipos de vídeo en TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743'>Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/amazon-fire-tv'>¿Cuál es el mejor Amazon Fire TV en 2022 para ti? Modelos, diferencias y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/amazon-fire-tv' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='¿Cuál es el mejor Amazon Fire TV en 2022 para ti? Modelos, diferencias y todo lo que debes saber' />
     </a>
 </div>
 
