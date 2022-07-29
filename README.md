@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-reparacion-moviles-samsung-utilizarlo-1101365'>El Modo Reparación de los móviles Samsung, qué es y para qué utilizarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-reparacion-moviles-samsung-utilizarlo-1101365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741201.jpg' alt='El Modo Reparación de los móviles Samsung, qué es y para qué utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181'>Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327'>Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/intel-optane-ssd-1846503.jpg' alt='Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-da-paso-atras-nuevos-cambios-debido-presion-social-1101299'>Instagram da un paso atrás con los nuevos cambios debido a la presión social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-da-paso-atras-nuevos-cambios-debido-presion-social-1101299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Instagram da un paso atrás con los nuevos cambios debido a la presión social' />
     </a>
 </div>
 
