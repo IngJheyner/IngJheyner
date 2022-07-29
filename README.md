@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743'>Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-scale-3-pro-oferta-29-julio-2022-1100743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/huawei-scale-3-pro-2536639.jpg' alt='Esta báscula inteligente es una de las más precisas: tiene WiFi y mide el porcentaje de grasa como ninguna otra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/amazon-fire-tv'>¿Cuál es el mejor Amazon Fire TV en 2022 para ti? Modelos, diferencias y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/amazon-fire-tv' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg' alt='¿Cuál es el mejor Amazon Fire TV en 2022 para ti? Modelos, diferencias y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ya-hemos-consumido-da-tierra-forma-natural-ano-pese-estar-julio-1101415'>Ya hemos consumido lo que da la Tierra de forma natural en un año... pese a estar en julio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-hemos-consumido-da-tierra-forma-natural-ano-pese-estar-julio-1101415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tierra-2747103.jpg' alt='Ya hemos consumido lo que da la Tierra de forma natural en un año... pese a estar en julio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-reparacion-moviles-samsung-utilizarlo-1101365'>El Modo Reparación de los móviles Samsung, qué es y para qué utilizarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/modo-reparacion-moviles-samsung-utilizarlo-1101365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741201.jpg' alt='El Modo Reparación de los móviles Samsung, qué es y para qué utilizarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181'>Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesador-amd-ryzen-7-5700x-oferta-29-julio-2022-1100181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amd-ryzen-5000-series-2631283.jpg' alt='Dale potencia a tu PC ahorrando con el Ryzen 7 5700X que ahora tiene un precio irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-anunciara-novedades-chat-proximas-versiones-1101331'>WhatsApp nos anunciará sus novedades desde un chat en próximas versiones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-nos-anunciara-novedades-chat-proximas-versiones-1101331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='WhatsApp nos anunciará sus novedades desde un chat en próximas versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/linterna-futuro-kickstarter-ajustable-mediante-gestos-puro-estilo-jedi-1101353'>La linterna del futuro en Kickstarter, ajustable mediante gestos al más puro estilo Jedi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/linterna-futuro-kickstarter-ajustable-mediante-gestos-puro-estilo-jedi-1101353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/linterna-led-2772547.jpg' alt='La linterna del futuro en Kickstarter, ajustable mediante gestos al más puro estilo Jedi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327'>Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/optane-llega-fin-intel-cierra-tecnologias-interesantes-ultima-decada-1101327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/intel-optane-ssd-1846503.jpg' alt='Optane llega a su fin: Intel cierra una de las tecnologías más interesantes de la última década' />
     </a>
 </div>
 
