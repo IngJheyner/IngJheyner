@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519'>Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/will-smith-sube-video-youtube-habla-bofeton-chris-rock-responde-preguntas-fans-1101519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/will-smith-sube-video-youtube-hablar-bofeton-chris-rock-responde-preguntas-fans-2772899.jpg' alt='Will Smith sube un vídeo a YouTube para hablar de su bofetón a Chris Rock, y responde a preguntas de los fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725'>Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-sistemas-alarma-baratos-casa-874725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/sistema-alarma-ring-alarm-amazon-2772391.jpg' alt='Sistemas de alarma baratos para casa que te permitirán irte tranquilo de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-soltero-cavernicola-unas-chicas-1100299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/series-fin-semana-2770797.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un soltero, un cavernícola y unas chicas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465'>Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-1087465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/personaliza-telefono-android-mejores-packs-iconos-cambiar-estilo-movil-2763193.jpg' alt='Personaliza tu teléfono Android: los mejores packs de iconos para cambiar el estilo de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/exprimir-todas-funciones-steam-deck-nada-como-dock-probamos-mejor-valorados-1100961'>Para exprimir todas las funciones de Steam Deck, nada como un dock: probamos uno de los mejor valorados</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/exprimir-todas-funciones-steam-deck-nada-como-dock-probamos-mejor-valorados-1100961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/opinion-dock-jsaux-steam-deck-2769827.jpg' alt='Para exprimir todas las funciones de Steam Deck, nada como un dock: probamos uno de los mejor valorados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381'>A qué edad puede dejar un niños de usar silla en el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/life/edad-puede-dejar-ninos-usar-silla-coche-1101381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/silla-coche-2772551.jpg' alt='A qué edad puede dejar un niños de usar silla en el coche' />
     </a>
 </div>
 
