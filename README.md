@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839'>Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/friends-mix-spotify-2773435.jpg' alt='Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835'>Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-2773431.jpg' alt='Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225'>7 series que son políticas, aunque a primera vista no lo parezcan</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/years-and-years.jpg' alt='7 series que son políticas, aunque a primera vista no lo parezcan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817'>Microsoft prepara una actualización misteriosa para Windows 10</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/actualizacion-windows-10-2344573.jpg' alt='Microsoft prepara una actualización misteriosa para Windows 10' />
     </a>
 </div>
 
