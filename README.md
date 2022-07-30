@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839'>Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/friends-mix-spotify-2773435.jpg' alt='Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827'>Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225'>7 series que son políticas, aunque a primera vista no lo parezcan</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/years-and-years.jpg' alt='7 series que son políticas, aunque a primera vista no lo parezcan' />
     </a>
 </div>
 
