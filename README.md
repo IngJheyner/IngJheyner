@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129'>Xiaomi TV F2 Fire TV de 50”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-tv-f2-analisis-opinion-2771065.jpg' alt='Xiaomi TV F2 Fire TV de 50”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695'>Por espacio y prestaciones, ¿los televisores tienen los días contados?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/lg-c1-oled-48-analisis-opinion-2367487.jpg' alt='Por espacio y prestaciones, ¿los televisores tienen los días contados?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779'>¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo</a></h4>
     <a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mismo-pulga-garrapata-diferencias-debes-conocer-tienes-cuerpo-2773331.jpg' alt='¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663'>Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cofre-techo-coche-2767763.jpg' alt='Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber' />
     </a>
 </div>
 
