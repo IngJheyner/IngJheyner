@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695'>Por espacio y prestaciones, ¿los televisores tienen los días contados?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/lg-c1-oled-48-analisis-opinion-2367487.jpg' alt='Por espacio y prestaciones, ¿los televisores tienen los días contados?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351'>Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mesa-personas-trabajando-portatiles-2772647.jpg' alt='Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663'>Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cofre-techo-coche-2767763.jpg' alt='Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777'>Geminos, los monitores apilables que resuelven un montón de problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659138685340-2773329.jpg' alt='Geminos, los monitores apilables que resuelven un montón de problemas' />
     </a>
 </div>
 
