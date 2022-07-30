@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133'>Cómo crear rutas y mapas personalizados en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/colores-google-maps-trafico-2757217.jpg' alt='Cómo crear rutas y mapas personalizados en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377'>Hace 43 años nacía Apple Lisa, la revolución de la informática personal</a></h4>
     <a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-lisa.jpg' alt='Hace 43 años nacía Apple Lisa, la revolución de la informática personal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351'>Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mesa-personas-trabajando-portatiles-2772647.jpg' alt='Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291'>Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-han-calculado-posibilidad-alguien-muera-porque-cae-basura-espacial-cabeza-muy-alta-2772393.jpg' alt='Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta' />
     </a>
 </div>
 
