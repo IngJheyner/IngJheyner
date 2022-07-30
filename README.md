@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377'>Hace 43 años nacía Apple Lisa, la revolución de la informática personal</a></h4>
+    <a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-lisa.jpg' alt='Hace 43 años nacía Apple Lisa, la revolución de la informática personal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129'>Xiaomi TV F2 Fire TV de 50”, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-tv-f2-analisis-opinion-2771065.jpg' alt='Xiaomi TV F2 Fire TV de 50”, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291'>Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta</a></h4>
     <a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-han-calculado-posibilidad-alguien-muera-porque-cae-basura-espacial-cabeza-muy-alta-2772393.jpg' alt='Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779'>¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mismo-pulga-garrapata-diferencias-debes-conocer-tienes-cuerpo-2773331.jpg' alt='¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo' />
     </a>
 </div>
 
