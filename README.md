@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777'>Geminos, los monitores apilables que resuelven un montón de problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659138685340-2773329.jpg' alt='Geminos, los monitores apilables que resuelven un montón de problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239'>Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anade-bluetooth-nokia-5110-hace-25-anos-abre-mundo-posibilidades-2772309.jpg' alt='Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543'>El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-recibe-buen-descuento-2772981.jpg' alt='El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/imagenes-prensa-samsung-galaxy-z-flip-4-galaxy-z-fold-4-1101555'>Se filtran las imágenes de prensa de los plegables Samsung Galaxy Z Flip 4 y Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/imagenes-prensa-samsung-galaxy-z-flip-4-galaxy-z-fold-4-1101555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/filtran-imagenes-prensa-plegables-samsung-galaxy-z-flip-4-galaxy-z-fold-4-2773001.jpg' alt='Se filtran las imágenes de prensa de los plegables Samsung Galaxy Z Flip 4 y Galaxy Z Fold 4' />
     </a>
 </div>
 
