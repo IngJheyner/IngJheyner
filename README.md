@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831'>Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bolero-coolmarket-4d-454-inox-2773423.jpg' alt='Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827'>Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225'>7 series que son políticas, aunque a primera vista no lo parezcan</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-son-politicas-aunque-primera-vista-no-parezcan-1099225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/years-and-years.jpg' alt='7 series que son políticas, aunque a primera vista no lo parezcan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817'>Microsoft prepara una actualización misteriosa para Windows 10</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/actualizacion-windows-10-2344573.jpg' alt='Microsoft prepara una actualización misteriosa para Windows 10' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-pierde-importante-aplicacion-ultima-actualizacion-1101809'>Android Auto pierde esta importante aplicación tras la última actualización</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-pierde-importante-aplicacion-ultima-actualizacion-1101809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Android Auto pierde esta importante aplicación tras la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/hp-reverb-g2-review-opinion-mejores-sistemas-realidad-mixta-1101451'>HP Reverb G2, análisis y opinión de uno de los mejores sistemas de realidad mixta</a></h4>
-    <a href='https://computerhoy.com/analisis/hp-reverb-g2-review-opinion-mejores-sistemas-realidad-mixta-1101451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-hp-reverb-g2-2772745.jpg' alt='HP Reverb G2, análisis y opinión de uno de los mejores sistemas de realidad mixta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133'>Cómo crear rutas y mapas personalizados en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/colores-google-maps-trafico-2757217.jpg' alt='Cómo crear rutas y mapas personalizados en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377'>Hace 43 años nacía Apple Lisa, la revolución de la informática personal</a></h4>
-    <a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-lisa.jpg' alt='Hace 43 años nacía Apple Lisa, la revolución de la informática personal' />
     </a>
 </div>
 
