@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817'>Microsoft prepara una actualización misteriosa para Windows 10</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-prepara-actualizacion-misteriosa-windows-10-1101817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/actualizacion-windows-10-2344573.jpg' alt='Microsoft prepara una actualización misteriosa para Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-pierde-importante-aplicacion-ultima-actualizacion-1101809'>Android Auto pierde esta importante aplicación tras la última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-pierde-importante-aplicacion-ultima-actualizacion-1101809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Android Auto pierde esta importante aplicación tras la última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/hp-reverb-g2-review-opinion-mejores-sistemas-realidad-mixta-1101451'>HP Reverb G2, análisis y opinión de uno de los mejores sistemas de realidad mixta</a></h4>
+    <a href='https://computerhoy.com/analisis/hp-reverb-g2-review-opinion-mejores-sistemas-realidad-mixta-1101451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-hp-reverb-g2-2772745.jpg' alt='HP Reverb G2, análisis y opinión de uno de los mejores sistemas de realidad mixta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133'>Cómo crear rutas y mapas personalizados en Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-rutas-mapas-personalizados-google-maps-1099133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/colores-google-maps-trafico-2757217.jpg' alt='Cómo crear rutas y mapas personalizados en Google Maps' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377'>Hace 43 años nacía Apple Lisa, la revolución de la informática personal</a></h4>
     <a href='https://computerhoy.com/noticias/hace-43-anos-nacia-apple-lisa-revolucion-informatica-personal-1101377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/apple-lisa.jpg' alt='Hace 43 años nacía Apple Lisa, la revolución de la informática personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129'>Xiaomi TV F2 Fire TV de 50”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/xiaomi-tv-f2-fire-tv-50-review-opinion-1099129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-tv-f2-analisis-opinion-2771065.jpg' alt='Xiaomi TV F2 Fire TV de 50”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695'>Por espacio y prestaciones, ¿los televisores tienen los días contados?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/espacio-prestaciones-televisores-tienen-dias-contados-1099695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/lg-c1-oled-48-analisis-opinion-2367487.jpg' alt='Por espacio y prestaciones, ¿los televisores tienen los días contados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351'>Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/vuelta-cole-2022-productos-comprar-antes-suban-precio-1101351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mesa-personas-trabajando-portatiles-2772647.jpg' alt='Vuelta al cole 2022: productos que deberías comprar ya antes de que suban de precio' />
     </a>
 </div>
 
