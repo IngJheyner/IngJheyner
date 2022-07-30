@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867'>Esta es la razón por la que nunca ganas la lotería</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/loteria-2773501.jpg' alt='Esta es la razón por la que nunca ganas la lotería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831'>Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bolero-coolmarket-4d-454-inox-2773423.jpg' alt='Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827'>Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-aplicaciones-android-te-enganan-robarte-dinero-banco-debes-borrarlas-ya-mismo-1101827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Estas aplicaciones de Android te engañan para robarte el dinero del banco y debes borrarlas ya mismo' />
     </a>
 </div>
 
