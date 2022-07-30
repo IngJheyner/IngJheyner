@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779'>¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mismo-pulga-garrapata-diferencias-debes-conocer-tienes-cuerpo-2773331.jpg' alt='¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663'>Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/maleteros-techo-cofres-coche-tipos-diferencias-consejos-legislacion-todo-debes-saber-1098663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cofre-techo-coche-2767763.jpg' alt='Maleteros de techo o cofres para el coche: tipos, diferencias, consejos, legislación y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777'>Geminos, los monitores apilables que resuelven un montón de problemas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/geminos-monitores-apilables-verticales-1101777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/verticalimage1659138685340-2773329.jpg' alt='Geminos, los monitores apilables que resuelven un montón de problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563'>El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mitico-reproductor-musical-winamp-actualiza-4-anos-despues-estas-son-novedades-2773131.jpg' alt='El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561'>Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-drive-cierra-1101561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/amazon-photos-2323483.jpg' alt='Amazon anuncia el cierre de Amazon Drive, esto es lo que ocurrirá con tus ficheros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543'>El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-descuento-1101543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/portatil-asus-vivobook-15-pantalla-oled-intel-core-i5-12-gb-ram-recibe-buen-descuento-2772981.jpg' alt='El portátil ASUS VivoBook 15 con pantalla OLED, Intel Core i5 y 12 GB de RAM recibe un buen descuento' />
     </a>
 </div>
 
