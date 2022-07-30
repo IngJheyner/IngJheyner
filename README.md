@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291'>Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/probabilidad-muerte-basura-espacial-1101291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/cientificos-han-calculado-posibilidad-alguien-muera-porque-cae-basura-espacial-cabeza-muy-alta-2772393.jpg' alt='Científicos calculan la probabilidad de que alguien muera porque le cae basura espacial en la cabeza... y es bastante alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779'>¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo</a></h4>
     <a href='https://computerhoy.com/noticias/life/diferencias-pulga-garrapata-1101779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mismo-pulga-garrapata-diferencias-debes-conocer-tienes-cuerpo-2773331.jpg' alt='¿Son lo mismo una pulga y una garrapata? Diferencias que debes conocer si tienes una en el cuerpo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239'>Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nokia-5110-hack-bluetooth-1101239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/anade-bluetooth-nokia-5110-hace-25-anos-abre-mundo-posibilidades-2772309.jpg' alt='Añade Bluetooth a un Nokia 5110 de hace 25 años y se abre un mundo de posibilidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563'>El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/winamp-59-rc1-descarga-1101563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mitico-reproductor-musical-winamp-actualiza-4-anos-despues-estas-son-novedades-2773131.jpg' alt='El mítico reproductor musical Winamp se actualiza 4 años después, estas son sus novedades' />
     </a>
 </div>
 
