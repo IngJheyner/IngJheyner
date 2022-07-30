@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875'>Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867'>Esta es la razón por la que nunca ganas la lotería</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/loteria-2773501.jpg' alt='Esta es la razón por la que nunca ganas la lotería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835'>Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-2773431.jpg' alt='Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831'>Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-ahora-tiene-frigorifico-americano-4-puertas-ha-tirado-precio-suelos-1101831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bolero-coolmarket-4d-454-inox-2773423.jpg' alt='Cecotec ahora tiene un frigorífico americano de 4 puertas y ha tirado el precio por los suelos' />
     </a>
 </div>
 
