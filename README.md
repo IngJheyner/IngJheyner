@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759'>Los astronautas no pueden tomar alcohol en el espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/astronautas-no-pueden-tomar-alcohol-espacio-2767933.jpg' alt='Los astronautas no pueden tomar alcohol en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/pildora-emborracha-sin-resaca-ni-efectos-negativos-alcohol-1100327'>Inventan una píldora que emborracha, pero no tiene resaca ni los efectos negativos del alcohol</a></h4>
+    <a href='https://computerhoy.com/noticias/life/pildora-emborracha-sin-resaca-ni-efectos-negativos-alcohol-1100327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inventan-pildora-emborracha-pero-no-tiene-resaca-ni-efectos-secundarios-2770791.jpg' alt='Inventan una píldora que emborracha, pero no tiene resaca ni los efectos negativos del alcohol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951'>En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/japon-venden-pcs-carcasa-monitor-integrado-placa-2752795.jpg' alt='En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383'>Cómo usar tu móvil para dormir mejor generando ruido blanco </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-durmiendo-cama-2615993.jpg' alt='Cómo usar tu móvil para dormir mejor generando ruido blanco ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875'>Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867'>Esta es la razón por la que nunca ganas la lotería</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razon-nunca-ganas-loteria-1101867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/loteria-2773501.jpg' alt='Esta es la razón por la que nunca ganas la lotería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371'>5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-tienen-carga-inalambrica-son-baratos-pensabas-480371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592585.jpg' alt='5 móviles con carga inalámbrica que son mucho más baratos de lo que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839'>Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-ya-te-ofrece-listas-reproduccion-basadas-gustos-musicales-amigos-1101839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/friends-mix-spotify-2773435.jpg' alt='Spotify ya te ofrece listas de reproducción basadas en los gustos musicales de tus amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835'>Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-1101835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/protagonistas-breaking-bad-inmortalizados-dos-estatuas-bronce-ciudad-albuquerque-2773431.jpg' alt='Los protagonistas de Breaking Bad inmortalizados en dos estatuas de bronce en la ciudad de Albuquerque' />
     </a>
 </div>
 
