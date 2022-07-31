@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113'>Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629'>MSI Raider GE76, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-msi-raider-ge76-2769551.jpg' alt='MSI Raider GE76, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897'>Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encendido-ordenador-2714127.jpg' alt='Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883'>Cómo descargar un video de Twitter</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='Cómo descargar un video de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-airpods-pro-2771343.jpg' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
     </a>
 </div>
 
