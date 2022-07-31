@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127'>Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-2773767.jpg' alt='Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-encontrado-senda-exito-ano-despues-abandonar-mercado-telefonos-moviles-1102121'>LG ha encontrado la senda del éxito un año después de abandonar el mercado de los teléfonos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-encontrado-senda-exito-ano-despues-abandonar-mercado-telefonos-moviles-1102121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lg-2773763.jpg' alt='LG ha encontrado la senda del éxito un año después de abandonar el mercado de los teléfonos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-netflix-hbo-max-disney-llegaran-final-ano-1100363'>Las series más esperadas de Netflix, HBO Max y Disney+ que llegarán a final de año</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-netflix-hbo-max-disney-llegaran-final-ano-1100363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='Las series más esperadas de Netflix, HBO Max y Disney+ que llegarán a final de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113'>Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629'>MSI Raider GE76, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-msi-raider-ge76-2769551.jpg' alt='MSI Raider GE76, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897'>Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encendido-ordenador-2714127.jpg' alt='Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053'>¿Qué es Hi-Res Audio ?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hi-res-audio-2771917.jpg' alt='¿Qué es Hi-Res Audio ?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
     </a>
 </div>
 
