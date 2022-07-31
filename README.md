@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-1098291'>Morillas de fuego, las misteriosas setas que solo crecen después de un incendio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-1098291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-2767285.jpg' alt='Morillas de fuego, las misteriosas setas que solo crecen después de un incendio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717'>Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gps-bicleta-2767833.jpg' alt='Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759'>Los astronautas no pueden tomar alcohol en el espacio</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759'>Los astronautas no pueden tomar alcohol en el espacio... pero lo hacen</a></h4>
     <a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/astronautas-no-pueden-tomar-alcohol-espacio-2767933.jpg' alt='Los astronautas no pueden tomar alcohol en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pildora-emborracha-sin-resaca-ni-efectos-negativos-alcohol-1100327'>Inventan una píldora que emborracha, pero no tiene resaca ni los efectos negativos del alcohol</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pildora-emborracha-sin-resaca-ni-efectos-negativos-alcohol-1100327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inventan-pildora-emborracha-pero-no-tiene-resaca-ni-efectos-secundarios-2770791.jpg' alt='Inventan una píldora que emborracha, pero no tiene resaca ni los efectos negativos del alcohol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951'>En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/japon-venden-pcs-carcasa-monitor-integrado-placa-2752795.jpg' alt='En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/astronautas-no-pueden-tomar-alcohol-espacio-2767933.jpg' alt='Los astronautas no pueden tomar alcohol en el espacio... pero lo hacen' />
     </a>
 </div>
 
