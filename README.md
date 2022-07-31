@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131'>Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg' alt='Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127'>Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-2773767.jpg' alt='Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113'>Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629'>MSI Raider GE76, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/msi-raider-ge76-review-opinion-1099629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/review-msi-raider-ge76-2769551.jpg' alt='MSI Raider GE76, análisis y opinión' />
     </a>
 </div>
 
