@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035'>Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/herramientas-windows-11-2707625.jpg' alt='Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759'>Los astronautas no pueden tomar alcohol en el espacio</a></h4>
     <a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/astronautas-no-pueden-tomar-alcohol-espacio-2767933.jpg' alt='Los astronautas no pueden tomar alcohol en el espacio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383'>Cómo usar tu móvil para dormir mejor generando ruido blanco </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-durmiendo-cama-2615993.jpg' alt='Cómo usar tu móvil para dormir mejor generando ruido blanco ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875'>Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-mejora-gestion-aplicaciones-configuracion-windows-11-1101875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Microsoft mejora la gestión de aplicaciones en la configuración de Windows 11' />
     </a>
 </div>
 
