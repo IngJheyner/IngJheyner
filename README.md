@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519639.jpg' alt='Estos son los cinco mejores móviles baratos de Samsung que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883'>Cómo descargar un video de Twitter</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='Cómo descargar un video de Twitter' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-1098291'>Morillas de fuego, las misteriosas setas que solo crecen después de un incendio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-1098291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/morillas-fuego-misteriosas-setas-solo-crecen-despues-incendio-2767285.jpg' alt='Morillas de fuego, las misteriosas setas que solo crecen después de un incendio' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-airpods-pro-2771343.jpg' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717'>Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gps-bicleta-2767833.jpg' alt='Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873'>Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/corazon-rojo-teclado-ordenador-2773511.jpg' alt='Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035'>Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/herramientas-windows-11-2707625.jpg' alt='Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria' />
+    <h4><a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869'>Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/space-perspective-2773505.jpg' alt='Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759'>Los astronautas no pueden tomar alcohol en el espacio... pero lo hacen</a></h4>
-    <a href='https://computerhoy.com/noticias/life/astronautas-no-pueden-tomar-alcohol-espacio-1098759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/astronautas-no-pueden-tomar-alcohol-espacio-2767933.jpg' alt='Los astronautas no pueden tomar alcohol en el espacio... pero lo hacen' />
+    <h4><a href='https://computerhoy.com/reportajes/motor/guia-consejos-sustituir-retrovisor-convencional-inteligente-cientos-funciones-1098691'>Guía y consejos para sustituir tu retrovisor convencional por uno inteligente con cientos de funciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/guia-consejos-sustituir-retrovisor-convencional-inteligente-cientos-funciones-1098691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/retrovisor-pantalla-12-wolfbox-2490281.jpg' alt='Guía y consejos para sustituir tu retrovisor convencional por uno inteligente con cientos de funciones' />
     </a>
 </div>
 
