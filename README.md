@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053'>¿Qué es Hi-Res Audio ?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hi-res-audio-2771917.jpg' alt='¿Qué es Hi-Res Audio ?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873'>Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/corazon-rojo-teclado-ordenador-2773511.jpg' alt='Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869'>Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/space-perspective-2773505.jpg' alt='Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato' />
     </a>
 </div>
 
