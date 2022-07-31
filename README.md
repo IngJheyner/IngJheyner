@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883'>Cómo descargar un video de Twitter</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-video-twitter-1073883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-conseguir-verificacion-twitter-2482077.jpg' alt='Cómo descargar un video de Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869'>Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato</a></h4>
     <a href='https://computerhoy.com/noticias/life/ahora-podras-visitar-espacio-lujosa-capsula-turismo-aunque-no-sera-barato-1101869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/space-perspective-2773505.jpg' alt='Ahora podrás visitar el espacio en una lujosa cápsula para turismo, aunque no será barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/guia-consejos-sustituir-retrovisor-convencional-inteligente-cientos-funciones-1098691'>Guía y consejos para sustituir tu retrovisor convencional por uno inteligente con cientos de funciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/guia-consejos-sustituir-retrovisor-convencional-inteligente-cientos-funciones-1098691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/retrovisor-pantalla-12-wolfbox-2490281.jpg' alt='Guía y consejos para sustituir tu retrovisor convencional por uno inteligente con cientos de funciones' />
     </a>
 </div>
 
