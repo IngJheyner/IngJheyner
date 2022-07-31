@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717'>Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ciclocomputadores-gps-bicicletas-tipos-diferencias-consejos-compra-todo-debes-saber-1098717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/gps-bicleta-2767833.jpg' alt='Ciclocomputadores o GPS para bicicletas: tipos, diferencias, consejos de compra y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035'>Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-herramienta-diagnostico-windows-11-detectar-problemas-memoria-1064035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/herramientas-windows-11-2707625.jpg' alt='Cómo utilizar la herramienta de diagnóstico de Windows 11 para detectar problemas de memoria' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951'>En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/japon-pc-sin-carcasa-monitor-integrado-1089951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/japon-venden-pcs-carcasa-monitor-integrado-placa-2752795.jpg' alt='En Japón venden PCs sin carcasa y con el monitor integrado junto a la placa base y no es una idea tan loca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383'>Cómo usar tu móvil para dormir mejor generando ruido blanco </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-movil-dormir-mejor-generando-ruido-blanco-1101383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mujer-durmiendo-cama-2615993.jpg' alt='Cómo usar tu móvil para dormir mejor generando ruido blanco ' />
     </a>
 </div>
 
