@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181'>Si tienes estos procesadores de Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='Si tienes estos procesadores de Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-agosto-ubisoft-plus-gratis-starcraft-remastered-1102179'>Prime Gaming en agosto: todos los juegos de Ubisoft gratis una semana, Starcraft Remastered para siempre, y otros regalos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/prime-gaming-agosto-ubisoft-plus-gratis-starcraft-remastered-1102179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/prime-gaming-agosto-todos-juegos-ubisoft-gratis-semana-starcraft-remastered-gratis-siempre-otros-regalos-2773865.jpg' alt='Prime Gaming en agosto: todos los juegos de Ubisoft gratis una semana, Starcraft Remastered para siempre, y otros regalos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg' alt='Estas son las mejores tablets baratas de Samsung en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159'>Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal' />
     </a>
 </div>
 
