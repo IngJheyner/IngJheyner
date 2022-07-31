@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897'>Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-anadir-opciones-apagado-reinicio-menus-contextuales-windows-11-1067897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/encendido-ordenador-2714127.jpg' alt='Cómo añadir las opciones de apagado y reinicio a los menús contextuales de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053'>¿Qué es Hi-Res Audio ?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/hi-res-audio-1088053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hi-res-audio-2771917.jpg' alt='¿Qué es Hi-Res Audio ?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219'>Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/clones-chinos-airpods-pro-667219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-airpods-pro-2771343.jpg' alt='Parecen AirPods Pro, pero son muchísimo más baratos: estos clones chinos no superan los 25€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873'>Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tinder-revive-funcion-modo-escritorio-jefes-no-te-pillen-usando-aplicacion-trabajo-1101873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/corazon-rojo-teclado-ordenador-2773511.jpg' alt='Tinder revive la función modo de escritorio para que tus jefes no te pillen usando la aplicación en el trabajo' />
     </a>
 </div>
 
