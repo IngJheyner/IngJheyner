@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159'>Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/senoliticos-eliminan-celulas-zombis-alargar-vida-200-anos-1102141'>Un nuevo medicamento que elimina las células zombis podría alargar la vida hasta los 200 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/senoliticos-eliminan-celulas-zombis-alargar-vida-200-anos-1102141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevo-medicamento-elimina-celulas-zombis-podria-alargar-vida-200-anos-2773777.jpg' alt='Un nuevo medicamento que elimina las células zombis podría alargar la vida hasta los 200 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127'>Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-2773767.jpg' alt='Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ha-encontrado-senda-exito-ano-despues-abandonar-mercado-telefonos-moviles-1102121'>LG ha encontrado la senda del éxito un año después de abandonar el mercado de los teléfonos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ha-encontrado-senda-exito-ano-despues-abandonar-mercado-telefonos-moviles-1102121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/lg-2773763.jpg' alt='LG ha encontrado la senda del éxito un año después de abandonar el mercado de los teléfonos móviles' />
     </a>
 </div>
 
