@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-canal-youtube-1069145'>Cómo personalizar tu canal de YouTube</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-canal-youtube-1069145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg' alt='Cómo personalizar tu canal de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933'>Estas son las mejores tablets baratas de Samsung en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/estas-son-mejores-tablets-baratas-samsung-2022-1006933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/samsung-galaxy-tab-s8-2771303.jpg' alt='Estas son las mejores tablets baratas de Samsung en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159'>Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/google-no-va-cerrar-stadia-1102159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/analisis-google-stadia_12.jpg' alt='Google tiene que aclarar en Twitter que no va a cerrar Stadia... y eso es una mala señal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/razon-asientos-autobuses-son-tan-feos-1102137'>Esta es la razón por la que los asientos de los autobuses son tan feos</a></h4>
     <a href='https://computerhoy.com/noticias/life/razon-asientos-autobuses-son-tan-feos-1102137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/interior-autobus-2773773.jpg' alt='Esta es la razón por la que los asientos de los autobuses son tan feos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131'>Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg' alt='Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127'>Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sumate-moda-tablets-huawei-matepad-pro-oferta-549-euros-lapiz-tactil-incluido-1102127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matepad-pro-2773767.jpg' alt='Súmate a la moda de las tablets con la Huawei MatePad Pro en oferta a 549 euros y con lápiz táctil incluido' />
     </a>
 </div>
 
