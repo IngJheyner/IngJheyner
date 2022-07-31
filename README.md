@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razon-asientos-autobuses-son-tan-feos-1102137'>Esta es la razón por la que los asientos de los autobuses son tan feos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razon-asientos-autobuses-son-tan-feos-1102137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/interior-autobus-2773773.jpg' alt='Esta es la razón por la que los asientos de los autobuses son tan feos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131'>Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión</a></h4>
     <a href='https://computerhoy.com/noticias/life/tesla-punto-lanzar-fotos-clientes-espacio-nueva-mision-1102131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/tesla-roadster.jpg' alt='Tesla está a punto de lanzar fotos de clientes al espacio en esta nueva misión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-netflix-hbo-max-disney-llegaran-final-ano-1100363'>Las series más esperadas de Netflix, HBO Max y Disney+ que llegarán a final de año</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-esperadas-netflix-hbo-max-disney-llegaran-final-ano-1100363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='Las series más esperadas de Netflix, HBO Max y Disney+ que llegarán a final de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113'>Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-anuncios-facebook-te-llevan-instalaciones-malware-1102113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Ahora hasta los anuncios de Facebook te llevan a instalaciones de malware' />
     </a>
 </div>
 
