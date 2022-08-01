@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475'>El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-2774217.jpg' alt='El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/software-mit-predijo-1973-motivos-ano-fin-humanidad-precision-asusta-1102439'>Un software del MIT predijo en 1973 los motivos y el año para el fin de la humanidad y su precisión asusta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/software-mit-predijo-1973-motivos-ano-fin-humanidad-precision-asusta-1102439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fin-mundo-2774153.jpg' alt='Un software del MIT predijo en 1973 los motivos y el año para el fin de la humanidad y su precisión asusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-s1-active-oferta-1-agosto-2022-1102429'>Este reloj deportivo Xiaomi arrasa en ventas: si eres runner seguramente te interesa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-s1-active-oferta-1-agosto-2022-1102429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg' alt='Este reloj deportivo Xiaomi arrasa en ventas: si eres runner seguramente te interesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417'>5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425'>La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guidedoc-plataforma-documentales-espanola-ha-hecho-hueco-streaming-apenas-darnos-cuenta-1102409'>GuideDoc, la plataforma de documentales española que se ha hecho un hueco en el streaming sin apenas darnos cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/guidedoc-plataforma-documentales-espanola-ha-hecho-hueco-streaming-apenas-darnos-cuenta-1102409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/guidedoc-2774123.jpg' alt='GuideDoc, la plataforma de documentales española que se ha hecho un hueco en el streaming sin apenas darnos cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/varios-coches-honda-pueden-ser-hackeados-distancia-supone-grave-problema-seguridad-1102423'>Varios coches de Honda pueden ser hackeados a distancia y esto supone un grave problema de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/varios-coches-honda-pueden-ser-hackeados-distancia-supone-grave-problema-seguridad-1102423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/honda-1962363.jpg' alt='Varios coches de Honda pueden ser hackeados a distancia y esto supone un grave problema de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123'>50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-bicicletas-2651065.jpg' alt='50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina' />
     </a>
 </div>
 
