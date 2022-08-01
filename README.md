@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531'>TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo</a></h4>
+    <a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/criptomonedas-como-ethereum-atraen-dinero-actual-pese-desconfianza-estas-serian-razones-1102491'>Criptomonedas como Ethereum atraen más que el dinero actual pese a la desconfianza y estas serían las razones</a></h4>
+    <a href='https://computerhoy.com/noticias/criptomonedas-como-ethereum-atraen-dinero-actual-pese-desconfianza-estas-serian-razones-1102491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Criptomonedas como Ethereum atraen más que el dinero actual pese a la desconfianza y estas serían las razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515'>Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente</a></h4>
+    <a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-amazon-apple-unen-fuerzas-crear-matter-nuevo-estandar-libre-gratuito-dispositivos-domotica-2334413.jpg' alt='Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/james-webb-podria-haber-captado-fotografia-primera-supernova-imagen-1102485'>James Webb podría haber tomado una fotografía de su primera supernova y esta es la imagen</a></h4>
+    <a href='https://computerhoy.com/noticias/james-webb-podria-haber-captado-fotografia-primera-supernova-imagen-1102485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='James Webb podría haber tomado una fotografía de su primera supernova y esta es la imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475'>El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-2774217.jpg' alt='El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/software-mit-predijo-1973-motivos-ano-fin-humanidad-precision-asusta-1102439'>Un software del MIT predijo en 1973 los motivos y el año para el fin de la humanidad y su precisión asusta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/software-mit-predijo-1973-motivos-ano-fin-humanidad-precision-asusta-1102439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fin-mundo-2774153.jpg' alt='Un software del MIT predijo en 1973 los motivos y el año para el fin de la humanidad y su precisión asusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-s1-active-oferta-1-agosto-2022-1102429'>Este reloj deportivo Xiaomi arrasa en ventas: si eres runner seguramente te interesa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-s1-active-oferta-1-agosto-2022-1102429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg' alt='Este reloj deportivo Xiaomi arrasa en ventas: si eres runner seguramente te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417'>5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425'>La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil' />
     </a>
 </div>
 
