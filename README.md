@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707'>Google elimina una de sus funcionalidades más útiles pero no explica el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-elimina-funcionalidades-utiles-pero-no-explica-motivo-2774769.jpg' alt='Google elimina una de sus funcionalidades más útiles pero no explica el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-android-auto-dejando-fuera-muchos-dispositivos-1102705'>Google actualiza los requisitos mínimos de Android Auto dejando fuera a muchos dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-android-auto-dejando-fuera-muchos-dispositivos-1102705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Google actualiza los requisitos mínimos de Android Auto dejando fuera a muchos dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-1102703'>Encuentra un trozo de basura espacial de SpaceX en la puerta de su casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-1102703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-2774767.jpg' alt='Encuentra un trozo de basura espacial de SpaceX en la puerta de su casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693'>Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681'>Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prime-video-busca-propio-efecto-stranger-things-estreno-nueva-serie-2774713.jpg' alt='Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665'>Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-guarda-bueno-podria-dejar-iphone-14-mejores-pantallas-2774693.jpg' alt='Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785'>Los mejores Mini PC baratos con Windows 10 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Los mejores Mini PC baratos con Windows 10 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599'>Crea la fórmula que necesitas para Excel con esta IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Crea la fórmula que necesitas para Excel con esta IA' />
     </a>
 </div>
 
