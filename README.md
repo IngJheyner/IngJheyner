@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599'>Crea la fórmula que necesitas para Excel con esta IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Crea la fórmula que necesitas para Excel con esta IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453'>Las mejores alternativas a Google News que puedes instalar en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-alternativas-google-news-puedes-instalar-telefono-android-2748985.jpg' alt='Las mejores alternativas a Google News que puedes instalar en tu teléfono Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539'>El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/7-mayores-ataques-ddos-historia-internet_2.jpg' alt='El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb'>Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mtb-electrica-moma-2326491.jpg' alt='Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica' />
     </a>
 </div>
 
