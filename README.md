@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399'>El Pixel 6a tiene un grave problema de seguridad que permitiría a cualquiera acceder al teléfono</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='El Pixel 6a tiene un grave problema de seguridad que permitiría a cualquiera acceder al teléfono' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111'>Estrenamos logo en Computerhoy.com, una década de éxitos de la web que nació para romper barreras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-nueva-portada-2773887.jpg' alt='Estrenamos logo en Computerhoy.com, una década de éxitos de la web que nació para romper barreras' />
     </a>
 </div>
 
@@ -61,6 +61,14 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389'>La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-store-mantenimiento-puede-significar-nuevos-productos-2774091.jpg' alt='La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399'>El Pixel 6a tiene un bug con el que permite ser desbloqueado en ocasiones con cualquier huella dactilar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='El Pixel 6a tiene un bug con el que permite ser desbloqueado en ocasiones con cualquier huella dactilar' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383'>Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891'>Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/padel-2761211.jpg' alt='Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más' />
     </a>
 </div>
 
