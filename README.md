@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417'>5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/5-errores-muy-habituales-aplicacion-netflix-como-puedes-solucionarlos-momento-1102417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='5 errores muy habituales con la aplicación de Netflix, y cómo puedes solucionarlos al momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425'>La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123'>50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-bicicletas-2651065.jpg' alt='50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111'>Estrenamos logo en Computerhoy.com, 10 años de éxitos de la web que nació para romper barreras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-nueva-portada-2773887.jpg' alt='Estrenamos logo en Computerhoy.com, 10 años de éxitos de la web que nació para romper barreras' />
     </a>
 </div>
 
