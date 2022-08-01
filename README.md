@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665'>Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-guarda-bueno-podria-dejar-iphone-14-mejores-pantallas-2774693.jpg' alt='Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785'>Los mejores Mini PC baratos con Windows 10 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/chuwi-corebox-2027061.jpg' alt='Los mejores Mini PC baratos con Windows 10 que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599'>Crea la fórmula que necesitas para Excel con esta IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Crea la fórmula que necesitas para Excel con esta IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551'>Cómo hacer lettering e iniciarse en esta afición</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lettering-2774333.jpg' alt='Cómo hacer lettering e iniciarse en esta afición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/controla-nivel-ph-temperatura-piscina-movil-1102489'>Controla el nivel de pH y temperatura de tu piscina desde el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/controla-nivel-ph-temperatura-piscina-movil-1102489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/controla-nivel-ph-temperatura-piscina-movil-2774441.jpg' alt='Controla el nivel de pH y temperatura de tu piscina desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539'>El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/7-mayores-ataques-ddos-historia-internet_2.jpg' alt='El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior' />
     </a>
 </div>
 
