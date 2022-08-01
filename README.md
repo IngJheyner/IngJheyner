@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111'>Estrenamos logo en Computerhoy.com, una década de éxitos de la web que nació para romper barreras</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425'>La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tierra-bate-record-rotacion-puede-terminar-afectando-incluso-movil-1102425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/quiza-tengamos-retrasar-reloj-segundo-2021-porque-tierra-girando-rapido-nunca-2192329.jpg' alt='La Tierra bate su récord de rotación y puede terminar afectando incluso a tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/guidedoc-plataforma-documentales-espanola-ha-hecho-hueco-streaming-apenas-darnos-cuenta-1102409'>GuideDoc, la plataforma de documentales española que se ha hecho un hueco en el streaming sin apenas darnos cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/guidedoc-plataforma-documentales-espanola-ha-hecho-hueco-streaming-apenas-darnos-cuenta-1102409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/guidedoc-2774123.jpg' alt='GuideDoc, la plataforma de documentales española que se ha hecho un hueco en el streaming sin apenas darnos cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/varios-coches-honda-pueden-ser-hackeados-distancia-supone-grave-problema-seguridad-1102423'>Varios coches de Honda pueden ser hackeados a distancia y esto supone un grave problema de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/varios-coches-honda-pueden-ser-hackeados-distancia-supone-grave-problema-seguridad-1102423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/honda-1962363.jpg' alt='Varios coches de Honda pueden ser hackeados a distancia y esto supone un grave problema de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123'>50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/50-km-autonomia-precio-rompedor-bici-electrica-necesitas-ahorrar-gasolina-1100123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/semaforo-bicicletas-2651065.jpg' alt='50 km de autonomía y precio rompedor: esta bici eléctrica es lo que necesitas para ahorrar en gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111'>Estrenamos logo en Computerhoy.com, 10 años de éxitos de la web que nació para romper barreras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/computerhoycom-estrena-logo-decada-exitos-cabecera-nacio-romper-barreras-1102111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-nueva-portada-2773887.jpg' alt='Estrenamos logo en Computerhoy.com, una década de éxitos de la web que nació para romper barreras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389'>La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-store-mantenimiento-puede-significar-nuevos-productos-2774091.jpg' alt='La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399'>El Pixel 6a tiene un bug con el que permite ser desbloqueado en ocasiones con cualquier huella dactilar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='El Pixel 6a tiene un bug con el que permite ser desbloqueado en ocasiones con cualquier huella dactilar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754917.jpg' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383'>Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-nueva-portada-2773887.jpg' alt='Estrenamos logo en Computerhoy.com, 10 años de éxitos de la web que nació para romper barreras' />
     </a>
 </div>
 
