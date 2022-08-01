@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853'>Gafas inteligentes en 2022: modelos, diferencias y guía de compra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/gafas-inteligentes.jpg' alt='Gafas inteligentes en 2022: modelos, diferencias y guía de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-hacer-capturas-pantalla-jpg-lugar-png-dispositivos-mac-iphone-1081761'>Cómo hacer capturas de pantalla en JPG en lugar de PNG en dispositivos Mac y iPhone</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-hacer-capturas-pantalla-jpg-lugar-png-dispositivos-mac-iphone-1081761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/captura-iphone-13-pro-max-2738713.jpg' alt='Cómo hacer capturas de pantalla en JPG en lugar de PNG en dispositivos Mac y iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/comandante-moonikin-campos-maniqui-viajara-luna-zohar-helga-1102173'>El comandante Moonikin Campos, el maniquí que viajará a la Luna en agosto, ya espera a Zohar y Helga</a></h4>
     <a href='https://computerhoy.com/noticias/life/comandante-moonikin-campos-maniqui-viajara-luna-zohar-helga-1102173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comandante-moonikin-campos-maniqui-viajara-luna-mes-viene-ya-dentro-modulo-espacial-solo-faltan-zohar-helga-2773843.jpg' alt='El comandante Moonikin Campos, el maniquí que viajará a la Luna en agosto, ya espera a Zohar y Helga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-canal-youtube-1069145'>Cómo personalizar tu canal de YouTube</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-canal-youtube-1069145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/youtube-2716325.jpg' alt='Cómo personalizar tu canal de YouTube' />
     </a>
 </div>
 
