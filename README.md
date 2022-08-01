@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181'>Si tienes estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181'>Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='Si tienes estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas' />
     </a>
 </div>
 
