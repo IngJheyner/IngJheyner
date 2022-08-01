@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399'>El Pixel 6a tiene un grave problema de seguridad que permitiría a cualquiera acceder al teléfono</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6a-tiene-grave-problema-seguridad-permitiria-cualquiera-acceder-telefono-1102399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='El Pixel 6a tiene un grave problema de seguridad que permitiría a cualquiera acceder al teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389'>La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-store-mantenimiento-puede-significar-nuevos-productos-no-1102389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-store-mantenimiento-puede-significar-nuevos-productos-2774091.jpg' alt='La Apple Store está en mantenimiento y esto puede significar nuevos productos (o no)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754917.jpg' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891'>Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más</a></h4>
     <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/padel-2761211.jpg' alt='Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2774081.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/philips-essential-airfryer-xl-2773829.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
     </a>
 </div>
 
