@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb'>Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mtb-electrica-moma-2326491.jpg' alt='Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/whatsapp-cifrado-extremo-extremo-evitar-peticiones-informacion-gobiernos-como-configurarlo-1102507'>WhatsApp y el cifrado de extremo a extremo para evitar las peticiones de información de gobiernos: cómo configurarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/whatsapp-cifrado-extremo-extremo-evitar-peticiones-informacion-gobiernos-como-configurarlo-1102507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='WhatsApp y el cifrado de extremo a extremo para evitar las peticiones de información de gobiernos: cómo configurarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531'>TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo</a></h4>
     <a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515'>Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente</a></h4>
     <a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-amazon-apple-unen-fuerzas-crear-matter-nuevo-estandar-libre-gratuito-dispositivos-domotica-2334413.jpg' alt='Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/james-webb-podria-haber-captado-fotografia-primera-supernova-imagen-1102485'>James Webb podría haber tomado una fotografía de su primera supernova y esta es la imagen</a></h4>
-    <a href='https://computerhoy.com/noticias/james-webb-podria-haber-captado-fotografia-primera-supernova-imagen-1102485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='James Webb podría haber tomado una fotografía de su primera supernova y esta es la imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475'>El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-1102475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/diseno-samsung-galaxy-watch-5-watch-5-pro-filtra-completo-antes-lanzamiento-2774217.jpg' alt='El diseño del Samsung Galaxy Watch 5 y Watch 5 Pro se filtra al completo antes de su lanzamiento' />
     </a>
 </div>
 
