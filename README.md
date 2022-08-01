@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551'>Cómo hacer lettering e iniciarse en esta afición</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lettering-2774333.jpg' alt='Cómo hacer lettering e iniciarse en esta afición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/controla-nivel-ph-temperatura-piscina-movil-1102489'>Controla el nivel de pH y temperatura de tu piscina desde el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/controla-nivel-ph-temperatura-piscina-movil-1102489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/controla-nivel-ph-temperatura-piscina-movil-2774441.jpg' alt='Controla el nivel de pH y temperatura de tu piscina desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539'>El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ataque-ddos-grande-historia-fue-semana-pasada-superando-20-anterior-1102539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/7-mayores-ataques-ddos-historia-internet_2.jpg' alt='El ataque DDoS más grande de la historia ocurrió la semana pasada, superando un 20% el anterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb'>Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica</a></h4>
     <a href='https://computerhoy.com/guia-compra/bicicleta-electrica-mtb' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mtb-electrica-moma-2326491.jpg' alt='Consejos y guía para comprar una bicicleta de montaña (MTB) eléctrica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/whatsapp-cifrado-extremo-extremo-evitar-peticiones-informacion-gobiernos-como-configurarlo-1102507'>WhatsApp y el cifrado de extremo a extremo para evitar las peticiones de información de gobiernos: cómo configurarlo</a></h4>
     <a href='https://computerhoy.com/noticias/whatsapp-cifrado-extremo-extremo-evitar-peticiones-informacion-gobiernos-como-configurarlo-1102507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='WhatsApp y el cifrado de extremo a extremo para evitar las peticiones de información de gobiernos: cómo configurarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531'>TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo</a></h4>
-    <a href='https://computerhoy.com/noticias/tiktok-tambien-va-lanzar-minijuegos-app-compania-china-va-todo-1102531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tiktok-verificado-2696495.jpg' alt='TikTok también va a lanzar minijuegos en la app, la compañía china va a por todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/criptomonedas-como-ethereum-atraen-dinero-actual-pese-desconfianza-estas-serian-razones-1102491'>Criptomonedas como Ethereum atraen más que el dinero actual pese a la desconfianza y estas serían las razones</a></h4>
-    <a href='https://computerhoy.com/noticias/criptomonedas-como-ethereum-atraen-dinero-actual-pese-desconfianza-estas-serian-razones-1102491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Criptomonedas como Ethereum atraen más que el dinero actual pese a la desconfianza y estas serían las razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515'>Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente</a></h4>
-    <a href='https://computerhoy.com/noticias/matter-avanza-como-estandar-unificara-todos-dispositivos-casa-inteligente-1102515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/google-amazon-apple-unen-fuerzas-crear-matter-nuevo-estandar-libre-gratuito-dispositivos-domotica-2334413.jpg' alt='Matter avanza como el estándar que unificará todos los dispositivos de tu casa inteligente' />
     </a>
 </div>
 
