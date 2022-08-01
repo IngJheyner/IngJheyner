@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2774081.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/philips-essential-airfryer-xl-2773829.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853'>Gafas inteligentes en 2022: modelos, diferencias y guía de compra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/gafas-inteligentes.jpg' alt='Gafas inteligentes en 2022: modelos, diferencias y guía de compra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181'>Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-agosto-ubisoft-plus-gratis-starcraft-remastered-1102179'>Prime Gaming en agosto: todos los juegos de Ubisoft gratis una semana, Starcraft Remastered para siempre, y otros regalos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/prime-gaming-agosto-ubisoft-plus-gratis-starcraft-remastered-1102179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/prime-gaming-agosto-todos-juegos-ubisoft-gratis-semana-starcraft-remastered-gratis-siempre-otros-regalos-2773865.jpg' alt='Prime Gaming en agosto: todos los juegos de Ubisoft gratis una semana, Starcraft Remastered para siempre, y otros regalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/comandante-moonikin-campos-maniqui-viajara-luna-zohar-helga-1102173'>El comandante Moonikin Campos, el maniquí que viajará a la Luna en agosto, ya espera a Zohar y Helga</a></h4>
-    <a href='https://computerhoy.com/noticias/life/comandante-moonikin-campos-maniqui-viajara-luna-zohar-helga-1102173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comandante-moonikin-campos-maniqui-viajara-luna-mes-viene-ya-dentro-modulo-espacial-solo-faltan-zohar-helga-2773843.jpg' alt='El comandante Moonikin Campos, el maniquí que viajará a la Luna en agosto, ya espera a Zohar y Helga' />
     </a>
 </div>
 
