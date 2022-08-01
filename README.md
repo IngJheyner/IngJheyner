@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693'>Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681'>Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prime-video-busca-propio-efecto-stranger-things-estreno-nueva-serie-2774713.jpg' alt='Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599'>Crea la fórmula que necesitas para Excel con esta IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/crea-formula-necesitas-excel-ia-1102599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Crea la fórmula que necesitas para Excel con esta IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453'>Las mejores alternativas a Google News que puedes instalar en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-alternativas-google-news-puedes-instalar-telefono-android-2748985.jpg' alt='Las mejores alternativas a Google News que puedes instalar en tu teléfono Android' />
     </a>
 </div>
 
