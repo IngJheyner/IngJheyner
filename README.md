@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715'>Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659388043941-2774781.jpg' alt='Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707'>Google elimina una de sus funcionalidades más útiles pero no explica el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-elimina-funcionalidades-utiles-pero-no-explica-motivo-2774769.jpg' alt='Google elimina una de sus funcionalidades más útiles pero no explica el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693'>Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681'>Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prime-video-busca-propio-efecto-stranger-things-estreno-nueva-serie-2774713.jpg' alt='Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie' />
     </a>
 </div>
 
