@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>10 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754917.jpg' alt='10 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383'>Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-desvela-paises-solicitan-informacion-usuarios-red-social-1102383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/10-maneras-utilizar-algoritmo-twitter-forma-efectiva-2690991.jpg' alt='Twitter desvela los gobiernos de qué países solicitan más información de los usuarios de la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891'>Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-bote-presurizador-pelotas-tenis-padel-duren-mucho-1094891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/padel-2761211.jpg' alt='Guía y consejos para comprar un bote presurizador para que tus pelotas de tenis y pádel duren mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1102377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2774081.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/philips-essential-airfryer-xl-2773829.jpg' alt='Las mejores freidoras sin aceite que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853'>Gafas inteligentes en 2022: modelos, diferencias y guía de compra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/gafas-inteligentes-2022-modelos-diferencias-guia-compra-1079853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/gafas-inteligentes.jpg' alt='Gafas inteligentes en 2022: modelos, diferencias y guía de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-hacer-capturas-pantalla-jpg-lugar-png-dispositivos-mac-iphone-1081761'>Cómo hacer capturas de pantalla en JPG en lugar de PNG en dispositivos Mac y iPhone</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-hacer-capturas-pantalla-jpg-lugar-png-dispositivos-mac-iphone-1081761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/captura-iphone-13-pro-max-2738713.jpg' alt='Cómo hacer capturas de pantalla en JPG en lugar de PNG en dispositivos Mac y iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181'>Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesadores-intel-core-fin-soporte-gpu-integradas-1102181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-intel-core-2383049.jpg' alt='Si tienes uno de estos procesadores Intel de hasta Décima Generación, se termina el soporte de sus GPU integradas' />
     </a>
 </div>
 
