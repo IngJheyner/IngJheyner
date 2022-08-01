@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681'>Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/paper-girls-prime-video-stranger-things-1102681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prime-video-busca-propio-efecto-stranger-things-estreno-nueva-serie-2774713.jpg' alt='Prime Video busca su propio "efecto Stranger Things" con el estreno de su nueva serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665'>Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-pantallas-oled-iphone-14-1102665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-guarda-bueno-podria-dejar-iphone-14-mejores-pantallas-2774693.jpg' alt='Samsung se guarda lo bueno y podría dejar a los iPhone 14 sin sus mejores pantallas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453'>Las mejores alternativas a Google News que puedes instalar en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-google-news-puedes-instalar-telefono-android-1087453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mejores-alternativas-google-news-puedes-instalar-telefono-android-2748985.jpg' alt='Las mejores alternativas a Google News que puedes instalar en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551'>Cómo hacer lettering e iniciarse en esta afición</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-hacer-lettering-iniciarse-aficion-1102551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lettering-2774333.jpg' alt='Cómo hacer lettering e iniciarse en esta afición' />
     </a>
 </div>
 
