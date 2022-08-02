@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261'>¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-activa-nuevo-modo-pandemia-limita-venta-producto-1103257'>Mercadona activa de nuevo el “modo pandemia” y limita la venta de un producto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-activa-nuevo-modo-pandemia-limita-venta-producto-1103257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2775539.jpg' alt='Mercadona activa de nuevo el “modo pandemia” y limita la venta de un producto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/liga-futbol-laliga-smartbank-prime-video-1103259'>Como predijimos hace meses, la Liga de Fútbol española llega a Prime Video</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/liga-futbol-laliga-smartbank-prime-video-1103259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-predijimos-hace-meses-liga-futbol-espanola-llega-prime-video-2775541.jpg' alt='Como predijimos hace meses, la Liga de Fútbol española llega a Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015'>Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg' alt='Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235'>Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora</a></h4>
     <a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659455213906-2775507.jpg' alt='Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023'>Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-preocupado-movil-2774165.jpg' alt='Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motivo-deberias-dejar-usar-google-chrome-ver-netflix-1102975'>Este es el motivo por el que deberías dejar de usar Google Chrome para ver Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/motivo-deberias-dejar-usar-google-chrome-ver-netflix-1102975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/11-trucos-cuando-entras-netflix-no-sabes-ver-2692465.jpg' alt='Este es el motivo por el que deberías dejar de usar Google Chrome para ver Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-directos-tiktok-1103175'>Cómo hacer directos en TikTok</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-directos-tiktok-1103175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/anciano-tiktok-2567561.jpg' alt='Cómo hacer directos en TikTok' />
     </a>
 </div>
 
