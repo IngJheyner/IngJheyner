@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249'>Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-watch-3-realme-buds-air-3-neo-2772327.jpg' alt='Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/chris-rock-cierra-culebron-respondiendo-no-como-esperas-disculpas-will-smith-suceso-oscar-2022-1102985'>Chris Rock cierra el culebrón respondiendo, no como esperas, a las disculpas Will Smith por la bofetada de los Oscar 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/chris-rock-cierra-culebron-respondiendo-no-como-esperas-disculpas-will-smith-suceso-oscar-2022-1102985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/guantazo-will-smith-chris-rock-oscar-2657931.jpg' alt='Chris Rock cierra el culebrón respondiendo, no como esperas, a las disculpas Will Smith por la bofetada de los Oscar 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961'>¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo</a></h4>
     <a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-2774997.jpg' alt='¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535'>5 cámaras instantáneas baratas para tener al momento las fotos de este verano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-go-2774583.jpg' alt='5 cámaras instantáneas baratas para tener al momento las fotos de este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-habra-esperar-septiembre-conocer-android-13-1102941'>Los últimos rumores apuntan a que habrá que esperar hasta septiembre para conocer a Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-habra-esperar-septiembre-conocer-android-13-1102941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Los últimos rumores apuntan a que habrá que esperar hasta septiembre para conocer a Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1102931'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1102931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2774981.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
