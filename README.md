@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023'>Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-preocupado-movil-2774165.jpg' alt='Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motivo-deberias-dejar-usar-google-chrome-ver-netflix-1102975'>Este es el motivo por el que deberías dejar de usar Google Chrome para ver Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/motivo-deberias-dejar-usar-google-chrome-ver-netflix-1102975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/11-trucos-cuando-entras-netflix-no-sabes-ver-2692465.jpg' alt='Este es el motivo por el que deberías dejar de usar Google Chrome para ver Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095'>Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google</a></h4>
     <a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/asistente-google-2096717.jpg' alt='Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
     </a>
 </div>
 
