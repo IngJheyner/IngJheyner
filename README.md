@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289'>El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283'>Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659466074827-2775569.jpg' alt='Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/liga-futbol-laliga-smartbank-prime-video-1103259'>Como predijimos hace meses, la Liga de Fútbol española llega a Prime Video</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/liga-futbol-laliga-smartbank-prime-video-1103259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-predijimos-hace-meses-liga-futbol-espanola-llega-prime-video-2775541.jpg' alt='Como predijimos hace meses, la Liga de Fútbol española llega a Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015'>Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg' alt='Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta' />
     </a>
 </div>
 
