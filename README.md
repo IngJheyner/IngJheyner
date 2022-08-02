@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-primer-unboxing-oneplus-10t-desvelando-completo-diseno-dia-antes-presentacion-1103111'>El OnePlus 10T ya no tiene secretos: se filtra un vídeo desvelando su diseño un día antes de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-primer-unboxing-oneplus-10t-desvelando-completo-diseno-dia-antes-presentacion-1103111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-ya-no-tiene-secretos-filtra-video-desvelando-diseno-dia-antes-lanzamiento-2775277.jpg' alt='El OnePlus 10T ya no tiene secretos: se filtra un vídeo desvelando su diseño un día antes de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nuevo-producto-mercadona-permite-recuperar-esas-prendas-ropa-ya-dabas-perdidas-1103063'>El nuevo producto de Mercadona que permite recuperar esas prendas de ropa que ya dabas por perdidas</a></h4>
+    <a href='https://computerhoy.com/noticias/nuevo-producto-mercadona-permite-recuperar-esas-prendas-ropa-ya-dabas-perdidas-1103063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mercadona-2775105.jpg' alt='El nuevo producto de Mercadona que permite recuperar esas prendas de ropa que ya dabas por perdidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043'>El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones' />
@@ -60,7 +76,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073'>El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse</a></h4>
     <a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/truco-expulsar-agua-iphone-mojado-segundos-2677193.jpg' alt='El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379'>Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado</a></h4>
     <a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tabla-paddle-surf-hinchable-iniciacion-compacto-s-2772549.jpg' alt='Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/estas-son-medidas-impuestas-gobierno-espana-ahorro-energetico-1103033'>Las medidas impuestas por el Gobierno de España para el ahorro energético</a></h4>
-    <a href='https://computerhoy.com/noticias/estas-son-medidas-impuestas-gobierno-espana-ahorro-energetico-1103033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pedro-sanchez-presidente-gobierno-2600599.jpg' alt='Las medidas impuestas por el Gobierno de España para el ahorro energético' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-denuncia-no-poder-comprar-iphone-violacion-derechos-humanos-1103039'>Apple denuncia que no poder comprar un iPhone es una violación de los derechos humanos</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-denuncia-no-poder-comprar-iphone-violacion-derechos-humanos-1103039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Apple denuncia que no poder comprar un iPhone es una violación de los derechos humanos' />
     </a>
 </div>
 
