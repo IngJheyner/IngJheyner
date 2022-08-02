@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dieta-antiinflamatoria-1102717'>Dieta antiinflamatoria: la dieta de moda que cuenta con el aprobado de la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dieta-antiinflamatoria-1102717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dieta-antiinflamatoria-dieta-moda-cuenta-aprobado-ocu-2774783.jpg' alt='Dieta antiinflamatoria: la dieta de moda que cuenta con el aprobado de la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715'>Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659388043941-2774781.jpg' alt='Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-1102703'>Encuentra un trozo de basura espacial de SpaceX en la puerta de su casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-1102703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/encuentra-trozo-basura-espacial-elon-musk-puerta-casa-2774767.jpg' alt='Encuentra un trozo de basura espacial de SpaceX en la puerta de su casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693'>Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-macbook-pro-m2-descuento-1102693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nuevo-macbook-pro-procesador-apple-m2-vuelve-romper-todos-registros-rendimiento-2723251.jpg' alt='Con el MacBook Pro con M2, un pequeño descuento es mucho: llévatelo con una rebaja del 9%' />
     </a>
 </div>
 
