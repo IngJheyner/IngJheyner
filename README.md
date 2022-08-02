@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283'>Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659466074827-2775569.jpg' alt='Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261'>¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015'>Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg' alt='Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235'>Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659455213906-2775507.jpg' alt='Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora' />
     </a>
 </div>
 
