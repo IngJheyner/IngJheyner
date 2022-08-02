@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosos-desconocido-creador-shiba-inu-podria-estar-vuelta-nuevo-proyecto-1103025'>El misterioso y desconocido creador Shiba Inu podría estar de vuelta con un nuevo proyecto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/misteriosos-desconocido-creador-shiba-inu-podria-estar-vuelta-nuevo-proyecto-1103025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='El misterioso y desconocido creador Shiba Inu podría estar de vuelta con un nuevo proyecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-poder-administradores-grupos-nueva-gestion-almacenamiento-1102987'>WhatsApp quiere más poder para los administradores de grupos y una nueva gestión del almacenamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-poder-administradores-grupos-nueva-gestion-almacenamiento-1102987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp quiere más poder para los administradores de grupos y una nueva gestión del almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm5-oferta-2-julio-2022-1102979'>Los Sony WH-1000XM5 son la referencia en auriculares y ya bajan de precio tras su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm5-oferta-2-julio-2022-1102979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg' alt='Los Sony WH-1000XM5 son la referencia en auriculares y ya bajan de precio tras su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/situaciones-bicicleta-tiene-prioridad-podrias-ser-multado-dgt-1103021'>Situaciones en las que la bicicleta tiene prioridad y podrías ser multado por la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/situaciones-bicicleta-tiene-prioridad-podrias-ser-multado-dgt-1103021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bicicleta-ciudad-acera-2746523.jpg' alt='Situaciones en las que la bicicleta tiene prioridad y podrías ser multado por la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249'>Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-realme-watch-3-buds-air-3-neo-wearables-precio-derribo-1101249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-watch-3-realme-buds-air-3-neo-2772327.jpg' alt='Así son los realme Watch 3 y Buds Air 3 Neo: wearables a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/chris-rock-cierra-culebron-respondiendo-no-como-esperas-disculpas-will-smith-suceso-oscar-2022-1102985'>Chris Rock cierra el culebrón respondiendo, no como esperas, a las disculpas Will Smith por la bofetada de los Oscar 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/chris-rock-cierra-culebron-respondiendo-no-como-esperas-disculpas-will-smith-suceso-oscar-2022-1102985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/guantazo-will-smith-chris-rock-oscar-2657931.jpg' alt='Chris Rock cierra el culebrón respondiendo, no como esperas, a las disculpas Will Smith por la bofetada de los Oscar 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961'>¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo</a></h4>
-    <a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-2774997.jpg' alt='¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tienes-estos-8-macs-te-quedas-soporte-oficial-apple-1102945'>Si tienes uno de estos 8 Macs, te quedas sin soporte oficial de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tienes-estos-8-macs-te-quedas-soporte-oficial-apple-1102945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/macbook-air-chip-m2-2765023.jpg' alt='Si tienes uno de estos 8 Macs, te quedas sin soporte oficial de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535'>5 cámaras instantáneas baratas para tener al momento las fotos de este verano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-go-2774583.jpg' alt='5 cámaras instantáneas baratas para tener al momento las fotos de este verano' />
     </a>
 </div>
 
