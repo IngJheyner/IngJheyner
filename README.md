@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015'>Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-semana-portatil-pccomponentes-1103015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg' alt='Semana del Portátil en PcComponentes: estos son los mejores ordenadores en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235'>Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/transpod-fluxjet-tren-futuro-viaja-1200-km-h-1103235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659455213906-2775507.jpg' alt='Transpod Fluxjet, el tren del futuro que viaja a 1.200 km/h y podría hacer realidad un viaje Madrid - París en una hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023'>Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/ibuprofeno-paracetalmol-aspirina-cual-mejor-analgesico-receta-ocu-1103023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-preocupado-movil-2774165.jpg' alt='Ibuprofeno, paracetalmol o aspirina: cuál es el mejor analgésico sin receta, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-directos-tiktok-1103175'>Cómo hacer directos en TikTok</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-directos-tiktok-1103175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/anciano-tiktok-2567561.jpg' alt='Cómo hacer directos en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/agua-mar-salada-1103151'>¿Por qué el agua del mar es salada?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/agua-mar-salada-1103151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oceano-2365467.jpg' alt='¿Por qué el agua del mar es salada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095'>Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google</a></h4>
-    <a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/asistente-google-2096717.jpg' alt='Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google' />
     </a>
 </div>
 
