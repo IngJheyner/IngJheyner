@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961'>¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo</a></h4>
+    <a href='https://computerhoy.com/noticias/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-1102961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/quieres-participar-juego-calamar-compania-ha-preparado-seis-pruebas-podra-jugar-grupo-2774997.jpg' alt='¿Quieres participar en El juego del calamar? Una compañía ha preparado seis pruebas y se podrá jugar en grupo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tienes-estos-8-macs-te-quedas-soporte-oficial-apple-1102945'>Si tienes uno de estos 8 Macs, te quedas sin soporte oficial de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tienes-estos-8-macs-te-quedas-soporte-oficial-apple-1102945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/macbook-air-chip-m2-2765023.jpg' alt='Si tienes uno de estos 8 Macs, te quedas sin soporte oficial de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535'>5 cámaras instantáneas baratas para tener al momento las fotos de este verano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-instantaneas-baratas-1102535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-go-2774583.jpg' alt='5 cámaras instantáneas baratas para tener al momento las fotos de este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-habra-esperar-septiembre-conocer-android-13-1102941'>Los últimos rumores apuntan a que habrá que esperar hasta septiembre para conocer a Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/ultimos-rumores-apuntan-habra-esperar-septiembre-conocer-android-13-1102941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/filtran-primeras-novedades-android-13-son-muy-interesantes-2569877.jpg' alt='Los últimos rumores apuntan a que habrá que esperar hasta septiembre para conocer a Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1102931'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1102931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2774981.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479'>5 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg' alt='5 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dieta-antiinflamatoria-1102717'>Dieta antiinflamatoria: la dieta de moda que cuenta con el aprobado de la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dieta-antiinflamatoria-1102717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dieta-antiinflamatoria-dieta-moda-cuenta-aprobado-ocu-2774783.jpg' alt='Dieta antiinflamatoria: la dieta de moda que cuenta con el aprobado de la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715'>Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-series-estreno-agosto-netflix-video-1102715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659388043941-2774781.jpg' alt='Las películas y series de estreno en agosto en Netflix, un vistazo rápido en vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707'>Google elimina una de sus funcionalidades más útiles pero no explica el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/buscador-google-elimina-cronometro-temporizador-1102707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-elimina-funcionalidades-utiles-pero-no-explica-motivo-2774769.jpg' alt='Google elimina una de sus funcionalidades más útiles pero no explica el motivo' />
     </a>
 </div>
 
