@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/agua-mar-salada-1103151'>¿Por qué el agua del mar es salada?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/agua-mar-salada-1103151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/oceano-2365467.jpg' alt='¿Por qué el agua del mar es salada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095'>Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google</a></h4>
     <a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-2775145.jpg' alt='Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nuevo-producto-mercadona-permite-recuperar-esas-prendas-ropa-ya-dabas-perdidas-1103063'>El nuevo producto de Mercadona que permite recuperar esas prendas de ropa que ya dabas por perdidas</a></h4>
     <a href='https://computerhoy.com/noticias/nuevo-producto-mercadona-permite-recuperar-esas-prendas-ropa-ya-dabas-perdidas-1103063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mercadona-2775105.jpg' alt='El nuevo producto de Mercadona que permite recuperar esas prendas de ropa que ya dabas por perdidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043'>El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones' />
     </a>
 </div>
 
