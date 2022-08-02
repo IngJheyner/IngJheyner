@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043'>El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073'>El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse</a></h4>
+    <a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tiktok-2686757.jpg' alt='El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379'>Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tabla-paddle-surf-hinchable-iniciacion-compacto-s-2772549.jpg' alt='Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/estas-son-medidas-impuestas-gobierno-espana-ahorro-energetico-1103033'>Las medidas impuestas por el Gobierno de España para el ahorro energético</a></h4>
+    <a href='https://computerhoy.com/noticias/estas-son-medidas-impuestas-gobierno-espana-ahorro-energetico-1103033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pedro-sanchez-presidente-gobierno-2600599.jpg' alt='Las medidas impuestas por el Gobierno de España para el ahorro energético' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/apple-denuncia-no-poder-comprar-iphone-violacion-derechos-humanos-1103039'>Apple denuncia que no poder comprar un iPhone es una violación de los derechos humanos</a></h4>
     <a href='https://computerhoy.com/noticias/apple-denuncia-no-poder-comprar-iphone-violacion-derechos-humanos-1103039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Apple denuncia que no poder comprar un iPhone es una violación de los derechos humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/futuro-multitarea-distintos-hz-zona-pantalla-ultima-patente-samsung-1102991'>El futuro multitarea con distintos Hz según la zona de la pantalla, la última patente de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/futuro-multitarea-distintos-hz-zona-pantalla-ultima-patente-samsung-1102991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg' alt='El futuro multitarea con distintos Hz según la zona de la pantalla, la última patente de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosos-desconocido-creador-shiba-inu-podria-estar-vuelta-nuevo-proyecto-1103025'>El misterioso y desconocido creador Shiba Inu podría estar de vuelta con un nuevo proyecto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/misteriosos-desconocido-creador-shiba-inu-podria-estar-vuelta-nuevo-proyecto-1103025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg' alt='El misterioso y desconocido creador Shiba Inu podría estar de vuelta con un nuevo proyecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-poder-administradores-grupos-nueva-gestion-almacenamiento-1102987'>WhatsApp quiere más poder para los administradores de grupos y una nueva gestión del almacenamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-poder-administradores-grupos-nueva-gestion-almacenamiento-1102987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp quiere más poder para los administradores de grupos y una nueva gestión del almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm5-oferta-2-julio-2022-1102979'>Los Sony WH-1000XM5 son la referencia en auriculares y ya bajan de precio tras su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-wh-1000xm5-oferta-2-julio-2022-1102979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg' alt='Los Sony WH-1000XM5 son la referencia en auriculares y ya bajan de precio tras su lanzamiento' />
     </a>
 </div>
 
