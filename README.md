@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095'>Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google</a></h4>
+    <a href='https://computerhoy.com/noticias/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-1103095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/miradas-dicen-todo-como-google-quiere-actives-asistente-siquiera-decir-ok-google-2775145.jpg' alt='Miradas que lo dicen todo o cómo Google quiere que actives su asistente sin siquiera decir OK Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-primer-unboxing-oneplus-10t-desvelando-completo-diseno-dia-antes-presentacion-1103111'>El OnePlus 10T ya no tiene secretos: se filtra un vídeo desvelando su diseño un día antes de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-primer-unboxing-oneplus-10t-desvelando-completo-diseno-dia-antes-presentacion-1103111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-ya-no-tiene-secretos-filtra-video-desvelando-diseno-dia-antes-lanzamiento-2775277.jpg' alt='El OnePlus 10T ya no tiene secretos: se filtra un vídeo desvelando su diseño un día antes de su lanzamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043'>El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-12t-vuelta-esquina-sabemos-nuevas-especificaciones-1103043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='El Xiaomi 12T está a la vuelta de la esquina y sabemos nuevas especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073'>El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse</a></h4>
-    <a href='https://computerhoy.com/noticias/popular-funcional-truco-tiktok-altavoces-movil-vuelvan-sonar-bien-despues-mojarse-1103073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/truco-expulsar-agua-iphone-mojado-segundos-2677193.jpg' alt='El popular y funcional truco de Tiktok para que los altavoces del móvil vuelvan a sonar bien después de mojarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379'>Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/decathlon-tabla-paddle-surf-hinchable-oferta-2-agosto-2022-1101379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tabla-paddle-surf-hinchable-iniciacion-compacto-s-2772549.jpg' alt='Este accesorio de Decathlon te permite practicar el deporte de moda este verano sin gastar demasiado' />
     </a>
 </div>
 
