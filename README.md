@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299'>Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peores-cosas-puedes-hacer-salud-bucal-no-tienen-ver-azucar-2775587.jpg' alt='Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberataque-ruso-ransomware-csic-1103295'>Un ciberataque ruso ha dejado incomunicado al CSIC durante dos semanas, confirma el Ministerio de Ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberataque-ruso-ransomware-csic-1103295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberataque-ruso-ha-dejado-incomunicado-csic-durante-dos-semanas-confirma-ministerio-ciencia-2775585.jpg' alt='Un ciberataque ruso ha dejado incomunicado al CSIC durante dos semanas, confirma el Ministerio de Ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261'>¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-activa-nuevo-modo-pandemia-limita-venta-producto-1103257'>Mercadona activa de nuevo el “modo pandemia” y limita la venta de un producto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-activa-nuevo-modo-pandemia-limita-venta-producto-1103257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2775539.jpg' alt='Mercadona activa de nuevo el “modo pandemia” y limita la venta de un producto' />
     </a>
 </div>
 
