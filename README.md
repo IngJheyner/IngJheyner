@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633'>Cargar el móvil con tu sudor, una realidad cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sudar-sudor-2662587.jpg' alt='Cargar el móvil con tu sudor, una realidad cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/batgirl-desastrosa-pelicula-warner-70-millones-dolares-no-estrenara-1103545'>Batgirl, la desastrosa película Warner de 70 millones de dólares que no se estrenará</a></h4>
+    <a href='https://computerhoy.com/noticias/batgirl-desastrosa-pelicula-warner-70-millones-dolares-no-estrenara-1103545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batgirl-2588607.jpg' alt='Batgirl, la desastrosa película Warner de 70 millones de dólares que no se estrenará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613'>Cómo convertir tu horno convencional en una freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Cómo convertir tu horno convencional en una freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apple-te-da-iphone-pierdes-te-roban-espana-apple-care-contratado-1103661'>Apple te da un iPhone si pierdes o te roban el tuyo en España (si Apple Care contratado)</a></h4>
+    <a href='https://computerhoy.com/noticias/apple-te-da-iphone-pierdes-te-roban-espana-apple-care-contratado-1103661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487565.jpg' alt='Apple te da un iPhone si pierdes o te roban el tuyo en España (si Apple Care contratado)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motivo-siempre-conduzcas-deberias-llevar-crema-solar-expertos-1103659'>Siempre que conduzcas deberías llevar crema solar según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/motivo-siempre-conduzcas-deberias-llevar-crema-solar-expertos-1103659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/5-consejos-ahorrar-gasolina-conducir-coche-2758453.jpg' alt='Siempre que conduzcas deberías llevar crema solar según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/camara-web-4k-emplea-inteligencia-artificial-ajustar-encuadre-mientras-te-mueves-1103579'>Esta cámara web 4K emplea la inteligencia artificial para ajustar el encuadre mientras te mueves</a></h4>
-    <a href='https://computerhoy.com/noticias/camara-web-4k-emplea-inteligencia-artificial-ajustar-encuadre-mientras-te-mueves-1103579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/insta360-link-2775881.jpg' alt='Esta cámara web 4K emplea la inteligencia artificial para ajustar el encuadre mientras te mueves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-5g-oferta-3-agosto-2022-1103565'>El Xiaomi Redmi Note 11 Pro 5G tiene casi 100€ de descuento y cae por debajo de los 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-5g-oferta-3-agosto-2022-1103565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-redmi-note-11-pro-5g-2693461.jpg' alt='El Xiaomi Redmi Note 11 Pro 5G tiene casi 100€ de descuento y cae por debajo de los 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/anos-quejas-starlink-elon-musk-spacex-dejaran-ser-molestia-astronomos-1103599'>Tras años de quejas Starlink de Elon Musk y SpaceX dejarán de ser una molestia para los astrónomos</a></h4>
-    <a href='https://computerhoy.com/noticias/anos-quejas-starlink-elon-musk-spacex-dejaran-ser-molestia-astronomos-1103599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/spacex-muestra-nave-crew-dragon-turistas-sorpresa-punta-cohete-2285233.jpg' alt='Tras años de quejas Starlink de Elon Musk y SpaceX dejarán de ser una molestia para los astrónomos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/camaras-seguridad-wifi-casa-783573'>Cámaras de seguridad WiFi para proteger tu casa: guía de compras para elegir el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/camaras-seguridad-wifi-casa-783573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/camaraseguridad2388805.jpg' alt='Cámaras de seguridad WiFi para proteger tu casa: guía de compras para elegir el mejor modelo' />
     </a>
 </div>
 
