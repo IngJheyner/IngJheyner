@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863'>Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-dos-hacks-geniales-tiktok-te-van-solucionar-vida-comes-fuera-estas-vacaciones-2776713.jpg' alt='Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859'>La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659544345359-2776667.jpg' alt='La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843'>Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?</a></h4>
     <a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gazpacho-2776645.jpg' alt='Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835'>La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conduciendo-2776621.jpg' alt='La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno' />
     </a>
 </div>
 
