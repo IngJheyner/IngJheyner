@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835'>La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conduciendo-2776621.jpg' alt='La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833'>OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg' alt='OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699'>El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen</a></h4>
     <a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg' alt='El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547'>Cómo firmar documentos desde Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/firmas-test-personalidad-2709319.jpg' alt='Cómo firmar documentos desde Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-android-tienes-instalar-sales-pescar-regularmente-1087469'>Las 7 mejores aplicaciones Android que tienes que instalar si sales a pescar regularmente</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-android-tienes-instalar-sales-pescar-regularmente-1087469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/china-hacen-streaming-durante-pesca-venden-pescado-online-mientras-sacan-agua-2442479.jpg' alt='Las 7 mejores aplicaciones Android que tienes que instalar si sales a pescar regularmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723'>Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito' />
     </a>
 </div>
 
