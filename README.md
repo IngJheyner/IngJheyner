@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547'>Cómo firmar documentos desde Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/firmas-test-personalidad-2709319.jpg' alt='Cómo firmar documentos desde Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-android-tienes-instalar-sales-pescar-regularmente-1087469'>Las 7 mejores aplicaciones Android que tienes que instalar si sales a pescar regularmente</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-aplicaciones-android-tienes-instalar-sales-pescar-regularmente-1087469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/china-hacen-streaming-durante-pesca-venden-pescado-online-mientras-sacan-agua-2442479.jpg' alt='Las 7 mejores aplicaciones Android que tienes que instalar si sales a pescar regularmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723'>Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito</a></h4>
     <a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633'>Cargar el móvil con tu sudor, una realidad cada vez más cercana</a></h4>
     <a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sudar-sudor-2662587.jpg' alt='Cargar el móvil con tu sudor, una realidad cada vez más cercana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/batgirl-desastrosa-pelicula-warner-70-millones-dolares-no-estrenara-1103545'>Batgirl, la desastrosa película Warner de 70 millones de dólares que no se estrenará</a></h4>
-    <a href='https://computerhoy.com/noticias/batgirl-desastrosa-pelicula-warner-70-millones-dolares-no-estrenara-1103545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/batgirl-2588607.jpg' alt='Batgirl, la desastrosa película Warner de 70 millones de dólares que no se estrenará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613'>Cómo convertir tu horno convencional en una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Cómo convertir tu horno convencional en una freidora de aire' />
     </a>
 </div>
 
