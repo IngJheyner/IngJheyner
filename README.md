@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633'>Cargar el móvil con tu sudor, una realidad cada vez más cerca</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723'>Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/solucion-audios-te-mandan-whatsapp-no-puedes-escuchar-ahora-podras-leerlos-1103673'>La solución para los audios que te mandan por WhatsApp y no puedes escuchar, ahora podrás leerlos </a></h4>
+    <a href='https://computerhoy.com/noticias/solucion-audios-te-mandan-whatsapp-no-puedes-escuchar-ahora-podras-leerlos-1103673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/transcriber-whatsapp-2776071.jpg' alt='La solución para los audios que te mandan por WhatsApp y no puedes escuchar, ahora podrás leerlos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633'>Cargar el móvil con tu sudor, una realidad cada vez más cercana</a></h4>
     <a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sudar-sudor-2662587.jpg' alt='Cargar el móvil con tu sudor, una realidad cada vez más cerca' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sudar-sudor-2662587.jpg' alt='Cargar el móvil con tu sudor, una realidad cada vez más cercana' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613'>Cómo convertir tu horno convencional en una freidora de aire</a></h4>
     <a href='https://computerhoy.com/noticias/como-convertir-horno-convencional-freidora-aire-1103613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/freidora-aire-aceite-2689483.jpg' alt='Cómo convertir tu horno convencional en una freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apple-te-da-iphone-pierdes-te-roban-espana-apple-care-contratado-1103661'>Apple te da un iPhone si pierdes o te roban el tuyo en España (si Apple Care contratado)</a></h4>
-    <a href='https://computerhoy.com/noticias/apple-te-da-iphone-pierdes-te-roban-espana-apple-care-contratado-1103661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487565.jpg' alt='Apple te da un iPhone si pierdes o te roban el tuyo en España (si Apple Care contratado)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motivo-siempre-conduzcas-deberias-llevar-crema-solar-expertos-1103659'>Siempre que conduzcas deberías llevar crema solar según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/motivo-siempre-conduzcas-deberias-llevar-crema-solar-expertos-1103659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/5-consejos-ahorrar-gasolina-conducir-coche-2758453.jpg' alt='Siempre que conduzcas deberías llevar crema solar según los expertos' />
     </a>
 </div>
 
