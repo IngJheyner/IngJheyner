@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda a familia por solo 61 euros</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda a familia por solo 61 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros' />
     </a>
 </div>
 
