@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda a familia por solo 61 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda a familia por solo 61 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-primera-muerte-first-kill-1103845'>Netflix la vuelve a liar y abandona otra serie tras la primera temporada: First Kill no continuará</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-primera-muerte-first-kill-1103845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-vuelve-liar-abandona-otra-serie-primera-temporada-first-kill-no-continuara-2776647.jpg' alt='Netflix la vuelve a liar y abandona otra serie tras la primera temporada: First Kill no continuará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843'>Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gazpacho-2776645.jpg' alt='Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835'>La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno</a></h4>
     <a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conduciendo-2776621.jpg' alt='La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833'>OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg' alt='OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699'>El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen</a></h4>
-    <a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg' alt='El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-timo-hijo-whatsapp-1103799'>El nuevo timo del hijo en WhatsApp que ha hecho saltar las alarmas de la Policía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-timo-hijo-whatsapp-1103799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-timo-hijo-whatsapp-ha-hecho-saltar-alarmas-policia-2776553.jpg' alt='El nuevo timo del hijo en WhatsApp que ha hecho saltar las alarmas de la Policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547'>Cómo firmar documentos desde Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/firmas-test-personalidad-2709319.jpg' alt='Cómo firmar documentos desde Google Docs' />
     </a>
 </div>
 
