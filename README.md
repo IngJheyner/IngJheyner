@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469'>Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-1103563'>Tatuajes inteligentes, la última revolución coreana hecha de nanotubos de carbono</a></h4>
+    <a href='https://computerhoy.com/noticias/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-1103563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-2775863.jpg' alt='Tatuajes inteligentes, la última revolución coreana hecha de nanotubos de carbono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529'>Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bill-gates-2233077.jpg' alt='Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517'>Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lightyear-2694037.jpg' alt='Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189'>Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telefono-movil-android-pantalla-encendida-2775373.jpg' alt='Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103'>Mejores relojes deportivos para practicar baloncesto que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cuatro-hombres-jugando-partida-baloncesto-cancha-aire-libre-2775311.jpg' alt='Mejores relojes deportivos para practicar baloncesto que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1103511'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1103511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2775773.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299'>Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peores-cosas-puedes-hacer-salud-bucal-no-tienen-ver-azucar-2775587.jpg' alt='Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar' />
     </a>
 </div>
 
