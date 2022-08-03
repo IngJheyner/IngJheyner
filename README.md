@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699'>El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen</a></h4>
+    <a href='https://computerhoy.com/noticias/numero-maximo-pegatinas-itv-puedes-llevar-parabrisas-te-multen-1103699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg' alt='El número máximo de pegatinas de la ITV que puedes llevar en el parabrisas sin que te multen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-timo-hijo-whatsapp-1103799'>El nuevo timo del hijo en WhatsApp que ha hecho saltar las alarmas de la Policía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-timo-hijo-whatsapp-1103799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-timo-hijo-whatsapp-ha-hecho-saltar-alarmas-policia-2776553.jpg' alt='El nuevo timo del hijo en WhatsApp que ha hecho saltar las alarmas de la Policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547'>Cómo firmar documentos desde Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-firmar-documentos-google-docs-1103547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/firmas-test-personalidad-2709319.jpg' alt='Cómo firmar documentos desde Google Docs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723'>Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito</a></h4>
     <a href='https://computerhoy.com/noticias/motivos-muchas-criptomonedas-fracasan-solo-unas-pocas-tienen-exito-1103723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/criptomonedas-2653823.jpg' alt='Los motivos por los que muchas criptomonedas fracasan y solo unas pocas tienen éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/solucion-audios-te-mandan-whatsapp-no-puedes-escuchar-ahora-podras-leerlos-1103673'>La solución para los audios que te mandan por WhatsApp y no puedes escuchar, ahora podrás leerlos </a></h4>
-    <a href='https://computerhoy.com/noticias/solucion-audios-te-mandan-whatsapp-no-puedes-escuchar-ahora-podras-leerlos-1103673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/transcriber-whatsapp-2776071.jpg' alt='La solución para los audios que te mandan por WhatsApp y no puedes escuchar, ahora podrás leerlos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633'>Cargar el móvil con tu sudor, una realidad cada vez más cercana</a></h4>
-    <a href='https://computerhoy.com/noticias/cargar-movil-sudor-realidad-cada-vez-cerca-1103633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/sudar-sudor-2662587.jpg' alt='Cargar el móvil con tu sudor, una realidad cada vez más cercana' />
     </a>
 </div>
 
