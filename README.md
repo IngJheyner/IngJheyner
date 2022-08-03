@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103'>Mejores relojes deportivos para practicar baloncesto que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cuatro-hombres-jugando-partida-baloncesto-cancha-aire-libre-2775311.jpg' alt='Mejores relojes deportivos para practicar baloncesto que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1103511'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1103511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2775773.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299'>Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar</a></h4>
     <a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peores-cosas-puedes-hacer-salud-bucal-no-tienen-ver-azucar-2775587.jpg' alt='Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289'>El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283'>Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-andor-star-wars-disney-plus-video-1103283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659466074827-2775569.jpg' alt='Disney+ comenzará el curso escolar con Andor, la serie precuela de Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261'>¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/cuidado-posible-android-auto-deje-funcionar-movil-1103261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='¡Cuidado! Es posible que Android Auto deje de funcionar en tu móvil' />
     </a>
 </div>
 
