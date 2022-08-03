@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/anos-quejas-starlink-elon-musk-spacex-dejaran-ser-molestia-astronomos-1103599'>Tras años de quejas Starlink de Elon Musk y SpaceX dejarán de ser una molestia para los astrónomos</a></h4>
+    <a href='https://computerhoy.com/noticias/anos-quejas-starlink-elon-musk-spacex-dejaran-ser-molestia-astronomos-1103599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/spacex-muestra-nave-crew-dragon-turistas-sorpresa-punta-cohete-2285233.jpg' alt='Tras años de quejas Starlink de Elon Musk y SpaceX dejarán de ser una molestia para los astrónomos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/camaras-seguridad-wifi-casa-783573'>Cámaras de seguridad WiFi para proteger tu casa: guía de compras para elegir el mejor modelo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/camaras-seguridad-wifi-casa-783573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/camaraseguridad2388805.jpg' alt='Cámaras de seguridad WiFi para proteger tu casa: guía de compras para elegir el mejor modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/interfaz-cerebro-ordenador-llega-humanos-matrix-cada-vez-cerca-1103575'>La interfaz cerebro-ordenador llega a los humanos, Matrix cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/interfaz-cerebro-ordenador-llega-humanos-matrix-cada-vez-cerca-1103575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/brainjacking-2694705.jpg' alt='La interfaz cerebro-ordenador llega a los humanos, Matrix cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/perseidas-2022-tendran-dura-competencia-durante-dias-mayor-actividad-1103583'>Las Perseidas de 2022 tendrán una dura competencia durante sus días de mayor actividad</a></h4>
     <a href='https://computerhoy.com/noticias/perseidas-2022-tendran-dura-competencia-durante-dias-mayor-actividad-1103583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/superluna-madrid-1887353.jpg' alt='Las Perseidas de 2022 tendrán una dura competencia durante sus días de mayor actividad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-subsistema-windows-android-grandes-mejoras-1103577'>Microsoft actualiza su Subsistema de Windows para Android con grandes mejoras</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-subsistema-windows-android-grandes-mejoras-1103577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Microsoft actualiza su Subsistema de Windows para Android con grandes mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469'>Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-1103563'>Tatuajes inteligentes, la última revolución coreana hecha de nanotubos de carbono</a></h4>
-    <a href='https://computerhoy.com/noticias/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-1103563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tatuajes-inteligentes-ultima-revolucion-coreana-hecha-nanotubos-carbono-2775863.jpg' alt='Tatuajes inteligentes, la última revolución coreana hecha de nanotubos de carbono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529'>Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bill-gates-2233077.jpg' alt='Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico' />
     </a>
 </div>
 
