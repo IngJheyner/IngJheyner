@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/perseidas-2022-tendran-dura-competencia-durante-dias-mayor-actividad-1103583'>Las Perseidas de 2022 tendrán una dura competencia durante sus días de mayor actividad</a></h4>
+    <a href='https://computerhoy.com/noticias/perseidas-2022-tendran-dura-competencia-durante-dias-mayor-actividad-1103583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/superluna-madrid-1887353.jpg' alt='Las Perseidas de 2022 tendrán una dura competencia durante sus días de mayor actividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-subsistema-windows-android-grandes-mejoras-1103577'>Microsoft actualiza su Subsistema de Windows para Android con grandes mejoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-actualiza-subsistema-windows-android-grandes-mejoras-1103577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Microsoft actualiza su Subsistema de Windows para Android con grandes mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469'>Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-gt-3-oferta-3-agosto-2022-1102469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-d42mm-2598235.jpg' alt='Un reloj deportivo con GPS y medición de oxígeno por solo 179 euros, una oferta casi irresistible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529'>Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-quiere-crear-aire-acondicionado-futuro-menor-consumo-ecologico-1103529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/bill-gates-2233077.jpg' alt='Bill Gates quiere crear el aire acondicionado del futuro con un menor consumo y más ecológico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517'>Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lightyear-2694037.jpg' alt='Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189'>Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telefono-movil-android-pantalla-encendida-2775373.jpg' alt='Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy' />
     </a>
 </div>
 
