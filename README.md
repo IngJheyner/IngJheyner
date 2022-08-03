@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517'>Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-tiene-nuevo-estreno-acaba-pasar-salas-lightyear-aterriza-plataforma-streaming-1103517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/lightyear-2694037.jpg' alt='Disney+ tiene un nuevo estreno que acaba de pasar por las salas: Lightyear aterriza en la plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189'>Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-aprender-programar-kotlin-1103189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telefono-movil-android-pantalla-encendida-2775373.jpg' alt='Mejores cursos online para aprender a programar en Kotlin y crear aplicaciones para Android que puedes encontrar en Udemy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103'>Mejores relojes deportivos para practicar baloncesto que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-deportivos-baloncesto-1103103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cuatro-hombres-jugando-partida-baloncesto-cancha-aire-libre-2775311.jpg' alt='Mejores relojes deportivos para practicar baloncesto que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299'>Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar</a></h4>
     <a href='https://computerhoy.com/noticias/life/malos-habitos-salud-bucal-1103299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peores-cosas-puedes-hacer-salud-bucal-no-tienen-ver-azucar-2775587.jpg' alt='Las peores cosas que puedes hacer por tu salud bucal, y no tienen que ver con el azúcar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberataque-ruso-ransomware-csic-1103295'>Un ciberataque ruso ha dejado incomunicado al CSIC durante dos semanas, confirma el Ministerio de Ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciberataque-ruso-ransomware-csic-1103295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberataque-ruso-ha-dejado-incomunicado-csic-durante-dos-semanas-confirma-ministerio-ciencia-2775585.jpg' alt='Un ciberataque ruso ha dejado incomunicado al CSIC durante dos semanas, confirma el Ministerio de Ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289'>El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m23-5g-rebaja-1103289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/filtradas-especificaciones-nuevo-samsung-galaxy-m23-5g-2634225.jpg' alt='El Samsung Galaxy M23 con 5G, cámara de 50 Mpx, y pantalla a 120 Hz, solo 231 euros' />
     </a>
 </div>
 
