@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859'>La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659544345359-2776667.jpg' alt='La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835'>La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno</a></h4>
     <a href='https://computerhoy.com/noticias/motor/senal-dgt-aunque-no-avisa-radar-tendras-muchas-opciones-encontrarte-1103835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conduciendo-2776621.jpg' alt='La señal de la DGT que aunque no avisa de un radar tendrás muchas opciones de encontrarte con uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833'>OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-5g-oficial-especificaciones-fecha-lanzamiento-precio-1103833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg' alt='OnePlus 10T 5G es oficial: móvil premium con Snapdragon 8+ Gen 1 y carga superrápida a 150 W' />
     </a>
 </div>
 
