@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417'>La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresora-portatil-xiaomi-mi-portable-photo-printer-ideal-estas-vacaciones-baja-solo-49-euros-2777595.jpg' alt='La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-nadie-olvide-has-pasado-grupo-nueva-polemica-opcion-1104411'>WhatsApp quiere que nadie olvide que has pasado por un grupo con una nueva (y polémica) opción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-nadie-olvide-has-pasado-grupo-nueva-polemica-opcion-1104411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere que nadie olvide que has pasado por un grupo con una nueva (y polémica) opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407'>Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg' alt='Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405'>La piscina más profunda del mundo desvela nuevos secretos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659636757270-2777547.jpg' alt='La piscina más profunda del mundo desvela nuevos secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399'>South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/south-park-cumple-25-anos-pluto-tv-celebra-emitiendo-doce-primeras-temporadas-gratis-registro-2777527.jpg' alt='South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669'>Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camino-jardin-iluminado-lamparas-solares-2776127.jpg' alt='Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-trucos-estirar-bateria-iphone-cuando-agonizando-no-tienes-cargador-1104371'>3 trucos para estirar la la batería de tu iPhone cuando está agonizando y no tienes cargador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/3-trucos-estirar-bateria-iphone-cuando-agonizando-no-tienes-cargador-1104371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-bateria-amarilla-2550993.jpg' alt='3 trucos para estirar la la batería de tu iPhone cuando está agonizando y no tienes cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-programas-utilizados-introducir-malware-1104369'>Las apps y programas más utilizados para introducir malware: ¡cuidado al descargarlos!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apps-programas-utilizados-introducir-malware-1104369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Las apps y programas más utilizados para introducir malware: ¡cuidado al descargarlos!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273'>Cómo usar el diccionario integrado en Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo usar el diccionario integrado en Google Docs' />
     </a>
 </div>
 
