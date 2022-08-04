@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265'>Cómo saber las coordenadas de un lugar con Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo saber las coordenadas de un lugar con Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-1104221'>El OnePlus Nord 20 SE: pantalla HD+, carga rápida de 33W y cámaras de 50 megapíxeles en este nuevo móvil gama baja</a></h4>
+    <a href='https://computerhoy.com/noticias/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-1104221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-2777191.jpg' alt='El OnePlus Nord 20 SE: pantalla HD+, carga rápida de 33W y cámaras de 50 megapíxeles en este nuevo móvil gama baja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/caja-ordenador-dobla-funcion-como-pecera-funcional-1104275'>La caja de ordenador que dobla función como pecera funcional</a></h4>
+    <a href='https://computerhoy.com/noticias/caja-ordenador-dobla-funcion-como-pecera-funcional-1104275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/caja-ordenador-dobla-funcion-como-pecera-funcional-2777237.jpg' alt='La caja de ordenador que dobla función como pecera funcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/refinerias-solares-como-conseguir-combustible-no-contaminante-partir-aire-1104233'>Refinerías solares, cómo conseguir combustible no contaminante a partir del aire</a></h4>
     <a href='https://computerhoy.com/noticias/refinerias-solares-como-conseguir-combustible-no-contaminante-partir-aire-1104233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/refinerias-solares-2777131.jpg' alt='Refinerías solares, cómo conseguir combustible no contaminante a partir del aire' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-1104227'>La NASA desvela el origen del misterioso objeto encontrado en Marte y la explicación es muy decepcionante</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-1104227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-2777109.jpg' alt='La NASA desvela el origen del misterioso objeto encontrado en Marte y la explicación es muy decepcionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-eliminar-manchas-ropa-tintorerias-no-quieren-sepas-1104237'>5 trucos para eliminar manchas de la ropa que las tintorerías no quieren que sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-trucos-eliminar-manchas-ropa-tintorerias-no-quieren-sepas-1104237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camisa-mancha-grasa-2777135.jpg' alt='5 trucos para eliminar manchas de la ropa que las tintorerías no quieren que sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/5-funciones-ocultas-app-netflix-poco-conocidas-pero-muy-utiles-1104169'>5 funciones ocultas de la app de Netflix poco conocidas pero muy útiles</a></h4>
-    <a href='https://computerhoy.com/noticias/5-funciones-ocultas-app-netflix-poco-conocidas-pero-muy-utiles-1104169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-no-asustan-ultimos-resultados-no-solo-apuesta-fondo-series-peliculas-tambien-videojuegos-2686759.jpg' alt='5 funciones ocultas de la app de Netflix poco conocidas pero muy útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/atornillador-electrico-930579'>Todo lo que debes sabes antes de comprar un atornillador eléctrico</a></h4>
-    <a href='https://computerhoy.com/guia-compra/atornillador-electrico-930579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/atornillador-2523901.jpg' alt='Todo lo que debes sabes antes de comprar un atornillador eléctrico' />
     </a>
 </div>
 
