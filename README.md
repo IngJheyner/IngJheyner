@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-detalle-diseno-nuevos-relojes-pulseras-inteligentes-fitbit-1104147'>Filtrado al detalle el diseño de los nuevos relojes y pulseras inteligentes de Fitbit</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-detalle-diseno-nuevos-relojes-pulseras-inteligentes-fitbit-1104147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtrados-detalle-nuevos-relojes-pulseras-inteligentes-fitbit-2776981.jpg' alt='Filtrado al detalle el diseño de los nuevos relojes y pulseras inteligentes de Fitbit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447'>16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-aspire-3-a315-23-2774141.jpg' alt='16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101'>La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional</a></h4>
     <a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronautas-nasa-mision-2330533.jpg' alt='La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793'>¡Ya está en tu quiosco el número 622 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-622-2772699.jpg' alt='¡Ya está en tu quiosco el número 622 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089'>Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/joker-2702341.jpg' alt='Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-iban-direcciones-datos-usuarios-riders-han-puesto-venta-nuevo-hackeo-glovo-1104087'>Números de teléfono, IBAN y direcciones entre los datos de usuarios y riders que se han puesto a la venta en el nuevo hackeo de Glovo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-iban-direcciones-datos-usuarios-riders-han-puesto-venta-nuevo-hackeo-glovo-1104087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/riders-glovo-deliveroo-1891231.jpg' alt='Números de teléfono, IBAN y direcciones entre los datos de usuarios y riders que se han puesto a la venta en el nuevo hackeo de Glovo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/escritorio-programador-2775857.jpg' alt='Estos son los mejores teclados para programadores que puedes comprar' />
     </a>
 </div>
 
