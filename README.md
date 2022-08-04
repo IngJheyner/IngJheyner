@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399'>South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/south-park-cumple-25-anos-pluto-tv-celebra-emitiendo-doce-primeras-temporadas-gratis-registro-2777527.jpg' alt='South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669'>Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camino-jardin-iluminado-lamparas-solares-2776127.jpg' alt='Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273'>Cómo usar el diccionario integrado en Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo usar el diccionario integrado en Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-1104211'>El mapamundi de Google Maps que muestra el legado español en todo el planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-1104211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-2777255.jpg' alt='El mapamundi de Google Maps que muestra el legado español en todo el planeta' />
     </a>
 </div>
 
