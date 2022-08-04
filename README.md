@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669'>Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-luces-solares-jardin-terraza-balcon-1103669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camino-jardin-iluminado-lamparas-solares-2776127.jpg' alt='Mejores luces solares que puedes comprar para adornar tu jardín, terraza o balcón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/3-trucos-estirar-bateria-iphone-cuando-agonizando-no-tienes-cargador-1104371'>3 trucos para estirar la la batería de tu iPhone cuando está agonizando y no tienes cargador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/3-trucos-estirar-bateria-iphone-cuando-agonizando-no-tienes-cargador-1104371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/iphone-bateria-amarilla-2550993.jpg' alt='3 trucos para estirar la la batería de tu iPhone cuando está agonizando y no tienes cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apps-programas-utilizados-introducir-malware-1104369'>Las apps y programas más utilizados para introducir malware: ¡cuidado al descargarlos!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apps-programas-utilizados-introducir-malware-1104369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Las apps y programas más utilizados para introducir malware: ¡cuidado al descargarlos!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273'>Cómo usar el diccionario integrado en Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-diccionario-integrado-google-docs-1104273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo usar el diccionario integrado en Google Docs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-1104211'>El mapamundi de Google Maps que muestra el legado español en todo el planeta</a></h4>
     <a href='https://computerhoy.com/noticias/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-1104211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapamundi-google-maps-muestra-legado-espanol-todo-planeta-2777255.jpg' alt='El mapamundi de Google Maps que muestra el legado español en todo el planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/produce-hipo-mejores-remedios-quitarlo-1104259'>Por qué se produce el hipo y lo mejores remedios para quitarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/produce-hipo-mejores-remedios-quitarlo-1104259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hipo-2777205.jpg' alt='Por qué se produce el hipo y lo mejores remedios para quitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265'>Cómo saber las coordenadas de un lugar con Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo saber las coordenadas de un lugar con Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-1104221'>El OnePlus Nord 20 SE: pantalla HD+, carga rápida de 33W y cámaras de 50 megapíxeles en este nuevo móvil gama baja</a></h4>
-    <a href='https://computerhoy.com/noticias/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-1104221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-nord-20-pantalla-hd-carga-rapida-33w-camaras-50-megapixeles-nuevo-movil-gama-baja-2777191.jpg' alt='El OnePlus Nord 20 SE: pantalla HD+, carga rápida de 33W y cámaras de 50 megapíxeles en este nuevo móvil gama baja' />
     </a>
 </div>
 
