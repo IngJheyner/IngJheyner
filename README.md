@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431'>Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659651580132-2777633.jpg' alt='Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417'>La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresora-portatil-xiaomi-mi-portable-photo-printer-ideal-estas-vacaciones-baja-solo-49-euros-2777595.jpg' alt='La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405'>La piscina más profunda del mundo desvela nuevos secretos</a></h4>
     <a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659636757270-2777547.jpg' alt='La piscina más profunda del mundo desvela nuevos secretos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399'>South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/south-park-25-aniversario-pluto-tv-1104399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/south-park-cumple-25-anos-pluto-tv-celebra-emitiendo-doce-primeras-temporadas-gratis-registro-2777527.jpg' alt='South Park cumple 25 años y Pluto TV lo celebra emitiendo las doce primeras temporadas gratis y sin registro' />
     </a>
 </div>
 
