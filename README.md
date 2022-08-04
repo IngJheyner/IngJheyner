@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/produce-hipo-mejores-remedios-quitarlo-1104259'>Por qué se produce el hipo y lo mejores remedios para quitarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/produce-hipo-mejores-remedios-quitarlo-1104259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hipo-2777205.jpg' alt='Por qué se produce el hipo y lo mejores remedios para quitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265'>Cómo saber las coordenadas de un lugar con Google Maps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-coordenadas-lugar-google-maps-1104265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo saber las coordenadas de un lugar con Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/refinerias-solares-como-conseguir-combustible-no-contaminante-partir-aire-1104233'>Refinerías solares, cómo conseguir combustible no contaminante a partir del aire</a></h4>
     <a href='https://computerhoy.com/noticias/refinerias-solares-como-conseguir-combustible-no-contaminante-partir-aire-1104233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/refinerias-solares-2777131.jpg' alt='Refinerías solares, cómo conseguir combustible no contaminante a partir del aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-1104227'>La NASA desvela el origen del misterioso objeto encontrado en Marte y la explicación es muy decepcionante</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-1104227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nasa-desvela-origen-misterioso-objeto-encontrado-marte-explicacion-muy-decepcionante-2777109.jpg' alt='La NASA desvela el origen del misterioso objeto encontrado en Marte y la explicación es muy decepcionante' />
     </a>
 </div>
 
