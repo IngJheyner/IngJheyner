@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101'>La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional</a></h4>
+    <a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronautas-nasa-mision-2330533.jpg' alt='La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793'>¡Ya está en tu quiosco el número 622 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-622-2772699.jpg' alt='¡Ya está en tu quiosco el número 622 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089'>Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/joker-2702341.jpg' alt='Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/escritorio-programador-2775857.jpg' alt='Estos son los mejores teclados para programadores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2776907.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787'>15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699531.jpg' alt='15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana' />
     </a>
 </div>
 
