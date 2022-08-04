@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ciencia-desvela-cuantos-minutos-deporte-debes-hacer-semana-vivir-tiempo-1104171'>La ciencia desvela cuántos minutos de deporte debes hacer por semana para vivir más tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/ciencia-desvela-cuantos-minutos-deporte-debes-hacer-semana-vivir-tiempo-1104171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/musica-ejercicio-2081047.jpg' alt='La ciencia desvela cuántos minutos de deporte debes hacer por semana para vivir más tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-1104149'>Ahora también podrás comprar entradas para conciertos y espectáculos desde Tiktok</a></h4>
+    <a href='https://computerhoy.com/noticias/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-1104149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-2777033.jpg' alt='Ahora también podrás comprar entradas para conciertos y espectáculos desde Tiktok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447'>16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-aspire-3-a315-23-2774141.jpg' alt='16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101'>La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional</a></h4>
-    <a href='https://computerhoy.com/noticias/nasa-quiere-astronautas-retirados-hagan-sherpas-misiones-privadas-estacion-internacional-1104101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/astronautas-nasa-mision-2330533.jpg' alt='La NASA quiere que los astronautas retirados hagan de sherpas en misiones privadas a la Estación Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793'>¡Ya está en tu quiosco el número 622 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-622-computer-hoy-1099793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/computer-hoy-622-2772699.jpg' alt='¡Ya está en tu quiosco el número 622 de Computer Hoy!' />
     </a>
 </div>
 
