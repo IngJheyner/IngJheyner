@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-eliminar-manchas-ropa-tintorerias-no-quieren-sepas-1104237'>5 trucos para eliminar manchas de la ropa que las tintorerías no quieren que sepas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-trucos-eliminar-manchas-ropa-tintorerias-no-quieren-sepas-1104237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camisa-mancha-grasa-2777135.jpg' alt='5 trucos para eliminar manchas de la ropa que las tintorerías no quieren que sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/5-funciones-ocultas-app-netflix-poco-conocidas-pero-muy-utiles-1104169'>5 funciones ocultas de la app de Netflix poco conocidas pero muy útiles</a></h4>
+    <a href='https://computerhoy.com/noticias/5-funciones-ocultas-app-netflix-poco-conocidas-pero-muy-utiles-1104169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/netflix-no-asustan-ultimos-resultados-no-solo-apuesta-fondo-series-peliculas-tambien-videojuegos-2686759.jpg' alt='5 funciones ocultas de la app de Netflix poco conocidas pero muy útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/atornillador-electrico-930579'>Todo lo que debes sabes antes de comprar un atornillador eléctrico</a></h4>
+    <a href='https://computerhoy.com/guia-compra/atornillador-electrico-930579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/atornillador-2523901.jpg' alt='Todo lo que debes sabes antes de comprar un atornillador eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-3-oferta-amazon-4-agosto-2022-1104193'>Los AirPods 3 bajan de precio: tiene 20€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-3-oferta-amazon-4-agosto-2022-1104193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg' alt='Los AirPods 3 bajan de precio: tiene 20€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/ciencia-desvela-cuantos-minutos-deporte-debes-hacer-semana-vivir-tiempo-1104171'>La ciencia desvela cuántos minutos de deporte debes hacer por semana para vivir más tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/ciencia-desvela-cuantos-minutos-deporte-debes-hacer-semana-vivir-tiempo-1104171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/musica-ejercicio-2081047.jpg' alt='La ciencia desvela cuántos minutos de deporte debes hacer por semana para vivir más tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-1104149'>Ahora también podrás comprar entradas para conciertos y espectáculos desde Tiktok</a></h4>
-    <a href='https://computerhoy.com/noticias/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-1104149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ahora-tambien-podras-comprar-entradas-conciertos-espectaculos-tiktok-2777033.jpg' alt='Ahora también podrás comprar entradas para conciertos y espectáculos desde Tiktok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443'>Nothing Phone (1), análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/nothing-phone-1-review-opinion-1101443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772975.jpg' alt='Nothing Phone (1), análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrado-detalle-diseno-nuevos-relojes-pulseras-inteligentes-fitbit-1104147'>Filtrado al detalle el diseño de los nuevos relojes y pulseras inteligentes de Fitbit</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrado-detalle-diseno-nuevos-relojes-pulseras-inteligentes-fitbit-1104147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtrados-detalle-nuevos-relojes-pulseras-inteligentes-fitbit-2776981.jpg' alt='Filtrado al detalle el diseño de los nuevos relojes y pulseras inteligentes de Fitbit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447'>16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-acer-aspire-3-a315-23-oferta-4-agosto-2022-1102447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-aspire-3-a315-23-2774141.jpg' alt='16 GB de RAM  y Ryzen 5: este portátil es una bestia de potencia a precio de saldo' />
     </a>
 </div>
 
