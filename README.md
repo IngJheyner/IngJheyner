@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089'>Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/joker-2-anuncia-fecha-estreno-tendras-esperar-ver-bailar-nuevo-joaquin-phoenix-1104089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/joker-2702341.jpg' alt='Joker 2 anuncia su fecha de estreno: tendrás que esperar para ver bailar de nuevo a Joaquin Phoenix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-iban-direcciones-datos-usuarios-riders-han-puesto-venta-nuevo-hackeo-glovo-1104087'>Números de teléfono, IBAN y direcciones entre los datos de usuarios y riders que se han puesto a la venta en el nuevo hackeo de Glovo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/numeros-telefono-iban-direcciones-datos-usuarios-riders-han-puesto-venta-nuevo-hackeo-glovo-1104087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/riders-glovo-deliveroo-1891231.jpg' alt='Números de teléfono, IBAN y direcciones entre los datos de usuarios y riders que se han puesto a la venta en el nuevo hackeo de Glovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571'>Estos son los mejores teclados para programadores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-teclados-programadores-1103571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/escritorio-programador-2775857.jpg' alt='Estos son los mejores teclados para programadores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2776907.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787'>15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699531.jpg' alt='15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863'>Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-dos-hacks-geniales-tiktok-te-van-solucionar-vida-comes-fuera-estas-vacaciones-2776713.jpg' alt='Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859'>La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cirujano-nasa-estacion-espacial-internacional-1103859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659544345359-2776667.jpg' alt='La NASA probará en la Estación Espacial Internacional un robot para operar de forma remota que llevará a la Luna y Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros' />
     </a>
 </div>
 
