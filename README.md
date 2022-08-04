@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2776907.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787'>15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-4-agosto-2022-1103787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699531.jpg' alt='15 ofertas y chollos que puedes conseguir en Amazon, PcComponentes, El Corte Inglés y más este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863'>Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones</a></h4>
     <a href='https://computerhoy.com/noticias/life/hacks-tiktok-comer-fuera-vacaciones-1103863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-dos-hacks-geniales-tiktok-te-van-solucionar-vida-comes-fuera-estas-vacaciones-2776713.jpg' alt='Estos dos hacks geniales de TikTok te van a solucionar la vida si comes fuera estas vacaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853'>La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-aigostar-odin-42-litros-chollo-1103853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-aigostar-odin-42-litros-cocina-toda-familia-solo-61-euros-2776663.jpg' alt='La freidora sin aceite Aigostar Odin de 4,2 litros cocina para toda la familia por solo 61 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-primera-muerte-first-kill-1103845'>Netflix la vuelve a liar y abandona otra serie tras la primera temporada: First Kill no continuará</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cancela-primera-muerte-first-kill-1103845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-vuelve-liar-abandona-otra-serie-primera-temporada-first-kill-no-continuara-2776647.jpg' alt='Netflix la vuelve a liar y abandona otra serie tras la primera temporada: First Kill no continuará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843'>Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gazpacho-salmorejo-ocu-moja-debate-verano-cual-mejor-1103843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gazpacho-2776645.jpg' alt='Gazpacho o salmorejo: la OCU se moja en el debate del verano, ¿cuál es mejor?' />
     </a>
 </div>
 
