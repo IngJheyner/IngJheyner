@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941'>Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-muestra-persona-importante-cada-ciudad-mundo-hay-polemica-algunas-2778519.jpg' alt='Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021'>Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659720747705-2778679.jpg' alt='Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019'>Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prestigioso-cientifico-frances-tuitea-foto-telescopio-james-webb-resulta-ser-loncha-chorizo-2778673.jpg' alt='Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011'>Apple TV+ refresca el verano con Luck, una alegre película de animación</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659725379628-2778661.jpg' alt='Apple TV+ refresca el verano con Luck, una alegre película de animación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005'>Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perrito-caliente-2778657.jpg' alt='Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003'>Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022' />
     </a>
 </div>
 
