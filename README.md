@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-tablas-paddle-surf-1103761'>Mejores tablas de paddle surf que puedes comprar para disfrutar este verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-tablas-paddle-surf-1103761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-perro-tabla-paddle-surf-2776405.jpg' alt='Mejores tablas de paddle surf que puedes comprar para disfrutar este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811'>Cómo saber si tu MacBook tiene spyware y cómo eliminarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Cómo saber si tu MacBook tiene spyware y cómo eliminarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-gratuita-hbo-max-gratis-1104985'>¿Series y peliculas de HBO Max gratis? Warner revela a sus accionistas que lo está estudiando</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-gratuita-hbo-max-gratis-1104985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='¿Series y peliculas de HBO Max gratis? Warner revela a sus accionistas que lo está estudiando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943'>Cómo usar el dictado de voz para escribir en Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='Cómo usar el dictado de voz para escribir en Google Docs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motivo-deberias-cambiar-configuracion-ecualizador-telefono-1104903'>El botón del coche que casi nadie utiliza y que permite ahorrar gasolina con solo pulsarlo</a></h4>
     <a href='https://computerhoy.com/noticias/motivo-deberias-cambiar-configuracion-ecualizador-telefono-1104903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='El botón del coche que casi nadie utiliza y que permite ahorrar gasolina con solo pulsarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/peliculas-ver-fin-semana-disney-prime-video-1104881'>Qué películas ver este fin de semana en Disney+ y Prime Video: la historia interminable, el pianista y un gran rescate</a></h4>
-    <a href='https://computerhoy.com/noticias/peliculas-ver-fin-semana-disney-prime-video-1104881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-disney-prime-video-historia-interminable-pianista-gran-rescate-2778301.jpg' alt='Qué películas ver este fin de semana en Disney+ y Prime Video: la historia interminable, el pianista y un gran rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-juegos-realidad-aumentada-alternativa-iphone-androd-1104425'>Los 7 mejores juegos de realidad aumentada y alternativa para iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-juegos-realidad-aumentada-alternativa-iphone-androd-1104425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-mejores-juegos-realidad-aumentada-alternativa-iphone-android-2777623.jpg' alt='Los 7 mejores juegos de realidad aumentada y alternativa para iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849'>Cómo saber si un huevo está cocido sin abrirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huevos-cocidos-2295543.jpg' alt='Cómo saber si un huevo está cocido sin abrirlo' />
     </a>
 </div>
 
