@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104655'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2777851.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-colchones-hinchables-1103717'>5 colchones hinchables top ventas por si hay más personas que camas en el piso de la playa</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-colchones-hinchables-1103717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-durmiendo-colchon-2776283.jpg' alt='5 colchones hinchables top ventas por si hay más personas que camas en el piso de la playa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433'>Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-conseguir-hielos-transparentes-duren-como-bares-no-peguen-otros-2777635.jpg' alt='Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417'>La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/impresora-fotos-portatil-xiaomi-mi-portable-photo-printer-descuento-1104417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresora-portatil-xiaomi-mi-portable-photo-printer-ideal-estas-vacaciones-baja-solo-49-euros-2777595.jpg' alt='La impresora de fotos portátil Xiaomi Mi Portable Photo Printer es ideal para estas vacaciones, baja a solo 49 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-nadie-olvide-has-pasado-grupo-nueva-polemica-opcion-1104411'>WhatsApp quiere que nadie olvide que has pasado por un grupo con una nueva (y polémica) opción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-nadie-olvide-has-pasado-grupo-nueva-polemica-opcion-1104411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp quiere que nadie olvide que has pasado por un grupo con una nueva (y polémica) opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407'>Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg' alt='Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas' />
     </a>
 </div>
 
