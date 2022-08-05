@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869'>El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial</a></h4>
+    <a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-2778327.jpg' alt='El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hielo-industrial-casero-diferencias-cual-enfria-consejos-hielo-casa-1104873'>Hielo industrial o casero: diferencias, cuál enfría más y consejos para hielo en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hielo-industrial-casero-diferencias-cual-enfria-consejos-hielo-casa-1104873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2778277.jpg' alt='Hielo industrial o casero: diferencias, cuál enfría más y consejos para hielo en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/1-ano-aterrizaje-curiosity-marte-todo-hemos-aprendido-entonces-planeta-rojo-1104763'>10 años del aterrizaje de Curiosity en Marte, todo lo que hemos aprendido desde entonces del planeta rojo </a></h4>
+    <a href='https://computerhoy.com/noticias/1-ano-aterrizaje-curiosity-marte-todo-hemos-aprendido-entonces-planeta-rojo-1104763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/curiosity-1850815.jpg' alt='10 años del aterrizaje de Curiosity en Marte, todo lo que hemos aprendido desde entonces del planeta rojo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151'>El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg' alt='El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749'>La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta</a></h4>
     <a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741'>Consejos para tener una contraseña segura según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/contrasenas-2611485.jpg' alt='Consejos para tener una contraseña segura según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/auriculares-true-wireless'>Consejos y guía de compra de auriculares inalámbricos Bluetooth True Wireless</a></h4>
-    <a href='https://computerhoy.com/guia-compra/auriculares-true-wireless' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/auriculares-bluetooth-2193149.jpg' alt='Consejos y guía de compra de auriculares inalámbricos Bluetooth True Wireless' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723'>YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos</a></h4>
-    <a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos' />
     </a>
 </div>
 
