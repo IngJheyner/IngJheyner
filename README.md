@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943'>Cómo usar el dictado de voz para escribir en Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='Cómo usar el dictado de voz para escribir en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motivo-deberias-cambiar-configuracion-ecualizador-telefono-1104903'>El botón del coche que casi nadie utiliza y que permite ahorrar gasolina con solo pulsarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/motivo-deberias-cambiar-configuracion-ecualizador-telefono-1104903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/salpicadero-coche-2627825.jpg' alt='El botón del coche que casi nadie utiliza y que permite ahorrar gasolina con solo pulsarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/peliculas-ver-fin-semana-disney-prime-video-1104881'>Qué películas ver este fin de semana en Disney+ y Prime Video: la historia interminable, el pianista y un gran rescate</a></h4>
+    <a href='https://computerhoy.com/noticias/peliculas-ver-fin-semana-disney-prime-video-1104881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-disney-prime-video-historia-interminable-pianista-gran-rescate-2778301.jpg' alt='Qué películas ver este fin de semana en Disney+ y Prime Video: la historia interminable, el pianista y un gran rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-juegos-realidad-aumentada-alternativa-iphone-androd-1104425'>Los 7 mejores juegos de realidad aumentada y alternativa para iPhone y Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-mejores-juegos-realidad-aumentada-alternativa-iphone-androd-1104425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-mejores-juegos-realidad-aumentada-alternativa-iphone-android-2777623.jpg' alt='Los 7 mejores juegos de realidad aumentada y alternativa para iPhone y Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849'>Cómo saber si un huevo está cocido sin abrirlo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huevos-cocidos-2295543.jpg' alt='Cómo saber si un huevo está cocido sin abrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-1104901'>OPPO prepara su reloj inteligente Watch 3 y es muy muy parecido al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-1104901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-2778355.jpg' alt='OPPO prepara su reloj inteligente Watch 3 y es muy muy parecido al Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/aumenta-confianza-optimismo-precio-futuro-shiba-inu-1104829'>Aumenta la confianza y el optimismo por el precio y futuro de Shiba Inu</a></h4>
-    <a href='https://computerhoy.com/noticias/aumenta-confianza-optimismo-precio-futuro-shiba-inu-1104829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='Aumenta la confianza y el optimismo por el precio y futuro de Shiba Inu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869'>El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial</a></h4>
-    <a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-2778327.jpg' alt='El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial' />
     </a>
 </div>
 
