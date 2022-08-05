@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005'>Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perrito-caliente-2778657.jpg' alt='Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003'>Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-compra-irobot-robot-aspirador-roomba-1105001'>Amazon compra iRobot y se queda con los robots aspirador Roomba y todos sus datos, por 1.700 millones de dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-compra-irobot-robot-aspirador-roomba-1105001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-compra-irobot-queda-robots-aspirador-roomba-1700-millones-dolares-2778649.jpg' alt='Amazon compra iRobot y se queda con los robots aspirador Roomba y todos sus datos, por 1.700 millones de dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811'>Cómo saber si tu MacBook tiene spyware y cómo eliminarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Cómo saber si tu MacBook tiene spyware y cómo eliminarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/plataforma-gratuita-hbo-max-gratis-1104985'>¿Series y peliculas de HBO Max gratis? Warner revela a sus accionistas que lo está estudiando</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/plataforma-gratuita-hbo-max-gratis-1104985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='¿Series y peliculas de HBO Max gratis? Warner revela a sus accionistas que lo está estudiando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943'>Cómo usar el dictado de voz para escribir en Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-dictado-voz-escribir-google-docs-1104943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/reconocimiento-voz-2670595.jpg' alt='Cómo usar el dictado de voz para escribir en Google Docs' />
     </a>
 </div>
 
