@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849'>Cómo saber si un huevo está cocido sin abrirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-huevo-cocido-abrirlo-1104849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/huevos-cocidos-2295543.jpg' alt='Cómo saber si un huevo está cocido sin abrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-1104901'>OPPO prepara su reloj inteligente Watch 3 y es muy muy parecido al Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-1104901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtrado-diseno-nuevo-oppo-watch-3-parece-demasiado-apple-watch-2778355.jpg' alt='OPPO prepara su reloj inteligente Watch 3 y es muy muy parecido al Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/aumenta-confianza-optimismo-precio-futuro-shiba-inu-1104829'>Aumenta la confianza y el optimismo por el precio y futuro de Shiba Inu</a></h4>
+    <a href='https://computerhoy.com/noticias/aumenta-confianza-optimismo-precio-futuro-shiba-inu-1104829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg' alt='Aumenta la confianza y el optimismo por el precio y futuro de Shiba Inu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869'>El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial</a></h4>
     <a href='https://computerhoy.com/noticias/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-1104869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-razr-2022-vera-luz-ya-conocemos-fecha-presentacion-cancelacion-inicial-2778327.jpg' alt='El Motorola Razr 2022 verá la luz: ya conocemos la fecha de presentación tras su cancelación inicial' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hielo-industrial-casero-diferencias-cual-enfria-consejos-hielo-casa-1104873'>Hielo industrial o casero: diferencias, cuál enfría más y consejos para hielo en casa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/hielo-industrial-casero-diferencias-cual-enfria-consejos-hielo-casa-1104873'>Hielo industrial o casero: diferencias, cuál enfría más y consejos para hacer hielo en casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/hielo-industrial-casero-diferencias-cual-enfria-consejos-hielo-casa-1104873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2778277.jpg' alt='Hielo industrial o casero: diferencias, cuál enfría más y consejos para hielo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/1-ano-aterrizaje-curiosity-marte-todo-hemos-aprendido-entonces-planeta-rojo-1104763'>10 años del aterrizaje de Curiosity en Marte, todo lo que hemos aprendido desde entonces del planeta rojo </a></h4>
-    <a href='https://computerhoy.com/noticias/1-ano-aterrizaje-curiosity-marte-todo-hemos-aprendido-entonces-planeta-rojo-1104763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/curiosity-1850815.jpg' alt='10 años del aterrizaje de Curiosity en Marte, todo lo que hemos aprendido desde entonces del planeta rojo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151'>El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg' alt='El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749'>La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta</a></h4>
-    <a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2778277.jpg' alt='Hielo industrial o casero: diferencias, cuál enfría más y consejos para hacer hielo en casa' />
     </a>
 </div>
 
