@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151'>El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-m53-5g-baja-precio-pone-apuros-xiaomi-realme-1104151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-m53-2776983.jpg' alt='El Samsung Galaxy M53 5G baja de precio y pone en apuros a Xiaomi y realme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749'>La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta</a></h4>
+    <a href='https://computerhoy.com/noticias/nueva-funcionalidad-whatsapp-evitar-robo-cuenta-1104749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='La nueva funcionalidad de WhatsApp para evitar el robo de tu cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741'>Consejos para tener una contraseña segura según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/contrasenas-2611485.jpg' alt='Consejos para tener una contraseña segura según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723'>YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos</a></h4>
     <a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/debes-llevar-cuando-montas-bici-evitar-multas-dgt-1104751'>Qué debes llevar cuando montas en bici para evitar multas según la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/debes-llevar-cuando-montas-bici-evitar-multas-dgt-1104751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/circular-bicicleta-2695635.jpg' alt='Qué debes llevar cuando montas en bici para evitar multas según la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745'>Cómo detectar que tu teléfono móvil se está calentando en exceso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ola-calor-2439059.jpg' alt='Cómo detectar que tu teléfono móvil se está calentando en exceso' />
     </a>
 </div>
 
