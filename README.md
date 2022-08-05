@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745'>Cómo detectar que tu teléfono móvil se está calentando en exceso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ola-calor-2439059.jpg' alt='Cómo detectar que tu teléfono móvil se está calentando en exceso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/sera-ropa-inteligente-vestiremos-proximo-ano-1104747'>Así será la ropa inteligente que vestiremos el próximo año</a></h4>
+    <a href='https://computerhoy.com/noticias/sera-ropa-inteligente-vestiremos-proximo-ano-1104747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ropa-lavable-inteligente-2369091.jpg' alt='Así será la ropa inteligente que vestiremos el próximo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sera-reemplazada-nueva-plataforma-2023-seguir-creciendo-ha-durado-tan-poco-1104663'>HBO Max será reemplazada por una nueva plataforma en 2023 para seguir creciendo, ¿por qué ha durado tan poco?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sera-reemplazada-nueva-plataforma-2023-seguir-creciendo-ha-durado-tan-poco-1104663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-discovery-2778015.jpg' alt='HBO Max será reemplazada por una nueva plataforma en 2023 para seguir creciendo, ¿por qué ha durado tan poco?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-rompen-record-precio-rebaja-33-1103011'>Los auriculares Xiaomi con cancelación rompen récord de precio con una rebaja del 33%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-rompen-record-precio-rebaja-33-1103011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448173.jpg' alt='Los auriculares Xiaomi con cancelación rompen récord de precio con una rebaja del 33%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/accesorios-natacion-aguas-abiertas-1102509'>Natación en aguas abiertas: mejores accesorios para practicar este deporte</a></h4>
     <a href='https://computerhoy.com/reportajes/life/accesorios-natacion-aguas-abiertas-1102509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/natacion-aguas-abiertas-2774285.jpg' alt='Natación en aguas abiertas: mejores accesorios para practicar este deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104655'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1104655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2777851.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-colchones-hinchables-1103717'>5 colchones hinchables top ventas por si hay más personas que camas en el piso de la playa</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-colchones-hinchables-1103717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-durmiendo-colchon-2776283.jpg' alt='5 colchones hinchables top ventas por si hay más personas que camas en el piso de la playa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433'>Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-conseguir-hielos-transparentes-duren-como-bares-no-peguen-otros-2777635.jpg' alt='Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431'>Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659651580132-2777633.jpg' alt='Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre' />
     </a>
 </div>
 
