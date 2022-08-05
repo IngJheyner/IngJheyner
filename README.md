@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011'>Apple TV+ refresca el verano con Luck, una alegre película de animación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659725379628-2778661.jpg' alt='Apple TV+ refresca el verano con Luck, una alegre película de animación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005'>Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-son-alimentos-menos-minutos-anaden-esperanza-vida-estudio-1105005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perrito-caliente-2778657.jpg' alt='Estos son los alimentos que más y menos minutos añaden a tu esperanza de vida, según un estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-tablas-paddle-surf-1103761'>Mejores tablas de paddle surf que puedes comprar para disfrutar este verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-tablas-paddle-surf-1103761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-perro-tabla-paddle-surf-2776405.jpg' alt='Mejores tablas de paddle surf que puedes comprar para disfrutar este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811'>Cómo saber si tu MacBook tiene spyware y cómo eliminarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-macbook-tiene-spyware-como-eliminarlo-1100811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Cómo saber si tu MacBook tiene spyware y cómo eliminarlo' />
     </a>
 </div>
 
