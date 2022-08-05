@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019'>Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prestigioso-cientifico-frances-tuitea-foto-telescopio-james-webb-resulta-ser-loncha-chorizo-2778673.jpg' alt='Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-echo-dot-amazon-rebaja-1105013'>El altavoz Echo Dot de Amazon otra vez rebajado de precio a solo 38,99€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-echo-dot-amazon-rebaja-1105013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='El altavoz Echo Dot de Amazon otra vez rebajado de precio a solo 38,99€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003'>Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-sorprende-prediccion-precios-queda-2022-1105003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg' alt='Elon Musk sorprende con su predicción sobre los precios para lo que queda de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-compra-irobot-robot-aspirador-roomba-1105001'>Amazon compra iRobot y se queda con los robots aspirador Roomba y todos sus datos, por 1.700 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-compra-irobot-robot-aspirador-roomba-1105001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-compra-irobot-queda-robots-aspirador-roomba-1700-millones-dolares-2778649.jpg' alt='Amazon compra iRobot y se queda con los robots aspirador Roomba y todos sus datos, por 1.700 millones de dólares' />
     </a>
 </div>
 
