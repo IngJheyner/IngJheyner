@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741'>Consejos para tener una contraseña segura según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/consejos-tener-contrasena-segura-ocu-1104741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/contrasenas-2611485.jpg' alt='Consejos para tener una contraseña segura según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/auriculares-true-wireless'>Consejos y guía de compra de auriculares inalámbricos Bluetooth True Wireless</a></h4>
+    <a href='https://computerhoy.com/guia-compra/auriculares-true-wireless' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/auriculares-bluetooth-2193149.jpg' alt='Consejos y guía de compra de auriculares inalámbricos Bluetooth True Wireless' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723'>YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos</a></h4>
+    <a href='https://computerhoy.com/noticias/youtube-anade-nueva-funcion-pruebas-permite-hacer-zoom-videos-1104723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/youtube-2157015.jpg' alt='YouTube añade una nueva función en pruebas que permite hacer zoom en los vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/debes-llevar-cuando-montas-bici-evitar-multas-dgt-1104751'>Qué debes llevar cuando montas en bici para evitar multas según la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/debes-llevar-cuando-montas-bici-evitar-multas-dgt-1104751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/circular-bicicleta-2695635.jpg' alt='Qué debes llevar cuando montas en bici para evitar multas según la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745'>Cómo detectar que tu teléfono móvil se está calentando en exceso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sera-ropa-inteligente-vestiremos-proximo-ano-1104745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ola-calor-2439059.jpg' alt='Cómo detectar que tu teléfono móvil se está calentando en exceso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/sera-ropa-inteligente-vestiremos-proximo-ano-1104747'>Así será la ropa inteligente que vestiremos el próximo año</a></h4>
-    <a href='https://computerhoy.com/noticias/sera-ropa-inteligente-vestiremos-proximo-ano-1104747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ropa-lavable-inteligente-2369091.jpg' alt='Así será la ropa inteligente que vestiremos el próximo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sera-reemplazada-nueva-plataforma-2023-seguir-creciendo-ha-durado-tan-poco-1104663'>HBO Max será reemplazada por una nueva plataforma en 2023 para seguir creciendo, ¿por qué ha durado tan poco?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sera-reemplazada-nueva-plataforma-2023-seguir-creciendo-ha-durado-tan-poco-1104663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-discovery-2778015.jpg' alt='HBO Max será reemplazada por una nueva plataforma en 2023 para seguir creciendo, ¿por qué ha durado tan poco?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-rompen-record-precio-rebaja-33-1103011'>Los auriculares Xiaomi con cancelación rompen récord de precio con una rebaja del 33%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-xiaomi-cancelacion-rompen-record-precio-rebaja-33-1103011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448173.jpg' alt='Los auriculares Xiaomi con cancelación rompen récord de precio con una rebaja del 33%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/accesorios-natacion-aguas-abiertas-1102509'>Natación en aguas abiertas: mejores accesorios para practicar este deporte</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/accesorios-natacion-aguas-abiertas-1102509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/natacion-aguas-abiertas-2774285.jpg' alt='Natación en aguas abiertas: mejores accesorios para practicar este deporte' />
     </a>
 </div>
 
