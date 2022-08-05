@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433'>Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-conseguir-hielos-transparentes-1104433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-conseguir-hielos-transparentes-duren-como-bares-no-peguen-otros-2777635.jpg' alt='Cómo conseguir hielos transparentes, que duren como los de los bares, y que no se peguen unos con otros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431'>Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-inteligente-alarma-bebe-hambriento-1104431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659651580132-2777633.jpg' alt='Padre manitas crea una cámara inteligente que le dice cuándo su bebe tiene hambre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407'>Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas</a></h4>
     <a href='https://computerhoy.com/noticias/life/alerta-producto-mercadona-mal-etiquetado-no-apto-personas-celiacas-1104407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-2777549.jpg' alt='Alerta por un producto de Mercadona mal etiquetado no apto para personas celiacas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405'>La piscina más profunda del mundo desvela nuevos secretos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/deep-dive-dubai-piscina-mas-profunda-mundo-1104405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659636757270-2777547.jpg' alt='La piscina más profunda del mundo desvela nuevos secretos' />
     </a>
 </div>
 
