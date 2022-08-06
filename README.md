@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297'>Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-seguir-apostando-juegos-aunque-casi-ningun-suscriptor-juega-1105289'>Netflix quiere seguir apostando por los juegos aunque casi ningún suscriptor los juega</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-seguir-apostando-juegos-aunque-casi-ningun-suscriptor-juega-1105289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-ya-tiene-videojuegos-puedes-acceder-ellos-siguiente-manera-2485981.jpg' alt='Netflix quiere seguir apostando por los juegos aunque casi ningún suscriptor los juega' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121'>Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/foto-sobreexposicion-2775223.jpg' alt='Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265'>Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines' />
     </a>
 </div>
 
