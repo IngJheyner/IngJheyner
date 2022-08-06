@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579'>Qué hacer si tras instalar Windows 11 tu ordenador no va bien</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué hacer si tras instalar Windows 11 tu ordenador no va bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279'>¿Qué es la bicicleta eléctrica?</a></h4>
     <a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-subido-bicicleta-electrica-subiendo-colina-2686605.jpg' alt='¿Qué es la bicicleta eléctrica?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139'>La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-one-75pus8536-12-2777067.jpg' alt='La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799'>Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico</a></h4>
-    <a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-2778219.jpg' alt='Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico' />
     </a>
 </div>
 
