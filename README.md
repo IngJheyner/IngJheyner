@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265'>Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-gigante-barata-85-litros-capacidad-menos-100-euros-1105259'>Esta freidora sin aceite es gigante y barata: 8,5 litros de capacidad por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-gigante-barata-85-litros-capacidad-menos-100-euros-1105259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-ultrean-2778913.jpg' alt='Esta freidora sin aceite es gigante y barata: 8,5 litros de capacidad por menos de 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249'>Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/poco-watch-review-opinion-1104153'>POCO Watch, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/poco-watch-review-opinion-1104153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777967.jpg' alt='POCO Watch, análisis y opinión' />
     </a>
 </div>
 
