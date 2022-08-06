@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815'>7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comics-1897723.jpg' alt='7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249'>Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/poco-watch-review-opinion-1104153'>POCO Watch, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/poco-watch-review-opinion-1104153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777967.jpg' alt='POCO Watch, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579'>Qué hacer si tras instalar Windows 11 tu ordenador no va bien</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué hacer si tras instalar Windows 11 tu ordenador no va bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279'>¿Qué es la bicicleta eléctrica?</a></h4>
-    <a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-subido-bicicleta-electrica-subiendo-colina-2686605.jpg' alt='¿Qué es la bicicleta eléctrica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-1104855'>El hielo escasea en el supermercado: estas máquinas lo hacen rápido y en abundancia</a></h4>
-    <a href='https://computerhoy.com/noticias/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-1104855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-2778205.jpg' alt='El hielo escasea en el supermercado: estas máquinas lo hacen rápido y en abundancia' />
     </a>
 </div>
 
