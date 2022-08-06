@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/que-es-kombucha-1105215'>Qué es la Kombucha, el Elixir de la Salud Inmortal</a></h4>
+    <a href='https://computerhoy.com/noticias/life/que-es-kombucha-1105215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-hacer-kombucha-elixir-salud-inmortal-2778865.jpg' alt='Qué es la Kombucha, el Elixir de la Salud Inmortal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941'>Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-muestra-persona-importante-cada-ciudad-mundo-hay-polemica-algunas-2778519.jpg' alt='Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/altavoz-echo-dot-amazon-rebaja-1105013'>El altavoz Echo Dot de Amazon otra vez rebajado de precio a solo 38,99€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/altavoz-echo-dot-amazon-rebaja-1105013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-echo-dot-4a-gen-2534615.jpg' alt='El altavoz Echo Dot de Amazon otra vez rebajado de precio a solo 38,99€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011'>Apple TV+ refresca el verano con Luck, una alegre película de animación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/luck-estreno-apple-tv-pelicula-animacion-1105011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659725379628-2778661.jpg' alt='Apple TV+ refresca el verano con Luck, una alegre película de animación' />
     </a>
 </div>
 
