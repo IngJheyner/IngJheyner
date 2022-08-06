@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121'>Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/foto-sobreexposicion-2775223.jpg' alt='Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265'>Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/adios-cine-casa-ya-no-garantiza-peliculas-warner-bros-lleguen-hbo-max-45-dias-estreno-cines-1105265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Adiós al cine en casa: ya no se garantiza que las películas de Warner Bros lleguen a HBO Max a los 45 días tras su estreno en cines' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815'>7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comics-1897723.jpg' alt='7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249'>Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-identificar-moneda-especial-2-euros-puede-llegar-valer-2000-euros-1105249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='Cómo identificar la moneda especial de 2 euros que puede llegar a valer hasta 2.000 euros' />
     </a>
 </div>
 
