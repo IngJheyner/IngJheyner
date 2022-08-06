@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213'>Mejores impresoras para Instagram que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-hi-print-2777171.jpg' alt='Mejores impresoras para Instagram que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267'>Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-inteligente-2778923.jpg' alt='Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121'>Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/foto-sobreexposicion-2775223.jpg' alt='Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-gigante-barata-85-litros-capacidad-menos-100-euros-1105259'>Esta freidora sin aceite es gigante y barata: 8,5 litros de capacidad por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aceite-gigante-barata-85-litros-capacidad-menos-100-euros-1105259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aceite-ultrean-2778913.jpg' alt='Esta freidora sin aceite es gigante y barata: 8,5 litros de capacidad por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/grave-error-llegar-volver-vacaciones-destrozando-motor-coche-1105255'>El grave error al llegar o volver de vacaciones que está destrozando el motor de tu coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/grave-error-llegar-volver-vacaciones-destrozando-motor-coche-1105255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/coche-2778909.jpg' alt='El grave error al llegar o volver de vacaciones que está destrozando el motor de tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815'>7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comics-1897723.jpg' alt='7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max' />
     </a>
 </div>
 
