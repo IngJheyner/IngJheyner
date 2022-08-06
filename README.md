@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/google-pixel-buds-pro-review-opinion-1104701'>Google Pixel Buds Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/google-pixel-buds-pro-review-opinion-1104701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-google-pixel-buds-pro-2778323.jpg' alt='Google Pixel Buds Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139'>La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-one-75pus8536-12-2777067.jpg' alt='La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917'>La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lectura-bionica-deberias-estar-usando-metodo-ahorrar-tiempo-2778389.jpg' alt='La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095'>Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alimentos-deshidratados-2728839.jpg' alt='Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas' />
     </a>
 </div>
 
