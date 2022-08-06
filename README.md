@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279'>¿Qué es la bicicleta eléctrica?</a></h4>
+    <a href='https://computerhoy.com/reportajes/bicicleta-electrica-1091279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/hombre-subido-bicicleta-electrica-subiendo-colina-2686605.jpg' alt='¿Qué es la bicicleta eléctrica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-1104855'>El hielo escasea en el supermercado: estas máquinas lo hacen rápido y en abundancia</a></h4>
+    <a href='https://computerhoy.com/noticias/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-1104855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hielo-escasea-supermercado-estas-maquinas-hacen-rapido-abundancia-2778205.jpg' alt='El hielo escasea en el supermercado: estas máquinas lo hacen rápido y en abundancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/google-pixel-buds-pro-review-opinion-1104701'>Google Pixel Buds Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/google-pixel-buds-pro-review-opinion-1104701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-google-pixel-buds-pro-2778323.jpg' alt='Google Pixel Buds Pro, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799'>Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico</a></h4>
     <a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-2778219.jpg' alt='Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/ganas-desaparezcan-videoconsolas-1102623'>Qué ganas de que desaparezcan las videoconsolas</a></h4>
-    <a href='https://computerhoy.com/reportajes/ganas-desaparezcan-videoconsolas-1102623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/opinion-xcloud-game-pass-iphone-2328009.jpg' alt='Qué ganas de que desaparezcan las videoconsolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917'>La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lectura-bionica-deberias-estar-usando-metodo-ahorrar-tiempo-2778389.jpg' alt='La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo' />
     </a>
 </div>
 
