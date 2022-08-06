@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/grave-error-llegar-volver-vacaciones-destrozando-motor-coche-1105255'>El grave error al llegar o volver de vacaciones que está destrozando el motor de tu coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/grave-error-llegar-volver-vacaciones-destrozando-motor-coche-1105255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/coche-2778909.jpg' alt='El grave error al llegar o volver de vacaciones que está destrozando el motor de tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815'>7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/series-basadas-comics-dc-no-te-puedes-perder-estan-disponibles-netflix-hbo-max-1103815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/comics-1897723.jpg' alt='7 series basadas en cómics de DC que no te puedes perder, y están disponibles en Netflix y HBO Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cybertruck-tesla-problemas-no-solo-va-ser-cara-sino-va-salir-tarde-mercado-1105239'>La Cybertruck de Tesla en problemas: no solo va a ser más cara sino que va a salir más tarde al mercado</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cybertruck-tesla-problemas-no-solo-va-ser-cara-sino-va-salir-tarde-mercado-1105239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg' alt='La Cybertruck de Tesla en problemas: no solo va a ser más cara sino que va a salir más tarde al mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579'>Qué hacer si tras instalar Windows 11 tu ordenador no va bien</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-instalar-windows-11-ordenador-no-va-bien-1096579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué hacer si tras instalar Windows 11 tu ordenador no va bien' />
     </a>
 </div>
 
