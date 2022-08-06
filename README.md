@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917'>La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lectura-bionica-deberias-estar-usando-metodo-ahorrar-tiempo-2778389.jpg' alt='La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095'>Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alimentos-deshidratados-2728839.jpg' alt='Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021'>Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659720747705-2778679.jpg' alt='Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019'>Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientifico-frances-foto-telescopio-james-webb-loncha-chorizo-1105019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/prestigioso-cientifico-frances-tuitea-foto-telescopio-james-webb-resulta-ser-loncha-chorizo-2778673.jpg' alt='Un prestigioso científico francés tuitea una foto del telescopio James Webb... y resulta ser una loncha de chorizo' />
     </a>
 </div>
 
