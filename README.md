@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139'>La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-smart-tv-ver-partidos-la-liga-1104139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-one-75pus8536-12-2777067.jpg' alt='La Liga empieza el 12 de agosto, estas Smart TV tienen apps para ver los partidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799'>Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico</a></h4>
+    <a href='https://computerhoy.com/noticias/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-1104799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-78-anos-nacio-ibm-mark-i-era-gran-ordenador-electromecanico-2778219.jpg' alt='Hace 78 años nació el IBM Mark I, así era este gran ordenador electromecánico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/ganas-desaparezcan-videoconsolas-1102623'>Qué ganas de que desaparezcan las videoconsolas</a></h4>
+    <a href='https://computerhoy.com/reportajes/ganas-desaparezcan-videoconsolas-1102623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/opinion-xcloud-game-pass-iphone-2328009.jpg' alt='Qué ganas de que desaparezcan las videoconsolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917'>La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/lectura-bionica-que-es-1104917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lectura-bionica-deberias-estar-usando-metodo-ahorrar-tiempo-2778389.jpg' alt='La lectura biónica y por qué deberías estar usando este método para ahorrar tiempo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095'>Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comprar-deshidratador-alimentos-como-funcionan-beneficios-ventajas-1076095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/alimentos-deshidratados-2728839.jpg' alt='Comprar un deshidratador de alimentos: cómo funcionan, beneficios y ventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/que-es-kombucha-1105215'>Qué es la Kombucha, el Elixir de la Salud Inmortal</a></h4>
-    <a href='https://computerhoy.com/noticias/life/que-es-kombucha-1105215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-hacer-kombucha-elixir-salud-inmortal-2778865.jpg' alt='Qué es la Kombucha, el Elixir de la Salud Inmortal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941'>Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-personas-importantes-notables-mundo-1104941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-muestra-persona-importante-cada-ciudad-mundo-hay-polemica-algunas-2778519.jpg' alt='Este mapa interactivo muestra la persona más importante en cada ciudad del mundo, y hay polémica con algunas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021'>Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-bomberos-luf-1105021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659720747705-2778679.jpg' alt='Llegan los robots bombero, capaces de lanzar 8.000 litros de agua por minuto a más de 100 metros' />
     </a>
 </div>
 
