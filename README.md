@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093'>El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trabajo-sonado-real-pagan-75000-euros-ano-probar-golosinas-unico-requisito-tener-5-anos-2776915.jpg' alt='El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057'>Guía y consejos para comprar un lavavajillas de sobremesa o mini</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lavavajillas-sobremesa-2728805.jpg' alt='Guía y consejos para comprar un lavavajillas de sobremesa o mini' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213'>Mejores impresoras para Instagram que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-hi-print-2777171.jpg' alt='Mejores impresoras para Instagram que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267'>Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-inteligente-2778923.jpg' alt='Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo' />
     </a>
 </div>
 
