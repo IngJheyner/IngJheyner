@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547'>Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gpt-3-ha-escrito-guion-pelicula-amor-cucarachas-ia-2779235.jpg' alt='Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-mesa-mezclas-hacer-propio-podcast-1090859'>Consejos y guía para comprar una mesa de mezclas para hacer tu propio podcast</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-mesa-mezclas-hacer-propio-podcast-1090859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mesa-mezclas-2754601.jpg' alt='Consejos y guía para comprar una mesa de mezclas para hacer tu propio podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785'>Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/viggo-mortensen-saga-cinematografica-senor-anillos-2227057.jpg' alt='Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771'>Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inteligencia-artificial-reinventa-posteres-oficiales-peliculas-algunos-son-mejores-originales-2779599.jpg' alt='Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757'>Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-google-maps-te-dice-como-realmente-barrio-pijo-hipster-humilde-2779579.jpg' alt='Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...' />
     </a>
 </div>
 
