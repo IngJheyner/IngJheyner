@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875'>Los mejores accesorios para la Xiaomi Mi Band</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Los mejores accesorios para la Xiaomi Mi Band' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399'>Cómo obtener una lista completa de todos los programas instalados en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aplicaciones-2706527.jpg' alt='Cómo obtener una lista completa de todos los programas instalados en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297'>MacBook Air M2, análisis y opinión del ultraportátil de Apple</a></h4>
     <a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='MacBook Air M2, análisis y opinión del ultraportátil de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295'>Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perro-sentado-junto-dueno-2778949.jpg' alt='Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-google-wallet-actualizacion-google-pay-1096013'>Cómo funciona Google Wallet, la actualización de Google Pay</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-google-wallet-actualizacion-google-pay-1096013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagar-movil-2763071.jpg' alt='Cómo funciona Google Wallet, la actualización de Google Pay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291'>Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-durmiendo-2778945.jpg' alt='Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio' />
     </a>
 </div>
 
