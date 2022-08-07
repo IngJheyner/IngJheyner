@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757'>Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-google-maps-te-dice-como-realmente-barrio-pijo-hipster-humilde-2779579.jpg' alt='Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535'>La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-2775793.jpg' alt='La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611'>Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente</a></h4>
+    <a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-2779431.jpg' alt='Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599'>Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/autopista-2779417.jpg' alt='Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593'>Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585'>La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929'>Sony SRS XB23, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-srs-xb23-analisis-opinion-2778439.jpg' alt='Sony SRS XB23, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575'>Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición' />
     </a>
 </div>
 
