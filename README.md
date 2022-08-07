@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771'>Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inteligencia-artificial-reinventa-posteres-oficiales-peliculas-algunos-son-mejores-originales-2779599.jpg' alt='Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
     <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611'>Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente</a></h4>
     <a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-2779431.jpg' alt='Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599'>Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/autopista-2779417.jpg' alt='Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT' />
     </a>
 </div>
 
