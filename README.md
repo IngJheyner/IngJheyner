@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599'>Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/autopista-2779417.jpg' alt='Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593'>Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585'>La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575'>Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875'>Los mejores accesorios para la Xiaomi Mi Band</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Los mejores accesorios para la Xiaomi Mi Band' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399'>Cómo obtener una lista completa de todos los programas instalados en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aplicaciones-2706527.jpg' alt='Cómo obtener una lista completa de todos los programas instalados en Windows' />
     </a>
 </div>
 
