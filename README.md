@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057'>Guía y consejos para comprar un lavavajillas de sobremesa o mini</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lavavajillas-sobremesa-2728805.jpg' alt='Guía y consejos para comprar un lavavajillas de sobremesa o mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297'>Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267'>Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-bateria-solo-necesita-segundos-luz-solar-cargar-dispositivos-maximo-1105267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-inteligente-2778923.jpg' alt='Esta nueva batería solo necesita segundos de luz solar para cargar nuestros dispositivos al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121'>Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-fotografias-impresionantes-movil-gracias-sobreexposicion-1103121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/foto-sobreexposicion-2775223.jpg' alt='Cómo crear fotografías impresionantes desde tu móvil gracias a la sobreexposición' />
     </a>
 </div>
 
