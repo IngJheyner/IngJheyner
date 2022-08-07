@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779'>El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-vuelo-mision-artemisa-tiene-nuevo-astronauta-oveja-shaun-2779625.jpg' alt='El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771'>Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inteligencia-artificial-reinventa-posteres-oficiales-peliculas-algunos-son-mejores-originales-2779599.jpg' alt='Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535'>La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-2775793.jpg' alt='La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611'>Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente</a></h4>
-    <a href='https://computerhoy.com/noticias/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-1105611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/error-google-maps-guia-coche-arroyo-salvan-vida-milagrosamente-2779431.jpg' alt='Un error de Google Maps guía a este coche hacia un arroyo y salvan la vida milagrosamente' />
     </a>
 </div>
 
