@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785'>Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/viggo-mortensen-saga-cinematografica-senor-anillos-2227057.jpg' alt='Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779'>El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun</a></h4>
     <a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-vuelo-mision-artemisa-tiene-nuevo-astronauta-oveja-shaun-2779625.jpg' alt='El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757'>Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...</a></h4>
     <a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-google-maps-te-dice-como-realmente-barrio-pijo-hipster-humilde-2779579.jpg' alt='Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535'>La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-1103535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navaja-suiza-retocar-videos-vacaciones-open-source-windows-mac-gratis-2775793.jpg' alt='La navaja suiza para retocar los vídeos de tus vacaciones: open-source, para Windows y Mac, y gratis' />
     </a>
 </div>
 
