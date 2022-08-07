@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929'>Sony SRS XB23, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-srs-xb23-analisis-opinion-2778439.jpg' alt='Sony SRS XB23, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575'>Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-volveria-estar-interesado-comprar-twitter-solo-condicion-1105575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='Elon Musk volvería a estar interesado en comprar Twitter solo bajo esta condición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875'>Los mejores accesorios para la Xiaomi Mi Band</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-xiaomi-mi-band-1090875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='Los mejores accesorios para la Xiaomi Mi Band' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297'>MacBook Air M2, análisis y opinión del ultraportátil de Apple</a></h4>
     <a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='MacBook Air M2, análisis y opinión del ultraportátil de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105'>5 móviles que hemos probado este verano y que nos han encantado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='5 móviles que hemos probado este verano y que nos han encantado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295'>Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perro-sentado-junto-dueno-2778949.jpg' alt='Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales' />
     </a>
 </div>
 
