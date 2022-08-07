@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291'>Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-durmiendo-2778945.jpg' alt='Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243'>Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-reparando-telefono-movil-2777189.jpg' alt='Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093'>El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trabajo-sonado-real-pagan-75000-euros-ano-probar-golosinas-unico-requisito-tener-5-anos-2776915.jpg' alt='El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297'>Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-seguir-apostando-juegos-aunque-casi-ningun-suscriptor-juega-1105289'>Netflix quiere seguir apostando por los juegos aunque casi ningún suscriptor los juega</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-quiere-seguir-apostando-juegos-aunque-casi-ningun-suscriptor-juega-1105289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-ya-tiene-videojuegos-puedes-acceder-ellos-siguiente-manera-2485981.jpg' alt='Netflix quiere seguir apostando por los juegos aunque casi ningún suscriptor los juega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213'>Mejores impresoras para Instagram que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-impresoras-instagram-1104213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/polaroid-hi-print-2777171.jpg' alt='Mejores impresoras para Instagram que puedes comprar' />
     </a>
 </div>
 
