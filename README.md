@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297'>MacBook Air M2, análisis y opinión del ultraportátil de Apple</a></h4>
+    <a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='MacBook Air M2, análisis y opinión del ultraportátil de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105'>5 móviles que hemos probado este verano y que nos han encantado</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='5 móviles que hemos probado este verano y que nos han encantado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291'>Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-durmiendo-2778945.jpg' alt='Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243'>Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-reparando-telefono-movil-2777189.jpg' alt='Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo' />
     </a>
 </div>
 
