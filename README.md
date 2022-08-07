@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105'>5 móviles que hemos probado este verano y que nos han encantado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-hemos-probado-verano-nos-han-encantado-1103105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg' alt='5 móviles que hemos probado este verano y que nos han encantado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295'>Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-quieren-usar-inteligencia-artificial-podamos-hablar-todos-animales-1105295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/perro-sentado-junto-dueno-2778949.jpg' alt='Ahora quieren usar inteligencia artificial para que podamos hablar con todos los animales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-google-wallet-actualizacion-google-pay-1096013'>Cómo funciona Google Wallet, la actualización de Google Pay</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-google-wallet-actualizacion-google-pay-1096013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagar-movil-2763071.jpg' alt='Cómo funciona Google Wallet, la actualización de Google Pay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291'>Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/permanecer-despierto-despues-medianoche-muy-perjudicial-salud-estudio-1105291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-durmiendo-2778945.jpg' alt='Permanecer despierto después de la medianoche es muy perjudicial para la salud, según este estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243'>Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-reparar-telefonos-moviles-1104243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-reparando-telefono-movil-2777189.jpg' alt='Reparar teléfonos móviles: estos cursos te enseñarán a hacerlo tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093'>El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trabajo-sonado-real-pagan-75000-euros-probar-golosinas-1104093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trabajo-sonado-real-pagan-75000-euros-ano-probar-golosinas-unico-requisito-tener-5-anos-2776915.jpg' alt='El trabajo soñado es real: pagan 75.000 euros al año por probar golosinas, el único requisito es tener más de 5 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057'>Guía y consejos para comprar un lavavajillas de sobremesa o mini</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-lavavajillas-sobremesa-mini-1076057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/lavavajillas-sobremesa-2728805.jpg' alt='Guía y consejos para comprar un lavavajillas de sobremesa o mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297'>Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-sorprendentes-cambios-esteticos-tendria-apple-watch-series-8-1105297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg' alt='Estos son los sorprendentes cambios estéticos que tendría el Apple Watch Series 8' />
     </a>
 </div>
 
