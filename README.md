@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/climatizador-evaporativo-2706753.jpg' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757'>Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...</a></h4>
     <a href='https://computerhoy.com/noticias/life/hoodmaps-mapa-google-maps-barrio-pijo-hipster-humilde-1105757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapa-google-maps-te-dice-como-realmente-barrio-pijo-hipster-humilde-2779579.jpg' alt='Este mapa de Google Maps te dice cómo es realmente tu barrio: pijo, hipster, humilde...' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599'>Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-identificar-carril-trenzado-como-utilizarlos-correctamente-evitar-multas-dgt-1105599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/autopista-2779417.jpg' alt='Cómo identificar un carril trenzado y cómo utilizarlos correctamente para evitar multas de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593'>Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alma-reloj-precio-pulsera-huawei-band-7-oferta-precio-irresistible-1105593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/huawei-band-7-2742189.jpg' alt='Alma de reloj y precio de pulsera: la Huawei Band 7 está en oferta a un precio irresistible' />
     </a>
 </div>
 
