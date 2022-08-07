@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585'>La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-actualizacion-android-auto-ya-incluye-diseno-inspirado-coolwalk-1105585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg' alt='La última actualización de Android Auto ya incluye diseño inspirado en Coolwalk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929'>Sony SRS XB23, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-srs-xb23-review-opinion-1104929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-srs-xb23-analisis-opinion-2778439.jpg' alt='Sony SRS XB23, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399'>Cómo obtener una lista completa de todos los programas instalados en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-obtener-lista-completa-todos-programas-instalados-windows-1063399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aplicaciones-2706527.jpg' alt='Cómo obtener una lista completa de todos los programas instalados en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297'>MacBook Air M2, análisis y opinión del ultraportátil de Apple</a></h4>
-    <a href='https://computerhoy.com/analisis/macbook-air-m2-review-opinion-ultraportatil-apple-1101297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg' alt='MacBook Air M2, análisis y opinión del ultraportátil de Apple' />
     </a>
 </div>
 
