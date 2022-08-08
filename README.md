@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229'>Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177'>El sencillo truco psicológico para ser mejores al realizar cualquier tarea</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-trabajando-cabeza-tumbada-ordenador-2780325.jpg' alt='El sencillo truco psicológico para ser mejores al realizar cualquier tarea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-opcion-hara-grupo-padres-cole-sea-algo-menos-infernal-1106217'>WhatsApp prepara una opción que hará que el grupo de padres del cole sea algo menos infernal</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-opcion-hara-grupo-padres-cole-sea-algo-menos-infernal-1106217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp prepara una opción que hará que el grupo de padres del cole sea algo menos infernal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/3-electrodomesticos-arruinan-factura-luz-como-usarlos-correctamente-ocu-1106215'>Los 3 electrodomésticos que arruinan tu factura de la luz y cómo usarlos correctamente, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/3-electrodomesticos-arruinan-factura-luz-como-usarlos-correctamente-ocu-1106215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/frigorifico-2780409.jpg' alt='Los 3 electrodomésticos que arruinan tu factura de la luz y cómo usarlos correctamente, según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211'>Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapas-precisos-saber-cuanta-energia-solar-puede-generar-tejado-sombra-acecha-2780393.jpg' alt='Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-runners-rebajado-precio-viene-auriculares-gratis-1105905'>Uno de los mejores relojes para runners está rebajado de precio y viene con auriculares gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-runners-rebajado-precio-viene-auriculares-gratis-1105905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Uno de los mejores relojes para runners está rebajado de precio y viene con auriculares gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877'>Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte</a></h4>
-    <a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999'>¿Cómo funciona un sistema de aire acondicionado?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='¿Cómo funciona un sistema de aire acondicionado?' />
     </a>
 </div>
 
