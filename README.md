@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2779695.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547'>Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gpt-3-ha-escrito-guion-pelicula-amor-cucarachas-ia-2779235.jpg' alt='Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785'>Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/viggo-mortensen-saga-cinematografica-senor-anillos-2227057.jpg' alt='Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779'>El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mision-artemisa-luna-oveja-shaun-1105779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-vuelo-mision-artemisa-tiene-nuevo-astronauta-oveja-shaun-2779625.jpg' alt='El primer vuelo de la misión Artemisa a la Luna tiene un nuevo astronauta: la oveja Shaun' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771'>Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robomojo-ia-reinventa-posteres-oficiales-peliculas-1105771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inteligencia-artificial-reinventa-posteres-oficiales-peliculas-algunos-son-mejores-originales-2779599.jpg' alt='Una inteligencia artificial reinventa los pósteres oficiales de las películas, y algunos son mejores que los originales' />
     </a>
 </div>
 
