@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-1104879'>El móvil más low cost de Xiaomi en 2022 es aún más barato: cuesta solo 137 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-1104879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-2778287.jpg' alt='El móvil más low cost de Xiaomi en 2022 es aún más barato: cuesta solo 137 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/7-fails-keynotes-tech-desastrosos-todos-tiempos-1106031'>Los 9 fails en Keynotes tech más desastrosos de todos los tiempos</a></h4>
+    <a href='https://computerhoy.com/noticias/7-fails-keynotes-tech-desastrosos-todos-tiempos-1106031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='Los 9 fails en Keynotes tech más desastrosos de todos los tiempos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ya-tenemos-fecha-lanzamiento-nuevos-motorola-razr-2022-x30-pro-s30-pro-1106053'>Ya tenemos fecha de lanzamiento de los nuevos Motorola Razr 2022, X30 Pro y S30 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/ya-tenemos-fecha-lanzamiento-nuevos-motorola-razr-2022-x30-pro-s30-pro-1106053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669409.jpg' alt='Ya tenemos fecha de lanzamiento de los nuevos Motorola Razr 2022, X30 Pro y S30 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029'>5 cosas que no sabías que Google Maps puede hacer</a></h4>
     <a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='5 cosas que no sabías que Google Maps puede hacer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483'>Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos</a></h4>
     <a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crema-antirrozaduras-aptonia-decathlon-2774203.jpg' alt='Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997'>Los límites de Bizum que debes conocer para evitar tener problemas</a></h4>
-    <a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Los límites de Bizum que debes conocer para evitar tener problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-une-chollo-verano-televisor-android-tv-200-euros-1106007'>Lidl y Xiaomi se unen para el chollo del verano: un televisor Android TV a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-une-chollo-verano-televisor-android-tv-200-euros-1106007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-tv-p1-2779929.jpg' alt='Lidl y Xiaomi se unen para el chollo del verano: un televisor Android TV a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/lavavajillas'>La guía definitiva para elegir y comprar un lavavajillas para tu cocina</a></h4>
-    <a href='https://computerhoy.com/guia-compra/lavavajillas' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/lavavajillas-2261029.jpg' alt='La guía definitiva para elegir y comprar un lavavajillas para tu cocina' />
     </a>
 </div>
 
