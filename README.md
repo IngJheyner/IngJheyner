@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029'>5 cosas que no sabías que Google Maps puede hacer</a></h4>
+    <a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='5 cosas que no sabías que Google Maps puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483'>Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crema-antirrozaduras-aptonia-decathlon-2774203.jpg' alt='Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997'>Los límites de Bizum que debes conocer para evitar tener problemas</a></h4>
     <a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Los límites de Bizum que debes conocer para evitar tener problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/lavavajillas'>La guía definitiva para elegir y comprar un lavavajillas para tu cocina</a></h4>
     <a href='https://computerhoy.com/guia-compra/lavavajillas' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/lavavajillas-2261029.jpg' alt='La guía definitiva para elegir y comprar un lavavajillas para tu cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975'>JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON</a></h4>
-    <a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929'>Esto es lo que contamina crear y reciclar una batería eléctrica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/coche-electrico-seguro-mundo-no-no-tesla.jpg' alt='Esto es lo que contamina crear y reciclar una batería eléctrica' />
     </a>
 </div>
 
