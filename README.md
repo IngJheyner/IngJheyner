@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/3-electrodomesticos-arruinan-factura-luz-como-usarlos-correctamente-ocu-1106215'>Los 3 electrodomésticos que arruinan tu factura de la luz y cómo usarlos correctamente, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/3-electrodomesticos-arruinan-factura-luz-como-usarlos-correctamente-ocu-1106215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/frigorifico-2780409.jpg' alt='Los 3 electrodomésticos que arruinan tu factura de la luz y cómo usarlos correctamente, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211'>Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapas-precisos-saber-cuanta-energia-solar-puede-generar-tejado-sombra-acecha-2780393.jpg' alt='Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999'>¿Cómo funciona un sistema de aire acondicionado?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='¿Cómo funciona un sistema de aire acondicionado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171'>Las 7 aplicaciones más populares que cualquier usuario de Android necesita</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-populares-cualquier-usuario-android-necesita-2780303.jpg' alt='Las 7 aplicaciones más populares que cualquier usuario de Android necesita' />
     </a>
 </div>
 
