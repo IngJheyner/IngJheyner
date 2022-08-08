@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997'>Los límites de Bizum que debes conocer para evitar tener problemas</a></h4>
+    <a href='https://computerhoy.com/noticias/limites-bizum-debes-conocer-evitar-tener-problemas-1105997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/estas-son-3-estafas-comunes-bizum-banco-espana-2505953.jpg' alt='Los límites de Bizum que debes conocer para evitar tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-une-chollo-verano-televisor-android-tv-200-euros-1106007'>Lidl y Xiaomi se unen para el chollo del verano: un televisor Android TV a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-une-chollo-verano-televisor-android-tv-200-euros-1106007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-tv-p1-2779929.jpg' alt='Lidl y Xiaomi se unen para el chollo del verano: un televisor Android TV a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/lavavajillas'>La guía definitiva para elegir y comprar un lavavajillas para tu cocina</a></h4>
+    <a href='https://computerhoy.com/guia-compra/lavavajillas' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/lavavajillas-2261029.jpg' alt='La guía definitiva para elegir y comprar un lavavajillas para tu cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975'>JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON</a></h4>
     <a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929'>Esto es lo que contamina crear y reciclar una batería eléctrica</a></h4>
     <a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/coche-electrico-seguro-mundo-no-no-tesla.jpg' alt='Esto es lo que contamina crear y reciclar una batería eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-rebaja-macbook-pro-m2-amazon-baja-casi-100-euros-1105893'>Primera rebaja en el MacBook Pro M2 en Amazon: baja casi 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-rebaja-macbook-pro-m2-amazon-baja-casi-100-euros-1105893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Primera rebaja en el MacBook Pro M2 en Amazon: baja casi 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899'>Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881'>Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-2779737.jpg' alt='Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90' />
     </a>
 </div>
 
