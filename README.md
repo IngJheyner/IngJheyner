@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919'>Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora</a></h4>
+    <a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-2779923.jpg' alt='Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-actuar-retencion-repentina-carretera-dgt-no-hay-activar-warnings-1106099'>Cómo actuar ante una retención repentina en carretera según la DGT, no hay que activar los warnings</a></h4>
+    <a href='https://computerhoy.com/noticias/como-actuar-retencion-repentina-carretera-dgt-no-hay-activar-warnings-1106099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/conductor-retencion-2606387.jpg' alt='Cómo actuar ante una retención repentina en carretera según la DGT, no hay que activar los warnings' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/solucion-efecto-invernadero-estas-olas-calor-podria-ser-increiblemente-sencilla-barata-1106113'>La solución al efecto invernadero y estas olas de calor podría ser increíblemente sencilla y barata</a></h4>
+    <a href='https://computerhoy.com/noticias/life/solucion-efecto-invernadero-estas-olas-calor-podria-ser-increiblemente-sencilla-barata-1106113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cambio-climatico-2302181.jpg' alt='La solución al efecto invernadero y estas olas de calor podría ser increíblemente sencilla y barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-1104879'>El móvil más low cost de Xiaomi en 2022 es aún más barato: cuesta solo 137 euros</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-1104879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-10c-137eu-159eu-tienda-oficial-2778287.jpg' alt='El móvil más low cost de Xiaomi en 2022 es aún más barato: cuesta solo 137 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/7-fails-keynotes-tech-desastrosos-todos-tiempos-1106031'>Los 9 fails en Keynotes tech más desastrosos de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/noticias/7-fails-keynotes-tech-desastrosos-todos-tiempos-1106031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg' alt='Los 9 fails en Keynotes tech más desastrosos de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ya-tenemos-fecha-lanzamiento-nuevos-motorola-razr-2022-x30-pro-s30-pro-1106053'>Ya tenemos fecha de lanzamiento de los nuevos Motorola Razr 2022, X30 Pro y S30 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/ya-tenemos-fecha-lanzamiento-nuevos-motorola-razr-2022-x30-pro-s30-pro-1106053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669409.jpg' alt='Ya tenemos fecha de lanzamiento de los nuevos Motorola Razr 2022, X30 Pro y S30 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029'>5 cosas que no sabías que Google Maps puede hacer</a></h4>
-    <a href='https://computerhoy.com/noticias/5-cosas-no-sabias-google-maps-puede-hacer-1106029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg' alt='5 cosas que no sabías que Google Maps puede hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483'>Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/famosa-crema-decathlon-absolutamente-imprescindible-verano-son-7-euros-mejor-invertidos-1102483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crema-antirrozaduras-aptonia-decathlon-2774203.jpg' alt='Esta famosa crema de Decathlon es absolutamente imprescindible en verano: son los 7 euros mejor invertidos' />
     </a>
 </div>
 
