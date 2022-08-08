@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877'>Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte</a></h4>
+    <a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999'>¿Cómo funciona un sistema de aire acondicionado?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-sistema-aire-acondicionado-1105999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='¿Cómo funciona un sistema de aire acondicionado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171'>Las 7 aplicaciones más populares que cualquier usuario de Android necesita</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-populares-cualquier-usuario-android-necesita-2780303.jpg' alt='Las 7 aplicaciones más populares que cualquier usuario de Android necesita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-1106139'>Videollamadas Google Meet más animadas: soporte Spotify, YouTube, Uno, y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-1106139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-2780233.jpg' alt='Videollamadas Google Meet más animadas: soporte Spotify, YouTube, Uno, y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147'>Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trucos-caseros-quitar-aranazos-coche-2422793.jpg' alt='Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919'>Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora</a></h4>
-    <a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-2779923.jpg' alt='Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora' />
     </a>
 </div>
 
