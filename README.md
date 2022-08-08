@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881'>Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-2779737.jpg' alt='Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/datos-54-millones-usuarios-twitter-estarian-manos-hackers-debido-filtracion-1105871'>Tu cuenta candado de Twitter puede no ser segura: un hacker roba los datos de 5,4 millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/datos-54-millones-usuarios-twitter-estarian-manos-hackers-debido-filtracion-1105871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Tu cuenta candado de Twitter puede no ser segura: un hacker roba los datos de 5,4 millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007'>Mejores mesas de altura regulable que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-escritorio-altura-regulable-2652277.jpg' alt='Mejores mesas de altura regulable que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2779695.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547'>Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gpt-3-escribe-guion-pelicula-amor-cucarachas-ia-1105547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gpt-3-ha-escrito-guion-pelicula-amor-cucarachas-ia-2779235.jpg' alt='Cómo GPT-3 ha escrito el guión de una película de amor entre cucarachas y la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-mesa-mezclas-hacer-propio-podcast-1090859'>Consejos y guía para comprar una mesa de mezclas para hacer tu propio podcast</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/consejos-guia-comprar-mesa-mezclas-hacer-propio-podcast-1090859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mesa-mezclas-2754601.jpg' alt='Consejos y guía para comprar una mesa de mezclas para hacer tu propio podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785'>Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-trilogia-senor-anillos-4k-hdr-1105785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/viggo-mortensen-saga-cinematografica-senor-anillos-2227057.jpg' alt='Prime Video responde a Juego de Tronos en 4K estrenando la versión mejorada de la trilogía de El Señor de los Anillos en 4K y HDR' />
     </a>
 </div>
 
