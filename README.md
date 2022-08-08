@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975'>JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON</a></h4>
+    <a href='https://computerhoy.com/noticias/javascript-lenguaje-dinosaurio-deberia-ser-retirado-comenta-creador-json-1105975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='JavaScript es un lenguaje dinosaurio y debería ser retirado, comenta el creador de JSON' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929'>Esto es lo que contamina crear y reciclar una batería eléctrica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/contamina-crear-reciclar-bateria-electrica-1105929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/coche-electrico-seguro-mundo-no-no-tesla.jpg' alt='Esto es lo que contamina crear y reciclar una batería eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-rebaja-macbook-pro-m2-amazon-baja-casi-100-euros-1105893'>Primera rebaja en el MacBook Pro M2 en Amazon: baja casi 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-rebaja-macbook-pro-m2-amazon-baja-casi-100-euros-1105893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/macbook-pro-14-2671355.jpg' alt='Primera rebaja en el MacBook Pro M2 en Amazon: baja casi 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899'>Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre</a></h4>
     <a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881'>Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-2779737.jpg' alt='Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/datos-54-millones-usuarios-twitter-estarian-manos-hackers-debido-filtracion-1105871'>Tu cuenta candado de Twitter puede no ser segura: un hacker roba los datos de 5,4 millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/datos-54-millones-usuarios-twitter-estarian-manos-hackers-debido-filtracion-1105871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/twitter-2639193.jpg' alt='Tu cuenta candado de Twitter puede no ser segura: un hacker roba los datos de 5,4 millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007'>Mejores mesas de altura regulable que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mesas-altura-regulable-1032007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/mujer-escritorio-altura-regulable-2652277.jpg' alt='Mejores mesas de altura regulable que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
     </a>
 </div>
 
