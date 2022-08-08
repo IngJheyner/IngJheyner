@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899'>Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre</a></h4>
+    <a href='https://computerhoy.com/noticias/como-solicitar-online-abono-renfe-viajar-gratis-1-septiembre-1105899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='Cómo solicitar online el abono de Renfe para viajar gratis desde el 1 de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881'>Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-1105881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguimiento-cabeza-dolby-atmos-nuevos-lg-tone-free-t90-2779737.jpg' alt='Seguimiento de cabeza de Dolby Atmos para los nuevos LG Tone Free T90' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-11-lite-new-edition-2524247.jpg' alt='Estos son los mejores móviles baratos de Xiaomi en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1105859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2779695.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
