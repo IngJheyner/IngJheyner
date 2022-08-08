@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211'>Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapas-precisos-energia-solar-generar-tejado-sombra-1106211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mapas-precisos-saber-cuanta-energia-solar-puede-generar-tejado-sombra-acecha-2780393.jpg' alt='Los mapas más precisos con los que saber cuánta energía solar puede generar tu tejado y la sombra que le acecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-runners-rebajado-precio-viene-auriculares-gratis-1105905'>Uno de los mejores relojes para runners está rebajado de precio y viene con auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-runners-rebajado-precio-viene-auriculares-gratis-1105905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/huawei-watch-gt-runner-2640821.jpg' alt='Uno de los mejores relojes para runners está rebajado de precio y viene con auriculares gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877'>Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte</a></h4>
     <a href='https://computerhoy.com/noticias/como-funciona-s-modo-ultraseguro-windows-11-convertir-pc-caja-fuerte-1105877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Cómo funciona S, el modo ultraseguro de Windows 11 para convertir tu PC en una caja fuerte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171'>Las 7 aplicaciones más populares que cualquier usuario de Android necesita</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-populares-cualquier-usuario-android-necesita-2780303.jpg' alt='Las 7 aplicaciones más populares que cualquier usuario de Android necesita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-te-han-hackeado-movil-1105987'>Cómo saber si te han hackeado el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-te-han-hackeado-movil-1105987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Cómo saber si te han hackeado el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-1106139'>Videollamadas Google Meet más animadas: soporte Spotify, YouTube, Uno, y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-1106139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/videollamadas-google-meet-animadas-soporte-spotify-youtube-mucho-2780233.jpg' alt='Videollamadas Google Meet más animadas: soporte Spotify, YouTube, Uno, y mucho más' />
     </a>
 </div>
 
