@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171'>Las 7 aplicaciones más populares que cualquier usuario de Android necesita</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-populares-cualquier-usuario-android-necesita-1106171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-populares-cualquier-usuario-android-necesita-2780303.jpg' alt='Las 7 aplicaciones más populares que cualquier usuario de Android necesita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-te-han-hackeado-movil-1105987'>Cómo saber si te han hackeado el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-te-han-hackeado-movil-1105987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Cómo saber si te han hackeado el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919'>Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora</a></h4>
     <a href='https://computerhoy.com/noticias/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-1105919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-siglo-medio-edison-invento-mimeografo-abuelo-fotocopiadora-2779923.jpg' alt='Hace un siglo y medio Edison inventó el mimeógrafo, el abuelo de la fotocopiadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-actuar-retencion-repentina-carretera-dgt-no-hay-activar-warnings-1106099'>Cómo actuar ante una retención repentina en carretera según la DGT, no hay que activar los warnings</a></h4>
-    <a href='https://computerhoy.com/noticias/como-actuar-retencion-repentina-carretera-dgt-no-hay-activar-warnings-1106099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/conductor-retencion-2606387.jpg' alt='Cómo actuar ante una retención repentina en carretera según la DGT, no hay que activar los warnings' />
     </a>
 </div>
 
