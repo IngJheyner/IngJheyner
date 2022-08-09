@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799'>El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/taurus-babel-invisible-2758505.jpg' alt='El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795'>Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781'>Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas</a></h4>
     <a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2781517.jpg' alt='Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131'>Yellow Days de FNAC: estas son las mejores ofertas de su tienda online</a></h4>
-    <a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Yellow Days de FNAC: estas son las mejores ofertas de su tienda online' />
     </a>
 </div>
 
