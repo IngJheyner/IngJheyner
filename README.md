@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/blenderbot-3-nuevo-chatbot-meta-tarda-solo-cinco-dias-volverse-racista-conspiranoico-1106511'>BlenderBot 3, el nuevo chatbot de Meta, tarda solo cinco días en volverse racista y conspiranoico</a></h4>
+    <a href='https://computerhoy.com/noticias/blenderbot-3-nuevo-chatbot-meta-tarda-solo-cinco-dias-volverse-racista-conspiranoico-1106511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='BlenderBot 3, el nuevo chatbot de Meta, tarda solo cinco días en volverse racista y conspiranoico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/cual-asteroide-posibilidades-impactar-tierra-1106523'>¿Cuál es el asteroide con más posibilidades de impactar sobre la Tierra?</a></h4>
+    <a href='https://computerhoy.com/noticias/cual-asteroide-posibilidades-impactar-tierra-1106523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg' alt='¿Cuál es el asteroide con más posibilidades de impactar sobre la Tierra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-saber-estas-afectado-hackeo-filtracion-datos-hacer-continuacion-1106499'>Cómo saber si estás afectado por un hackeo o filtración de datos y qué hacer a continuación </a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-estas-afectado-hackeo-filtracion-datos-hacer-continuacion-1106499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Cómo saber si estás afectado por un hackeo o filtración de datos y qué hacer a continuación ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077'>El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604653.jpg' alt='El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481'>Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp </a></h4>
-    <a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483'>Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680739.jpg' alt='Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia' />
     </a>
 </div>
 
