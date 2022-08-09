@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/perdida-datos-peor-rendimiento-nuevo-fallo-windows-11-afecta-procesadores-nuevos-1106623'>Pérdida de datos y peor rendimiento: así es el nuevo fallo de Windows 11 que afecta a los procesadores nuevos</a></h4>
+    <a href='https://computerhoy.com/noticias/perdida-datos-peor-rendimiento-nuevo-fallo-windows-11-afecta-procesadores-nuevos-1106623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2755641.jpg' alt='Pérdida de datos y peor rendimiento: así es el nuevo fallo de Windows 11 que afecta a los procesadores nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-1106621'>DJI Avata se deja ver en vídeo, minidrone FPV para interiores y exteriores</a></h4>
+    <a href='https://computerhoy.com/noticias/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-1106621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-2781013.jpg' alt='DJI Avata se deja ver en vídeo, minidrone FPV para interiores y exteriores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mark-zuckerberg-ha-anunciado-nombre-meta-nuevas-funciones-privacidad-whatsapp-1106613'>Mark Zuckerberg anuncia en nombre de Meta nuevas funciones de privacidad para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/mark-zuckerberg-ha-anunciado-nombre-meta-nuevas-funciones-privacidad-whatsapp-1106613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Mark Zuckerberg anuncia en nombre de Meta nuevas funciones de privacidad para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/debes-viajar-abono-trenes-te-salga-gratis-verdad-ocu-1106559'>Lo que debes viajar para que el abono de trenes te salga gratis de verdad, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/debes-viajar-abono-trenes-te-salga-gratis-verdad-ocu-1106559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg' alt='Lo que debes viajar para que el abono de trenes te salga gratis de verdad, según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563'>Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-2780847.jpg' alt='Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/iphone-recupera-funcion-llevas-echando-menos-mucho-tiempo-1106553'>Tu iPhone recupera una función que llevas echando de menos mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/noticias/iphone-recupera-funcion-llevas-echando-menos-mucho-tiempo-1106553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='Tu iPhone recupera una función que llevas echando de menos mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/blenderbot-3-nuevo-chatbot-meta-tarda-solo-cinco-dias-volverse-racista-conspiranoico-1106511'>BlenderBot 3, el nuevo chatbot de Meta, tarda solo cinco días en volverse racista y conspiranoico</a></h4>
-    <a href='https://computerhoy.com/noticias/blenderbot-3-nuevo-chatbot-meta-tarda-solo-cinco-dias-volverse-racista-conspiranoico-1106511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/inteligencia-artificial-2453131.jpg' alt='BlenderBot 3, el nuevo chatbot de Meta, tarda solo cinco días en volverse racista y conspiranoico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/cual-asteroide-posibilidades-impactar-tierra-1106523'>¿Cuál es el asteroide con más posibilidades de impactar sobre la Tierra?</a></h4>
-    <a href='https://computerhoy.com/noticias/cual-asteroide-posibilidades-impactar-tierra-1106523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg' alt='¿Cuál es el asteroide con más posibilidades de impactar sobre la Tierra?' />
     </a>
 </div>
 
