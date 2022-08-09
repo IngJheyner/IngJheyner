@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-saber-estas-afectado-hackeo-filtracion-datos-hacer-continuacion-1106499'>Cómo saber si estás afectado por un hackeo o filtración de datos y qué hacer a continuación </a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-estas-afectado-hackeo-filtracion-datos-hacer-continuacion-1106499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Cómo saber si estás afectado por un hackeo o filtración de datos y qué hacer a continuación ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/netflix-anuncia-ultima-pelicula-posiblemente-peor-trilogia-catalogo-1106501'>Netflix anuncia la última película de la que posiblemente es la peor trilogía de su catálogo</a></h4>
+    <a href='https://computerhoy.com/noticias/netflix-anuncia-ultima-pelicula-posiblemente-peor-trilogia-catalogo-1106501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/365-dias-2358461.jpg' alt='Netflix anuncia la última película de la que posiblemente es la peor trilogía de su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077'>El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604653.jpg' alt='El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481'>Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp </a></h4>
     <a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483'>Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680739.jpg' alt='Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/pleito-legal-continua-ahora-google-quien-demanda-sonos-situacion-donde-usuarios-siempre-pierden-1106447'>Google contraataca y demanda a Sonos por infracción de hasta 7 patentes diferentes en sus altavoces</a></h4>
-    <a href='https://computerhoy.com/noticias/pleito-legal-continua-ahora-google-quien-demanda-sonos-situacion-donde-usuarios-siempre-pierden-1106447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Google contraataca y demanda a Sonos por infracción de hasta 7 patentes diferentes en sus altavoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147'>Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trucos-caseros-quitar-aranazos-coche-2422793.jpg' alt='Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xiaomi-suma-fiebre-plegables-nuevo-mix-fold-2-1106463'>Xiaomi se suma a la fiebre de los plegables con su nuevo Mix Fold 2 y no viene solo</a></h4>
-    <a href='https://computerhoy.com/noticias/xiaomi-suma-fiebre-plegables-nuevo-mix-fold-2-1106463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Xiaomi se suma a la fiebre de los plegables con su nuevo Mix Fold 2 y no viene solo' />
     </a>
 </div>
 
