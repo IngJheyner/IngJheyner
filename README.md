@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/atrapamoscas-infalible-video-1106249'>El atrapamoscas infalible, sin productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/atrapamoscas-infalible-video-1106249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659997399019-2780493.jpg' alt='El atrapamoscas infalible, sin productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-tarjetas-graficas-intel-arc-pro-a50-pro-a40-pro-a30m-1106247'>Intel presenta las tarjetas gráficas Intel ARC Pro A50, Pro A40 y Pro A30M</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-tarjetas-graficas-intel-arc-pro-a50-pro-a40-pro-a30m-1106247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel presenta las tarjetas gráficas Intel ARC Pro A50, Pro A40 y Pro A30M' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177'>El sencillo truco psicológico para ser mejores al realizar cualquier tarea</a></h4>
     <a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-trabajando-cabeza-tumbada-ordenador-2780325.jpg' alt='El sencillo truco psicológico para ser mejores al realizar cualquier tarea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-opcion-hara-grupo-padres-cole-sea-algo-menos-infernal-1106217'>WhatsApp prepara una opción que hará que el grupo de padres del cole sea algo menos infernal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-prepara-opcion-hara-grupo-padres-cole-sea-algo-menos-infernal-1106217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg' alt='WhatsApp prepara una opción que hará que el grupo de padres del cole sea algo menos infernal' />
     </a>
 </div>
 
