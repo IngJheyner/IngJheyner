@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795'>Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ves-estas-senales-puerta-casa-no-entres-llama-inmediato-policia-1106783'>Si ves estas señales en la puerta de tu casa no entres y llama de inmediato a la Policía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ves-estas-senales-puerta-casa-no-entres-llama-inmediato-policia-1106783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/puerta-domicilio-2781519.jpg' alt='Si ves estas señales en la puerta de tu casa no entres y llama de inmediato a la Policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787'>Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sonic-3-pelicula-ya-tiene-fecha-estreno-nuevo-villano-2781521.jpg' alt='Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131'>Yellow Days de FNAC: estas son las mejores ofertas de su tienda online</a></h4>
     <a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Yellow Days de FNAC: estas son las mejores ofertas de su tienda online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-pierde-protector-pantalla-terceros-1106765'>Chromecast pierde una de sus funcionalidades con la última actualización</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-pierde-protector-pantalla-terceros-1106765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salvapantallas-chromecast-google-tv-2728429.jpg' alt='Chromecast pierde una de sus funcionalidades con la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477'>¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741201.jpg' alt='¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo' />
     </a>
 </div>
 
