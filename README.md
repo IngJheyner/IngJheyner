@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-consejos-luchar-ansiedad-comida-1106441'>5 consejos para luchar contra la ansiedad generada por la comida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-consejos-luchar-ansiedad-comida-1106441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/5-consejos-luchar-ansiedad-generada-comida-2780665.jpg' alt='5 consejos para luchar contra la ansiedad generada por la comida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/atrapamoscas-infalible-video-1106249'>El atrapamoscas infalible, sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/atrapamoscas-infalible-video-1106249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1659997399019-2780493.jpg' alt='El atrapamoscas infalible, sin productos químicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229'>Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177'>El sencillo truco psicológico para ser mejores al realizar cualquier tarea</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sencillo-truco-psicologico-ser-mejores-realizar-cualquier-tarea-1106177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-trabajando-cabeza-tumbada-ordenador-2780325.jpg' alt='El sencillo truco psicológico para ser mejores al realizar cualquier tarea' />
     </a>
 </div>
 
