@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807'>Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/charlamos-ia-meta-zuckerberg-bezos-no-son-fiar-cambio-climatico-pinta-muy-mal-quiere-visitar-espana-hijos-2781589.jpg' alt='Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799'>El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/taurus-babel-invisible-2758505.jpg' alt='El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787'>Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sonic-3-pelicula-ya-tiene-fecha-estreno-nuevo-villano-2781521.jpg' alt='Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781'>Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2781517.jpg' alt='Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas' />
     </a>
 </div>
 
