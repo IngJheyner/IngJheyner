@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787'>Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sonic-3-pelicula-ya-tiene-fecha-estreno-nuevo-villano-2781521.jpg' alt='Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781'>Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/posible-lleves-toda-vida-utilizando-mal-cubiteras-hacer-hielo-no-sepas-1106781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cubitos-hielo-2781517.jpg' alt='Es posible que lleves toda la vida utilizando mal las cubiteras para hacer hielo, y no lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131'>Yellow Days de FNAC: estas son las mejores ofertas de su tienda online</a></h4>
     <a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Yellow Days de FNAC: estas son las mejores ofertas de su tienda online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477'>¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo</a></h4>
     <a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741201.jpg' alt='¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-contar-cuantas-celdas-estan-rellenas-excel-google-spreadsheets-1106529'>Cómo contar cuántas celdas están rellenas en Excel y Google Spreadsheets</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-contar-cuantas-celdas-estan-rellenas-excel-google-spreadsheets-1106529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Cómo contar cuántas celdas están rellenas en Excel y Google Spreadsheets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/portatil-huawei'>Comprar un portátil Huawei: guía para elegir el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/portatil-huawei' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416841.jpg' alt='Comprar un portátil Huawei: guía para elegir el mejor modelo' />
     </a>
 </div>
 
