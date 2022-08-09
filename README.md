@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481'>Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp </a></h4>
+    <a href='https://computerhoy.com/noticias/ahora-puedes-borrar-mensajes-whatsapp-todos-dos-dias-despues-1106481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Ahora tendrás hasta dos días para poder eliminar "para todos" los mensajes en WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483'>Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alemania-bloquea-venta-telefonos-oneplus-oppo-denuncia-nokia-1106483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680739.jpg' alt='Alemania bloquea la venta de teléfonos de OnePlus y de OPPO por una denuncia de Nokia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/pleito-legal-continua-ahora-google-quien-demanda-sonos-situacion-donde-usuarios-siempre-pierden-1106447'>Google contraataca y demanda a Sonos por infracción de hasta 7 patentes diferentes en sus altavoces</a></h4>
+    <a href='https://computerhoy.com/noticias/pleito-legal-continua-ahora-google-quien-demanda-sonos-situacion-donde-usuarios-siempre-pierden-1106447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/sonos-one-2592291.jpg' alt='Google contraataca y demanda a Sonos por infracción de hasta 7 patentes diferentes en sus altavoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147'>Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-pintura-coches-hara-desaparecer-aranazos-tan-solo-30-minutos-luz-solar-1106147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/trucos-caseros-quitar-aranazos-coche-2422793.jpg' alt='Una nueva "pintura" para coches hará desaparecer los arañazos con tan solo 30 minutos de luz solar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/xiaomi-suma-fiebre-plegables-nuevo-mix-fold-2-1106463'>Xiaomi se suma a la fiebre de los plegables con su nuevo Mix Fold 2 y no viene solo</a></h4>
     <a href='https://computerhoy.com/noticias/xiaomi-suma-fiebre-plegables-nuevo-mix-fold-2-1106463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-mix-fold-2402637.jpg' alt='Xiaomi se suma a la fiebre de los plegables con su nuevo Mix Fold 2 y no viene solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a52s-5g-motivos-merece-pena-1104223'>Samsung Galaxy A52s 5G: motivos que lo hacen uno de los móviles más buscados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a52s-5g-motivos-merece-pena-1104223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/samsung-galaxy-a52s-5g-2519627.jpg' alt='Samsung Galaxy A52s 5G: motivos que lo hacen uno de los móviles más buscados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1106443'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1106443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2780667.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
     </a>
 </div>
 
