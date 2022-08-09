@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-autofirma-1106657'>¿Cómo funciona la autofirma?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-autofirma-1106657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/autofirma-2781011.jpg' alt='¿Cómo funciona la autofirma?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/camion-dispara-laser-hace-ciudades-calurosas-sean-agradables-1106697'>El camión que dispara láser y hace que las ciudades calurosas sean más agradables</a></h4>
+    <a href='https://computerhoy.com/noticias/camion-dispara-laser-hace-ciudades-calurosas-sean-agradables-1106697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camion-2781111.jpg' alt='El camión que dispara láser y hace que las ciudades calurosas sean más agradables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-quiere-ensenar-leer-hijos-nueva-web-read-along-1106671'>Google quiere enseñar a leer a tus hijos desde la nueva web Read Along</a></h4>
+    <a href='https://computerhoy.com/noticias/google-quiere-ensenar-leer-hijos-nueva-web-read-along-1106671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/read-along-2781079.jpg' alt='Google quiere enseñar a leer a tus hijos desde la nueva web Read Along' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/perdida-datos-peor-rendimiento-nuevo-fallo-windows-11-afecta-procesadores-nuevos-1106623'>Pérdida de datos y peor rendimiento: así es el nuevo fallo de Windows 11 que afecta a los procesadores nuevos</a></h4>
     <a href='https://computerhoy.com/noticias/perdida-datos-peor-rendimiento-nuevo-fallo-windows-11-afecta-procesadores-nuevos-1106623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2755641.jpg' alt='Pérdida de datos y peor rendimiento: así es el nuevo fallo de Windows 11 que afecta a los procesadores nuevos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-1106621'>DJI Avata se deja ver en vídeo, minidrone FPV para interiores y exteriores</a></h4>
     <a href='https://computerhoy.com/noticias/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-1106621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dji-avata-deja-ver-video-minidrone-fpv-interiores-exteriores-2781013.jpg' alt='DJI Avata se deja ver en vídeo, minidrone FPV para interiores y exteriores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mark-zuckerberg-ha-anunciado-nombre-meta-nuevas-funciones-privacidad-whatsapp-1106613'>Mark Zuckerberg anuncia en nombre de Meta nuevas funciones de privacidad para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/mark-zuckerberg-ha-anunciado-nombre-meta-nuevas-funciones-privacidad-whatsapp-1106613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Mark Zuckerberg anuncia en nombre de Meta nuevas funciones de privacidad para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/debes-viajar-abono-trenes-te-salga-gratis-verdad-ocu-1106559'>Lo que debes viajar para que el abono de trenes te salga gratis de verdad, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/debes-viajar-abono-trenes-te-salga-gratis-verdad-ocu-1106559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg' alt='Lo que debes viajar para que el abono de trenes te salga gratis de verdad, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563'>Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-2780847.jpg' alt='Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero' />
     </a>
 </div>
 
