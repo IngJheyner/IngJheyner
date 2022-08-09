@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1106443'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1106443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2780667.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371'>Los mejores aires acondicionados en relación calidad/precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/aire-acondicionado-cual-es-mejor-relacion-calidad-precio-455371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salon-aire-acondicionado-pared-2744847.jpg' alt='Los mejores aires acondicionados en relación calidad/precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-consejos-luchar-ansiedad-comida-1106441'>5 consejos para luchar contra la ansiedad generada por la comida</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-consejos-luchar-ansiedad-comida-1106441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/5-consejos-luchar-ansiedad-generada-comida-2780665.jpg' alt='5 consejos para luchar contra la ansiedad generada por la comida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-tarjetas-graficas-intel-arc-pro-a50-pro-a40-pro-a30m-1106247'>Intel presenta las tarjetas gráficas Intel ARC Pro A50, Pro A40 y Pro A30M</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-presenta-tarjetas-graficas-intel-arc-pro-a50-pro-a40-pro-a30m-1106247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel presenta las tarjetas gráficas Intel ARC Pro A50, Pro A40 y Pro A30M' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-wifi-compatible-alexa-google-oferta-1106239'>Bombilla inteligente con WiFi, compatible con Alexa y Google Assistant, por solo 8,99€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bombilla-inteligente-wifi-compatible-alexa-google-oferta-1106239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bombilla-inteligente-wifi-compatible-alexa-google-assistant-solo-899eu-2780447.jpg' alt='Bombilla inteligente con WiFi, compatible con Alexa y Google Assistant, por solo 8,99€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229'>Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-sera-compania-medios-tradicional-1106229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='Afirman que Netflix será una compañía de medios tradicional, y tienen razones para hacerlo' />
     </a>
 </div>
 
