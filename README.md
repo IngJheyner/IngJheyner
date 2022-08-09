@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131'>Yellow Days de FNAC: estas son las mejores ofertas de su tienda online</a></h4>
+    <a href='https://computerhoy.com/noticias/yellow-days-fnac-estas-son-mejores-ofertas-tienda-online-1106131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/fnac-2580087.jpg' alt='Yellow Days de FNAC: estas son las mejores ofertas de su tienda online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-pierde-protector-pantalla-terceros-1106765'>Chromecast pierde una de sus funcionalidades con la última actualización</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-pierde-protector-pantalla-terceros-1106765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/salvapantallas-chromecast-google-tv-2728429.jpg' alt='Chromecast pierde una de sus funcionalidades con la última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477'>¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/recuerdas-cual-fue-primera-app-android-instalaste-puedes-comprobarlo-1106477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741201.jpg' alt='¿Recuerdas cuál fue la primera app Android que instalaste? Así puedes comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-contar-cuantas-celdas-estan-rellenas-excel-google-spreadsheets-1106529'>Cómo contar cuántas celdas están rellenas en Excel y Google Spreadsheets</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-contar-cuantas-celdas-estan-rellenas-excel-google-spreadsheets-1106529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Cómo contar cuántas celdas están rellenas en Excel y Google Spreadsheets' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/portatil-huawei'>Comprar un portátil Huawei: guía para elegir el mejor modelo</a></h4>
     <a href='https://computerhoy.com/guia-compra/portatil-huawei' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/huawei-matebook-x-pro-2021-analisis-opinion-2416841.jpg' alt='Comprar un portátil Huawei: guía para elegir el mejor modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-autofirma-1106657'>¿Cómo funciona la autofirma?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-autofirma-1106657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/firmando-documento-2416729.jpg' alt='¿Cómo funciona la autofirma?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/camion-dispara-laser-hace-ciudades-calurosas-sean-agradables-1106697'>El camión que dispara láser y hace que las ciudades calurosas sean más agradables</a></h4>
-    <a href='https://computerhoy.com/noticias/camion-dispara-laser-hace-ciudades-calurosas-sean-agradables-1106697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camion-2781111.jpg' alt='El camión que dispara láser y hace que las ciudades calurosas sean más agradables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-quiere-ensenar-leer-hijos-nueva-web-read-along-1106671'>Google quiere enseñar a leer a tus hijos desde la nueva web Read Along</a></h4>
-    <a href='https://computerhoy.com/noticias/google-quiere-ensenar-leer-hijos-nueva-web-read-along-1106671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/read-along-2781079.jpg' alt='Google quiere enseñar a leer a tus hijos desde la nueva web Read Along' />
     </a>
 </div>
 
