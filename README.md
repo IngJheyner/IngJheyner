@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367'>Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/respira-aire-limpio-casa-precio-ganga-purificador-rowenta-mejorara-calidad-vida-2782731.jpg' alt='Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357'>Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pelicula-masacrada-critica-vista-netflix-sabes-trata-2782703.jpg' alt='Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337'>Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/urbanista-phoenix-auriculares-autorecargan-gratis-cables-2782645.jpg' alt='Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293'>7 trucos que no sabías que existían en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='7 trucos que no sabías que existían en Google Maps' />
     </a>
 </div>
 
