@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107041'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2781803.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/boton-eco-aire-acondicionado-2703917.jpg' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039'>Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-2781801.jpg' alt='Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807'>Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/charlamos-ia-meta-zuckerberg-bezos-no-son-fiar-cambio-climatico-pinta-muy-mal-quiere-visitar-espana-hijos-2781589.jpg' alt='Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799'>El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventilador-invisible-taurus-babel-baja-precio-1106799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/taurus-babel-invisible-2758505.jpg' alt='El ventilador "invisible" Taurus Babel baja de precio y solo cuesta 79,90 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795'>Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas' />
     </a>
 </div>
 
