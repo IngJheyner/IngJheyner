@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/celebra-aliexpress-dias-roborock-descubre-increibles-descuentos-1106175'>Celebra con AliExpress los Días de Roborock y descubre sus increíbles descuentos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/celebra-aliexpress-dias-roborock-descubre-increibles-descuentos-1106175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/roborock-s7-2193121.jpg' alt='Celebra con AliExpress los Días de Roborock y descubre sus increíbles descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anadiria-caracteristica-muy-solicitada-todos-seria-gracias-android-13-1107061'>YouTube añadiría una característica muy solicitada por todos y sería gracias a Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-anadiria-caracteristica-muy-solicitada-todos-seria-gracias-android-13-1107061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2603797.jpg' alt='YouTube añadiría una característica muy solicitada por todos y sería gracias a Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107041'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2781803.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039'>Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-2781801.jpg' alt='Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/google-maps-pesadilla-usuarios-android-auto-1106811'>Google Maps vuelve a convertirse en una pesadilla para los usuarios de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/google-maps-pesadilla-usuarios-android-auto-1106811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-vuelve-convertirse-pesadilla-usuarios-android-auto-2781593.jpg' alt='Google Maps vuelve a convertirse en una pesadilla para los usuarios de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807'>Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/charlamos-ia-meta-zuckerberg-bezos-no-son-fiar-cambio-climatico-pinta-muy-mal-quiere-visitar-espana-hijos-2781589.jpg' alt='Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos' />
     </a>
 </div>
 
