@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391'>CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660151413892-2782763.jpg' alt='CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383'>LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-presenta-televisor-oled-97-pulgadas-altavoces-emite-sonido-51-mediante-vibraciones-2782751.jpg' alt='LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287'>Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguridad-informatica-2782441.jpg' alt='Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625'>Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-mambo-9090-2051129.jpg' alt='Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros' />
     </a>
 </div>
 
