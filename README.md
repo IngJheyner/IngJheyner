@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089'>Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter</a></h4>
+    <a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mira-congelador-alerta-sanitaria-helados-mercadona-lidl-aldi-cuerpos-extranos-1107115'>¡Mira tu congelador! Alerta sanitaria por helados de Mercadona, Lidl y Aldi con cuerpos extraños</a></h4>
+    <a href='https://computerhoy.com/noticias/mira-congelador-alerta-sanitaria-helados-mercadona-lidl-aldi-cuerpos-extranos-1107115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/helados-2781907.jpg' alt='¡Mira tu congelador! Alerta sanitaria por helados de Mercadona, Lidl y Aldi con cuerpos extraños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-televisores-lg-tiene-importante-rebaja-viene-barra-sonido-regalo-1106633'>Uno de los mejores televisores de LG tiene una importante rebaja y viene con barra de sonido de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-televisores-lg-tiene-importante-rebaja-viene-barra-sonido-regalo-1106633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-55qned816qa-2780973.jpg' alt='Uno de los mejores televisores de LG tiene una importante rebaja y viene con barra de sonido de regalo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/fin-acabara-problema-calidad-instagram-android-1107063'>Por fin se acabará el problema de calidad de Instagram en Android</a></h4>
     <a href='https://computerhoy.com/noticias/fin-acabara-problema-calidad-instagram-android-1107063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Por fin se acabará el problema de calidad de Instagram en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/celebra-aliexpress-dias-roborock-descubre-increibles-descuentos-1106175'>Celebra con AliExpress los Días de Roborock y descubre sus increíbles descuentos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/celebra-aliexpress-dias-roborock-descubre-increibles-descuentos-1106175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/roborock-s7-2193121.jpg' alt='Celebra con AliExpress los Días de Roborock y descubre sus increíbles descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-anadiria-caracteristica-muy-solicitada-todos-seria-gracias-android-13-1107061'>YouTube añadiría una característica muy solicitada por todos y sería gracias a Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-anadiria-caracteristica-muy-solicitada-todos-seria-gracias-android-13-1107061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/youtube-2603797.jpg' alt='YouTube añadiría una característica muy solicitada por todos y sería gracias a Android 13' />
     </a>
 </div>
 
