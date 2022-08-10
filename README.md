@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625'>Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-mambo-9090-2051129.jpg' alt='Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337'>Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/urbanista-phoenix-auriculares-autorecargan-gratis-cables-2782645.jpg' alt='Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293'>7 trucos que no sabías que existían en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='7 trucos que no sabías que existían en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283'>8 cosas que te hacen envejecer más rápido, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vida-saludable-2782409.jpg' alt='8 cosas que te hacen envejecer más rápido, según la ciencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271'>AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/salen-orzuelos-como-evitarlos-1107165'>Por qué salen los orzuelos y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/salen-orzuelos-como-evitarlos-1107165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/orzuelo-2782107.jpg' alt='Por qué salen los orzuelos y cómo evitarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135'>Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud</a></h4>
-    <a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077'>Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto</a></h4>
-    <a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-buds-2-pro-2781949.jpg' alt='Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto' />
     </a>
 </div>
 
