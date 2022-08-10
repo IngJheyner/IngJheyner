@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271'>AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/salen-orzuelos-como-evitarlos-1107165'>Por qué salen los orzuelos y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/salen-orzuelos-como-evitarlos-1107165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/orzuelo-2782107.jpg' alt='Por qué salen los orzuelos y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135'>Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud</a></h4>
     <a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127'>Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha</a></h4>
     <a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg' alt='Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/samsung-galaxy-z-fold-4-impresiones-plegable-madura-aspectos-clave-1106107'>Samsung Galaxy Z Fold 4, impresiones de un plegable que madura en aspectos clave</a></h4>
-    <a href='https://computerhoy.com/reportajes/samsung-galaxy-z-fold-4-impresiones-plegable-madura-aspectos-clave-1106107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-fold-4-2782025.jpg' alt='Samsung Galaxy Z Fold 4, impresiones de un plegable que madura en aspectos clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-compatible-propio-rosetta-correr-apps-x64-chips-arm-1107267'>Windows 11 ya es compatible con su propio Rosetta para correr apps x64 en chips ARM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-compatible-propio-rosetta-correr-apps-x64-chips-arm-1107267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Windows 11 ya es compatible con su propio Rosetta para correr apps x64 en chips ARM' />
     </a>
 </div>
 
