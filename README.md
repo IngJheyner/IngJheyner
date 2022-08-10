@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169'>El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-2782169.jpg' alt='El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143'>Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-wifi-range-extender-ac1200-2780213.jpg' alt='Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tormentas-verano-contaminacion-no-bebas-agua-llluvia-1107101'>Tormentas de verano y contaminación, no bebas el agua de llluvia</a></h4>
+    <a href='https://computerhoy.com/noticias/tormentas-verano-contaminacion-no-bebas-agua-llluvia-1107101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/agua-lluvia-2777031.jpg' alt='Tormentas de verano y contaminación, no bebas el agua de llluvia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-tv-prepara-incluir-tambien-television-directo-50-canales-1107103'>Google TV se prepara para incluir también televisión en directo con hasta 50 canales gratuitos</a></h4>
+    <a href='https://computerhoy.com/noticias/google-tv-prepara-incluir-tambien-television-directo-50-canales-1107103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-tv-2086847.jpg' alt='Google TV se prepara para incluir también televisión en directo con hasta 50 canales gratuitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089'>Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter</a></h4>
     <a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mira-congelador-alerta-sanitaria-helados-mercadona-lidl-aldi-cuerpos-extranos-1107115'>¡Mira tu congelador! Alerta sanitaria por helados de Mercadona, Lidl y Aldi con cuerpos extraños</a></h4>
-    <a href='https://computerhoy.com/noticias/mira-congelador-alerta-sanitaria-helados-mercadona-lidl-aldi-cuerpos-extranos-1107115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/helados-2781907.jpg' alt='¡Mira tu congelador! Alerta sanitaria por helados de Mercadona, Lidl y Aldi con cuerpos extraños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-televisores-lg-tiene-importante-rebaja-viene-barra-sonido-regalo-1106633'>Uno de los mejores televisores de LG tiene una importante rebaja y viene con barra de sonido de regalo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-televisores-lg-tiene-importante-rebaja-viene-barra-sonido-regalo-1106633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-55qned816qa-2780973.jpg' alt='Uno de los mejores televisores de LG tiene una importante rebaja y viene con barra de sonido de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/xiaomi-mix-fold-2-no-vendra-solo-manana-tambien-anunciaran-redmi-k50-extreme-edition-1107081'>Xiaomi Mix Fold 2 no vendrá solo, mañana también anunciarán el Redmi K50 Extreme Edition</a></h4>
-    <a href='https://computerhoy.com/noticias/xiaomi-mix-fold-2-no-vendra-solo-manana-tambien-anunciaran-redmi-k50-extreme-edition-1107081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-no-vendra-solo-manana-tambien-anunciaran-redmi-k50-extreme-edition-2781867.jpg' alt='Xiaomi Mix Fold 2 no vendrá solo, mañana también anunciarán el Redmi K50 Extreme Edition' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/fin-acabara-problema-calidad-instagram-android-1107063'>Por fin se acabará el problema de calidad de Instagram en Android</a></h4>
-    <a href='https://computerhoy.com/noticias/fin-acabara-problema-calidad-instagram-android-1107063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg' alt='Por fin se acabará el problema de calidad de Instagram en Android' />
     </a>
 </div>
 
