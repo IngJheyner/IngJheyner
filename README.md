@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169'>El MIT ha creado un test que comprueba si eres inmune al COVID con una gota de tu sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-2782169.jpg' alt='El MIT ha creado un test que comprueba si eres inmune al COVID con una gota de tu sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/logran-capturar-imagen-dos-galaxias-fusionandose-impresionante-mariposa-cosmica-1107225'>Logran capturar la imagen de dos galaxias fusionándose en una impresionante “mariposa cósmica”</a></h4>
+    <a href='https://computerhoy.com/noticias/life/logran-capturar-imagen-dos-galaxias-fusionandose-impresionante-mariposa-cosmica-1107225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxias-2782241.jpg' alt='Logran capturar la imagen de dos galaxias fusionándose en una impresionante “mariposa cósmica”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo</a></h4>
     <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/apple-ipad-pro-129-2021-2357913.jpg' alt='Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181'>OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/onedrive-2329811.jpg' alt='OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169'>El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-2782169.jpg' alt='El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143'>Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-wifi-range-extender-ac1200-2780213.jpg' alt='Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta' />
     </a>
 </div>
 
