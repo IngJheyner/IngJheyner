@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039'>Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-1107039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-fabricar-toallitas-desinfectantes-caseras-ahorrar-dinero-2781801.jpg' alt='Cómo fabricar toallitas desinfectantes caseras, y ahorrar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/google-maps-pesadilla-usuarios-android-auto-1106811'>Google Maps vuelve a convertirse en una pesadilla para los usuarios de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/google-maps-pesadilla-usuarios-android-auto-1106811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-vuelve-convertirse-pesadilla-usuarios-android-auto-2781593.jpg' alt='Google Maps vuelve a convertirse en una pesadilla para los usuarios de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807'>Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/charlamos-ia-meta-blenderbot-3-1106807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/charlamos-ia-meta-zuckerberg-bezos-no-son-fiar-cambio-climatico-pinta-muy-mal-quiere-visitar-espana-hijos-2781589.jpg' alt='Charlamos con la IA de Meta: Zuckerberg y Bezos no son de fiar, el cambio climático pinta fatal, y quiere visitar España con sus hijos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795'>Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sirve-realmente-carril-central-como-utilizarlo-correctamente-evitar-multas-1106795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/autopistas-2753101.jpg' alt='Para qué sirve realmente el carril central y cómo utilizarlo correctamente para evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ves-estas-senales-puerta-casa-no-entres-llama-inmediato-policia-1106783'>Si ves estas señales en la puerta de tu casa no entres y llama de inmediato a la Policía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ves-estas-senales-puerta-casa-no-entres-llama-inmediato-policia-1106783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/puerta-domicilio-2781519.jpg' alt='Si ves estas señales en la puerta de tu casa no entres y llama de inmediato a la Policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787'>Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sonic-3-pelicula-fecha-estreno-nuevo-villano-1106787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sonic-3-pelicula-ya-tiene-fecha-estreno-nuevo-villano-2781521.jpg' alt='Sonic 3, la pelicula, ya tiene fecha de estreno y un nuevo villano' />
     </a>
 </div>
 
