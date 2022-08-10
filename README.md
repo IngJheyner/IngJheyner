@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357'>Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pelicula-masacrada-critica-vista-netflix-sabes-trata-2782703.jpg' alt='Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287'>Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguridad-informatica-2782441.jpg' alt='Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293'>7 trucos que no sabías que existían en Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-no-sabias-existian-google-maps-1107293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/google-maps-2571831.jpg' alt='7 trucos que no sabías que existían en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283'>8 cosas que te hacen envejecer más rápido, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vida-saludable-2782409.jpg' alt='8 cosas que te hacen envejecer más rápido, según la ciencia' />
     </a>
 </div>
 
