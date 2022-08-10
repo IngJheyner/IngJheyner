@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383'>LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-presenta-televisor-oled-97-pulgadas-altavoces-emite-sonido-51-mediante-vibraciones-2782751.jpg' alt='LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367'>Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/respira-aire-limpio-casa-precio-ganga-purificador-rowenta-mejorara-calidad-vida-2782731.jpg' alt='Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625'>Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-cocina-no-tiene-ser-caro-cecotec-vende-solo-179-euros-1103625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cecotec-mambo-9090-2051129.jpg' alt='Un robot de cocina no tiene que ser caro: Cecotec vende uno por solo 179 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337'>Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-urbanista-phoenix-autonomia-infinita-carga-solar-1107337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/urbanista-phoenix-auriculares-autorecargan-gratis-cables-2782645.jpg' alt='Urbanista Phoenix, los auriculares con autonomía infinita que se recargan gratis y sin cables ' />
     </a>
 </div>
 
