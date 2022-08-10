@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169'>El MIT ha creado un test que comprueba si eres inmune al COVID con una gota de tu sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-2782169.jpg' alt='El MIT ha creado un test que comprueba si eres inmune al COVID con una gota de tu sangre' />
+    <h4><a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135'>Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud</a></h4>
+    <a href='https://computerhoy.com/noticias/galaxy-watch-5-galaxy-watch-5-pro-llegan-wear-os-35-nuevos-sensores-salud-1107135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='Los Galaxy Watch 5 y Galaxy Watch 5 Pro llegan con Wear OS 3.5 y nuevos sensores de salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/logran-capturar-imagen-dos-galaxias-fusionandose-impresionante-mariposa-cosmica-1107225'>Logran capturar la imagen de dos galaxias fusionándose en una impresionante “mariposa cósmica”</a></h4>
-    <a href='https://computerhoy.com/noticias/life/logran-capturar-imagen-dos-galaxias-fusionandose-impresionante-mariposa-cosmica-1107225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxias-2782241.jpg' alt='Logran capturar la imagen de dos galaxias fusionándose en una impresionante “mariposa cósmica”' />
+    <h4><a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077'>Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto</a></h4>
+    <a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-buds-2-pro-2781949.jpg' alt='Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/apple-ipad-pro-129-2021-2357913.jpg' alt='Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo' />
+    <h4><a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127'>Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha</a></h4>
+    <a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg' alt='Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-enduro-2-smartwatch-deportivo-gps-carga-solar-30-dias-autonomia-precio-iphone-eso-1107207'>Garmin Enduro 2: smartwatch deportivo con GPS, carga solar y 30 días de autonomía, a precio de iPhone eso sí</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-enduro-2-smartwatch-deportivo-gps-carga-solar-30-dias-autonomia-precio-iphone-eso-1107207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/garmin-enduro-2-smartwatch-deportivo-gps-solar-30-dias-autonomia-precio-iphone-eso-2782207.jpg' alt='Garmin Enduro 2: smartwatch deportivo con GPS, carga solar y 30 días de autonomía, a precio de iPhone eso sí' />
+    <h4><a href='https://computerhoy.com/reportajes/samsung-galaxy-z-fold-4-impresiones-plegable-madura-aspectos-clave-1106107'>Samsung Galaxy Z Fold 4, impresiones de un plegable que madura en aspectos clave</a></h4>
+    <a href='https://computerhoy.com/reportajes/samsung-galaxy-z-fold-4-impresiones-plegable-madura-aspectos-clave-1106107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-fold-4-2782025.jpg' alt='Samsung Galaxy Z Fold 4, impresiones de un plegable que madura en aspectos clave' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181'>OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/onedrive-2329811.jpg' alt='OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-compatible-propio-rosetta-correr-apps-x64-chips-arm-1107267'>Windows 11 ya es compatible con su propio Rosetta para correr apps x64 en chips ARM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/windows-11-ya-compatible-propio-rosetta-correr-apps-x64-chips-arm-1107267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg' alt='Windows 11 ya es compatible con su propio Rosetta para correr apps x64 en chips ARM' />
     </a>
 </div>
 
