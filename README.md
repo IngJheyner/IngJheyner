@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283'>8 cosas que te hacen envejecer más rápido, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/8-cosas-te-hacen-envejecer-rapido-ciencia-1107283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vida-saludable-2782409.jpg' alt='8 cosas que te hacen envejecer más rápido, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271'>AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aepic-leak-nuevo-bug-diseno-procesadores-intel-core-10-11-12th-gen-pone-peligro-datos-1107271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/nuevos-procesadores-alder-lake-intel-llevan-experiencia-gaming-otro-nivel-2554955.jpg' alt='AEPIC Leak: nuevo bug de diseño en procesadores Intel Core 10, 11 y 12th gen que pone en peligro tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077'>Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto</a></h4>
     <a href='https://computerhoy.com/noticias/son-samsung-galaxy-buds-2-pro-sonido-24-bits-ecosistema-samsung-tamano-ultracompacto-1107077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-buds-2-pro-2781949.jpg' alt='Así son los Samsung Galaxy Buds 2 Pro, sonido 24 bits para el ecosistema Samsung y un tamaño ultracompacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127'>Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha</a></h4>
-    <a href='https://computerhoy.com/reportajes/impresiones-samsung-galaxy-z-flip-4-todo-debes-saber-plegable-tipo-concha-1106127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg' alt='Impresiones del Samsung Galaxy Z Flip 4 y todo lo que debes saber de este plegable tipo concha' />
     </a>
 </div>
 
