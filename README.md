@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/tablet'>Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tablet' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/apple-ipad-pro-129-2021-2357913.jpg' alt='Comprar una tablet en 2022: guía de compra para encontrar el mejor modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-enduro-2-smartwatch-deportivo-gps-carga-solar-30-dias-autonomia-precio-iphone-eso-1107207'>Garmin Enduro 2: smartwatch deportivo con GPS, carga solar y 30 días de autonomía, a precio de iPhone eso sí</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-enduro-2-smartwatch-deportivo-gps-carga-solar-30-dias-autonomia-precio-iphone-eso-1107207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/garmin-enduro-2-smartwatch-deportivo-gps-solar-30-dias-autonomia-precio-iphone-eso-2782207.jpg' alt='Garmin Enduro 2: smartwatch deportivo con GPS, carga solar y 30 días de autonomía, a precio de iPhone eso sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181'>OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/onedrive-cumple-15-anos-microsoft-celebra-rediseno-nuevas-funciones-servicio-almacenamiento-online-1107181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/onedrive-2329811.jpg' alt='OneDrive cumple 15 años y Microsoft lo celebra con un rediseño y nuevas funciones para su servicio de almacenamiento online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169'>El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre</a></h4>
     <a href='https://computerhoy.com/noticias/life/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-1107169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mit-ha-creado-test-comprueba-eres-inmune-gota-sangre-2782169.jpg' alt='El MIT ha creado un test que comprueba si eres inmune con una gota de tu sangre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143'>Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-pone-fin-problemas-wifi-precio-risa-oferta-1106143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-wifi-range-extender-ac1200-2780213.jpg' alt='Xiaomi pone fin a tus problemas con el WiFi, y a precio de risa en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tormentas-verano-contaminacion-no-bebas-agua-llluvia-1107101'>Tormentas de verano y contaminación, no bebas el agua de llluvia</a></h4>
-    <a href='https://computerhoy.com/noticias/tormentas-verano-contaminacion-no-bebas-agua-llluvia-1107101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/agua-lluvia-2777031.jpg' alt='Tormentas de verano y contaminación, no bebas el agua de llluvia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-tv-prepara-incluir-tambien-television-directo-50-canales-1107103'>Google TV se prepara para incluir también televisión en directo con hasta 50 canales gratuitos</a></h4>
-    <a href='https://computerhoy.com/noticias/google-tv-prepara-incluir-tambien-television-directo-50-canales-1107103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/google-tv-2086847.jpg' alt='Google TV se prepara para incluir también televisión en directo con hasta 50 canales gratuitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089'>Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter</a></h4>
-    <a href='https://computerhoy.com/noticias/elon-musk-sigue-liquidando-acciones-tesla-casi-7000-millones-dolares-obligan-comprar-twitter-1107089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/elon-musk-tesla-2528793.jpg' alt='Elon Musk sigue liquidando acciones de Tesla, casi 7.000 millones de dólares, por si le obligan a comprar Twitter' />
     </a>
 </div>
 
