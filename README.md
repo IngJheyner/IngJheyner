@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157'>Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635'>En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-series-llegan-disney-merece-pena-pagar-suscripcion-1885571.jpg' alt='En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145'>Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo </a></h4>
     <a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/perseidas-estrellas-fugaces-2028195.jpg' alt='Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2782961.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/galaxy-tab-s7-2063157.jpg' alt='5 tablets que son tan potentes como un ordenador portátil' />
     </a>
 </div>
 
