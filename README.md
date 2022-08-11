@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-1107719'>Por fin un robot que consigue hacer algo útil: montar muebles de IKEA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-1107719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-2783059.jpg' alt='Por fin un robot que consigue hacer algo útil: montar muebles de IKEA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/millie-bobby-brown-quiere-muertes-stranger-things-creadores-responden-forma-contundente-1107759'>Millie Bobby Brown quiere más muertes en Stranger Things y sus creadores responden de forma contundente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/millie-bobby-brown-quiere-muertes-stranger-things-creadores-responden-forma-contundente-1107759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/millie-bobby-brown-como-eleven-once-stranger-things-2714139.jpg' alt='Millie Bobby Brown quiere más muertes en Stranger Things y sus creadores responden de forma contundente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-desploma-precio-vuelve-minimo-historico-amazon-1107733'>El iPhone 13 desploma su precio y vuelve a mínimo histórico en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-desploma-precio-vuelve-minimo-historico-amazon-1107733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='El iPhone 13 desploma su precio y vuelve a mínimo histórico en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/emoji-microsoft-convierten-codigo-abierto-cualquiera-desee-modificarlos-1107685'>Los emoji de Microsoft se convierten en código abierto para cualquiera que desee modificarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/emoji-microsoft-convierten-codigo-abierto-cualquiera-desee-modificarlos-1107685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/emojis-2227247.jpg' alt='Los emoji de Microsoft se convierten en código abierto para cualquiera que desee modificarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675'>Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gusano-2783019.jpg' alt='Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-1107661'>Primero TikTok y ahora Spotify: la plataforma se suma a vender entradas de conciertos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-1107661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-2782999.jpg' alt='Primero TikTok y ahora Spotify: la plataforma se suma a vender entradas de conciertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-mejorar-ia-destacar-resultados-fiables-busquedas-1107657'>Google quiere mejorar su IA para destacar resultados más fiables en las búsquedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-mejorar-ia-destacar-resultados-fiables-busquedas-1107657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/google-logo-oficina-1937227.jpg' alt='Google quiere mejorar su IA para destacar resultados más fiables en las búsquedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157'>Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635'>En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-series-llegan-disney-merece-pena-pagar-suscripcion-1885571.jpg' alt='En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas' />
     </a>
 </div>
 
