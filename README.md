@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-premium-sube-precios-fecha-tarifa-anuncios-1107393'>Disney+ anuncia la tarifa Premium, sube la cuota y pone fecha a la tarifa con anuncios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-premium-sube-precios-fecha-tarifa-anuncios-1107393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-tarifa-premium-sube-precios-pone-fecha-estreno-tarifa-anuncios-2782765.jpg' alt='Disney+ anuncia la tarifa Premium, sube la cuota y pone fecha a la tarifa con anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391'>CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional</a></h4>
     <a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660151413892-2782763.jpg' alt='CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357'>Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/corazones-malheridos-pelicula-netflix-1107357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pelicula-masacrada-critica-vista-netflix-sabes-trata-2782703.jpg' alt='Una película masacrada por la crítica es la más vista en Netflix, ¿sabes de qué trata?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287'>Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-han-pirateado-alguna-cuentas-hacer-recuperarla-ocu-1107287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/seguridad-informatica-2782441.jpg' alt='Cómo saber si han pirateado alguna de tus cuentas y qué hacer para recuperarla, según la OCU' />
     </a>
 </div>
 
