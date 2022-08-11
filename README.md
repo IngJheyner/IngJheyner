@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145'>Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo </a></h4>
+    <a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/perseidas-estrellas-fugaces-2028195.jpg' alt='Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/camion-electrico-semi-tesla-estaria-cada-vez-cerca-pisar-carreteras-1107627'>El camión eléctrico Semi de Tesla estaría cada vez más cerca de pisar las carreteras</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/camion-electrico-semi-tesla-estaria-cada-vez-cerca-pisar-carreteras-1107627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tesla-semi-truck-1876631.jpg' alt='El camión eléctrico Semi de Tesla estaría cada vez más cerca de pisar las carreteras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2782961.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/galaxy-tab-s7-2063157.jpg' alt='5 tablets que son tan potentes como un ordenador portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/pareja-intelectualmente-compatible-1107615'>¿Buscas una pareja intelectualmente compatible? ¿La tuya lo es? Esto es lo que debes saber, según los expertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/pareja-intelectualmente-compatible-1107615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buscas-pareja-intelectualmente-compatible-debes-saber-2782959.jpg' alt='¿Buscas una pareja intelectualmente compatible? ¿La tuya lo es? Esto es lo que debes saber, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-premium-sube-precios-fecha-tarifa-anuncios-1107393'>Disney+ anuncia la tarifa Premium, sube la cuota y pone fecha a la tarifa con anuncios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-premium-sube-precios-fecha-tarifa-anuncios-1107393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-tarifa-premium-sube-precios-pone-fecha-estreno-tarifa-anuncios-2782765.jpg' alt='Disney+ anuncia la tarifa Premium, sube la cuota y pone fecha a la tarifa con anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391'>CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660151413892-2782763.jpg' alt='CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional' />
     </a>
 </div>
 
