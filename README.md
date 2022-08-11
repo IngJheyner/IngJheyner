@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933'>Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-playa-2783619.jpg' alt='Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927'>Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-2783615.jpg' alt='Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563'>Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-2780847.jpg' alt='Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905'>Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660230986052-2783541.jpg' alt='Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345'>Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815'>Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos' />
     </a>
 </div>
 
