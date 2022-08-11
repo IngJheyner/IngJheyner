@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729'>Cómo saber si mi coche puede circular por Madrid en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='Cómo saber si mi coche puede circular por Madrid en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793'>Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bereal-red-social-seguidores-ni-postureo-odian-redes-sociales-1107757'>Cómo funciona BeReal, la red social sin seguidores ni postureo para los que odian las redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bereal-red-social-seguidores-ni-postureo-odian-redes-sociales-1107757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bereal-2783129.jpg' alt='Cómo funciona BeReal, la red social sin seguidores ni postureo para los que odian las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-1107791'>Un día ha tardado en llegar el rival directo del Flip 4, así es el Motorola RAZR 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-1107791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-2783253.jpg' alt='Un día ha tardado en llegar el rival directo del Flip 4, así es el Motorola RAZR 2022' />
     </a>
 </div>
 
