@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563'>Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-2780847.jpg' alt='Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723'>El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815'>Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729'>Cómo saber si mi coche puede circular por Madrid en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='Cómo saber si mi coche puede circular por Madrid en 2022' />
     </a>
 </div>
 
