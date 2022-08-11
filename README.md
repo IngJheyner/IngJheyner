@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793'>Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571'>Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves</a></h4>
     <a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-2780857.jpg' alt='Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-1107791'>Un día ha tardado en llegar el rival directo del Flip 4, así es el Motorola RAZR 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-1107791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dia-ha-tardado-llegar-rival-directo-flip-4-motorola-razr-2022-2783253.jpg' alt='Un día ha tardado en llegar el rival directo del Flip 4, así es el Motorola RAZR 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cafetera-capsulas-goteo-expresso-77661'>Cafetera de cápsulas, goteo o expresso: diferencias, consejos y guía de compras</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cafetera-capsulas-goteo-expresso-77661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cafetera-2095845.jpg' alt='Cafetera de cápsulas, goteo o expresso: diferencias, consejos y guía de compras' />
     </a>
 </div>
 
