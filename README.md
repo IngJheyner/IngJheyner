@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675'>Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gusano-2783019.jpg' alt='Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-1107661'>Primero TikTok y ahora Spotify: la plataforma se suma a vender entradas de conciertos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-1107661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primero-tiktok-ahora-spotify-plataforma-suma-vender-entradas-conciertos-2782999.jpg' alt='Primero TikTok y ahora Spotify: la plataforma se suma a vender entradas de conciertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-quiere-mejorar-ia-destacar-resultados-fiables-busquedas-1107657'>Google quiere mejorar su IA para destacar resultados más fiables en las búsquedas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-quiere-mejorar-ia-destacar-resultados-fiables-busquedas-1107657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/google-logo-oficina-1937227.jpg' alt='Google quiere mejorar su IA para destacar resultados más fiables en las búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157'>Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-moviles-2022-realme-ahora-rompe-records-precio-1107157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/realme-gt-neo-2-analisis-opinion-2533443.jpg' alt='Uno de los mejores móviles de 2022 es de realme y ahora rompe récords de precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635'>En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/direcciones-opuestas-disney-explota-nuevos-suscriptores-adelanta-netflix-compania-horas-bajas-1107635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/10-series-llegan-disney-merece-pena-pagar-suscripcion-1885571.jpg' alt='En direcciones opuestas: Disney+ explota en nuevos suscriptores y adelanta a Netflix, compañía en horas bajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145'>Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo </a></h4>
-    <a href='https://computerhoy.com/noticias/como-ver-noche-lluvia-estrellas-perseidas-2022-lagrimas-san-lorenzo-1107145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/perseidas-estrellas-fugaces-2028195.jpg' alt='Cómo ver esta noche la lluvia de estrellas de las Perseidas 2022 o lágrimas de San Lorenzo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/camion-electrico-semi-tesla-estaria-cada-vez-cerca-pisar-carreteras-1107627'>El camión eléctrico Semi de Tesla estaría cada vez más cerca de pisar las carreteras</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/camion-electrico-semi-tesla-estaria-cada-vez-cerca-pisar-carreteras-1107627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/tesla-semi-truck-1876631.jpg' alt='El camión eléctrico Semi de Tesla estaría cada vez más cerca de pisar las carreteras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803'>Estos son los auriculares con cancelación de ruido más baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-auriculares-inalambricos-baratos-cancelacion-ruido-1104803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/review-huawei-freebuds-4i-2266791.jpg' alt='Estos son los auriculares con cancelación de ruido más baratos' />
     </a>
 </div>
 
