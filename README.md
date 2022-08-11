@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345'>Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815'>Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/intel-arc-50-juegos-vs-nvidia-rtx-3060-resultado-no-esperabamos-1107815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel Arc en 50 juegos vs NVIDIA RTX 3060, el resultado no es el que esperábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729'>Cómo saber si mi coche puede circular por Madrid en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='Cómo saber si mi coche puede circular por Madrid en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571'>Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves</a></h4>
     <a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-2780857.jpg' alt='Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/instala-whatsapp-orden-ejercito-espanol-utiliza-oficialmente-plataforma-1107819'>Instala WhatsApp, es una orden: el Ejército español utiliza oficialmente esta plataforma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/instala-whatsapp-orden-ejercito-espanol-utiliza-oficialmente-plataforma-1107819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ejercito-whatsapp-2783297.jpg' alt='Instala WhatsApp, es una orden: el Ejército español utiliza oficialmente esta plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bereal-red-social-seguidores-ni-postureo-odian-redes-sociales-1107757'>Cómo funciona BeReal, la red social sin seguidores ni postureo para los que odian las redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-funciona-bereal-red-social-seguidores-ni-postureo-odian-redes-sociales-1107757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bereal-2783129.jpg' alt='Cómo funciona BeReal, la red social sin seguidores ni postureo para los que odian las redes sociales' />
     </a>
 </div>
 
