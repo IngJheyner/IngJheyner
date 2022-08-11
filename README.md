@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-google-maps-te-muestra-radares-invisibles-manera-legal-gratuita-1107731'>El mapa de Google Maps que te muestra los radares invisibles de manera legal y gratuita </a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-google-maps-te-muestra-radares-invisibles-manera-legal-gratuita-1107731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='El mapa de Google Maps que te muestra los radares invisibles de manera legal y gratuita ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-1107719'>Por fin un robot que consigue hacer algo útil: montar muebles de IKEA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-1107719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fin-robot-consigue-hacer-algo-util-montar-muebles-ikea-2783059.jpg' alt='Por fin un robot que consigue hacer algo útil: montar muebles de IKEA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/emoji-microsoft-convierten-codigo-abierto-cualquiera-desee-modificarlos-1107685'>Los emoji de Microsoft se convierten en código abierto para cualquiera que desee modificarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/emoji-microsoft-convierten-codigo-abierto-cualquiera-desee-modificarlos-1107685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/emojis-2227247.jpg' alt='Los emoji de Microsoft se convierten en código abierto para cualquiera que desee modificarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675'>Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-19-anos-vivimos-peores-virus-windows-fue-apocalipsis-blaster-1107675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gusano-2783019.jpg' alt='Hace 19 años vivimos uno de los peores virus Windows: así fue el apocalipsis de Blaster' />
     </a>
 </div>
 
