@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1107617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2782961.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/galaxy-tab-s7-2063157.jpg' alt='5 tablets que son tan potentes como un ordenador portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/pareja-intelectualmente-compatible-1107615'>¿Buscas una pareja intelectualmente compatible? ¿La tuya lo es? Esto es lo que debes saber, según los expertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/pareja-intelectualmente-compatible-1107615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buscas-pareja-intelectualmente-compatible-debes-saber-2782959.jpg' alt='¿Buscas una pareja intelectualmente compatible? ¿La tuya lo es? Esto es lo que debes saber, según los expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391'>CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional</a></h4>
     <a href='https://computerhoy.com/noticias/life/cutcam-cortapelos-inteligente-camara-wifi-1107391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660151413892-2782763.jpg' alt='CutCam, el cortapelos inteligente con cámara WiFi para que puedas cortarte el pelo tú solo como un profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383'>LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-televisor-oled-97-pulgadas-sin-altavoces-sonido-51-vibraciones-1107383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-presenta-televisor-oled-97-pulgadas-altavoces-emite-sonido-51-mediante-vibraciones-2782751.jpg' alt='LG presenta un televisor OLED EX de 97 pulgadas sin altavoces, emite sonido 5.1 mediante vibraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367'>Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/purificador-aire-rowenta-chollo-1107367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/respira-aire-limpio-casa-precio-ganga-purificador-rowenta-mejorara-calidad-vida-2782731.jpg' alt='Respira aire limpio en casa a precio de ganga: este purificador Rowenta mejorará tu calidad de vida' />
     </a>
 </div>
 
