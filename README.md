@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949'>Xiaomi Mix Fold 2, el móvil plegable ultrafino, llega acompañado de una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-movil-plegable-ultrafino-llega-acompanado-inmensa-tablet-13-pulgadas-auriculares-smartwatch-2783663.jpg' alt='Xiaomi Mix Fold 2, el móvil plegable ultrafino, llega acompañado de una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933'>Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-playa-2783619.jpg' alt='Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723'>El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905'>Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660230986052-2783541.jpg' alt='Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu' />
     </a>
 </div>
 
