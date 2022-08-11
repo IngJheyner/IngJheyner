@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971'>Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660247785096-2783755.jpg' alt='Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-descuento-1107963'>El nuevo POCO X4 GT brilla por su potencia, autonomía y cámara principal, y hoy tiene descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-descuento-1107963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='El nuevo POCO X4 GT brilla por su potencia, autonomía y cámara principal, y hoy tiene descuento' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949'>Xiaomi Mix Fold 2, el móvil plegable ultrafino, llega acompañado de una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch</a></h4>
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949'>Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-movil-plegable-ultrafino-llega-acompanado-inmensa-tablet-13-pulgadas-auriculares-smartwatch-2783663.jpg' alt='Xiaomi Mix Fold 2, el móvil plegable ultrafino, llega acompañado de una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-movil-plegable-ultrafino-llega-acompanado-inmensa-tablet-13-pulgadas-auriculares-smartwatch-2783663.jpg' alt='Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927'>Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-2783615.jpg' alt='Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563'>Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/piensas-aprender-programar-curso-online-probablemente-mejor-forma-empezar-cero-1106563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-2780847.jpg' alt='Si piensas aprender a programar, este curso online es probablemente la mejor forma de empezar desde cero' />
     </a>
 </div>
 
