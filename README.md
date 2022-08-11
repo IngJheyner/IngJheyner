@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723'>El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sencillo-truco-puedes-mejorar-memoria-aprender-rapido-1107723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/cerebro-2233289.jpg' alt='El sencillo truco con el que puedes mejorar tu memoria y aprender más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905'>Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cyberone-robot-humanoide-xiaomi-1107905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660230986052-2783541.jpg' alt='Xiaomi presenta su robot humanoide CyberOne, "experto" en Kung Fu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345'>Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-copy-paste-avanzado-word-guardando-24-elementos-1107345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tema-oscuro-word-2143521.jpg' alt='Cómo usar copy/paste avanzado en Word, guardando hasta 24 elementos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729'>Cómo saber si mi coche puede circular por Madrid en 2022</a></h4>
     <a href='https://computerhoy.com/noticias/motor/como-saber-mi-coche-puede-circular-madrid-2022-1107729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/contaminacion-vehiculos-2747437.jpg' alt='Cómo saber si mi coche puede circular por Madrid en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793'>Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tarifas-te-haran-ahorrar-cientos-euros-grandes-electricas-ocultan-ocu-1107793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/factura-luz-2637695.jpg' alt='Tarifas que te harán ahorrar cientos de euros y que las grandes eléctricas ocultan, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571'>Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves</a></h4>
-    <a href='https://computerhoy.com/noticias/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-1106571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-playa-solo-accesorio-imprescindible-llevar-siempre-encima-movil-llaves-2780857.jpg' alt='Si vas a la playa solo, este es el accesorio imprescindible para llevar siempre encima móvil y llaves' />
     </a>
 </div>
 
