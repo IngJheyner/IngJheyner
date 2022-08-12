@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-raspberry-pi-detecta-te-estan-siguiendo-puro-estilo-espia-1108273'>La herramienta Raspberry Pi que detecta si te están siguiendo al más puro estilo espía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-raspberry-pi-detecta-te-estan-siguiendo-puro-estilo-espia-1108273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='La herramienta Raspberry Pi que detecta si te están siguiendo al más puro estilo espía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/prueba-gratis-mejores-servicios-amazon-audiolibros-coste-durante-30-dias-1107133'>Prueba gratis uno de los mejores servicios de Amazon: audiolibros sin coste durante 30 días</a></h4>
+    <a href='https://computerhoy.com/noticias/prueba-gratis-mejores-servicios-amazon-audiolibros-coste-durante-30-dias-1107133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/audible-2249797.jpg' alt='Prueba gratis uno de los mejores servicios de Amazon: audiolibros sin coste durante 30 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fotografo-camara-no-necesitas-ultimo-modelo-ganar-iphone-photography-awards-1108271'>¿Fotógrafo o cámara? No necesitas el último modelo para ganar el iPhone Photography Awards</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fotografo-camara-no-necesitas-ultimo-modelo-ganar-iphone-photography-awards-1108271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-photography-awards-2784187.jpg' alt='¿Fotógrafo o cámara? No necesitas el último modelo para ganar el iPhone Photography Awards' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263'>Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navegador-web-2784175.jpg' alt='Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ingenioso-truco-viral-llevar-aire-acondicionado-habitacion-solo-tienes-instalacion-salon-1108237'>El ingenioso truco viral para llevar el aire acondicionado a la habitación si solo tienes instalación en el salón</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ingenioso-truco-viral-llevar-aire-acondicionado-habitacion-solo-tienes-instalacion-salon-1108237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg' alt='El ingenioso truco viral para llevar el aire acondicionado a la habitación si solo tienes instalación en el salón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245'>Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/stephen-hawking-nasa.jpg' alt='Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas' />
     </a>
 </div>
 
