@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357'>Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/tormenta-solar.jpg' alt='Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111'>Revive tu viejo ordenador con este SSD de 1TB a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ssd-ace-a55-2781891.jpg' alt='Revive tu viejo ordenador con este SSD de 1TB a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369'>Este es el mejor tipo de helado para las olas de calor, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chica-comiendo-helado-2784539.jpg' alt='Este es el mejor tipo de helado para las olas de calor, según la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-miedo-tecnologia-plegable-samsung-cambio-oficial-pantalla-29-dolares-1108337'>Si tienes miedo a la tecnología plegable de Samsung: cambio oficial de pantalla desde 29 dólares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-miedo-tecnologia-plegable-samsung-cambio-oficial-pantalla-29-dolares-1108337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg' alt='Si tienes miedo a la tecnología plegable de Samsung: cambio oficial de pantalla desde 29 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-raspberry-pi-detecta-te-estan-siguiendo-puro-estilo-espia-1108273'>La herramienta Raspberry Pi que detecta si te están siguiendo al más puro estilo espía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-raspberry-pi-detecta-te-estan-siguiendo-puro-estilo-espia-1108273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg' alt='La herramienta Raspberry Pi que detecta si te están siguiendo al más puro estilo espía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/prueba-gratis-mejores-servicios-amazon-audiolibros-coste-durante-30-dias-1107133'>Prueba gratis uno de los mejores servicios de Amazon: audiolibros sin coste durante 30 días</a></h4>
-    <a href='https://computerhoy.com/noticias/prueba-gratis-mejores-servicios-amazon-audiolibros-coste-durante-30-dias-1107133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/audible-2249797.jpg' alt='Prueba gratis uno de los mejores servicios de Amazon: audiolibros sin coste durante 30 días' />
     </a>
 </div>
 
