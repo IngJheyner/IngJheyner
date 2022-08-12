@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2784039.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>8 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-9i-2618275.jpg' alt='8 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985'>¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente</a></h4>
     <a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camping-caravana-como-lavar-platos-no-tienes-agua-corriente-2783859.jpg' alt='¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971'>Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660247785096-2783755.jpg' alt='Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-descuento-1107963'>El nuevo POCO X4 GT brilla por su potencia, autonomía y cámara principal, y hoy tiene descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/poco-x4-gt-descuento-1107963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760505.jpg' alt='El nuevo POCO X4 GT brilla por su potencia, autonomía y cámara principal, y hoy tiene descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949'>Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-movil-plegable-ultrafino-llega-acompanado-inmensa-tablet-13-pulgadas-auriculares-smartwatch-2783663.jpg' alt='Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch' />
     </a>
 </div>
 
