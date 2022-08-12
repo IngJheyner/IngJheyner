@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459'>Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455'>Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/internet-rural-2784725.jpg' alt='Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449'>Pete Lau da pistas sobre un próximo OnePlus plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pete-lau-da-pistas-proximo-oneplus-plegable-2784691.jpg' alt='Pete Lau da pistas sobre un próximo OnePlus plegable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287'>Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-2784357.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397'>Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345'>Cómo saber el valor catastral de un inmueble por Internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Cómo saber el valor catastral de un inmueble por Internet' />
     </a>
 </div>
 
