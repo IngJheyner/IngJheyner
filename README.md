@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985'>¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camping-caravana-como-lavar-platos-no-tienes-agua-corriente-2783859.jpg' alt='¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/familia-pasa-48-horas-perdida-plena-naturaleza-google-maps-1107981'>Una familia pasa más de 48 horas perdida en plena naturaleza, sin agua ni comida, por culpa de Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/familia-pasa-48-horas-perdida-plena-naturaleza-google-maps-1107981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/familia-pasa-48-perdida-plena-naturaleza-culpa-google-maps-2783837.jpg' alt='Una familia pasa más de 48 horas perdida en plena naturaleza, sin agua ni comida, por culpa de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971'>Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/alma-serie-espanola-netflix-1107971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660247785096-2783755.jpg' alt='Netflix vuelve a apostar por el fantástico español con su nueva serie Alma, ¿hay algo tras la muerte?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949'>Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-mix-fold-2-movil-plegable-ultrafino-pad-5-pro-buds-4-pro-watch-s1-pro-1107949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mix-fold-2-movil-plegable-ultrafino-llega-acompanado-inmensa-tablet-13-pulgadas-auriculares-smartwatch-2783663.jpg' alt='Xiaomi Mix Fold 2, el móvil plegable ultrafino, se estrena con una inmensa tablet de 13 pulgadas, unos auriculares y un smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933'>Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-usuarios-iphone-altas-temperaturas-no-deben-ignorar-1107933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-playa-2783619.jpg' alt='Advertencia a los usuarios de iPhone por las altas temperaturas que no deben ignorar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927'>Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-1107927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-lanza-lavadora-dos-pisos-lava-separado-diferentes-tipos-ropa-puede-secar-lavar-vez-2783615.jpg' alt='Xiaomi lanza una lavadora de dos pisos que lava por separado diferentes tipos de ropa y puede secar y lavar a la vez' />
     </a>
 </div>
 
