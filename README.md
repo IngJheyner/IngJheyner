@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fotografo-camara-no-necesitas-ultimo-modelo-ganar-iphone-photography-awards-1108271'>¿Fotógrafo o cámara? No necesitas el último modelo para ganar el iPhone Photography Awards</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fotografo-camara-no-necesitas-ultimo-modelo-ganar-iphone-photography-awards-1108271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-photography-awards-2784187.jpg' alt='¿Fotógrafo o cámara? No necesitas el último modelo para ganar el iPhone Photography Awards' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/disco-duro-portatil-inteligentes'>Trucos, consejos y guía para comprar un disco duro externo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/disco-duro-portatil-inteligentes' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/disco-duro-2132751.jpg' alt='Trucos, consejos y guía para comprar un disco duro externo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263'>Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navegador-web-2784175.jpg' alt='Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245'>Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/stephen-hawking-nasa.jpg' alt='Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-robots-aspiradores-low-cost-hemos-probado-baja-poco-precio-tiene-base-autovaciado-1107131'>Uno de los mejores robots aspiradores low cost que hemos probado baja un poco más de precio, y tiene base de autovaciado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-robots-aspiradores-low-cost-hemos-probado-baja-poco-precio-tiene-base-autovaciado-1107131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-2290-ultra-home-2649055.jpg' alt='Uno de los mejores robots aspiradores low cost que hemos probado baja un poco más de precio, y tiene base de autovaciado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219'>Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-2784059.jpg' alt='Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo' />
     </a>
 </div>
 
