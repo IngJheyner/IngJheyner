@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287'>Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-2784357.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397'>Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111'>Revive tu viejo ordenador con este SSD de 1TB a precio de ganga</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ssd-ace-a55-2781891.jpg' alt='Revive tu viejo ordenador con este SSD de 1TB a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369'>Este es el mejor tipo de helado para las olas de calor, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chica-comiendo-helado-2784539.jpg' alt='Este es el mejor tipo de helado para las olas de calor, según la ciencia' />
     </a>
 </div>
 
