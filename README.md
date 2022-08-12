@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263'>Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/navegador-web-nube-nuevo-truco-ahorrar-bateria-movil-1108263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/navegador-web-2784175.jpg' alt='Navegador web en la nube, el nuevo truco para ahorrar batería en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ingenioso-truco-viral-llevar-aire-acondicionado-habitacion-solo-tienes-instalacion-salon-1108237'>El ingenioso truco viral para llevar el aire acondicionado a la habitación si solo tienes instalación en el salón</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ingenioso-truco-viral-llevar-aire-acondicionado-habitacion-solo-tienes-instalacion-salon-1108237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg' alt='El ingenioso truco viral para llevar el aire acondicionado a la habitación si solo tienes instalación en el salón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245'>Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teorias-muy-extranas-stephen-hawking-algunas-sorprendentemente-han-resultado-ser-ciertas-1108245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/stephen-hawking-nasa.jpg' alt='Teorías muy extrañas de Stephen Hawking y algunas sorprendentemente han resultado ser ciertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-robots-aspiradores-low-cost-hemos-probado-baja-poco-precio-tiene-base-autovaciado-1107131'>Uno de los mejores robots aspiradores low cost que hemos probado baja un poco más de precio, y tiene base de autovaciado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-robots-aspiradores-low-cost-hemos-probado-baja-poco-precio-tiene-base-autovaciado-1107131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cecotec-2290-ultra-home-2649055.jpg' alt='Uno de los mejores robots aspiradores low cost que hemos probado baja un poco más de precio, y tiene base de autovaciado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219'>Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-2784059.jpg' alt='Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985'>¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienen agua corriente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camping-caravana-como-lavar-platos-no-tienes-agua-corriente-2783859.jpg' alt='¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienen agua corriente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtro-spam-gmail-cambiara-peor-google-detras-ello-1108207'>El filtro de spam de Gmail cambiará a peor y Google está detrás de ello</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtro-spam-gmail-cambiara-peor-google-detras-ello-1108207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gmail-2580177.jpg' alt='El filtro de spam de Gmail cambiará a peor y Google está detrás de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/11-chollos-menos-20eu-aliexpress-tienen-envio-gratis-1107087'>11 chollos de menos de 20€ de AliExpress que tienen envío gratis</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/11-chollos-menos-20eu-aliexpress-tienen-envio-gratis-1107087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/aliexpress-2584655.jpg' alt='11 chollos de menos de 20€ de AliExpress que tienen envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2784039.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
