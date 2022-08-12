@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499'>Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569843.jpg' alt='Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/constelaciones-2774293.jpg' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383'>Cómo y por qué deberías usar texto oculto en Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo y por qué deberías usar texto oculto en Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465'>El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/protagonista-flash-acusado-robo-otros-delitos-warner-bajara-tres-opciones-incluyendo-cancelacion-pelicula-2784737.jpg' alt='El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película' />
     </a>
 </div>
 
