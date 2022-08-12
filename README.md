@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219'>Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-1108219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/messenger-seguira-mismo-camino-whatsapp-recibira-cifrado-extremo-extremo-2784059.jpg' alt='Messenger seguirá el mismo camino que WhatsApp y recibirá cifrado de extremo a extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985'>¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienen agua corriente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camping-caravana-como-lavar-platos-no-tienes-agua-corriente-2783859.jpg' alt='¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienen agua corriente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtro-spam-gmail-cambiara-peor-google-detras-ello-1108207'>El filtro de spam de Gmail cambiará a peor y Google está detrás de ello</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtro-spam-gmail-cambiara-peor-google-detras-ello-1108207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/gmail-2580177.jpg' alt='El filtro de spam de Gmail cambiará a peor y Google está detrás de ello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1108197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2784039.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113'>8 móviles de menos de 200 euros que hemos probado y que recomendamos comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-moviles-menos-200-euros-hemos-probado-recomendamos-1001113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-9i-2618275.jpg' alt='8 móviles de menos de 200 euros que hemos probado y que recomendamos comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985'>¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lavar-platos-sin-agua-corriente-1107985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camping-caravana-como-lavar-platos-no-tienes-agua-corriente-2783859.jpg' alt='¿De camping o en una caravana? Así lavan los campistas polacos los platos si no tienes agua corriente' />
     </a>
 </div>
 
