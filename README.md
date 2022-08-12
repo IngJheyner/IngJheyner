@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/constelaciones-2774293.jpg' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493'>Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473'>El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465'>El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/protagonista-flash-acusado-robo-otros-delitos-warner-bajara-tres-opciones-incluyendo-cancelacion-pelicula-2784737.jpg' alt='El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459'>Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455'>Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/internet-rural-2784725.jpg' alt='Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico' />
     </a>
 </div>
 
