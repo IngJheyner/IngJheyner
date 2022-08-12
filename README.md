@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449'>Pete Lau da pistas sobre un próximo OnePlus plegable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pete-lau-da-pistas-proximo-oneplus-plegable-2784691.jpg' alt='Pete Lau da pistas sobre un próximo OnePlus plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-bajisimo-consumo-incluye-instalacion-tiene-wifi-1108305'>Este aire acondicionado de bajísimo consumo incluye instalación y tiene WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-bajisimo-consumo-incluye-instalacion-tiene-wifi-1108305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aire-acondicionado-2784333.jpg' alt='Este aire acondicionado de bajísimo consumo incluye instalación y tiene WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287'>Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-2784357.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345'>Cómo saber el valor catastral de un inmueble por Internet</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Cómo saber el valor catastral de un inmueble por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357'>Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/tormenta-solar.jpg' alt='Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111'>Revive tu viejo ordenador con este SSD de 1TB a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/revive-viejo-ordenador-ssd-1tb-precio-ganga-1107111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ssd-ace-a55-2781891.jpg' alt='Revive tu viejo ordenador con este SSD de 1TB a precio de ganga' />
     </a>
 </div>
 
