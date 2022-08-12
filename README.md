@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345'>Cómo saber el valor catastral de un inmueble por Internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Cómo saber el valor catastral de un inmueble por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357'>Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-advierten-tormenta-solar-tendria-tal-magnitud-podria-freir-buena-parte-satelites-orbita-1108357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/tormenta-solar.jpg' alt='Científicos advierten de una tormenta solar que tendría tal magnitud que podría freír buena parte de los satélites en órbita' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-ruso-procesador-arm-desarrollo-completo-rusia-1108309'>El Macbook ruso, con procesador ARM y desarrollo completo en Rusia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-ruso-procesador-arm-desarrollo-completo-rusia-1108309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/macbook-ruso-procesador-arm-desarrollo-completo-rusia-2784355.jpg' alt='El Macbook ruso, con procesador ARM y desarrollo completo en Rusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-miedo-tecnologia-plegable-samsung-cambio-oficial-pantalla-29-dolares-1108337'>Si tienes miedo a la tecnología plegable de Samsung: cambio oficial de pantalla desde 29 dólares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-miedo-tecnologia-plegable-samsung-cambio-oficial-pantalla-29-dolares-1108337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781993.jpg' alt='Si tienes miedo a la tecnología plegable de Samsung: cambio oficial de pantalla desde 29 dólares' />
     </a>
 </div>
 
