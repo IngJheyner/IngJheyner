@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397'>Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/multa-millonaria-google-australia-enganar-usuarios-acerca-datos-ubicacion-recopila-1108397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Multa millonaria a Google en Australia por engañar a los usuarios acerca de los datos de ubicación que recopila' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345'>Cómo saber el valor catastral de un inmueble por Internet</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-valor-catastral-inmueble-internet-1108345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/catastro-online-como-conseguir-internet-referencia-catastral-cualquier-casa-inmueble-2727513.jpg' alt='Cómo saber el valor catastral de un inmueble por Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369'>Este es el mejor tipo de helado para las olas de calor, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-tipo-helado-olas-calor-ciencia-1108369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chica-comiendo-helado-2784539.jpg' alt='Este es el mejor tipo de helado para las olas de calor, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-ruso-procesador-arm-desarrollo-completo-rusia-1108309'>El Macbook ruso, con procesador ARM y desarrollo completo en Rusia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-ruso-procesador-arm-desarrollo-completo-rusia-1108309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/macbook-ruso-procesador-arm-desarrollo-completo-rusia-2784355.jpg' alt='El Macbook ruso, con procesador ARM y desarrollo completo en Rusia' />
     </a>
 </div>
 
