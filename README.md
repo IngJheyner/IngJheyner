@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473'>El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383'>Cómo y por qué deberías usar texto oculto en Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo y por qué deberías usar texto oculto en Word' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455'>Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/construye-internet-casero-cansado-ser-estafado-operadores-ahora-podria-hacerle-rico-1108455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/internet-rural-2784725.jpg' alt='Construye un Internet casero cansado de ser estafado por los operadores y ahora podría hacerle rico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449'>Pete Lau da pistas sobre un próximo OnePlus plegable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pete-lau-da-pistas-proximo-oneplus-plegable-2784691.jpg' alt='Pete Lau da pistas sobre un próximo OnePlus plegable' />
     </a>
 </div>
 
