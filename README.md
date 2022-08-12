@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383'>Cómo y por qué deberías usar texto oculto en Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo y por qué deberías usar texto oculto en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465'>El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-flash-warner-ezra-miller-acusado-robo-cancelacion-pelicula-1108465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/protagonista-flash-acusado-robo-otros-delitos-warner-bajara-tres-opciones-incluyendo-cancelacion-pelicula-2784737.jpg' alt='El protagonista de The Flash es acusado de robo y otros delitos y Warner baraja tres opciones, incluyendo la cancelación de la película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459'>Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/descubren-grave-vulnerabilidad-ciertos-modelos-moviles-xiaomi-permite-falsificar-pagos-1108459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg' alt='Descubren una grave vulnerabilidad en ciertos modelos de móviles Xiaomi que permite falsificar pagos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449'>Pete Lau da pistas sobre un próximo OnePlus plegable</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-plegable-pete-lau-1108449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pete-lau-da-pistas-proximo-oneplus-plegable-2784691.jpg' alt='Pete Lau da pistas sobre un próximo OnePlus plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-bajisimo-consumo-incluye-instalacion-tiene-wifi-1108305'>Este aire acondicionado de bajísimo consumo incluye instalación y tiene WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-bajisimo-consumo-incluye-instalacion-tiene-wifi-1108305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aire-acondicionado-2784333.jpg' alt='Este aire acondicionado de bajísimo consumo incluye instalación y tiene WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287'>Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-1108287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-ver-fin-semana-prime-video-disney-netflix-hispanomexicana-transporter-3-comedia-vampiros-2784357.jpg' alt='Qué películas ver este fin de semana en Prime Video, Disney+ y Netflix: una hispanomexicana, Transporter 3 y una comedia con vampiros' />
     </a>
 </div>
 
