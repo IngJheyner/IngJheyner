@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691'>Cómo usar Google Translate en Android o iPhone sin conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-translate-2210623.jpg' alt='Cómo usar Google Translate en Android o iPhone sin conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660303199179-2784503.jpg' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605'>5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233'>Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavar-ropa-2778887.jpg' alt='Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas' />
     </a>
 </div>
 
