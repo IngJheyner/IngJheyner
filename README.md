@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715'>Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/limpieza-motivacional-limpian-profesionales-casas-sucias-mundo-2784959.jpg' alt='Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499'>Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569843.jpg' alt='Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473'>El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383'>Cómo y por qué deberías usar texto oculto en Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-deberias-usar-texto-oculto-word-1108383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo y por qué deberías usar texto oculto en Word' />
     </a>
 </div>
 
