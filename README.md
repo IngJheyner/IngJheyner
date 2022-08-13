@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775'>Netflix renueva Love, Death & Robots por una cuarta temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/love-death-robots-2785139.jpg' alt='Netflix renueva Love, Death & Robots por una cuarta temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765'>Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-2785071.jpg' alt='Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755'>Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785'>Huawei Nova 9 SE, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-huawei-nova-9-2783817.jpg' alt='Huawei Nova 9 SE, análisis y opinión' />
     </a>
 </div>
 
