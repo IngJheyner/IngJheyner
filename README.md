@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785'>Huawei Nova 9 SE, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-huawei-nova-9-2783817.jpg' alt='Huawei Nova 9 SE, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-bloquea-actualizacion-telegram-porque-no-quiere-telemoji-1108743'>Apple bloquea una actualización de Telegram porque no quiere sus Telemoji</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-bloquea-actualizacion-telegram-porque-no-quiere-telemoji-1108743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telegram-2785031.jpg' alt='Apple bloquea una actualización de Telegram porque no quiere sus Telemoji' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691'>Cómo usar Google Translate en Android o iPhone sin conexión a Internet</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-translate-2210623.jpg' alt='Cómo usar Google Translate en Android o iPhone sin conexión a Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801'>TCL C635 de 55", análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tcl-c635-55-analisis-opinion-2783737.jpg' alt='TCL C635 de 55", análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245'>Errores que no cometer al comprar un kit de conversión de bici eléctrica</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Errores que no cometer al comprar un kit de conversión de bici eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605'>5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales' />
     </a>
 </div>
 
