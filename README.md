@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687'>Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-elastico-funciona-como-cerebro-procesar-datos-salud-1108777'>Este sensor elástico funciona como un cerebro para procesar datos de tu salud</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sensor-elastico-funciona-como-cerebro-procesar-datos-salud-1108777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tatuaje-sensor-elastico-funciona-como-cerebro-procesar-datos-salud-2785143.jpg' alt='Este sensor elástico funciona como un cerebro para procesar datos de tu salud' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763'>WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769'>7 películas de supervivencia extrema que tienes disponibles en streaming</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/renacido-2781395.jpg' alt='7 películas de supervivencia extrema que tienes disponibles en streaming' />
     </a>
 </div>
 
