@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233'>Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavar-ropa-2778887.jpg' alt='Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715'>Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/limpieza-motivacional-limpian-profesionales-casas-sucias-mundo-2784959.jpg' alt='Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493'>Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473'>El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-premium-huawei-watch-gt-3-descuento-1108473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/huawei-watch-gt-3-analisis-opinion-2585305.jpg' alt='El reloj premium Huawei Watch GT 3 baja de precio 80 euros y se queda en solo 169 euros' />
     </a>
 </div>
 
