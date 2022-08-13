@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660303199179-2784503.jpg' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801'>TCL C635 de 55", análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tcl-c635-55-analisis-opinion-2783737.jpg' alt='TCL C635 de 55", análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245'>Errores que no cometer al comprar un kit de conversión de bici eléctrica</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Errores que no cometer al comprar un kit de conversión de bici eléctrica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233'>Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavar-ropa-2778887.jpg' alt='Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715'>Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/videos-limpieza-motivacional-casas-mas-sucias-mundo-1108715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/limpieza-motivacional-limpian-profesionales-casas-sucias-mundo-2784959.jpg' alt='Limpieza motivacional: así limpian los profesionales las casas más sucias del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499'>Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569843.jpg' alt='Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC' />
     </a>
 </div>
 
