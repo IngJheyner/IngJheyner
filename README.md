@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sensor-elastico-funciona-como-cerebro-procesar-datos-salud-1108777'>Este sensor elástico funciona como un cerebro para procesar datos de tu salud</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sensor-elastico-funciona-como-cerebro-procesar-datos-salud-1108777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tatuaje-sensor-elastico-funciona-como-cerebro-procesar-datos-salud-2785143.jpg' alt='Este sensor elástico funciona como un cerebro para procesar datos de tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775'>Netflix renueva Love, Death & Robots por una cuarta temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/love-death-robots-2785139.jpg' alt='Netflix renueva Love, Death & Robots por una cuarta temporada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769'>7 películas de supervivencia extrema que tienes disponibles en streaming</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/renacido-2781395.jpg' alt='7 películas de supervivencia extrema que tienes disponibles en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755'>Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk' />
     </a>
 </div>
 
