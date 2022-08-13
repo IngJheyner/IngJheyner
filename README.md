@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-widgets-windows-te-ofreceran-mejores-previsiones-meteorologicas-1108815'>Ahora los widgets de Windows te ofrecerán mejores previsiones meteorológicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-widgets-windows-te-ofreceran-mejores-previsiones-meteorologicas-1108815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/widget-tiempo-2785247.jpg' alt='Ahora los widgets de Windows te ofrecerán mejores previsiones meteorológicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803'>Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/servicios-transmision-2785221.jpg' alt='Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775'>Netflix renueva Love, Death & Robots por una cuarta temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-renueva-love-death-robots-cuarta-temporada-1108775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/love-death-robots-2785139.jpg' alt='Netflix renueva Love, Death & Robots por una cuarta temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765'>Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-2785071.jpg' alt='Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5' />
     </a>
 </div>
 
