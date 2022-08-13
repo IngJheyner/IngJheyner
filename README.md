@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765'>Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-2785071.jpg' alt='Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763'>WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769'>7 películas de supervivencia extrema que tienes disponibles en streaming</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-supervivencia-extrema-tienes-disponibles-streaming-1106769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/renacido-2781395.jpg' alt='7 películas de supervivencia extrema que tienes disponibles en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755'>Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aparece-primera-version-android-auto-80-rastro-coolwalk-1108755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Aparece la primera versión de Android Auto 8.0 sin rastro de Coolwalk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785'>Huawei Nova 9 SE, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-nova-9-review-opinion-1107785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-huawei-nova-9-2783817.jpg' alt='Huawei Nova 9 SE, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-bloquea-actualizacion-telegram-porque-no-quiere-telemoji-1108743'>Apple bloquea una actualización de Telegram porque no quiere sus Telemoji</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-bloquea-actualizacion-telegram-porque-no-quiere-telemoji-1108743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telegram-2785031.jpg' alt='Apple bloquea una actualización de Telegram porque no quiere sus Telemoji' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691'>Cómo usar Google Translate en Android o iPhone sin conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-google-translate-android-iphone-conexion-internet-1100691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/google-translate-2210623.jpg' alt='Cómo usar Google Translate en Android o iPhone sin conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/son-smart-rings-cual-utilidad-1101877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660303199179-2784503.jpg' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801'>TCL C635 de 55", análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/tcl-c635-55-review-opinion-1106801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tcl-c635-55-analisis-opinion-2783737.jpg' alt='TCL C635 de 55", análisis y opinión' />
     </a>
 </div>
 
