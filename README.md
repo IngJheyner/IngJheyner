@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245'>Errores que no cometer al comprar un kit de conversión de bici eléctrica</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/errores-no-cometer-comprar-kit-conversion-bici-electrica-1105245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Errores que no cometer al comprar un kit de conversión de bici eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605'>5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499'>Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dispositivos-meta-portal-segunda-pantalla-pc-duet-display-1108499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/galeria-review-facebook-portal-2569843.jpg' alt='Los dispositivos Portal han sido un fracaso, pero Meta ha encontrado un segundo uso para los usuarios de PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/constelaciones-2774293.jpg' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
     </a>
 </div>
 
