@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605'>5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-televisores-4k-ver-futbol-ahora-vuelven-competiciones-oficiales-1103605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg' alt='5 televisores 4K para ver el fútbol ahora que vuelven las competiciones oficiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233'>Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mini-lavadora-portatil-viaje-caravanas-1105233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavar-ropa-2778887.jpg' alt='Guía y consejos para comprar una mini lavadora portátil para viaje o caravanas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/constelaciones-2774293.jpg' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493'>Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-ha-perdido-3500-millones-dolares-division-gpus-analista-aconseja-venta-cierre-1108493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='Intel ha perdido 3.500 millones de dólares con su división de GPUs, y un analista aconseja que la venda o la cierre' />
     </a>
 </div>
 
