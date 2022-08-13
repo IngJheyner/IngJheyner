@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803'>Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/servicios-transmision-2785221.jpg' alt='Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687'>Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765'>Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-1108765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-chollo-cuesta-350-euros-tiene-ryzen-5-2785071.jpg' alt='Este portátil Dell es un chollo: cuesta 350 euros y tiene Ryzen 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763'>WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-permitira-esconder-numero-telefono-comunicarte-ciertos-contactos-1108763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/seguridad-whatsapp-2754239.jpg' alt='WhatsApp te permitirá esconder tu número de teléfono al comunicarte con ciertos contactos' />
     </a>
 </div>
 
