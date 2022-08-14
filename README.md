@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejor-soporte-pared-mi-tv-1064777'>Guía y consejos para comprar el mejor soporte de pared para mi TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejor-soporte-pared-mi-tv-1064777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/soporte-pared-televisor-2708895.jpg' alt='Guía y consejos para comprar el mejor soporte de pared para mi TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/solo-han-nacido-tortugas-marinas-hembras-florida-cambio-climatico-1108283'>En los últimos 4 años solo han nacido tortugas marinas hembras en Florida, por el cambio climático</a></h4>
     <a href='https://computerhoy.com/noticias/life/solo-han-nacido-tortugas-marinas-hembras-florida-cambio-climatico-1108283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ultimos-4-anos-solo-han-nacido-tortugas-hembras-florida-cambio-climatico-2784223.jpg' alt='En los últimos 4 años solo han nacido tortugas marinas hembras en Florida, por el cambio climático' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803'>Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/vas-poderte-suscribir-netflix-disney-plus-traves-youtube-gracias-nueva-tienda-canales-1108803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/servicios-transmision-2785221.jpg' alt='Vas a poderte suscribir a Netflix o Disney Plus a través de YouTube gracias a su nueva tienda de canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687'>Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-letra-unidad-pendrive-facilmente-windows-1107687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/pendrive-2615613.jpg' alt='Cómo cambiar la letra de unidad de un pendrive fácilmente en Windows' />
     </a>
 </div>
 
