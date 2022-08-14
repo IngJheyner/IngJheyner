@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817'>Las increíbles creaciones de un carpintero ciego que lo peta en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/increibles-creaciones-carpintero-ciego-peta-instagram-2785251.jpg' alt='Las increíbles creaciones de un carpintero ciego que lo peta en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131'>Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo</a></h4>
     <a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recrean-canto-insecto-hace-150-anos-objetivo-encontrar-alguno-vivo-2785723.jpg' alt='Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123'>La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nasa-envia-ipad-luna-mes-astronautas-usen-alexa-durante-vuelo-2785667.jpg' alt='La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047'>Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/chip-tpm-20-windows-11-2398977.jpg' alt='Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador' />
     </a>
 </div>
 
