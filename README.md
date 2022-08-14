@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047'>Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/chip-tpm-20-windows-11-2398977.jpg' alt='Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119'>Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ventas-procesadores-experimentan-mayor-caida-30-anos-solo-compania-obtiene-beneficios-2785631.jpg' alt='Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093'>Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085'>Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-watch-2-lite-2785529.jpg' alt='Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967'>7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-2783853.jpg' alt='7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075'>Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/malware-2785515.jpg' alt='Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo' />
     </a>
 </div>
 
