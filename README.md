@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wi-fi-1104131'>Cómo echar a alguien de tu Wi-Fi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wi-fi-1104131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Cómo echar a alguien de tu Wi-Fi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mechanical-mx-master-3s-review-opinion-1107709'>Logitech MX Mechanical y MX Master 3S, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mechanical-mx-master-3s-review-opinion-1107709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784289.jpg' alt='Logitech MX Mechanical y MX Master 3S, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589'>Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hubble-vs-webb-2780399.jpg' alt='Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/china-crea-primer-tren-levitacion-magnetica-suspendida-mundo-1108805'>China crea el primer tren de levitación magnética suspendida del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/china-crea-primer-tren-levitacion-magnetica-suspendida-mundo-1108805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/china-crea-primer-tren-levitacion-magnetica-suspendida-mundo-2785225.jpg' alt='China crea el primer tren de levitación magnética suspendida del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-molesta-pantalla-bloqueo-windows-11-1099085'>Cómo eliminar la molesta pantalla de bloqueo de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-eliminar-molesta-pantalla-bloqueo-windows-11-1099085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pantalla-bloqueo-windows-11-2768441.jpg' alt='Cómo eliminar la molesta pantalla de bloqueo de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/planetario-mecanico-piezas-lego-ideas-1108719'>Este planetario mecánico construido con piezas de LEGO tiene una precisión del 99,8%</a></h4>
-    <a href='https://computerhoy.com/noticias/life/planetario-mecanico-piezas-lego-ideas-1108719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/planetario-mecanico-construido-lego-tiene-precision-998-2784965.jpg' alt='Este planetario mecánico construido con piezas de LEGO tiene una precisión del 99,8%' />
     </a>
 </div>
 
