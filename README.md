@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093'>Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091'>Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo</a></h4>
     <a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-2785539.jpg' alt='Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075'>Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/malware-2785515.jpg' alt='Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251'>Motorola G62, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-g62-2780407.jpg' alt='Motorola G62, análisis y opinión' />
     </a>
 </div>
 
