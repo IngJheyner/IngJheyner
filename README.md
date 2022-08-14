@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085'>Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-watch-2-lite-2785529.jpg' alt='Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967'>7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-2783853.jpg' alt='7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061'>Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233'>Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/temperatura-2765171.jpg' alt='Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos' />
     </a>
 </div>
 
