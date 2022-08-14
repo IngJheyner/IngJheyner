@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129'>Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/detienen-ladron-maletas-habia-robado-15000-dolares-joyas-gracias-air-tag-2785713.jpg' alt='Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125'>El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-despiece-completo-nothing-phone-1-desvela-secretos-carcasa-transparente-2785689.jpg' alt='El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119'>Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ventas-procesadores-experimentan-mayor-caida-30-anos-solo-compania-obtiene-beneficios-2785631.jpg' alt='Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093'>Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global' />
     </a>
 </div>
 
