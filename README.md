@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131'>Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recrean-canto-insecto-hace-150-anos-objetivo-encontrar-alguno-vivo-2785723.jpg' alt='Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129'>Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/detienen-ladron-maletas-habia-robado-15000-dolares-joyas-gracias-air-tag-2785713.jpg' alt='Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047'>Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-saltarse-proteccion-tpm-instalar-windows-11-cualquier-ordenador-1103047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/chip-tpm-20-windows-11-2398977.jpg' alt='Cómo saltarse la protección TPM e instalar Windows 11 en cualquier ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119'>Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ventas-procesadores-mayor-caida-36-anos-1109119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ventas-procesadores-experimentan-mayor-caida-30-anos-solo-compania-obtiene-beneficios-2785631.jpg' alt='Las ventas de procesadores experimentan la mayor caída en 36 años, solo una compañía obtiene beneficios' />
     </a>
 </div>
 
