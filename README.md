@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091'>Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-2785539.jpg' alt='Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085'>Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/juventud-vanguardismo-dan-mano-redmi-watch-2-lite-ahora-oferta-47-euros-1109085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-watch-2-lite-2785529.jpg' alt='Juventud y vanguardismo se dan la mano en el Redmi Watch 2 Lite y ahora en oferta a 47 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251'>Motorola G62, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-g62-2780407.jpg' alt='Motorola G62, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061'>Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil' />
     </a>
 </div>
 
