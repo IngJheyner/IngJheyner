@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967'>7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-1107967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-ultimos-anos-merecieron-mayor-reconocimiento-no-deberias-perderte-2783853.jpg' alt='7 películas de los últimos años que merecieron mayor reconocimiento, y que no deberías perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075'>Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/malware-esconde-aplicaciones-falsas-whatsapp-telegram-puedes-reconocerlo-1109075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/malware-2785515.jpg' alt='Este malware se esconde en aplicaciones falsas de WhatsApp y Telegram y así puedes reconocerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251'>Motorola G62, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g62-review-opinion-1103251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-g62-2780407.jpg' alt='Motorola G62, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061'>Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/futuros-avatares-whatsapp-podremos-personalizarlos-como-foto-perfil-1109061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/meta-avatars-store-2734761.jpg' alt='Los futuros avatares de WhatsApp podremos personalizarlos como foto de perfil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233'>Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/temperatura-2765171.jpg' alt='Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wi-fi-1104131'>Cómo echar a alguien de tu Wi-Fi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wi-fi-1104131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Cómo echar a alguien de tu Wi-Fi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mechanical-mx-master-3s-review-opinion-1107709'>Logitech MX Mechanical y MX Master 3S, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/logitech-mx-mechanical-mx-master-3s-review-opinion-1107709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784289.jpg' alt='Logitech MX Mechanical y MX Master 3S, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589'>Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hubble-vs-webb-2780399.jpg' alt='Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado' />
     </a>
 </div>
 
