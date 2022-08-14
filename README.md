@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125'>El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-despiece-completo-nothing-phone-1-desvela-secretos-carcasa-transparente-2785689.jpg' alt='El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123'>La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nasa-envia-ipad-luna-mes-astronautas-usen-alexa-durante-vuelo-2785667.jpg' alt='La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093'>Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-precio-xiaomi-12t-12t-pro-estarian-cerca-salir-mercado-global-1109093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Este sería el precio del Xiaomi 12T y 12T Pro que estarían cerca de salir en el mercado global' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091'>Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-1109091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/podriamos-haber-alcanzado-ya-8000-millones-habitantes-mundo-podria-ser-punto-maximo-2785539.jpg' alt='Podríamos haber alcanzado ya los 8000 millones de habitantes en el mundo y podría ser el punto máximo' />
     </a>
 </div>
 
