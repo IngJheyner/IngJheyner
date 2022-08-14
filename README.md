@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589'>Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hubble-vs-webb-aun-determinar-titular-1105589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hubble-vs-webb-2780399.jpg' alt='Hubble vs Webb: los David y Goliat de la NASA que funcionan mejor juntos que por separado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-visor-realidad-virtual-asemeja-unas-gafas-comunes-pero-dos-antenas-1108809'>Crean un visor de realidad virtual que se asemeja a unas gafas comunes pero con dos antenas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-visor-realidad-virtual-asemeja-unas-gafas-comunes-pero-dos-antenas-1108809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crean-visor-realidad-virtual-asemeja-unas-gafas-comunes-pero-dos-antenas-2785231.jpg' alt='Crean un visor de realidad virtual que se asemeja a unas gafas comunes pero con dos antenas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/planetario-mecanico-piezas-lego-ideas-1108719'>Este planetario mecánico construido con piezas de LEGO tiene una precisión del 99,8%</a></h4>
     <a href='https://computerhoy.com/noticias/life/planetario-mecanico-piezas-lego-ideas-1108719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/planetario-mecanico-construido-lego-tiene-precision-998-2784965.jpg' alt='Este planetario mecánico construido con piezas de LEGO tiene una precisión del 99,8%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejor-soporte-pared-mi-tv-1064777'>Guía y consejos para comprar el mejor soporte de pared para mi TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-consejos-comprar-mejor-soporte-pared-mi-tv-1064777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/soporte-pared-televisor-2708895.jpg' alt='Guía y consejos para comprar el mejor soporte de pared para mi TV' />
     </a>
 </div>
 
