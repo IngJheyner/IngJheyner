@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101'>Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alfombrilla-pc-calienta-enfria-manos-mientras-tecleas-necesites-2785553.jpg' alt='Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749'>Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/limpiacristales-2728389.jpg' alt='Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129'>Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/detienen-ladron-maletas-habia-robado-15000-dolares-joyas-gracias-air-tag-2785713.jpg' alt='Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125'>El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-despiece-completo-nothing-phone-1-desvela-secretos-carcasa-transparente-2785689.jpg' alt='El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente' />
     </a>
 </div>
 
