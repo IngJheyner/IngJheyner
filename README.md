@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331'>El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg' alt='El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347'>Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/she-hulk-abogada-hulka-2785545.jpg' alt='Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos' />
@@ -79,14 +87,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mscreen-minipantalla-ultrapanoramica-vertical-horizontal-1109037'>MScreen, la minipantalla ultrapanorámica que puede usarse en vertical o en horizontal</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mscreen-minipantalla-ultrapanoramica-vertical-horizontal-1109037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660341971887-2785455.jpg' alt='MScreen, la minipantalla ultrapanorámica que puede usarse en vertical o en horizontal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321'>Tras 15 años en producción, la memoria RAM DDR3 dice adiós</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/memoria-ram.jpg' alt='Tras 15 años en producción, la memoria RAM DDR3 dice adiós' />
     </a>
 </div>
 
