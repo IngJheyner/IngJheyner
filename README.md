@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349'>Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ecualizar-smartphone-2784501.jpg' alt='Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-1108481'>Los 7 juegos más interesantes lanzados en el último año para tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-1108481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-2785665.jpg' alt='Los 7 juegos más interesantes lanzados en el último año para tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369'>Ahora es el peor momento para comprarse un iPhone: estos son los motivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Ahora es el peor momento para comprarse un iPhone: estos son los motivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593'>Qué es y cómo usar la funcionalidad Nearby en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué es y cómo usar la funcionalidad Nearby en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/smartwach-garmin-843637'>Comprar un reloj Garmin: en qué debes fijarte y diferencias entre los diferentes modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/smartwach-garmin-843637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/garmin-instinct-solar-2064133.jpg' alt='Comprar un reloj Garmin: en qué debes fijarte y diferencias entre los diferentes modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331'>El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg' alt='El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon' />
     </a>
 </div>
 
