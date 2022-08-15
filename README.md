@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/compramos-tecnologia-inacabaday-veces-bueno-usuarios-1106087'>Compramos tecnología inacabada...y a veces es bueno para los usuarios</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/compramos-tecnologia-inacabaday-veces-bueno-usuarios-1106087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430535.jpg' alt='Compramos tecnología inacabada...y a veces es bueno para los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101'>Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alfombrilla-pc-calienta-enfria-manos-mientras-tecleas-necesites-2785553.jpg' alt='Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131'>Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo</a></h4>
     <a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recrean-canto-insecto-hace-150-anos-objetivo-encontrar-alguno-vivo-2785723.jpg' alt='Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129'>Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/detienen-ladron-maletas-15000-dolares-joyas-gracias-airtag-1109129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/detienen-ladron-maletas-habia-robado-15000-dolares-joyas-gracias-air-tag-2785713.jpg' alt='Detienen a un ladrón de maletas que había robado 15.000 dólares en joyas, gracias a un AirTag' />
     </a>
 </div>
 
