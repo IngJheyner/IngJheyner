@@ -50,43 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369'>Ahora es el peor momento para comprarse un iPhone: estos son los motivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Ahora es el peor momento para comprarse un iPhone: estos son los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dolores-rodilla-seran-cosa-pasado-2023-hidrogel-supera-capacidades-cartilago-humano-1109359'>Los dolores de rodilla serán cosa del pasado en 2023: un hidrogel que supera las capacidades del cartílago humano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dolores-rodilla-seran-cosa-pasado-2023-hidrogel-supera-capacidades-cartilago-humano-1109359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/rodillas.jpg' alt='Los dolores de rodilla serán cosa del pasado en 2023: un hidrogel que supera las capacidades del cartílago humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593'>Qué es y cómo usar la funcionalidad Nearby en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué es y cómo usar la funcionalidad Nearby en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/smartwach-garmin-843637'>Comprar un reloj Garmin: en qué debes fijarte y diferencias entre los diferentes modelos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/smartwach-garmin-843637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/garmin-instinct-solar-2064133.jpg' alt='Comprar un reloj Garmin: en qué debes fijarte y diferencias entre los diferentes modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331'>El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-macbook-air-m2-ya-rebajado-tiene-160eu-descuento-amazon-1109331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg' alt='El nuevo MacBook Air M2, ya rebajado: tiene 160€ de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347'>Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/she-hulk-abogada-hulka-2785545.jpg' alt='Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859'>Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
-</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tensiometro-2761141.jpg' alt='Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
-' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-nueva-especie-dinosaurio-era-criatura-acorazada-parecida-tyrannosaurus-rex-1109333'>Descubren una nueva especie de dinosaurio que era una criatura acorazada parecida al Tyrannosaurus rex</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-nueva-especie-dinosaurio-era-criatura-acorazada-parecida-tyrannosaurus-rex-1109333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/no-todos-dinosaurios-parecen-grandes-lagartos-1996669.jpg' alt='Descubren una nueva especie de dinosaurio que era una criatura acorazada parecida al Tyrannosaurus rex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mscreen-minipantalla-ultrapanoramica-vertical-horizontal-1109037'>MScreen, la minipantalla ultrapanorámica que puede usarse en vertical o en horizontal</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mscreen-minipantalla-ultrapanoramica-vertical-horizontal-1109037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660341971887-2785455.jpg' alt='MScreen, la minipantalla ultrapanorámica que puede usarse en vertical o en horizontal' />
     </a>
 </div>
 
