@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/6-mejores-juegos-apple-watch-1107775'>Los 6 mejores juegos para el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/6-mejores-juegos-apple-watch-1107775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Los 6 mejores juegos para el Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-autopilot-xiaomi-casi-listo-coche-electrico-1109437'>Así funciona el autopilot de Xiaomi, casi listo para su coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-autopilot-xiaomi-casi-listo-coche-electrico-1109437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-autopilot-xiaomi-casi-listo-coche-electrico-2786251.jpg' alt='Así funciona el autopilot de Xiaomi, casi listo para su coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419'>Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704035.jpg' alt='Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495'>El truco de Google Docs para ser el más rápido al crear un nuevo documento</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='El truco de Google Docs para ser el más rápido al crear un nuevo documento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-iniciar-cualquier-aplicacion-siempre-minimizada-windows-1066545'>Cómo iniciar cualquier aplicación siempre minimizada en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-iniciar-cualquier-aplicacion-siempre-minimizada-windows-1066545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-2711865.jpg' alt='Cómo iniciar cualquier aplicación siempre minimizada en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489'>Las mejores aplicaciones y juegos Android si eres fan de Pokémon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/cartas-pokemon.jpg' alt='Las mejores aplicaciones y juegos Android si eres fan de Pokémon' />
     </a>
 </div>
 
