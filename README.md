@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489'>Las mejores aplicaciones y juegos Android si eres fan de Pokémon</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/cartas-pokemon.jpg' alt='Las mejores aplicaciones y juegos Android si eres fan de Pokémon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405'>Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/gigafactory-tesla-2185551.jpg' alt='Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349'>Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ecualizar-smartphone-2784501.jpg' alt='Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369'>Ahora es el peor momento para comprarse un iPhone: estos son los motivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Ahora es el peor momento para comprarse un iPhone: estos son los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dolores-rodilla-seran-cosa-pasado-2023-hidrogel-supera-capacidades-cartilago-humano-1109359'>Los dolores de rodilla serán cosa del pasado en 2023: un hidrogel que supera las capacidades del cartílago humano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dolores-rodilla-seran-cosa-pasado-2023-hidrogel-supera-capacidades-cartilago-humano-1109359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/rodillas.jpg' alt='Los dolores de rodilla serán cosa del pasado en 2023: un hidrogel que supera las capacidades del cartílago humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593'>Qué es y cómo usar la funcionalidad Nearby en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-funcionalidad-nearby-windows-11-1103593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Qué es y cómo usar la funcionalidad Nearby en Windows 11' />
     </a>
 </div>
 
