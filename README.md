@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321'>Tras 15 años en producción, la memoria RAM DDR3 dice adiós</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/memoria-ram.jpg' alt='Tras 15 años en producción, la memoria RAM DDR3 dice adiós' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-china-presume-precio-diseno-ultradelgada-cuesta-solo-130-euros-1106517'>Esta tablet china presume de precio y de diseño: es ultradelgada y cuesta solo 159 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tablet-china-presume-precio-diseno-ultradelgada-cuesta-solo-130-euros-1106517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chuwi-hipad-air-2742277.jpg' alt='Esta tablet china presume de precio y de diseño: es ultradelgada y cuesta solo 159 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aeg-ultimate-8000-analisis-opinion-aspiradora-mano-cable-1101499'>AEG Ultimate 8000, análisis de la aspiradora de mano sin cable</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aeg-ultimate-8000-analisis-opinion-aspiradora-mano-cable-1101499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aeg-ultimate-8000-2773497.jpg' alt='AEG Ultimate 8000, análisis de la aspiradora de mano sin cable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/compramos-tecnologia-inacabaday-veces-bueno-usuarios-1106087'>Compramos tecnología inacabada...y a veces es bueno para los usuarios</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/compramos-tecnologia-inacabaday-veces-bueno-usuarios-1106087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/oneplus-watch-diseno-2430535.jpg' alt='Compramos tecnología inacabada...y a veces es bueno para los usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101'>Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alfombrilla-pc-climatizador-calienta-enfria-manos-mientras-tecleas-1109101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alfombrilla-pc-calienta-enfria-manos-mientras-tecleas-necesites-2785553.jpg' alt='Esta alfombrilla para PC calienta o enfría tus manos mientras tecleas, según lo necesites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749'>Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/limpiacristales-2728389.jpg' alt='Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817'>Las increíbles creaciones de un carpintero ciego que lo peta en Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/increibles-creaciones-carpintero-ciego-peta-instagram-2785251.jpg' alt='Las increíbles creaciones de un carpintero ciego que lo peta en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131'>Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/recrean-canto-insecto-extinto-hace-153-anos-encontrar-alguno-vivo-1109131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recrean-canto-insecto-hace-150-anos-objetivo-encontrar-alguno-vivo-2785723.jpg' alt='Recrean el canto de un insecto extinto hace 153 años, con el objetivo de encontrar alguno vivo' />
     </a>
 </div>
 
