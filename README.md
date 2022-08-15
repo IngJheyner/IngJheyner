@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421'>El Apple Watch podría salvarte la vida, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='El Apple Watch podría salvarte la vida, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-robot-humanoide-sea-barato-coche-realice-cualquier-tarea-domestica-incluso-cuide-ancianos-1109441'>Elon Musk quiere que su robot humanoide sea más barato que un coche y que realice cualquier tarea doméstica e incluso cuide a los ancianos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-robot-humanoide-sea-barato-coche-realice-cualquier-tarea-domestica-incluso-cuide-ancianos-1109441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='Elon Musk quiere que su robot humanoide sea más barato que un coche y que realice cualquier tarea doméstica e incluso cuide a los ancianos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/6-mejores-juegos-apple-watch-1107775'>Los 6 mejores juegos para el Apple Watch</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/6-mejores-juegos-apple-watch-1107775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-series-7-2704837.jpg' alt='Los 6 mejores juegos para el Apple Watch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419'>Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704035.jpg' alt='Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407'>La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/edificio-solar-2786199.jpg' alt='La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495'>El truco de Google Docs para ser el más rápido al crear un nuevo documento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='El truco de Google Docs para ser el más rápido al crear un nuevo documento' />
     </a>
 </div>
 
