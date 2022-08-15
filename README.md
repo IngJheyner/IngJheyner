@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407'>La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/edificio-solar-2786199.jpg' alt='La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495'>El truco de Google Docs para ser el más rápido al crear un nuevo documento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/truco-google-docs-ser-rapido-crear-nuevo-documento-1108495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='El truco de Google Docs para ser el más rápido al crear un nuevo documento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-iniciar-cualquier-aplicacion-siempre-minimizada-windows-1066545'>Cómo iniciar cualquier aplicación siempre minimizada en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-iniciar-cualquier-aplicacion-siempre-minimizada-windows-1066545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ordenador-2711865.jpg' alt='Cómo iniciar cualquier aplicación siempre minimizada en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489'>Las mejores aplicaciones y juegos Android si eres fan de Pokémon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/cartas-pokemon.jpg' alt='Las mejores aplicaciones y juegos Android si eres fan de Pokémon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405'>Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/gigafactory-tesla-2185551.jpg' alt='Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349'>Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/deberias-modificar-ecualizador-audio-smartphone-como-sacarle-mejor-partido-1108349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ecualizar-smartphone-2784501.jpg' alt='Deberías modificar el ecualizador de audio de tu smartphone, cómo sacarle mejor partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-1108481'>Los 7 juegos más interesantes lanzados en el último año para tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-1108481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-juegos-interesantes-lanzados-ultimo-ano-movil-android-2785665.jpg' alt='Los 7 juegos más interesantes lanzados en el último año para tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369'>Ahora es el peor momento para comprarse un iPhone: estos son los motivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-peor-momento-comprarse-iphone-estos-son-motivos-1109369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Ahora es el peor momento para comprarse un iPhone: estos son los motivos' />
     </a>
 </div>
 
