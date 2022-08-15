@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885'>Cómo utilizar el oculto gestor de descargas de Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Cómo utilizar el oculto gestor de descargas de Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421'>El Apple Watch podría salvarte la vida, según un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='El Apple Watch podría salvarte la vida, según un nuevo estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-autopilot-xiaomi-casi-listo-coche-electrico-1109437'>Así funciona el autopilot de Xiaomi, casi listo para su coche eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funciona-autopilot-xiaomi-casi-listo-coche-electrico-1109437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-autopilot-xiaomi-casi-listo-coche-electrico-2786251.jpg' alt='Así funciona el autopilot de Xiaomi, casi listo para su coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419'>Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704035.jpg' alt='Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC' />
     </a>
 </div>
 
