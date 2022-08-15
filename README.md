@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419'>Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/pequeno-cambio-steam-haciendo-felices-millones-jugadores-pc-1109419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-steam-deck-2704035.jpg' alt='Este pequeño cambio de Steam está haciendo felices a millones de jugadores en PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407'>La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oficina-100-autosuficiente-real-fachadas-solares-producir-propia-electricidad-1109407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/edificio-solar-2786199.jpg' alt='La oficina 100% autosuficiente es real: fachadas solares para producir su propia electricidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489'>Las mejores aplicaciones y juegos Android si eres fan de Pokémon</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-juegos-android-eres-fan-pokemon-1108489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/cartas-pokemon.jpg' alt='Las mejores aplicaciones y juegos Android si eres fan de Pokémon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405'>Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-alcanza-3-millones-vehiculos-fabricados-gran-parte-ellos-china-1109405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/gigafactory-tesla-2185551.jpg' alt='Tesla alcanza los 3 millones de vehículos fabricados... y gran parte de ellos en China' />
     </a>
 </div>
 
