@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749'>Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpiacristales-como-funcionan-diferencias-modelos-consejos-compra-1075749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/limpiacristales-2728389.jpg' alt='Robot limpiacristales: cómo funcionan, diferencias entre modelos y consejos de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817'>Las increíbles creaciones de un carpintero ciego que lo peta en Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/life/carpintero-ciego-blind-woodsman-1108817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/increibles-creaciones-carpintero-ciego-peta-instagram-2785251.jpg' alt='Las increíbles creaciones de un carpintero ciego que lo peta en Instagram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125'>El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nothing-phone-1-despiece-completo-1109125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primer-despiece-completo-nothing-phone-1-desvela-secretos-carcasa-transparente-2785689.jpg' alt='El primer despiece completo del Nothing Phone (1) desvela los secretos bajo su carcasa transparente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123'>La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-envia-ipad-luna-probar-alexa-1109123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nasa-envia-ipad-luna-mes-astronautas-usen-alexa-durante-vuelo-2785667.jpg' alt='La NASA envía un iPad a la Luna este mes, para probar Alexa durante el vuelo' />
     </a>
 </div>
 
