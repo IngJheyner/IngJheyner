@@ -50,6 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347'>Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/semana-estrena-nueva-serie-universo-marvel-disney-todas-fechas-estreno-capitulos-1109347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/she-hulk-abogada-hulka-2785545.jpg' alt='Esta semana se estrena la nueva serie del Universo Marvel en Disney+: todas las fechas de estreno de los capítulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859'>Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
+</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/guia-consejos-comprar-monitor-presion-arterial-tensiometro-digital-domestico-1094859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tensiometro-2761141.jpg' alt='Guía y consejos para comprar un monitor de presión arterial o tensiómetro digital doméstico
+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/descubren-nueva-especie-dinosaurio-era-criatura-acorazada-parecida-tyrannosaurus-rex-1109333'>Descubren una nueva especie de dinosaurio que era una criatura acorazada parecida al Tyrannosaurus rex</a></h4>
     <a href='https://computerhoy.com/noticias/life/descubren-nueva-especie-dinosaurio-era-criatura-acorazada-parecida-tyrannosaurus-rex-1109333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/no-todos-dinosaurios-parecen-grandes-lagartos-1996669.jpg' alt='Descubren una nueva especie de dinosaurio que era una criatura acorazada parecida al Tyrannosaurus rex' />
@@ -69,22 +87,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321'>Tras 15 años en producción, la memoria RAM DDR3 dice adiós</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/15-anos-produccion-memoria-ram-ddr3-dice-adios-1109321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/memoria-ram.jpg' alt='Tras 15 años en producción, la memoria RAM DDR3 dice adiós' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-china-presume-precio-diseno-ultradelgada-cuesta-solo-130-euros-1106517'>Esta tablet china presume de precio y de diseño: es ultradelgada y cuesta solo 159 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-china-presume-precio-diseno-ultradelgada-cuesta-solo-130-euros-1106517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chuwi-hipad-air-2742277.jpg' alt='Esta tablet china presume de precio y de diseño: es ultradelgada y cuesta solo 159 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aeg-ultimate-8000-analisis-opinion-aspiradora-mano-cable-1101499'>AEG Ultimate 8000, análisis de la aspiradora de mano sin cable</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aeg-ultimate-8000-analisis-opinion-aspiradora-mano-cable-1101499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aeg-ultimate-8000-2773497.jpg' alt='AEG Ultimate 8000, análisis de la aspiradora de mano sin cable' />
     </a>
 </div>
 
