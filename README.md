@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695'>Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731'>Samsung quiere conquistar tu set-up con la pantalla definitiva para el gaming, la Odyssey Ark</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Samsung quiere conquistar tu set-up con la pantalla definitiva para el gaming, la Odyssey Ark' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/controlan-ciudadanos-big-tech-chinas-han-tenido-entregar-algoritmos-gobierno-pekin-1109683'>Así controlan a sus ciudadanos, las Big Tech chinas han tenido que entregar sus algoritmos al Gobierno de Pekín</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/controlan-ciudadanos-big-tech-chinas-han-tenido-entregar-algoritmos-gobierno-pekin-1109683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/teclado-censura-china.jpg' alt='Así controlan a sus ciudadanos, las Big Tech chinas han tenido que entregar sus algoritmos al Gobierno de Pekín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673'>Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417'>Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-aspirador-xiaomi-tambien-friega-menos-200-eu-2784641.jpg' alt='Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-preparate-empezar-ver-aun-publicidad-1109681'>Si tienes un iPhone prepárate para empezar a ver aún más publicidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-preparate-empezar-ver-aun-publicidad-1109681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Si tienes un iPhone prepárate para empezar a ver aún más publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659'>Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
