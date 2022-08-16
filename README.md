@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847'>A qué hora cierra Correos en verano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg' alt='A qué hora cierra Correos en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897'>Cómo ver los mensajes eliminados de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Cómo ver los mensajes eliminados de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869'>Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-2786819.jpg' alt='Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845'>Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-2753523.jpg' alt='Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/prometedora-empresa-energia-nuclear-fundada-bill-gates-1109859'>Así la prometedora empresa de energía nuclear fundada por Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/prometedora-empresa-energia-nuclear-fundada-bill-gates-1109859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Así la prometedora empresa de energía nuclear fundada por Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-5g-oferta-16-agosto-2022-1109703'>El Xiaomi Redmi Note 11S con 5G, rebajado en 70€ y con un 10% de cashback en AliExpress</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-5g-oferta-16-agosto-2022-1109703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg' alt='El Xiaomi Redmi Note 11S con 5G, rebajado en 70€ y con un 10% de cashback en AliExpress' />
     </a>
 </div>
 
