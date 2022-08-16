@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-procesara-efecto-recorte-desenfoque-meet-nube-mejorar-vaya-mejora-resultados-1109705'>Google procesará el efecto de recorte y desenfoque de Meet en la nube para mejorar, y vaya si mejora resultados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-procesara-efecto-recorte-desenfoque-meet-nube-mejorar-vaya-mejora-resultados-1109705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-meet-2786529.jpg' alt='Google procesará el efecto de recorte y desenfoque de Meet en la nube para mejorar, y vaya si mejora resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695'>Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731'>Samsung quiere conquistar tu set-up con la pantalla definitiva para el gaming, la Odyssey Ark</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731'>Samsung quiere poner una pantalla curva de 55 pulgadas en tu setup gaming, así es la Odyssey Ark</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Samsung quiere conquistar tu set-up con la pantalla definitiva para el gaming, la Odyssey Ark' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Samsung quiere poner una pantalla curva de 55 pulgadas en tu setup gaming, así es la Odyssey Ark' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673'>Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417'>Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-aspirador-xiaomi-tambien-friega-menos-200-eu-2784641.jpg' alt='Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon' />
     </a>
 </div>
 
