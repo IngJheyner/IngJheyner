@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983'>Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/menos-300eu-puedes-autogenerar-propia-energia-kit-solar-portatil-2787041.jpg' alt='Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971'>¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957'>Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hackean-tractor-john-deere-poder-arreglarlo-libremente-primero-hacen-instalar-doom-2786937.jpg' alt='Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685'>Huawei Week en Amazon: estas son sus mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751355.jpg' alt='Huawei Week en Amazon: estas son sus mejores ofertas' />
     </a>
 </div>
 
