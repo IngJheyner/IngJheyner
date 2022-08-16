@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-procesara-efecto-recorte-desenfoque-meet-nube-mejorar-vaya-mejora-resultados-1109705'>Google procesará el efecto de recorte y desenfoque de Meet en la nube para mejorar, y vaya si mejora resultados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-procesara-efecto-recorte-desenfoque-meet-nube-mejorar-vaya-mejora-resultados-1109705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-meet-2786529.jpg' alt='Google procesará el efecto de recorte y desenfoque de Meet en la nube para mejorar, y vaya si mejora resultados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739'>Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695'>Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-alerta-nueva-campana-phishing-tiene-como-objetivos-integrantes-otan-1109695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-asegura-firefox-bloquea-triple-ataques-phishing-chrome-google-protesta-2714589.jpg' alt='Microsoft alerta de una nueva campaña de phishing que tiene como objetivos integrantes de la OTAN' />
+    <h4><a href='https://computerhoy.com/guia-comprar/router-wifi'>Consejos y guía de compra de router wifi para mejorar tu conexión a internet</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/router-wifi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg' alt='Consejos y guía de compra de router wifi para mejorar tu conexión a internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731'>Samsung quiere poner una pantalla curva de 55 pulgadas en tu setup gaming, así es la Odyssey Ark</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-quiere-conquistar-set-pantalla-definitiva-gaming-odyssey-ark-1109731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Samsung quiere poner una pantalla curva de 55 pulgadas en tu setup gaming, así es la Odyssey Ark' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801'>Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-televisores-2711873.jpg' alt='Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/controlan-ciudadanos-big-tech-chinas-han-tenido-entregar-algoritmos-gobierno-pekin-1109683'>Así controlan a sus ciudadanos, las Big Tech chinas han tenido que entregar sus algoritmos al Gobierno de Pekín</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/controlan-ciudadanos-big-tech-chinas-han-tenido-entregar-algoritmos-gobierno-pekin-1109683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/teclado-censura-china.jpg' alt='Así controlan a sus ciudadanos, las Big Tech chinas han tenido que entregar sus algoritmos al Gobierno de Pekín' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-16-agosto-2022-1109671'>Uno de los mejores Samsung baratos que hemos probado ahora baja un poco más de precio y roza los 200€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-16-agosto-2022-1109671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galaxy-a33-a53-5g-2647391.jpg' alt='Uno de los mejores Samsung baratos que hemos probado ahora baja un poco más de precio y roza los 200€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673'>Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra' />
+    <h4><a href='https://computerhoy.com/noticias/life/tonto-descubrimiento-cientifico-hace-medicinas-hagan-efecto-antes-1109761'>El tonto descubrimiento científico que hace que tus medicinas hagan efecto antes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tonto-descubrimiento-cientifico-hace-medicinas-hagan-efecto-antes-1109761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='El tonto descubrimiento científico que hace que tus medicinas hagan efecto antes' />
     </a>
 </div>
 
