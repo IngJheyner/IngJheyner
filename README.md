@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/recuperar-mensajes-recien-borrados-error-no-proxima-funcionalidad-whatsapp-1109769'>Recuperar mensajes recién borrados, por error o no, es la próxima funcionalidad de WhatsApp </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/recuperar-mensajes-recien-borrados-error-no-proxima-funcionalidad-whatsapp-1109769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg' alt='Recuperar mensajes recién borrados, por error o no, es la próxima funcionalidad de WhatsApp ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869'>Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-2786819.jpg' alt='Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-voz-llegan-spotify-podcast-como-forma-critica-1109817'>Las reacciones con voz llegan a Spotify: pódcast como forma de crítica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-voz-llegan-spotify-podcast-como-forma-critica-1109817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-podcast-dejan-funcionar-porque-spotify-olvido-renovar-certificado-2717881.jpg' alt='Las reacciones con voz llegan a Spotify: pódcast como forma de crítica' />
+    <h4><a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867'>Por qué huele a quemado en municipios de la Comunidad de Madrid</a></h4>
+    <a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vista-aerea-madrid-2742545.jpg' alt='Por qué huele a quemado en municipios de la Comunidad de Madrid' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739'>Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android' />
+    <h4><a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845'>Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-2753523.jpg' alt='Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/router-wifi'>Consejos y guía de compra de router wifi para mejorar tu conexión a internet</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/router-wifi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg' alt='Consejos y guía de compra de router wifi para mejorar tu conexión a internet' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prometedora-empresa-energia-nuclear-fundada-bill-gates-1109859'>Así la prometedora empresa de energía nuclear fundada por Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prometedora-empresa-energia-nuclear-fundada-bill-gates-1109859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bill-gates-2616637.jpg' alt='Así la prometedora empresa de energía nuclear fundada por Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801'>Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-televisores-2711873.jpg' alt='Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-5g-oferta-16-agosto-2022-1109703'>El Xiaomi Redmi Note 11S con 5G, rebajado en 70€ y con un 10% de cashback en AliExpress</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11s-5g-oferta-16-agosto-2022-1109703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg' alt='El Xiaomi Redmi Note 11S con 5G, rebajado en 70€ y con un 10% de cashback en AliExpress' />
     </a>
 </div>
 
