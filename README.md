@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991'>Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-tener-madrugar-mucho-quieres-ser-primero-ver-serie-anillos-poder-fecha-hora-estreno-todos-capitulos-2787105.jpg' alt='Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983'>Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/menos-300eu-puedes-autogenerar-propia-energia-kit-solar-portatil-2787041.jpg' alt='Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967'>Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/semaforo-ambar-2787013.jpg' alt='Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957'>Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hackean-tractor-john-deere-poder-arreglarlo-libremente-primero-hacen-instalar-doom-2786937.jpg' alt='Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom' />
     </a>
 </div>
 
