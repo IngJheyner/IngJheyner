@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recuperar-mensajes-recien-borrados-error-no-proxima-funcionalidad-whatsapp-1109769'>Recuperar mensajes recién borrados, por error o no, es la próxima funcionalidad de WhatsApp </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recuperar-mensajes-recien-borrados-error-no-proxima-funcionalidad-whatsapp-1109769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg' alt='Recuperar mensajes recién borrados, por error o no, es la próxima funcionalidad de WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reacciones-voz-llegan-spotify-podcast-como-forma-critica-1109817'>Las reacciones con voz llegan a Spotify: pódcast como forma de crítica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reacciones-voz-llegan-spotify-podcast-como-forma-critica-1109817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cientos-podcast-dejan-funcionar-porque-spotify-olvido-renovar-certificado-2717881.jpg' alt='Las reacciones con voz llegan a Spotify: pódcast como forma de crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739'>Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-1109739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 disponible ya para algunos Google Pixel antes de extenderse a todo el ecosistema Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801'>Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/puedes-usar-cableado-existente-tv-casa-como-ethernet-25-gbps-1109801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/tcl-televisores-2711873.jpg' alt='Así puedes usar el cableado existente de TV en tu casa como Ethernet 2,5 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-16-agosto-2022-1109671'>Uno de los mejores Samsung baratos que hemos probado ahora baja un poco más de precio y roza los 200€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-16-agosto-2022-1109671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/galaxy-a33-a53-5g-2647391.jpg' alt='Uno de los mejores Samsung baratos que hemos probado ahora baja un poco más de precio y roza los 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tonto-descubrimiento-cientifico-hace-medicinas-hagan-efecto-antes-1109761'>El tonto descubrimiento científico que hace que tus medicinas hagan efecto antes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tonto-descubrimiento-cientifico-hace-medicinas-hagan-efecto-antes-1109761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/medicinas-pastillas-medicamentos-2064353.jpg' alt='El tonto descubrimiento científico que hace que tus medicinas hagan efecto antes' />
     </a>
 </div>
 
