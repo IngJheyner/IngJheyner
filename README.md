@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673'>Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapchat-nueva-suscripcion-pago-aplicacion-trae-funciones-extra-1109673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/snapchat-2761835.jpg' alt='Así es Snapchat +, la nueva suscripción de pago de la aplicación que trae funciones extra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417'>Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop-2s-oferta-16-agosto-2022-1108417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-aspirador-xiaomi-tambien-friega-menos-200-eu-2784641.jpg' alt='Aspira, friega y lo controlas con el móvil: El robot aspirador de Xiaomi ya cuesta menos de 200 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-preparate-empezar-ver-aun-publicidad-1109681'>Si tienes un iPhone prepárate para empezar a ver aún más publicidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-iphone-preparate-empezar-ver-aun-publicidad-1109681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Si tienes un iPhone prepárate para empezar a ver aún más publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659'>Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1109647'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1109647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2786449.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/auriculares-inalambricos-gimnasio-2623585.jpg' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885'>Cómo utilizar el oculto gestor de descargas de Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Cómo utilizar el oculto gestor de descargas de Telegram' />
     </a>
 </div>
 
