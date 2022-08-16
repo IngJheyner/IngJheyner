@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971'>¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969'>Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alimentos-saludables-2787015.jpg' alt='Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967'>Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/semaforo-ambar-2787013.jpg' alt='Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957'>Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hackean-tractor-john-deere-poder-arreglarlo-libremente-primero-hacen-instalar-doom-2786937.jpg' alt='Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685'>Huawei Week en Amazon: estas son sus mejores ofertas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751355.jpg' alt='Huawei Week en Amazon: estas son sus mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497'>Cómo crear encuestas básicas en Microsoft Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo crear encuestas básicas en Microsoft Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847'>A qué hora cierra Correos en verano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg' alt='A qué hora cierra Correos en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897'>Cómo ver los mensajes eliminados de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Cómo ver los mensajes eliminados de WhatsApp' />
     </a>
 </div>
 
