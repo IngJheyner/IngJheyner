@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1109647'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1109647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2786449.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421'>El Apple Watch podría salvarte la vida, según un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='El Apple Watch podría salvarte la vida, según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-robot-humanoide-sea-barato-coche-realice-cualquier-tarea-domestica-incluso-cuide-ancianos-1109441'>Elon Musk quiere que su robot humanoide sea más barato que un coche y que realice cualquier tarea doméstica e incluso cuide a los ancianos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-quiere-robot-humanoide-sea-barato-coche-realice-cualquier-tarea-domestica-incluso-cuide-ancianos-1109441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-optimus-tesla-2678451.jpg' alt='Elon Musk quiere que su robot humanoide sea más barato que un coche y que realice cualquier tarea doméstica e incluso cuide a los ancianos' />
     </a>
 </div>
 
