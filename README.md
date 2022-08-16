@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957'>Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackean-tractor-john-deere-derecho%20a%20reparar-instalar-doom-1109957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hackean-tractor-john-deere-poder-arreglarlo-libremente-primero-hacen-instalar-doom-2786937.jpg' alt='Hackean un tractor John Deere para poder repararlo libremente, y lo primero que hacen es... instalar Doom' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685'>Huawei Week en Amazon: estas son sus mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/huawei-week-ofertas-amazon-1109685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751355.jpg' alt='Huawei Week en Amazon: estas son sus mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497'>Cómo crear encuestas básicas en Microsoft Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo crear encuestas básicas en Microsoft Word' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897'>Cómo ver los mensajes eliminados de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-mensajes-eliminados-whatsapp-1109897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/privacidad-whatsapp-2747425.jpg' alt='Cómo ver los mensajes eliminados de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869'>Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-amenaza-despedir-ingeniera-publicar-tiktok-ayudando-gente-1109869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-2786819.jpg' alt='Apple amenaza con despedir a una ingeniera por publicar un TikTok ayudando a gente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867'>Por qué huele a quemado en municipios de la Comunidad de Madrid</a></h4>
-    <a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vista-aerea-madrid-2742545.jpg' alt='Por qué huele a quemado en municipios de la Comunidad de Madrid' />
     </a>
 </div>
 
