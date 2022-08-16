@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497'>Cómo crear encuestas básicas en Microsoft Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-basicas-microsoft-word-1108497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/microsoft-word_0.jpg' alt='Cómo crear encuestas básicas en Microsoft Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847'>A qué hora cierra Correos en verano</a></h4>
     <a href='https://computerhoy.com/noticias/life/hora-cierra-correos-verano-1109847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/correos-2153983.jpg' alt='A qué hora cierra Correos en verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867'>Por qué huele a quemado en municipios de la Comunidad de Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/life/huele-quemado-municipios-comunidad-madrid-1109867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/vista-aerea-madrid-2742545.jpg' alt='Por qué huele a quemado en municipios de la Comunidad de Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845'>Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/solo-dos-paises-salvarian-corto-largo-plazo-estallara-guerra-nuclear-estudio-1109845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estudio-revela-terribles-efectos-tierra-posible-guerra-nuclear-2753523.jpg' alt='Solo dos países se salvarían a corto y largo plazo si estallara una guerra nuclear, según un estudio' />
     </a>
 </div>
 
