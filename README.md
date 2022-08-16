@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659'>Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/agosto-mejor-mes-montarse-pc-gamer-gpus-baratas-nunca-1109659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/nvidia-2653469.jpg' alt='Agosto, el mejor mes para montarse un PC Gamer: las GPUs más baratas que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429'>12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/12-noticias-tecnologia-entretenimiento-comenzar-manana-informado-ultimo-1109429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2746341.jpg' alt='12 noticias de tecnología y entretenimiento para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885'>Cómo utilizar el oculto gestor de descargas de Telegram</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-oculto-gestor-descargas-telegram-1104885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/telegram-2728425.jpg' alt='Cómo utilizar el oculto gestor de descargas de Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421'>El Apple Watch podría salvarte la vida, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-podria-salvarte-vida-nuevo-estudio-1109421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-watch-2738199.jpg' alt='El Apple Watch podría salvarte la vida, según un nuevo estudio' />
     </a>
 </div>
 
