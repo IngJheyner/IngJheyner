@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459'>Cómo ver el móvil en la tele</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conectar-movil-televisor-2787831.jpg' alt='Cómo ver el móvil en la tele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487'>No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-2785615.jpg' alt='No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aprende-tocar-guitarra-acoplando-dispositivo-led-mastil-1110383'>Aprende a tocar la guitarra acoplando este dispositivo LED en su mástil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aprende-tocar-guitarra-acoplando-dispositivo-led-mastil-1110383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dispositivo-led-2787617.jpg' alt='Aprende a tocar la guitarra acoplando este dispositivo LED en su mástil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-4g-pantalla-amoled-90-hz-snapdragon-680-como-presentacion-1110395'>Oppo Reno8 4G: pantalla AMOLED de 90 Hz y un Snapdragon 680 como presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-4g-pantalla-amoled-90-hz-snapdragon-680-como-presentacion-1110395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-reno8-4g-2787639.jpg' alt='Oppo Reno8 4G: pantalla AMOLED de 90 Hz y un Snapdragon 680 como presentación' />
     </a>
 </div>
 
