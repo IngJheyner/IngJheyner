@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487'>No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-2785615.jpg' alt='No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/siete-anos-controlandolo-todo-solo-cerebro-1110423'>Siete años controlándolo todo solo con su cerebro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/siete-anos-controlandolo-todo-solo-cerebro-1110423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/interfaz-cerebro-ordenador-2787709.jpg' alt='Siete años controlándolo todo solo con su cerebro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-4g-pantalla-amoled-90-hz-snapdragon-680-como-presentacion-1110395'>Oppo Reno8 4G: pantalla AMOLED de 90 Hz y un Snapdragon 680 como presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oppo-reno8-4g-pantalla-amoled-90-hz-snapdragon-680-como-presentacion-1110395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-reno8-4g-2787639.jpg' alt='Oppo Reno8 4G: pantalla AMOLED de 90 Hz y un Snapdragon 680 como presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuanto-cuesta-cambiar-bateria-apple-watch-1110355'>Cuánto cuesta cambiar la batería a un Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuanto-cuesta-cambiar-bateria-apple-watch-1110355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-2543105.jpg' alt='Cuánto cuesta cambiar la batería a un Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airbnb-no-quiere-fiestas-casa-nueva-herramienta-antifiestas-1110359'>Airbnb no quiere más fiestas en tu casa: así es su nueva herramienta antifiestas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airbnb-no-quiere-fiestas-casa-nueva-herramienta-antifiestas-1110359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/airbnb-1928189.jpg' alt='Airbnb no quiere más fiestas en tu casa: así es su nueva herramienta antifiestas' />
     </a>
 </div>
 
