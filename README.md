@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495'>Marie Kondo quiere que sigas ordenando, ahora Google Drive y Photos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660753657520-2787915.jpg' alt='Marie Kondo quiere que sigas ordenando, ahora Google Drive y Photos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917'>Gafas de realidad virtual (VR): estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-visor-realidad-virtual-cabeza-2787451.jpg' alt='Gafas de realidad virtual (VR): estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459'>Cómo ver el móvil en la tele</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conectar-movil-televisor-2787831.jpg' alt='Cómo ver el móvil en la tele' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/siete-anos-controlandolo-todo-solo-cerebro-1110423'>Siete años controlándolo todo solo con su cerebro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/siete-anos-controlandolo-todo-solo-cerebro-1110423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/interfaz-cerebro-ordenador-2787709.jpg' alt='Siete años controlándolo todo solo con su cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aprende-tocar-guitarra-acoplando-dispositivo-led-mastil-1110383'>Aprende a tocar la guitarra acoplando este dispositivo LED en su mástil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aprende-tocar-guitarra-acoplando-dispositivo-led-mastil-1110383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dispositivo-led-2787617.jpg' alt='Aprende a tocar la guitarra acoplando este dispositivo LED en su mástil' />
     </a>
 </div>
 
