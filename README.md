@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511'>Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507'>Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/loki-mobius-m-mobius-owen-wilson-2399811.jpg' alt='Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495'>Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660753657520-2787915.jpg' alt='Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459'>Cómo ver el móvil en la tele</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conectar-movil-televisor-2787831.jpg' alt='Cómo ver el móvil en la tele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487'>No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-1108487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/no-te-aburras-nunca-7-aplicaciones-sudokus-jugar-cualquier-parte-2785615.jpg' alt='No te aburras nunca más: 7 aplicaciones de sudokus para jugar en cualquier parte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
     </a>
 </div>
 
