@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209'>El collar con puntero láser para gatos: ¿diversión o crueldad?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660691581039-2787327.jpg' alt='El collar con puntero láser para gatos: ¿diversión o crueldad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991'>Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-tener-madrugar-mucho-quieres-ser-primero-ver-serie-anillos-poder-fecha-hora-estreno-todos-capitulos-2787105.jpg' alt='Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969'>Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees</a></h4>
     <a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alimentos-saludables-2787015.jpg' alt='Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967'>Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-son-semaforos-contradictorios-estan-punto-mira-dgt-1109967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/semaforo-ambar-2787013.jpg' alt='Estos son los semáforos “contradictorios” que están en el punto de mira de la DGT' />
     </a>
 </div>
 
