@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-48oled806-2786721.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211'>Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-limpiar-desinfectar-parrilla-barbacoa-productos-quimicos-2787331.jpg' alt='Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983'>Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/menos-300eu-puedes-autogenerar-propia-energia-kit-solar-portatil-2787041.jpg' alt='Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971'>¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal' />
     </a>
 </div>
 
