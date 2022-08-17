@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209'>El collar con puntero láser para gatos: ¿diversión o crueldad?</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211'>Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-limpiar-desinfectar-parrilla-barbacoa-productos-quimicos-2787331.jpg' alt='Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209'>El collar para gatos con puntero láser: ¿diversión o crueldad?</a></h4>
     <a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660691581039-2787327.jpg' alt='El collar con puntero láser para gatos: ¿diversión o crueldad?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660691581039-2787327.jpg' alt='El collar para gatos con puntero láser: ¿diversión o crueldad?' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971'>¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-netflix-tambien-recorta-personal-1109971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hbo-max-movil-2633613.jpg' alt='¿Llegaron las vacas flacas? HBO Max sigue a Netflix y también recorta personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969'>Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estos-alimentos-consideras-buenos-salud-son-perjudiciales-crees-1109969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alimentos-saludables-2787015.jpg' alt='Estos alimentos que consideras buenos para la salud son más perjudiciales de lo que crees' />
     </a>
 </div>
 
