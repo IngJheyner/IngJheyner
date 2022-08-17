@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533'>El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521'>Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crea-propia-nube-privada-wd-my-cloud-4tb-solo-145eu-2787981.jpg' alt='Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507'>Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/loki-mobius-m-mobius-owen-wilson-2399811.jpg' alt='Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495'>Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660753657520-2787915.jpg' alt='Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos' />
     </a>
 </div>
 
