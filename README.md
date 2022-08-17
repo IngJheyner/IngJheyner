@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/drones-robots-chinos-rusia-usando-invasion-ucrania-1110347'>Los drones y robots chinos que Rusia está usando en su invasión a Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/drones-robots-chinos-rusia-usando-invasion-ucrania-1110347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nano-dron-black-hornet-2709751.jpg' alt='Los drones y robots chinos que Rusia está usando en su invasión a Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-funciones-va-integrar-instagram-hacer-frente-tiktok-1110323'>Estas son las nuevas funciones que va a integrar Instagram para hacer frente a TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-nuevas-funciones-va-integrar-instagram-hacer-frente-tiktok-1110323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg' alt='Estas son las nuevas funciones que va a integrar Instagram para hacer frente a TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869'>Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatil-macbook-guia-compra-597869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-2538075.jpg' alt='Comprar un portátil Apple MacBook en 2022: ¿qué debo tener en cuenta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-mx-master-3s-oferta-17-agosto-2022-1109721'>El mejor ratón profesional que hemos probado cae un 33% de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-mx-master-3s-oferta-17-agosto-2022-1109721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784275.jpg' alt='El mejor ratón profesional que hemos probado cae un 33% de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-google-nos-entiende-hablamos-manera-natural-1110291'>El robot de Google que nos entiende según hablamos de manera natural</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-google-nos-entiende-hablamos-manera-natural-1110291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/love-death-robots-2785139.jpg' alt='El robot de Google que nos entiende según hablamos de manera natural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-windows-11-ya-tiene-fecha-nos-espera-1110333'>La mayor actualización de Windows 11 ya tiene fecha: esto es lo que nos espera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mayor-actualizacion-windows-11-ya-tiene-fecha-nos-espera-1110333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='La mayor actualización de Windows 11 ya tiene fecha: esto es lo que nos espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-v25-v25-pro-son-nuevos-telefonos-gama-media-alta-cambian-color-1110305'>Vivo V25 y V25 Pro, así son los nuevos teléfonos de gama media / alta que cambian de color</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-v25-v25-pro-son-nuevos-telefonos-gama-media-alta-cambian-color-1110305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vivo-v25-pro-2787465.jpg' alt='Vivo V25 y V25 Pro, así son los nuevos teléfonos de gama media / alta que cambian de color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/american-airlines-apuesta-lleno-sucesor-concorde-vuelos-supersonicos-1110261'>American Airlines apuesta de lleno por el sucesor del Concorde y los vuelos supersónicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/american-airlines-apuesta-lleno-sucesor-concorde-vuelos-supersonicos-1110261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/american-airlines-apuesta-lleno-sucesor-concorde-vuelos-supersonicos-2787401.jpg' alt='American Airlines apuesta de lleno por el sucesor del Concorde y los vuelos supersónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/twitter-manchester-united-elon-musk-vuelve-calentarse-redes-sociales-1110243'>De Twitter al Manchester United, Elon Musk vuelve a calentarse en las redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/twitter-manchester-united-elon-musk-vuelve-calentarse-redes-sociales-1110243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='De Twitter al Manchester United, Elon Musk vuelve a calentarse en las redes sociales' />
     </a>
 </div>
 
