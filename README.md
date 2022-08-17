@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='Estos son los mejores móviles de vivo por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1110213'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1110213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2787333.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-48oled806-2786721.jpg' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209'>El collar para gatos con puntero láser: ¿diversión o crueldad?</a></h4>
     <a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660691581039-2787327.jpg' alt='El collar para gatos con puntero láser: ¿diversión o crueldad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991'>Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/anillos-poder-fecha-hora-todos-capitulos-1109991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vas-tener-madrugar-mucho-quieres-ser-primero-ver-serie-anillos-poder-fecha-hora-estreno-todos-capitulos-2787105.jpg' alt='Vas a tener que madrugar si quieres ser el primero en ver la serie Los Anillos de Poder: fecha y hora de todos los capítulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983'>Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-solar-portatil-oferta-1109983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/menos-300eu-puedes-autogenerar-propia-energia-kit-solar-portatil-2787041.jpg' alt='Por menos de 300€ puedes autogenerar tu propia energía con este kit solar portátil' />
     </a>
 </div>
 
