@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/twitter-manchester-united-elon-musk-vuelve-calentarse-redes-sociales-1110243'>De Twitter al Manchester United, Elon Musk vuelve a calentarse en las redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/twitter-manchester-united-elon-musk-vuelve-calentarse-redes-sociales-1110243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/elon-musk-2657243.jpg' alt='De Twitter al Manchester United, Elon Musk vuelve a calentarse en las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591'>Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ni-centimo-google-apple-crea-propia-nube-internet-disco-duro-conectado-8-tb-1029591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wd-my-cloud-ex2-2786865.jpg' alt='Ni un céntimo a Google o Apple: Crea tu propia nube en internet con este disco duro conectado de 8 TB' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-40-anos-salio-primer-cd-comercial-no-adivinaras-grupo-fue-1110227'>Hace 40 años salió el primer CD comercial y no adivinarás de qué grupo fue</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-40-anos-salio-primer-cd-comercial-no-adivinaras-grupo-fue-1110227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/historia-cd-aquel-primer-disco-lanzo-abba-1982-cifras-residuales-hoy-dia-1999099.jpg' alt='Hace 40 años salió el primer CD comercial y no adivinarás de qué grupo fue' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='Estos son los mejores móviles de vivo por rango de precio' />
     </a>
 </div>
 
