@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-40-anos-salio-primer-cd-comercial-no-adivinaras-grupo-fue-1110227'>Hace 40 años salió el primer CD comercial y no adivinarás de qué grupo fue</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-40-anos-salio-primer-cd-comercial-no-adivinaras-grupo-fue-1110227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/historia-cd-aquel-primer-disco-lanzo-abba-1982-cifras-residuales-hoy-dia-1999099.jpg' alt='Hace 40 años salió el primer CD comercial y no adivinarás de qué grupo fue' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='Estos son los mejores móviles de vivo por rango de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211'>Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-limpiar-desinfectar-parrilla-barbacoa-sin-productos-quimicos-1110211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-limpiar-desinfectar-parrilla-barbacoa-productos-quimicos-2787331.jpg' alt='Cómo limpiar y desinfectar la parrilla o barbacoa sin productos químicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209'>El collar para gatos con puntero láser: ¿diversión o crueldad?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/collar-puntero-laser-gatos-diversion-crueldad-1110209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660691581039-2787327.jpg' alt='El collar para gatos con puntero láser: ¿diversión o crueldad?' />
     </a>
 </div>
 
