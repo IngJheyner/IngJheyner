@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521'>Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crea-propia-nube-privada-wd-my-cloud-4tb-solo-145eu-2787981.jpg' alt='Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515'>Esta persona ha perdido 321 puntos del carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motociclista-2787963.jpg' alt='Esta persona ha perdido 321 puntos del carnet de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511'>Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495'>Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/marie-kondo-google-drive-photos-one-1110495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660753657520-2787915.jpg' alt='Marie Kondo quiere que sigas ordenando, ahora Google Drive y Fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917'>Gafas de realidad virtual (VR): estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejoers-gafas-realidad-virtual-1109917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-visor-realidad-virtual-cabeza-2787451.jpg' alt='Gafas de realidad virtual (VR): estas son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459'>Cómo ver el móvil en la tele</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-movil-tele-1110459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/conectar-movil-televisor-2787831.jpg' alt='Cómo ver el móvil en la tele' />
     </a>
 </div>
 
