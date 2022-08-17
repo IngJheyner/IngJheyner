@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535'>La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660772026355-2788003.jpg' alt='La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533'>El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511'>Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507'>Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/marvel-ha-reganado-varias-veces-owen-wilson-compartir-spoilers-loki-1110507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/loki-mobius-m-mobius-owen-wilson-2399811.jpg' alt='Marvel ha regañado varias veces a Owen Wilson por compartir spoilers de Loki' />
     </a>
 </div>
 
