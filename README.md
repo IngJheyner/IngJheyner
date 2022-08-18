@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-red-social-crear-stories-podras-compartirlos-facebook-instagram-1110819'>TikTok quiere ser tu red social para crear Stories, podrás compartirlos en Facebook e Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-red-social-crear-stories-podras-compartirlos-facebook-instagram-1110819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='TikTok quiere ser tu red social para crear Stories, podrás compartirlos en Facebook e Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/polemico-movil-lg-wing-ha-sido-convertido-consola-portatil-muy-mona-modder-1110831'>El polémico móvil LG Wing ha sido convertido por un modder en una consola portátil muy mona </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/polemico-movil-lg-wing-ha-sido-convertido-consola-portatil-muy-mona-modder-1110831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-wind-2788341.jpg' alt='El polémico móvil LG Wing ha sido convertido por un modder en una consola portátil muy mona ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-resto-novedades-ya-tendrian-fecha-presentacion-lanzamiento-1110807'>El iPhone 14 y el resto de novedades ya tendrían fecha de presentación y lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-resto-novedades-ya-tendrian-fecha-presentacion-lanzamiento-1110807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el resto de novedades ya tendrían fecha de presentación y lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-vivobook-14-f1400ea-ek1544-oferta-18-agosto-2022-1110293'>Estrena portátil a precio de derribo: con i3 y SSD por solo 349 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-vivobook-14-f1400ea-ek1544-oferta-18-agosto-2022-1110293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-vivobook-14-2787457.jpg' alt='Estrena portátil a precio de derribo: con i3 y SSD por solo 349 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ufs-40-rapido-sera-almacenamiento-proxima-generacion-movil-1110793'>UFS 4.0: Así de rápido será el almacenamiento de la próxima generación móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ufs-40-rapido-sera-almacenamiento-proxima-generacion-movil-1110793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufs-40-samsung-2691995.jpg' alt='UFS 4.0: Así de rápido será el almacenamiento de la próxima generación móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881'>¡Ya está en tu quiosco el número 623 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/computer-hoy-623-2787713.jpg' alt='¡Ya está en tu quiosco el número 623 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-tarifa-netflix-anuncios-cargaria-grandes-ventajas-aplicacion-1110791'>La nueva tarifa de Netflix con anuncios se cargaría una de las grandes ventajas de la aplicación</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-tarifa-netflix-anuncios-cargaria-grandes-ventajas-aplicacion-1110791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='La nueva tarifa de Netflix con anuncios se cargaría una de las grandes ventajas de la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
     </a>
 </div>
 
