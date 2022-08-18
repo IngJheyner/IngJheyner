@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-podria-ser-nueva-invitada-quinta-pelicula-vengadores-1110845'>She-Hulk podría ser la nueva invitada para la quinta película de Los Vengadores</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-podria-ser-nueva-invitada-quinta-pelicula-vengadores-1110845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/she-hulk-abogada-hulka-2788249.jpg' alt='She-Hulk podría ser la nueva invitada para la quinta película de Los Vengadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-flotantes-solares-reducir-co2-crear-combustible-1110863'>Hojas artificiales flotantes solares para reducir el CO2 y crear combustible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hojas-artificiales-flotantes-solares-reducir-co2-crear-combustible-1110863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoja-2599095.jpg' alt='Hojas artificiales flotantes solares para reducir el CO2 y crear combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-red-social-crear-stories-podras-compartirlos-facebook-instagram-1110819'>TikTok quiere ser tu red social para crear Stories, podrás compartirlos en Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tiktok-quiere-ser-red-social-crear-stories-podras-compartirlos-facebook-instagram-1110819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='TikTok quiere ser tu red social para crear Stories, podrás compartirlos en Facebook e Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-resto-novedades-ya-tendrian-fecha-presentacion-lanzamiento-1110807'>El iPhone 14 y el resto de novedades ya tendrían fecha de presentación y lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-resto-novedades-ya-tendrian-fecha-presentacion-lanzamiento-1110807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el resto de novedades ya tendrían fecha de presentación y lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-vivobook-14-f1400ea-ek1544-oferta-18-agosto-2022-1110293'>Estrena portátil a precio de derribo: con i3 y SSD por solo 349 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-vivobook-14-f1400ea-ek1544-oferta-18-agosto-2022-1110293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-vivobook-14-2787457.jpg' alt='Estrena portátil a precio de derribo: con i3 y SSD por solo 349 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ufs-40-rapido-sera-almacenamiento-proxima-generacion-movil-1110793'>UFS 4.0: Así de rápido será el almacenamiento de la próxima generación móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ufs-40-rapido-sera-almacenamiento-proxima-generacion-movil-1110793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ufs-40-samsung-2691995.jpg' alt='UFS 4.0: Así de rápido será el almacenamiento de la próxima generación móvil' />
     </a>
 </div>
 
