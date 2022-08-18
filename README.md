@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479'>Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-2785683.jpg' alt='Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025'>Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/microsoft-excel-2788833.jpg' alt='Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945'>Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985'>Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/libreoffice-74-2788737.jpg' alt='Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles' />
     </a>
 </div>
 
