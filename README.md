@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103'>Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867'>Auriculares gaming: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-auriculares-gaming-puestos-2788455.jpg' alt='Auriculares gaming: estos son los mejores que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025'>Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/microsoft-excel-2788833.jpg' alt='Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965'>Qué hacer cuando pierdes el DNI</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dni-2788691.jpg' alt='Qué hacer cuando pierdes el DNI' />
     </a>
 </div>
 
