@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985'>Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/libreoffice-74-2788737.jpg' alt='Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913'>Uno de los vídeos musicales más famosos de Janet Jackson podría estropear ordenadores portátiles antiguos, según Microsoft</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/janet-jacson-2788575.jpg' alt='Uno de los vídeos musicales más famosos de Janet Jackson podría estropear ordenadores portátiles antiguos, según Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971'>El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-procesador-top-intel-consumira-energia-tarjeta-grafica-1110967'>El próximo procesador TOP de Intel consumirá más energía que tu tarjeta gráfica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-procesador-top-intel-consumira-energia-tarjeta-grafica-1110967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='El próximo procesador TOP de Intel consumirá más energía que tu tarjeta gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba'>Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti</a></h4>
     <a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/roomba-2219839.jpg' alt='Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/velocidad-record-10-gbytes-s-punto-fuerte-nuevo-ssd-mp700-pcie-5-corsair-1110897'>Velocidad récord 10 GBytes/s, punto fuerte del nuevo SSD MP700 PCIe 5 de Corsair</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/velocidad-record-10-gbytes-s-punto-fuerte-nuevo-ssd-mp700-pcie-5-corsair-1110897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ssd-mp700-pcie-5-corsair-2788613.jpg' alt='Velocidad récord 10 GBytes/s, punto fuerte del nuevo SSD MP700 PCIe 5 de Corsair' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/internet-cuantica-cada-vez-cerca-record-chino-distancia-entrelazamiento-cuantico-1110857'>La Internet cuántica cada vez más cerca, récord chino de distancia de entrelazamiento cuántico</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/internet-cuantica-cada-vez-cerca-record-chino-distancia-entrelazamiento-cuantico-1110857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/ordenador-cuantico-2081509.jpg' alt='La Internet cuántica cada vez más cerca, récord chino de distancia de entrelazamiento cuántico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077'>El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-6-aun-moviles-mejor-camara-ahora-barato-nunca-antes-1106077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-google-pixel-6-2604643.jpg' alt='El Pixel 6 es aún uno de los móviles con mejor cámara y ahora está más barato que nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-podria-ser-nueva-invitada-quinta-pelicula-vengadores-1110845'>She-Hulk podría ser la nueva invitada para la quinta película de Los Vengadores</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/she-hulk-podria-ser-nueva-invitada-quinta-pelicula-vengadores-1110845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/she-hulk-abogada-hulka-2788249.jpg' alt='She-Hulk podría ser la nueva invitada para la quinta película de Los Vengadores' />
     </a>
 </div>
 
