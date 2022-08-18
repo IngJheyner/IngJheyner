@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1110769'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1110769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2788215.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Mejores altavoces para TV que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537'>Trucos para que tu gato no se suba a las encimeras de la cocina o el baño</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trucos-gato-no-suba-encimeras-cocina-bano-2788005.jpg' alt='Trucos para que tu gato no se suba a las encimeras de la cocina o el baño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533'>El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521'>Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nube-privada-wd-my-cloud-4-tb-oferta-1110521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/crea-propia-nube-privada-wd-my-cloud-4tb-solo-145eu-2787981.jpg' alt='Crea tu propia nube privada con WD My Cloud de 4 TB por solo 145€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515'>Esta persona ha perdido 321 puntos del carnet de conducir</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motociclista-2787963.jpg' alt='Esta persona ha perdido 321 puntos del carnet de conducir' />
     </a>
 </div>
 
