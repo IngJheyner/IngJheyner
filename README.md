@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025'>Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/microsoft-excel-2788833.jpg' alt='Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965'>Qué hacer cuando pierdes el DNI</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dni-2788691.jpg' alt='Qué hacer cuando pierdes el DNI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001'>Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg' alt='Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985'>Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/libreoffice-74-2788737.jpg' alt='Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913'>Uno de los vídeos musicales más famosos de Janet Jackson podría estropear ordenadores portátiles antiguos, según Microsoft</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/janet-jacson-2788575.jpg' alt='Uno de los vídeos musicales más famosos de Janet Jackson podría estropear ordenadores portátiles antiguos, según Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971'>El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada' />
     </a>
 </div>
 
