@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109'>Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660846676840-2789063.jpg' alt='Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105'>Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103'>Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081'>Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recibes-usb-oficial-microsoft-office-buzon-no-metas-pc-ransomware-2788971.jpg' alt='Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479'>Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-2785683.jpg' alt='Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025'>Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-colores-automaticos-excel-google-spreadsheets-contenido-celdas-1111025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/microsoft-excel-2788833.jpg' alt='Cómo usar colores automáticos en Excel y Google Spreadsheets según el contenido de las celdas' />
     </a>
 </div>
 
