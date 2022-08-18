@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123'>Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117'>El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-matebook-d-15-2021-2319877.jpg' alt='El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103'>Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867'>Auriculares gaming: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-auriculares-gaming-puestos-2788455.jpg' alt='Auriculares gaming: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
