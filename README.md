@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125'>El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660859156534-2789117.jpg' alt='El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123'>Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105'>Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103'>Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-apostaria-pantalla-muy-alta-calidad-biseles-delgados-1111103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg' alt='Xiaomi 13 apostaría por una pantalla de muy alta calidad y con biseles más delgados' />
     </a>
 </div>
 
