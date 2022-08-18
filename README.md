@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881'>¡Ya está en tu quiosco el número 623 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/computer-hoy-623-2787713.jpg' alt='¡Ya está en tu quiosco el número 623 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nueva-tarifa-netflix-anuncios-cargaria-grandes-ventajas-aplicacion-1110791'>La nueva tarifa de Netflix con anuncios se cargaría una de las grandes ventajas de la aplicación</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nueva-tarifa-netflix-anuncios-cargaria-grandes-ventajas-aplicacion-1110791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-app-2767547.jpg' alt='La nueva tarifa de Netflix con anuncios se cargaría una de las grandes ventajas de la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285'>Mejores altavoces para TV que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-tv-1110285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Mejores altavoces para TV que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537'>Trucos para que tu gato no se suba a las encimeras de la cocina o el baño</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trucos-gato-no-suba-encimeras-cocina-bano-2788005.jpg' alt='Trucos para que tu gato no se suba a las encimeras de la cocina o el baño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535'>La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660772026355-2788003.jpg' alt='La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio' />
     </a>
 </div>
 
