@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537'>Trucos para que tu gato no se suba a las encimeras de la cocina o el baño</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-gato-no-suba-encimeras-cocina-bano-1110537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trucos-gato-no-suba-encimeras-cocina-bano-2788005.jpg' alt='Trucos para que tu gato no se suba a las encimeras de la cocina o el baño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535'>La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660772026355-2788003.jpg' alt='La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515'>Esta persona ha perdido 321 puntos del carnet de conducir</a></h4>
     <a href='https://computerhoy.com/noticias/motor/persona-ha-perdido-321-puntos-carnet-conducir-1110515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motociclista-2787963.jpg' alt='Esta persona ha perdido 321 puntos del carnet de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511'>Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-podrian-interaccionar-dispositivo-forma-remota-dedo-invisible-1110511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg' alt='Los ciberdelincuentes podrían interaccionar con tu dispositivo de forma remota con “un dedo invisible”' />
     </a>
 </div>
 
