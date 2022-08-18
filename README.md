@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117'>El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-matebook-d-15-2021-2319877.jpg' alt='El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109'>Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660846676840-2789063.jpg' alt='Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867'>Auriculares gaming: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-auriculares-gaming-puestos-2788455.jpg' alt='Auriculares gaming: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081'>Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recibes-usb-oficial-microsoft-office-buzon-no-metas-pc-ransomware-2788971.jpg' alt='Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware' />
     </a>
 </div>
 
