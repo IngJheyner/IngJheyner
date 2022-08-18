@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867'>Auriculares gaming: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-gaming-1110867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-auriculares-gaming-puestos-2788455.jpg' alt='Auriculares gaming: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081'>Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usb-oficial-microsoft-office-ransomware-1111081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recibes-usb-oficial-microsoft-office-buzon-no-metas-pc-ransomware-2788971.jpg' alt='Si recibes en tu buzón un pendrive USB "oficial" con Microsoft Office, no lo metas en tu PC: es un ransomware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479'>Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-1108479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estas-7-aplicaciones-android-te-ayudan-empezar-ponerte-forma-2785683.jpg' alt='Estas 7 aplicaciones Android te ayudan para empezar a ponerte en forma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965'>Qué hacer cuando pierdes el DNI</a></h4>
     <a href='https://computerhoy.com/noticias/life/hacer-cuando-pierdes-dni-1110965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dni-2788691.jpg' alt='Qué hacer cuando pierdes el DNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001'>Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg' alt='Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945'>Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos' />
     </a>
 </div>
 
