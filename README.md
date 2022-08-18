@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833'>Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ayudas-patinetes-electricos-madrid-condiciones-cuantia-modelos-subvencionados-1064833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/patinete-electrico-2435187.jpg' alt='Ayudas para patinetes eléctricos en Madrid: condiciones, cuantía y modelos subvencionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1110769'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1110769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2788215.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535'>La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panaderia-pantallas-oled-transparentes-lg-1110535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660772026355-2788003.jpg' alt='La primera panadería que solo usa pantallas OLED transparentes demuestra que es el futuro del comercio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533'>El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-keynote-7-septiembre-1110533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/iphone-14-renders-2676551.jpg' alt='El iPhone 14 y el Apple Watch Series 8 podrían presentarse mucho antes de lo esperado' />
     </a>
 </div>
 
