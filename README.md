@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001'>Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desarrolladores-ethereum-ya-tienen-fecha-estimada-merge-1111001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg' alt='Ethereum ya tienen una fecha estimada para The Merge, el punto de vida o muerte para esta criptomoneda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945'>Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-cierra-dos-vulnerabilidades-usaban-hackear-iphone-ipad-mac-actualizalos-1110945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Apple cierra dos vulnerabilidades que usaban para hackear tu iPhone, iPad y Mac: actualízalos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985'>Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/libreoffice-74-pack-gratuito-ofimatica-windows-mac-linux-moviles-1110985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/libreoffice-74-2788737.jpg' alt='Así es LibreOffice 7.4, el pack gratuito de ofimática para Windows, Mac, Linux y móviles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971'>El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejor-accesorio-playa-grifo-portatil-tomar-cerveza-fria-recien-tirada-1110971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cerveza-2529037.jpg' alt='El mejor accesorio para la playa es un grifo portátil para tomar cerveza fría recién tirada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-procesador-top-intel-consumira-energia-tarjeta-grafica-1110967'>El próximo procesador TOP de Intel consumirá más energía que tu tarjeta gráfica</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-procesador-top-intel-consumira-energia-tarjeta-grafica-1110967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-presenta-tarjetas-graficas-intel-arc-pro-50-pro-40-pro-30m-2780473.jpg' alt='El próximo procesador TOP de Intel consumirá más energía que tu tarjeta gráfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba'>Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/roomba-2219839.jpg' alt='Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti' />
     </a>
 </div>
 
