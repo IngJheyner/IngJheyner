@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/series-fin-semana-2789789.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pelicula-ver-fin-semana-hbo-max-netflix-prime-video-tercera-365-dias-polanski-drama-adolescente-1111411'>Qué película ver este fin de semana en HBO Max, Netflix y Prime Video: la tercera de 365 días, Polanski y un drama adolescente</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pelicula-ver-fin-semana-hbo-max-netflix-prime-video-tercera-365-dias-polanski-drama-adolescente-1111411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pelicula-ver-fin-semana-hbo-max-netflix-prime-video-tercera-365-dias-polanski-drama-adolescente-2789513.jpg' alt='Qué película ver este fin de semana en HBO Max, Netflix y Prime Video: la tercera de 365 días, Polanski y un drama adolescente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-mejores-widgets-puedes-tener-android-1108483'>7 aplicaciones con los mejores widgets que puedes tener en tu Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-mejores-widgets-puedes-tener-android-1108483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-mejores-widgets-puedes-tener-android-2785647.jpg' alt='7 aplicaciones con los mejores widgets que puedes tener en tu Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531'>Consigue que tu Android parezca un iPhone con el launcher Copycat iOS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Consigue que tu Android parezca un iPhone con el launcher Copycat iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-puede-espiar-haces-capturar-datos-navegador-web-integrado-1111525'>TikTok puede espiar lo que haces y capturar tus datos desde su navegador web integrado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-puede-espiar-haces-capturar-datos-navegador-web-integrado-1111525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok puede espiar lo que haces y capturar tus datos desde su navegador web integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509'>Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/honor-70-5g-2789733.jpg' alt='Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W' />
     </a>
 </div>
 
