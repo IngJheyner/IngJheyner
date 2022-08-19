@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631'>Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-bajan-52-quedan-precio-chollo-2789983.jpg' alt='Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625'>La DGT cambia la forma de notificar las multas a partir de noviembre</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='La DGT cambia la forma de notificar las multas a partir de noviembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619'>Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595'>La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660926158095-2789907.jpg' alt='La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/diferencias-poco-watch-mi-watch-lite-redmi-watch-2-lite-amazfit-bip-3-1110943'>Poco Watch, Mi Watch Lite, Redmi Watch 2 Lite, Amazfit Bip 3… ¿en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/diferencias-poco-watch-mi-watch-lite-redmi-watch-2-lite-amazfit-bip-3-1110943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/comparativa-amazfit-bip-3-poco-watch-xiaomi-mi-watch-lite-redmi-watch-2-lite-2788889.jpg' alt='Poco Watch, Mi Watch Lite, Redmi Watch 2 Lite, Amazfit Bip 3… ¿en qué se diferencian?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/series-fin-semana-2789789.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde' />
     </a>
 </div>
 
