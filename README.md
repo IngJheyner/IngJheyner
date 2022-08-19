@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509'>Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/honor-70-5g-2789733.jpg' alt='Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441'>Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803'>40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio</a></h4>
     <a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ninebot-f40-2786663.jpg' alt='40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399'>La bici eléctrica para montañas nevadas, versión lite de una moto de nieve</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bici-electrica-montanas-nevadas-version-lite-moto-nieve-2789451.jpg' alt='La bici eléctrica para montañas nevadas, versión lite de una moto de nieve' />
     </a>
 </div>
 
