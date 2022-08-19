@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441'>Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorpresa-netflix-publica-dos-nuevos-episodios-sandman-avisar-1111477'>Sorpresa: Netflix publica dos nuevos episodios de Sandman sin avisar</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/sorpresa-netflix-publica-dos-nuevos-episodios-sandman-avisar-1111477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sandman-2784153.jpg' alt='Sorpresa: Netflix publica dos nuevos episodios de Sandman sin avisar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-friegasuelos'>Guía y consejos para comprar un robot aspirador con función friegasuelos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador-friegasuelos' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/robot-aspirador-2081539.jpg' alt='Guía y consejos para comprar un robot aspirador con función friegasuelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803'>40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ninebot-f40-2786663.jpg' alt='40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399'>La bici eléctrica para montañas nevadas, versión lite de una moto de nieve</a></h4>
     <a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bici-electrica-montanas-nevadas-version-lite-moto-nieve-2789451.jpg' alt='La bici eléctrica para montañas nevadas, versión lite de una moto de nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aire-acondicionado-portatil-electricidad-base-nitrogeno-liquido-1111425'>Aire acondicionado portátil sin electricidad, a base de nitrógeno líquido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aire-acondicionado-portatil-electricidad-base-nitrogeno-liquido-1111425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aire-acondicionado-hidrogeno-liquido-2789577.jpg' alt='Aire acondicionado portátil sin electricidad, a base de nitrógeno líquido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/como-dodge-consigue-hacer-nuevo-coche-electrico-ruja-como-tuviera-motor-tradicional-1111409'>Así es como Dodge consigue hacer que su nuevo coche eléctrico ruja como si tuviera motor tradicional</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/como-dodge-consigue-hacer-nuevo-coche-electrico-ruja-como-tuviera-motor-tradicional-1111409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dodge-daytona-ev-2789485.jpg' alt='Así es como Dodge consigue hacer que su nuevo coche eléctrico ruja como si tuviera motor tradicional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-dotara-mate-50-posibilidad-llamar-mandar-sms-incluso-bateria-1111383'>Huawei dotará al Mate 50 de la posibilidad de llamar y mandar SMS incluso sin batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-dotara-mate-50-posibilidad-llamar-mandar-sms-incluso-bateria-1111383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei dotará al Mate 50 de la posibilidad de llamar y mandar SMS incluso sin batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369'>Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sonido-smrtphone-2648983.jpg' alt='Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos' />
     </a>
 </div>
 
