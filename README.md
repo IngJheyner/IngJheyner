@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319'>5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/6-signos-vives-micromanipulador-forma-abuso-dificil-detectar-2789295.jpg' alt='5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125'>El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660859156534-2789117.jpg' alt='El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109'>Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660846676840-2789063.jpg' alt='Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105'>Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-fin-tienen-actualizacion-esperada-android-auto-1111105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Los usuarios de Samsung por fin tienen su actualización más esperada para Android Auto' />
     </a>
 </div>
 
