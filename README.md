@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875'>Estos son los mejores móviles Samsung que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620739.jpg' alt='Estos son los mejores móviles Samsung que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2789297.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125'>El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660859156534-2789117.jpg' alt='El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123'>Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza' />
     </a>
 </div>
 
