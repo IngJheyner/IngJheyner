@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639'>Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635'>Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ya-puedes-escuchar-banda-sonora-anillos-poder-incluyendo-nuevo-tema-howard-shore-2790001.jpg' alt='Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619'>Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-elimina-harry-potter-descuentos-1111621'>HBO Max sigue eliminando contenido, incluyendo Harry Potter, y lo compensa con descuentos del 40%, ¿llegarán aquí?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-elimina-harry-potter-descuentos-1111621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/saga-harry-potter-2773855.jpg' alt='HBO Max sigue eliminando contenido, incluyendo Harry Potter, y lo compensa con descuentos del 40%, ¿llegarán aquí?' />
     </a>
 </div>
 
