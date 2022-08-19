@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635'>Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ya-puedes-escuchar-banda-sonora-anillos-poder-incluyendo-nuevo-tema-howard-shore-2790001.jpg' alt='Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631'>Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-bajan-52-quedan-precio-chollo-2789983.jpg' alt='Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-elimina-harry-potter-descuentos-1111621'>HBO Max sigue eliminando contenido, incluyendo Harry Potter, y lo compensa con descuentos del 40%, ¿llegarán aquí?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-sigue-elimina-harry-potter-descuentos-1111621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/saga-harry-potter-2773855.jpg' alt='HBO Max sigue eliminando contenido, incluyendo Harry Potter, y lo compensa con descuentos del 40%, ¿llegarán aquí?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595'>La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660926158095-2789907.jpg' alt='La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados' />
     </a>
 </div>
 
