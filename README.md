@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399'>La bici eléctrica para montañas nevadas, versión lite de una moto de nieve</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bici-electrica-montanas-nevadas-version-lite-moto-nieve-1111399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bici-electrica-montanas-nevadas-version-lite-moto-nieve-2789451.jpg' alt='La bici eléctrica para montañas nevadas, versión lite de una moto de nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aire-acondicionado-portatil-electricidad-base-nitrogeno-liquido-1111425'>Aire acondicionado portátil sin electricidad, a base de nitrógeno líquido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aire-acondicionado-portatil-electricidad-base-nitrogeno-liquido-1111425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aire-acondicionado-hidrogeno-liquido-2789577.jpg' alt='Aire acondicionado portátil sin electricidad, a base de nitrógeno líquido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/como-dodge-consigue-hacer-nuevo-coche-electrico-ruja-como-tuviera-motor-tradicional-1111409'>Así es como Dodge consigue hacer que su nuevo coche eléctrico ruja como si tuviera motor tradicional</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-dodge-consigue-hacer-nuevo-coche-electrico-ruja-como-tuviera-motor-tradicional-1111409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dodge-daytona-ev-2789485.jpg' alt='Así es como Dodge consigue hacer que su nuevo coche eléctrico ruja como si tuviera motor tradicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-dotara-mate-50-posibilidad-llamar-mandar-sms-incluso-bateria-1111383'>Huawei dotará al Mate 50 de la posibilidad de llamar y mandar SMS incluso sin batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-dotara-mate-50-posibilidad-llamar-mandar-sms-incluso-bateria-1111383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei dotará al Mate 50 de la posibilidad de llamar y mandar SMS incluso sin batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369'>Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sonido-smrtphone-2648983.jpg' alt='Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319'>Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gts-3-2709287.jpg' alt='Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-2022-oficial-pantalla-144-hz-dimensity-1050-5000-mah-bateria-1111367'>El Motorola Edge 2022 es oficial: pantalla de 144 Hz, un Dimensity 1050 y 5.000 mAh de batería</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-2022-oficial-pantalla-144-hz-dimensity-1050-5000-mah-bateria-1111367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-edge-2022-2789393.jpg' alt='El Motorola Edge 2022 es oficial: pantalla de 144 Hz, un Dimensity 1050 y 5.000 mAh de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-seguir-monitorizar-tiempo-real-mision-luna-artemis-i-nasa-1111329'>Así podrás seguir y monitorizar en tiempo real la misión a la luna Artemis I de la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podras-seguir-monitorizar-tiempo-real-mision-luna-artemis-i-nasa-1111329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/50-anos-despues-cohete-llevara-seres-humanos-luna-2650507.jpg' alt='Así podrás seguir y monitorizar en tiempo real la misión a la luna Artemis I de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875'>Estos son los mejores móviles Samsung que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620739.jpg' alt='Estos son los mejores móviles Samsung que hemos probado últimamente' />
     </a>
 </div>
 
