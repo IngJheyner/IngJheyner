@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369'>Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-android-te-ayudara-oir-claridad-tienes-problemas-auditivos-1111369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/sonido-smrtphone-2648983.jpg' alt='Esta aplicación de Android te ayudará a oír con más claridad si tienes problemas auditivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319'>Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gts-3-2709287.jpg' alt='Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875'>Estos son los mejores móviles Samsung que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620739.jpg' alt='Estos son los mejores móviles Samsung que hemos probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2789297.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
