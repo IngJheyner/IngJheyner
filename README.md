@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595'>La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sega-mega-drive-mini-2-juegos-lanzamiento-espana-1111595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660926158095-2789907.jpg' alt='La Sega Mega Drive Mini 2 sale a la venta en España con 61 juegos de Mega Drive, Mega CD y títulos nunca publicados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/diferencias-poco-watch-mi-watch-lite-redmi-watch-2-lite-amazfit-bip-3-1110943'>Poco Watch, Mi Watch Lite, Redmi Watch 2 Lite, Amazfit Bip 3… ¿en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/diferencias-poco-watch-mi-watch-lite-redmi-watch-2-lite-amazfit-bip-3-1110943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/comparativa-amazfit-bip-3-poco-watch-xiaomi-mi-watch-lite-redmi-watch-2-lite-2788889.jpg' alt='Poco Watch, Mi Watch Lite, Redmi Watch 2 Lite, Amazfit Bip 3… ¿en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-eterno-oficina-abogada-verde-1111533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/series-fin-semana-2789789.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: un eterno, una oficina y una abogada verde' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-mejores-widgets-puedes-tener-android-1108483'>7 aplicaciones con los mejores widgets que puedes tener en tu Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-mejores-widgets-puedes-tener-android-1108483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-aplicaciones-mejores-widgets-puedes-tener-android-2785647.jpg' alt='7 aplicaciones con los mejores widgets que puedes tener en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribe-ver-haber-formas-solventar-dudas-ortografia-movil-1111457'>¿Cómo se escribe a ver o haber? Formas de solventar tus dudas de ortografía desde el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-escribe-ver-haber-formas-solventar-dudas-ortografia-movil-1111457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario_1.jpg' alt='¿Cómo se escribe a ver o haber? Formas de solventar tus dudas de ortografía desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531'>Consigue que tu Android parezca un iPhone con el launcher Copycat iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Consigue que tu Android parezca un iPhone con el launcher Copycat iOS' />
     </a>
 </div>
 
