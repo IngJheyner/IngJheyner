@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319'>Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-gts-3-oferta-19-agosto-2022-1110319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/amazfit-gts-3-2709287.jpg' alt='Alexa siempre contigo con este reloj inteligente de Amazfit: el GTS 3, rebajado en España a solo 123 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-2022-oficial-pantalla-144-hz-dimensity-1050-5000-mah-bateria-1111367'>El Motorola Edge 2022 es oficial: pantalla de 144 Hz, un Dimensity 1050 y 5.000 mAh de batería</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-2022-oficial-pantalla-144-hz-dimensity-1050-5000-mah-bateria-1111367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motorola-edge-2022-2789393.jpg' alt='El Motorola Edge 2022 es oficial: pantalla de 144 Hz, un Dimensity 1050 y 5.000 mAh de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podras-seguir-monitorizar-tiempo-real-mision-luna-artemis-i-nasa-1111329'>Así podrás seguir y monitorizar en tiempo real la misión a la luna Artemis I de la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podras-seguir-monitorizar-tiempo-real-mision-luna-artemis-i-nasa-1111329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/50-anos-despues-cohete-llevara-seres-humanos-luna-2650507.jpg' alt='Así podrás seguir y monitorizar en tiempo real la misión a la luna Artemis I de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875'>Estos son los mejores móviles Samsung que hemos probado últimamente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-hemos-probado-1109875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620739.jpg' alt='Estos son los mejores móviles Samsung que hemos probado últimamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2789297.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB Tipo C que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cargador-usb-tipo-c-2788641.jpg' alt='Mejores cargadores USB Tipo C que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319'>5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/6-signos-vives-micromanipulador-forma-abuso-dificil-detectar-2789295.jpg' alt='5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125'>El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/restaurante-platos-realidad-aumentada-hololamp-1111125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660859156534-2789117.jpg' alt='El restaurante del futuro: puedes ver los platos en la mesa antes de pedirlos, gracias a la realidad aumentada' />
     </a>
 </div>
 
