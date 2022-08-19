@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321'>26 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/26-noticias-tecnologia-comenzar-manana-informado-ultimo-1111321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/26-noticias-tecnologia-comenzar-manana-informado-ultimo-2789297.jpg' alt='26 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB Tipo C que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cargador-usb-tipo-c-2788641.jpg' alt='Mejores cargadores USB Tipo C que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319'>5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-signos-vives-micromanipulador-1111319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/6-signos-vives-micromanipulador-forma-abuso-dificil-detectar-2789295.jpg' alt='5 signos de que vives con una persona micromanipuladora, la forma de abuso más difícil de detectar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123'>Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenguaje-programacion-telescopio-james-webb-javascript-1111123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Desvelan el lenguaje de programación que usa el telescopio James Webb, y algunos se han echado las manos a la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117'>El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-huawei-matebook-d-15-8-gb-ram-descuento-250-euros-1111117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/huawei-matebook-d-15-2021-2319877.jpg' alt='El portátil Huawei Matebook D 15 con 8 GB de RAM recibe un descuento de 250 euros, baja a solo 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109'>Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/tekken-linaje-he-man-masters-universo-temporada-3-netflix-1111109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660846676840-2789063.jpg' alt='Netflix lucha contra la nostalgia con sus últimos estrenos animados: He-Man y Tekken' />
     </a>
 </div>
 
