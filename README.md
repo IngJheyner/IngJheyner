@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-escribe-ver-haber-formas-solventar-dudas-ortografia-movil-1111457'>¿Cómo se escribe a ver o haber? Formas de solventar tus dudas de ortografía desde el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-escribe-ver-haber-formas-solventar-dudas-ortografia-movil-1111457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/diccionario_1.jpg' alt='¿Cómo se escribe a ver o haber? Formas de solventar tus dudas de ortografía desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531'>Consigue que tu Android parezca un iPhone con el launcher Copycat iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-android-parezca-iphone-launcher-copycat-ios-1111531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Consigue que tu Android parezca un iPhone con el launcher Copycat iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiktok-puede-espiar-haces-capturar-datos-navegador-web-integrado-1111525'>TikTok puede espiar lo que haces y capturar tus datos desde su navegador web integrado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiktok-puede-espiar-haces-capturar-datos-navegador-web-integrado-1111525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='TikTok puede espiar lo que haces y capturar tus datos desde su navegador web integrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509'>Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-70-5g-gama-media-premium-chino-llega-snapdragon-778g-carga-rapida-66-w-1111509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/honor-70-5g-2789733.jpg' alt='Honor 70 5G: el gama media prémium chino llega con el Snapdragon 778G+ y carga rápida de 66 W' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441'>Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/recubrimiento-acabaran-problemas-cobertura-wi-fi-casa-1111441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Con este recubrimiento se acabarán los problemas de cobertura Wi-Fi en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/sorpresa-netflix-publica-dos-nuevos-episodios-sandman-avisar-1111477'>Sorpresa: Netflix publica dos nuevos episodios de Sandman sin avisar</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/sorpresa-netflix-publica-dos-nuevos-episodios-sandman-avisar-1111477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sandman-2784153.jpg' alt='Sorpresa: Netflix publica dos nuevos episodios de Sandman sin avisar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-friegasuelos'>Guía y consejos para comprar un robot aspirador con función friegasuelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador-friegasuelos' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/robot-aspirador-2081539.jpg' alt='Guía y consejos para comprar un robot aspirador con función friegasuelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803'>40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/segway-ninebot-f40-scooter-oferta-19-agosto-2022-1109803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ninebot-f40-2786663.jpg' alt='40 km de autonomía y un precio inferior a su rival Xiaomi: el patinete de Segway rompe récord de precio' />
     </a>
 </div>
 
