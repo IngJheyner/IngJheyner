@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031'>Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bien-funciona-panel-invisibilidad-puro-estilo-harry-potter-2788839.jpg' alt='Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379'>Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-javascript-2787613.jpg' alt='Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403'>¿Qué vino antes los aviones o los aviones de papel?</a></h4>
     <a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vino-antes-aviones-aviones-papel-2789463.jpg' alt='¿Qué vino antes los aviones o los aviones de papel?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769'>Infladores portátiles, lo que debes saber para elegir correctamente </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/infladores-portatiles-2785105.jpg' alt='Infladores portátiles, lo que debes saber para elegir correctamente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639'>Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635'>Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ya-puedes-escuchar-banda-sonora-anillos-poder-incluyendo-nuevo-tema-howard-shore-2790001.jpg' alt='Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore' />
     </a>
 </div>
 
