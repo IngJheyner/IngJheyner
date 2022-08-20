@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909'>Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491'>Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bebe-recien-nacido-bostezando-2789881.jpg' alt='Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105'>Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/luz-inteligente-2785583.jpg' alt='Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907'>Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-2790265.jpg' alt='Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901'>Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891'>La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-parecidas-juego-tronos-casa-dragon-intrigas-fantasia-guerreros-1110471'>7 series parecidas a Juego de Tronos y La Casa Del Dragón: intrigas, fantasía, guerreros...</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-parecidas-juego-tronos-casa-dragon-intrigas-fantasia-guerreros-1110471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/witcher-temporada-2-2558817.jpg' alt='7 series parecidas a Juego de Tronos y La Casa Del Dragón: intrigas, fantasía, guerreros...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885'>El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas </a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas ' />
     </a>
 </div>
 
