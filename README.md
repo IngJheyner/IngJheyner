@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891'>La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-series-parecidas-juego-tronos-casa-dragon-intrigas-fantasia-guerreros-1110471'>7 series parecidas a Juego de Tronos y La Casa Del Dragón: intrigas, fantasía, guerreros...</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-series-parecidas-juego-tronos-casa-dragon-intrigas-fantasia-guerreros-1110471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/witcher-temporada-2-2558817.jpg' alt='7 series parecidas a Juego de Tronos y La Casa Del Dragón: intrigas, fantasía, guerreros...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885'>El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas </a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879'>Google culpa a los fabricantes de coches por este error en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Google culpa a los fabricantes de coches por este error en Android Auto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875'>Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592601.jpg' alt='Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/6-cosas-estan-ralentizando-wi-fi-como-arreglarlo-1109741'>6 cosas que están ralentizando tu Wi-Fi y cómo arreglarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/6-cosas-estan-ralentizando-wi-fi-como-arreglarlo-1109741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2786559.jpg' alt='6 cosas que están ralentizando tu Wi-Fi y cómo arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667'>¿Qué es la Ley MiCA para la regulación de las criptomonedas?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='¿Qué es la Ley MiCA para la regulación de las criptomonedas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475'>Sony LinkBuds S, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-linkbuds-s-2704737.jpg' alt='Sony LinkBuds S, análisis y opinión' />
     </a>
 </div>
 
