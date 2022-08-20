@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429'>Mejores cámaras analógicas para nuevas generaciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camara-analogica-kodak-carrete-mochila-parte-trasera-2789603.jpg' alt='Mejores cámaras analógicas para nuevas generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tamano-no-importa-sino-como-usas-1109839'>El tamaño no importa, sino cómo la usas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tamano-no-importa-sino-como-usas-1109839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camaras-verdad-2786757.jpg' alt='El tamaño no importa, sino cómo la usas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845'>Signos de que te estás sobremedicando, según un farmacólogo</a></h4>
     <a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/signos-te-estas-sobremedicando-farmacologo-2790185.jpg' alt='Signos de que te estás sobremedicando, según un farmacólogo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379'>Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-javascript-2787613.jpg' alt='Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403'>¿Qué vino antes los aviones o los aviones de papel?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vino-antes-aviones-aviones-papel-2789463.jpg' alt='¿Qué vino antes los aviones o los aviones de papel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063'>Cecotec Conga: guía completa para entender toda la gama de robots aspiradores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-conga-999-vital-2573207.jpg' alt='Cecotec Conga: guía completa para entender toda la gama de robots aspiradores' />
     </a>
 </div>
 
