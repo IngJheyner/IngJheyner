@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907'>Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-2790265.jpg' alt='Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901'>Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885'>El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas </a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/nuevo-plan-publicidad-netflix-no-mostrara-anuncios-programas-infantiles-ni-tampoco-ciertas-peliculas-1111885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='El nuevo plan con publicidad de Netflix no mostrará anuncios en los programas infantiles ni tampoco en ciertas películas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879'>Google culpa a los fabricantes de coches por este error en Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Google culpa a los fabricantes de coches por este error en Android Auto' />
     </a>
 </div>
 
