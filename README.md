@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403'>¿Qué vino antes los aviones o los aviones de papel?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vino-antes-aviones-aviones-papel-1111403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vino-antes-aviones-aviones-papel-2789463.jpg' alt='¿Qué vino antes los aviones o los aviones de papel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063'>Cecotec Conga: guía completa para entender toda la gama de robots aspiradores</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-conga-999-vital-2573207.jpg' alt='Cecotec Conga: guía completa para entender toda la gama de robots aspiradores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769'>Infladores portátiles, lo que debes saber para elegir correctamente </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/infladores-portatiles-2785105.jpg' alt='Infladores portátiles, lo que debes saber para elegir correctamente ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635'>Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/banda-sonora-senor-anillos-anillos-poder-nuevo-tema-howard-shore-1111635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ya-puedes-escuchar-banda-sonora-anillos-poder-incluyendo-nuevo-tema-howard-shore-2790001.jpg' alt='Ya puedes escuchar la banda sonora de Los Anillos de Poder, incluyendo el nuevo tema de Howard Shore' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631'>Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-sonido-hifi-descuento-1111631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-inalambricos-baseus-bowie-wm05-anc-cancelacion-ruido-bajan-52-quedan-precio-chollo-2789983.jpg' alt='Los auriculares inalámbricos Baseus Bowie WM05 ANC con cancelación de ruido y sonido HiFi, con un descuento del 52%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625'>La DGT cambia la forma de notificar las multas a partir de noviembre</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='La DGT cambia la forma de notificar las multas a partir de noviembre' />
     </a>
 </div>
 
