@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769'>Infladores portátiles, lo que debes saber para elegir correctamente </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/infladores-portatiles-2785105.jpg' alt='Infladores portátiles, lo que debes saber para elegir correctamente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639'>Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s23-ultra-camara-200-mpx-1111639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='Samsung dará el salto a los 200 Mpx con la cámara del Galaxy S23 Ultra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625'>La DGT cambia la forma de notificar las multas a partir de noviembre</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-cambia-forma-notificar-multas-partir-noviembre-1111625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/multa-trafico-2557909.jpg' alt='La DGT cambia la forma de notificar las multas a partir de noviembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619'>Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-35-aplicaciones-maliciosas-han-infectado-millones-telefonos-android-podrias-tener-alguna-instalada-1111619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/android-malware-2495409.jpg' alt='Estas 35 aplicaciones maliciosas han infectado a millones de teléfonos Android y podrías tener alguna instalada' />
     </a>
 </div>
 
