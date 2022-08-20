@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879'>Google culpa a los fabricantes de coches por este error en Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Google culpa a los fabricantes de coches por este error en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875'>Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592601.jpg' alt='Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475'>Sony LinkBuds S, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-linkbuds-s-2704737.jpg' alt='Sony LinkBuds S, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429'>Mejores cámaras analógicas para nuevas generaciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camara-analogica-kodak-carrete-mochila-parte-trasera-2789603.jpg' alt='Mejores cámaras analógicas para nuevas generaciones' />
     </a>
 </div>
 
