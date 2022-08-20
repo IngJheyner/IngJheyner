@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901'>Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891'>La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-band-7-baja-precio-rompe-barrera-45-euros-oferta-1111891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-band-7-2710997.jpg' alt='La Xiaomi Mi Band 7 baja de precio y rompe la barrera de los 45 euros en esta oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879'>Google culpa a los fabricantes de coches por este error en Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-culpa-fabricantes-coches-error-android-auto-1111879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2600563.jpg' alt='Google culpa a los fabricantes de coches por este error en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875'>Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592601.jpg' alt='Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos' />
     </a>
 </div>
 
