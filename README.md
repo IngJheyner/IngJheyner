@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951'>Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/zapatillas-oficiales-heineken-cerveza-suelas-puedes-beber-2790383.jpg' alt='Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941'>WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105'>Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/luz-inteligente-2785583.jpg' alt='Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907'>Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-2790265.jpg' alt='Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil' />
     </a>
 </div>
 
