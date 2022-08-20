@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875'>Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/misteriosa-actualizacion-estan-recibiendo-samsung-galaxy-antiguos-1111875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/samsung-galaxy-s21-fe-analisis-opinion-2592601.jpg' alt='Esta es la misteriosa actualización que están recibiendo los Samsung Galaxy antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/6-cosas-estan-ralentizando-wi-fi-como-arreglarlo-1109741'>6 cosas que están ralentizando tu Wi-Fi y cómo arreglarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/6-cosas-estan-ralentizando-wi-fi-como-arreglarlo-1109741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2786559.jpg' alt='6 cosas que están ralentizando tu Wi-Fi y cómo arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667'>¿Qué es la Ley MiCA para la regulación de las criptomonedas?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='¿Qué es la Ley MiCA para la regulación de las criptomonedas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429'>Mejores cámaras analógicas para nuevas generaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camara-analogica-kodak-carrete-mochila-parte-trasera-2789603.jpg' alt='Mejores cámaras analógicas para nuevas generaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tamano-no-importa-sino-como-usas-1109839'>El tamaño no importa, sino cómo la usas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tamano-no-importa-sino-como-usas-1109839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camaras-verdad-2786757.jpg' alt='El tamaño no importa, sino cómo la usas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845'>Signos de que te estás sobremedicando, según un farmacólogo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/signos-te-estas-sobremedicando-farmacologo-2790185.jpg' alt='Signos de que te estás sobremedicando, según un farmacólogo' />
     </a>
 </div>
 
