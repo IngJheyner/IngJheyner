@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667'>¿Qué es la Ley MiCA para la regulación de las criptomonedas?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ley-mica-1102667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/era-experimentacion-criptomonedas-trabas-estafas-descontroladas-podria-estar-vias-extincion-2751081.jpg' alt='¿Qué es la Ley MiCA para la regulación de las criptomonedas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475'>Sony LinkBuds S, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-linkbuds-s-review-opinion-1108475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-linkbuds-s-2704737.jpg' alt='Sony LinkBuds S, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429'>Mejores cámaras analógicas para nuevas generaciones</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-camaras-analogicas-35mm-1111429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/camara-analogica-kodak-carrete-mochila-parte-trasera-2789603.jpg' alt='Mejores cámaras analógicas para nuevas generaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845'>Signos de que te estás sobremedicando, según un farmacólogo</a></h4>
     <a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/signos-te-estas-sobremedicando-farmacologo-2790185.jpg' alt='Signos de que te estás sobremedicando, según un farmacólogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031'>Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bien-funciona-panel-invisibilidad-puro-estilo-harry-potter-2788839.jpg' alt='Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379'>Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-edx-aprender-programar-1110379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-javascript-2787613.jpg' alt='Mejores cursos de edX para aprender a programar en inglés y español (y muchos son gratis)' />
     </a>
 </div>
 
