@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845'>Signos de que te estás sobremedicando, según un farmacólogo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sintomas-sobremedicacion-1111845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/signos-te-estas-sobremedicando-farmacologo-2790185.jpg' alt='Signos de que te estás sobremedicando, según un farmacólogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031'>Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/panel-invisibilidad-capa-invisibilidad-harry-potter-1111031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bien-funciona-panel-invisibilidad-puro-estilo-harry-potter-2788839.jpg' alt='Así de bien funciona un panel de invisibilidad, ¡al más puro estilo Harry Potter!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063'>Cecotec Conga: guía completa para entender toda la gama de robots aspiradores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/cecotec-conga-guia-completa-entender-toda-gama-robots-aspiradores-1109063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cecotec-conga-999-vital-2573207.jpg' alt='Cecotec Conga: guía completa para entender toda la gama de robots aspiradores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769'>Infladores portátiles, lo que debes saber para elegir correctamente </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/infladores-portatiles-debes-saber-elegir-correctamente-1108769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/infladores-portatiles-2785105.jpg' alt='Infladores portátiles, lo que debes saber para elegir correctamente ' />
     </a>
 </div>
 
