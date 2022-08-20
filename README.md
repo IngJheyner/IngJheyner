@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941'>WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909'>Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907'>Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-1111907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/propietario-tesla-implanta-chip-mano-desbloquear-coche-no-depender-movil-2790265.jpg' alt='Este propietario de un Tesla se implanta un chip en su mano para desbloquear su coche y no depender del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901'>Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-extiende-programa-reparacion-iphone-12-problemas-sonido-1111901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-pro-2613419.jpg' alt='Apple extiende el programa de reparación para los iPhone 12 con problemas de sonido' />
     </a>
 </div>
 
