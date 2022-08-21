@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Rapsberry Pi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Rapsberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267'>Amazon produce un reality show con metraje de sus timbres con cámara Ring</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='Amazon produce un reality show con metraje de sus timbres con cámara Ring' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261'>PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg' alt='PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757'>Placas solares, lo que necesitas saber para empezar con el autoconsumo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785049.jpg' alt='Placas solares, lo que necesitas saber para empezar con el autoconsumo' />
     </a>
 </div>
 
