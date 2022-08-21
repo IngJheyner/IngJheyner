@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265'>Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mark-zuckerberg-actualiza-avatar-metaverso-despues-convirtiera-meme-humoristico-anuncian-mejoras-graficas-2790777.jpg' alt='Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-procesador-ryzen-menos-500-euros-1111927'>Portátiles con procesador Ryzen baratos de menos de 500€ que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-procesador-ryzen-menos-500-euros-1111927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-mesa-escritorio-2790609.jpg' alt='Portátiles con procesador Ryzen baratos de menos de 500€ que merecen mucho la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235'>OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660954261133-2790691.jpg' alt='OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229'>Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg' alt='Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón' />
     </a>
 </div>
 
