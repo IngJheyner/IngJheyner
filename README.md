@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913'>Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monte-kilimanjaro-2790271.jpg' alt='Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/ofertas-ikea-vuelta-cole-1111915'>10 ofertas de IKEA para la vuelta al cole que deberías ir encargando</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/ofertas-ikea-vuelta-cole-1111915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/combinacion-productos-ikea-habitacion-2790297.jpg' alt='10 ofertas de IKEA para la vuelta al cole que deberías ir encargando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/exoesqueleto-serpientes-puedan-andar-aterrador-1112167'>Construyen un exoesqueleto para que las serpientes puedan andar, y es aterrador</a></h4>
     <a href='https://computerhoy.com/noticias/life/exoesqueleto-serpientes-puedan-andar-aterrador-1112167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/construyen-exoesqueleto-serpientes-puedan-andar-aterrador-2790583.jpg' alt='Construyen un exoesqueleto para que las serpientes puedan andar, y es aterrador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951'>Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas</a></h4>
     <a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/zapatillas-oficiales-heineken-cerveza-suelas-puedes-beber-2790383.jpg' alt='Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941'>WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ahora-quiere-ofrecerte-estado-amigos-propia-lista-chats-1111941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='WhatsApp ahora quiere ofrecerte el estado de tus amigos desde la propia lista de chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909'>Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio' />
     </a>
 </div>
 
