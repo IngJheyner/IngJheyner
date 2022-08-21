@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235'>OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660954261133-2790691.jpg' alt='OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229'>Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg' alt='Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337'>7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-2787957.jpg' alt='7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205'>Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento' />
     </a>
 </div>
 
