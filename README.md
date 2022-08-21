@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401'>Waze vs Google Maps, cuál es mejor para viajar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/waze-vs-google-maps-2789453.jpg' alt='Waze vs Google Maps, cuál es mejor para viajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-1109087'>¿Somos demasiado dependientes de la tecnología? 10 hechos que lo demuestran y sus peligros</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-1109087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-2787895.jpg' alt='¿Somos demasiado dependientes de la tecnología? 10 hechos que lo demuestran y sus peligros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913'>Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monte-kilimanjaro-2790271.jpg' alt='Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/ofertas-ikea-vuelta-cole-1111915'>10 ofertas de IKEA para la vuelta al cole que deberías ir encargando</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/ofertas-ikea-vuelta-cole-1111915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/combinacion-productos-ikea-habitacion-2790297.jpg' alt='10 ofertas de IKEA para la vuelta al cole que deberías ir encargando' />
     </a>
 </div>
 
