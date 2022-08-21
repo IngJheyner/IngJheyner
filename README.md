@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261'>PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg' alt='PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757'>Placas solares, lo que necesitas saber para empezar con el autoconsumo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785049.jpg' alt='Placas solares, lo que necesitas saber para empezar con el autoconsumo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235'>OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660954261133-2790691.jpg' alt='OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219'>Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir</a></h4>
     <a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pizza-atun-congelada-2790679.jpg' alt='Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213'>Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337'>7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-2787957.jpg' alt='7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera' />
     </a>
 </div>
 
