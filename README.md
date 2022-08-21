@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887'>ViewSonic XG321UG, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-viewsonic-xg321ug-2786699.jpg' alt='ViewSonic XG321UG, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199'>Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492385.jpg' alt='Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401'>Waze vs Google Maps, cuál es mejor para viajar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/waze-vs-google-maps-2789453.jpg' alt='Waze vs Google Maps, cuál es mejor para viajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299'>Estas son las mejores tablets con Windows 10 que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-windows-10-ofertas-922299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tablet-windows-10-2452869.jpg' alt='Estas son las mejores tablets con Windows 10 que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robots-estilo-r2-d2-patrullan-edificio-gobierno-metropolitano-tokio-1111917'>Robots al estilo R2-D2 patrullan el edificio del gobierno metropolitano en Tokio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robots-estilo-r2-d2-patrullan-edificio-gobierno-metropolitano-tokio-1111917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robots-estilo-r2-d2-patrullan-edificio-gobierno-metropolitano-tokio-2790275.jpg' alt='Robots al estilo R2-D2 patrullan el edificio del gobierno metropolitano en Tokio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913'>Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-puedes-conectarte-internet-alta-velocidad-monte-kilimanjaro-1111913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monte-kilimanjaro-2790271.jpg' alt='Ya puedes conectarte a un Internet de alta velocidad en el Monte Kilimanjaro' />
     </a>
 </div>
 
