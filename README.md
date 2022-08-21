@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267'>Amazon produce un reality show con metraje de sus timbres con cámara Ring</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='Amazon produce un reality show con metraje de sus timbres con cámara Ring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265'>Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mark-zuckerberg-actualiza-avatar-metaverso-despues-convirtiera-meme-humoristico-anuncian-mejoras-graficas-2790777.jpg' alt='Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757'>Placas solares, lo que necesitas saber para empezar con el autoconsumo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/placas-solares-necesitas-saber-empezar-autoconsumo-1108757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paneles-solares-2785049.jpg' alt='Placas solares, lo que necesitas saber para empezar con el autoconsumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235'>OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oceanonek-robot-humanoide-buceador-video-1112235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1660954261133-2790691.jpg' alt='OceanOneK, el robot humanoide buceador que busca tesoros a 1.000 metros de profundidad (vídeo)' />
     </a>
 </div>
 
