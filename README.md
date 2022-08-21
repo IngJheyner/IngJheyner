@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219'>Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir</a></h4>
+    <a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pizza-atun-congelada-2790679.jpg' alt='Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213'>Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887'>ViewSonic XG321UG, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-viewsonic-xg321ug-2786699.jpg' alt='ViewSonic XG321UG, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199'>Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492385.jpg' alt='Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone' />
     </a>
 </div>
 
