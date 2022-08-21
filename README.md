@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213'>Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-gama-media-alta-oneplus-precio-saldo-gracias-oferta-amazon-1112213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-5g-2688805.jpg' alt='Lo mejor de la gama media alta de OnePlus a precio de saldo gracias a esta oferta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337'>7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-1110337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-terror-extraterrestres-te-haran-desconfiar-podemos-encontrar-ahi-fuera-2787957.jpg' alt='7 películas de terror con extraterrestres que te harán desconfiar de lo que podemos encontrar ahí fuera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205'>Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199'>Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-sera-primera-recibir-chips-3nm-tsmc-pero-no-iphone-1112199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-iphone-13-2492385.jpg' alt='Apple será la primera en recibir chips de 3nm de TSMC pero no para el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401'>Waze vs Google Maps, cuál es mejor para viajar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/waze-vs-google-maps-2789453.jpg' alt='Waze vs Google Maps, cuál es mejor para viajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-1109087'>¿Somos demasiado dependientes de la tecnología? 10 hechos que lo demuestran y sus peligros</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-1109087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-2787895.jpg' alt='¿Somos demasiado dependientes de la tecnología? 10 hechos que lo demuestran y sus peligros' />
     </a>
 </div>
 
