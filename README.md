@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/guia-consejos-todo-debes-saber-comprar-inodoro-caravana-1105565'>Guía, consejos y todo lo que debes saber para comprar un inodoro para una caravana</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/guia-consejos-todo-debes-saber-comprar-inodoro-caravana-1105565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/caravana-2779353.jpg' alt='Guía, consejos y todo lo que debes saber para comprar un inodoro para una caravana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951'>Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas</a></h4>
     <a href='https://computerhoy.com/noticias/life/heinekicks-zapatillas-oficiales-heineken-suelas-cerveza-1111951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/zapatillas-oficiales-heineken-cerveza-suelas-puedes-beber-2790383.jpg' alt='Heinekicks, las zapatillas oficiales de Heineken con cerveza en las suelas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491'>Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bebe-recien-nacido-bostezando-2789881.jpg' alt='Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105'>Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/enchufes-inteligentes-debes-saber-elegir-mejor-ahorrar-energia-1109105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/luz-inteligente-2785583.jpg' alt='Enchufes inteligentes, lo que debes saber para elegir el mejor y ahorrar energía' />
     </a>
 </div>
 
