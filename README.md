@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229'>Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tinder-no-consigue-atraer-generaciones-jovenes-hay-razon-1112229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg' alt='Tinder no consigue atraer a las generaciones mas jóvenes y hay una razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219'>Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir</a></h4>
     <a href='https://computerhoy.com/noticias/life/retiran-mercado-conocida-pizza-congelada-atun-debes-evitar-consumir-1112219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pizza-atun-congelada-2790679.jpg' alt='Retiran del mercado esta conocida pizza congelada de atún que debes evitar consumir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205'>Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ninguna-serie-hbo-max-estaria-salvo-cancelacion-cualquier-momento-1112205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hbo-max-2778919.jpg' alt='Ninguna serie de HBO Max estaría a salvo de una cancelación en cualquier momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887'>ViewSonic XG321UG, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/viewsonic-xg321ug-review-opinion-1110887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-viewsonic-xg321ug-2786699.jpg' alt='ViewSonic XG321UG, análisis y opinión' />
     </a>
 </div>
 
