@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/exoesqueleto-serpientes-puedan-andar-aterrador-1112167'>Construyen un exoesqueleto para que las serpientes puedan andar, y es aterrador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/exoesqueleto-serpientes-puedan-andar-aterrador-1112167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/construyen-exoesqueleto-serpientes-puedan-andar-aterrador-2790583.jpg' alt='Construyen un exoesqueleto para que las serpientes puedan andar, y es aterrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/motor/guia-consejos-todo-debes-saber-comprar-inodoro-caravana-1105565'>Guía, consejos y todo lo que debes saber para comprar un inodoro para una caravana</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/guia-consejos-todo-debes-saber-comprar-inodoro-caravana-1105565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/caravana-2779353.jpg' alt='Guía, consejos y todo lo que debes saber para comprar un inodoro para una caravana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909'>Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/botones-fisicos-automoviles-son-seguros-rapidos-usar-pantallas-tactiles-estudio-1111909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pantalla-tactil-coche-2790267.jpg' alt='Los botones físicos de los automóviles son más seguros y rápidos que usar las pantallas táctiles, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491'>Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/que-debes-saber-mejores-vigilabebes-1111491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bebe-recien-nacido-bostezando-2789881.jpg' alt='Vigilabebés: qué debes tener en cuenta al comprar uno y cuáles son los mejores' />
     </a>
 </div>
 
