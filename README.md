@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-cancion-diferentes-metodos-descubrir-cancion-sonando-1112595'>¿Cuál es esta canción? Diferentes métodos para descubrir qué canción está sonando</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cual-cancion-diferentes-metodos-descubrir-cancion-sonando-1112595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/musica-auriculares.jpg' alt='¿Cuál es esta canción? Diferentes métodos para descubrir qué canción está sonando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611'>Samsung Galaxy Z Fold 4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Samsung Galaxy Z Fold 4, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/tipos-auriculares-37225'>Tipos de auriculares: guía, consejos, diferencias y cuáles son los más adecuados según su uso</a></h4>
     <a href='https://computerhoy.com/guia-compra/tipos-auriculares-37225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/auriculares_0.jpg' alt='Tipos de auriculares: guía, consejos, diferencias y cuáles son los más adecuados según su uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-ser-desarrollador-front-end-dura-7-meses-puede-abrirte-nueva-profesion-1111377'>Este curso para ser desarrollador front-end dura 7 meses y puede abrirte a una nueva profesión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curso-ser-desarrollador-front-end-dura-7-meses-puede-abrirte-nueva-profesion-1111377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-front-end-css-2789413.jpg' alt='Este curso para ser desarrollador front-end dura 7 meses y puede abrirte a una nueva profesión' />
     </a>
 </div>
 
