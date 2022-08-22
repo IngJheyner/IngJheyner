@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537'>La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/supermercado-movil-2520119.jpg' alt='La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/empresa-canadiense-realiza-primer-vuelo-electrico-mundo-punto-punto-avion-comercial-1112483'>Una empresa canadiense realiza el primer vuelo eléctrico del mundo de punto a punto con un avión comercial</a></h4>
+    <a href='https://computerhoy.com/noticias/life/empresa-canadiense-realiza-primer-vuelo-electrico-mundo-punto-punto-avion-comercial-1112483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/avion-2790979.jpg' alt='Una empresa canadiense realiza el primer vuelo eléctrico del mundo de punto a punto con un avión comercial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackear-satelites-practica-decadas-antiguedad-1112533'>Hackear satélites: una práctica con décadas de antigüedad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackear-satelites-practica-decadas-antiguedad-1112533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='Hackear satélites: una práctica con décadas de antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-22-agosto-2022-1110871'>El móvil más potente de Xiaomi tiene ya más de 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-22-agosto-2022-1110871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695467.jpg' alt='El móvil más potente de Xiaomi tiene ya más de 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475'>The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/last-us-ellie-joel-2229113.jpg' alt='The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelta-cole-aliexpress-estos-cupones-descuento-1110849'>Vuelta al Cole de AliExpress: estos son los cupones descuento para comprar más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vuelta-cole-aliexpress-estos-cupones-descuento-1110849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aliexpress-2132117.jpg' alt='Vuelta al Cole de AliExpress: estos son los cupones descuento para comprar más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231'>Las mejores ofertas de la semana</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Las mejores ofertas de la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1112451'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1112451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2790957.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi' />
     </a>
 </div>
 
