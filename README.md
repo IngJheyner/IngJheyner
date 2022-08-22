@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731'>¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-1112777'>El robot de limpieza Xiaomi Vacuum Mop 2S con tecnología láser, baja a solo 180 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-1112777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-2792153.jpg' alt='El robot de limpieza Xiaomi Vacuum Mop 2S con tecnología láser, baja a solo 180 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/modo-imax-disney-necesitas-poder-activarlo-1112701'>Qué es el modo IMAX de Disney+ y qué necesitas para poder activarlo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/modo-imax-disney-necesitas-poder-activarlo-1112701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/disney-deja-ofrecer-prueba-gratuita-plataforma-1971701.jpg' alt='Qué es el modo IMAX de Disney+ y qué necesitas para poder activarlo' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769'>Disney+ anuncia el Disney+ Day con nuevos estrenos y ventajas especiales para los suscriptores</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769'>Disney+ anuncia el Disney+ Day con una avalancha de estrenos, incluyendo Thor: Love and Thunder</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-disney-day-nuevos-estrenos-ventajas-especiales-suscriptores-2792149.jpg' alt='Disney+ anuncia el Disney+ Day con nuevos estrenos y ventajas especiales para los suscriptores' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-disney-day-nuevos-estrenos-ventajas-especiales-suscriptores-2792149.jpg' alt='Disney+ anuncia el Disney+ Day con una avalancha de estrenos, incluyendo Thor: Love and Thunder' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757'>La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tierra-sol-2792101.jpg' alt='La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-nuevo-phishing-muy-convincente-utiliza-paypal-como-gancho-1112755'>Alerta por un nuevo phishing muy convincente que utiliza PayPal como gancho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alerta-nuevo-phishing-muy-convincente-utiliza-paypal-como-gancho-1112755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg' alt='Alerta por un nuevo phishing muy convincente que utiliza PayPal como gancho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/quien-tiene-culpa-accidente-coche-autonomo-ley-reino-unido-fabricante-1112751'>¿Quién tiene la culpa en un accidente de coche autónomo? En el Reino Unido ya han dictado sentencia por ley</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/quien-tiene-culpa-accidente-coche-autonomo-ley-reino-unido-fabricante-1112751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/quien-tiene-culpa-accidente-coche-autonomo-reino-unido-ya-han-dictado-sentencia-2792041.jpg' alt='¿Quién tiene la culpa en un accidente de coche autónomo? En el Reino Unido ya han dictado sentencia por ley' />
     </a>
 </div>
 
