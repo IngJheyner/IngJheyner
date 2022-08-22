@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/avion-oculto-mitad-selva-google-maps-todo-mundo-busca-explicacion-1112657'>El avión oculto en mitad de la selva de Google Maps al que todo el mundo busca una explicación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/avion-oculto-mitad-selva-google-maps-todo-mundo-busca-explicacion-1112657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/avion-sostenibilidad-medio-ambiente-2753675.jpg' alt='El avión oculto en mitad de la selva de Google Maps al que todo el mundo busca una explicación' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611'>Samsung Galaxy Z Fold 4, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Samsung Galaxy Z Fold 4, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-beta-autopilot-sorpresa-incremento-no-pequeno-1112635'>Tesla sube el precio de su beta de Autopilot por sorpresa, y el incremento no es pequeño</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-beta-autopilot-sorpresa-incremento-no-pequeno-1112635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tesla-autopilot-1930629.jpg' alt='Tesla sube el precio de su beta de Autopilot por sorpresa, y el incremento no es pequeño' />
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631'>Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567'>8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg' alt='8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-star-wars-orden-correcto-visualizacion-1112663'>Cómo ver las películas de Star Wars y orden correcto de visualización</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-star-wars-orden-correcto-visualizacion-1112663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/star-wars-2791631.jpg' alt='Cómo ver las películas de Star Wars y orden correcto de visualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-oferta-22-agosto-2022-1110905'>Un reloj de running de Xiaomi y a precio de ganga: el Mi Watch, rebajado a 80 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-oferta-22-agosto-2022-1110905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232475.jpg' alt='Un reloj de running de Xiaomi y a precio de ganga: el Mi Watch, rebajado a 80 euros' />
+    <h4><a href='https://computerhoy.com/guia-compra/tipos-auriculares-37225'>Tipos de auriculares: guía, consejos, diferencias y cuáles son los más adecuados según su uso</a></h4>
+    <a href='https://computerhoy.com/guia-compra/tipos-auriculares-37225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/auriculares_0.jpg' alt='Tipos de auriculares: guía, consejos, diferencias y cuáles son los más adecuados según su uso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581'>Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/coronavirus-2116395.jpg' alt='Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/curso-ser-desarrollador-front-end-dura-7-meses-puede-abrirte-nueva-profesion-1111377'>Este curso para ser desarrollador front-end dura 7 meses y puede abrirte a una nueva profesión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/curso-ser-desarrollador-front-end-dura-7-meses-puede-abrirte-nueva-profesion-1111377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-front-end-css-2789413.jpg' alt='Este curso para ser desarrollador front-end dura 7 meses y puede abrirte a una nueva profesión' />
     </a>
 </div>
 
