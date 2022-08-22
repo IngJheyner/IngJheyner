@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vesa-anuncia-estandar-clearmr-difuminado-imagen-movimiento-blur-monitores-1112781'>VESA anuncia el estándar ClearMR para medir el difuminado de la imagen en movimiento de los monitores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vesa-anuncia-estandar-clearmr-difuminado-imagen-movimiento-blur-monitores-1112781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vesa-anuncia-estandar-clearmr-medir-difuminado-imagen-movimiento-monitores-2792161.jpg' alt='VESA anuncia el estándar ClearMR para medir el difuminado de la imagen en movimiento de los monitores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731'>¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769'>Disney+ anuncia el Disney+ Day con una avalancha de estrenos, incluyendo Thor: Love and Thunder</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-disney-day-nuevos-estrenos-ventajas-especiales-suscriptores-2792149.jpg' alt='Disney+ anuncia el Disney+ Day con una avalancha de estrenos, incluyendo Thor: Love and Thunder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757'>La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tierra-sol-2792101.jpg' alt='La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra' />
     </a>
 </div>
 
