@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567'>8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg' alt='8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-oferta-22-agosto-2022-1110905'>Un reloj de running de Xiaomi y a precio de ganga: el Mi Watch, rebajado a 80 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-watch-oferta-22-agosto-2022-1110905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-xiaomi-mi-watch-2232475.jpg' alt='Un reloj de running de Xiaomi y a precio de ganga: el Mi Watch, rebajado a 80 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581'>Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/coronavirus-2116395.jpg' alt='Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569'>Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-rss-google-chrome-ya-listo-version-escritorio-1112501'>El lector RSS de Google Chrome ya está listo para la versión de escritorio </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lector-rss-google-chrome-ya-listo-version-escritorio-1112501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/rss-2791081.jpg' alt='El lector RSS de Google Chrome ya está listo para la versión de escritorio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537'>La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/supermercado-movil-2520119.jpg' alt='La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado' />
     </a>
 </div>
 
