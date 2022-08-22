@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-caracteres-especiales-google-docs-word-1112715'>Cómo insertar caracteres especiales en Google Docs y Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-caracteres-especiales-google-docs-word-1112715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo insertar caracteres especiales en Google Docs y Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/sencilla-tecnica-sacar-coche-plaza-muy-estrecha-morir-intento-1112673'>La sencilla técnica para sacar el coche de una plaza muy estrecha sin morir en intento</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sencilla-tecnica-sacar-coche-plaza-muy-estrecha-morir-intento-1112673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/4-trucos-definitivos-aparcar-cuando-no-hay-sitio-psicologo-comportamiento-2600445.jpg' alt='La sencilla técnica para sacar el coche de una plaza muy estrecha sin morir en intento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631'>Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-star-wars-orden-correcto-visualizacion-1112663'>Cómo ver las películas de Star Wars y orden correcto de visualización</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-star-wars-orden-correcto-visualizacion-1112663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/star-wars-2791631.jpg' alt='Cómo ver las películas de Star Wars y orden correcto de visualización' />
     </a>
 </div>
 
