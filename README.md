@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231'>Las mejores ofertas de la semana</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Las mejores ofertas de la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1112451'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1112451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2790957.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265'>Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mark-zuckerberg-actualiza-avatar-metaverso-despues-convirtiera-meme-humoristico-anuncian-mejoras-graficas-2790777.jpg' alt='Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-procesador-ryzen-menos-500-euros-1111927'>Portátiles con procesador Ryzen baratos de menos de 500€ que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-procesador-ryzen-menos-500-euros-1111927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-mesa-escritorio-2790609.jpg' alt='Portátiles con procesador Ryzen baratos de menos de 500€ que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261'>PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/powertoys-windows-powerocr-reconocedor-optico-caracteres-1112261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg' alt='PowerToys para Windows añade una opción muy útil si no te gusta teclear, y otras herramientas' />
     </a>
 </div>
 
