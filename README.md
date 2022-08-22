@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581'>Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/coronavirus-2116395.jpg' alt='Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/101-millones-tokens-shiba-inu-destruidos-sola-transaccion-hacen-saltar-alarmas-1112529'>101 millones de tokens Shiba Inu destruidos en una sola transacción hacen saltar las alarmas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/101-millones-tokens-shiba-inu-destruidos-sola-transaccion-hacen-saltar-alarmas-1112529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg' alt='101 millones de tokens Shiba Inu destruidos en una sola transacción hacen saltar las alarmas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569'>Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lector-rss-google-chrome-ya-listo-version-escritorio-1112501'>El lector RSS de Google Chrome ya está listo para la versión de escritorio </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lector-rss-google-chrome-ya-listo-version-escritorio-1112501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/rss-2791081.jpg' alt='El lector RSS de Google Chrome ya está listo para la versión de escritorio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537'>La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado</a></h4>
     <a href='https://computerhoy.com/noticias/life/lista-inversa-metodo-ahorrar-tiempo-mucho-dinero-visitas-supermercado-1112537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/supermercado-movil-2520119.jpg' alt='La lista inversa, el método para ahorrar tiempo y mucho dinero en tus visitas al supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/empresa-canadiense-realiza-primer-vuelo-electrico-mundo-punto-punto-avion-comercial-1112483'>Una empresa canadiense realiza el primer vuelo eléctrico del mundo de punto a punto con un avión comercial</a></h4>
-    <a href='https://computerhoy.com/noticias/life/empresa-canadiense-realiza-primer-vuelo-electrico-mundo-punto-punto-avion-comercial-1112483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/avion-2790979.jpg' alt='Una empresa canadiense realiza el primer vuelo eléctrico del mundo de punto a punto con un avión comercial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackear-satelites-practica-decadas-antiguedad-1112533'>Hackear satélites: una práctica con décadas de antigüedad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackear-satelites-practica-decadas-antiguedad-1112533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/satelite-tierra-2446745.jpg' alt='Hackear satélites: una práctica con décadas de antigüedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-22-agosto-2022-1110871'>El móvil más potente de Xiaomi tiene ya más de 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-22-agosto-2022-1110871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-xiaomi-12-2695467.jpg' alt='El móvil más potente de Xiaomi tiene ya más de 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475'>The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/last-us-ellie-joel-2229113.jpg' alt='The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera' />
     </a>
 </div>
 
