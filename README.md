@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475'>The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/last-us-serie-hbo-max-publica-primer-trailer-anos-espera-1112475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/last-us-ellie-joel-2229113.jpg' alt='The Last of Us, la serie de HBO Max, publica su primer tráiler tras años de espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vuelta-cole-aliexpress-estos-cupones-descuento-1110849'>Vuelta al Cole de AliExpress: estos son los cupones descuento para comprar más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vuelta-cole-aliexpress-estos-cupones-descuento-1110849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aliexpress-2132117.jpg' alt='Vuelta al Cole de AliExpress: estos son los cupones descuento para comprar más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231'>Las mejores ofertas de la semana</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-semana-1112231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-analisis-opinion-2283915.jpg' alt='Las mejores ofertas de la semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267'>Amazon produce un reality show con metraje de sus timbres con cámara Ring</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ring-nation-reality-show-timbres-camara-ring-amazon-1112267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='Amazon produce un reality show con metraje de sus timbres con cámara Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265'>Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mark-zuckerberg-actualiza-avatar-metaverso-horizon-worlds-1112265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mark-zuckerberg-actualiza-avatar-metaverso-despues-convirtiera-meme-humoristico-anuncian-mejoras-graficas-2790777.jpg' alt='Mark Zuckerberg actualiza su avatar del metaverso después de convertirse en meme humorístico, y anuncia mejoras gráficas' />
     </a>
 </div>
 
