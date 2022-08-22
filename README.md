@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Rapsberry Pi</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269'>Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/timbre-gatos-inteligencia-artificial-rapsberry-pi-1112269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Rapsberry Pi' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/inventan-timbre-ia-gatos-solo-abre-puerta-maullidos-puedes-hacerlo-mismo-rapsberry-pi-2790783.jpg' alt='Inventan un timbre con IA para gatos que solo abre la puerta a los maullidos, y puedes hacerlo tú mismo con una Raspberry Pi' />
     </a>
 </div>
 
