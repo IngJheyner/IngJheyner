@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/avion-oculto-mitad-selva-google-maps-todo-mundo-busca-explicacion-1112657'>El avión oculto en mitad de la selva de Google Maps al que todo el mundo busca una explicación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/avion-oculto-mitad-selva-google-maps-todo-mundo-busca-explicacion-1112657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/avion-sostenibilidad-medio-ambiente-2753675.jpg' alt='El avión oculto en mitad de la selva de Google Maps al que todo el mundo busca una explicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-beta-autopilot-sorpresa-incremento-no-pequeno-1112635'>Tesla sube el precio de su beta de Autopilot por sorpresa, y el incremento no es pequeño</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-beta-autopilot-sorpresa-incremento-no-pequeno-1112635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/tesla-autopilot-1930629.jpg' alt='Tesla sube el precio de su beta de Autopilot por sorpresa, y el incremento no es pequeño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567'>8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/8-moviles-xiaomi-quedan-soporte-actualizaciones-oficiales-ellos-1112567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-redmi-note-11s-2786489.jpg' alt='8 móviles Xiaomi se quedan sin soporte y actualizaciones oficiales: ¿es el tuyo uno de ellos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581'>Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus</a></h4>
     <a href='https://computerhoy.com/noticias/life/cientificos-descubren-llave-maestra-anticuerpos-acabaria-coronavirus-1112581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/coronavirus-2116395.jpg' alt='Científicos descubren la llave maestra de los anticuerpos que acabaría con el coronavirus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/101-millones-tokens-shiba-inu-destruidos-sola-transaccion-hacen-saltar-alarmas-1112529'>101 millones de tokens Shiba Inu destruidos en una sola transacción hacen saltar las alarmas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/101-millones-tokens-shiba-inu-destruidos-sola-transaccion-hacen-saltar-alarmas-1112529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg' alt='101 millones de tokens Shiba Inu destruidos en una sola transacción hacen saltar las alarmas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569'>Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pese-nuevas-teorias-telescopio-james-webb-no-niega-big-bang-1112569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/james-webb-2745581.jpg' alt='Pese a las nuevas teorías, el telescopio James Webb no niega el Big Bang' />
     </a>
 </div>
 
