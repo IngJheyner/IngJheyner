@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-ipad-baja-fin-descuento-30-euros-1111393'>Guerra de precios en el iPad: baja por fin con un descuento de 30 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-ipad-baja-fin-descuento-30-euros-1111393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562497.jpg' alt='Guerra de precios en el iPad: baja por fin con un descuento de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-1112721'>Huawei MateView SE: protección ocular, cobertura del 90% de la gama de colores P3 y resolución Full HD</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-1112721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-2791885.jpg' alt='Huawei MateView SE: protección ocular, cobertura del 90% de la gama de colores P3 y resolución Full HD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-caracteres-especiales-google-docs-word-1112715'>Cómo insertar caracteres especiales en Google Docs y Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-insertar-caracteres-especiales-google-docs-word-1112715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo insertar caracteres especiales en Google Docs y Word' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cual-cancion-diferentes-metodos-descubrir-cancion-sonando-1112595'>¿Cuál es esta canción? Diferentes métodos para descubrir qué canción está sonando</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cual-cancion-diferentes-metodos-descubrir-cancion-sonando-1112595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/musica-auriculares.jpg' alt='¿Cuál es esta canción? Diferentes métodos para descubrir qué canción está sonando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611'>Samsung Galaxy Z Fold 4, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-4-review-opinion-1112611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Samsung Galaxy Z Fold 4, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631'>Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-consume-freidora-aire-otras-preguntas-debes-conocer-antes-hacerte-1112631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg' alt='Cuánto consume una freidora de aire y otras preguntas que debes conocer antes de hacerte con una' />
     </a>
 </div>
 
