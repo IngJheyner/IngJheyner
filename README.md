@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/modo-imax-disney-necesitas-poder-activarlo-1112701'>Qué es el modo IMAX de Disney+ y qué necesitas para poder activarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/modo-imax-disney-necesitas-poder-activarlo-1112701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/disney-deja-ofrecer-prueba-gratuita-plataforma-1971701.jpg' alt='Qué es el modo IMAX de Disney+ y qué necesitas para poder activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769'>Disney+ anuncia el Disney+ Day con nuevos estrenos y ventajas especiales para los suscriptores</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-day-fecha-estrenos-thor-1112769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-anuncia-disney-day-nuevos-estrenos-ventajas-especiales-suscriptores-2792149.jpg' alt='Disney+ anuncia el Disney+ Day con nuevos estrenos y ventajas especiales para los suscriptores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757'>La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra</a></h4>
     <a href='https://computerhoy.com/noticias/life/sonda-espacial-gaia-predice-momento-sol-acabara-tierra-1112757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tierra-sol-2792101.jpg' alt='La sonda espacial Gaia predice el momento en que el Sol acabará con la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/quien-tiene-culpa-accidente-coche-autonomo-ley-reino-unido-fabricante-1112751'>¿Quién tiene la culpa en un accidente de coche autónomo? En el Reino Unido ya han dictado sentencia por ley</a></h4>
     <a href='https://computerhoy.com/noticias/motor/quien-tiene-culpa-accidente-coche-autonomo-ley-reino-unido-fabricante-1112751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/quien-tiene-culpa-accidente-coche-autonomo-reino-unido-ya-han-dictado-sentencia-2792041.jpg' alt='¿Quién tiene la culpa en un accidente de coche autónomo? En el Reino Unido ya han dictado sentencia por ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-ipad-baja-fin-descuento-30-euros-1111393'>Guerra de precios en el iPad: baja por fin con un descuento de 30 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guerra-precios-ipad-baja-fin-descuento-30-euros-1111393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562497.jpg' alt='Guerra de precios en el iPad: baja por fin con un descuento de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-1112721'>Huawei MateView SE: protección ocular, cobertura del 90% de la gama de colores P3 y resolución Full HD</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-1112721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-mateview-proteccion-ocular-cobertura-90-gama-colores-p3-resolucion-full-hd-2791885.jpg' alt='Huawei MateView SE: protección ocular, cobertura del 90% de la gama de colores P3 y resolución Full HD' />
     </a>
 </div>
 
