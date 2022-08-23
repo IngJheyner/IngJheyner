@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1112993'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1112993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2792365.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg' alt='Estos son los mejores móviles calidad precio de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785'>El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-inteligente-limpiar-toda-casa-cuando-estas-muy-ocupado-tener-libre-fin-semana-2792167.jpg' alt='El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vesa-anuncia-estandar-clearmr-difuminado-imagen-movimiento-blur-monitores-1112781'>VESA anuncia el estándar ClearMR para medir el difuminado de la imagen en movimiento de los monitores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vesa-anuncia-estandar-clearmr-difuminado-imagen-movimiento-blur-monitores-1112781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vesa-anuncia-estandar-clearmr-medir-difuminado-imagen-movimiento-monitores-2792161.jpg' alt='VESA anuncia el estándar ClearMR para medir el difuminado de la imagen en movimiento de los monitores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731'>¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocurre-bonos-renfe-viajes-disfrutar-ya-pagados-partir-1-septiembre-1112731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/ave-renfe-tren.jpg' alt='¿Qué ocurre con los bonos de Renfe con viajes sin disfrutar y ya pagados a partir del 1 de septiembre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-1112777'>El robot de limpieza Xiaomi Vacuum Mop 2S con tecnología láser, baja a solo 180 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-1112777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-limpieza-xiaomi-vacuum-mop-2s-tecnologia-laser-baja-solo-180-euros-2792153.jpg' alt='El robot de limpieza Xiaomi Vacuum Mop 2S con tecnología láser, baja a solo 180 euros' />
     </a>
 </div>
 
