@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-oferta-23-agosto-2022-1113085'>El mejor móvil de OnePlus acaba de lanzarse y ya tiene un descuento de 120 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-oferta-23-agosto-2022-1113085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg' alt='El mejor móvil de OnePlus acaba de lanzarse y ya tiene un descuento de 120 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255'>YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-youtube-2616491.jpg' alt='YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239'>Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193'>¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes' />
     </a>
 </div>
 
