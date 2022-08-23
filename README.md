@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-comprar/raspberry-pi-370081'>Guía de compra de Raspberry Pi: modelos, usos, y todo lo que debes saber para comprar este miniordenador</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/raspberry-pi-370081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/raspberry-pi-2226541.jpg' alt='Guía de compra de Raspberry Pi: modelos, usos, y todo lo que debes saber para comprar este miniordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-esperabamos-fuera-tan-bueno-nuevas-imagenes-telescopio-webb-fascinan-nasa-1113093'>"No esperábamos que fuera tan bueno” las nuevas imágenes de telescopio Webb fascinan a la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-esperabamos-fuera-tan-bueno-nuevas-imagenes-telescopio-webb-fascinan-nasa-1113093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/james-webb-jupiter-2792531.jpg' alt='"No esperábamos que fuera tan bueno” las nuevas imágenes de telescopio Webb fascinan a la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anticipa-novedades-nuevo-notebook-pro-120g-anuncia-tres-modelos-smart-tv-x-series-1113095'>Xiaomi anticipa novedades de su nuevo NoteBook Pro 120G y anuncia tres modelos para los Smart TV X Series</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anticipa-novedades-nuevo-notebook-pro-120g-anuncia-tres-modelos-smart-tv-x-series-1113095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-2792535.jpg' alt='Xiaomi anticipa novedades de su nuevo NoteBook Pro 120G y anuncia tres modelos para los Smart TV X Series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-beta-whatsapp-trae-funcion-esperada-comunidades-1113087'>La última beta de WhatsApp trae su función más esperada: las comunidades</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultima-beta-whatsapp-trae-funcion-esperada-comunidades-1113087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-2792525.jpg' alt='La última beta de WhatsApp trae su función más esperada: las comunidades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-prepara-nueva-funcion-copia-apps-moda-generacion-z-1113037'>Instagram prepara una nueva función que copia a una de las apps de moda entre la Generación Z</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/instagram-prepara-nueva-funcion-copia-apps-moda-generacion-z-1113037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Instagram prepara una nueva función que copia a una de las apps de moda entre la Generación Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-te-notificara-pitido-cuando-google-rastree-alguno-datos-1113029'>Esta aplicación te notificará con un pitido cuando Google rastree alguno de tus datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-te-notificara-pitido-cuando-google-rastree-alguno-datos-1113029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-2792401.jpg' alt='Esta aplicación te notificará con un pitido cuando Google rastree alguno de tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cero-programador-java-4-meses-curso-online-edx-1111417'>De cero a programador Java en 4 meses con este curso online de edX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cero-programador-java-4-meses-curso-online-edx-1111417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg' alt='De cero a programador Java en 4 meses con este curso online de edX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023'>Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento' />
     </a>
 </div>
 
