@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311'>Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305'>Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-limitador-velocidad-sera-obligatorio-coches-deja-hacer-conductor-2792955.jpg' alt='Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-superada-pandemia-vuelve-cobrar-ciertas-funciones-videollamadas-meet-1113303'>Google da por superada la pandemia y vuelve a cobrar por ciertas funciones en las videollamadas de Meet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-da-superada-pandemia-vuelve-cobrar-ciertas-funciones-videollamadas-meet-1113303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='Google da por superada la pandemia y vuelve a cobrar por ciertas funciones en las videollamadas de Meet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12t-pro-antes-lanzamiento-oficial-1113283'>Filtradas las especificaciones del Xiaomi 12T Pro antes de su lanzamiento oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtradas-especificaciones-xiaomi-12t-pro-antes-lanzamiento-oficial-1113283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-pro-2749227.jpg' alt='Filtradas las especificaciones del Xiaomi 12T Pro antes de su lanzamiento oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-oferta-23-agosto-2022-1113085'>El mejor móvil de OnePlus acaba de lanzarse y ya tiene un descuento de 120 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-10t-oferta-23-agosto-2022-1113085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg' alt='El mejor móvil de OnePlus acaba de lanzarse y ya tiene un descuento de 120 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255'>YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-youtube-2616491.jpg' alt='YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-celdas-horas-decimales-echar-cuentas-excel-1113265'>Cómo convertir celdas de horas en decimales para echar cuentas en Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-celdas-horas-decimales-echar-cuentas-excel-1113265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Cómo convertir celdas de horas en decimales para echar cuentas en Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-identificar-monedas-1-2-euros-errores-pueden-hacerte-ganar-pequena-fortuna-1113245'>Cómo identificar las monedas de 1 y 2 euros con errores que pueden hacerte ganar una pequeña fortuna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-identificar-monedas-1-2-euros-errores-pueden-hacerte-ganar-pequena-fortuna-1113245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='Cómo identificar las monedas de 1 y 2 euros con errores que pueden hacerte ganar una pequeña fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239'>Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14' />
     </a>
 </div>
 
