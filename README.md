@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351'>Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-paneles-solares-plegables-portatiles-partir-110-euros-pueden-hacerte-ahora-mucho-dinero-factura-luz-2793019.jpg' alt='Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307'>Los 7 consejos para perder menos tiempo en redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/redes-sociales-1866207.jpg' alt='Los 7 consejos para perder menos tiempo en redes sociales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305'>Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-limitador-velocidad-sera-obligatorio-coches-deja-hacer-conductor-2792955.jpg' alt='Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-da-superada-pandemia-vuelve-cobrar-ciertas-funciones-videollamadas-meet-1113303'>Google da por superada la pandemia y vuelve a cobrar por ciertas funciones en las videollamadas de Meet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-da-superada-pandemia-vuelve-cobrar-ciertas-funciones-videollamadas-meet-1113303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/google-meet-2405435.jpg' alt='Google da por superada la pandemia y vuelve a cobrar por ciertas funciones en las videollamadas de Meet' />
     </a>
 </div>
 
