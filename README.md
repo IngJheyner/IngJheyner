@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359'>Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/jetracer-2793083.jpg' alt='Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357'>DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dualsense-edge-2793067.jpg' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-bate-records-hbo-max-fallos-fire-tv-1113327'>La Casa del Dragón bate récords en HBO Max, pero con un punto oscuro que tiene que solucionar ya</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-bate-records-hbo-max-fallos-fire-tv-1113327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casa-dragon-bate-records-hbo-max-pero-punto-oscuro-tiene-solucionar-2792973.jpg' alt='La Casa del Dragón bate récords en HBO Max, pero con un punto oscuro que tiene que solucionar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311'>Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú' />
     </a>
 </div>
 
