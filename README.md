@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357'>DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357' target='_blank'>
-        <img width='30%' src='' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dualsense-edge-2793067.jpg' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
     </a>
 </div>
 
