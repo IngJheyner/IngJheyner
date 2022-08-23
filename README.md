@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357'>DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357' target='_blank'>
+        <img width='30%' src='' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351'>Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-paneles-solares-plegables-portatiles-partir-110-euros-pueden-hacerte-ahora-mucho-dinero-factura-luz-2793019.jpg' alt='Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311'>Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-televisores-google-tv-mejoran-rendimiento-gracias-nueva-opcion-menu-1113311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg' alt='Chromecast y televisores con Google TV mejoran su rendimiento gracias a una nueva opción del menú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305'>Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/limitador-velocidad-obligatorio-asi-funciona-1113305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funciona-limitador-velocidad-sera-obligatorio-coches-deja-hacer-conductor-2792955.jpg' alt='Así funciona el limitador de velocidad que ya es obligatorio en los coches nuevos, ¿qué deja hacer al conductor?' />
     </a>
 </div>
 
