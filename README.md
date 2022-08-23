@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169'>De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/easymaxx-felpudo-antirobos-lidl-oferta-23-agosto-2022-1112773'>Ahórrate sustos de robos con este felpudo antirrobos de Lidl</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/easymaxx-felpudo-antirobos-lidl-oferta-23-agosto-2022-1112773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ahorrate-sustos-robos-felpudo-antirrobos-lidl-2792151.jpg' alt='Ahórrate sustos de robos con este felpudo antirrobos de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119'>El gobierno francés subvenciona con 4.000 euros a sus ciudadanos si cambian su coche de gasolina por una bicicleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='El gobierno francés subvenciona con 4.000 euros a sus ciudadanos si cambian su coche de gasolina por una bicicleta eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbina-eolica-gominola-futuro-renovable-son-ositos-comestibles-1113151'>De turbina eólica a gominola, el futuro de esta renovable son ositos comestibles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/turbina-eolica-gominola-futuro-renovable-son-ositos-comestibles-1113151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/turbina-eolica-2792637.jpg' alt='De turbina eólica a gominola, el futuro de esta renovable son ositos comestibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-identificar-parkinson-respiracion-antes-te-diagnostiquen-1113043'>Esta IA es capaz de identificar el Parkinson con tu respiración antes de que te la diagnostiquen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-identificar-parkinson-respiracion-antes-te-diagnostiquen-1113043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inteligencia-artificial-2767383.jpg' alt='Esta IA es capaz de identificar el Parkinson con tu respiración antes de que te la diagnostiquen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizaciones-windows-11-empezarian-tener-nombres-normales-alegria-todos-1113141'>Las actualizaciones de Windows 11 empezarían a tener nombres normales, para alegría de todos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizaciones-windows-11-empezarian-tener-nombres-normales-alegria-todos-1113141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Las actualizaciones de Windows 11 empezarían a tener nombres normales, para alegría de todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-anade-macbook-air-macbook-pro-programa-reparaciones-autoservicio-1113059'>Apple añade los MacBook Air y MacBook Pro a su programa de reparaciones de autoservicio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-anade-macbook-air-macbook-pro-programa-reparaciones-autoservicio-1113059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-reparando-telefono-movil-2777189.jpg' alt='Apple añade los MacBook Air y MacBook Pro a su programa de reparaciones de autoservicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-pro-oferta-23-agosto-2022-1111443'>Uno de los MacBook Pro más potentes (con M1 Pro) tiene 260 euros de descuento: es el precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-pro-m1-pro-oferta-23-agosto-2022-1111443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/macbook-pro-14-m1-pro-analisis-opinion-2538063.jpg' alt='Uno de los MacBook Pro más potentes (con M1 Pro) tiene 260 euros de descuento: es el precio histórico más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/raspberry-pi-370081'>Guía de compra de Raspberry Pi: modelos, usos, y todo lo que debes saber para comprar este miniordenador</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/raspberry-pi-370081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/raspberry-pi-2226541.jpg' alt='Guía de compra de Raspberry Pi: modelos, usos, y todo lo que debes saber para comprar este miniordenador' />
     </a>
 </div>
 
