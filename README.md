@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023'>Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-escuchando-musica-auriculares-cable-2791147.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785'>El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-inteligente-limpiar-toda-casa-cuando-estas-muy-ocupado-tener-libre-fin-semana-2792167.jpg' alt='El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mini-banera-hinchable-agua-helada-video-1112783'>La mini bañera hinchable de agua helada para usar en cualquier sitio (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mini-banera-hinchable-agua-helada-video-1112783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661206041746-2792165.jpg' alt='La mini bañera hinchable de agua helada para usar en cualquier sitio (vídeo)' />
     </a>
 </div>
 
