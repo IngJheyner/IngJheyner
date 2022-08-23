@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193'>¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-1113133'>El truco del mando para enfriar el coche más rápido que sorprendentemente casi nadie usa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-1113133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-2792617.jpg' alt='El truco del mando para enfriar el coche más rápido que sorprendentemente casi nadie usa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169'>De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119'>El gobierno francés subvenciona con 4.000 euros a sus ciudadanos si cambian su coche de gasolina por una bicicleta eléctrica</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119'>Te dan 4.000 euros por cambiar un coche de gasolina por una bici eléctrica, si vives en Francia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='El gobierno francés subvenciona con 4.000 euros a sus ciudadanos si cambian su coche de gasolina por una bicicleta eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/turbina-eolica-gominola-futuro-renovable-son-ositos-comestibles-1113151'>De turbina eólica a gominola, el futuro de esta renovable son ositos comestibles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/turbina-eolica-gominola-futuro-renovable-son-ositos-comestibles-1113151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/turbina-eolica-2792637.jpg' alt='De turbina eólica a gominola, el futuro de esta renovable son ositos comestibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-identificar-parkinson-respiracion-antes-te-diagnostiquen-1113043'>Esta IA es capaz de identificar el Parkinson con tu respiración antes de que te la diagnostiquen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-capaz-identificar-parkinson-respiracion-antes-te-diagnostiquen-1113043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/inteligencia-artificial-2767383.jpg' alt='Esta IA es capaz de identificar el Parkinson con tu respiración antes de que te la diagnostiquen' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Te dan 4.000 euros por cambiar un coche de gasolina por una bici eléctrica, si vives en Francia' />
     </a>
 </div>
 
