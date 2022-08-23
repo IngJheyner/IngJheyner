@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultima-beta-whatsapp-trae-funcion-esperada-comunidades-1113087'>La última beta de WhatsApp trae su función más esperada: las comunidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultima-beta-whatsapp-trae-funcion-esperada-comunidades-1113087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-2792525.jpg' alt='La última beta de WhatsApp trae su función más esperada: las comunidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-prepara-nueva-funcion-copia-apps-moda-generacion-z-1113037'>Instagram prepara una nueva función que copia a una de las apps de moda entre la Generación Z</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-prepara-nueva-funcion-copia-apps-moda-generacion-z-1113037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/estudio-demuestra-todos-sabemos-semana-instagram-tiktok-reduce-ansiedad-2704427.jpg' alt='Instagram prepara una nueva función que copia a una de las apps de moda entre la Generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aplicacion-te-notificara-pitido-cuando-google-rastree-alguno-datos-1113029'>Esta aplicación te notificará con un pitido cuando Google rastree alguno de tus datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aplicacion-te-notificara-pitido-cuando-google-rastree-alguno-datos-1113029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-2792401.jpg' alt='Esta aplicación te notificará con un pitido cuando Google rastree alguno de tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cero-programador-java-4-meses-curso-online-edx-1111417'>De cero a programador Java en 4 meses con este curso online de edX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cero-programador-java-4-meses-curso-online-edx-1111417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg' alt='De cero a programador Java en 4 meses con este curso online de edX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023'>Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/playstation-vr2-sony-ya-tienen-fecha-lanzamiento-1113023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/sony-desvelas-aspecto-nombre-nuevas-gafas-realidad-virtual-playstation-vr2-son-revolucionarias-2623971.jpg' alt='Las PlayStation VR2 de Sony ya tienen fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-escuchando-musica-auriculares-cable-2791147.jpg' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1112993'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1112993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2792365.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/poco-x4-pro-analisis-opinion-2663735.jpg' alt='Estos son los mejores móviles calidad precio de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785'>El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/truco-inteligente-limpiar-casa-muy-ocupado-libre-fin-semana-1112785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-inteligente-limpiar-toda-casa-cuando-estas-muy-ocupado-tener-libre-fin-semana-2792167.jpg' alt='El truco inteligente para limpiar toda la casa cuando estás muy ocupado, y tener libre el fin de semana' />
     </a>
 </div>
 
