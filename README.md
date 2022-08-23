@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255'>YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-quiere-no-te-pierdas-nada-pronto-podras-ver-cuatro-canales-vez-1113255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movil-youtube-2616491.jpg' alt='YouTube quiere que no te pierdas nada y pronto podrás ver hasta cuatro canales a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-celdas-horas-decimales-echar-cuentas-excel-1113265'>Cómo convertir celdas de horas en decimales para echar cuentas en Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-convertir-celdas-horas-decimales-echar-cuentas-excel-1113265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg' alt='Cómo convertir celdas de horas en decimales para echar cuentas en Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-identificar-monedas-1-2-euros-errores-pueden-hacerte-ganar-pequena-fortuna-1113245'>Cómo identificar las monedas de 1 y 2 euros con errores que pueden hacerte ganar una pequeña fortuna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-identificar-monedas-1-2-euros-errores-pueden-hacerte-ganar-pequena-fortuna-1113245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monedas-2-euros-2778905.jpg' alt='Cómo identificar las monedas de 1 y 2 euros con errores que pueden hacerte ganar una pequeña fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239'>Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-realiza-importante-cambio-fabricacion-nuevos-iphone-14-1113239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Apple realiza un importante cambio en la fabricación de los nuevos iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193'>¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-tiene-razon-ex-ejecutivo-twitter-denuncia-politicas-ciberseguridad-imprudentes-negligentes-1113193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-twitter-2671041.jpg' alt='¿Y si Elon Musk tiene razón? Ex-ejecutivo de Twitter denuncia políticas de ciberseguridad imprudentes y negligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-1113133'>El truco del mando para enfriar el coche más rápido que sorprendentemente casi nadie usa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-1113133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-2792617.jpg' alt='El truco del mando para enfriar el coche más rápido que sorprendentemente casi nadie usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169'>De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/complejo-complejo-dentista-lucha-dentaduras-perfectas-tiktok-1113169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-dientes-perfectos-2792685.jpg' alt='De complejo en complejo: este dentista lucha contra las dentaduras perfectas de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/easymaxx-felpudo-antirobos-lidl-oferta-23-agosto-2022-1112773'>Ahórrate sustos de robos con este felpudo antirrobos de Lidl</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/easymaxx-felpudo-antirobos-lidl-oferta-23-agosto-2022-1112773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ahorrate-sustos-robos-felpudo-antirrobos-lidl-2792151.jpg' alt='Ahórrate sustos de robos con este felpudo antirrobos de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119'>Te dan 4.000 euros por cambiar un coche de gasolina por una bici eléctrica, si vives en Francia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gobierno-frances-subvenciona-4000-euros-ciudadanos-cambian-coche-gasolina-bicicleta-electrica-1113119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/bicicleta-electrica-ciudad-2709693.jpg' alt='Te dan 4.000 euros por cambiar un coche de gasolina por una bici eléctrica, si vives en Francia' />
     </a>
 </div>
 
