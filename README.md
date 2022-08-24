@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Estas son las siete mejores tablets Android que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-realme-pad-mini-2708797.jpg' alt='Estas son las siete mejores tablets Android que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2793273.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357'>DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dualsense-edge-2793067.jpg' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351'>Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-paneles-solares-plegables-portatiles-partir-110-euros-pueden-hacerte-ahora-mucho-dinero-factura-luz-2793019.jpg' alt='Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz' />
     </a>
 </div>
 
