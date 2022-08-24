@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-acaba-romperse-feed-medio-mundo-inundan-post-aleatorios-1113669'>Facebook acaba de romperse: los feed de medio mundo se inundan de post aleatorios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-acaba-romperse-feed-medio-mundo-inundan-post-aleatorios-1113669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-2501033.jpg' alt='Facebook acaba de romperse: los feed de medio mundo se inundan de post aleatorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-gaming-asus-gamescon-2022-ratones-placas-base-monitores-mucho-1113635'>Estas son todas las novedades gaming de ASUS en la Gamescon 2022: ratones, placas base, monitores y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-gaming-asus-gamescon-2022-ratones-placas-base-monitores-mucho-1113635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-g513-2716601.jpg' alt='Estas son todas las novedades gaming de ASUS en la Gamescon 2022: ratones, placas base, monitores y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-nos-permite-ver-oscuridad-eliminar-ruido-imagenes-1113599'>Esta IA de Google nos permite "ver en la oscuridad" al eliminar el ruido de las imágenes </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-google-nos-permite-ver-oscuridad-eliminar-ruido-imagenes-1113599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ia-2793383.jpg' alt='Esta IA de Google nos permite "ver en la oscuridad" al eliminar el ruido de las imágenes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-aire-cecotry-full-inox-5500-oferta-24-agosto-2022-1113079'>La freidora de aire con más capacidad de Cecotec ha bajado de precio, perfecta para familias</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-aire-cecotry-full-inox-5500-oferta-24-agosto-2022-1113079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-capacidad-cecotec-ha-bajado-precio-perfecta-familias-2792503.jpg' alt='La freidora de aire con más capacidad de Cecotec ha bajado de precio, perfecta para familias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-sacarte-abono-gratuito-renfe-paso-paso-online-presencial-incluye-1113603'>Cómo sacarte el abono gratuito de Renfe paso a paso online o presencial y qué incluye</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-sacarte-abono-gratuito-renfe-paso-paso-online-presencial-incluye-1113603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trenes-renfe-ave-2776049.jpg' alt='Cómo sacarte el abono gratuito de Renfe paso a paso online o presencial y qué incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-animal-crossing-nintendo-switch-2792563.jpg' alt='Estas son las mejores consolas portátiles que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Estas son las siete mejores tablets Android que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-realme-pad-mini-2708797.jpg' alt='Estas son las siete mejores tablets Android que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2793273.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563'>Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-son-cambios-tienes-anadir-dieta-vivir-10-anos-2793271.jpg' alt='Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más' />
     </a>
 </div>
 
