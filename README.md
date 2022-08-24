@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717'>Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699'>Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687'>Android Auto 8.0 es una realidad, pero sigue sin ser perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto 8.0 es una realidad, pero sigue sin ser perfecto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747'>Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo</a></h4>
     <a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ninas-auriculares-2492117.jpg' alt='Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-basilisk-v3-pro-raton-gaming-completo-avanzado-marca-1113657'>Razer anuncia el Basilisk V3 Pro: el ratón gaming más completo y avanzado de la marca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-basilisk-v3-pro-raton-gaming-completo-avanzado-marca-1113657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/basilisk-v3-pro-2793503.jpg' alt='Razer anuncia el Basilisk V3 Pro: el ratón gaming más completo y avanzado de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-microsoft-windows-95-cumple-27-anos-fue-como-revoluciono-mundo-pc-1113171'>Hoy Microsoft Windows 95 cumple 27 años y así fue como revolucionó el mundo PC </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoy-microsoft-windows-95-cumple-27-anos-fue-como-revoluciono-mundo-pc-1113171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/windows-95-logo-1864241.jpg' alt='Hoy Microsoft Windows 95 cumple 27 años y así fue como revolucionó el mundo PC ' />
     </a>
 </div>
 
