@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925'>Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tingwu-2794177.jpg' alt='Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919'>¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg' alt='¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859'>AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aftershokz-aeropex-auriculares-conduccion-osea-aman-deportistas-baja-100-euros-2794067.jpg' alt='AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907'>Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fitbit-versa-4-sense-3-inspire-3-2794099.jpg' alt='Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885'>Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-2794091.jpg' alt='Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905'>Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-nos-devuelve-pasado-dos-series-familiares-todos-recordamos-mucho-carino-2794129.jpg' alt='Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño' />
     </a>
 </div>
 
