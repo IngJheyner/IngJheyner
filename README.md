@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927'>Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nintendo-alia-denuvo-polemica-compania-antipirateria-impedir-juegos-funcionen-emuladores-pc-2794187.jpg' alt='Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925'>Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tingwu-2794177.jpg' alt='Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917'>Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_9.jpg' alt='Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907'>Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fitbit-versa-4-sense-3-inspire-3-2794099.jpg' alt='Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google' />
     </a>
 </div>
 
