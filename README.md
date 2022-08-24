@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-acaba-romperse-feed-medio-mundo-inundan-post-aleatorios-1113669'>Facebook acaba de romperse: los feed de medio mundo se inundan de post aleatorios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-acaba-romperse-feed-medio-mundo-inundan-post-aleatorios-1113669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/facebook-2501033.jpg' alt='Facebook acaba de romperse: los feed de medio mundo se inundan de post aleatorios' />
+    <h4><a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687'>Android Auto 8.0 es una realidad, pero sigue sin ser perfecto</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto 8.0 es una realidad, pero sigue sin ser perfecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-gaming-asus-gamescon-2022-ratones-placas-base-monitores-mucho-1113635'>Estas son todas las novedades gaming de ASUS en la Gamescon 2022: ratones, placas base, monitores y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-todas-novedades-gaming-asus-gamescon-2022-ratones-placas-base-monitores-mucho-1113635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/asus-rog-g513-2716601.jpg' alt='Estas son todas las novedades gaming de ASUS en la Gamescon 2022: ratones, placas base, monitores y mucho más' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nearby-nuevo-feed-tiktok-quiere-usuarios-compartan-lugares-favoritos-1113685'>Nearby, el nuevo feed de TikTok con el que quiere que los usuarios compartan sus lugares favoritos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nearby-nuevo-feed-tiktok-quiere-usuarios-compartan-lugares-favoritos-1113685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Nearby, el nuevo feed de TikTok con el que quiere que los usuarios compartan sus lugares favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-google-nos-permite-ver-oscuridad-eliminar-ruido-imagenes-1113599'>Esta IA de Google nos permite "ver en la oscuridad" al eliminar el ruido de las imágenes </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-google-nos-permite-ver-oscuridad-eliminar-ruido-imagenes-1113599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ia-2793383.jpg' alt='Esta IA de Google nos permite "ver en la oscuridad" al eliminar el ruido de las imágenes ' />
+    <h4><a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747'>Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ninas-auriculares-2492117.jpg' alt='Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cecotec-aire-cecotry-full-inox-5500-oferta-24-agosto-2022-1113079'>La freidora de aire con más capacidad de Cecotec ha bajado de precio, perfecta para familias</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cecotec-aire-cecotry-full-inox-5500-oferta-24-agosto-2022-1113079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-capacidad-cecotec-ha-bajado-precio-perfecta-familias-2792503.jpg' alt='La freidora de aire con más capacidad de Cecotec ha bajado de precio, perfecta para familias' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-basilisk-v3-pro-raton-gaming-completo-avanzado-marca-1113657'>Razer anuncia el Basilisk V3 Pro: el ratón gaming más completo y avanzado de la marca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razer-anuncia-basilisk-v3-pro-raton-gaming-completo-avanzado-marca-1113657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/basilisk-v3-pro-2793503.jpg' alt='Razer anuncia el Basilisk V3 Pro: el ratón gaming más completo y avanzado de la marca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-sacarte-abono-gratuito-renfe-paso-paso-online-presencial-incluye-1113603'>Cómo sacarte el abono gratuito de Renfe paso a paso online o presencial y qué incluye</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-sacarte-abono-gratuito-renfe-paso-paso-online-presencial-incluye-1113603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/trenes-renfe-ave-2776049.jpg' alt='Cómo sacarte el abono gratuito de Renfe paso a paso online o presencial y qué incluye' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-microsoft-windows-95-cumple-27-anos-fue-como-revoluciono-mundo-pc-1113171'>Hoy Microsoft Windows 95 cumple 27 años y así fue como revolucionó el mundo PC </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-microsoft-windows-95-cumple-27-anos-fue-como-revoluciono-mundo-pc-1113171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/windows-95-logo-1864241.jpg' alt='Hoy Microsoft Windows 95 cumple 27 años y así fue como revolucionó el mundo PC ' />
     </a>
 </div>
 
