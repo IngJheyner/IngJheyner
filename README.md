@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-jugando-animal-crossing-nintendo-switch-2792563.jpg' alt='Estas son las mejores consolas portátiles que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Estas son las siete mejores tablets Android que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-realme-pad-mini-2708797.jpg' alt='Estas son las siete mejores tablets Android que puedes comprar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359'>Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/jetracer-2793083.jpg' alt='Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357'>DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/dualsense-edge-mando-pro-playstation-5-competir-xbox-elite-1113357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dualsense-edge-2793067.jpg' alt='DualSense Edge, el mando Pro de PlayStation 5 para competir con Xbox Elite' />
     </a>
 </div>
 
