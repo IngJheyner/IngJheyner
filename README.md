@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765'>Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clave-bizum-forma-pago-comercios-triunfa-jovenes-2419825.jpg' alt='Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797'>Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/plex-2793919.jpg' alt='Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097'>Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/prometidos-perfiles-basados-nube-ya-disponibles-gracias-nueva-actualizacion-tesla-1113731'>Los prometidos perfiles basados en la nube, ya disponibles gracias a la nueva actualización de Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/prometidos-perfiles-basados-nube-ya-disponibles-gracias-nueva-actualizacion-tesla-1113731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-s-plaid-2545715.jpg' alt='Los prometidos perfiles basados en la nube, ya disponibles gracias a la nueva actualización de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717'>Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699'>Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío' />
     </a>
 </div>
 
