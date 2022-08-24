@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563'>Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-son-cambios-tienes-anadir-dieta-vivir-10-anos-2793271.jpg' alt='Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359'>Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/jetracer-zapata-coche-volador-video-1113359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/jetracer-2793083.jpg' alt='Zapata presenta una "silla" voladora, y da bastante miedo pilotarla (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307'>Los 7 consejos para perder menos tiempo en redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/redes-sociales-1866207.jpg' alt='Los 7 consejos para perder menos tiempo en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-bate-records-hbo-max-fallos-fire-tv-1113327'>La Casa del Dragón bate récords en HBO Max, pero con un punto oscuro que tiene que solucionar ya</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/casa-dragon-bate-records-hbo-max-fallos-fire-tv-1113327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casa-dragon-bate-records-hbo-max-pero-punto-oscuro-tiene-solucionar-2792973.jpg' alt='La Casa del Dragón bate récords en HBO Max, pero con un punto oscuro que tiene que solucionar ya' />
     </a>
 </div>
 
