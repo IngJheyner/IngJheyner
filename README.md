@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859'>AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aftershokz-aeropex-auriculares-conduccion-osea-aman-deportistas-baja-100-euros-2794067.jpg' alt='AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917'>Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_9.jpg' alt='Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907'>Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fitbit-versa-4-sense-2-nueva-hornada-relojes-inteligentes-fitbit-ya-estan-aqui-llegan-aplicaciones-google-1113907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fitbit-versa-4-sense-3-inspire-3-2794099.jpg' alt='Fitbit Versa 4 y Sense 2: la nueva hornada de relojes inteligentes de Fitbit ya están aquí y llegan con las aplicaciones de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885'>Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-2794091.jpg' alt='Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905'>Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-nos-devuelve-pasado-dos-series-familiares-todos-recordamos-mucho-carino-2794129.jpg' alt='Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891'>Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861'>Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dead-island-2_1.jpg' alt='Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853'>Qué hacer cuando no puedes dormir</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='Qué hacer cuando no puedes dormir' />
     </a>
 </div>
 
