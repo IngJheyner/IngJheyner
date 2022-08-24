@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853'>Qué hacer cuando no puedes dormir</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='Qué hacer cuando no puedes dormir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mostrara-fotos-usuario-chats-grupo-1113801'>WhatsApp mostrará las fotos de usuario en los chats de grupo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mostrara-fotos-usuario-chats-grupo-1113801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='WhatsApp mostrará las fotos de usuario en los chats de grupo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737'>Cuánto tiempo dura un huevo cocido en la nevera</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo dura un huevo cocido en la nevera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797'>Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/plex-2793919.jpg' alt='Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097'>Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aluminio-recargable-futuro-almacenar-energia-renovable-1113751'>Aluminio recargable, el futuro para almacenar energía renovable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aluminio-recargable-futuro-almacenar-energia-renovable-1113751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lingotes-aluminio-almacen-london-metal-exchange-malasia-reuters-2507759.jpg' alt='Aluminio recargable, el futuro para almacenar energía renovable' />
     </a>
 </div>
 
