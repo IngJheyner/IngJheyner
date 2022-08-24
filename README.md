@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097'>Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-magicbook-x15-oferta-24-agosto-2022-1113097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/portatil-ultrafino-honor-magicbook-x15-8-gb-ram-viene-windows-10-instalado-baja-precio-minimo-499-euros-2607143.jpg' alt='Honor MagicBook X15, con procesador Core i3 por menos de 300€ es la oferta que esperabas para el nuevo curso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aluminio-recargable-futuro-almacenar-energia-renovable-1113751'>Aluminio recargable, el futuro para almacenar energía renovable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aluminio-recargable-futuro-almacenar-energia-renovable-1113751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lingotes-aluminio-almacen-london-metal-exchange-malasia-reuters-2507759.jpg' alt='Aluminio recargable, el futuro para almacenar energía renovable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/prometidos-perfiles-basados-nube-ya-disponibles-gracias-nueva-actualizacion-tesla-1113731'>Los prometidos perfiles basados en la nube, ya disponibles gracias a la nueva actualización de Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/prometidos-perfiles-basados-nube-ya-disponibles-gracias-nueva-actualizacion-tesla-1113731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tesla-model-s-plaid-2545715.jpg' alt='Los prometidos perfiles basados en la nube, ya disponibles gracias a la nueva actualización de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717'>Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitores-odyssey-ark-odyssey-g70b-g65b-son-nuevos-equipos-samsung-mundo-gaming-1113717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-odyssey-ark-2786537.jpg' alt='Los monitores Odyssey Ark, Odyssey G70B y G65B: así son los nuevos equipos de Samsung para el mundo gaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699'>Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-saber-gasolinera-junto-autovia-antes-coger-desvio-1113699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Cómo saber si la gasolinera está junto a la autovía antes de coger el desvío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687'>Android Auto 8.0 es una realidad, pero sigue sin ser perfecto</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/android-auto-80-realidad-pero-sigue-ser-perfecto-1113687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto 8.0 es una realidad, pero sigue sin ser perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nearby-nuevo-feed-tiktok-quiere-usuarios-compartan-lugares-favoritos-1113685'>Nearby, el nuevo feed de TikTok con el que quiere que los usuarios compartan sus lugares favoritos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nearby-nuevo-feed-tiktok-quiere-usuarios-compartan-lugares-favoritos-1113685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg' alt='Nearby, el nuevo feed de TikTok con el que quiere que los usuarios compartan sus lugares favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747'>Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/auriculares-infantiles-752747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ninas-auriculares-2492117.jpg' alt='Auriculares para niños: guía de compras para elegir el modelo adecuado para tu hijo' />
     </a>
 </div>
 
