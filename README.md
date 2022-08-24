@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885'>Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-1113885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-990-pro-nuevo-ssd-aspira-velocidades-7450-mb-s-2794091.jpg' alt='Samsung 990 Pro: así es el nuevo SSD que aspira a velocidades de hasta 7.450 MB/s' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905'>Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dinosaurios-malcom-in-the-middle-disney-plus-1113905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/disney-nos-devuelve-pasado-dos-series-familiares-todos-recordamos-mucho-carino-2794129.jpg' alt='Disney+ nos devuelve al pasado estrenando dos series familiares que todos recordamos con mucho cariño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891'>Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853'>Qué hacer cuando no puedes dormir</a></h4>
     <a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='Qué hacer cuando no puedes dormir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mostrara-fotos-usuario-chats-grupo-1113801'>WhatsApp mostrará las fotos de usuario en los chats de grupo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-mostrara-fotos-usuario-chats-grupo-1113801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-telegram-2718213.jpg' alt='WhatsApp mostrará las fotos de usuario en los chats de grupo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737'>Cuánto tiempo dura un huevo cocido en la nevera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo dura un huevo cocido en la nevera' />
     </a>
 </div>
 
