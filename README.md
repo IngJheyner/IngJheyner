@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1113565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2793273.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563'>Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más</a></h4>
     <a href='https://computerhoy.com/noticias/life/cambios-tienes-hacer-dieta-vivir-10-anos-mas-1113563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-son-cambios-tienes-anadir-dieta-vivir-10-anos-2793271.jpg' alt='Estos son los cambios que tienes que hacer a tu dieta para vivir 10 años más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351'>Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/paneles-solares-plegables-portatiles-oferta-1113351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/estos-paneles-solares-plegables-portatiles-partir-110-euros-pueden-hacerte-ahora-mucho-dinero-factura-luz-2793019.jpg' alt='Estos paneles solares plegables y portátiles, a partir de 110 euros, pueden hacerte ahorrar mucho dinero en la factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307'>Los 7 consejos para perder menos tiempo en redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-perder-menos-tiempo-redes-sociales-1113307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/redes-sociales-1866207.jpg' alt='Los 7 consejos para perder menos tiempo en redes sociales' />
     </a>
 </div>
 
