@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891'>Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-1113891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apple-confirma-fecha-nuevo-evento-conoceremos-nuevos-iphone-14-2794101.jpg' alt='Apple confirma la fecha de su nuevo evento en el que conoceremos a los nuevos iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861'>Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dead-island-2_1.jpg' alt='Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737'>Cuánto tiempo dura un huevo cocido en la nevera</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-huevo-cocido-nevera-1113737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo dura un huevo cocido en la nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765'>Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clave-bizum-forma-pago-comercios-triunfa-jovenes-2419825.jpg' alt='Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten' />
     </a>
 </div>
 
