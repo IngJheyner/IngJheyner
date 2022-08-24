@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861'>Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/alexa-game-control-nueva-funcionalidad-puedas-realizar-acciones-videojuegos-tan-solo-hablando-1113861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/dead-island-2_1.jpg' alt='Alexa Game Control, la nueva funcionalidad para que puedas realizar acciones en videojuegos tan solo hablando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853'>Qué hacer cuando no puedes dormir</a></h4>
     <a href='https://computerhoy.com/noticias/life/hacer-cuando-no-puedes-dormir-1113853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg' alt='Qué hacer cuando no puedes dormir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765'>Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten</a></h4>
     <a href='https://computerhoy.com/noticias/life/ya-puedes-hacer-bnpl-bizum-como-funciona-bancos-permiten-1113765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clave-bizum-forma-pago-comercios-triunfa-jovenes-2419825.jpg' alt='Ya puedes hacer BNPL en Bizum: cómo funciona y qué bancos lo permiten' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797'>Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/brecha-plex-ha-expuesto-nombres-usuario-correos-electronicos-contrasenas-encriptadas-1113797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/plex-2793919.jpg' alt='Una brecha en Plex ha expuesto nombres de usuario, correos electrónicos y contraseñas encriptadas' />
     </a>
 </div>
 
