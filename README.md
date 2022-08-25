@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2794367.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123'>Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-evitar-perros-mastiquen-muerdan-cosas-no-son-2794365.jpg' alt='Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927'>Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nintendo-alia-denuvo-polemica-compania-antipirateria-impedir-juegos-funcionen-emuladores-pc-2794187.jpg' alt='Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925'>Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tingwu-secretario-virtual-alibaba-video-1113925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tingwu-2794177.jpg' alt='Tingwu, el secretario virtual de Alibaba que se encarga de todo en las reuniones y videollamadas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919'>¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg' alt='¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad' />
     </a>
 </div>
 
