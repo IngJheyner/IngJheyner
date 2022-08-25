@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sony-sube-precio-ps5-inflacion-llega-videoconsolas-1114239'>Sony sube de precio la PS5, la inflación llega hasta las videoconsolas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sony-sube-precio-ps5-inflacion-llega-videoconsolas-1114239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sony sube de precio la PS5, la inflación llega hasta las videoconsolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-chips-argos-desarrollados-youtube-transcodificar-videos-subimos-1114199'>Así son los chips Argos desarrollados por YouTube para transcodificar los vídeos que subimos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-chips-argos-desarrollados-youtube-transcodificar-videos-subimos-1114199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/youtube-2535635.jpg' alt='Así son los chips Argos desarrollados por YouTube para transcodificar los vídeos que subimos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881'>¡Ya está en tu quiosco el número 623 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/computer-hoy-623-2787713.jpg' alt='¡Ya está en tu quiosco el número 623 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-linux-cumple-31-anos-todavia-sigue-batallando-como-kernel-libre-microsoft-apple-1114137'>Hoy Linux cumple 31 años y todavía sigue batallando como kernel libre a los de Microsoft y Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hoy-linux-cumple-31-anos-todavia-sigue-batallando-como-kernel-libre-microsoft-apple-1114137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/linux-llega-mac-procesador-apple-m1-2205211.jpg' alt='Hoy Linux cumple 31 años y todavía sigue batallando como kernel libre a los de Microsoft y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633'>Estos son los mejores antimosquitos eléctricos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-antimosquitos-electricos-puedes-comprar-2789993.jpg' alt='Estos son los mejores antimosquitos eléctricos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2794367.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
