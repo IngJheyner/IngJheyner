@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881'>¡Ya está en tu quiosco el número 623 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-623-computer-hoy-1100881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/computer-hoy-623-2787713.jpg' alt='¡Ya está en tu quiosco el número 623 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/descuentos-llegan-starlink-recorte-mitad-precio-conseguir-usuarios-1114169'>Los descuentos llegan a Starlink: recorte de hasta la mitad de precio para conseguir más usuarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/descuentos-llegan-starlink-recorte-mitad-precio-conseguir-usuarios-1114169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/terminal-starlink-1997301.png' alt='Los descuentos llegan a Starlink: recorte de hasta la mitad de precio para conseguir más usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-linux-cumple-31-anos-todavia-sigue-batallando-como-kernel-libre-microsoft-apple-1114137'>Hoy Linux cumple 31 años y todavía sigue batallando como kernel libre a los de Microsoft y Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-linux-cumple-31-anos-todavia-sigue-batallando-como-kernel-libre-microsoft-apple-1114137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/linux-llega-mac-procesador-apple-m1-2205211.jpg' alt='Hoy Linux cumple 31 años y todavía sigue batallando como kernel libre a los de Microsoft y Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633'>Estos son los mejores antimosquitos eléctricos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-antimosquitos-electricos-puedes-comprar-2789993.jpg' alt='Estos son los mejores antimosquitos eléctricos que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2794367.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123'>Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-evitar-perros-mastiquen-muerdan-cosas-no-son-2794365.jpg' alt='Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929'>¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/puede-desheredar-hijo-estos-son-motivos-legales-no-recibir-herencia-2794189.jpg' alt='¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia' />
     </a>
 </div>
 
