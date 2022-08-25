@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-maverick-streaming-1114451'>El blockbuster del año, Top Gun: Maverick, ha llegado al streaming, pero no como te gustaría</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/top-gun-maverick-streaming-1114451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/top-gun-maverick-1909913.jpg' alt='El blockbuster del año, Top Gun: Maverick, ha llegado al streaming, pero no como te gustaría' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465'>Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/familia-mirando-dispositivos-electronicos-2795089.jpg' alt='Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-comunidades-whatsapp-podemos-esperar-ellas-1114417'>Qué son las Comunidades de WhatsApp y qué podemos esperar de ellas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-comunidades-whatsapp-podemos-esperar-ellas-1114417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-comunidades-whatsapp-podemos-esperar-ellas-2795047.jpg' alt='Qué son las Comunidades de WhatsApp y qué podemos esperar de ellas' />
+    <h4><a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459'>El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/stonehenge-espanol-ha-emergido-aguas-debido-sequia-tiene-5000-anos-2795081.jpg' alt='El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211'>Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-watch5-2794527.jpg' alt='Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463'>Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-internet-2795087.jpg' alt='Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399'>Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457'>Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-2795075.jpg' alt='Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357'>¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bebe-enfermo-ninos-llorar-2722421.jpg' alt='¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-descuento-1114445'>La nueva Xiaomi Smart Band 7 baja de precio un 42%, lista para que te pongas en forma después del verano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-descuento-1114445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-xiaomi-band-7-2766613.jpg' alt='La nueva Xiaomi Smart Band 7 baja de precio un 42%, lista para que te pongas en forma después del verano' />
     </a>
 </div>
 
