@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123'>Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-evitar-perros-mastiquen-muerdan-cosas-1114123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-evitar-perros-mastiquen-muerdan-cosas-no-son-2794365.jpg' alt='Cómo evitar que los perros mastiquen y muerdan cosas que no son suyas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929'>¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/puede-desheredar-hijo-estos-son-motivos-legales-no-recibir-herencia-2794189.jpg' alt='¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927'>Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nintendo-alia-denuvo-polemica-compania-antipirateria-impedir-juegos-funcionen-emuladores-pc-2794187.jpg' alt='Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919'>¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-piques-guardia-civil-alerta-nueva-oleada-correos-suplantando-identidad-1113919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg' alt='¡No piques! Guardia Civil alerta de una nueva oleada de correos suplantando su identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859'>AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aftershokz-aeropex-auriculares-conduccion-osea-deportistas-1113859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/aftershokz-aeropex-auriculares-conduccion-osea-aman-deportistas-baja-100-euros-2794067.jpg' alt='AfterShokz Aeropex, los auriculares por conducción ósea que aman los deportistas, bajan hasta los 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917'>Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alerta-seguridad-riesgo-quemaduras-podria-llevar-revision-miles-thermomix-1113917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_9.jpg' alt='Alerta de seguridad por riesgo de quemaduras podría llevar a revisión a miles de Thermomix' />
     </a>
 </div>
 
