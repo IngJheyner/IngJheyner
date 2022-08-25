@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399'>Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357'>¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bebe-enfermo-ninos-llorar-2722421.jpg' alt='¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711'>Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/necesitas-portatil-trabajar-lenovo-v14-core-i5-11a-gen-ha-bajado-precio-164-euros-2793647.jpg' alt='Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303'>El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022' />
     </a>
 </div>
 
