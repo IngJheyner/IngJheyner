@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211'>Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-watch5-2794527.jpg' alt='Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399'>Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/podria-ser-iphone-14-pro-ultimas-filtraciones-podria-haber-sorpresa-1114399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='Así podría ser el iPhone 14 Pro según las últimas filtraciones y podría haber sorpresa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329'>El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/windows-8.jpg' alt='El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711'>Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/necesitas-portatil-trabajar-lenovo-v14-core-i5-11a-gen-ha-bajado-precio-164-euros-2793647.jpg' alt='Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros' />
     </a>
 </div>
 
