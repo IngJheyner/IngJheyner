@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301'>Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/enchufe-inteligente'>Guía y consejos para comprar un enchufe inteligente: ¿Google o Alexa? ¿Cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/enchufe-inteligente' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/enchufe-inteligente.jpg' alt='Guía y consejos para comprar un enchufe inteligente: ¿Google o Alexa? ¿Cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683'>Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-webcam-integrada-asus-be24eqk-2794619.jpg' alt='Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/retrete-futuro-reinventado-fundacion-bill-melinda-gates-samsung-1114279'>El retrete del futuro, reinventado por la fundación Bill y Melinda Gates y Samsung</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/retrete-futuro-reinventado-fundacion-bill-melinda-gates-samsung-1114279'>El retrete del futuro, reinventado por la fundación Bill & Melinda Gates y Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/retrete-futuro-reinventado-fundacion-bill-melinda-gates-samsung-1114279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/retrete-samsung-2794669.jpg' alt='El retrete del futuro, reinventado por la fundación Bill y Melinda Gates y Samsung' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/retrete-samsung-2794669.jpg' alt='El retrete del futuro, reinventado por la fundación Bill & Melinda Gates y Samsung' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-artemis-i-lista-nasa-nos-cuenta-como-sera-vistoso-video-1114227'>La misión espacial Artemis I está lista y la NASA nos cuenta cómo será en un vistoso vídeo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-artemis-i-lista-nasa-nos-cuenta-como-sera-vistoso-video-1114227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='La misión espacial Artemis I está lista y la NASA nos cuenta cómo será en un vistoso vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/samsung-ofrecera-contenido-8k-exclusiva-nuevo-senor-anillos-amazon-prime-1114257'>Samsung ofrecerá contenido en 8K en exclusiva de lo nuevo del Señor de los Anillos en Amazon Prime</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/samsung-ofrecera-contenido-8k-exclusiva-nuevo-senor-anillos-amazon-prime-1114257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-8k-anillos-2794625.jpg' alt='Samsung ofrecerá contenido en 8K en exclusiva de lo nuevo del Señor de los Anillos en Amazon Prime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sony-sube-precio-ps5-inflacion-llega-videoconsolas-1114239'>Sony sube de precio la PS5, la inflación llega hasta las videoconsolas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sony-sube-precio-ps5-inflacion-llega-videoconsolas-1114239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Sony sube de precio la PS5, la inflación llega hasta las videoconsolas' />
     </a>
 </div>
 
