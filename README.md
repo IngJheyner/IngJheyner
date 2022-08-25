@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357'>¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bebe-enfermo-ninos-llorar-2722421.jpg' alt='¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-mejorar-autonomia-notablemente-movil-android-1114323'>7 consejos para mejorar la autonomía notablemente en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-mejorar-autonomia-notablemente-movil-android-1114323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/ahorro-bateria-android.jpg' alt='7 consejos para mejorar la autonomía notablemente en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329'>El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/windows-8.jpg' alt='El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711'>Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-v15-portatil-oferta-25-agosto-2022-1113711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/necesitas-portatil-trabajar-lenovo-v14-core-i5-11a-gen-ha-bajado-precio-164-euros-2793647.jpg' alt='Si acabas de venir de vacaciones y necesitas un portátil para trabajar, este Lenovo V14 con Core i5 ha bajado de precio casi 165 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303'>El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-azufre-aluminio-gran-solucion-low-cost-dispositivos-dia-dia-1114317'>Baterías de azufre y aluminio, la gran solución low-cost para los dispositivos del día a día</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/baterias-azufre-aluminio-gran-solucion-low-cost-dispositivos-dia-dia-1114317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/221-aniversario-baterias-2620159.jpg' alt='Baterías de azufre y aluminio, la gran solución low-cost para los dispositivos del día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301'>Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/enchufe-inteligente'>Guía y consejos para comprar un enchufe inteligente: ¿Google o Alexa? ¿Cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/enchufe-inteligente' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/enchufe-inteligente.jpg' alt='Guía y consejos para comprar un enchufe inteligente: ¿Google o Alexa? ¿Cuál es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683'>Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-webcam-integrada-asus-be24eqk-2794619.jpg' alt='Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas' />
     </a>
 </div>
 
