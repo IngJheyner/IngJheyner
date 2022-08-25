@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/top-gun-maverick-streaming-1114451'>El blockbuster del año, Top Gun: Maverick, ha llegado al streaming, pero no como te gustaría</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/top-gun-maverick-streaming-1114451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/top-gun-maverick-1909913.jpg' alt='El blockbuster del año, Top Gun: Maverick, ha llegado al streaming, pero no como te gustaría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-comunidades-whatsapp-podemos-esperar-ellas-1114417'>Qué son las Comunidades de WhatsApp y qué podemos esperar de ellas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-comunidades-whatsapp-podemos-esperar-ellas-1114417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-comunidades-whatsapp-podemos-esperar-ellas-2795047.jpg' alt='Qué son las Comunidades de WhatsApp y qué podemos esperar de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211'>Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-mejor-precio-samsung-galaxy-watch5-1114211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/samsung-galaxy-watch5-2794527.jpg' alt='Ya puedes comprarte el nuevo reloj inteligente Samsung Galaxy Watch5: estas son las tiendas donde está disponible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357'>¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tienes-pedir-online-baja-paternidad-como-hace-1114357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/bebe-enfermo-ninos-llorar-2722421.jpg' alt='¿Cuánto tiempo tienes para pedir online la baja por paternidad y cómo se hace?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-consejos-mejorar-autonomia-notablemente-movil-android-1114323'>7 consejos para mejorar la autonomía notablemente en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-consejos-mejorar-autonomia-notablemente-movil-android-1114323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/ahorro-bateria-android.jpg' alt='7 consejos para mejorar la autonomía notablemente en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329'>El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sonido-inicio-windows-8-nunca-tuvo-oculto-windows-10-11-1114329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/windows-8.jpg' alt='El sonido de inicio de Windows 8 que nunca tuvo está oculto en Windows 10 y 11' />
     </a>
 </div>
 
