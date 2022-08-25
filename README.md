@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427'>Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791511.jpg' alt='Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465'>Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/familia-mirando-dispositivos-electronicos-2795089.jpg' alt='Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457'>Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-2795075.jpg' alt='Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-descuento-1114445'>La nueva Xiaomi Smart Band 7 baja de precio un 42%, lista para que te pongas en forma después del verano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-descuento-1114445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-xiaomi-band-7-2766613.jpg' alt='La nueva Xiaomi Smart Band 7 baja de precio un 42%, lista para que te pongas en forma después del verano' />
     </a>
 </div>
 
