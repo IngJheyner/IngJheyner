@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303'>El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclado-inalambrico-latencia-1ms-ultimo-cherry-gamescom-2022-1114303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-cherry-2794755.jpg' alt='El teclado inalámbrico sin latencia (1ms), lo último de Cherry en Gamescom 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-azufre-aluminio-gran-solucion-low-cost-dispositivos-dia-dia-1114317'>Baterías de azufre y aluminio, la gran solución low-cost para los dispositivos del día a día</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/baterias-azufre-aluminio-gran-solucion-low-cost-dispositivos-dia-dia-1114317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/221-aniversario-baterias-2620159.jpg' alt='Baterías de azufre y aluminio, la gran solución low-cost para los dispositivos del día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301'>Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-recibe-certificacion-carga-rapida-66-w-procesador-snapdragon-8-gen-1-1114301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei Mate 50 recibe su certificación: carga rápida de 66 W y procesador Snapdragon 8 Gen 1' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683'>Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-be24eqk-oferta-25-agosto-2022-1113683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-webcam-integrada-asus-be24eqk-2794619.jpg' alt='Este monitor de Asus viene con webcam y micrófono para solucionar tus problemas de videollamadas mientras teletrabajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/retrete-futuro-reinventado-fundacion-bill-melinda-gates-samsung-1114279'>El retrete del futuro, reinventado por la fundación Bill & Melinda Gates y Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/retrete-futuro-reinventado-fundacion-bill-melinda-gates-samsung-1114279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/retrete-samsung-2794669.jpg' alt='El retrete del futuro, reinventado por la fundación Bill & Melinda Gates y Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-artemis-i-lista-nasa-nos-cuenta-como-sera-vistoso-video-1114227'>La misión espacial Artemis I está lista y la NASA nos cuenta cómo será en un vistoso vídeo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mision-espacial-artemis-i-lista-nasa-nos-cuenta-como-sera-vistoso-video-1114227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='La misión espacial Artemis I está lista y la NASA nos cuenta cómo será en un vistoso vídeo' />
     </a>
 </div>
 
