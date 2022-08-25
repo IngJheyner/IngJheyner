@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633'>Estos son los mejores antimosquitos eléctricos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-antimosquitos-electricos-1111633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mejores-antimosquitos-electricos-puedes-comprar-2789993.jpg' alt='Estos son los mejores antimosquitos eléctricos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125'>23 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/23-noticias-tecnologia-comenzar-manana-informado-ultimo-1114125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/23-noticias-tecnologia-comenzar-manana-informado-ultimo-2794367.jpg' alt='23 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929'>¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/puede-desheredar-padres-a-hijos-motivos-legales-1113929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/puede-desheredar-hijo-estos-son-motivos-legales-no-recibir-herencia-2794189.jpg' alt='¿Se puede desheredar a un hijo? Estos son los motivos legales para no recibir herencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927'>Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nintendo-denuvo-antipirateria-emuladores-pc-1113927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nintendo-alia-denuvo-polemica-compania-antipirateria-impedir-juegos-funcionen-emuladores-pc-2794187.jpg' alt='Nintendo se alía con Denuvo, la polémica compañía antipiratería, para impedir que sus juegos funcionen en emuladores de PC' />
     </a>
 </div>
 
