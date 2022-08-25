@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471'>Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-unas-pruebas-porque-encontraba-mal-descubre-tiene-covid-19-viruela-mono-sida-mismo-tiempo-2795097.jpg' alt='Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427'>Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791511.jpg' alt='Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463'>Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-internet-2795087.jpg' alt='Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457'>Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-1114457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primero-fue-spotify-ahora-ha-tocado-twitter-fiebre-podcast-llega-red-social-2795075.jpg' alt='Primero fue Spotify y ahora le ha tocado a Twitter: la fiebre de los podcast llega a esta red social' />
     </a>
 </div>
 
