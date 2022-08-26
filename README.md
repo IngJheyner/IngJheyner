@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279'>Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sniffspot-te-paga-alquilar-jardin-horas-jueguen-perros-2792859.jpg' alt='Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041'>Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/despues-batgirl-hbo-tambien-cancela-serie-batman-jj-abrams-2796319.jpg' alt='Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039'>Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fabrican-moviles-plegables-samsung-2796257.jpg' alt='Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027'>Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ubica-supermercado-dia-pleno-africa-desata-locura-1115025'>Se ubica un supermercado Día en pleno África y se desata la locura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ubica-supermercado-dia-pleno-africa-desata-locura-1115025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-dia-2796229.jpg' alt='Se ubica un supermercado Día en pleno África y se desata la locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017'>Salen a la venta en Japón las gafas que curan la miopía</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salen-venta-japon-gafas-curan-miopia-2796203.jpg' alt='Salen a la venta en Japón las gafas que curan la miopía' />
     </a>
 </div>
 
