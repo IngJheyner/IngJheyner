@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-antes-hay-estar-aeropuertos-espana-no-perder-vuelo-1114867'>Cuánto tiempo antes hay que estar en los aeropuertos de España para no perder el vuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-antes-hay-estar-aeropuertos-espana-no-perder-vuelo-1114867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aeropuerto-2711597.jpg' alt='Cuánto tiempo antes hay que estar en los aeropuertos de España para no perder el vuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lidl-vendera-fruta-verdura-fea-afectada-sequia-apoyar-agricultores-1114941'>Lidl venderá fruta y verdura “fea” afectada por la sequía para apoyar a los agricultores</a></h4>
     <a href='https://computerhoy.com/noticias/life/lidl-vendera-fruta-verdura-fea-afectada-sequia-apoyar-agricultores-1114941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/frutas-verduras-2520617.jpg' alt='Lidl venderá fruta y verdura “fea” afectada por la sequía para apoyar a los agricultores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/ordenador-utiliza-estufa-como-caja-modding-perfecto-invierno-avecina-1114907'>El ordenador que utiliza una estufa como caja: el modding perfecto para el invierno que se avecina</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ordenador-utiliza-estufa-como-caja-modding-perfecto-invierno-avecina-1114907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mooding-ordenador-2795907.jpg' alt='El ordenador que utiliza una estufa como caja: el modding perfecto para el invierno que se avecina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
     </a>
 </div>
 
