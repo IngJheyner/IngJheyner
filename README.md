@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ultrabook'>Consejos y guía para comprar un portátil ultrabook: ¿cómo elegir el mejor modelo para ti?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ultrabook' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/mujer-parque-portatil-ultrabook-2081825.jpg' alt='Consejos y guía para comprar un portátil ultrabook: ¿cómo elegir el mejor modelo para ti?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-tienen-solucion-problemas-cobertura-red-wifi-menos-15-euros-1114883'>Lidl y Xiaomi tienen la solución para los problemas de cobertura de tu red WiFi por menos de 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-tienen-solucion-problemas-cobertura-red-wifi-menos-15-euros-1114883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-wifi-2795845.jpg' alt='Lidl y Xiaomi tienen la solución para los problemas de cobertura de tu red WiFi por menos de 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861'>Este kit convierte cualquier bicicleta convencional en eléctrica en segundos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Este kit convierte cualquier bicicleta convencional en eléctrica en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835'>Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-predator-thronos-2795647.jpg' alt='Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-1114815'>La primera flota de trenes de hidrógeno del mundo ya circula por Alemania</a></h4>
-    <a href='https://computerhoy.com/noticias/life/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-1114815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-2795565.jpg' alt='La primera flota de trenes de hidrógeno del mundo ya circula por Alemania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789'>Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-gaming-2296229.jpg' alt='Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno' />
     </a>
 </div>
 
