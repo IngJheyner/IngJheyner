@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861'>Este kit convierte cualquier bicicleta convencional en eléctrica en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Este kit convierte cualquier bicicleta convencional en eléctrica en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395'>La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-xiaomi-android-43-ya-cuesta-menos-260eu-mediamarkt-2794947.jpg' alt='La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789'>Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-gaming-2296229.jpg' alt='Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-1114793'>El nuevo monitor de Corsair, único hasta la fecha, se puede doblar para adaptar la curvatura a tu gusto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-1114793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-2795515.jpg' alt='El nuevo monitor de Corsair, único hasta la fecha, se puede doblar para adaptar la curvatura a tu gusto' />
     </a>
 </div>
 
