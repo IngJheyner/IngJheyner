@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017'>Salen a la venta en Japón las gafas que curan la miopía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salen-venta-japon-gafas-curan-miopia-2796203.jpg' alt='Salen a la venta en Japón las gafas que curan la miopía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007'>Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-2796155.jpg' alt='Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-precuela-exnovia-asesinato-1114987'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una precuela, una exnovia y un asesinato</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-precuela-exnovia-asesinato-1114987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/series-fin-semana-2796099.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una precuela, una exnovia y un asesinato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-uncharted-live-action-pinocho-padre-desbocado-1114717'>Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Uncharted, el live action de Pinocho y padre desbocado</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-hbo-max-netflix-movistarplus-uncharted-live-action-pinocho-padre-desbocado-1114717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/peliculas-2795737.jpg' alt='Qué películas ver este fin de semana en HBO Max, Netflix y MovistarPlus+: Uncharted, el live action de Pinocho y padre desbocado' />
     </a>
 </div>
 
