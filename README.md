@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-se-fabrica-pintalabios-video-1114475'>Así se fabrica un pintalabios, es más complicado de lo que parece (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-se-fabrica-pintalabios-video-1114475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fabrica-pintalabios-2795111.jpg' alt='Así se fabrica un pintalabios, es más complicado de lo que parece (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471'>Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-unas-pruebas-porque-encontraba-mal-descubre-tiene-covid-19-viruela-mono-sida-mismo-tiempo-2795097.jpg' alt='Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459'>El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/stonehenge-espanol-ha-emergido-aguas-debido-sequia-tiene-5000-anos-2795081.jpg' alt='El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463'>Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estudio-privacidad-recopilacion-datos-personales-deja-apple-sorprendente-lugar-1114463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-internet-2795087.jpg' alt='Un estudio sobre privacidad y recopilación de datos personales deja a Apple en un sorprendente lugar' />
     </a>
 </div>
 
