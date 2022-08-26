@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687'>Cómo gestionar la ansiedad en los niños por la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gestionar-ansiedad-ninos-vuelta-cole-2795385.jpg' alt='Cómo gestionar la ansiedad en los niños por la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-se-fabrica-pintalabios-video-1114475'>Así se fabrica un pintalabios, es más complicado de lo que parece (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-se-fabrica-pintalabios-video-1114475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fabrica-pintalabios-2795111.jpg' alt='Así se fabrica un pintalabios, es más complicado de lo que parece (vídeo)' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471'>Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471'>Va al médico porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y el VIH, todo al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-unas-pruebas-porque-encontraba-mal-descubre-tiene-covid-19-viruela-mono-sida-mismo-tiempo-2795097.jpg' alt='Se hace unas pruebas porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y VIH al mismo tiempo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-unas-pruebas-porque-encontraba-mal-descubre-tiene-covid-19-viruela-mono-sida-mismo-tiempo-2795097.jpg' alt='Va al médico porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y el VIH, todo al mismo tiempo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465'>Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/familia-mirando-dispositivos-electronicos-2795089.jpg' alt='Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459'>El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dolmen-guadalperal-stonehenge-espanol-sequia-1114459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/stonehenge-espanol-ha-emergido-aguas-debido-sequia-tiene-5000-anos-2795081.jpg' alt='El Stonehenge español que ha emergido de las aguas debido a la sequía y tiene más de 5.000 años' />
     </a>
 </div>
 
