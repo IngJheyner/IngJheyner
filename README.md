@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029'>OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027'>Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ubica-supermercado-dia-pleno-africa-desata-locura-1115025'>Se ubica un supermercado Día en pleno África y se desata la locura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ubica-supermercado-dia-pleno-africa-desata-locura-1115025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/supermercado-dia-2796229.jpg' alt='Se ubica un supermercado Día en pleno África y se desata la locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017'>Salen a la venta en Japón las gafas que curan la miopía</a></h4>
     <a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salen-venta-japon-gafas-curan-miopia-2796203.jpg' alt='Salen a la venta en Japón las gafas que curan la miopía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007'>Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-2796155.jpg' alt='Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/rebajas-productos-amazon-septiembre-2022-1114787'>¡A precios de Prime Day! Amazon vuelve a bajar sus Echo, Fire TV y más productos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/rebajas-productos-amazon-septiembre-2022-1114787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/amazon-echo-show-5_17.jpg' alt='¡A precios de Prime Day! Amazon vuelve a bajar sus Echo, Fire TV y más productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193'>Los 8 errores que evitar al comprar una consola de segunda mano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg' alt='Los 8 errores que evitar al comprar una consola de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-precuela-exnovia-asesinato-1114987'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una precuela, una exnovia y un asesinato</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-precuela-exnovia-asesinato-1114987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/series-fin-semana-2796099.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una precuela, una exnovia y un asesinato' />
     </a>
 </div>
 
