@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175'>Cómo descargar nuevos stickers para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Cómo descargar nuevos stickers para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideapad-3-15itl6-oferta-26-agosto-2022-1114369'>¿Vuelves al trabajo el lunes y te has quedado sin portátil? Este Lenovo IdeaPad 3 con Core i5 está muy rebajado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideapad-3-15itl6-oferta-26-agosto-2022-1114369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lenovo-ideapad-3-15itl6-2795051.jpg' alt='¿Vuelves al trabajo el lunes y te has quedado sin portátil? Este Lenovo IdeaPad 3 con Core i5 está muy rebajado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687'>Cómo gestionar la ansiedad en los niños por la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gestionar-ansiedad-ninos-vuelta-cole-2795385.jpg' alt='Cómo gestionar la ansiedad en los niños por la vuelta al cole' />
     </a>
 </div>
 
