@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-45gr95qe-ultrafine-display-ergo-ai-dos-nuevos-monitores-marca-coreana-antes-ifa-1114723'>LG UltraGear 45GR95QE y UltraFine Display Ergo AI: los dos nuevos monitores de la marca coreana antes de IFA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ultragear-45gr95qe-ultrafine-display-ergo-ai-dos-nuevos-monitores-marca-coreana-antes-ifa-1114723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/lg-ultragear-27gn950-2002961.jpg' alt='LG UltraGear 45GR95QE y UltraFine Display Ergo AI: los dos nuevos monitores de la marca coreana antes de IFA' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395'>La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-xiaomi-android-43-ya-cuesta-menos-260eu-mediamarkt-2794947.jpg' alt='La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/curiosa-estrategia-apple-exito-tim-cook-1114721'>Esta es la curiosa estrategia de Apple para el éxito, según Tim Cook</a></h4>
-    <a href='https://computerhoy.com/noticias/life/curiosa-estrategia-apple-exito-tim-cook-1114721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/steve_jobs_64_aniversario.jpg' alt='Esta es la curiosa estrategia de Apple para el éxito, según Tim Cook' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835'>Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-predator-thronos-2795647.jpg' alt='Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-desactivar-llamadas-wifi-smartphone-android-1114715'>Así puedes desactivar las llamadas vía WiFi en tu smartphone Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-desactivar-llamadas-wifi-smartphone-android-1114715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Así puedes desactivar las llamadas vía WiFi en tu smartphone Android' />
+    <h4><a href='https://computerhoy.com/noticias/life/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-1114815'>La primera flota de trenes de hidrógeno del mundo ya circula por Alemania</a></h4>
+    <a href='https://computerhoy.com/noticias/life/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-1114815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/primera-flota-trenes-hidrogeno-mundo-ya-circula-alemania-2795565.jpg' alt='La primera flota de trenes de hidrógeno del mundo ya circula por Alemania' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175'>Cómo descargar nuevos stickers para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Cómo descargar nuevos stickers para WhatsApp' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789'>Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-teclados-caros-mundo-posiblemente-no-te-interese-ninguno-1114789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/teclado-gaming-2296229.jpg' alt='Estos son los teclados más caros del mundo y, posiblemente, no te interese ninguno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideapad-3-15itl6-oferta-26-agosto-2022-1114369'>¿Vuelves al trabajo el lunes y te has quedado sin portátil? Este Lenovo IdeaPad 3 con Core i5 está muy rebajado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-ideapad-3-15itl6-oferta-26-agosto-2022-1114369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lenovo-ideapad-3-15itl6-2795051.jpg' alt='¿Vuelves al trabajo el lunes y te has quedado sin portátil? Este Lenovo IdeaPad 3 con Core i5 está muy rebajado' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-1114793'>El nuevo monitor de Corsair, único hasta la fecha, se puede doblar para adaptar la curvatura a tu gusto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-1114793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-monitor-corsair-unico-fecha-puede-doblar-adaptar-curvatura-gusto-2795515.jpg' alt='El nuevo monitor de Corsair, único hasta la fecha, se puede doblar para adaptar la curvatura a tu gusto' />
     </a>
 </div>
 
