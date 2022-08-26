@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1114689'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1114689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2795399.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687'>Cómo gestionar la ansiedad en los niños por la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-gestionar-ansiedad-ninos-vuelta-cole-1114687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/como-gestionar-ansiedad-ninos-vuelta-cole-2795385.jpg' alt='Cómo gestionar la ansiedad en los niños por la vuelta al cole' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471'>Va al médico porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y el VIH, todo al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/italiano-tiene-covid-19-viruela-mono-vih-mismo-tiempo-1114471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hace-unas-pruebas-porque-encontraba-mal-descubre-tiene-covid-19-viruela-mono-sida-mismo-tiempo-2795097.jpg' alt='Va al médico porque se encontraba mal y descubre que tiene el Covid-19, la viruela del mono y el VIH, todo al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427'>Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimas-filtraciones-pixel-fold-apuntan-diseno-sera-similar-samsung-galaxy-z-fold-4-1114427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791511.jpg' alt='Las últimas filtraciones del Pixel Fold apuntan a que su diseño será similar al del Samsung Galaxy Z Fold 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465'>Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/demasiado-tiempo-frente-pantalla-puede-hacer-reganes-grites-hijos-1114465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/familia-mirando-dispositivos-electronicos-2795089.jpg' alt='Demasiado tiempo frente a la pantalla puede hacer que regañes y grites más a tus hijos' />
     </a>
 </div>
 
