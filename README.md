@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-desactivar-llamadas-wifi-smartphone-android-1114715'>Así puedes desactivar las llamadas vía WiFi en tu smartphone Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-desactivar-llamadas-wifi-smartphone-android-1114715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Así puedes desactivar las llamadas vía WiFi en tu smartphone Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175'>Cómo descargar nuevos stickers para WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-nuevos-stickers-whatsapp-1107175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='Cómo descargar nuevos stickers para WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1114689'>24 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/24-noticias-tecnologia-comenzar-manana-informado-ultimo-1114689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/24-noticias-tecnologia-comenzar-manana-informado-ultimo-2795399.jpg' alt='24 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-s8-ultra-analisis-opinion-2646925.jpg' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
     </a>
 </div>
 
