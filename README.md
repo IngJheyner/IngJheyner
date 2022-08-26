@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ultrabook'>Consejos y guía para comprar un portátil ultrabook: ¿cómo elegir el mejor modelo para ti?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ultrabook' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/mujer-parque-portatil-ultrabook-2081825.jpg' alt='Consejos y guía para comprar un portátil ultrabook: ¿cómo elegir el mejor modelo para ti?' />
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-vendera-fruta-verdura-fea-afectada-sequia-apoyar-agricultores-1114941'>Lidl venderá fruta y verdura “fea” afectada por la sequía para apoyar a los agricultores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-vendera-fruta-verdura-fea-afectada-sequia-apoyar-agricultores-1114941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/frutas-verduras-2520617.jpg' alt='Lidl venderá fruta y verdura “fea” afectada por la sequía para apoyar a los agricultores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-tienen-solucion-problemas-cobertura-red-wifi-menos-15-euros-1114883'>Lidl y Xiaomi tienen la solución para los problemas de cobertura de tu red WiFi por menos de 15 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lidl-xiaomi-tienen-solucion-problemas-cobertura-red-wifi-menos-15-euros-1114883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-mi-wifi-2795845.jpg' alt='Lidl y Xiaomi tienen la solución para los problemas de cobertura de tu red WiFi por menos de 15 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-1114903'>La función oculta para proteger tu privacidad que el 35% de usuarios de Android desconoce</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-1114903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='La función oculta para proteger tu privacidad que el 35% de usuarios de Android desconoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861'>Este kit convierte cualquier bicicleta convencional en eléctrica en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-convierte-cualquier-bicicleta-convencional-electrica-segundos-1114861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/kit-conversion-2778903.jpg' alt='Este kit convierte cualquier bicicleta convencional en eléctrica en segundos' />
+    <h4><a href='https://computerhoy.com/noticias/motor/como-funciona-permiso-a1-dgt-permite-conducir-tener-18-anos-1114935'>Cómo funciona el permiso A1 de la DGT que permite conducir sin tener 18 años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/como-funciona-permiso-a1-dgt-permite-conducir-tener-18-anos-1114935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/nuevo-carnet-puntos-2294295.jpg' alt='Cómo funciona el permiso A1 de la DGT que permite conducir sin tener 18 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395'>La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-tv-p1-43-oferta-26-agosto-2022-1114395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-xiaomi-android-43-ya-cuesta-menos-260eu-mediamarkt-2794947.jpg' alt='La Smart TV de Xiaomi con Android TV de 43" es una ganga en esta oferta de MediaMarkt' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/ordenador-utiliza-estufa-como-caja-modding-perfecto-invierno-avecina-1114907'>El ordenador que utiliza una estufa como caja: el modding perfecto para el invierno que se avecina</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ordenador-utiliza-estufa-como-caja-modding-perfecto-invierno-avecina-1114907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mooding-ordenador-2795907.jpg' alt='El ordenador que utiliza una estufa como caja: el modding perfecto para el invierno que se avecina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835'>Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sillas-gaming-valen-todo-equipo-lista-opciones-locas-caras-1114835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/acer-predator-thronos-2795647.jpg' alt='Sillas gaming que valen más que todo tu equipo: lista con las opciones más locas y caras' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
     </a>
 </div>
 
