@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039'>Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fabrican-moviles-plegables-samsung-2796257.jpg' alt='Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029'>OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017'>Salen a la venta en Japón las gafas que curan la miopía</a></h4>
     <a href='https://computerhoy.com/noticias/life/gafas-curan-miopia-kubota-glass-1115017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/salen-venta-japon-gafas-curan-miopia-2796203.jpg' alt='Salen a la venta en Japón las gafas que curan la miopía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007'>Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-1115007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/redmi-note-11-gama-media-xiaomi-deja-incluir-cargador-2796155.jpg' alt='Redmi Note 11 SE: la gama media de Xiaomi deja de incluir cargador' />
     </a>
 </div>
 
