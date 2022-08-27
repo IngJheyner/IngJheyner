@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873'>Mejores ratones verticales que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-lift-2795811.jpg' alt='Mejores ratones verticales que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213'>Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador</a></h4>
     <a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buena-idea-usar-tubo-papel-cocina-aspirador-2796487.jpg' alt='Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279'>Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes</a></h4>
     <a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sniffspot-te-paga-alquilar-jardin-horas-jueguen-perros-2792859.jpg' alt='Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041'>Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/despues-batgirl-hbo-tambien-cancela-serie-batman-jj-abrams-2796319.jpg' alt='Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams' />
     </a>
 </div>
 
