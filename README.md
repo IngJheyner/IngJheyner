@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275'>Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-netflix-ella-balinska-2757237.jpg' alt='Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263'>Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/td-systems-2796561.jpg' alt='Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805'>Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/siempre-quisiste-tener-pantalla-curva-ordenador-27-huawei-solo-te-costara-269eu-2795523.jpg' alt='Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761'>Huawei Band 7, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-band-7-2792865.jpg' alt='Huawei Band 7, análisis y opinión' />
     </a>
 </div>
 
