@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285'>La conectividad de Starlink llegará a los coches eléctricos de Tesla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='La conectividad de Starlink llegará a los coches eléctricos de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279'>Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg' alt='Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863'>Las 6 series canceladas por Netflix que más echamos de menos</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mindhunter-2794071.jpg' alt='Las 6 series canceladas por Netflix que más echamos de menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255'>Google lanza una actualización de emergencia para Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google lanza una actualización de emergencia para Android Auto' />
     </a>
 </div>
 
