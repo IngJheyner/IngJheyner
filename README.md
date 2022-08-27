@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-hacer-fotografias-ventanilla-avion-1112541'>7 trucos para hacer fotografías desde la ventanilla de un avión</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/7-trucos-hacer-fotografias-ventanilla-avion-1112541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fotografia-avion-2791125.jpg' alt='7 trucos para hacer fotografías desde la ventanilla de un avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285'>La conectividad de Starlink llegará a los coches eléctricos de Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='La conectividad de Starlink llegará a los coches eléctricos de Tesla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275'>Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-netflix-ella-balinska-2757237.jpg' alt='Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263'>Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/td-systems-2796561.jpg' alt='Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863'>Las 6 series canceladas por Netflix que más echamos de menos</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mindhunter-2794071.jpg' alt='Las 6 series canceladas por Netflix que más echamos de menos' />
     </a>
 </div>
 
