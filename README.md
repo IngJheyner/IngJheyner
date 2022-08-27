@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211'>Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-regala-dos-juegazos-senor-anillos-assassins-creed-superclasico-guion-spielberg-2796483.jpg' alt='Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279'>Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes</a></h4>
     <a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sniffspot-te-paga-alquilar-jardin-horas-jueguen-perros-2792859.jpg' alt='Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029'>OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027'>Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-tiene-problema-android-auto-ni-mejores-moviles-pueden-ejecutarlo-errores-1115027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg' alt='Google tiene un problema con Android Auto: ni los mejores móviles pueden ejecutarlo sin errores' />
     </a>
 </div>
 
