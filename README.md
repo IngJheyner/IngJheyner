@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/impresiones-samsung-odyssey-ark-parece-sacado-nave-espacial-1115327'>Impresiones del Samsung Odyssey Ark, que parece sacado de una nave espacial</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/impresiones-samsung-odyssey-ark-parece-sacado-nave-espacial-1115327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/opinion-samsung-odyssey-ark-2796227.jpg' alt='Impresiones del Samsung Odyssey Ark, que parece sacado de una nave espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321'>Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741205.jpg' alt='Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285'>La conectividad de Starlink llegará a los coches eléctricos de Tesla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/conectividad-starlink-llegara-coches-electricos-tesla-1115285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg' alt='La conectividad de Starlink llegará a los coches eléctricos de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279'>Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg' alt='Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275'>Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-netflix-ella-balinska-2757237.jpg' alt='Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada' />
     </a>
 </div>
 
