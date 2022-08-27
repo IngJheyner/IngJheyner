@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711'>Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/olvidate-aspiradora-siempre-robot-aspirador-xiaomi-solo-183eu-codigo-2795409.jpg' alt='Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243'>Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sony-oled-xr-a80j-analisis-opinion-2394143.jpg' alt='Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733'>Esta máquina de lanzar cuchillos con mirilla láser no falla nunca</a></h4>
     <a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-2795433.jpg' alt='Esta máquina de lanzar cuchillos con mirilla láser no falla nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213'>Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador</a></h4>
     <a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buena-idea-usar-tubo-papel-cocina-aspirador-2796487.jpg' alt='Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/intercomunicador-bluetooth-moto-1105257'>Intercomunicador o auricular bluetooth para motos: guía, consejos y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/intercomunicador-bluetooth-moto-1105257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motos-2778911.jpg' alt='Intercomunicador o auricular bluetooth para motos: guía, consejos y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211'>Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-regala-dos-juegazos-senor-anillos-assassins-creed-superclasico-guion-spielberg-2796483.jpg' alt='Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg' />
     </a>
 </div>
 
