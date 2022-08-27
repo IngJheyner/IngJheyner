@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279'>Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facil-podras-cambiar-idioma-whatsapp-nueva-funcionalidad-1115279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg' alt='Así de fácil podrás cambiar el idioma en WhatsApp con su nueva funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275'>Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-no-apiada-nueva-propuesta-resident-evil-cancela-sola-temporada-1115275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/resident-evil-netflix-ella-balinska-2757237.jpg' alt='Netflix no se apiada de la nueva propuesta de Resident Evil y la cancela tras una sola temporada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255'>Google lanza una actualización de emergencia para Android Auto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google lanza una actualización de emergencia para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805'>Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/siempre-quisiste-tener-pantalla-curva-ordenador-27-huawei-solo-te-costara-269eu-2795523.jpg' alt='Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€' />
     </a>
 </div>
 
