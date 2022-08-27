@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939'>¿Qué es la tecnología 6G?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661513659327-2795869.jpg' alt='¿Qué es la tecnología 6G?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-modern-14-review-opinion-1114477'>MSI Modern 14 C12M, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/msi-modern-14-review-opinion-1114477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/msi-modern-14-c12m-analisis-opinion-2795383.jpg' alt='MSI Modern 14 C12M, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711'>Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/olvidate-aspiradora-siempre-robot-aspirador-xiaomi-solo-183eu-codigo-2795409.jpg' alt='Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733'>Esta máquina de lanzar cuchillos con mirilla láser no falla nunca</a></h4>
     <a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-2795433.jpg' alt='Esta máquina de lanzar cuchillos con mirilla láser no falla nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873'>Mejores ratones verticales que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-lift-2795811.jpg' alt='Mejores ratones verticales que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213'>Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buena-idea-usar-tubo-papel-cocina-aspirador-2796487.jpg' alt='Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador' />
     </a>
 </div>
 
