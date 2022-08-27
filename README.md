@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-errores-hardware-comunes-mac-como-solucionarlos-1104379'>Los 10 errores hardware más comunes en Mac y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-errores-hardware-comunes-mac-como-solucionarlos-1104379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mac-2777499.jpg' alt='Los 10 errores hardware más comunes en Mac y cómo solucionarlos' />
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863'>Las 6 series canceladas por Netflix que más echamos de menos</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mindhunter-2794071.jpg' alt='Las 6 series canceladas por Netflix que más echamos de menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939'>¿Qué es la tecnología 6G?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/redes-6g-2022595.jpg' alt='¿Qué es la tecnología 6G?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255'>Google lanza una actualización de emergencia para Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-lanza-actualizacion-emergencia-android-auto-1115255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg' alt='Google lanza una actualización de emergencia para Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/msi-modern-14-review-opinion-1114477'>MSI Modern 14 C12M, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/msi-modern-14-review-opinion-1114477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/msi-modern-14-c12m-analisis-opinion-2795383.jpg' alt='MSI Modern 14 C12M, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805'>Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mateview-27-oferta-26-agosto-2022-1114805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/siempre-quisiste-tener-pantalla-curva-ordenador-27-huawei-solo-te-costara-269eu-2795523.jpg' alt='Si siempre quisiste tener una pantalla curva en tu ordenador, esta de 27" de Huawei solo te costará 269€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711'>Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-robot-vacuum-mop%202c-oferta-27-agosto-2022-1114711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/olvidate-aspiradora-siempre-robot-aspirador-xiaomi-solo-183eu-codigo-2795409.jpg' alt='Olvídate de la aspiradora para siempre con este robot aspirador de Xiaomi, por solo 183€ con este código' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761'>Huawei Band 7, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-band-7-2792865.jpg' alt='Huawei Band 7, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243'>Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sony-oled-xr-a80j-analisis-opinion-2394143.jpg' alt='Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-mostrarte-4-minutos-anuncios-hora-plan-publicidad-precio-1115245'>Netflix podría mostrarte hasta 4 minutos de anuncios por hora en su plan con publicidad a este precio</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-mostrarte-4-minutos-anuncios-hora-plan-publicidad-precio-1115245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix podría mostrarte hasta 4 minutos de anuncios por hora en su plan con publicidad a este precio' />
     </a>
 </div>
 
