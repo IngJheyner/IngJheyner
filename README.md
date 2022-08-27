@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939'>¿Qué es la tecnología 6G?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661513659327-2795869.jpg' alt='¿Qué es la tecnología 6G?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/redes-6g-2022595.jpg' alt='¿Qué es la tecnología 6G?' />
     </a>
 </div>
 
