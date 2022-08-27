@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733'>Esta máquina de lanzar cuchillos con mirilla láser no falla nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-2795433.jpg' alt='Esta máquina de lanzar cuchillos con mirilla láser no falla nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873'>Mejores ratones verticales que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ratones-verticales-1114873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-lift-2795811.jpg' alt='Mejores ratones verticales que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211'>Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-regala-dos-juegazos-senor-anillos-assassins-creed-superclasico-guion-spielberg-2796483.jpg' alt='Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279'>Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sniffspot-alquilar-jardin-jueguen-perros-1113279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sniffspot-te-paga-alquilar-jardin-horas-jueguen-perros-2792859.jpg' alt='Sniffspot te paga por alquilar tu jardín por horas para que jueguen los perros de tus clientes' />
     </a>
 </div>
 
