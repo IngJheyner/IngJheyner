@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213'>Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tubo-papel-cocina-aspirador-1115213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/buena-idea-usar-tubo-papel-cocina-aspirador-2796487.jpg' alt='Por qué es una buena idea usar un tubo de papel de cocina con tu aspirador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/intercomunicador-bluetooth-moto-1105257'>Intercomunicador o auricular bluetooth para motos: guía, consejos y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/intercomunicador-bluetooth-moto-1105257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motos-2778911.jpg' alt='Intercomunicador o auricular bluetooth para motos: guía, consejos y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211'>Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/prime-gaming-septiembre-shadows-mordor--assassins-creed-the-dig-guion-spielberg-1115211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amazon-regala-dos-juegazos-senor-anillos-assassins-creed-superclasico-guion-spielberg-2796483.jpg' alt='Amazon regala dos juegazos de El Señor de los Anillos y Assassin's Creed, y un superclásico con guión de Spielberg' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041'>Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/hbo-max-cancela-batman-caped-crusader-bruce-timm-jj-abrams-1115041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/despues-batgirl-hbo-tambien-cancela-serie-batman-jj-abrams-2796319.jpg' alt='Después de Batgirl, HBO Max también cancela la serie de Batman de Bruce Timm y J.J. Abrams' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039'>Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fabricacion-moviles-plegables-samsung-video-1115039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/fabrican-moviles-plegables-samsung-2796257.jpg' alt='Samsung muestra en un vídeo cómo fabrica sus móviles plegables, y es espectacular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029'>OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-ce-2-lite-5g-baja-precio-1115029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-nord-ce-2-lite-5g-nuevo-terminal-gama-media-oneplus-llega-pantalla-amoled-120-hz-2688925.jpg' alt='OnePlus Nord CE 2 Lite 5G baja de precio un 23%, un móvil excelente por 239 euros' />
     </a>
 </div>
 
