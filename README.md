@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-errores-hardware-comunes-mac-como-solucionarlos-1104379'>Los 10 errores hardware más comunes en Mac y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-errores-hardware-comunes-mac-como-solucionarlos-1104379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mac-2777499.jpg' alt='Los 10 errores hardware más comunes en Mac y cómo solucionarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939'>¿Qué es la tecnología 6G?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/tecnologia-6g-1100939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/redes-6g-2022595.jpg' alt='¿Qué es la tecnología 6G?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243'>Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-juegos-series-ha-reinventado-televisor-ultima-decada-1113243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sony-oled-xr-a80j-analisis-opinion-2394143.jpg' alt='Inteligencia Artificial, juegos y series: así se ha reinventado el televisor en la última década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733'>Esta máquina de lanzar cuchillos con mirilla láser no falla nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-1114733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/maquina-lanzar-cuchillos-mirilla-laser-no-falla-nunca-2795433.jpg' alt='Esta máquina de lanzar cuchillos con mirilla láser no falla nunca' />
     </a>
 </div>
 
