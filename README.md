@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263'>Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/television-50-pulgadas-google-chromecast-integrado-cuesta-menos-400-euros-1115263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/td-systems-2796561.jpg' alt='Esta televisión de 50 pulgadas con Google Chromecast integrado cuesta menos de 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863'>Las 6 series canceladas por Netflix que más echamos de menos</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/6-series-canceladas-netflix-echamos-menos-1113863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mindhunter-2794071.jpg' alt='Las 6 series canceladas por Netflix que más echamos de menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761'>Huawei Band 7, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/huawei-band-7-review-opinion-1112761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-band-7-2792865.jpg' alt='Huawei Band 7, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-mostrarte-4-minutos-anuncios-hora-plan-publicidad-precio-1115245'>Netflix podría mostrarte hasta 4 minutos de anuncios por hora en su plan con publicidad a este precio</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-mostrarte-4-minutos-anuncios-hora-plan-publicidad-precio-1115245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix podría mostrarte hasta 4 minutos de anuncios por hora en su plan con publicidad a este precio' />
     </a>
 </div>
 
