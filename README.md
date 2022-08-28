@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-movil-top-xiaomi-sucesor-12s-ultra-camara-1-pulgada-llegara-mercado-global-1115615'>El próximo móvil top de Xiaomi, sucesor del 12S Ultra con cámara de 1 pulgada, sí llegará al mercado global</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/proximo-movil-top-xiaomi-sucesor-12s-ultra-camara-1-pulgada-llegara-mercado-global-1115615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-12s-ultra-2796959.jpg' alt='El próximo móvil top de Xiaomi, sucesor del 12S Ultra con cámara de 1 pulgada, sí llegará al mercado global' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599'>Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-freebuds-2796887.jpg' alt='Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-oferta-28-agosto-2022-1114859'>¿Intel o AMD? Elige el que quieras en este Huawei MateBook D 15 en uno de sus precios más bajos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-oferta-28-agosto-2022-1114859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-amd-elige-quieras-huawei-matebook-d-15-precios-bajos-2795675.jpg' alt='¿Intel o AMD? Elige el que quieras en este Huawei MateBook D 15 en uno de sus precios más bajos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575'>El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre' />
     </a>
 </div>
 
