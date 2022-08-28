@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627'>Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ryse-recon-2796973.jpg' alt='Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619'>Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg' alt='Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849'>7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chico-rita-2794061.jpg' alt='7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589'>Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/snapdragon-8-gen-1-2796875.jpg' alt='Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas' />
     </a>
 </div>
 
