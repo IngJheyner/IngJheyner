@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-a95k-master-series-55-review-opinion-1114201'>Sony Bravia XR A95K Master Series de 55”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-a95k-master-series-55-review-opinion-1114201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-bravia-xr-a95k-master-series-55-analisis-opinion-2796315.jpg' alt='Sony Bravia XR A95K Master Series de 55”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069'>Cómo restaurar una fotografía antigua gratis con ayuda de la IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gfp-gan-2780077.jpg' alt='Cómo restaurar una fotografía antigua gratis con ayuda de la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espectros-rojos-cielos-desierto-atacama-chile-1114831'>Qué son estos extraños espectros rojos que han aparecido en los cielos del desierto de Atacama, en Chile</a></h4>
     <a href='https://computerhoy.com/noticias/life/espectros-rojos-cielos-desierto-atacama-chile-1114831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-estas-extranas-vetas-rojas-han-aparecido-cielos-desierto-atacama-chile-2795609.jpg' alt='Qué son estos extraños espectros rojos que han aparecido en los cielos del desierto de Atacama, en Chile' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989'>¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-levantando-peso-gimnasio-2796143.jpg' alt='¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio' />
     </a>
 </div>
 
