@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095'>Cómo personalizar la instalación Windows 11 (OOBE)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Cómo personalizar la instalación Windows 11 (OOBE)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081'>Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bateria-externa-2785525.jpg' alt='Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325'>Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-2796647.jpg' alt='Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329'>A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/desierto-2796651.jpg' alt='A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas' />
     </a>
 </div>
 
