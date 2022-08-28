@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659'>Google Meet al fin añade una de las opciones más usadas de Zoom</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-meet-1920059.jpg' alt='Google Meet al fin añade una de las opciones más usadas de Zoom' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653'>Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano</a></h4>
     <a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-2797011.jpg' alt='Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627'>Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ryse-recon-2796973.jpg' alt='Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619'>Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg' alt='Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos' />
     </a>
 </div>
 
