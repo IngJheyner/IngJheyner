@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589'>Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/snapdragon-8-gen-1-2796875.jpg' alt='Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-oferta-28-agosto-2022-1114859'>¿Intel o AMD? Elige el que quieras en este Huawei MateBook D 15 en uno de sus precios más bajos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-d-15-oferta-28-agosto-2022-1114859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/intel-amd-elige-quieras-huawei-matebook-d-15-precios-bajos-2795675.jpg' alt='¿Intel o AMD? Elige el que quieras en este Huawei MateBook D 15 en uno de sus precios más bajos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575'>El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081'>Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bateria-externa-2785525.jpg' alt='Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-a95k-master-series-55-review-opinion-1114201'>Sony Bravia XR A95K Master Series de 55”, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/sony-bravia-xr-a95k-master-series-55-review-opinion-1114201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-bravia-xr-a95k-master-series-55-analisis-opinion-2796315.jpg' alt='Sony Bravia XR A95K Master Series de 55”, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069'>Cómo restaurar una fotografía antigua gratis con ayuda de la IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gfp-gan-2780077.jpg' alt='Cómo restaurar una fotografía antigua gratis con ayuda de la IA' />
     </a>
 </div>
 
