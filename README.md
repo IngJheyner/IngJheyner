@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737'>Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/multimetro-digital-2785029.jpg' alt='Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871'>Casi puedes tocar la Luna con la foto más detallada jamás capturada</a></h4>
     <a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='Casi puedes tocar la Luna con la foto más detallada jamás capturada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321'>Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741205.jpg' alt='Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953'>Mejores relojes inteligentes baratos que puedes comprar en AliExpress</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-baratos-comprar-aliexpress-1002953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/oppo-watch-2599665.jpg' alt='Mejores relojes inteligentes baratos que puedes comprar en AliExpress' />
     </a>
 </div>
 
