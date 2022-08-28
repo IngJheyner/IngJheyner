@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599'>Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-freebuds-2796887.jpg' alt='Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849'>7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chico-rita-2794061.jpg' alt='7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589'>Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-ve-orejas-lobo-dimensity-prepara-snapdragon-6-gen-1-gamas-5g-modestas-1115589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/snapdragon-8-gen-1-2796875.jpg' alt='Qualcomm ve las orejas al lobo Dimensity y prepara un Snapdragon 6 Gen 1 para las gamas 5G más modestas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575'>El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095'>Cómo personalizar la instalación Windows 11 (OOBE)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Cómo personalizar la instalación Windows 11 (OOBE)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081'>Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/baterias-portatiles-no-todas-son-iguales-debes-saber-elegir-correcta-uso-1109081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bateria-externa-2785525.jpg' alt='Baterías portátiles, no todas son iguales: lo que debes saber para elegir la correcta para tu uso' />
     </a>
 </div>
 
