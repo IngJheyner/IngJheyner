@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641'>Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtra-xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-2797001.jpg' alt='Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627'>Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ryse-recon-2796973.jpg' alt='Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599'>Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-freebuds-2796887.jpg' alt='Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849'>7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-animacion-espanolas-derriban-cualquier-prejuicio-industria-nacional-1113849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/chico-rita-2794061.jpg' alt='7 películas de animación españolas que derriban cualquier prejuicio sobre la industria nacional' />
     </a>
 </div>
 
