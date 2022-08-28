@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069'>Cómo restaurar una fotografía antigua gratis con ayuda de la IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gfp-gan-2780077.jpg' alt='Cómo restaurar una fotografía antigua gratis con ayuda de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325'>Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-2796647.jpg' alt='Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329'>A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas</a></h4>
     <a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/desierto-2796651.jpg' alt='A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989'>¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-levantando-peso-gimnasio-2796143.jpg' alt='¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737'>Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/multimetro-digital-2785029.jpg' alt='Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871'>Casi puedes tocar la Luna con la foto más detallada jamás capturada</a></h4>
-    <a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='Casi puedes tocar la Luna con la foto más detallada jamás capturada' />
     </a>
 </div>
 
