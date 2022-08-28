@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-plant-parent-identifica-plantas-inteligencia-artificial-1115663'>Si siempre se te mueren las plantas usa la app Plant Parent: las identifica con IA y te guía en sus cuidados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/app-plant-parent-identifica-plantas-inteligencia-artificial-1115663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/siempre-te-mueren-plantas-usa-app-plant-parent-identifica-ia-te-guia-cuidados-2797059.jpg' alt='Si siempre se te mueren las plantas usa la app Plant Parent: las identifica con IA y te guía en sus cuidados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659'>Google Meet al fin añade una de las opciones más usadas de Zoom</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-meet-1920059.jpg' alt='Google Meet al fin añade una de las opciones más usadas de Zoom' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641'>Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtra-xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-2797001.jpg' alt='Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627'>Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-volador-granjeros-no-necesita-licencia-piloto-1115627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ryse-recon-2796973.jpg' alt='Sale a la venta el primer coche volador para granjeros que no necesita licencia de piloto (vídeo)' />
     </a>
 </div>
 
