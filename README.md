@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575'>El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-sera-smartwatch-avanzado-apple-presentaria-junto-iphone-14-7-septiembre-1115575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/persona-apple-watch-muneca-2690523.jpg' alt='El Apple Watch Pro será el smartwatch más avanzado de Apple y se presentaría junto al iPhone 14 el 7 de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095'>Cómo personalizar la instalación Windows 11 (OOBE)</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-personalizar-instalacion-windows-11-oobe-1025095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-2621901.jpg' alt='Cómo personalizar la instalación Windows 11 (OOBE)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069'>Cómo restaurar una fotografía antigua gratis con ayuda de la IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-restaurar-fotografia-antigua-gratis-ayuda-ia-1106069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/gfp-gan-2780077.jpg' alt='Cómo restaurar una fotografía antigua gratis con ayuda de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325'>Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-1115325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robot-incapaz-hacer-simple-perrito-caliente-desatando-burla-redes-sociales-2796647.jpg' alt='Este robot es incapaz de hacer un simple perrito caliente desatando la burla en redes sociales' />
     </a>
 </div>
 
