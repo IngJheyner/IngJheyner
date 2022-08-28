@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329'>A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/partir-fecha-sera-casi-imposible-vivir-planeta-altas-temperaturas-1115329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/desierto-2796651.jpg' alt='A partir de esta fecha será casi imposible vivir en nuestro planeta por las altas temperaturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espectros-rojos-cielos-desierto-atacama-chile-1114831'>Qué son estos extraños espectros rojos que han aparecido en los cielos del desierto de Atacama, en Chile</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espectros-rojos-cielos-desierto-atacama-chile-1114831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-estas-extranas-vetas-rojas-han-aparecido-cielos-desierto-atacama-chile-2795609.jpg' alt='Qué son estos extraños espectros rojos que han aparecido en los cielos del desierto de Atacama, en Chile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989'>¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-productos-ponerte-en-forma-1114989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/persona-levantando-peso-gimnasio-2796143.jpg' alt='¿Te quieres poner en forma en septiembre? Estos producto te ayudarán a controlar tu ejercicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737'>Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?</a></h4>
     <a href='https://computerhoy.com/guia-compra/multimetro-digital-1108737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/multimetro-digital-2785029.jpg' alt='Comprar un multímetro digital para reparaciones en casa: ¿merecen la pena los multímetros baratos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871'>Casi puedes tocar la Luna con la foto más detallada jamás capturada</a></h4>
     <a href='https://computerhoy.com/noticias/life/luna-foto-mas-detallada-jamas-capturada-1114871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='Casi puedes tocar la Luna con la foto más detallada jamás capturada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/netflix-trabaja-multijugador-miembros-tablas-clasificacion-juegos-1115331'>Netflix trabaja en un multijugador entre miembros y tablas de clasificación para sus juegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/netflix-trabaja-multijugador-miembros-tablas-clasificacion-juegos-1115331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/netflix-ya-tiene-videojuegos-puedes-acceder-ellos-siguiente-manera-2485981.jpg' alt='Netflix trabaja en un multijugador entre miembros y tablas de clasificación para sus juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/impresiones-samsung-odyssey-ark-parece-sacado-nave-espacial-1115327'>Impresiones del Samsung Odyssey Ark, que parece sacado de una nave espacial</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/impresiones-samsung-odyssey-ark-parece-sacado-nave-espacial-1115327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/opinion-samsung-odyssey-ark-2796227.jpg' alt='Impresiones del Samsung Odyssey Ark, que parece sacado de una nave espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321'>Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-13-llegaria-dispositivos-samsung-mes-antes-ano-pasado-1115321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741205.jpg' alt='Android 13 llegaría a los dispositivos Samsung un mes antes que el año pasado' />
     </a>
 </div>
 
