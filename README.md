@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653'>Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-2797011.jpg' alt='Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-telecinco-directo-movil-tablet-ios-android-tdt-1113653'>Cómo ver Telecinco en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-telecinco-directo-movil-tablet-ios-android-tdt-1113653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telecinco-movil-2793463.jpg' alt='Cómo ver Telecinco en directo en tu móvil o tablet (iOS / Android) sin TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641'>Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-1115641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/filtra-xbox-game-pass-friends-family-compartir-suscripcion-xbox-familiares-amigos-2797001.jpg' alt='Se filtra Xbox Game Pass Friends & Family, para compartir tu suscripción de Xbox con familiares y amigos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619'>Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pretende-todas-aplicaciones-android-funcionen-todo-tipo-dispositivos-1115619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg' alt='Google pretende que todas las aplicaciones de Android funcionen en todo tipo de dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/proximo-movil-top-xiaomi-sucesor-12s-ultra-camara-1-pulgada-llegara-mercado-global-1115615'>El próximo móvil top de Xiaomi, sucesor del 12S Ultra con cámara de 1 pulgada, sí llegará al mercado global</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/proximo-movil-top-xiaomi-sucesor-12s-ultra-camara-1-pulgada-llegara-mercado-global-1115615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-12s-ultra-2796959.jpg' alt='El próximo móvil top de Xiaomi, sucesor del 12S Ultra con cámara de 1 pulgada, sí llegará al mercado global' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599'>Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/despidete-verano-mejor-musica-gracias-huawei-freebuds-solo-3999-euros-1115599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/huawei-freebuds-2796887.jpg' alt='Despídete del verano con la mejor música gracias a los Huawei FreeBuds SE a solo 39,99 euros' />
     </a>
 </div>
 
