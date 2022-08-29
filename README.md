@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-nvidia-van-bajar-aun-precios-tarjetas-graficas-septiembre-1116027'>AMD y NVIDIA van a bajar aún más los precios de sus tarjetas gráficas en septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amd-nvidia-van-bajar-aun-precios-tarjetas-graficas-septiembre-1116027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='AMD y NVIDIA van a bajar aún más los precios de sus tarjetas gráficas en septiembre' />
+    <h4><a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115'>El lanzamiento de la misión Artemis I cancelado por problemas técnicos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/artemis-i-2797759.jpg' alt='El lanzamiento de la misión Artemis I cancelado por problemas técnicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023'>El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610043.jpg' alt='El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman' />
+    <h4><a href='https://computerhoy.com/noticias/life/nueva-alerta-sanitaria-ahora-conservas-productos-afectados-como-detectarlos-1116095'>Nueva alerta sanitaria, ahora en conservas: productos afectados y cómo detectarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nueva-alerta-sanitaria-ahora-conservas-productos-afectados-como-detectarlos-1116095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ocu-2797691.jpg' alt='Nueva alerta sanitaria, ahora en conservas: productos afectados y cómo detectarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-muestra-como-adelantar-correctamente-ciclista-pero-muchos-no-estan-acuerdo-quien-tiene-razon-1116013'>La DGT muestra cómo adelantar correctamente a un ciclista, pero muchos no están de acuerdo: ¿quién tiene razón?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-muestra-como-adelantar-correctamente-ciclista-pero-muchos-no-estan-acuerdo-quien-tiene-razon-1116013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La DGT muestra cómo adelantar correctamente a un ciclista, pero muchos no están de acuerdo: ¿quién tiene razón?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cambiar-idioma-interfaz-whatsapp-1115279'>WhatsApp para aprender idiomas, la nueva función a punto de llegar a tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cambiar-idioma-interfaz-whatsapp-1115279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg' alt='WhatsApp para aprender idiomas, la nueva función a punto de llegar a tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/aspiradora-escoba-dyson-822249'>Aspiradores sin cable Dyson: guía para no perderte al comprar los mejores aspiradores de mano</a></h4>
-    <a href='https://computerhoy.com/guia-compra/aspiradora-escoba-dyson-822249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dyson-v7-motorhead-2221941.jpg' alt='Aspiradores sin cable Dyson: guía para no perderte al comprar los mejores aspiradores de mano' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mientras-europa-raciona-gas-rusia-queman-dia-10-millones-euros-porque-1116071'>Mientras que Europa raciona el gas, en Rusia queman al día 10 millones de euros porque sí</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mientras-europa-raciona-gas-rusia-queman-dia-10-millones-euros-porque-1116071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tuberias-instalaciones-desembarco-gasoducto-nord-stream-1-lubmin-alemania-2771651.jpg' alt='Mientras que Europa raciona el gas, en Rusia queman al día 10 millones de euros porque sí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869'>El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-router-4a-oferta-29-agosto-2022-1115889'>Este router Xiaomi le dará a tu WiFi justo lo que necesita, y por solo 15 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-mi-router-4a-oferta-29-agosto-2022-1115889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/router-xiaomi-mi-router-4a-2369497.jpg' alt='Este router Xiaomi le dará a tu WiFi justo lo que necesita, y por solo 15 euros' />
     </a>
 </div>
 
