@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-nvidia-van-bajar-aun-precios-tarjetas-graficas-septiembre-1116027'>AMD y NVIDIA van a bajar aún más los precios de sus tarjetas gráficas en septiembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-nvidia-van-bajar-aun-precios-tarjetas-graficas-septiembre-1116027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/hace-medio-ano-no-podemos-comprar-tarjetas-rtx-pero-nvidia-lanza-nuevas-rtx-3080-ti-3070-ti-2355663.jpg' alt='AMD y NVIDIA van a bajar aún más los precios de sus tarjetas gráficas en septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023'>El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610043.jpg' alt='El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869'>El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sucede-bateria-coche-electrico-cuando-muere-mitad-viaje-1115987'>Esto es lo que sucede con la batería de tu coche eléctrico cuando esta muere en mitad de un viaje</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sucede-bateria-coche-electrico-cuando-muere-mitad-viaje-1115987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-cargando-2620117.jpg' alt='Esto es lo que sucede con la batería de tu coche eléctrico cuando esta muere en mitad de un viaje' />
     </a>
 </div>
 
