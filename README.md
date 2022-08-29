@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403'>Las mejores imágenes de buenos días gratis para WhatsApp</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Las mejores imágenes de buenos días gratis para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1115857'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1115857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2797247.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-septiembre-amazon-1115631'>Ofertas de septiembre de Amazon: estos son los mejores chollos que puedes conseguir</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-septiembre-amazon-1115631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680689.jpg' alt='Ofertas de septiembre de Amazon: estos son los mejores chollos que puedes conseguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369'>Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/raton-zurdos-logitech-2796969.jpg' alt='Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-sonidos-no-escuchas-hace-30-anos-1115549'>El vídeo con los sonidos que no escuchas desde hace 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-sonidos-no-escuchas-hace-30-anos-1115549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/video-sonidos-no-escuchas-hace-30-anos-2796849.jpg' alt='El vídeo con los sonidos que no escuchas desde hace 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-plant-parent-identifica-plantas-inteligencia-artificial-1115663'>Si siempre se te mueren las plantas usa la app Plant Parent: las identifica con IA y te guía en sus cuidados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-plant-parent-identifica-plantas-inteligencia-artificial-1115663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/siempre-te-mueren-plantas-usa-app-plant-parent-identifica-ia-te-guia-cuidados-2797059.jpg' alt='Si siempre se te mueren las plantas usa la app Plant Parent: las identifica con IA y te guía en sus cuidados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659'>Google Meet al fin añade una de las opciones más usadas de Zoom</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-meet-presionar-para-hablar-1115659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-meet-1920059.jpg' alt='Google Meet al fin añade una de las opciones más usadas de Zoom' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653'>Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-1115653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cenizas-creador-star-trek-tres-actores-serie-original-viajaran-espacio-cohete-centauro-vulcano-2797011.jpg' alt='Las cenizas del creador de Star Trek y tres actores de la serie original viajarán al espacio profundo en el cohete Centauro Vulcano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-ver-telecinco-directo-movil-tablet-ios-android-tdt-1113653'>Cómo ver Telecinco en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-ver-telecinco-directo-movil-tablet-ios-android-tdt-1113653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telecinco-movil-2793463.jpg' alt='Cómo ver Telecinco en directo en tu móvil o tablet (iOS / Android) sin TDT' />
     </a>
 </div>
 
