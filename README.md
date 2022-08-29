@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193'>Los 8 errores que evitar al comprar una consola de segunda mano</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg' alt='Los 8 errores que evitar al comprar una consola de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403'>Las mejores imágenes de buenos días gratis para WhatsApp</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Las mejores imágenes de buenos días gratis para WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369'>Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/raton-zurdos-logitech-2796969.jpg' alt='Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-sonidos-no-escuchas-hace-30-anos-1115549'>El vídeo con los sonidos que no escuchas desde hace 30 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-sonidos-no-escuchas-hace-30-anos-1115549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/video-sonidos-no-escuchas-hace-30-anos-2796849.jpg' alt='El vídeo con los sonidos que no escuchas desde hace 30 años' />
     </a>
 </div>
 
