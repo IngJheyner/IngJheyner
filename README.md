@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-1116215'>WhatsApp también quiere ser un supermercado y ahora permite hacer la compra con un par de mensajes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-1116215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-2797975.jpg' alt='WhatsApp también quiere ser un supermercado y ahora permite hacer la compra con un par de mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cumple-25-anos-1116229'>Netflix cumple 25 años, en plena encrucijada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cumple-25-anos-1116229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-aniversario-netflix-2797979.jpg' alt='Netflix cumple 25 años, en plena encrucijada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/detectan-senales-sonda-voyager-objeto-creado-ser-humano-alejado-tierra-1116225'>Detectan señales de la sonda Voyager, el objeto creado por el ser humano más alejado de la Tierra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/detectan-senales-sonda-voyager-objeto-creado-ser-humano-alejado-tierra-1116225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg' alt='Detectan señales de la sonda Voyager, el objeto creado por el ser humano más alejado de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-desbloquea-android-auto-coches-android-automotive-tiene-mucho-sentido-1116219'>Google desbloquea Android Auto en los coches con Android Automotive (y tiene mucho sentido)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-desbloquea-android-auto-coches-android-automotive-tiene-mucho-sentido-1116219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Google desbloquea Android Auto en los coches con Android Automotive (y tiene mucho sentido)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179'>PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/savage-games-une-playstation-studios-2797543.jpg' alt='PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149'>Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-utilizando-excel-llevar-cuentas-no-pasarte-1116141'>Cómo ahorrar utilizando Excel para llevar tus cuentas y no pasarte </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-utilizando-excel-llevar-cuentas-no-pasarte-1116141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ahorro-2220983.jpg' alt='Cómo ahorrar utilizando Excel para llevar tus cuentas y no pasarte ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-ya-sabemos-cuanto-te-costaria-condiciones-no-ningun-chollo-1116107'>¿Netflix con anuncios? Ya sabemos cuánto te costaría y las condiciones, y no es ningún chollo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-ya-sabemos-cuanto-te-costaria-condiciones-no-ningun-chollo-1116107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-busca-socio-inesperado-tarifa-anuncios-microsoft-2758217.jpg' alt='¿Netflix con anuncios? Ya sabemos cuánto te costaría y las condiciones, y no es ningún chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-idioma-oficial-menos-personas-hablan-mundo-1116029'>Cuál es el idioma oficial que menos personas hablan en el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-idioma-oficial-menos-personas-hablan-mundo-1116029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='Cuál es el idioma oficial que menos personas hablan en el mundo' />
     </a>
 </div>
 
