@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251'>Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-explica-significado-logos-tesla-spacex-revela-algunos-secretos-2798039.jpg' alt='Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-xiaomi-12s-ultra-movil-fotografico-top-compania-leica-1116239'>Primeras impresiones del Xiaomi 12s Ultra, móvil top de la compañía y Leica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-xiaomi-12s-ultra-movil-fotografico-top-compania-leica-1116239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-12s-ultra-2798029.jpg' alt='Primeras impresiones del Xiaomi 12s Ultra, móvil top de la compañía y Leica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245'>Facebook e Instagram ya aceptan oficialmente NFTs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/facebook-instagram-ya-aceptan-oficialmente-nfts-2798011.jpg' alt='Facebook e Instagram ya aceptan oficialmente NFTs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217'>Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/hp-omen-spacer-tkl-teclado-mecanico-inalambrico-todas-prestaciones-exigen-gamers-1113881'>HP Omen Spacer TKL, el teclado mecánico inalámbrico con todas las prestaciones que exigen los gamers </a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/hp-omen-spacer-tkl-teclado-mecanico-inalambrico-todas-prestaciones-exigen-gamers-1113881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-hp-omen-spacer-tkl-inalambrico-pccomponentes-2794089.jpg' alt='HP Omen Spacer TKL, el teclado mecánico inalámbrico con todas las prestaciones que exigen los gamers ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869'>Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-deportivo-samsung-galaxy-watch5-pro-pccomponentes-2794075.jpg' alt='Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras' />
     </a>
 </div>
 
