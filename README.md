@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245'>Facebook e Instagram ya aceptan oficialmente NFTs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/facebook-instagram-ya-aceptan-oficialmente-nfts-2798011.jpg' alt='Facebook e Instagram ya aceptan oficialmente NFTs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237'>Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217'>Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869'>Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-deportivo-samsung-galaxy-watch5-pro-pccomponentes-2794075.jpg' alt='Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/hp-15s-fq5085ns-portatil-altura-gama-alta-ahora-precio-super-competitivo-1113829'>HP 15S-FQ5085NS, un portátil a la altura de la gama alta, ahora a un precio súper competitivo</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/hp-15s-fq5085ns-portatil-altura-gama-alta-ahora-precio-super-competitivo-1113829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-hp-pccomponentes-2793977.jpg' alt='HP 15S-FQ5085NS, un portátil a la altura de la gama alta, ahora a un precio súper competitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/portatil-cubrira-todas-necesidades-existe-msi-modern-15-ahora-rebajado-1113771'>El portátil que cubrirá todas tus necesidades existe: es este MSI Modern 15 y ahora está rebajado </a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/portatil-cubrira-todas-necesidades-existe-msi-modern-15-ahora-rebajado-1113771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-msi-pccomponentes-2793793.jpg' alt='El portátil que cubrirá todas tus necesidades existe: es este MSI Modern 15 y ahora está rebajado ' />
     </a>
 </div>
 
