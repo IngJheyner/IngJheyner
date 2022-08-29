@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-energia-mediante-oleaje-promete-ser-forma-barata-limpia-futuro-1115979'>El generador de energía mediante oleaje que promete ser la forma más barata y limpia del futuro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/generador-energia-mediante-oleaje-promete-ser-forma-barata-limpia-futuro-1115979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/energia-2797403.jpg' alt='El generador de energía mediante oleaje que promete ser la forma más barata y limpia del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915'>Así se utiliza la función SOS de tu smartphone, para casos de emergencia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/112-movil.jpg' alt='Así se utiliza la función SOS de tu smartphone, para casos de emergencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913'>Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/janet-jacson-2788575.jpg' alt='Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)' />
     </a>
 </div>
 
