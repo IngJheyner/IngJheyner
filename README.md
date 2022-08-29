@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149'>Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-utilizando-excel-llevar-cuentas-no-pasarte-1116141'>Cómo ahorrar utilizando Excel para llevar tus cuentas y no pasarte </a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ahorrar-utilizando-excel-llevar-cuentas-no-pasarte-1116141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ahorro-2220983.jpg' alt='Cómo ahorrar utilizando Excel para llevar tus cuentas y no pasarte ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115'>El lanzamiento de la misión Artemis I cancelado por problemas técnicos</a></h4>
     <a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/artemis-i-2797759.jpg' alt='El lanzamiento de la misión Artemis I cancelado por problemas técnicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-alerta-sanitaria-ahora-conservas-productos-afectados-como-detectarlos-1116095'>Nueva alerta sanitaria, ahora en conservas: productos afectados y cómo detectarlos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-alerta-sanitaria-ahora-conservas-productos-afectados-como-detectarlos-1116095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ocu-2797691.jpg' alt='Nueva alerta sanitaria, ahora en conservas: productos afectados y cómo detectarlos' />
     </a>
 </div>
 
