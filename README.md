@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913'>Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/janet-jacson-2788575.jpg' alt='Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cerca-estamos-usar-jetpacks-ir-trabajo-1115875'>Así de cerca estamos de usar jetpacks para ir al trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cerca-estamos-usar-jetpacks-ir-trabajo-1115875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/jetpack-2797265.jpg' alt='Así de cerca estamos de usar jetpacks para ir al trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193'>Los 8 errores que evitar al comprar una consola de segunda mano</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg' alt='Los 8 errores que evitar al comprar una consola de segunda mano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403'>Las mejores imágenes de buenos días gratis para WhatsApp</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Las mejores imágenes de buenos días gratis para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1115857'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1115857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2797247.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-septiembre-amazon-1115631'>Ofertas de septiembre de Amazon: estos son los mejores chollos que puedes conseguir</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ofertas-septiembre-amazon-1115631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680689.jpg' alt='Ofertas de septiembre de Amazon: estos son los mejores chollos que puedes conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369'>Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-ratones-ergonomicos-zurdos-puedes-comprar-hoy-dia-526369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/raton-zurdos-logitech-2796969.jpg' alt='Estos son los mejores ratones ergonómicos para zurdos que puedes comprar hoy en día' />
     </a>
 </div>
 
