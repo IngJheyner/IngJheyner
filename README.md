@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/generador-energia-mediante-oleaje-promete-ser-forma-barata-limpia-futuro-1115979'>El generador de energía mediante oleaje que promete ser la forma más barata y limpia del futuro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/generador-energia-mediante-oleaje-promete-ser-forma-barata-limpia-futuro-1115979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/energia-2797403.jpg' alt='El generador de energía mediante oleaje que promete ser la forma más barata y limpia del futuro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023'>El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-9-pro-ano-viene-seria-primer-smartwatch-integrar-conexion-satelite-mark-gurman-1116023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/apple-watch-series-3-2610043.jpg' alt='El Apple Watch 9 Pro del año que viene sería el primer smartwatch en integrar conexión por satélite, según Mark Gurman' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915'>Así se utiliza la función SOS de tu smartphone, para casos de emergencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/112-movil.jpg' alt='Así se utiliza la función SOS de tu smartphone, para casos de emergencia' />
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-muestra-como-adelantar-correctamente-ciclista-pero-muchos-no-estan-acuerdo-quien-tiene-razon-1116013'>La DGT muestra cómo adelantar correctamente a un ciclista, pero muchos no están de acuerdo: ¿quién tiene razón?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-muestra-como-adelantar-correctamente-ciclista-pero-muchos-no-estan-acuerdo-quien-tiene-razon-1116013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La DGT muestra cómo adelantar correctamente a un ciclista, pero muchos no están de acuerdo: ¿quién tiene razón?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-ver-online-hoy-lanzamiento-cohete-artemis-i-nasa-llegara-luna-1115887'>Así puedes ver online hoy el lanzamiento del cohete Artemis I de la NASA que llegará a la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-ver-online-hoy-lanzamiento-cohete-artemis-i-nasa-llegara-luna-1115887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='Así puedes ver online hoy el lanzamiento del cohete Artemis I de la NASA que llegará a la Luna' />
+    <h4><a href='https://computerhoy.com/guia-compra/aspiradora-escoba-dyson-822249'>Aspiradores sin cable Dyson: guía para no perderte al comprar los mejores aspiradores de mano</a></h4>
+    <a href='https://computerhoy.com/guia-compra/aspiradora-escoba-dyson-822249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/dyson-v7-motorhead-2221941.jpg' alt='Aspiradores sin cable Dyson: guía para no perderte al comprar los mejores aspiradores de mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727'>Días sin IVA en MediaMarkt: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-trabajando-ordenador-apple-imac-2581621.jpg' alt='Días sin IVA en MediaMarkt: estas son las mejores ofertas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869'>El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-nord-2-oferta-29-agosto-2022-1115869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/oneplus-nord-2-5g-2414335.jpg' alt='El OnePlus Nord 2 baja de precio y ahora es de los mejores móviles Android por menos de 300€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
+    <h4><a href='https://computerhoy.com/noticias/motor/sucede-bateria-coche-electrico-cuando-muere-mitad-viaje-1115987'>Esto es lo que sucede con la batería de tu coche eléctrico cuando esta muere en mitad de un viaje</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/sucede-bateria-coche-electrico-cuando-muere-mitad-viaje-1115987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/coche-electrico-cargando-2620117.jpg' alt='Esto es lo que sucede con la batería de tu coche eléctrico cuando esta muere en mitad de un viaje' />
     </a>
 </div>
 
