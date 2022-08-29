@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915'>Así se utiliza la función SOS de tu smartphone, para casos de emergencia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/utiliza-funcion-sos-smartphone-casos-emergencia-1115915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/112-movil.jpg' alt='Así se utiliza la función SOS de tu smartphone, para casos de emergencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/puedes-ver-online-hoy-lanzamiento-cohete-artemis-i-nasa-llegara-luna-1115887'>Así puedes ver online hoy el lanzamiento del cohete Artemis I de la NASA que llegará a la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/life/puedes-ver-online-hoy-lanzamiento-cohete-artemis-i-nasa-llegara-luna-1115887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/artemis-1-2575055.jpg' alt='Así puedes ver online hoy el lanzamiento del cohete Artemis I de la NASA que llegará a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727'>Días sin IVA en MediaMarkt: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/dias-sin-iva-mediamarkt-mejores-ofertas-992727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mujer-trabajando-ordenador-apple-imac-2581621.jpg' alt='Días sin IVA en MediaMarkt: estas son las mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913'>Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/videos-musicales-famosos-janet-jackson-podria-estropear-ordenadores-portatiles-antiguos-microsoft-1110913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/janet-jacson-2788575.jpg' alt='Esta canción tiene el poder de romper el disco duro de muchos ordenadores (y no es broma)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cerca-estamos-usar-jetpacks-ir-trabajo-1115875'>Así de cerca estamos de usar jetpacks para ir al trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cerca-estamos-usar-jetpacks-ir-trabajo-1115875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/jetpack-2797265.jpg' alt='Así de cerca estamos de usar jetpacks para ir al trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193'>Los 8 errores que evitar al comprar una consola de segunda mano</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/8-errores-evitar-comprar-consola-segunda-mano-1112193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xbox-series-s-2703027.jpg' alt='Los 8 errores que evitar al comprar una consola de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403'>Las mejores imágenes de buenos días gratis para WhatsApp</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-imagenes-buenos-dias-gratis-whatsapp-1109403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2721883.jpg' alt='Las mejores imágenes de buenos días gratis para WhatsApp' />
     </a>
 </div>
 
