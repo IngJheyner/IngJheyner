@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179'>PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/savage-games-une-playstation-studios-2797543.jpg' alt='PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149'>Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/advertencia-seguridad-millones-moviles-android-verifica-configuracion-wifi-ahora-1116149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg' alt='Advertencia de seguridad para millones de móviles Android: verifica tu configuración WiFi ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cual-idioma-oficial-menos-personas-hablan-mundo-1116029'>Cuál es el idioma oficial que menos personas hablan en el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-idioma-oficial-menos-personas-hablan-mundo-1116029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-habla-diferentes-idiomas-2336107.jpg' alt='Cuál es el idioma oficial que menos personas hablan en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115'>El lanzamiento de la misión Artemis I cancelado por problemas técnicos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lanzamiento-mision-artemis-i-cancelado-problemas-tecnicos-1116115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/artemis-i-2797759.jpg' alt='El lanzamiento de la misión Artemis I cancelado por problemas técnicos' />
     </a>
 </div>
 
