@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-1116215'>WhatsApp también quiere ser un supermercado y ahora permite hacer la compra con un par de mensajes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-1116215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-tambien-quiere-ser-supermercado-ahora-permite-hacer-compra-par-mensajes-2797975.jpg' alt='WhatsApp también quiere ser un supermercado y ahora permite hacer la compra con un par de mensajes' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217'>Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cumple-25-anos-1116229'>Netflix cumple 25 años, en plena encrucijada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cumple-25-anos-1116229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/25-aniversario-netflix-2797979.jpg' alt='Netflix cumple 25 años, en plena encrucijada' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/hp-omen-spacer-tkl-teclado-mecanico-inalambrico-todas-prestaciones-exigen-gamers-1113881'>HP Omen Spacer TKL, el teclado mecánico inalámbrico con todas las prestaciones que exigen los gamers </a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/hp-omen-spacer-tkl-teclado-mecanico-inalambrico-todas-prestaciones-exigen-gamers-1113881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/teclado-hp-omen-spacer-tkl-inalambrico-pccomponentes-2794089.jpg' alt='HP Omen Spacer TKL, el teclado mecánico inalámbrico con todas las prestaciones que exigen los gamers ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/detectan-senales-sonda-voyager-objeto-creado-ser-humano-alejado-tierra-1116225'>Detectan señales de la sonda Voyager, el objeto creado por el ser humano más alejado de la Tierra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/detectan-senales-sonda-voyager-objeto-creado-ser-humano-alejado-tierra-1116225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg' alt='Detectan señales de la sonda Voyager, el objeto creado por el ser humano más alejado de la Tierra' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869'>Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-galaxy-watch5-pro-4g-reloj-tiene-todo-ser-inseparable-companero-aventuras-1113869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-deportivo-samsung-galaxy-watch5-pro-pccomponentes-2794075.jpg' alt='Samsung Galaxy Watch5 Pro 4G, el reloj que lo tiene todo para ser nuestro inseparable compañero de aventuras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-desbloquea-android-auto-coches-android-automotive-tiene-mucho-sentido-1116219'>Google desbloquea Android Auto en los coches con Android Automotive (y tiene mucho sentido)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-desbloquea-android-auto-coches-android-automotive-tiene-mucho-sentido-1116219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg' alt='Google desbloquea Android Auto en los coches con Android Automotive (y tiene mucho sentido)' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/hp-15s-fq5085ns-portatil-altura-gama-alta-ahora-precio-super-competitivo-1113829'>HP 15S-FQ5085NS, un portátil a la altura de la gama alta, ahora a un precio súper competitivo</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/hp-15s-fq5085ns-portatil-altura-gama-alta-ahora-precio-super-competitivo-1113829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-hp-pccomponentes-2793977.jpg' alt='HP 15S-FQ5085NS, un portátil a la altura de la gama alta, ahora a un precio súper competitivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179'>PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/playstation-mueve-ficha-mercado-juegos-moviles-compra-savage-game-studios-1116179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/savage-games-une-playstation-studios-2797543.jpg' alt='PlayStation mueve ficha en el mercado de los juegos móviles con la compra de Savage Game Studios' />
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/portatil-cubrira-todas-necesidades-existe-msi-modern-15-ahora-rebajado-1113771'>El portátil que cubrirá todas tus necesidades existe: es este MSI Modern 15 y ahora está rebajado </a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/portatil-cubrira-todas-necesidades-existe-msi-modern-15-ahora-rebajado-1113771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-msi-pccomponentes-2793793.jpg' alt='El portátil que cubrirá todas tus necesidades existe: es este MSI Modern 15 y ahora está rebajado ' />
     </a>
 </div>
 
