@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ayuda-tendra-soporte-puedas-informar-directamente-bugs-compania-1116503'>WhatsApp quiere ayuda: tendrá soporte para que puedas informar directamente de bugs a la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ayuda-tendra-soporte-puedas-informar-directamente-bugs-compania-1116503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp quiere ayuda: tendrá soporte para que puedas informar directamente de bugs a la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-65oled706-oferta-30-agosto-2022-1116151'>Esta enorme Smart TV de Philips de 65" y con Ambilight acaba de bajar 400€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-65oled706-oferta-30-agosto-2022-1116151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-65oled706-12-2797839.jpg' alt='Esta enorme Smart TV de Philips de 65" y con Ambilight acaba de bajar 400€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-llamadas-videollamadas-directamente-app-gmail-1089787'>Cómo hacer llamadas y videollamadas directamente desde la app de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-llamadas-videollamadas-directamente-app-gmail-1089787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/videollamadas-2752313.jpg' alt='Cómo hacer llamadas y videollamadas directamente desde la app de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-7000-oficial-fecha-salida-precios-rendimiento-nueva-generacion-1116477'>AMD Ryzen 7000 es oficial: fecha de salida, precios y rendimiento de la nueva generación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amd-ryzen-7000-oficial-fecha-salida-precios-rendimiento-nueva-generacion-1116477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/amd-ryzen-7000-2798225.jpg' alt='AMD Ryzen 7000 es oficial: fecha de salida, precios y rendimiento de la nueva generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/16-apps-portables-gratuitas-estudiante-deberia-llevar-siempre-encima-1109345'>Las 16 apps portables gratuitas que un estudiante debería llevar siempre encima</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/16-apps-portables-gratuitas-estudiante-deberia-llevar-siempre-encima-1109345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/utilidades-originales-puedes-dar-pendrive-usb-ya-no-usas_16.jpg' alt='Las 16 apps portables gratuitas que un estudiante debería llevar siempre encima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-tiktok-no-te-funciona-1113775'>Qué hacer si TikTok no te funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-tiktok-no-te-funciona-1113775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tiktok.jpg' alt='Qué hacer si TikTok no te funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-primaria-1116037'>Mejores portátiles para niños de primaria que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-primaria-1116037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nino-estudiando-portatil-casa-2797657.jpg' alt='Mejores portátiles para niños de primaria que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593'>Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vuelta-cole-pccomponentes-2022-2793323.jpg' alt='Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907'>Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/doodle-2797371.jpg' alt='Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador ' />
     </a>
 </div>
 
