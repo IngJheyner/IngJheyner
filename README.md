@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-beta-8-ios-16-estable-antes-version-definitiva-1116739'>Ya puedes descargar la beta 8 de iOS 16, la más estable antes de la versión definitiva</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-beta-8-ios-16-estable-antes-version-definitiva-1116739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Ya puedes descargar la beta 8 de iOS 16, la más estable antes de la versión definitiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-gratis-permite-ver-grabar-130-canales-tdt-android-iphone-1116733'>La app gratis que permite ver y grabar más 130 canales de TDT en Android o iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-gratis-permite-ver-grabar-130-canales-tdt-android-iphone-1116733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tivify-2798897.jpg' alt='La app gratis que permite ver y grabar más 130 canales de TDT en Android o iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/app-mundo-necesitaba-mensajeria-push-agua-1116635'>La app que el mundo necesitaba, mensajería push bajo el agua</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/app-mundo-necesitaba-mensajeria-push-agua-1116635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/app-mundo-necesitaba-mensajeria-push-agua-2798499.jpg' alt='La app que el mundo necesitaba, mensajería push bajo el agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-apple-tv-gratis-tienes-smart-tv-samsung-1116703'>Cómo conseguir Apple TV+ gratis si tienes un Smart TV de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-conseguir-apple-tv-gratis-tienes-smart-tv-samsung-1116703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/salon-smart-tv-frente-2696147.jpg' alt='Cómo conseguir Apple TV+ gratis si tienes un Smart TV de Samsung' />
     </a>
 </div>
 
