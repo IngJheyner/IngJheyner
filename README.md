@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795'>Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807'>El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-prime-video-rescate-cueva-tailandia-trece-vidas-1116805'>Netflix y Prime Video cuentan el mismo rescate con dos de sus últimas novedades, pero de forma muy distinta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-prime-video-rescate-cueva-tailandia-trece-vidas-1116805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661879789677-2799147.jpg' alt='Netflix y Prime Video cuentan el mismo rescate con dos de sus últimas novedades, pero de forma muy distinta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803'>Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-2799143.jpg' alt='Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779'>La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-tablets-escritura-vuelta-cole-698443'>Estas son las mejores tablets de escritura para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-tablets-escritura-vuelta-cole-698443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tableta-escritura-ewriter-2798273.jpg' alt='Estas son las mejores tablets de escritura para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-beta-8-ios-16-estable-antes-version-definitiva-1116739'>Ya puedes descargar la beta 8 de iOS 16, la más estable antes de la versión definitiva</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-descargar-beta-8-ios-16-estable-antes-version-definitiva-1116739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Ya puedes descargar la beta 8 de iOS 16, la más estable antes de la versión definitiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/app-gratis-permite-ver-grabar-130-canales-tdt-android-iphone-1116733'>La app gratis que permite ver y grabar más 130 canales de TDT en Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/app-gratis-permite-ver-grabar-130-canales-tdt-android-iphone-1116733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tivify-2798897.jpg' alt='La app gratis que permite ver y grabar más 130 canales de TDT en Android o iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-google-apps-android-funcionen-iphone-podria-cambiarlo-todo-1116697'>El plan de Google para que las apps de Android funcionen en iPhone que podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/plan-google-apps-android-funcionen-iphone-podria-cambiarlo-todo-1116697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='El plan de Google para que las apps de Android funcionen en iPhone que podría cambiarlo todo' />
     </a>
 </div>
 
