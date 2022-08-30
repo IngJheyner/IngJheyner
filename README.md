@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443'>5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana</a></h4>
+    <a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/5-trucos-salir-apuro-no-te-da-tiempo-ducharte-manana-2798213.jpg' alt='5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441'>Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea</a></h4>
     <a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661812979173-2798211.jpg' alt='Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245'>Facebook e Instagram ya aceptan oficialmente NFTs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/facebook-instagram-ya-aceptan-oficialmente-nfts-2798011.jpg' alt='Facebook e Instagram ya aceptan oficialmente NFTs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237'>Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5' />
     </a>
 </div>
 
