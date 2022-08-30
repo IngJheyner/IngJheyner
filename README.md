@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813'>Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700583.jpg' alt='Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795'>Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803'>Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa</a></h4>
     <a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-2799143.jpg' alt='Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779'>La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3' />
     </a>
 </div>
 
