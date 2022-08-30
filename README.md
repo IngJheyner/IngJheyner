@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/zzruler-sencilla-aplicacion-regla-pantalla-tomar-medidas-1116613'>zzRuler es una sencilla aplicación de regla en pantalla para tomar medidas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/zzruler-sencilla-aplicacion-regla-pantalla-tomar-medidas-1116613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/zzruler-2798471.jpg' alt='zzRuler es una sencilla aplicación de regla en pantalla para tomar medidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/moto-electrica'>Todo lo que debes saber antes de comprar una moto eléctrica: modelos, ayudas y autonomía</a></h4>
+    <a href='https://computerhoy.com/guia-compra/moto-electrica' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/moto-electrica-2271575.jpg' alt='Todo lo que debes saber antes de comprar una moto eléctrica: modelos, ayudas y autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-sony-gana-precio-pero-pierde-peso-nuevo-modelo-1116601'>La PS5 de Sony gana precio, pero pierde peso en su nuevo modelo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ps5-sony-gana-precio-pero-pierde-peso-nuevo-modelo-1116601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140475.jpg' alt='La PS5 de Sony gana precio, pero pierde peso en su nuevo modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-flip-c433ta-oferta-30-agosto-2022-1115921'>Este portátil Chromebook es perfecto para estudiantes: cuesta menos de 300€ y tiene un potente procesador</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-flip-c433ta-oferta-30-agosto-2022-1115921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-chromebook-flip-c433ta-2688245.jpg' alt='Este portátil Chromebook es perfecto para estudiantes: cuesta menos de 300€ y tiene un potente procesador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549'>La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua</a></h4>
     <a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-2798351.jpg' alt='La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/matriculas-dgt-sufriran-importante-cambio-despues-tres-anos-espera-1116569'>Las matrículas de la DGT sufrirán un importante cambio después de tres años de espera</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/matriculas-dgt-sufriran-importante-cambio-despues-tres-anos-espera-1116569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/matriculas-rojas-coche-1873957.jpg' alt='Las matrículas de la DGT sufrirán un importante cambio después de tres años de espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/consola-alternativa-android-steam-deck-logitech-deja-ver-bambalinas-1116541'>La consola alternativa Android a Steam Deck de Logitech se deja ver entre bambalinas</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/consola-alternativa-android-steam-deck-logitech-deja-ver-bambalinas-1116541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-g-gaming-handheld-2798371.jpg' alt='La consola alternativa Android a Steam Deck de Logitech se deja ver entre bambalinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-llegara-android-14-google-ya-habla-fecha-primera-beta-1116513'>¿Cuándo llegará Android 14? Google ya habla de fecha para la primera beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-llegara-android-14-google-ya-habla-fecha-primera-beta-1116513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='¿Cuándo llegará Android 14? Google ya habla de fecha para la primera beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/llamadas-satelite-no-hay-cobertura-movil-funcion-secreta-nuevos-iphone-1116511'>Llamadas vía satélite si no hay cobertura móvil, la función secreta de los nuevos iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/llamadas-satelite-no-hay-cobertura-movil-funcion-secreta-nuevos-iphone-1116511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Llamadas vía satélite si no hay cobertura móvil, la función secreta de los nuevos iPhone' />
     </a>
 </div>
 
