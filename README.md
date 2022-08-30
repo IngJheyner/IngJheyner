@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593'>Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vuelta-cole-pccomponentes-2022-2793323.jpg' alt='Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907'>Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/doodle-2797371.jpg' alt='Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1116445'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1116445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2798215.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vuelta-cole-utiles-baratos-1116035'>5 accesorios para la vuelta al cole útiles y baratos en los que no habías pensado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vuelta-cole-utiles-baratos-1116035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-tomando-notas-cuaderno-cafeteria-2797577.jpg' alt='5 accesorios para la vuelta al cole útiles y baratos en los que no habías pensado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443'>5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana</a></h4>
     <a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/5-trucos-salir-apuro-no-te-da-tiempo-ducharte-manana-2798213.jpg' alt='5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441'>Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea</a></h4>
-    <a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661812979173-2798211.jpg' alt='Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251'>Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-explica-significado-logos-tesla-spacex-revela-algunos-secretos-2798039.jpg' alt='Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-xiaomi-12s-ultra-movil-fotografico-top-compania-leica-1116239'>Primeras impresiones del Xiaomi 12s Ultra, móvil top de la compañía y Leica</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-xiaomi-12s-ultra-movil-fotografico-top-compania-leica-1116239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/xiaomi-12s-ultra-2798029.jpg' alt='Primeras impresiones del Xiaomi 12s Ultra, móvil top de la compañía y Leica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245'>Facebook e Instagram ya aceptan oficialmente NFTs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/facebook-instagram-ya-aceptan-oficialmente-nft-1116245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/facebook-instagram-ya-aceptan-oficialmente-nfts-2798011.jpg' alt='Facebook e Instagram ya aceptan oficialmente NFTs' />
     </a>
 </div>
 
