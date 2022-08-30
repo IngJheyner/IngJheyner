@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/16-apps-portables-gratuitas-estudiante-deberia-llevar-siempre-encima-1109345'>Las 16 apps portables gratuitas que un estudiante debería llevar siempre encima</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/16-apps-portables-gratuitas-estudiante-deberia-llevar-siempre-encima-1109345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/utilidades-originales-puedes-dar-pendrive-usb-ya-no-usas_16.jpg' alt='Las 16 apps portables gratuitas que un estudiante debería llevar siempre encima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-tiktok-no-te-funciona-1113775'>Qué hacer si TikTok no te funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-tiktok-no-te-funciona-1113775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/tiktok.jpg' alt='Qué hacer si TikTok no te funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-primaria-1116037'>Mejores portátiles para niños de primaria que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-primaria-1116037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nino-estudiando-portatil-casa-2797657.jpg' alt='Mejores portátiles para niños de primaria que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593'>Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/grandes-ofertas-tecnologicas-pccomponentes-vuelta-cole-2022-13-productos-top-1113593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/vuelta-cole-pccomponentes-2022-2793323.jpg' alt='Las grandes ofertas tecnológicas de PcComponentes para la Vuelta al Cole 2022: ¡Los 13 productos más top!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907'>Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumplen-24-anos-primer-doodle-google-guinos-efemeride-buscador-1115907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/doodle-2797371.jpg' alt='Hoy se cumplen 24 años del primer Doodle de Google, los guiños efeméride del buscador ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1116445'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1116445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2798215.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vuelta-cole-utiles-baratos-1116035'>5 accesorios para la vuelta al cole útiles y baratos en los que no habías pensado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/accesorios-vuelta-cole-utiles-baratos-1116035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-tomando-notas-cuaderno-cafeteria-2797577.jpg' alt='5 accesorios para la vuelta al cole útiles y baratos en los que no habías pensado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443'>5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana</a></h4>
-    <a href='https://computerhoy.com/noticias/life/5-trucos-no-te-da-tiempo-ducharte-1116443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/5-trucos-salir-apuro-no-te-da-tiempo-ducharte-manana-2798213.jpg' alt='5 trucos para salir del apuro si no te da tiempo a ducharte por la mañana' />
     </a>
 </div>
 
