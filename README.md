@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779'>La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-beta-whatsapp-anade-soporte-llamadas-relojes-wear-os-3-1116779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/fossil-presenta-nueva-generacion-relojes-inteligentes-estrenan-qualcomm-wear-4100-2454271.jpg' alt='La nueva beta de WhatsApp añade soporte para llamadas en relojes con Wear OS 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-tablets-escritura-vuelta-cole-698443'>Estas son las mejores tablets de escritura para la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-tablets-escritura-vuelta-cole-698443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tableta-escritura-ewriter-2798273.jpg' alt='Estas son las mejores tablets de escritura para la vuelta al cole' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/plan-google-apps-android-funcionen-iphone-podria-cambiarlo-todo-1116697'>El plan de Google para que las apps de Android funcionen en iPhone que podría cambiarlo todo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/plan-google-apps-android-funcionen-iphone-podria-cambiarlo-todo-1116697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/campus-google-2650357.jpg' alt='El plan de Google para que las apps de Android funcionen en iPhone que podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pegatinas-dgt-obliga-llevar-parabrisas-coche-quieres-evitar-multas-1116727'>Las pegatinas que la DGT obliga a llevar en el parabrisas del coche si quieres evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pegatinas-dgt-obliga-llevar-parabrisas-coche-quieres-evitar-multas-1116727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/itv.jpg' alt='Las pegatinas que la DGT obliga a llevar en el parabrisas del coche si quieres evitar multas' />
     </a>
 </div>
 
