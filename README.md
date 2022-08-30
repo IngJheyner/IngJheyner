@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441'>Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea</a></h4>
+    <a href='https://computerhoy.com/noticias/life/escend-blades-motores-electricos-bota-skate-patines-linea-1116441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661812979173-2798211.jpg' alt='Escend Blades, los motores eléctricos que se acoplan a cualquier bota de skate, para patinar en línea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251'>Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elon-musk-logos-tesla-spacex-curiosidades-1116251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/elon-musk-explica-significado-logos-tesla-spacex-revela-algunos-secretos-2798039.jpg' alt='Elon Musk explica el significado de los logos de Tesla y SpaceX, y revela algunos secretos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237'>Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ha-filtrado-precio-pixel-watch-son-malas-noticias-galaxy-watch-5-1116237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Se ha filtrado el precio del Pixel Watch y esto son malas noticias para el Galaxy Watch 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217'>Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-dice-adios-qualcomm-rog-phone-6d-apostara-mediatek-movil-gaming-1116217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750359.jpg' alt='Asus dice adiós a Qualcomm en el ROG Phone 6D y apostará por MediaTek para este móvil gaming' />
     </a>
 </div>
 
