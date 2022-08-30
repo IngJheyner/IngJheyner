@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549'>La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua</a></h4>
+    <a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-2798351.jpg' alt='La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/matriculas-dgt-sufriran-importante-cambio-despues-tres-anos-espera-1116569'>Las matrículas de la DGT sufrirán un importante cambio después de tres años de espera</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/matriculas-dgt-sufriran-importante-cambio-despues-tres-anos-espera-1116569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/matriculas-rojas-coche-1873957.jpg' alt='Las matrículas de la DGT sufrirán un importante cambio después de tres años de espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/consola-alternativa-android-steam-deck-logitech-deja-ver-bambalinas-1116541'>La consola alternativa Android a Steam Deck de Logitech se deja ver entre bambalinas</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/consola-alternativa-android-steam-deck-logitech-deja-ver-bambalinas-1116541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-g-gaming-handheld-2798371.jpg' alt='La consola alternativa Android a Steam Deck de Logitech se deja ver entre bambalinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-llegara-android-14-google-ya-habla-fecha-primera-beta-1116513'>¿Cuándo llegará Android 14? Google ya habla de fecha para la primera beta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-llegara-android-14-google-ya-habla-fecha-primera-beta-1116513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='¿Cuándo llegará Android 14? Google ya habla de fecha para la primera beta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/llamadas-satelite-no-hay-cobertura-movil-funcion-secreta-nuevos-iphone-1116511'>Llamadas vía satélite si no hay cobertura móvil, la función secreta de los nuevos iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/llamadas-satelite-no-hay-cobertura-movil-funcion-secreta-nuevos-iphone-1116511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/amazon-va-elon-musk-recibe-aprobacion-fcc-poner-orbita-3236-satelites-2015355.jpg' alt='Llamadas vía satélite si no hay cobertura móvil, la función secreta de los nuevos iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ayuda-tendra-soporte-puedas-informar-directamente-bugs-compania-1116503'>WhatsApp quiere ayuda: tendrá soporte para que puedas informar directamente de bugs a la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-quiere-ayuda-tendra-soporte-puedas-informar-directamente-bugs-compania-1116503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp quiere ayuda: tendrá soporte para que puedas informar directamente de bugs a la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-65oled706-oferta-30-agosto-2022-1116151'>Esta enorme Smart TV de Philips de 65" y con Ambilight acaba de bajar 400€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-65oled706-oferta-30-agosto-2022-1116151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-65oled706-12-2797839.jpg' alt='Esta enorme Smart TV de Philips de 65" y con Ambilight acaba de bajar 400€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-llamadas-videollamadas-directamente-app-gmail-1089787'>Cómo hacer llamadas y videollamadas directamente desde la app de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-llamadas-videollamadas-directamente-app-gmail-1089787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/videollamadas-2752313.jpg' alt='Cómo hacer llamadas y videollamadas directamente desde la app de Gmail' />
     </a>
 </div>
 
