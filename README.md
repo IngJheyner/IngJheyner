@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793'>¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815'>El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/facebook-gaming-estrena-servicio-juegos-nube-android-pc-gratis-2114717.jpg' alt='El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813'>Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700583.jpg' alt='Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807'>El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-prime-video-rescate-cueva-tailandia-trece-vidas-1116805'>Netflix y Prime Video cuentan el mismo rescate con dos de sus últimas novedades, pero de forma muy distinta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-prime-video-rescate-cueva-tailandia-trece-vidas-1116805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661879789677-2799147.jpg' alt='Netflix y Prime Video cuentan el mismo rescate con dos de sus últimas novedades, pero de forma muy distinta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803'>Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-1116803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/encuentran-peninsula-iberica-restos-podria-ser-dinosaurio-grande-europa-2799143.jpg' alt='Encuentran en la Península Ibérica los restos del que podría ser el dinosaurio más grande de Europa' />
     </a>
 </div>
 
