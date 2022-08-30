@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ahorras-teletrabajo-frente-ir-trabajar-ocu-1116665'>Esto es lo que ahorras con el teletrabajo frente a ir a trabajar, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ahorras-teletrabajo-frente-ir-trabajar-ocu-1116665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/espacio-bien-iluminado-teletrabajo-2584827.jpg' alt='Esto es lo que ahorras con el teletrabajo frente a ir a trabajar, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-contrasenas-guardadas-windows-android-iphone-1116537'>Cómo ver las contraseñas guardadas en Windows, Android y iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-contrasenas-guardadas-windows-android-iphone-1116537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/contrasenas-2611485.jpg' alt='Cómo ver las contraseñas guardadas en Windows, Android y iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cientificos-espanoles-descubren-secreto-medusa-inmortal-capaz-rejuvenecer-1116633'>Científicos españoles descubren el secreto de la medusa inmortal capaz de rejuvenecer</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cientificos-espanoles-descubren-secreto-medusa-inmortal-capaz-rejuvenecer-1116633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/medusa-inmortal-cuando-envejece-vuelve-adolescencia-comenzar-otra-vez-ciclo-vida-2224629.jpg' alt='Científicos españoles descubren el secreto de la medusa inmortal capaz de rejuvenecer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zzruler-sencilla-aplicacion-regla-pantalla-tomar-medidas-1116613'>zzRuler es una sencilla aplicación de regla en pantalla para tomar medidas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zzruler-sencilla-aplicacion-regla-pantalla-tomar-medidas-1116613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/zzruler-2798471.jpg' alt='zzRuler es una sencilla aplicación de regla en pantalla para tomar medidas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/moto-electrica'>Todo lo que debes saber antes de comprar una moto eléctrica: modelos, ayudas y autonomía</a></h4>
     <a href='https://computerhoy.com/guia-compra/moto-electrica' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/moto-electrica-2271575.jpg' alt='Todo lo que debes saber antes de comprar una moto eléctrica: modelos, ayudas y autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-sony-gana-precio-pero-pierde-peso-nuevo-modelo-1116601'>La PS5 de Sony gana precio, pero pierde peso en su nuevo modelo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ps5-sony-gana-precio-pero-pierde-peso-nuevo-modelo-1116601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140475.jpg' alt='La PS5 de Sony gana precio, pero pierde peso en su nuevo modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-flip-c433ta-oferta-30-agosto-2022-1115921'>Este portátil Chromebook es perfecto para estudiantes: cuesta menos de 300€ y tiene un potente procesador</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-chromebook-flip-c433ta-oferta-30-agosto-2022-1115921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/asus-chromebook-flip-c433ta-2688245.jpg' alt='Este portátil Chromebook es perfecto para estudiantes: cuesta menos de 300€ y tiene un potente procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549'>La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua</a></h4>
-    <a href='https://computerhoy.com/noticias/life/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-1116549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/curiosa-inteligente-medida-han-tomado-california-evitar-evapore-agua-2798351.jpg' alt='La curiosa e inteligente medida que han tomado en California para evitar que se evapore el agua' />
     </a>
 </div>
 
