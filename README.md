@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825'>Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-nuevos-ratones-logitech-g502-x-sucesores-mitica-gama-gaming-importantes-novedades-2799189.jpg' alt='Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793'>¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795'>Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807'>El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-apple-watch-series-8-pro-podria-obligarte-renovar-viejas-correas-1116807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='El nuevo Apple Watch Series 8 Pro podría obligarte a renovar tus viejas correas' />
     </a>
 </div>
 
