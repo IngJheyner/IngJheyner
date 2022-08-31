@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381'>¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mayor-plataforma-podcast-no-fuese-solo-audio-youtube-puede-todo-2800101.jpg' alt='¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357'>Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/matricula-2274171.jpg' alt='Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301'>Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/relacion-pareja-whatsapp-2799893.jpg' alt='Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355'>Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353'>Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293'>5 estafas que están haciendo estragos en TikTok ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='5 estafas que están haciendo estragos en TikTok ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291'>Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-2753699.jpg' alt='Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan' />
     </a>
 </div>
 
