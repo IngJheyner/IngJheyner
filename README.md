@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-esperado-amazon-prime-video-septiembre-2022-1117129'>Los estrenos más esperados de Amazon Prime Video para septiembre de 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-esperado-amazon-prime-video-septiembre-2022-1117129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg' alt='Los estrenos más esperados de Amazon Prime Video para septiembre de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-1117087'>LG no se queda detrás y presenta el primer televisor OLED de 42 pulgadas plegable del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-1117087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-2799447.jpg' alt='LG no se queda detrás y presenta el primer televisor OLED de 42 pulgadas plegable del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z90q-g-oferta-31-agosto-2022-1115959'>Menos de 1 kg de peso y el último Intel Core i7: este portátil ultraligero tiene 500 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z90q-g-oferta-31-agosto-2022-1115959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Menos de 1 kg de peso y el último Intel Core i7: este portátil ultraligero tiene 500 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-whatsapp-chat-propio-exclusivo-dispositivos-vinculados-1117113'>La nueva función de WhatsApp es un chat propio exclusivo para los dispositivos vinculados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-whatsapp-chat-propio-exclusivo-dispositivos-vinculados-1117113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='La nueva función de WhatsApp es un chat propio exclusivo para los dispositivos vinculados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077'>Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jeff-bezos-pareja-2672977.jpg' alt='Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Los mejores routers de 2022 por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175'>Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-gaming-razer-barracuda-x-pccomponentes-2794451.jpg' alt='Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117045'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2799393.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527'>Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-sentado-pasillo-portatil-mochila-lado-2798339.jpg' alt='Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales' />
     </a>
 </div>
 
