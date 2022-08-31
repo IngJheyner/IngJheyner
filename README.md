@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293'>5 estafas que están haciendo estragos en TikTok ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='5 estafas que están haciendo estragos en TikTok ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291'>Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-2753699.jpg' alt='Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237'>Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/last-us-parte-i-2797949.jpg' alt='Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241'>Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-oppo-reno8-tablet-oppo-pad-air-1117071'>Así son los nuevos Oppo Reno8 y la tablet Oppo Pad Air</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-oppo-reno8-tablet-oppo-pad-air-1117071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reno8-2799481.jpg' alt='Así son los nuevos Oppo Reno8 y la tablet Oppo Pad Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173'>Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-zenbook-17-fold-oled-2799663.jpg' alt='Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas' />
     </a>
 </div>
 
