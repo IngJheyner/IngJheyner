@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171'>Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/g-cam-2799661.jpg' alt='Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/pilas-recargables-cargador-947433'>Cargadores y pilas recargables: guía de compra para ahorrar y ayudar al medio ambiente</a></h4>
+    <a href='https://computerhoy.com/guia-compra/pilas-recargables-cargador-947433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cargador-pilas-2500481.jpg' alt='Cargadores y pilas recargables: guía de compra para ahorrar y ayudar al medio ambiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cosori-caf-p583s-oferta-31-agosto-2022-1115999'>La freidora sin aceite de moda tiene versión inteligente y tamaño XXL ¡y en oferta!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cosori-caf-p583s-oferta-31-agosto-2022-1115999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cosori-freidora-aceite-inteligente-2797501.jpg' alt='La freidora sin aceite de moda tiene versión inteligente y tamaño XXL ¡y en oferta!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111'>Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-2799533.jpg' alt='Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141'>La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/piscina-reciclada-inteligente-2437169.jpg' alt='La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-ambilight-tv-oled937-oled907-son-nuevos-televisores-oled-gama-alta-philips-1116241'>Philips Ambilight TV OLED+937 y OLED+907: así son los nuevos televisores OLED de gama alta de Philips</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-ambilight-tv-oled937-oled907-son-nuevos-televisores-oled-gama-alta-philips-1116241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-ambilight-tv-oled937-oled907-2798003.jpg' alt='Philips Ambilight TV OLED+937 y OLED+907: así son los nuevos televisores OLED de gama alta de Philips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-fidelio-home-sound-sistemas-sonido-flexibles-faciles-usar-hogar-1116235'>Philips Fidelio Home Sound, sistemas de sonido más flexibles y fáciles de usar en el hogar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-fidelio-home-sound-sistemas-sonido-flexibles-faciles-usar-hogar-1116235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-fidelio-home-sound-2797995.jpg' alt='Philips Fidelio Home Sound, sistemas de sonido más flexibles y fáciles de usar en el hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-smartphone-30-metros-ahora-posible-gracias-cargador-laser-1117093'>La carga inalámbrica de un smartphone a más de 30 metros ahora es posible gracias a este cargador láser</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-smartphone-30-metros-ahora-posible-gracias-cargador-laser-1117093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cargar-smartphone-forma-inalambrica-30-metros-ahora-posible-gracias-cargador-laser-2799467.jpg' alt='La carga inalámbrica de un smartphone a más de 30 metros ahora es posible gracias a este cargador láser' />
     </a>
 </div>
 
