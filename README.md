@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353'>Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/running-2204069.jpg' alt='Estos son los mejores relojes de running que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293'>5 estafas que están haciendo estragos en TikTok ahora mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/5-estafas-estan-haciendo-estragos-tiktok-ahora-mismo-1117293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='5 estafas que están haciendo estragos en TikTok ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237'>Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/last-us-parte-i-2797949.jpg' alt='Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-1117313'>OPPO Band 2: 14 días de autónoma y más de 100 deportes para competir con la Smart Band 7 de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-1117313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-2799903.jpg' alt='OPPO Band 2: 14 días de autónoma y más de 100 deportes para competir con la Smart Band 7 de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241'>Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14' />
     </a>
 </div>
 
