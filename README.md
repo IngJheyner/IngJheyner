@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estrenos-esperado-amazon-prime-video-septiembre-2022-1117129'>Los estrenos más esperados de Amazon Prime Video para septiembre de 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estrenos-esperado-amazon-prime-video-septiembre-2022-1117129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/salon-smart-tv-amazon-prime-video-2509627.jpg' alt='Los estrenos más esperados de Amazon Prime Video para septiembre de 2022' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111'>Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-2799533.jpg' alt='Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-1117087'>LG no se queda detrás y presenta el primer televisor OLED de 42 pulgadas plegable del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-1117087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lg-no-queda-detras-presenta-primer-monitor-oled-42-pulgadas-plegable-mundo-2799447.jpg' alt='LG no se queda detrás y presenta el primer televisor OLED de 42 pulgadas plegable del mundo' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141'>La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/piscina-reciclada-inteligente-2437169.jpg' alt='La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z90q-g-oferta-31-agosto-2022-1115959'>Menos de 1 kg de peso y el último Intel Core i7: este portátil ultraligero tiene 500 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-gram-14z90q-g-oferta-31-agosto-2022-1115959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lg-gram-analisis-opinion-2570133.jpg' alt='Menos de 1 kg de peso y el último Intel Core i7: este portátil ultraligero tiene 500 euros de descuento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-ambilight-tv-oled937-oled907-son-nuevos-televisores-oled-gama-alta-philips-1116241'>Philips Ambilight TV OLED+937 y OLED+907: así son los nuevos televisores OLED de gama alta de Philips</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-ambilight-tv-oled937-oled907-son-nuevos-televisores-oled-gama-alta-philips-1116241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-ambilight-tv-oled937-oled907-2798003.jpg' alt='Philips Ambilight TV OLED+937 y OLED+907: así son los nuevos televisores OLED de gama alta de Philips' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-whatsapp-chat-propio-exclusivo-dispositivos-vinculados-1117113'>La nueva función de WhatsApp es un chat propio exclusivo para los dispositivos vinculados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-whatsapp-chat-propio-exclusivo-dispositivos-vinculados-1117113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-windows-2735321.jpg' alt='La nueva función de WhatsApp es un chat propio exclusivo para los dispositivos vinculados' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-fidelio-home-sound-sistemas-sonido-flexibles-faciles-usar-hogar-1116235'>Philips Fidelio Home Sound, sistemas de sonido más flexibles y fáciles de usar en el hogar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-fidelio-home-sound-sistemas-sonido-flexibles-faciles-usar-hogar-1116235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/philips-fidelio-home-sound-2797995.jpg' alt='Philips Fidelio Home Sound, sistemas de sonido más flexibles y fáciles de usar en el hogar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077'>Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jeff-bezos-pareja-2672977.jpg' alt='Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-smartphone-30-metros-ahora-posible-gracias-cargador-laser-1117093'>La carga inalámbrica de un smartphone a más de 30 metros ahora es posible gracias a este cargador láser</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/carga-inalambrica-smartphone-30-metros-ahora-posible-gracias-cargador-laser-1117093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cargar-smartphone-forma-inalambrica-30-metros-ahora-posible-gracias-cargador-laser-2799467.jpg' alt='La carga inalámbrica de un smartphone a más de 30 metros ahora es posible gracias a este cargador láser' />
     </a>
 </div>
 
