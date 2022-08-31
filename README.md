@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315'>Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-2799917.jpg' alt='Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-regalo-1117367'>Hora de bajar esos kilos del verano con el reloj Huawei Watch GT Runner, y auriculares de regalo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-regalo-1117367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hora-bajar-esos-kilos-verano-reloj-huawei-watch-gt-runner-auriculares-regalo-2800051.jpg' alt='Hora de bajar esos kilos del verano con el reloj Huawei Watch GT Runner, y auriculares de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381'>¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mayor-plataforma-podcast-no-fuese-solo-audio-youtube-puede-todo-2800101.jpg' alt='¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301'>Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/relacion-pareja-whatsapp-2799893.jpg' alt='Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355'>Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353'>Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos' />
     </a>
 </div>
 
