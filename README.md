@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237'>Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/last-us-parte-i-2797949.jpg' alt='Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-1117313'>OPPO Band 2: 14 días de autónoma y más de 100 deportes para competir con la Smart Band 7 de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-1117313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-band-2-14-dias-autonoma-100-deportes-competir-smart-band-7-xiaomi-2799903.jpg' alt='OPPO Band 2: 14 días de autónoma y más de 100 deportes para competir con la Smart Band 7 de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241'>Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173'>Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-zenbook-17-fold-oled-2799663.jpg' alt='Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/francia-apuesta-fuerte-movilidad-electrica-ofrecera-coches-electricos-100-euros-mes-1117205'>Francia apuesta fuerte por la movilidad eléctrica y ofrecerá coches eléctricos por 100 euros al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/francia-apuesta-fuerte-movilidad-electrica-ofrecera-coches-electricos-100-euros-mes-1117205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg' alt='Francia apuesta fuerte por la movilidad eléctrica y ofrecerá coches eléctricos por 100 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/marcas-coches-baratas-mantener-espana-ocu-1117259'>Las marcas de coches más baratas de mantener en España, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/marcas-coches-baratas-mantener-espana-ocu-1117259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hyundai-tucson-phev-2479419.jpg' alt='Las marcas de coches más baratas de mantener en España, según la OCU' />
     </a>
 </div>
 
