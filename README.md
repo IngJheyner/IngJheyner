@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175'>Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-gaming-razer-barracuda-x-pccomponentes-2794451.jpg' alt='Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117045'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2799393.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527'>Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-sentado-pasillo-portatil-mochila-lado-2798339.jpg' alt='Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041'>Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661909795949-2799389.jpg' alt='Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827'>RACE desaconseja estas cuatro marcas de sillas infantiles para el coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dgt-desaconseja-estas-cuatro-sillas-infantiles-coche-2799191.jpg' alt='RACE desaconseja estas cuatro marcas de sillas infantiles para el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825'>Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-nuevos-ratones-logitech-g502-x-sucesores-mitica-gama-gaming-importantes-novedades-2799189.jpg' alt='Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793'>¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quien-propietario-tierras-bill-gates-mcdonalds-iglesia-catolica-1116793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg' alt='¿Quién es propietario de más tierras: Bill Gates, McDonald’s o la Iglesia Católica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815'>El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/facebook-gaming-estrena-servicio-juegos-nube-android-pc-gratis-2114717.jpg' alt='El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre' />
     </a>
 </div>
 
