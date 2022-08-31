@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241'>Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todo-ya-sabemos-nuevos-apple-watch-series-8-pro-buscan-eclipsar-iphone-14-1117241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-watch-2559443.jpg' alt='Todo lo que ya sabemos de los nuevos Apple Watch Series 8 y PRO que buscan eclipsar al iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-oppo-reno8-tablet-oppo-pad-air-1117071'>Así son los nuevos Oppo Reno8 y la tablet Oppo Pad Air</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-oppo-reno8-tablet-oppo-pad-air-1117071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reno8-2799481.jpg' alt='Así son los nuevos Oppo Reno8 y la tablet Oppo Pad Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173'>Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/asus-zenbook-17-fold-oled-primer-portatil-oled-plegable-mundo-173-pulgadas-1117173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/asus-zenbook-17-fold-oled-2799663.jpg' alt='Así es el ASUS Zenbook 17 Fold OLED, el primer portátil OLED plegable del mundo de 17,3 pulgadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/marcas-coches-baratas-mantener-espana-ocu-1117259'>Las marcas de coches más baratas de mantener en España, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/motor/marcas-coches-baratas-mantener-espana-ocu-1117259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hyundai-tucson-phev-2479419.jpg' alt='Las marcas de coches más baratas de mantener en España, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/lleva-dentro-nueva-consola-portatil-logitech-rival-steam-deck-1117245'>Esto es lo que lleva por dentro la nueva consola portátil de Logitech, rival de la Steam Deck</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/lleva-dentro-nueva-consola-portatil-logitech-rival-steam-deck-1117245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-g-gaming-handheld-2798371.jpg' alt='Esto es lo que lleva por dentro la nueva consola portátil de Logitech, rival de la Steam Deck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171'>Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/g-cam-2799661.jpg' alt='Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel' />
     </a>
 </div>
 
