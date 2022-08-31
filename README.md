@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355'>Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/exchange-envia-7-millones-criptomonedas-lugar-reembolsar-67-euros-cliente-queda-dinero-1117355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/gran-crash-mundo-cripto-puede-ocurrir-criptomonedas-crisis-empeora-2708991.jpg' alt='Exchange envía 7 millones en criptomonedas en lugar de reembolsar 67 euros y el cliente se queda con el dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353'>Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-1117353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Twitter copia a Instagram y ahora podrás escribir tweets solo para tus mejores amigos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291'>Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todavia-no-tenemos-iphone-14-especificaciones-futuro-iphone-15-ya-asustan-1117291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-2753699.jpg' alt='Todavía no tenemos iPhone 14 y las especificaciones del futuro iPhone 15 ya asustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237'>Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/opinion-last-us-parte-1-ps5-confusion-genera-nostalgia-1117237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/last-us-parte-i-2797949.jpg' alt='Opinión de The Last of Us Parte 1 en PS5, la confusión que genera la nostalgia' />
     </a>
 </div>
 
