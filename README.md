@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827'>RACE desaconseja estas cuatro marcas de sillas infantiles para el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dgt-desaconseja-estas-cuatro-sillas-infantiles-coche-2799191.jpg' alt='RACE desaconseja estas cuatro marcas de sillas infantiles para el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825'>Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/ratones-logitech-g502-x-1116825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/son-nuevos-ratones-logitech-g502-x-sucesores-mitica-gama-gaming-importantes-novedades-2799189.jpg' alt='Así son los nuevos ratones Logitech G502 X, los sucesores de la mítica gama gaming, con importantes novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813'>Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700583.jpg' alt='Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795'>Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-quiso-subirse-carro-contenido-explicito-estuvo-punto-lanzar-propio-onlyfans-1116795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Twitter quiso subirse al carro del contenido explícito y estuvo a punto de lanzar su propio OnlyFans' />
     </a>
 </div>
 
