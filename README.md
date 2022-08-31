@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041'>Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661909795949-2799389.jpg' alt='Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827'>RACE desaconseja estas cuatro marcas de sillas infantiles para el coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dgt-desaconseja-estas-cuatro-sillas-infantiles-coche-2799191.jpg' alt='RACE desaconseja estas cuatro marcas de sillas infantiles para el coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815'>El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intento-facebook-convertirse-twitch-tiene-dias-contados-app-facebook-gaming-cierra-octubre-1116815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/facebook-gaming-estrena-servicio-juegos-nube-android-pc-gratis-2114717.jpg' alt='El intento de Facebook por convertirse en Twitch tiene los días contados: la app de Facebook Gaming cierra en octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813'>Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-premium-sony-wh-1000xm5-descuento-1116813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700583.jpg' alt='Los auriculares premium Sony WH-1000XM5 con la mejor cancelación de ruido, ya puedes conseguirlos con descuento' />
     </a>
 </div>
 
