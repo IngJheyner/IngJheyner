@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077'>Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/jeff-bezos-agradece-showrunners-anillos-poder-ignorasen-apuntes-serie-1117077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jeff-bezos-pareja-2672977.jpg' alt='Jeff Bezos agradece a los showrunners de Los anillos de poder que ignorasen sus apuntes sobre la serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Los mejores routers de 2022 por rango de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527'>Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mochilas-portatil-trabajo-1116527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hombre-sentado-pasillo-portatil-mochila-lado-2798339.jpg' alt='Si vuelves a la oficina con tu portátil, estas mochilas son resistentes y perfectas para profesionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041'>Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661909795949-2799389.jpg' alt='Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)' />
     </a>
 </div>
 
