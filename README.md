@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers de 2022 por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg' alt='Los mejores routers de 2022 por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175'>Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos</a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/razer-barracuda-x-auriculares-multiplataforma-versatiles-jugar-usar-desplazamientos-1114175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/auriculares-gaming-razer-barracuda-x-pccomponentes-2794451.jpg' alt='Razer Barracuda X, los auriculares multiplataforma más versátiles para jugar o usar en tus desplazamientos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041'>Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lawna-cortacesped-autonomo-inteligencia-artificial-perro-guardian-video-1117041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/verticalimage1661909795949-2799389.jpg' alt='Lawna, el cortacésped autónomo con inteligencia artificial que también es un 'perro' guardián (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827'>RACE desaconseja estas cuatro marcas de sillas infantiles para el coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/race-desaconseja-cuatro-marcas-sillas-infantiles-coche-sri-1116827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dgt-desaconseja-estas-cuatro-sillas-infantiles-coche-2799191.jpg' alt='RACE desaconseja estas cuatro marcas de sillas infantiles para el coche' />
     </a>
 </div>
 
