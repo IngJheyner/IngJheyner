@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393'>Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/usan-ia-restaurar-ecce-homo-borja-lado-arregla-pero-otro-estropea-aun-2800115.jpg' alt='Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315'>Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-2799917.jpg' alt='Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357'>Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche</a></h4>
     <a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/matricula-2274171.jpg' alt='Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301'>Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/expertos-recomiendan-utilizar-whatsapp-discutir-pareja-deberias-hacerles-caso-1117301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/relacion-pareja-whatsapp-2799893.jpg' alt='Expertos recomiendan utilizar WhatsApp para discutir con tu pareja y deberías hacerles caso' />
     </a>
 </div>
 
