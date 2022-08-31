@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/lleva-dentro-nueva-consola-portatil-logitech-rival-steam-deck-1117245'>Esto es lo que lleva por dentro la nueva consola portátil de Logitech, rival de la Steam Deck</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/lleva-dentro-nueva-consola-portatil-logitech-rival-steam-deck-1117245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-g-gaming-handheld-2798371.jpg' alt='Esto es lo que lleva por dentro la nueva consola portátil de Logitech, rival de la Steam Deck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171'>Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-instalar-google-camera-gcam-mejor-app-camara-android-aunque-no-tengas-pixel-1117171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/g-cam-2799661.jpg' alt='Cómo instalar Google Camera (GCam), la mejor app de cámara para Android aunque no tengas un Pixel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111'>Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-1117111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cumplen-13-anos-compra-marvel-todo-ha-cambiado-disney-2799533.jpg' alt='Se cumplen 13 años de la compra de Marvel, esto es todo lo que ha cambiado a Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141'>La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-localiza-20000-piscinas-privadas-declarar-hacienda-toma-nota-1117141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/piscina-reciclada-inteligente-2437169.jpg' alt='La inteligencia artificial localiza más de 20.000 piscinas privadas sin declarar y Hacienda toma nota' />
     </a>
 </div>
 
