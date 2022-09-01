@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fingerbot-sense-robot-aprieta-botones-distancia-video-1117399'>Fingerbot Sense, el robot que aprieta botones a distancia (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fingerbot-sense-robot-aprieta-botones-distancia-video-1117399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1661988236767-2800123.jpg' alt='Fingerbot Sense, el robot que aprieta botones a distancia (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cinturon-seguridad-verdadera-utilidad-dgt-1117397'>El cinturón de seguridad no es solo para sujetarte: la DGT explica su verdadera utilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cinturon-seguridad-verdadera-utilidad-dgt-1117397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cinturon-seguridad-2499349.jpg' alt='El cinturón de seguridad no es solo para sujetarte: la DGT explica su verdadera utilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393'>Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/usan-ia-restaurar-ecce-homo-borja-lado-arregla-pero-otro-estropea-aun-2800115.jpg' alt='Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-regalo-1117367'>Hora de bajar esos kilos del verano con el reloj Huawei Watch GT Runner, y auriculares de regalo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-huawei-watch-gt-runner-auriculares-regalo-1117367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hora-bajar-esos-kilos-verano-reloj-huawei-watch-gt-runner-auriculares-regalo-2800051.jpg' alt='Hora de bajar esos kilos del verano con el reloj Huawei Watch GT Runner, y auriculares de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381'>¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/youtube-mayor-plataforma-podcast-1117381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mayor-plataforma-podcast-no-fuese-solo-audio-youtube-puede-todo-2800101.jpg' alt='¿Y si la mayor plataforma de podcast no fuese solo de audio? YouTube puede con todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357'>Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/te-interesa-esperar-unas-semanas-estas-pensando-cambiar-coche-1117357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/matricula-2274171.jpg' alt='Por qué te interesa esperar unas semanas si estás pensando en cambiar de coche' />
     </a>
 </div>
 
