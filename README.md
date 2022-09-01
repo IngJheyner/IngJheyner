@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885'>TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas MIcro OLED para ver películas en cualquier lugar</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913'>La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-rescata-series-miticas-historia-tendra-propio-canal-gratis-1117895'>Pluto TV rescata una de las series más míticas de la historia que tendrá su propio canal gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-rescata-series-miticas-historia-tendra-propio-canal-gratis-1117895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sensacion-vivir-2800943.jpg' alt='Pluto TV rescata una de las series más míticas de la historia que tendrá su propio canal gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885'>TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas Micro OLED para ver películas en cualquier lugar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-2800919.jpg' alt='TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas MIcro OLED para ver películas en cualquier lugar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-2801025.jpg' alt='TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas Micro OLED para ver películas en cualquier lugar' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-1117887'>TCL RAY DANZ X937U: así es la nueva barra de sonido con tecnología Dolby Atmos, DTS:X y 7.1 canales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-1117887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-2800917.jpg' alt='TCL RAY DANZ X937U: así es la nueva barra de sonido con tecnología Dolby Atmos, DTS:X y 7.1 canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739'>Cuánto tiempo dura el alcohol en la sangre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg' alt='Cuánto tiempo dura el alcohol en la sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875'>Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs' />
     </a>
 </div>
 
