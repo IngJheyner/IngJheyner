@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incluye-actualizaciones-estado-dentro-lista-chats-extiende-usuarios-algunas-funciones-1117709'>WhatsApp incluye las actualizaciones de estado dentro de la lista de chats y extiende a más usuarios algunas de sus funciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incluye-actualizaciones-estado-dentro-lista-chats-extiende-usuarios-algunas-funciones-1117709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ch-10-trucos-whatsapp-no-conoces-1237693.jpg' alt='WhatsApp incluye las actualizaciones de estado dentro de la lista de chats y extiende a más usuarios algunas de sus funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/odyssey-oled-g8-primer-monitor-oled-nueva-linea-gaming-samsung-1117713'>Así es el Odyssey OLED G8, el primer monitor OLED de la nueva línea gaming de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/odyssey-oled-g8-primer-monitor-oled-nueva-linea-gaming-samsung-1117713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/odyssey-oled-g8-2800435.jpg' alt='Así es el Odyssey OLED G8, el primer monitor OLED de la nueva línea gaming de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-filtraciones-unira-dos-muescas-sola-mostrar-indicadores-privacidad-1117671'>El iPhone 14 Pro, según filtraciones, unirá sus dos muescas en una sola para mostrar indicadores de privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-filtraciones-unira-dos-muescas-sola-mostrar-indicadores-privacidad-1117671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='El iPhone 14 Pro, según filtraciones, unirá sus dos muescas en una sola para mostrar indicadores de privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-estan-escondiendo-software-malicioso-imagenes-telescopio-james-webb-1117685'>Así es cómo están escondiendo software malicioso en la imágenes del telescopio James Webb</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-estan-escondiendo-software-malicioso-imagenes-telescopio-james-webb-1117685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Así es cómo están escondiendo software malicioso en la imágenes del telescopio James Webb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/gaming/msi-mag-meta-5-configuracion-buscabas-dar-salto-pc-master-race-1114219'>MSI MAG META 5, la configuración que buscabas para dar el salto a la PC Master Race </a></h4>
-    <a href='https://computerhoy.com/patrocinado/gaming/msi-mag-meta-5-configuracion-buscabas-dar-salto-pc-master-race-1114219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/msi-mag-meta-5-pc-gaming-pccomponentes-2794551.jpg' alt='MSI MAG META 5, la configuración que buscabas para dar el salto a la PC Master Race ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-rog-phone-6d-procesador-dimensity-mismo-diseno-hermanos-1117651'>Vemos por primera vez el ROG Phone 6D: procesador Dimensity y mismo diseño que sus hermanos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-rog-phone-6d-procesador-dimensity-mismo-diseno-hermanos-1117651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750357.jpg' alt='Vemos por primera vez el ROG Phone 6D: procesador Dimensity y mismo diseño que sus hermanos' />
     </a>
 </div>
 
