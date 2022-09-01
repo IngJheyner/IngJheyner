@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2800329.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/descuento-extra-20-amazon-warehouse-1117119'>Estos productos son auténticos chollos gracias al 20% de descuento extra en Amazon Warehouse</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/descuento-extra-20-amazon-warehouse-1117119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/caja-amazon-2632263.jpg' alt='Estos productos son auténticos chollos gracias al 20% de descuento extra en Amazon Warehouse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/thinkpad-x1-fold-2a-generacion-lidera-renovacion-portatiles-profesionales-lenovo-2022-1117613'>ThinkPad X1 Fold de 2ª generación lidera la renovación en los portátiles profesionales de Lenovo en 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/thinkpad-x1-fold-2a-generacion-lidera-renovacion-portatiles-profesionales-lenovo-2022-1117613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lenovo-thinkpad-x1-fold-2800321.jpg' alt='ThinkPad X1 Fold de 2ª generación lidera la renovación en los portátiles profesionales de Lenovo en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-glasses-t1-legion-y32-thinkvision-gafas-tecnologia-microoled-bateria-nuevos-monitores-1117309'>Lenovo Glasses T1, Legion Y32 y los ThinkVision: gafas con tecnología microOLED y una batería de nuevos monitores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lenovo-glasses-t1-legion-y32-thinkvision-gafas-tecnologia-microoled-bateria-nuevos-monitores-1117309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lenovo-glasses-t1-2799901.jpg' alt='Lenovo Glasses T1, Legion Y32 y los ThinkVision: gafas con tecnología microOLED y una batería de nuevos monitores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/abrazaderas-magneticas-hack-ordenar-decoracion-cortinas-armarios-casa-1117615'>Abrazaderas magnéticas: el hack que resuelve muchos problemas con las cortinas y los armarios en casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/abrazaderas-magneticas-hack-ordenar-decoracion-cortinas-armarios-casa-1117615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/abrazaderas-magneticas-hack-resuelve-muchos-problemas-cortinas-armarios-casa-2800309.jpg' alt='Abrazaderas magnéticas: el hack que resuelve muchos problemas con las cortinas y los armarios en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fingerbot-sense-robot-aprieta-botones-distancia-video-1117399'>Fingerbot Sense, el robot que aprieta botones a distancia (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fingerbot-sense-robot-aprieta-botones-distancia-video-1117399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1661988236767-2800123.jpg' alt='Fingerbot Sense, el robot que aprieta botones a distancia (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cinturon-seguridad-verdadera-utilidad-dgt-1117397'>El cinturón de seguridad no es solo para sujetarte: la DGT explica su verdadera utilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cinturon-seguridad-verdadera-utilidad-dgt-1117397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/cinturon-seguridad-2499349.jpg' alt='El cinturón de seguridad no es solo para sujetarte: la DGT explica su verdadera utilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393'>Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/inteligencia-artificial-img2img-restaurar-ecce-homo-borja-1117393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/usan-ia-restaurar-ecce-homo-borja-lado-arregla-pero-otro-estropea-aun-2800115.jpg' alt='Usan una IA para restaurar el Ecce Homo de Borja, y por un lado lo arregla, pero por otro lo estropea aún más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315'>Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-1117315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/telescopios-webb-hubble-nasa-unen-crear-imagen-completa-galaxia-fantasma-2799917.jpg' alt='Los telescopios Webb y Hubble de la NASA se unen para crear una imagen completa de la Galaxia Fantasma' />
     </a>
 </div>
 
