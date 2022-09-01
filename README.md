@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/responder-telefonillo-cualquier-lugar-smartphone-ultimo-ring-ifa-1117821'>Responder el telefonillo desde cualquier lugar con tu smartphone, lo último de Ring en IFA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/responder-telefonillo-cualquier-lugar-smartphone-ultimo-ring-ifa-1117821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='Responder el telefonillo desde cualquier lugar con tu smartphone, lo último de Ring en IFA' />
+    <h4><a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689'>Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-2800407.jpg' alt='Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-analisis-forbes-criptomonedas-demoledor-mitad-transacciones-bitcoin-son-falsas-1117797'>El último análisis de Forbes sobre criptomonedas es demoledor: “La mitad de las transacciones con Bitcoin son falsas"</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-analisis-forbes-criptomonedas-demoledor-mitad-transacciones-bitcoin-son-falsas-1117797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El último análisis de Forbes sobre criptomonedas es demoledor: “La mitad de las transacciones con Bitcoin son falsas"' />
+    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-1117807'>Lidl lanza el chollo de la vuelta al cole con una de las bicicletas eléctricas más baratas del mercado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-1117807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-2800673.jpg' alt='Lidl lanza el chollo de la vuelta al cole con una de las bicicletas eléctricas más baratas del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767'>Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-2787895.jpg' alt='Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851'>NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-ibm-samsung-2561251.jpg' alt='NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-probar-todas-funciones-windows-11-salir-windows-10-899489'>Cómo probar todas las funciones de Windows 11 sin salir de Windows 10</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-probar-todas-funciones-windows-11-salir-windows-10-899489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-11-2407647.jpg' alt='Cómo probar todas las funciones de Windows 11 sin salir de Windows 10' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-movistar-plus-tiene-preparado-septiembre-gala-emmy-incluida-1117833'>Estos son todos los estrenos que Movistar Plus+ tiene preparado para septiembre, gala de los Emmy incluida</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-movistar-plus-tiene-preparado-septiembre-gala-emmy-incluida-1117833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg' alt='Estos son todos los estrenos que Movistar Plus+ tiene preparado para septiembre, gala de los Emmy incluida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783'>Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/beosound-theatre-bang-olufsen-2800625.jpg' alt='Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-5-oferta-1-septiembre-2022-1117169'>Este reloj Suunto de apenas 150€ es perfecto para runners y tiene poco que envidiar a los Garmin</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/suunto-5-oferta-1-septiembre-2022-1117169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/suunto-5-2799613.jpg' alt='Este reloj Suunto de apenas 150€ es perfecto para runners y tiene poco que envidiar a los Garmin' />
     </a>
 </div>
 
