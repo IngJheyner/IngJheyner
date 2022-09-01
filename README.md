@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739'>Cuánto tiempo dura el alcohol en la sangre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg' alt='Cuánto tiempo dura el alcohol en la sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875'>Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689'>Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes</a></h4>
     <a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-2800407.jpg' alt='Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851'>NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-ibm-samsung-2561251.jpg' alt='NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-movistar-plus-tiene-preparado-septiembre-gala-emmy-incluida-1117833'>Estos son todos los estrenos que Movistar Plus+ tiene preparado para septiembre, gala de los Emmy incluida</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/estos-son-todos-estrenos-movistar-plus-tiene-preparado-septiembre-gala-emmy-incluida-1117833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg' alt='Estos son todos los estrenos que Movistar Plus+ tiene preparado para septiembre, gala de los Emmy incluida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/suunto-5-oferta-1-septiembre-2022-1117169'>Este reloj Suunto de apenas 150€ es perfecto para runners y tiene poco que envidiar a los Garmin</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/suunto-5-oferta-1-septiembre-2022-1117169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/suunto-5-2799613.jpg' alt='Este reloj Suunto de apenas 150€ es perfecto para runners y tiene poco que envidiar a los Garmin' />
     </a>
 </div>
 
