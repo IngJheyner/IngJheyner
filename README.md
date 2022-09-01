@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971'>Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-disney-preparando-2801115.jpg' alt='Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957'>Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929'>La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913'>La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-rescata-series-miticas-historia-tendra-propio-canal-gratis-1117895'>Pluto TV rescata una de las series más míticas de la historia que tendrá su propio canal gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-rescata-series-miticas-historia-tendra-propio-canal-gratis-1117895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sensacion-vivir-2800943.jpg' alt='Pluto TV rescata una de las series más míticas de la historia que tendrá su propio canal gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885'>TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas Micro OLED para ver películas en cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-2801025.jpg' alt='TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas Micro OLED para ver películas en cualquier lugar' />
     </a>
 </div>
 
