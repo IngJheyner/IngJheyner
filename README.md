@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885'>TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas MIcro OLED para ver películas en cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-1117885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-nxtwear-s-son-nuevas-gafas-inteligentes-pantallas-micro-oled-ver-peliculas-cualquier-lugar-2800919.jpg' alt='TCL NXTWEAR S: así son las nuevas gafas inteligentes con pantallas MIcro OLED para ver películas en cualquier lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/potencia-tranquilidad-cualquier-parte-nuevas-estaciones-carga-bluetti-ac500-b300s-1117303'>Potencia y tranquilidad en cualquier parte con las nuevas estaciones de carga BLUETTI AC500 + B300S</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/potencia-tranquilidad-cualquier-parte-nuevas-estaciones-carga-bluetti-ac500-b300s-1117303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bluetti-2799899.jpg' alt='Potencia y tranquilidad en cualquier parte con las nuevas estaciones de carga BLUETTI AC500 + B300S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-1117887'>TCL RAY DANZ X937U: así es la nueva barra de sonido con tecnología Dolby Atmos, DTS:X y 7.1 canales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-1117887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tcl-ray-danz-x937u-nueva-barra-sonido-tecnologia-dolby-atmos-dtsx-71-canales-2800917.jpg' alt='TCL RAY DANZ X937U: así es la nueva barra de sonido con tecnología Dolby Atmos, DTS:X y 7.1 canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739'>Cuánto tiempo dura el alcohol en la sangre</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-alcohol-sangre-1117739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg' alt='Cuánto tiempo dura el alcohol en la sangre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875'>Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-usar-sinonimos-facilmente-mejorar-textos-word-google-docs-1117875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-word-2620279.jpg' alt='Cómo usar sinónimos fácilmente para mejorar tus textos desde Word y Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689'>Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes</a></h4>
-    <a href='https://computerhoy.com/noticias/life/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-1117689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-arte-siglo-xix-revivida-facilitar-lectura-imagenes-cientificas-invidentes-2800407.jpg' alt='Una forma de arte del siglo XIX es revivida para facilitar la lectura de imágenes científicas en invidentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-1117807'>Lidl lanza el chollo de la vuelta al cole con una de las bicicletas eléctricas más baratas del mercado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-1117807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lidl-lanza-chollo-vuelta-cole-bicicletas-electricas-baratas-mercado-2800673.jpg' alt='Lidl lanza el chollo de la vuelta al cole con una de las bicicletas eléctricas más baratas del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851'>NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nvidia-amd-tienen-prohibido-vender-mejores-chips-china-ordenes-casa-blanca-1117851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/chip-ibm-samsung-2561251.jpg' alt='NVIDIA y AMD tienen prohibido vender sus mejores chips a China, órdenes de la Casa Blanca' />
     </a>
 </div>
 
