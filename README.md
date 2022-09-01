@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983'>El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975'>Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-2801119.jpg' alt='Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957'>Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929'>La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?' />
     </a>
 </div>
 
