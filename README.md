@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-200-euros-1117155'>Mejores móviles de menos de 200 euros para comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-200-euros-1117155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643061.jpg' alt='Mejores móviles de menos de 200 euros para comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2800329.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lenovo-glasses-t1-legion-y32-thinkvision-gafas-tecnologia-microoled-bateria-nuevos-monitores-1117309'>Lenovo Glasses T1, Legion Y32 y los ThinkVision: gafas con tecnología microOLED y una batería de nuevos monitores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lenovo-glasses-t1-legion-y32-thinkvision-gafas-tecnologia-microoled-bateria-nuevos-monitores-1117309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lenovo-glasses-t1-2799901.jpg' alt='Lenovo Glasses T1, Legion Y32 y los ThinkVision: gafas con tecnología microOLED y una batería de nuevos monitores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/abrazaderas-magneticas-hack-ordenar-decoracion-cortinas-armarios-casa-1117615'>Abrazaderas magnéticas: el hack que resuelve muchos problemas con las cortinas y los armarios en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/abrazaderas-magneticas-hack-ordenar-decoracion-cortinas-armarios-casa-1117615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/abrazaderas-magneticas-hack-resuelve-muchos-problemas-cortinas-armarios-casa-2800309.jpg' alt='Abrazaderas magnéticas: el hack que resuelve muchos problemas con las cortinas y los armarios en casa' />
     </a>
 </div>
 
