@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767'>Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-2787895.jpg' alt='Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-probar-todas-funciones-windows-11-salir-windows-10-899489'>Cómo probar todas las funciones de Windows 11 sin salir de Windows 10</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-probar-todas-funciones-windows-11-salir-windows-10-899489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-11-2407647.jpg' alt='Cómo probar todas las funciones de Windows 11 sin salir de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783'>Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/beosound-theatre-bang-olufsen-2800625.jpg' alt='Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-f2-43-oferta-1-septiembre-2022-1117149'>Xiaomi vende un televisor 4K por mucho menos de 300 euros, y con Alexa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-f2-43-oferta-1-septiembre-2022-1117149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Xiaomi vende un televisor 4K por mucho menos de 300 euros, y con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879'>Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-20-contrasenas-debes-eliminar-inmediatamente-tienes-alguna-cuentas-1117725'>Estas son las 20 contraseñas que debes eliminar inmediatamente si las tienes en alguna de tus cuentas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-20-contrasenas-debes-eliminar-inmediatamente-tienes-alguna-cuentas-1117725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/hacker-2537251.jpg' alt='Estas son las 20 contraseñas que debes eliminar inmediatamente si las tienes en alguna de tus cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/muestrario-zapatillas-deportivas-desinfecta-ultimo-electrodomestico-lg-1117721'>Un muestrario para zapatillas deportivas que desinfecta, el último electrodoméstico de LG</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/muestrario-zapatillas-deportivas-desinfecta-ultimo-electrodomestico-lg-1117721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lg-mueble-antibacteriano-2800451.jpg' alt='Un muestrario para zapatillas deportivas que desinfecta, el último electrodoméstico de LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incluye-actualizaciones-estado-dentro-lista-chats-extiende-usuarios-algunas-funciones-1117709'>WhatsApp incluye las actualizaciones de estado dentro de la lista de chats y extiende a más usuarios algunas de sus funciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-incluye-actualizaciones-estado-dentro-lista-chats-extiende-usuarios-algunas-funciones-1117709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ch-10-trucos-whatsapp-no-conoces-1237693.jpg' alt='WhatsApp incluye las actualizaciones de estado dentro de la lista de chats y extiende a más usuarios algunas de sus funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/odyssey-oled-g8-primer-monitor-oled-nueva-linea-gaming-samsung-1117713'>Así es el Odyssey OLED G8, el primer monitor OLED de la nueva línea gaming de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/odyssey-oled-g8-primer-monitor-oled-nueva-linea-gaming-samsung-1117713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/odyssey-oled-g8-2800435.jpg' alt='Así es el Odyssey OLED G8, el primer monitor OLED de la nueva línea gaming de Samsung' />
     </a>
 </div>
 
