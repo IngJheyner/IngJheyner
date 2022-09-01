@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-filtraciones-unira-dos-muescas-sola-mostrar-indicadores-privacidad-1117671'>El iPhone 14 Pro, según filtraciones, unirá sus dos muescas en una sola para mostrar indicadores de privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-filtraciones-unira-dos-muescas-sola-mostrar-indicadores-privacidad-1117671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-max-2704797.jpg' alt='El iPhone 14 Pro, según filtraciones, unirá sus dos muescas en una sola para mostrar indicadores de privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-7-euros-usuarios-puedes-comprobar-te-han-tocado-1117131'>Amazon regala 7 euros a sus usuarios: así puedes comprobar si te han tocado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-regala-7-euros-usuarios-puedes-comprobar-te-han-tocado-1117131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg' alt='Amazon regala 7 euros a sus usuarios: así puedes comprobar si te han tocado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-estan-escondiendo-software-malicioso-imagenes-telescopio-james-webb-1117685'>Así es cómo están escondiendo software malicioso en la imágenes del telescopio James Webb</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-estan-escondiendo-software-malicioso-imagenes-telescopio-james-webb-1117685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='Así es cómo están escondiendo software malicioso en la imágenes del telescopio James Webb' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/gaming/msi-mag-meta-5-configuracion-buscabas-dar-salto-pc-master-race-1114219'>MSI MAG META 5, la configuración que buscabas para dar el salto a la PC Master Race </a></h4>
+    <a href='https://computerhoy.com/patrocinado/gaming/msi-mag-meta-5-configuracion-buscabas-dar-salto-pc-master-race-1114219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/msi-mag-meta-5-pc-gaming-pccomponentes-2794551.jpg' alt='MSI MAG META 5, la configuración que buscabas para dar el salto a la PC Master Race ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-rog-phone-6d-procesador-dimensity-mismo-diseno-hermanos-1117651'>Vemos por primera vez el ROG Phone 6D: procesador Dimensity y mismo diseño que sus hermanos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vemos-primera-vez-rog-phone-6d-procesador-dimensity-mismo-diseno-hermanos-1117651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nuevos-asus-rog-phone-6-phone-6-pro-son-oficiales-especificaciones-gaming-precio-propio-gama-alta-2750357.jpg' alt='Vemos por primera vez el ROG Phone 6D: procesador Dimensity y mismo diseño que sus hermanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-5-iv-movil-compacto-sony-vuelve-marcando-diferencias-xperia-1-iv-1116049'>Sony Xperia 5 IV, el móvil compacto de Sony vuelve marcando diferencias con el Xperia 1 IV</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-xperia-5-iv-movil-compacto-sony-vuelve-marcando-diferencias-xperia-1-iv-1116049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sony-xperia-5-iv-2800327.jpg' alt='Sony Xperia 5 IV, el móvil compacto de Sony vuelve marcando diferencias con el Xperia 1 IV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-624-computer-hoy-1114203'>¡Ya está en tu quiosco el número 624 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-624-computer-hoy-1114203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/computer-hoy-624-2797885.jpg' alt='¡Ya está en tu quiosco el número 624 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-200-euros-1117155'>Mejores móviles de menos de 200 euros para comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-menos-200-euros-1117155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643061.jpg' alt='Mejores móviles de menos de 200 euros para comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1117617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2800329.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
