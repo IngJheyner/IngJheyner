@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/responder-telefonillo-cualquier-lugar-smartphone-ultimo-ring-ifa-1117821'>Responder el telefonillo desde cualquier lugar con tu smartphone, lo último de Ring en IFA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/responder-telefonillo-cualquier-lugar-smartphone-ultimo-ring-ifa-1117821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/ring-video-doorbell-3-plus-2301003.jpg' alt='Responder el telefonillo desde cualquier lugar con tu smartphone, lo último de Ring en IFA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimo-analisis-forbes-criptomonedas-demoledor-mitad-transacciones-bitcoin-son-falsas-1117797'>El último análisis de Forbes sobre criptomonedas es demoledor: “La mitad de las transacciones con Bitcoin son falsas"</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimo-analisis-forbes-criptomonedas-demoledor-mitad-transacciones-bitcoin-son-falsas-1117797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2602551.jpg' alt='El último análisis de Forbes sobre criptomonedas es demoledor: “La mitad de las transacciones con Bitcoin son falsas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767'>Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/existen-cuatro-tipos-acaparadores-digitales-cual-eres-1117767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/somos-demasiado-dependientes-tecnologia-10-hechos-demuestran-peligros-2787895.jpg' alt='Existen cuatro tipos de acaparadores digitales: ¿cuál eres tú?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783'>Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/beosound-theatre-barra-sonido-bang-olufsen-quiere-conquistar-salon-1117783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/beosound-theatre-bang-olufsen-2800625.jpg' alt='Beosound Theatre, la barra de sonido de Bang & Olufsen que quiere conquistar nuestro salón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-f2-43-oferta-1-septiembre-2022-1117149'>Xiaomi vende un televisor 4K por mucho menos de 300 euros, y con Alexa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-f2-43-oferta-1-septiembre-2022-1117149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Xiaomi vende un televisor 4K por mucho menos de 300 euros, y con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879'>Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras' />
     </a>
 </div>
 
