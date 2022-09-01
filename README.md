@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995'>Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera</a></h4>
+    <a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/llega-leche-sintetica-no-necesita-vacas-podria-reducir-drasticamente-metano-atmosfera-2801159.jpg' alt='Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989'>Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-matebook-x-pro-2801147.jpg' alt='Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-1117981'>Huawei Nova 10 y Nova 10 Pro: Snapdragon 778 como procesador, carga rápida de 100 W y 120 Hz en la pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-1117981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-2801127.jpg' alt='Huawei Nova 10 y Nova 10 Pro: Snapdragon 778 como procesador, carga rápida de 100 W y 120 Hz en la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993'>La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-2801157.jpg' alt='La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983'>El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975'>Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-2801119.jpg' alt='Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-recula-presion-redes-vuelve-poner-venta-producto-habia-retirado-1117961'>Mercadona recula ante la presión de las redes y vuelve a poner a la venta un producto que había retirado</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-recula-presion-redes-vuelve-poner-venta-producto-habia-retirado-1117961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supermercado-2801113.jpg' alt='Mercadona recula ante la presión de las redes y vuelve a poner a la venta un producto que había retirado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971'>Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-disney-preparando-2801115.jpg' alt='Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando' />
     </a>
 </div>
 
