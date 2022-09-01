@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993'>La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-2801157.jpg' alt='La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983'>El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-aspirador-xiaomi-vacuum-mop-2s-limpia-friega-pasa-mopa-descuento-1117983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/robot-aspirador-vacuum-mop-2s-superventas-xiaomi-disponible-199eu-2674919.jpg' alt='El robot aspirador Xiaomi Vacuum-Mop 2S limpia, friega y pasa la mopa, y tiene hoy un descuento del 21%' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971'>Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-disney-preparando-2801115.jpg' alt='Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957'>Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-envia-aviso-actualizacion-urgente-modelos-iphone-antiguos-1117957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/iphone-6-2156859.jpg' alt='Apple envía un aviso de actualización urgente para los modelos de iPhone más antiguos' />
     </a>
 </div>
 
