@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975'>Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-1117975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-renueva-relojes-inteligentes-son-nuevos-amazfit-gtr-4-gts-4-gts-4-mini-2801119.jpg' alt='Amazfit renueva sus relojes inteligentes: así son los nuevos Amazfit GTR 4, GTS 4 y GTS 4 Mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mercadona-recula-presion-redes-vuelve-poner-venta-producto-habia-retirado-1117961'>Mercadona recula ante la presión de las redes y vuelve a poner a la venta un producto que había retirado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mercadona-recula-presion-redes-vuelve-poner-venta-producto-habia-retirado-1117961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/supermercado-2801113.jpg' alt='Mercadona recula ante la presión de las redes y vuelve a poner a la venta un producto que había retirado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971'>Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-1117971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-prime-nuevo-paquete-suscripciones-estilo-amazon-prime-disney-preparando-2801115.jpg' alt='Disney Prime, el nuevo paquete de suscripciones al estilo Amazon Prime que Disney está preparando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929'>La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?</a></h4>
     <a href='https://computerhoy.com/noticias/motor/sexta-etiqueta-dgt-seguramente-no-conocias-sirven-quienes-pueden-utilizarla-1117929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/etiquetas-ambientales-dgt-2537893.jpg' alt='La sexta etiqueta de la DGT que seguramente no conocías: ¿para qué sirven y quiénes pueden utilizarla?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-top-oferta-septiembre-amazon-1117219'>7 móviles top en oferta en las rebajas de septiembre de Amazon</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-top-oferta-septiembre-amazon-1117219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/oneplus-nord-2t-5g-analisis-opinion-2747171.jpg' alt='7 móviles top en oferta en las rebajas de septiembre de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913'>La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-espera-fin-sera-realidad-twitter-anadira-boton-editar-twees-1117913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='La función más espera por fin será una realidad: Twitter añadirá el botón de editar twees' />
     </a>
 </div>
 
