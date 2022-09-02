@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-ano-acabo-estrenar-sorpresa-primer-capitulo-youtube-totalmente-gratis-1118387'>La serie del año acabo de estrenar por sorpresa su primer capítulo en YouTube totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/serie-ano-acabo-estrenar-sorpresa-primer-capitulo-youtube-totalmente-gratis-1118387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='La serie del año acabo de estrenar por sorpresa su primer capítulo en YouTube totalmente gratis' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787'>Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759203.jpg' alt='Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/liquidacion-relojes-garmin-amazon-1117373'>Liquidación en relojes Garmin en Amazon: estos son los modelos en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/liquidacion-relojes-garmin-amazon-1117373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/liquidacion-relojes-garmin-amazon-estos-son-modelos-oferta-2800065.jpg' alt='Liquidación en relojes Garmin en Amazon: estos son los modelos en oferta' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451'>Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bingo-online-2161197.jpg' alt='Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361'>Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición</a></h4>
-    <a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg' alt='Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición' />
+    <h4><a href='https://computerhoy.com/noticias/life/ya-tenemos-fecha-nuevo-vuelo-privado-iss-mano-axiom-space-nasa-1118399'>Ya tenemos fecha para un nuevo vuelo privado a la ISS de la mano de Axiom Space y la NASA</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ya-tenemos-fecha-nuevo-vuelo-privado-iss-mano-axiom-space-nasa-1118399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/astronauta-fuera-estacion-espacial-internacional.jpg' alt='Ya tenemos fecha para un nuevo vuelo privado a la ISS de la mano de Axiom Space y la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-mofa-caracteristicas-iphone-14-incluso-antes-lanzamiento-1118315'>Samsung ya se mofa de las características del iPhone 14 incluso antes de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-mofa-caracteristicas-iphone-14-incluso-antes-lanzamiento-1118315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781951.jpg' alt='Samsung ya se mofa de las características del iPhone 14 incluso antes de su lanzamiento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413'>Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/android-beam.jpg' alt='Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363'>Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801585.jpg' alt='Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar' />
+    <h4><a href='https://computerhoy.com/noticias/life/grupos-sanguineos-menos-posibilidades-sufrir-infarto-prematuro-1118339'>Los grupos sanguíneos con menos posibilidades de sufrir un infarto prematuro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/grupos-sanguineos-menos-posibilidades-sufrir-infarto-prematuro-1118339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/sangre-medico.jpg' alt='Los grupos sanguíneos con menos posibilidades de sufrir un infarto prematuro' />
     </a>
 </div>
 
