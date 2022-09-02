@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/serie-ano-acabo-estrenar-sorpresa-primer-capitulo-youtube-totalmente-gratis-1118387'>La serie del año acabo de estrenar por sorpresa su primer capítulo en YouTube totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/serie-ano-acabo-estrenar-sorpresa-primer-capitulo-youtube-totalmente-gratis-1118387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg' alt='La serie del año acabo de estrenar por sorpresa su primer capítulo en YouTube totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/liquidacion-relojes-garmin-amazon-1117373'>Liquidación en relojes Garmin en Amazon: estos son los modelos en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/liquidacion-relojes-garmin-amazon-1117373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/liquidacion-relojes-garmin-amazon-estos-son-modelos-oferta-2800065.jpg' alt='Liquidación en relojes Garmin en Amazon: estos son los modelos en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361'>Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición</a></h4>
     <a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg' alt='Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363'>Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801585.jpg' alt='Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-windows-11-hara-monitor-funcione-mejor-1118295'>La función escondida de Windows 11 que hará que tu monitor funcione mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-windows-11-hara-monitor-funcione-mejor-1118295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='La función escondida de Windows 11 que hará que tu monitor funcione mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-declara-guerra-disquetes-intento-modernizar-tecnologia-1118271'>Japón le declara la guerra a los disquetes en un intento de modernizar su tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/japon-declara-guerra-disquetes-intento-modernizar-tecnologia-1118271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/disquete-pago-rescate-apartado-postal-funcionaba-primer-ransomware-anos-80-2362621.jpg' alt='Japón le declara la guerra a los disquetes en un intento de modernizar su tecnología' />
     </a>
 </div>
 
