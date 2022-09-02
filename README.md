@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751'>Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-dot-3a-generacion-2800483.jpg' alt='Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-cede-empezara-vender-hololens-ejercito-estados-unidos-1118259'>Microsoft cede y empezará a vender sus HoloLens al ejército de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-cede-empezara-vender-hololens-ejercito-estados-unidos-1118259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/usa-ejercito-americano-gafas-hololens-microsoft_0.jpg' alt='Microsoft cede y empezará a vender sus HoloLens al ejército de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-circulos-twitter-como-usan-1118233'>Qué son los Círculos de Twitter y cómo se usan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-circulos-twitter-como-usan-1118233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Qué son los Círculos de Twitter y cómo se usan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419'>AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos</a></h4>
     <a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-aoc-cq27g3su-pccomponentes-2794965.jpg' alt='AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927'>Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2801347.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2022 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg' alt='Estas son las mejores VPN de 2022 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189'>Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-2801341.jpg' alt='Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs' />
     </a>
 </div>
 
