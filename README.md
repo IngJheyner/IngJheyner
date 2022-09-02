@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541'>Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561'>Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615'>Honor 70, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798873.jpg' alt='Honor 70, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973'>Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español' />
     </a>
 </div>
 
