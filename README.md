@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-c-anade-lista-nuevo-conector-funcionara-80-gbps-1118263'>USB-C añade a la lista un nuevo conector que funcionará hasta 80 Gbps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usb-c-anade-lista-nuevo-conector-funcionara-80-gbps-1118263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='USB-C añade a la lista un nuevo conector que funcionará hasta 80 Gbps' />
+    <h4><a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361'>Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición</a></h4>
+    <a href='https://computerhoy.com/noticias/life/titanic-8k-primeras-imagenes-mitico-crucero-hundido-ultraalta-definicion-1118361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/titanic-2577587.jpg' alt='Así es el Titanic en 8K: primeras imágenes del mítico crucero hundido en ultra alta definición' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751'>Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-dot-3a-generacion-2800483.jpg' alt='Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-mofa-caracteristicas-iphone-14-incluso-antes-lanzamiento-1118315'>Samsung ya se mofa de las características del iPhone 14 incluso antes de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-mofa-caracteristicas-iphone-14-incluso-antes-lanzamiento-1118315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/impresiones-samsung-galaxy-z-flip-4-2781951.jpg' alt='Samsung ya se mofa de las características del iPhone 14 incluso antes de su lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-cede-empezara-vender-hololens-ejercito-estados-unidos-1118259'>Microsoft cede y empezará a vender sus HoloLens al ejército de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-cede-empezara-vender-hololens-ejercito-estados-unidos-1118259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/usa-ejercito-americano-gafas-hololens-microsoft_0.jpg' alt='Microsoft cede y empezará a vender sus HoloLens al ejército de Estados Unidos' />
+    <h4><a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363'>Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/impresiones-lg-flex-oled-televisor-panel-flexible-ideal-jugar-1118363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801585.jpg' alt='Impresiones del LG Flex OLED, un televisor con panel flexible ideal para jugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-circulos-twitter-como-usan-1118233'>Qué son los Círculos de Twitter y cómo se usan</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-circulos-twitter-como-usan-1118233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/twitter-copia-instagram-ahora-podras-escribir-tweets-solo-mejores-amigos-2800035.jpg' alt='Qué son los Círculos de Twitter y cómo se usan' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-windows-11-hara-monitor-funcione-mejor-1118295'>La función escondida de Windows 11 que hará que tu monitor funcione mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funcion-escondida-windows-11-hara-monitor-funcione-mejor-1118295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='La función escondida de Windows 11 que hará que tu monitor funcione mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419'>AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-aoc-cq27g3su-pccomponentes-2794965.jpg' alt='AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/japon-declara-guerra-disquetes-intento-modernizar-tecnologia-1118271'>Japón le declara la guerra a los disquetes en un intento de modernizar su tecnología</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/japon-declara-guerra-disquetes-intento-modernizar-tecnologia-1118271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/disquete-pago-rescate-apartado-postal-funcionaba-primer-ransomware-anos-80-2362621.jpg' alt='Japón le declara la guerra a los disquetes en un intento de modernizar su tecnología' />
     </a>
 </div>
 
