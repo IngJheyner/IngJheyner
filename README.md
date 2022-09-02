@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usb-c-anade-lista-nuevo-conector-funcionara-80-gbps-1118263'>USB-C añade a la lista un nuevo conector que funcionará hasta 80 Gbps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usb-c-anade-lista-nuevo-conector-funcionara-80-gbps-1118263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/usb-c-2347727.jpg' alt='USB-C añade a la lista un nuevo conector que funcionará hasta 80 Gbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751'>Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-echo-dot-oferta-2-septiembre-2022-1117751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-dot-3a-generacion-2800483.jpg' alt='Pon Alexa en casa a precio de ganga, por solo 21 euros en esta oferta temporal de Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419'>AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos</a></h4>
     <a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-aoc-cq27g3su-pccomponentes-2794965.jpg' alt='AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927'>Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena' />
     </a>
 </div>
 
