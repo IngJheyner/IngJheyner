@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579'>Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited</a></h4>
+    <a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tienes-kindle-regalo-ti-amazon-da-dos-meses-gratis-kindle-unlimited-2802165.jpg' alt='Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/prime-video-serie-citadel-hermanos-russo-1118573'>Prime Video ya tiene otra superproducción en mente tras Los anillos de poder, y es difícil que falle</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/prime-video-serie-citadel-hermanos-russo-1118573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/prime-video-ya-tiene-otra-superproduccion-mente-anillos-poder-dificil-falle-2802155.jpg' alt='Prime Video ya tiene otra superproducción en mente tras Los anillos de poder, y es difícil que falle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541'>Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513'>El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-reno8-2799479.jpg' alt='El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-llegara-antes-previsto-poder-robarle-anunciantes-disney-1118559'>Netflix con anuncios llegará antes de lo previsto para poder robarle anunciantes a Disney+</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-llegara-antes-previsto-poder-robarle-anunciantes-disney-1118559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='Netflix con anuncios llegará antes de lo previsto para poder robarle anunciantes a Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615'>Honor 70, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798873.jpg' alt='Honor 70, análisis y opinión' />
     </a>
 </div>
 
