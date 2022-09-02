@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419'>AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/gaming/aoc-cq27g3su-bk-27-maxima-curvatura-conseguir-inmersion-total-videojuegos-1114419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-aoc-cq27g3su-pccomponentes-2794965.jpg' alt='AOC CQ27G3SU/BK 27": la máxima curvatura para conseguir inmersión total en tus videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927'>Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189'>Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs</a></h4>
     <a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-2801341.jpg' alt='Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995'>Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/llega-leche-sintetica-no-necesita-vacas-podria-reducir-drasticamente-metano-atmosfera-2801159.jpg' alt='Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera' />
     </a>
 </div>
 
