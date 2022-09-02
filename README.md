@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-animado-evolucion-escritura-mundo-1117741'>Este espectacular mapa animado muestra cómo se extendió la escritura por el mundo, y te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-animado-evolucion-escritura-mundo-1117741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espectacular-mapa-muestra-como-extendio-escritura-mundo-te-va-sorprender-2800475.jpg' alt='Este espectacular mapa animado muestra cómo se extendió la escritura por el mundo, y te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585'>Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579'>Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited</a></h4>
     <a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tienes-kindle-regalo-ti-amazon-da-dos-meses-gratis-kindle-unlimited-2802165.jpg' alt='Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541'>Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/metodos-pagos-alternativos-llegan-play-store-espana-primeros-paises-integrarlos-1118541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/google-play-store-1916407.jpg' alt='Los métodos de pagos alternativos llegan a la Play Store y España es uno de los primeros países en integrarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561'>Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513'>El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-reno8-2799479.jpg' alt='El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles' />
     </a>
 </div>
 
