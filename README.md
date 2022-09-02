@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anillos-secreto-narcos-1118477'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: unos anillos, un secreto y unos narcos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anillos-secreto-narcos-1118477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2801835.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: unos anillos, un secreto y unos narcos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-1118365'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Elvis, un drama turco y una comedia erótica con Emma Thompson</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-1118365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-2801729.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Elvis, un drama turco y una comedia erótica con Emma Thompson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465'>Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485'>OnlyFans revela los miles de millones de dólares que ganó en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='OnlyFans revela los miles de millones de dólares que ganó en 2021' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787'>Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759203.jpg' alt='Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451'>Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bingo-online-2161197.jpg' alt='Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar' />
     </a>
 </div>
 
