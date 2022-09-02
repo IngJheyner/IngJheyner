@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2801347.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2022 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg' alt='Estas son las mejores VPN de 2022 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189'>Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs</a></h4>
     <a href='https://computerhoy.com/noticias/life/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-1118189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosas-nunca-debes-pedir-restaurante-pizzeria-varios-chefs-2801341.jpg' alt='Cosas que nunca debes pedir en un restaurante o pizzería, según varios chefs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989'>Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-matebook-x-pro-2801147.jpg' alt='Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-1117981'>Huawei Nova 10 y Nova 10 Pro: Snapdragon 778 como procesador, carga rápida de 100 W y 120 Hz en la pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-1117981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-nova-10-nova-10-pro-snapdragon-778-como-procesador-carga-rapida-100-w-120-hz-pantalla-2801127.jpg' alt='Huawei Nova 10 y Nova 10 Pro: Snapdragon 778 como procesador, carga rápida de 100 W y 120 Hz en la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993'>La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-1117993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ue-obligara-apple-samsung-otros-fabricantes-bateria-moviles-dure-tiempo-2801157.jpg' alt='La UE obligará a Apple, Samsung y otros fabricantes a que la batería de los móviles dure más tiempo ' />
     </a>
 </div>
 
