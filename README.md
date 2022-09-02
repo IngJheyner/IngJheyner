@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485'>OnlyFans revela los miles de millones de dólares que ganó en 2021</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='OnlyFans revela los miles de millones de dólares que ganó en 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787'>Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/realme-gt-neo-3t-oferta-2-septiembre-2022-1117787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/realme-gt-neo-3t-analisis-opinion-2759203.jpg' alt='Potente como pocos y con carga a 80W: hemos probado este móvil realme y ahora está a precio de derribo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413'>Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/android-beam.jpg' alt='Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/grupos-sanguineos-menos-posibilidades-sufrir-infarto-prematuro-1118339'>Los grupos sanguíneos con menos posibilidades de sufrir un infarto prematuro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/grupos-sanguineos-menos-posibilidades-sufrir-infarto-prematuro-1118339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/sangre-medico.jpg' alt='Los grupos sanguíneos con menos posibilidades de sufrir un infarto prematuro' />
     </a>
 </div>
 
