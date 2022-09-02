@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465'>Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-ramadan-cuando-celebra-cual-significado-1118383'>Cuánto tiempo dura el Ramadán, cuándo se celebra y cuál es su significado</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-ramadan-cuando-celebra-cual-significado-1118383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuanto-tiempo-dura-ramadan-cuando-celebra-cual-significado-2801653.jpg' alt='Cuánto tiempo dura el Ramadán, cuándo se celebra y cuál es su significado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485'>OnlyFans revela los miles de millones de dólares que ganó en 2021</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/onlyfans-revela-miles-millones-dolares-gano-2021-1118485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/onlyfans-2451715.jpg' alt='OnlyFans revela los miles de millones de dólares que ganó en 2021' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451'>Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-jugar-bingo-hacer-sudoku-excel-no-solo-sirve-trabajar-1118451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/bingo-online-2161197.jpg' alt='Cómo jugar al bingo o hacer un sudoku en Excel, no solo sirve para trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ya-tenemos-fecha-nuevo-vuelo-privado-iss-mano-axiom-space-nasa-1118399'>Ya tenemos fecha para un nuevo vuelo privado a la ISS de la mano de Axiom Space y la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ya-tenemos-fecha-nuevo-vuelo-privado-iss-mano-axiom-space-nasa-1118399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/astronauta-fuera-estacion-espacial-internacional.jpg' alt='Ya tenemos fecha para un nuevo vuelo privado a la ISS de la mano de Axiom Space y la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413'>Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-14-diremos-adios-herramientas-utiles-android-decada-uso-1118413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/android-beam.jpg' alt='Con Android 14 diremos adiós a una de las herramientas más útiles de Android con una década de uso' />
     </a>
 </div>
 
