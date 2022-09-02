@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927'>Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ofertas-fin-semana-2-septiembre-2022-1117927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508425.jpg' alt='Fin de semana de ofertas: chollos de Amazon, AliExpress, Media Markt y más que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193'>33 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/33-noticias-tecnologia-comenzar-manana-informado-ultimo-1118193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/33-noticias-tecnologia-comenzar-manana-informado-ultimo-2801347.jpg' alt='33 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995'>Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera</a></h4>
     <a href='https://computerhoy.com/noticias/life/leche-sintetica-no-necesita-vacas-1117995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/llega-leche-sintetica-no-necesita-vacas-podria-reducir-drasticamente-metano-atmosfera-2801159.jpg' alt='Llega la leche sintética que no necesita vacas, podría reducir drásticamente el metano en la atmósfera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989'>Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-matebook-x-pro-2022-diseno-refinado-rendimiento-mejorado-1117989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-matebook-x-pro-2801147.jpg' alt='Huawei MateBook X Pro 2022, diseño más refinado y rendimiento mejorado' />
     </a>
 </div>
 
