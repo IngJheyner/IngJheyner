@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561'>Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-tipo-tarjeta-pago-adecuado-cada-compra-ocu-1118561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg' alt='Cuál es el tipo de tarjeta de pago más adecuado para cada compra, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513'>El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cargador-especie-extincion-oppo-dejara-incluirlo-dispositivos-moviles-1118513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-reno8-2799479.jpg' alt='El cargador es una especie en extinción: OPPO dejará de incluirlo en sus dispositivos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-llegara-antes-previsto-poder-robarle-anunciantes-disney-1118559'>Netflix con anuncios llegará antes de lo previsto para poder robarle anunciantes a Disney+</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-anuncios-llegara-antes-previsto-poder-robarle-anunciantes-disney-1118559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='Netflix con anuncios llegará antes de lo previsto para poder robarle anunciantes a Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615'>Honor 70, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/honor-70-review-opinion-1116615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798873.jpg' alt='Honor 70, análisis y opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973'>Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-online-dominar-excel-1028973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portada-microsoft-excel-2801475.jpg' alt='Cursos para conseguir ser nivel Dios en Microsoft Excel y que están totalmente en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anillos-secreto-narcos-1118477'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: unos anillos, un secreto y unos narcos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anillos-secreto-narcos-1118477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2801835.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: unos anillos, un secreto y unos narcos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-1118365'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Elvis, un drama turco y una comedia erótica con Emma Thompson</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-1118365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-hbo-max-elvis-drama-turco-comedia-erotica-emma-thompson-2801729.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y HBO Max: Elvis, un drama turco y una comedia erótica con Emma Thompson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465'>Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-14-ya-integraria-conexion-satelites-orbita-baja-gracias-t-mobile-spacex-1118465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funcion-oculta-proteger-privacidad-35-usuarios-android-desconoce-2795885.jpg' alt='Android 14 ya integraría la conexión a satélites de órbita baja, gracias a T-Mobile y SpaceX' />
     </a>
 </div>
 
