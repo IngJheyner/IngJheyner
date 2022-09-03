@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191'>Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662082545027-2801345.jpg' alt='Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867'>El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831'>Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/taxi-2802499.jpg' alt='Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861'>Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)</a></h4>
-    <a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/coche-enchufable-2790203.jpg' alt='Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)' />
     </a>
 </div>
 
