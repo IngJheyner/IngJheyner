@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275'>OPPO Enco X2, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-enco-x2-2781399.jpg' alt='OPPO Enco X2, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/grabadora-voz-portatil-1043313'>Consejos y guía para comprar una grabadora de voz portátil</a></h4>
-    <a href='https://computerhoy.com/guia-compra/grabadora-voz-portatil-1043313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/grabadora-voz-2671931.jpg' alt='Consejos y guía para comprar una grabadora de voz portátil' />
     </a>
 </div>
 
