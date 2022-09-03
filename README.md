@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815'>No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-pro-2802477.jpg' alt='No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-galaxy-z-fold-4-ya-pueden-respirar-tranquilos-nueva-actualizacion-android-auto-1118811'>Los usuarios del Samsung Galaxy Z Fold 4 ya pueden respirar tranquilos con la nueva actualización de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-galaxy-z-fold-4-ya-pueden-respirar-tranquilos-nueva-actualizacion-android-auto-1118811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791515.jpg' alt='Los usuarios del Samsung Galaxy Z Fold 4 ya pueden respirar tranquilos con la nueva actualización de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755'>Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801'>WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309'>El teclado funcional más grande del mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclado-funcional-grande-mundo-2801487.jpg' alt='El teclado funcional más grande del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sufre-brecha-seguridad-afecta-estos-clientes-1118795'>Samsung sufre una brecha de seguridad que afecta a estos clientes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sufre-brecha-seguridad-afecta-estos-clientes-1118795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung sufre una brecha de seguridad que afecta a estos clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305'>Los 6 trucos de Gmail que todo el mundo debería conocer</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/gmail.jpg' alt='Los 6 trucos de Gmail que todo el mundo debería conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/monitor-msi-pro-mp242c-curvatura-1500r-sera-mejor-aliado-vuelta-cole-1114433'>Este monitor MSI Pro MP242C con curvatura 1500R será tu mejor aliado para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/monitor-msi-pro-mp242c-curvatura-1500r-sera-mejor-aliado-vuelta-cole-1114433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-msi-curvo-pccomponentes-2794999.jpg' alt='Este monitor MSI Pro MP242C con curvatura 1500R será tu mejor aliado para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175'>Errores que todos cometemos con nuestra barra de sonido</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Errores que todos cometemos con nuestra barra de sonido' />
     </a>
 </div>
 
