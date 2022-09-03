@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829'>Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/senor-anillos-anillos-poder-2782735.jpg' alt='Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815'>No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-pro-2802477.jpg' alt='No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801'>WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309'>El teclado funcional más grande del mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclado-funcional-grande-mundo-2801487.jpg' alt='El teclado funcional más grande del mundo' />
     </a>
 </div>
 
