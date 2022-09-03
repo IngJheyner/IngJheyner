@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305'>Los 6 trucos de Gmail que todo el mundo debería conocer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/gmail.jpg' alt='Los 6 trucos de Gmail que todo el mundo debería conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/monitor-msi-pro-mp242c-curvatura-1500r-sera-mejor-aliado-vuelta-cole-1114433'>Este monitor MSI Pro MP242C con curvatura 1500R será tu mejor aliado para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/monitor-msi-pro-mp242c-curvatura-1500r-sera-mejor-aliado-vuelta-cole-1114433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-msi-curvo-pccomponentes-2794999.jpg' alt='Este monitor MSI Pro MP242C con curvatura 1500R será tu mejor aliado para la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175'>Errores que todos cometemos con nuestra barra de sonido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Errores que todos cometemos con nuestra barra de sonido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-calcular-tiempo-vida-restante-discos-duros-ssds-1111521'>Cómo calcular el tiempo de vida restante de tus discos duros y SSDs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-calcular-tiempo-vida-restante-discos-duros-ssds-1111521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ssd-2733789.jpg' alt='Cómo calcular el tiempo de vida restante de tus discos duros y SSDs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad' />
     </a>
 </div>
 
