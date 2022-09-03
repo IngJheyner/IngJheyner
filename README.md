@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867'>El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-2802539.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861'>Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)</a></h4>
     <a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/coche-enchufable-2790203.jpg' alt='Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583'>Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-2802181.jpg' alt='Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant' />
     </a>
 </div>
 
