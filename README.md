@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309'>El teclado funcional más grande del mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/teclado-funcional-mas-grande-mundo-1118309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclado-funcional-grande-mundo-2801487.jpg' alt='El teclado funcional más grande del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-sufre-brecha-seguridad-afecta-estos-clientes-1118795'>Samsung sufre una brecha de seguridad que afecta a estos clientes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-sufre-brecha-seguridad-afecta-estos-clientes-1118795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-hq-2635961.jpg' alt='Samsung sufre una brecha de seguridad que afecta a estos clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305'>Los 6 trucos de Gmail que todo el mundo debería conocer</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/6-trucos-gmail-todo-mundo-deberia-conocer-1101305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/gmail.jpg' alt='Los 6 trucos de Gmail que todo el mundo debería conocer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175'>Errores que todos cometemos con nuestra barra de sonido</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Errores que todos cometemos con nuestra barra de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275'>OPPO Enco X2, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-enco-x2-2781399.jpg' alt='OPPO Enco X2, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
     </a>
 </div>
 
