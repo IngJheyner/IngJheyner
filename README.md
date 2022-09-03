@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175'>Errores que todos cometemos con nuestra barra de sonido</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-todos-cometemos-barra-sonido-1113175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/smart-tv-barra-sonido-mesa-salon-2787603.jpg' alt='Errores que todos cometemos con nuestra barra de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275'>OPPO Enco X2, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/noticias/oppo-enco-x2-analisis-opinion-1105275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oppo-enco-x2-2781399.jpg' alt='OPPO Enco X2, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
     </a>
 </div>
 
