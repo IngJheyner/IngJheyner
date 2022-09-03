@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831'>Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/taxi-2802499.jpg' alt='Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861'>Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/todo-debes-saber-antes-comprar-coche-hibrido-enchufable-phev-1111861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/coche-enchufable-2790203.jpg' alt='Todo lo que debes saber antes de comprar un coche híbrido enchufable (PHEV)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583'>Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-2802181.jpg' alt='Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815'>No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-pro-2802477.jpg' alt='No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-galaxy-z-fold-4-ya-pueden-respirar-tranquilos-nueva-actualizacion-android-auto-1118811'>Los usuarios del Samsung Galaxy Z Fold 4 ya pueden respirar tranquilos con la nueva actualización de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/usuarios-samsung-galaxy-z-fold-4-ya-pueden-respirar-tranquilos-nueva-actualizacion-android-auto-1118811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/review-samsung-galaxy-z-fold-4-2791515.jpg' alt='Los usuarios del Samsung Galaxy Z Fold 4 ya pueden respirar tranquilos con la nueva actualización de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755'>Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?' />
     </a>
 </div>
 
