@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517'>Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-pros-contras-1118517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a12-2802109.jpg' alt='Samsung Galaxy A12: ¿merece la pena? Pros y contras del móvil barato de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-calcular-tiempo-vida-restante-discos-duros-ssds-1111521'>Cómo calcular el tiempo de vida restante de tus discos duros y SSDs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-calcular-tiempo-vida-restante-discos-duros-ssds-1111521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ssd-2733789.jpg' alt='Cómo calcular el tiempo de vida restante de tus discos duros y SSDs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/grabadora-voz-portatil-1043313'>Consejos y guía para comprar una grabadora de voz portátil</a></h4>
     <a href='https://computerhoy.com/guia-compra/grabadora-voz-portatil-1043313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/grabadora-voz-2671931.jpg' alt='Consejos y guía para comprar una grabadora de voz portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-animado-evolucion-escritura-mundo-1117741'>Este espectacular mapa animado muestra cómo se extendió la escritura por el mundo, y te va a sorprender</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-animado-evolucion-escritura-mundo-1117741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espectacular-mapa-muestra-como-extendio-escritura-mundo-te-va-sorprender-2800475.jpg' alt='Este espectacular mapa animado muestra cómo se extendió la escritura por el mundo, y te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585'>Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros' />
     </a>
 </div>
 
