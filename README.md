@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='Por qué deberías usar una VPN en tu móvil y ordenador para proteger tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Esto es lo que sabemos sobre el iPhone 14 a una semana de su presentación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585'>Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/discos-duros-externos-cuatro-veces-mas-baratos-folio-photonics-1118585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/interior-disco-duro-35-pulgadas-2671895.jpg' alt='Una nueva tecnología óptica reduce cuatro veces el precio de los discos duros externos: 10 TB por 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579'>Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited</a></h4>
-    <a href='https://computerhoy.com/noticias/life/kindle-unlimited-dos-meses-gratis-1118579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tienes-kindle-regalo-ti-amazon-da-dos-meses-gratis-kindle-unlimited-2802165.jpg' alt='Si tienes un Kindle este regalo es para ti: Amazon da dos meses gratis de Kindle Unlimited' />
     </a>
 </div>
 
