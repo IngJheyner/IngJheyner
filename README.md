@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-2802539.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-relojes-pulseras-inteligentes-hemos-probado-verano-nos-han-encantado-1117857'>4 relojes y pulseras inteligentes que hemos probado este verano y nos han encantado</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/4-relojes-pulseras-inteligentes-hemos-probado-verano-nos-han-encantado-1117857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg' alt='4 relojes y pulseras inteligentes que hemos probado este verano y nos han encantado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831'>Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ciberdelincuentes-ponen-jaque-ciudad-entera-pirateando-decenas-taxis-1118831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/taxi-2802499.jpg' alt='Ciberdelincuentes ponen en jaque a una ciudad entera pirateando decenas de taxis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583'>Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-2802181.jpg' alt='Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829'>Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/senor-anillos-anillos-poder-2782735.jpg' alt='Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815'>No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-habra-reto-te-resista-reloj-inteligente-amazfit-t-rex-pro-ahora-oferta-110-euros-1118815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-pro-2802477.jpg' alt='No habrá reto que se te resista con el reloj inteligente Amazfit T-Rex Pro y ahora en oferta a 110 euros' />
     </a>
 </div>
 
