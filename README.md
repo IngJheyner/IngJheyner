@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583'>Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-1118583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-gaming-benq-zowie-24-tiene-descuento-extra-20-amazon-tiene-modo-especifico-valorant-2802181.jpg' alt='Este monitor gaming BenQ Zowie de 24" tiene un descuento extra del 20% en Amazon y tiene hasta modo específico para Valorant' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829'>Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/usuarios-bombardean-resenas-negativas-anillos-poder-amazon-toma-decision-inedita-1118829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/senor-anillos-anillos-poder-2782735.jpg' alt='Usuarios bombardean con reseñas negativas a Los Anillos de Poder y Amazon toma una decisión inédita' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755'>Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/anillos-poder-espectaculo-tecnologia-deberias-tener-disfrutar-serie-maximo-1116755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/primeras-imagenes-serie-senor-anillos-anillos-poder-amazon-no-dejan-indiferente-nadie-2612703.jpg' alt='Los Anillos de Poder es un espectáculo, ¿qué tecnología deberías tener para disfrutar la serie al máximo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801'>WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-te-quiere-invitar-participes-encuestas-saber-piensas-1118801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/encuestas-whatsapp-2635955.jpg' alt='WhatsApp te quiere invitar a que participes en sus encuestas para saber lo que piensas' />
     </a>
 </div>
 
