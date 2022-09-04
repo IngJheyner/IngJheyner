@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791'>7 películas y series que tienen a científicos locos e imprevisibles</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-series-tienen-cientificos-locos-imprevisibles-2800033.jpg' alt='7 películas y series que tienen a científicos locos e imprevisibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135'>Android Auto muestra esta extraña notificación a los usuarios de Android 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto muestra esta extraña notificación a los usuarios de Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877'>Cómo bloquear llamadas de spam en Android y iOS</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Cómo bloquear llamadas de spam en Android y iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923'>Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pendrive-apps-windows-2797309.jpg' alt='Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bateria-litio-ferrofosfato-lifepo4-1113315'>Qué es una batería de litio ferrofosfato (LiFePo4)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bateria-litio-ferrofosfato-lifepo4-1113315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662128009631-2801965.jpg' alt='Qué es una batería de litio ferrofosfato (LiFePo4)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267'>Los errores que no debes cometer al comprar la mochila para tu portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796567.jpg' alt='Los errores que no debes cometer al comprar la mochila para tu portátil' />
     </a>
 </div>
 
