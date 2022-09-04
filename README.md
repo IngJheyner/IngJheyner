@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247'>Fallece el último miembro de una tribu no contactada, después de 26 años en soledad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallece-ultimo-miembro-tribu-no-contactada-despues-26-anos-soledad-2801413.jpg' alt='Fallece el último miembro de una tribu no contactada, después de 26 años en soledad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-5-grados-adicionales-temperatura-1119209'>Esta forma de colocar la pasta térmica reduce 5 grados adicionales la temperatura, y no la usa casi nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-5-grados-adicionales-temperatura-1119209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg' alt='Esta forma de colocar la pasta térmica reduce 5 grados adicionales la temperatura, y no la usa casi nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197'>Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-2803247.jpg' alt='Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319'>Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/antena-3-movil-2801419.jpg' alt='Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179'>Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-filtra-video-unboxing-version-final-comercial-2803211.jpg' alt='Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial' />
     </a>
 </div>
 
