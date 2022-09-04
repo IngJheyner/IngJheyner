@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/indicador-bateria-clasico-volvera-iphone-14-pro-1119119'>El indicador de batería clásico volverá con el iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/indicador-bateria-clasico-volvera-iphone-14-pro-1119119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='El indicador de batería clásico volverá con el iPhone 14 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923'>Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pendrive-apps-windows-2797309.jpg' alt='Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bateria-litio-ferrofosfato-lifepo4-1113315'>Qué es una batería de litio ferrofosfato (LiFePo4)</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bateria-litio-ferrofosfato-lifepo4-1113315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662128009631-2801965.jpg' alt='Qué es una batería de litio ferrofosfato (LiFePo4)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267'>Los errores que no debes cometer al comprar la mochila para tu portátil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796567.jpg' alt='Los errores que no debes cometer al comprar la mochila para tu portátil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869'>Samsung Galaxy Z Flip 4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802989.jpg' alt='Samsung Galaxy Z Flip 4, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275'>Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-mac-2727533.jpg' alt='Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-watch-5-vs-apple-watch-series-7-cual-mejor-caracteristicas-precio-diferencias-1118327'>Samsung Galaxy Watch 5 vs Apple Watch Series 7: ¿cuál es mejor? Características, precio y diferencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-watch-5-vs-apple-watch-series-7-cual-mejor-caracteristicas-precio-diferencias-1118327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-series-7-vs-samsung-galaxy-watch-5-2801499.jpg' alt='Samsung Galaxy Watch 5 vs Apple Watch Series 7: ¿cuál es mejor? Características, precio y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863'>Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cepillarse-dientes-2802549.jpg' alt='Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti' />
     </a>
 </div>
 
