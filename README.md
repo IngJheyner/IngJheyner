@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197'>Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-2803247.jpg' alt='Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193'>En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-2803221.jpg' alt='En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179'>Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-filtra-video-unboxing-version-final-comercial-2803211.jpg' alt='Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159'>Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-airpods-pro-2035403.jpg' alt='Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características' />
     </a>
 </div>
 
