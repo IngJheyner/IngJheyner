@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319'>Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/antena-3-movil-2801419.jpg' alt='Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179'>Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-pro-filtra-video-unboxing-version-final-comercial-1119179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-7-pro-filtra-video-unboxing-version-final-comercial-2803211.jpg' alt='Pixel 7 Pro: se filtra un vídeo con un unboxing de la versión final comercial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159'>Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-airpods-pro-2035403.jpg' alt='Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141'>Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blink-mini-2803139.jpg' alt='Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791'>7 películas y series que tienen a científicos locos e imprevisibles</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-series-tienen-cientificos-locos-imprevisibles-2800033.jpg' alt='7 películas y series que tienen a científicos locos e imprevisibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135'>Android Auto muestra esta extraña notificación a los usuarios de Android 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto muestra esta extraña notificación a los usuarios de Android 13' />
     </a>
 </div>
 
