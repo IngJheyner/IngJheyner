@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153'>WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141'>Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blink-mini-2803139.jpg' alt='Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791'>7 películas y series que tienen a científicos locos e imprevisibles</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/7-peliculas-series-tienen-cientificos-locos-imprevisibles-1116791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/7-peliculas-series-tienen-cientificos-locos-imprevisibles-2800033.jpg' alt='7 películas y series que tienen a científicos locos e imprevisibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877'>Cómo bloquear llamadas de spam en Android y iOS</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Cómo bloquear llamadas de spam en Android y iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/indicador-bateria-clasico-volvera-iphone-14-pro-1119119'>El indicador de batería clásico volverá con el iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/indicador-bateria-clasico-volvera-iphone-14-pro-1119119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='El indicador de batería clásico volverá con el iPhone 14 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923'>Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-aplicaciones-portables-poder-usarlas-cualquier-ordenador-windows-pendrive-1115923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/pendrive-apps-windows-2797309.jpg' alt='Cómo crear aplicaciones portables y poder usarlas en cualquier ordenador Windows desde un pendrive' />
     </a>
 </div>
 
