@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275'>Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-mac-2727533.jpg' alt='Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-watch-5-vs-apple-watch-series-7-cual-mejor-caracteristicas-precio-diferencias-1118327'>Samsung Galaxy Watch 5 vs Apple Watch Series 7: ¿cuál es mejor? Características, precio y diferencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-watch-5-vs-apple-watch-series-7-cual-mejor-caracteristicas-precio-diferencias-1118327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-series-7-vs-samsung-galaxy-watch-5-2801499.jpg' alt='Samsung Galaxy Watch 5 vs Apple Watch Series 7: ¿cuál es mejor? Características, precio y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863'>Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cepillarse-dientes-2802549.jpg' alt='Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865'>Cultivan con éxito plántulas de arroz en el espacio</a></h4>
     <a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/plantulas-arroz-2802551.jpg' alt='Cultivan con éxito plántulas de arroz en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-asp-net-1118871'>Cursos de ASP.NET que puedes realizar pagar mejorar tu exposición en la búsqueda de trabajo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-asp-net-1118871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg' alt='Cursos de ASP.NET que puedes realizar pagar mejorar tu exposición en la búsqueda de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207'>Los 10 jefes de videojuegos más espectaculares y complicados de vencer</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/10-jefes-videojuegos-espectaculares-complicados-vencer-2799067.jpg' alt='Los 10 jefes de videojuegos más espectaculares y complicados de vencer' />
     </a>
 </div>
 
