@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267'>Los errores que no debes cometer al comprar la mochila para tu portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-mochila-portatil-1115267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mochila-portatil-2796567.jpg' alt='Los errores que no debes cometer al comprar la mochila para tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869'>Samsung Galaxy Z Flip 4, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802989.jpg' alt='Samsung Galaxy Z Flip 4, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863'>Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cepillarse-dientes-2802549.jpg' alt='Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931'>Guía para telediarios sobre los tipos de hackers: no, no todos son malos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-2453665.jpg' alt='Guía para telediarios sobre los tipos de hackers: no, no todos son malos' />
     </a>
 </div>
 
