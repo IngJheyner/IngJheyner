@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159'>Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-airpods-pro-2035403.jpg' alt='Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153'>WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135'>Android Auto muestra esta extraña notificación a los usuarios de Android 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-auto-muestra-extrana-notificacion-usuarios-android-13-1119135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg' alt='Android Auto muestra esta extraña notificación a los usuarios de Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877'>Cómo bloquear llamadas de spam en Android y iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-bloquear-llamadas-spam-android-ios-1109877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Cómo bloquear llamadas de spam en Android y iOS' />
     </a>
 </div>
 
