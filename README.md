@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191'>Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662082545027-2801345.jpg' alt='Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662247250636-2802767.jpg' alt='Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos' />
     </a>
 </div>
 
