@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869'>Samsung Galaxy Z Flip 4, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-z-flip-4-review-opinion-1118869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802989.jpg' alt='Samsung Galaxy Z Flip 4, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275'>Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/10-mejores-trucos-trabajar-ordenadores-windows-mac-1075275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-mac-2727533.jpg' alt='Los 10 mejores trucos para trabajar entre ordenadores Windows y Mac' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931'>Guía para telediarios sobre los tipos de hackers: no, no todos son malos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-2453665.jpg' alt='Guía para telediarios sobre los tipos de hackers: no, no todos son malos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865'>Cultivan con éxito plántulas de arroz en el espacio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/plantulas-arroz-2802551.jpg' alt='Cultivan con éxito plántulas de arroz en el espacio' />
     </a>
 </div>
 
