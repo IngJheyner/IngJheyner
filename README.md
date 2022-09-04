@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247'>Fallece el último miembro de una tribu no contactada, después de 26 años en soledad</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211'>100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/100-anos-pelicula-robert-rodriguez-nunca-veras-caja-fuerte-estrenara-2115-2803297.jpg' alt='100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247'>Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad</a></h4>
     <a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallece-ultimo-miembro-tribu-no-contactada-despues-26-anos-soledad-2801413.jpg' alt='Fallece el último miembro de una tribu no contactada, después de 26 años en soledad' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallece-ultimo-miembro-tribu-no-contactada-despues-26-anos-soledad-2801413.jpg' alt='Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193'>En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-2803221.jpg' alt='En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
     </a>
 </div>
 
