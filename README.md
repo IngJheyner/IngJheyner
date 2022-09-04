@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865'>Cultivan con éxito plántulas de arroz en el espacio</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/plantulas-arroz-2802551.jpg' alt='Cultivan con éxito plántulas de arroz en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-asp-net-1118871'>Cursos de ASP.NET que puedes realizar pagar mejorar tu exposición en la búsqueda de trabajo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-programacion-asp-net-1118871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg' alt='Cursos de ASP.NET que puedes realizar pagar mejorar tu exposición en la búsqueda de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207'>Los 10 jefes de videojuegos más espectaculares y complicados de vencer</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/10-jefes-videojuegos-espectaculares-complicados-vencer-2799067.jpg' alt='Los 10 jefes de videojuegos más espectaculares y complicados de vencer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/arrancador-coche-1111899'>Todo lo que debes saber antes de comprar un arrancador de coche</a></h4>
     <a href='https://computerhoy.com/guia-compra/arrancador-coche-1111899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motor-coche-2790255.jpg' alt='Todo lo que debes saber antes de comprar un arrancador de coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191'>Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662247250636-2802767.jpg' alt='Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867'>El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-watch-d-mide-presion-arterial-llegaria-europa-otono-1118867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/huawei-watch-d-2706519.jpg' alt='El Huawei Watch D, que mide la presión arterial, llegaría a Europa este otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-1118857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-fuga-hidrogeno-2802539.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, ahora por una fuga de hidrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/4-relojes-pulseras-inteligentes-hemos-probado-verano-nos-han-encantado-1117857'>4 relojes y pulseras inteligentes que hemos probado este verano y nos han encantado</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/4-relojes-pulseras-inteligentes-hemos-probado-verano-nos-han-encantado-1117857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777959.jpg' alt='4 relojes y pulseras inteligentes que hemos probado este verano y nos han encantado' />
     </a>
 </div>
 
