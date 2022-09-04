@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319'>Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-antena-3-directo-movil-tablet-ios-android-tdt-1118319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/antena-3-movil-2801419.jpg' alt='Cómo ver Antena 3 en directo en tu móvil o tablet (iOS / Android) sin TDT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153'>WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141'>Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vigila-hogar-distancia-comunicate-familia-camara-seguridad-28-euros-1119141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blink-mini-2803139.jpg' alt='Vigila tu hogar a la distancia y comunícate con tu familia con esta cámara de seguridad por 28 euros' />
     </a>
 </div>
 
