@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863'>Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-pequenos-robots-podrian-cepillarte-dientes-futuro-usar-hilo-dental-ti-1118863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cepillarse-dientes-2802549.jpg' alt='Ahora unos pequeños robots podrían cepillarte los dientes en el futuro y hasta usar hilo dental por ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931'>Guía para telediarios sobre los tipos de hackers: no, no todos son malos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-telediarios-tipos-hackers-no-no-todos-son-malos-1117931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacker-2453665.jpg' alt='Guía para telediarios sobre los tipos de hackers: no, no todos son malos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865'>Cultivan con éxito plántulas de arroz en el espacio</a></h4>
     <a href='https://computerhoy.com/noticias/life/cultivan-exito-plantulas-arroz-espacio-1118865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/plantulas-arroz-2802551.jpg' alt='Cultivan con éxito plántulas de arroz en el espacio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207'>Los 10 jefes de videojuegos más espectaculares y complicados de vencer</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/10-jefes-videojuegos-espectaculares-complicados-vencer-1116207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/10-jefes-videojuegos-espectaculares-complicados-vencer-2799067.jpg' alt='Los 10 jefes de videojuegos más espectaculares y complicados de vencer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/arrancador-coche-1111899'>Todo lo que debes saber antes de comprar un arrancador de coche</a></h4>
-    <a href='https://computerhoy.com/guia-compra/arrancador-coche-1111899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/motor-coche-2790255.jpg' alt='Todo lo que debes saber antes de comprar un arrancador de coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191'>Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-delfines-marina-estados-unidos-camara-primera-persona-1118191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662247250636-2802767.jpg' alt='Este impactante vídeo nos muestra lo que graban los delfines de la marina de Estados Unidos' />
     </a>
 </div>
 
