@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193'>En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-2803221.jpg' alt='En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363'>Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cintas-correr-ejercicio-casa-802363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/cinta-correr-2710751.jpg' alt='Estas son las mejores cintas de correr para hacer ejercicio en casa según tu presupuesto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159'>Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-estuche-carga-airpods-pro-2-nuevas-caracteristicas-1119159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/apple-airpods-pro-2035403.jpg' alt='Así sería el nuevo estuche de carga de los AirPods Pro 2 con nuevas características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153'>WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-permitira-empresas-asignar-conversaciones-dispositivos-vinculados-concretos-1119153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp permitirá a las empresas asignar conversaciones a dispositivos vinculados concretos' />
     </a>
 </div>
 
