@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-tiktok-millones-datos-filtrados-cambia-contrasena-cuanto-antes-1119695'>Hackeo en TikTok con millones de datos filtrados: cambia tu contraseña cuanto antes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackeo-tiktok-millones-datos-filtrados-cambia-contrasena-cuanto-antes-1119695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='Hackeo en TikTok con millones de datos filtrados: cambia tu contraseña cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/skyshowtime-servicio-paramount-universal-llegara-europa-ya-sabemos-fecha-estreno-1119685'>SkyShowtime, el servicio de Paramount y Universal, llegará a Europa y ya sabemos la fecha de estreno</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/skyshowtime-servicio-paramount-universal-llegara-europa-ya-sabemos-fecha-estreno-1119685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/skyshowtime-servicio-paramount-universal-2803985.jpg' alt='SkyShowtime, el servicio de Paramount y Universal, llegará a Europa y ya sabemos la fecha de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-cobra-ingreso-minimo-vital-espana-1119665'>Cuánto tiempo se cobra el ingreso mínimo vital en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-cobra-ingreso-minimo-vital-espana-1119665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dinero-2675371.jpg' alt='Cuánto tiempo se cobra el ingreso mínimo vital en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661'>Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-2803959.jpg' alt='Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637'>Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/europa-exige-como-minimo-5-anos-actualizaciones-seguridad-3-sistema-operativo-fabricantes-smartphones-1119555'>Europa exige como mínimo 5 años de actualizaciones de seguridad y 3 de sistema operativo a fabricantes de smartphones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/europa-exige-como-minimo-5-anos-actualizaciones-seguridad-3-sistema-operativo-fabricantes-smartphones-1119555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg' alt='Europa exige como mínimo 5 años de actualizaciones de seguridad y 3 de sistema operativo a fabricantes de smartphones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-poco-m5-poco-m5s-procesador-mediatek-bateria-5000-mah-gama-entrada-1119565'>Así son los nuevos POCO M5 y POCO M5S: procesador MediaTek y batería de 5.000 mAh para la gama de entrada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-nuevos-poco-m5-poco-m5s-procesador-mediatek-bateria-5000-mah-gama-entrada-1119565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poco-m5-2803713.jpg' alt='Así son los nuevos POCO M5 y POCO M5S: procesador MediaTek y batería de 5.000 mAh para la gama de entrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423'>Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresora-2801695.jpg' alt='Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis' />
     </a>
 </div>
 
