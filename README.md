@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795'>Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/encuentran-vampira-polonia-enterrada-hace-400-anos-hoz-cuello-impedir-levante-muertos-2804213.jpg' alt='Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785'>Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pack-ps5-stock-unidades-limitadas-recoger-tienda-2804153.jpg' alt='Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741'>La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2697819.jpg' alt='La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715'>El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-2804031.jpg' alt='El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna' />
     </a>
 </div>
 
