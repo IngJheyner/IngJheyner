@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ruido-marron-ultima-tendencia-dormir-rapido-mejor-1119709'>El ruido marrón, la última tendencia para dormir más rápido y mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ruido-marron-ultima-tendencia-dormir-rapido-mejor-1119709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-durmiendo-2804025.jpg' alt='El ruido marrón, la última tendencia para dormir más rápido y mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-llegaria-misterioso-boton-adicional-tamano-pantalla-sorprendente-1119693'>El Apple Watch Pro llegaría con un misterioso botón adicional y un tamaño de pantalla sorprendente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-llegaria-misterioso-boton-adicional-tamano-pantalla-sorprendente-1119693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='El Apple Watch Pro llegaría con un misterioso botón adicional y un tamaño de pantalla sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-hay-llevar-l-despues-aprobar-carnet-conducir-1119699'>Cuánto tiempo hay que llevar la L después de aprobar el carnet de conducir</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-hay-llevar-l-despues-aprobar-carnet-conducir-1119699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/dgt-recuerda-cinco-pecados-conductor-novel-tambien-has-cometido-2279151.jpg' alt='Cuánto tiempo hay que llevar la L después de aprobar el carnet de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hackeo-tiktok-millones-datos-filtrados-cambia-contrasena-cuanto-antes-1119695'>Hackeo en TikTok con millones de datos filtrados: cambia tu contraseña cuanto antes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hackeo-tiktok-millones-datos-filtrados-cambia-contrasena-cuanto-antes-1119695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiktok-2799869.jpg' alt='Hackeo en TikTok con millones de datos filtrados: cambia tu contraseña cuanto antes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/skyshowtime-servicio-paramount-universal-llegara-europa-ya-sabemos-fecha-estreno-1119685'>SkyShowtime, el servicio de Paramount y Universal, llegará a Europa y ya sabemos la fecha de estreno</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/skyshowtime-servicio-paramount-universal-llegara-europa-ya-sabemos-fecha-estreno-1119685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/skyshowtime-servicio-paramount-universal-2803985.jpg' alt='SkyShowtime, el servicio de Paramount y Universal, llegará a Europa y ya sabemos la fecha de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-cobra-ingreso-minimo-vital-espana-1119665'>Cuánto tiempo se cobra el ingreso mínimo vital en España</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-cobra-ingreso-minimo-vital-espana-1119665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/dinero-2675371.jpg' alt='Cuánto tiempo se cobra el ingreso mínimo vital en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661'>Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-2803959.jpg' alt='Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637'>Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe' />
     </a>
 </div>
 
