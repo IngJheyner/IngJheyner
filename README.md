@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837'>Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti </a></h4>
     <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavavajillas-samsung-pccomponentes-2795625.jpg' alt='Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211'>100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/100-anos-pelicula-robert-rodriguez-nunca-veras-caja-fuerte-estrenara-2115-2803297.jpg' alt='100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247'>Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallece-ultimo-miembro-tribu-no-contactada-despues-26-anos-soledad-2801413.jpg' alt='Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad' />
     </a>
 </div>
 
