@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/comportamientos-muy-comunes-estan-acortando-vida-movil-deberias-evitar-1119457'>Comportamientos muy comunes que están acortando la vida de tu móvil y que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/comportamientos-muy-comunes-estan-acortando-vida-movil-deberias-evitar-1119457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776613.jpg' alt='Comportamientos muy comunes que están acortando la vida de tu móvil y que deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-aprender-ingles-cualquier-otro-idioma-cuando-eres-adulto-1119467'>Cómo aprender inglés o cualquier otro idioma cuando eres adulto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-aprender-ingles-cualquier-otro-idioma-cuando-eres-adulto-1119467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/aprender-ingles-2139227.jpg' alt='Cómo aprender inglés o cualquier otro idioma cuando eres adulto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449'>LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lg-smart-tv-2186519.jpg' alt='LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439'>Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/gato-bostezando-2141173.jpg' alt='Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415'>Convertir plástico en diamantes, la última aplicación científica de los rayos x</a></h4>
-    <a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/diamante-1878279.jpg' alt='Convertir plástico en diamantes, la última aplicación científica de los rayos x' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2022' />
     </a>
 </div>
 
