@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449'>LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lg-smart-tv-2186519.jpg' alt='LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-55pus7504-oferta-6-septiembre-2022-1118389'>Uno de los televisores 4K más completos de Philips, casi a mitad de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/philips-55pus7504-oferta-6-septiembre-2022-1118389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699533.jpg' alt='Uno de los televisores 4K más completos de Philips, casi a mitad de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439'>Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/gato-bostezando-2141173.jpg' alt='Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415'>Convertir plástico en diamantes, la última aplicación científica de los rayos x</a></h4>
     <a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/diamante-1878279.jpg' alt='Convertir plástico en diamantes, la última aplicación científica de los rayos x' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837'>Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti </a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavavajillas-samsung-pccomponentes-2795625.jpg' alt='Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1119395'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1119395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/x-noticias-tecnologia-comenzar-manana-informado-ultimo-2803463.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-rf-mdr-rf895rk-2508241.jpg' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
     </a>
 </div>
 
