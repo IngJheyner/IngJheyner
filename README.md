@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423'>Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresora-2801695.jpg' alt='Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-1119547'>Madrid, Barcelona, Valencia… Este mapa muestra lo que una bomba nuclear le haría a tu ciudad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-1119547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-2803689.jpg' alt='Madrid, Barcelona, Valencia… Este mapa muestra lo que una bomba nuclear le haría a tu ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-adelantara-apple-iphone-14-anunciando-soporte-conectividad-satelite-dia-antes-mate-50-1119523'>Huawei se adelantará a Apple y iPhone 14 anunciando el soporte de conectividad satélite un día antes con Mate 50</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-adelantara-apple-iphone-14-anunciando-soporte-conectividad-satelite-dia-antes-mate-50-1119523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/huawei-podria-apostar-qualcomm-nuevo-huawei-mate-50-2431347.jpg' alt='Huawei se adelantará a Apple y iPhone 14 anunciando el soporte de conectividad satélite un día antes con Mate 50' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alarma-domestica-oferta-5-septiembre-2022-1117213'>Esta alarma doméstica cuesta solo 50 euros y no tiene cuota mensual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alarma-domestica-oferta-5-septiembre-2022-1117213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/alarma-gautone-2799701.jpg' alt='Esta alarma doméstica cuesta solo 50 euros y no tiene cuota mensual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegarian-junto-iphone-14-caracteristicas-precio-todo-sabemos-1119491'>Los AirPods Pro 2 llegarían junto al iPhone 14: características, precio y todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegarian-junto-iphone-14-caracteristicas-precio-todo-sabemos-1119491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-airpods-pro-2771343.jpg' alt='Los AirPods Pro 2 llegarían junto al iPhone 14: características, precio y todo lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-meses-prueba-generando-energia-marea-olas-calwave-exito-1119505'>Tras 10 meses de prueba generando energía con la marea y olas, CalWave es un éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/10-meses-prueba-generando-energia-marea-olas-calwave-exito-1119505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/calwave-generador-energia-base-olas-mareas-2803621.jpg' alt='Tras 10 meses de prueba generando energía con la marea y olas, CalWave es un éxito' />
     </a>
 </div>
 
