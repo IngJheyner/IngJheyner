@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415'>Convertir plástico en diamantes, la última aplicación científica de los rayos x</a></h4>
+    <a href='https://computerhoy.com/noticias/life/convertir-plastico-diamantes-ultima-aplicacion-cientifica-rayos-x-1119415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/diamante-1878279.jpg' alt='Convertir plástico en diamantes, la última aplicación científica de los rayos x' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/gopro-hero-10-black-analisis-opinion-2568947.jpg' alt='Mejores alternativas baratas a las GoPro que puedes comprar en 2022' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-rf-mdr-rf895rk-2508241.jpg' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211'>100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/100-anos-pelicula-robert-rodriguez-nunca-veras-caja-fuerte-estrenara-2115-2803297.jpg' alt='100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115' />
     </a>
 </div>
 
