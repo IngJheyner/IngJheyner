@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837'>Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti </a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/samsung-dw60r7050fw-descubre-todo-lavavajillas-nueva-generacion-puede-hacer-ti-1114837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lavavajillas-samsung-pccomponentes-2795625.jpg' alt='Samsung DW60R7050FW: descubre todo lo que un lavavajillas de nueva generación puede hacer por ti ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1119395'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1119395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/x-noticias-tecnologia-comenzar-manana-informado-ultimo-2803463.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sony-rf-mdr-rf895rk-2508241.jpg' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211'>100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/100-years-pelicula-robert-rodriguez-john-malkovich-nunca-veras-estreno-2115-1119211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/100-anos-pelicula-robert-rodriguez-nunca-veras-caja-fuerte-estrenara-2115-2803297.jpg' alt='100 Years, la película de Robert Rodríguez y John Malkovich que nunca verás: está en una caja fuerte y se estrenará en 2115' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247'>Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad</a></h4>
     <a href='https://computerhoy.com/noticias/life/fallece-ultimo-miembro-tribu-no-contactada-hombre-agujero-1118247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fallece-ultimo-miembro-tribu-no-contactada-despues-26-anos-soledad-2801413.jpg' alt='Fallece el último miembro de una tribu no contactada del Amazonas, después de 26 años en soledad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-5-grados-adicionales-temperatura-1119209'>Esta forma de colocar la pasta térmica reduce 5 grados adicionales la temperatura, y no la usa casi nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-5-grados-adicionales-temperatura-1119209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg' alt='Esta forma de colocar la pasta térmica reduce 5 grados adicionales la temperatura, y no la usa casi nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197'>Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-1119197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anonymous-provoca-atasco-monumental-moscu-hackeando-app-taxis-2803247.jpg' alt='Anonymous provoca un atasco monumental en Moscú, hackeando una app de taxis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193'>En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-1119193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estados-unidos-regalan-apple-watch-ninos-5-anos-padres-explican-2803221.jpg' alt='En Estados Unidos regalan Apple Watch a niños de 5 años, y los padres explican por qué' />
     </a>
 </div>
 
