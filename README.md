@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779'>Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-rompe-todos-records-espectadores-amazon-prime-video-supera-casa-dragon-2804123.jpg' alt='Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741'>La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2697819.jpg' alt='La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715'>El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-2804031.jpg' alt='El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-menos-20-euros-5-septiembre-2022-1119445'>10 ofertas por menos de 20€ para empezar la semana ahorrando</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/ofertas-menos-20-euros-5-septiembre-2022-1119445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448169.jpg' alt='10 ofertas por menos de 20€ para empezar la semana ahorrando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-google-chrome-ahora-mismo-google-pone-fin-grave-fallo-seguridad-actualizacion-obligatoria-1119727'>Actualiza Google Chrome ahora mismo: Google pone fin al grave fallo de seguridad con una actualización obligatoria</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualiza-google-chrome-ahora-mismo-google-pone-fin-grave-fallo-seguridad-actualizacion-obligatoria-1119727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Actualiza Google Chrome ahora mismo: Google pone fin al grave fallo de seguridad con una actualización obligatoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/campeonato-patinetes-electricos-eskootr-video-1119729'>Los mejores momentos del primer campeonato de patinetes eléctricos de carreras eSkootr (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/campeonato-patinetes-electricos-eskootr-video-1119729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662391033622-2804045.jpg' alt='Los mejores momentos del primer campeonato de patinetes eléctricos de carreras eSkootr (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ruido-marron-ultima-tendencia-dormir-rapido-mejor-1119709'>El ruido marrón, la última tendencia para dormir más rápido y mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ruido-marron-ultima-tendencia-dormir-rapido-mejor-1119709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-durmiendo-2804025.jpg' alt='El ruido marrón, la última tendencia para dormir más rápido y mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-llegaria-misterioso-boton-adicional-tamano-pantalla-sorprendente-1119693'>El Apple Watch Pro llegaría con un misterioso botón adicional y un tamaño de pantalla sorprendente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-pro-llegaria-misterioso-boton-adicional-tamano-pantalla-sorprendente-1119693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-watch-funda-correa-azul-2712049.jpg' alt='El Apple Watch Pro llegaría con un misterioso botón adicional y un tamaño de pantalla sorprendente' />
     </a>
 </div>
 
