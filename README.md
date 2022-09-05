@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785'>Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pack-ps5-stock-unidades-limitadas-recoger-tienda-2804153.jpg' alt='Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769'>Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779'>Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-rompe-todos-records-espectadores-amazon-prime-video-supera-casa-dragon-2804123.jpg' alt='Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715'>El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-1119715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/increible-pc-gaming-stranger-things-impresionaria-mismisimo-vecna-2804031.jpg' alt='El increíble PC Gaming de Stranger Things que impresionaría al mismísimo Vecna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/ofertas-menos-20-euros-5-septiembre-2022-1119445'>10 ofertas por menos de 20€ para empezar la semana ahorrando</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/ofertas-menos-20-euros-5-septiembre-2022-1119445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448169.jpg' alt='10 ofertas por menos de 20€ para empezar la semana ahorrando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-google-chrome-ahora-mismo-google-pone-fin-grave-fallo-seguridad-actualizacion-obligatoria-1119727'>Actualiza Google Chrome ahora mismo: Google pone fin al grave fallo de seguridad con una actualización obligatoria</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-google-chrome-ahora-mismo-google-pone-fin-grave-fallo-seguridad-actualizacion-obligatoria-1119727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-chrome-2656983.jpg' alt='Actualiza Google Chrome ahora mismo: Google pone fin al grave fallo de seguridad con una actualización obligatoria' />
     </a>
 </div>
 
