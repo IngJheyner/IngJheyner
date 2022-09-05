@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegarian-junto-iphone-14-caracteristicas-precio-todo-sabemos-1119491'>Los AirPods Pro 2 llegarían junto al iPhone 14: características, precio y todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-pro-2-llegarian-junto-iphone-14-caracteristicas-precio-todo-sabemos-1119491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/apple-airpods-pro-2771343.jpg' alt='Los AirPods Pro 2 llegarían junto al iPhone 14: características, precio y todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/10-meses-prueba-generando-energia-marea-olas-calwave-exito-1119505'>Tras 10 meses de prueba generando energía con la marea y olas, CalWave es un éxito</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/10-meses-prueba-generando-energia-marea-olas-calwave-exito-1119505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/calwave-generador-energia-base-olas-mareas-2803621.jpg' alt='Tras 10 meses de prueba generando energía con la marea y olas, CalWave es un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/comportamientos-muy-comunes-estan-acortando-vida-movil-deberias-evitar-1119457'>Comportamientos muy comunes que están acortando la vida de tu móvil y que deberías evitar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/comportamientos-muy-comunes-estan-acortando-vida-movil-deberias-evitar-1119457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776613.jpg' alt='Comportamientos muy comunes que están acortando la vida de tu móvil y que deberías evitar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449'>LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-lanza-plataforma-compra-venta-nft-usuarios-smart-tv-1119449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/lg-smart-tv-2186519.jpg' alt='LG lanza una plataforma de compra y venta de NFT para los usuarios de una Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/philips-55pus7504-oferta-6-septiembre-2022-1118389'>Uno de los televisores 4K más completos de Philips, casi a mitad de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/philips-55pus7504-oferta-6-septiembre-2022-1118389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/philips-55pus7906-12-2699533.jpg' alt='Uno de los televisores 4K más completos de Philips, casi a mitad de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439'>Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traducir-dice-gato-entender-ladra-perro-ultimo-esfuerzo-cientifico-ano-1119439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/gato-bostezando-2141173.jpg' alt='Traducir lo que dice tu gato y entender lo que ladra su perro: el último esfuerzo científico del año' />
     </a>
 </div>
 
