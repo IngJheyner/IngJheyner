@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661'>Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-1119661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-smartwatch-escandinavo-combina-amazon-alexa-habilidades-spo2-sensor-fc-mejorado-2803959.jpg' alt='Este nuevo smartwatch escandinavo combina Amazon Alexa con habilidades de SpO2 y un sensor de FC mejorado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637'>Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/filtran-algunas-fechas-suscripcion-barata-anuncios-netflix-sabe-1119637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/netflix-2760875.jpg' alt='Se filtran algunas fechas de la suscripción barata con anuncios de Netflix: esto es lo que se sabe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423'>Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-deskjet-2720e-oferta-5-septiembre-2022-1118423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresora-2801695.jpg' alt='Esta impresora para la vuelta al cole es barata e incluye seis meses de tinta gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-1119547'>Madrid, Barcelona, Valencia… Este mapa muestra lo que una bomba nuclear le haría a tu ciudad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-1119547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/madrid-barcelona-valencia-mapa-muestra-bomba-nuclear-haria-ciudad-2803689.jpg' alt='Madrid, Barcelona, Valencia… Este mapa muestra lo que una bomba nuclear le haría a tu ciudad' />
     </a>
 </div>
 
