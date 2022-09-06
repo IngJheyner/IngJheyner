@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409'>Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405'>La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg' alt='La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349'>Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385'>Google a punto de presentar una nueva versión de Chromecast todavía más barata</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg' alt='Google a punto de presentar una nueva versión de Chromecast todavía más barata' />
     </a>
 </div>
 
