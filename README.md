@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027'>La NASA nos muestra la Tierra como nunca la habíamos visto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tierra-2747103.jpg' alt='La NASA nos muestra la Tierra como nunca la habíamos visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009'>El ejército ucraniano utilizó Tinder como arma de guerra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/soldados-atardecer-2097221.jpg' alt='El ejército ucraniano utilizó Tinder como arma de guerra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2804447.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583'>Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/enchufes-puertos-usb-2803773.jpg' alt='Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB' />
     </a>
 </div>
 
