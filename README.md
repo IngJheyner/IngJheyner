@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675'>Estos son los mejores gadgets para la vuelta a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trabajadores-oficina-2804037.jpg' alt='Estos son los mejores gadgets para la vuelta a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/owlotech-bruselas-silla-oficina-cuida-postura-salud-durante-largas-jornadas-teletrabajo-1114885'>Owlotech Bruselas, la silla de oficina que cuida tu postura y tu salud durante las largas jornadas de teletrabajo</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/owlotech-bruselas-silla-oficina-cuida-postura-salud-durante-largas-jornadas-teletrabajo-1114885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/silla-oficina-owlotech-bruselas-pccomponentes-2795755.jpg' alt='Owlotech Bruselas, la silla de oficina que cuida tu postura y tu salud durante las largas jornadas de teletrabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2804447.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583'>Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/enchufes-puertos-usb-2803773.jpg' alt='Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975'>7 síntomas de que no estás comiendo lo suficiente</a></h4>
     <a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-sintomas-no-te-estas-comiendo-suficiente-2804443.jpg' alt='7 síntomas de que no estás comiendo lo suficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805'>Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662418683692-2804277.jpg' alt='Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795'>Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/encuentran-vampira-polonia-enterrada-hace-400-anos-hoz-cuello-impedir-levante-muertos-2804213.jpg' alt='Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785'>Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/pack-ps5-stock-unidades-limitadas-1119785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pack-ps5-stock-unidades-limitadas-recoger-tienda-2804153.jpg' alt='Pack de PS5 en stock, unidades limitadas, ¡corre que se agotan!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769'>Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios' />
     </a>
 </div>
 
