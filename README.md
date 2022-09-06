@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 6 mejores impresoras baratas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 6 mejores impresoras baratas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339'>Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-dice-perdida-poblacion-peor-cambio-climatico-expertos-explican-equivoca-2805249.jpg' alt='Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321'>Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2757613.jpg' alt='Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211'>¿Qué presentará Apple en la keynote “Far Out” de mañana?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='¿Qué presentará Apple en la keynote “Far Out” de mañana?' />
     </a>
 </div>
 
