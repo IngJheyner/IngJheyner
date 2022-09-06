@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391'>La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662486759690-2805405.jpg' alt='La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349'>Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385'>Google a punto de presentar una nueva versión de Chromecast todavía más barata</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg' alt='Google a punto de presentar una nueva versión de Chromecast todavía más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 6 mejores impresoras baratas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 6 mejores impresoras baratas que puedes comprar en 2022' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339'>Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca</a></h4>
     <a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-dice-perdida-poblacion-peor-cambio-climatico-expertos-explican-equivoca-2805249.jpg' alt='Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-puede-tener-carnet-conducir-caducado-1120335'>¿Cuánto tiempo se puede tener el carnet de conducir caducado?</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-puede-tener-carnet-conducir-caducado-1120335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='¿Cuánto tiempo se puede tener el carnet de conducir caducado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-muy-fiable-iphone-14-nuevo-noch-usb-c-escasas-mejoras-1120303'>Filtración muy fiable de los iPhone 14: nuevo noch, sin USB-C y escasas mejoras</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-muy-fiable-iphone-14-nuevo-noch-usb-c-escasas-mejoras-1120303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487647.jpg' alt='Filtración muy fiable de los iPhone 14: nuevo noch, sin USB-C y escasas mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321'>Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2757613.jpg' alt='Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo' />
     </a>
 </div>
 
