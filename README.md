@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405'>La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg' alt='La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389'>Crean un material artificial capaz de sentir y pensar por sí mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/crean-material-artificial-capaz-sentir-pensar-mismo-2805391.jpg' alt='Crean un material artificial capaz de sentir y pensar por sí mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391'>La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662486759690-2805405.jpg' alt='La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385'>Google a punto de presentar una nueva versión de Chromecast todavía más barata</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-punto-presentar-nueva-version-chromecast-todavia-barata-1120385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg' alt='Google a punto de presentar una nueva versión de Chromecast todavía más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las 6 mejores impresoras baratas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg' alt='Estas son las 6 mejores impresoras baratas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339'>Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-dice-perdida-poblacion-peor-cambio-climatico-expertos-explican-equivoca-2805249.jpg' alt='Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca' />
     </a>
 </div>
 
