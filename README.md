@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009'>El ejército ucraniano utilizó Tinder como arma de guerra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/soldados-atardecer-2097221.jpg' alt='El ejército ucraniano utilizó Tinder como arma de guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675'>Estos son los mejores gadgets para la vuelta a la oficina</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trabajadores-oficina-2804037.jpg' alt='Estos son los mejores gadgets para la vuelta a la oficina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583'>Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-enchufes-pared-puertos-usb-1119583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/enchufes-puertos-usb-2803773.jpg' alt='Estos son los mejores enchufes que puedes instalar en tu pared y además tienen puertos USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975'>7 síntomas de que no estás comiendo lo suficiente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-sintomas-no-te-estas-comiendo-suficiente-2804443.jpg' alt='7 síntomas de que no estás comiendo lo suficiente' />
     </a>
 </div>
 
