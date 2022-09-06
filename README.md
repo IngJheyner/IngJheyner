@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-1120039'>Elon Musk se despacha con Los Anillos de Poder en una nueva provocación a Jeff Bezos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-1120039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-2804605.jpg' alt='Elon Musk se despacha con Los Anillos de Poder en una nueva provocación a Jeff Bezos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-fitbit-ya-avisan-problemas-corazon-20-paises-1120061'>Los relojes y pulseras inteligentes de Fitbit ya avisan de problemas de corazón en más de 20 países</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-fitbit-ya-avisan-problemas-corazon-20-paises-1120061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/fitbit-da-proridad-salud-frente-fitness-nuevos-fitbit-sense-versa-3-inspire-2-2041653.jpg' alt='Los relojes y pulseras inteligentes de Fitbit ya avisan de problemas de corazón en más de 20 países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youin-you-ride-everest-oferta-6-septiembre-2022-1118459'>Que septiembre no te frene: esta bici eléctrica de montaña tiene 300 euros de descuento y puedes recogerla hoy mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youin-you-ride-everest-oferta-6-septiembre-2022-1118459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youin-you-ride-everest-2801745.jpg' alt='Que septiembre no te frene: esta bici eléctrica de montaña tiene 300 euros de descuento y puedes recogerla hoy mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-finalmente-llegara-china-15-septiembre-1120031'>Honor X40 finalmente llegará a China este 15 de septiembre</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-finalmente-llegara-china-15-septiembre-1120031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798863.jpg' alt='Honor X40 finalmente llegará a China este 15 de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027'>La NASA nos muestra la Tierra como nunca la habíamos visto</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tierra-2747103.jpg' alt='La NASA nos muestra la Tierra como nunca la habíamos visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009'>El ejército ucraniano utilizó Tinder como arma de guerra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ejercito-ucraniano-utilizo-tinder-como-arma-guerra-1120009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/soldados-atardecer-2097221.jpg' alt='El ejército ucraniano utilizó Tinder como arma de guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675'>Estos son los mejores gadgets para la vuelta a la oficina</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gadgets-vuelta-oficina-1119675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trabajadores-oficina-2804037.jpg' alt='Estos son los mejores gadgets para la vuelta a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/owlotech-bruselas-silla-oficina-cuida-postura-salud-durante-largas-jornadas-teletrabajo-1114885'>Owlotech Bruselas, la silla de oficina que cuida tu postura y tu salud durante las largas jornadas de teletrabajo</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/owlotech-bruselas-silla-oficina-cuida-postura-salud-durante-largas-jornadas-teletrabajo-1114885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/silla-oficina-owlotech-bruselas-pccomponentes-2795755.jpg' alt='Owlotech Bruselas, la silla de oficina que cuida tu postura y tu salud durante las largas jornadas de teletrabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981'>27 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/27-noticias-tecnologia-comenzar-manana-informado-ultimo-1119981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/27-noticias-tecnologia-comenzar-manana-informado-ultimo-2804447.jpg' alt='27 noticias de tecnología para comenzar la mañana informado de lo último' />
     </a>
 </div>
 
