@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805'>Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662418683692-2804277.jpg' alt='Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795'>Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos</a></h4>
     <a href='https://computerhoy.com/noticias/life/vampira-polonia-enterrada-hace-400-anos-hoz-cuello-1119795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/encuentran-vampira-polonia-enterrada-hace-400-anos-hoz-cuello-impedir-levante-muertos-2804213.jpg' alt='Encuentran una 'vampira' en Polonia enterrada hace 400 años con una hoz en el cuello, para que no se levante de entre los muertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779'>Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-rompe-todos-records-espectadores-amazon-prime-video-supera-casa-dragon-2804123.jpg' alt='Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741'>La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/union-europea-multa-instagram-405-millones-euros-gestion-datos-menores-1119741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2697819.jpg' alt='La Unión Europea multa a Instagram con 405 millones de euros por su gestión de los datos de menores' />
     </a>
 </div>
 
