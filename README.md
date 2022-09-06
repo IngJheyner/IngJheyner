@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-1120039'>Elon Musk se despacha con Los Anillos de Poder en una nueva provocación a Jeff Bezos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-1120039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-despacha-anillos-poder-nueva-provocacion-jeff-bezos-2804605.jpg' alt='Elon Musk se despacha con Los Anillos de Poder en una nueva provocación a Jeff Bezos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021'>Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/iphone-11-review_33.jpg' alt='Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartwatch-fitbit-ya-avisan-problemas-corazon-20-paises-1120061'>Los relojes y pulseras inteligentes de Fitbit ya avisan de problemas de corazón en más de 20 países</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartwatch-fitbit-ya-avisan-problemas-corazon-20-paises-1120061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/fitbit-da-proridad-salud-frente-fitness-nuevos-fitbit-sense-versa-3-inspire-2-2041653.jpg' alt='Los relojes y pulseras inteligentes de Fitbit ya avisan de problemas de corazón en más de 20 países' />
+    <h4><a href='https://computerhoy.com/noticias/life/rusia-cierra-grifo-gas-europa-como-nos-afectara-espana-1120159'>Rusia cierra el grifo del gas a Europa, cómo nos afectará en España</a></h4>
+    <a href='https://computerhoy.com/noticias/life/rusia-cierra-grifo-gas-europa-como-nos-afectara-espana-1120159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/gas-rusia-2804769.jpg' alt='Rusia cierra el grifo del gas a Europa, cómo nos afectará en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youin-you-ride-everest-oferta-6-septiembre-2022-1118459'>Que septiembre no te frene: esta bici eléctrica de montaña tiene 300 euros de descuento y puedes recogerla hoy mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youin-you-ride-everest-oferta-6-septiembre-2022-1118459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youin-you-ride-everest-2801745.jpg' alt='Que septiembre no te frene: esta bici eléctrica de montaña tiene 300 euros de descuento y puedes recogerla hoy mismo' />
+    <h4><a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111'>El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía</a></h4>
+    <a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-finalmente-llegara-china-15-septiembre-1120031'>Honor X40 finalmente llegará a China este 15 de septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-finalmente-llegara-china-15-septiembre-1120031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798863.jpg' alt='Honor X40 finalmente llegará a China este 15 de septiembre' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-ivoox-guia-fondo-adentrarte-mundo-podcast-324391'>Cómo funciona iVoox: guía a fondo para adentrarte en el mundo de los pódcast</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-ivoox-guia-fondo-adentrarte-mundo-podcast-324391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/como-funciona-ivoox_0.jpg' alt='Cómo funciona iVoox: guía a fondo para adentrarte en el mundo de los pódcast' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027'>La NASA nos muestra la Tierra como nunca la habíamos visto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-nos-muestra-tierra-como-nunca-habiamos-visto-1120027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tierra-2747103.jpg' alt='La NASA nos muestra la Tierra como nunca la habíamos visto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-tdt-canales-television-gratis-cerca-nunca-1120139'>El final de la TDT y los canales de televisión gratis más cerca que nunca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/final-tdt-canales-television-gratis-cerca-nunca-1120139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_2.jpg' alt='El final de la TDT y los canales de televisión gratis más cerca que nunca' />
     </a>
 </div>
 
