@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975'>7 síntomas de que no estás comiendo lo suficiente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/7-sintomas-no-te-estas-comiendo-suficiente-1119975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-sintomas-no-te-estas-comiendo-suficiente-2804443.jpg' alt='7 síntomas de que no estás comiendo lo suficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805'>Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/traje-volador-jetsuit-ejercito-equipos-emergencia-video-1119805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662418683692-2804277.jpg' alt='Los trajes voladores JetSuit llegan al ejército y a los equipos de emergencia (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769'>Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desinstala-estas-aplicaciones-movil-android-ya-mismo-contienen-peligroso-troyano-hecho-robar-datos-bancarios-1119769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg' alt='Desinstala estas aplicaciones de tu móvil Android ya mismo, contienen un peligroso troyano hecho para robar datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779'>Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/los-anillos-poder-record-espectadores-supera-casa-dragon-1119779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/anillos-poder-rompe-todos-records-espectadores-amazon-prime-video-supera-casa-dragon-2804123.jpg' alt='Los Anillos de Poder rompe todos los récords de espectadores en Prime Video, ¿supera a La Casa del Dragón?' />
     </a>
 </div>
 
