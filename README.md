@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725'>Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/smart-things-samsung-2804499.jpg' alt='Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vacunarte-coronavirus-aguja-china-acaba-aprobar-primer-aerosol-anticovid-1120261'>Vacunarte contra el coronavirus sin aguja: China acaba de aprobar el primer aerosol anticovid</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vacunarte-coronavirus-aguja-china-acaba-aprobar-primer-aerosol-anticovid-1120261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg' alt='Vacunarte contra el coronavirus sin aguja: China acaba de aprobar el primer aerosol anticovid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155'>La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiempo-mi-2795735.jpg' alt='La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anuncia-redmi-11-prime-redmi-11-prime-5g-redmi-a1-sabemos-1120235'>Xiaomi anuncia sus Redmi 11 Prime, Redmi 11 Prime 5G y Redmi A1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anuncia-redmi-11-prime-redmi-11-prime-5g-redmi-a1-sabemos-1120235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-lanza-redmi-11-prime-redmi-11-prime-5g-redmi-a1-2804931.jpg' alt='Xiaomi anuncia sus Redmi 11 Prime, Redmi 11 Prime 5G y Redmi A1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-oferta-6-septiembre-2022-1119481'>Un reloj de running low cost, de Garmin y por menos de 200 euros en esta oferta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-oferta-6-septiembre-2022-1119481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/garmin-forerunner-245-2466673.jpg' alt='Un reloj de running low cost, de Garmin y por menos de 200 euros en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todo-conocemos-nueva-serie-xiaomi-12t-version-pro-sale-septiembre-1120145'>Esto es todo lo que conocemos de la nueva serie de Xiaomi 12T y su versión Pro que sale en septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todo-conocemos-nueva-serie-xiaomi-12t-version-pro-sale-septiembre-1120145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-xiaomi-12-pro-2649373.jpg' alt='Esto es todo lo que conocemos de la nueva serie de Xiaomi 12T y su versión Pro que sale en septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-android-te-van-avisar-toses-roncas-durante-noche-1120179'>Los móviles Android te van a avisar si toses o roncas durante la noche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-android-te-van-avisar-toses-roncas-durante-noche-1120179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dormir-roncar-2122523.jpg' alt='Los móviles Android te van a avisar si toses o roncas durante la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-rumores-nuevos-iphone-14-descartamos-directamente-1120189'>Los 7 rumores sobre los nuevos iPhone 14 que descartamos directamente</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-rumores-nuevos-iphone-14-descartamos-directamente-1120189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='Los 7 rumores sobre los nuevos iPhone 14 que descartamos directamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021'>Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/iphone-11-review_33.jpg' alt='Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo' />
     </a>
 </div>
 
