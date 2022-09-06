@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339'>Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elon-musk-dice-baja-natalidad-peor-cambio-climatico-expertos-explican-equivoca-1120339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-dice-perdida-poblacion-peor-cambio-climatico-expertos-explican-equivoca-2805249.jpg' alt='Elon Musk dice que la baja natalidad es peor que el cambio climático, expertos explican por qué se equivoca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-puede-tener-carnet-conducir-caducado-1120335'>¿Cuánto tiempo se puede tener el carnet de conducir caducado?</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuanto-tiempo-puede-tener-carnet-conducir-caducado-1120335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg' alt='¿Cuánto tiempo se puede tener el carnet de conducir caducado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtracion-muy-fiable-iphone-14-nuevo-noch-usb-c-escasas-mejoras-1120303'>Filtración muy fiable de los iPhone 14: nuevo noch, sin USB-C y escasas mejoras</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtracion-muy-fiable-iphone-14-nuevo-noch-usb-c-escasas-mejoras-1120303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/galeria-review-iphone-13-pro-2487647.jpg' alt='Filtración muy fiable de los iPhone 14: nuevo noch, sin USB-C y escasas mejoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321'>Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/quieres-renovar-movil-cualquier-dispositivo-tecnologico-amazon-te-paga-dispositivo-antiguo-1120321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2757613.jpg' alt='Si quieres renovar un móvil o cualquier dispositivo tecnológico Amazon te paga por tu dispositivo antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211'>¿Qué presentará Apple en la keynote “Far Out” de mañana?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='¿Qué presentará Apple en la keynote “Far Out” de mañana?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-resaca-1120277'>Cuánto tiempo dura la resaca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-resaca-1120277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/resaca-dolor-2178211.jpg' alt='Cuánto tiempo dura la resaca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725'>Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/smart-things-samsung-2804499.jpg' alt='Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vacunarte-coronavirus-aguja-china-acaba-aprobar-primer-aerosol-anticovid-1120261'>Vacunarte contra el coronavirus sin aguja: China acaba de aprobar el primer aerosol anticovid</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vacunarte-coronavirus-aguja-china-acaba-aprobar-primer-aerosol-anticovid-1120261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ropa-vacunarse-2230393.jpg' alt='Vacunarte contra el coronavirus sin aguja: China acaba de aprobar el primer aerosol anticovid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155'>La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiempo-mi-2795735.jpg' alt='La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas' />
     </a>
 </div>
 
