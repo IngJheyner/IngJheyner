@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211'>¿Qué presentará Apple en la keynote “Far Out” de mañana?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/presentara-apple-keynote-far-out-manana-1120211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/tim-cook-ceo-apple-2638845.jpg' alt='¿Qué presentará Apple en la keynote “Far Out” de mañana?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-resaca-1120277'>Cuánto tiempo dura la resaca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-resaca-1120277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/resaca-dolor-2178211.jpg' alt='Cuánto tiempo dura la resaca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725'>Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/hogares-inteligentes-desconectados-red-electrica-futuro-samsung-ya-probando-1119725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/smart-things-samsung-2804499.jpg' alt='Hogares inteligentes y desconectados de la red eléctrica, el futuro que Samsung ya está probando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155'>La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/actual-pelicula-numero-1-netflix-logra-record-deja-muy-mal-lugar-protagonistas-1120155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tiempo-mi-2795735.jpg' alt='La actual película número 1 en Netflix logra un récord que deja en muy mal lugar a sus protagonistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anuncia-redmi-11-prime-redmi-11-prime-5g-redmi-a1-sabemos-1120235'>Xiaomi anuncia sus Redmi 11 Prime, Redmi 11 Prime 5G y Redmi A1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-anuncia-redmi-11-prime-redmi-11-prime-5g-redmi-a1-sabemos-1120235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-lanza-redmi-11-prime-redmi-11-prime-5g-redmi-a1-2804931.jpg' alt='Xiaomi anuncia sus Redmi 11 Prime, Redmi 11 Prime 5G y Redmi A1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-oferta-6-septiembre-2022-1119481'>Un reloj de running low cost, de Garmin y por menos de 200 euros en esta oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-forerunner-245-oferta-6-septiembre-2022-1119481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/garmin-forerunner-245-2466673.jpg' alt='Un reloj de running low cost, de Garmin y por menos de 200 euros en esta oferta' />
     </a>
 </div>
 
