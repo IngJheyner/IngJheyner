@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-android-te-van-avisar-toses-roncas-durante-noche-1120179'>Los móviles Android te van a avisar si toses o roncas durante la noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-android-te-van-avisar-toses-roncas-durante-noche-1120179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dormir-roncar-2122523.jpg' alt='Los móviles Android te van a avisar si toses o roncas durante la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-rumores-nuevos-iphone-14-descartamos-directamente-1120189'>Los 7 rumores sobre los nuevos iPhone 14 que descartamos directamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-rumores-nuevos-iphone-14-descartamos-directamente-1120189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Los 7 rumores sobre los nuevos iPhone 14 que descartamos directamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021'>Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphne-11-128-gb-oferta-6-septiembre-2022-1120021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/iphone-11-review_33.jpg' alt='Varias tiendas tienen en liquidación este iPhone de 128 GB a su precio mínimo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111'>El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía</a></h4>
     <a href='https://computerhoy.com/noticias/life/truco-premio-nobel-fisica-cocer-pasta-gastar-casi-energia-1120111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cocinar-pasta-seca-2583133.jpg' alt='El truco de un Premio Nobel en física para cocer la pasta sin gastar casi energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-ivoox-guia-fondo-adentrarte-mundo-podcast-324391'>Cómo funciona iVoox: guía a fondo para adentrarte en el mundo de los pódcast</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-funciona-ivoox-guia-fondo-adentrarte-mundo-podcast-324391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/como-funciona-ivoox_0.jpg' alt='Cómo funciona iVoox: guía a fondo para adentrarte en el mundo de los pódcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/final-tdt-canales-television-gratis-cerca-nunca-1120139'>El final de la TDT y los canales de televisión gratis más cerca que nunca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/final-tdt-canales-television-gratis-cerca-nunca-1120139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_2.jpg' alt='El final de la TDT y los canales de televisión gratis más cerca que nunca' />
     </a>
 </div>
 
