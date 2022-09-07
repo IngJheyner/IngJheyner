@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913'>LG Ultra de 3º Gen, así es el portátil para profesionales de la marca coreana</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929'>iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-far-out-2806585.jpg' alt='iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-1120921'>Los Motorola Edge 30 Ultra, Fusion y Neo se dejan ver al completo detalle en nuevas imágenes filtradas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-1120921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-2806537.jpg' alt='Los Motorola Edge 30 Ultra, Fusion y Neo se dejan ver al completo detalle en nuevas imágenes filtradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913'>LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lg-ultra-analisis-opinion-2239105.jpg' alt='LG Ultra de 3º Gen, así es el portátil para profesionales de la marca coreana' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lg-ultra-analisis-opinion-2239105.jpg' alt='LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821'>Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2230197.jpg' alt='Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desayuno-todas-manana-lleva-tomando-humanidad-hace-5500-anos-1120847'>Tu desayuno de todas las mañana lo lleva tomando la humanidad desde hace 5.500 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desayuno-todas-manana-lleva-tomando-humanidad-hace-5500-anos-1120847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/desayuno-perfecto-quema-calorias-propuesto-medico-nutricionista-2482669.jpg' alt='Tu desayuno de todas las mañana lo lleva tomando la humanidad desde hace 5.500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801'>QRishing, los peligros de escanear un código QR con la cámara de tu móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/codigo-qr-2181045.jpg' alt='QRishing, los peligros de escanear un código QR con la cámara de tu móvil' />
     </a>
 </div>
 
