@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419'>Los robots autónomos que limpian los paneles solares (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662502785732-2805449.jpg' alt='Los robots autónomos que limpian los paneles solares (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409'>Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391'>La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662486759690-2805405.jpg' alt='La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349'>Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-1120349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Huawei Mate 50 y Mate 50 Pro: conexión vía satélite, Snapdragon 8+ Gen 1 y unas cámaras que prometen' />
     </a>
 </div>
 
