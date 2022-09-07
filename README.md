@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677'>Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/qualcomm-presenta-dos-procesadores-moviles-gama-media-snapdragon-6-gen1-snapdragon-4-gen1-2805777.jpg' alt='Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683'>Los gastos de la vuelta al cole para este curso se disparan según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/lapices-rotuladores-colegio.jpg' alt='Los gastos de la vuelta al cole para este curso se disparan según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665'>Las mejores fotos del año hechas con drones</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-fotos-ano-hechas-drones-2805723.jpg' alt='Las mejores fotos del año hechas con drones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629'>12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/otra-victimas-crisis-energetica-acelerador-particulas-cern-1120647'>Otra de las víctimas de la crisis energética, el acelerador de partículas CERN</a></h4>
-    <a href='https://computerhoy.com/noticias/life/otra-victimas-crisis-energetica-acelerador-particulas-cern-1120647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cern-2434045.jpg' alt='Otra de las víctimas de la crisis energética, el acelerador de partículas CERN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847'>Cómo hacer que tu timeline de Twitter sea menos tóxico</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Cómo hacer que tu timeline de Twitter sea menos tóxico' />
     </a>
 </div>
 
