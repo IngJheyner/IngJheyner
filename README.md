@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665'>Las mejores fotos del año hechas con drones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-fotos-ano-hechas-drones-2805723.jpg' alt='Las mejores fotos del año hechas con drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629'>12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/otra-victimas-crisis-energetica-acelerador-particulas-cern-1120647'>Otra de las víctimas de la crisis energética, el acelerador de partículas CERN</a></h4>
+    <a href='https://computerhoy.com/noticias/life/otra-victimas-crisis-energetica-acelerador-particulas-cern-1120647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/cern-2434045.jpg' alt='Otra de las víctimas de la crisis energética, el acelerador de partículas CERN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847'>Cómo hacer que tu timeline de Twitter sea menos tóxico</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Cómo hacer que tu timeline de Twitter sea menos tóxico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/google-maps-te-permitira-poner-tipo-vehiculo-tienes-ahorrar-combustible-viajes-1120643'>Google Maps te permitirá poner qué tipo de vehículo tienes para ahorrar más combustible en los viajes</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/google-maps-te-permitira-poner-tipo-vehiculo-tienes-ahorrar-combustible-viajes-1120643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-australia-2783835.jpg' alt='Google Maps te permitirá poner qué tipo de vehículo tienes para ahorrar más combustible en los viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-online-directo-keynote-presentacion-nuevos-iphone-14-apple-1120633'>Cómo ver online y en directo la keynote de presentación de los nuevos iPhone 14 de Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-online-directo-keynote-presentacion-nuevos-iphone-14-apple-1120633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-event-fat-out-2805659.jpg' alt='Cómo ver online y en directo la keynote de presentación de los nuevos iPhone 14 de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-formas-puedes-seguir-usando-viejo-ipad-1117661'>Las 8 formas en las que puedes seguir usando tu viejo iPad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/8-formas-puedes-seguir-usando-viejo-ipad-1117661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-sujetando-ipad-2742279.jpg' alt='Las 8 formas en las que puedes seguir usando tu viejo iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alarma-despertador-1120295'>Alarma despertador: estas son las mejores para llegar siempre a tiempo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alarma-despertador-1120295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lenovo-smart-clock-2805247.jpg' alt='Alarma despertador: estas son las mejores para llegar siempre a tiempo' />
     </a>
 </div>
 
