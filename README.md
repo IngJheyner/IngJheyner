@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933'>Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg' alt='Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981'>Así funciona el servicio de emergencias vía satelite del iPhone 14</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Así funciona el servicio de emergencias vía satelite del iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-nuevas-camaras-mayor-bateria-gama-alta-1120863'>iPhone 14 Pro y Pro Max nuevas cámaras y mayor batería para la gama más alta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-nuevas-camaras-mayor-bateria-gama-alta-1120863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='iPhone 14 Pro y Pro Max nuevas cámaras y mayor batería para la gama más alta' />
     </a>
 </div>
 
