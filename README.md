@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913'>LG Ultra de 3º Gen, así es el portátil para profesionales de la marca coreana</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lg-ultra-analisis-opinion-2239105.jpg' alt='LG Ultra de 3º Gen, así es el portátil para profesionales de la marca coreana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-pinta-resto-imagen-cuadros-famosos-deja-entrever-entorno-1120893'>La IA que pinta el resto de la imagen de cuadros famosos y deja entrever su entorno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ia-pinta-resto-imagen-cuadros-famosos-deja-entrever-entorno-1120893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dall-cuadros-2806465.jpg' alt='La IA que pinta el resto de la imagen de cuadros famosos y deja entrever su entorno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821'>Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2230197.jpg' alt='Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801'>QRishing, los peligros de escanear un código QR con la cámara de tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/codigo-qr-2181045.jpg' alt='QRishing, los peligros de escanear un código QR con la cámara de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-7-septiembre-2022-1120239'>El precio del Xiaomi Redmi Note 11 Pro cae por fin y se acerca a los 200 euros gracias a un código descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-7-septiembre-2022-1120239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-redmi-note-11-pro-2804947.jpg' alt='El precio del Xiaomi Redmi Note 11 Pro cae por fin y se acerca a los 200 euros gracias a un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-recibe-actualizacion-soporte-1440p-bienvenidos-monitores-gaming-1120837'>La PS5 recibe la actualización con soporte 1.440p, bienvenidos monitores gaming</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/ps5-recibe-actualizacion-soporte-1440p-bienvenidos-monitores-gaming-1120837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='La PS5 recibe la actualización con soporte 1.440p, bienvenidos monitores gaming' />
     </a>
 </div>
 
