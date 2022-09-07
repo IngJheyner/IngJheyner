@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615'>Cómo perder peso si tienes más de 30 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-perder-peso-tienes-30-anos-2805629.jpg' alt='Cómo perder peso si tienes más de 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419'>Los robots autónomos que limpian los paneles solares (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662502785732-2805449.jpg' alt='Los robots autónomos que limpian los paneles solares (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389'>Crean un material artificial capaz de sentir y pensar por sí mismo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/crean-material-artificial-capaz-sentir-pensar-mismo-2805391.jpg' alt='Crean un material artificial capaz de sentir y pensar por sí mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391'>La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/rick-y-morty-temporada-6-hbo-max-1120391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662486759690-2805405.jpg' alt='La mejor serie de animación de ciencia-ficción desde Futurama está de vuelta' />
     </a>
 </div>
 
