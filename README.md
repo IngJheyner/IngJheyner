@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1120619'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1120619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2805647.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847'>Cómo hacer que tu timeline de Twitter sea menos tóxico</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-hacer-timeline-twitter-sea-menos-toxico-1110847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg' alt='Cómo hacer que tu timeline de Twitter sea menos tóxico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/smart-tv-barra-sonido-mueble-salon-2464131.jpg' alt='Mejores Android TV Box baratas que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/motor/google-maps-te-permitira-poner-tipo-vehiculo-tienes-ahorrar-combustible-viajes-1120643'>Google Maps te permitirá poner qué tipo de vehículo tienes para ahorrar más combustible en los viajes</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/google-maps-te-permitira-poner-tipo-vehiculo-tienes-ahorrar-combustible-viajes-1120643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-australia-2783835.jpg' alt='Google Maps te permitirá poner qué tipo de vehículo tienes para ahorrar más combustible en los viajes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615'>Cómo perder peso si tienes más de 30 años</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-perder-peso-tienes-30-anos-2805629.jpg' alt='Cómo perder peso si tienes más de 30 años' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-online-directo-keynote-presentacion-nuevos-iphone-14-apple-1120633'>Cómo ver online y en directo la keynote de presentación de los nuevos iPhone 14 de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-online-directo-keynote-presentacion-nuevos-iphone-14-apple-1120633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-event-fat-out-2805659.jpg' alt='Cómo ver online y en directo la keynote de presentación de los nuevos iPhone 14 de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419'>Los robots autónomos que limpian los paneles solares (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/b1-solarcleano-robot-autonomo-limpia-paneles-solares-video-1120419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662502785732-2805449.jpg' alt='Los robots autónomos que limpian los paneles solares (vídeo)' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/8-formas-puedes-seguir-usando-viejo-ipad-1117661'>Las 8 formas en las que puedes seguir usando tu viejo iPad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/8-formas-puedes-seguir-usando-viejo-ipad-1117661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-sujetando-ipad-2742279.jpg' alt='Las 8 formas en las que puedes seguir usando tu viejo iPad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409'>Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alarma-despertador-1120295'>Alarma despertador: estas son las mejores para llegar siempre a tiempo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alarma-despertador-1120295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lenovo-smart-clock-2805247.jpg' alt='Alarma despertador: estas son las mejores para llegar siempre a tiempo' />
     </a>
 </div>
 
