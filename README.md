@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-soluciona-errores-molestos-android-auto-1120931'>Google soluciona uno de los errores más molestos de Android Auto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-soluciona-errores-molestos-android-auto-1120931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Google soluciona uno de los errores más molestos de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-portatiles-chinos-baratos-803359'>Cinco portátiles chinos con Windows 10 que son sorprendentemente baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/cinco-portatiles-chinos-baratos-803359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chuwi-corebook-x-2805087.jpg' alt='Cinco portátiles chinos con Windows 10 que son sorprendentemente baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929'>iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-far-out-2806585.jpg' alt='iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913'>LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lg-ultra-analisis-opinion-2239105.jpg' alt='LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ia-pinta-resto-imagen-cuadros-famosos-deja-entrever-entorno-1120893'>La IA que pinta el resto de la imagen de cuadros famosos y deja entrever su entorno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ia-pinta-resto-imagen-cuadros-famosos-deja-entrever-entorno-1120893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dall-cuadros-2806465.jpg' alt='La IA que pinta el resto de la imagen de cuadros famosos y deja entrever su entorno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821'>Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pixel-7-no-vendra-solo-nuevos-dispositivos-nest-smart-home-chromecast-tv-barato-1120821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2230197.jpg' alt='Pixel 7 no vendrá solo: nuevos dispositivos Nest de Smart Home y un Chromecast TV barato' />
     </a>
 </div>
 
