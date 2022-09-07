@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1120619'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1120619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2805647.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/smart-tv-barra-sonido-mueble-salon-2464131.jpg' alt='Mejores Android TV Box baratas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615'>Cómo perder peso si tienes más de 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-perder-peso-tienes-mas-30-anos-1120615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-perder-peso-tienes-30-anos-2805629.jpg' alt='Cómo perder peso si tienes más de 30 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409'>Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/made-google-presentacion-pixel-7-pixel-watch-fecha-1120409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/presentacion-pixel-7-pixel-watch-ya-tiene-fecha-2805441.jpg' alt='Made by Google, la presentación del Pixel 7 y el Pixel Watch ya tiene fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405'>La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-band-7-medicion-oxigeno-sangre-oferta-1120405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/xiaomi-smart-band-7-2737345.jpg' alt='La nueva Xiaomi Smart Band 7, con medición de oxígeno en sangre y registro de 110 deportes, recibe una nueva oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389'>Crean un material artificial capaz de sentir y pensar por sí mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/crean-material-artificial-capaz-sentir-pensar-mismo-1120389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/crean-material-artificial-capaz-sentir-pensar-mismo-2805391.jpg' alt='Crean un material artificial capaz de sentir y pensar por sí mismo' />
     </a>
 </div>
 
