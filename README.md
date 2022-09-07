@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709'>La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-2805795.jpg' alt='La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727'>Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/nueva-funcionalidad-vehiculos-evitara-vez-aparcados-colisiones-ciclistas-1120699'>La nueva funcionalidad para vehículos que evitará, una vez aparcados, colisiones con ciclistas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/nueva-funcionalidad-vehiculos-evitara-vez-aparcados-colisiones-ciclistas-1120699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La nueva funcionalidad para vehículos que evitará, una vez aparcados, colisiones con ciclistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677'>Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/qualcomm-presenta-dos-procesadores-moviles-gama-media-snapdragon-6-gen1-snapdragon-4-gen1-2805777.jpg' alt='Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683'>Los gastos de la vuelta al cole para este curso se disparan según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/lapices-rotuladores-colegio.jpg' alt='Los gastos de la vuelta al cole para este curso se disparan según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665'>Las mejores fotos del año hechas con drones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-fotos-ano-hechas-drones-1120665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-fotos-ano-hechas-drones-2805723.jpg' alt='Las mejores fotos del año hechas con drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541'>Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/atresplayer-guia-fondo-sacarle-maximo-partido-363541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/atresplayer-2230601.jpg' alt='Atresplayer: precio, dónde verlo y cuáles son las mejores series, programas y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629'>12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-15s-eq2091ns-oferta-7-septiembre-2022-1119629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/hp-15s-fq0011ns-2657833.jpg' alt='12 GB de RAM, Ryzen 7 y Windows incluido: este portátil HP roza los 500 euros de precio' />
     </a>
 </div>
 
