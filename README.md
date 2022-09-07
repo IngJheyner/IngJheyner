@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-soluciona-errores-molestos-android-auto-1120931'>Google soluciona uno de los errores más molestos de Android Auto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-soluciona-errores-molestos-android-auto-1120931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg' alt='Google soluciona uno de los errores más molestos de Android Auto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-2-pro-caracteristicas-novedades-precio-1120869'>AirPods 2 Pro, evolución natural para los in-ear de gama más alta Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/airpods-2-pro-caracteristicas-novedades-precio-1120869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2806785.jpg' alt='AirPods 2 Pro, evolución natural para los in-ear de gama más alta Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/cinco-portatiles-chinos-baratos-803359'>Cinco portátiles chinos con Windows 10 que son sorprendentemente baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/cinco-portatiles-chinos-baratos-803359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chuwi-corebook-x-2805087.jpg' alt='Cinco portátiles chinos con Windows 10 que son sorprendentemente baratos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es todo lo que debes saber de los nuevos iPhone 14 tras su presentación oficial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Esto es todo lo que debes saber de los nuevos iPhone 14 tras su presentación oficial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929'>iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-apple-watch-series-8-todas-novedades-presentadas-keynote-apple-2022-1120929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-far-out-2806585.jpg' alt='iPhone 14, Apple Watch Series 8 y todas las novedades presentadas en la keynote de Apple 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-caracteristicas-precio-lanzamiento-1120971'>Nuevo Apple Watch SE: pantalla de mayor tamaño, procesador del Series 8 y nuevos sensores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-caracteristicas-precio-lanzamiento-1120971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/watch-2806701.jpg' alt='Nuevo Apple Watch SE: pantalla de mayor tamaño, procesador del Series 8 y nuevos sensores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-1120921'>Los Motorola Edge 30 Ultra, Fusion y Neo se dejan ver al completo detalle en nuevas imágenes filtradas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-1120921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-edge-30-ultra-fusion-neo-dejan-ver-completo-detalle-nuevas-imagenes-filtradas-2806537.jpg' alt='Los Motorola Edge 30 Ultra, Fusion y Neo se dejan ver al completo detalle en nuevas imágenes filtradas' />
+    <h4><a href='https://computerhoy.com/noticias/life/funciona-neuromarketing-supermercados-compres-caro-1120969'>Así funciona el neuromarketing en los supermercados para que compres más y más caro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/funciona-neuromarketing-supermercados-compres-caro-1120969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg' alt='Así funciona el neuromarketing en los supermercados para que compres más y más caro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913'>LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-ultra-3o-gen-portatil-profesionales-marca-coreana-1120913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/lg-ultra-analisis-opinion-2239105.jpg' alt='LG Ultra de 3º Gen, así es el nuevo portátil para profesionales de la marca coreana' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-salto-importante-wearables-compania-1120867'>Apple Watch Ultra, el salto más importante en wearables de la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-salto-importante-wearables-compania-1120867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-salto-importante-wearables-compania-2806777.jpg' alt='Apple Watch Ultra, el salto más importante en wearables de la compañía' />
     </a>
 </div>
 
