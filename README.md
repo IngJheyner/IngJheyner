@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-vinted-wallapop-funciona-timo-moda-osi-1120735'>Cuidado en Vinted y Wallapop, así funciona el timo de moda según la OSI</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-vinted-wallapop-funciona-timo-moda-osi-1120735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuidado-vinted-wallapop-funciona-timo-moda-osi-2805871.jpg' alt='Cuidado en Vinted y Wallapop, así funciona el timo de moda según la OSI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-arreglar-windows-11-webcam-ve-borrosa-1113075'>Así puedes arreglar en Windows 11 la webcam si se ve borrosa </a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-arreglar-windows-11-webcam-ve-borrosa-1113075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/webcam-2792501.jpg' alt='Así puedes arreglar en Windows 11 la webcam si se ve borrosa ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-7-septiembre-2022-1120003'>Se desploma el precio del móvil Xiaomi más bestial: con Snapdragon 8 Gen 1 y ahora 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-7-septiembre-2022-1120003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Se desploma el precio del móvil Xiaomi más bestial: con Snapdragon 8 Gen 1 y ahora 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709'>La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo</a></h4>
     <a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-2805795.jpg' alt='La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727'>Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/nueva-funcionalidad-vehiculos-evitara-vez-aparcados-colisiones-ciclistas-1120699'>La nueva funcionalidad para vehículos que evitará, una vez aparcados, colisiones con ciclistas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/nueva-funcionalidad-vehiculos-evitara-vez-aparcados-colisiones-ciclistas-1120699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/ciclistas-carretera-2210091.jpg' alt='La nueva funcionalidad para vehículos que evitará, una vez aparcados, colisiones con ciclistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677'>Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/qualcomm-presenta-dos-procesadores-moviles-baratos-snapdragon-6-gen1-snapdragon-4-gen1-1120677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/qualcomm-presenta-dos-procesadores-moviles-gama-media-snapdragon-6-gen1-snapdragon-4-gen1-2805777.jpg' alt='Qualcomm presenta dos procesadores para móviles baratos: Snapdragon 6 Gen1 y el Snapdragon 4 Gen1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683'>Los gastos de la vuelta al cole para este curso se disparan según la OCU</a></h4>
-    <a href='https://computerhoy.com/noticias/life/gastos-vuelta-cole-curso-disparan-ocu-1120683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/lapices-rotuladores-colegio.jpg' alt='Los gastos de la vuelta al cole para este curso se disparan según la OCU' />
     </a>
 </div>
 
