@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/airpods-2-pro-caracteristicas-novedades-precio-1120869'>AirPods 2 Pro, evolución natural para los in-ear de gama más alta Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/airpods-2-pro-caracteristicas-novedades-precio-1120869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2806785.jpg' alt='AirPods 2 Pro, evolución natural para los in-ear de gama más alta Apple' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-8-carecteristicas-novedades-precio-1120865'>Apple Watch Series 8: nueva generación, pequeña evolución</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-8-carecteristicas-novedades-precio-1120865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-2806647.jpg' alt='Apple Watch Series 8: nueva generación, pequeña evolución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903'>Esto es todo lo que debes saber de los nuevos iPhone 14 tras su presentación oficial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-iphone-14-semana-presentacion-1115903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Esto es todo lo que debes saber de los nuevos iPhone 14 tras su presentación oficial' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977'>Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-caracteristicas-precio-lanzamiento-1120971'>Nuevo Apple Watch SE: pantalla de mayor tamaño, procesador del Series 8 y nuevos sensores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-se-caracteristicas-precio-lanzamiento-1120971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/watch-2806701.jpg' alt='Nuevo Apple Watch SE: pantalla de mayor tamaño, procesador del Series 8 y nuevos sensores' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981'>Así funciona el servicio de emergencias vía satelite del iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Así funciona el servicio de emergencias vía satelite del iPhone 14' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/funciona-neuromarketing-supermercados-compres-caro-1120969'>Así funciona el neuromarketing en los supermercados para que compres más y más caro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/funciona-neuromarketing-supermercados-compres-caro-1120969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg' alt='Así funciona el neuromarketing en los supermercados para que compres más y más caro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-nuevas-camaras-mayor-bateria-gama-alta-1120863'>iPhone 14 Pro y Pro Max nuevas cámaras y mayor batería para la gama más alta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-pro-max-nuevas-camaras-mayor-bateria-gama-alta-1120863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='iPhone 14 Pro y Pro Max nuevas cámaras y mayor batería para la gama más alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-salto-importante-wearables-compania-1120867'>Apple Watch Ultra, el salto más importante en wearables de la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-ultra-salto-importante-wearables-compania-1120867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-salto-importante-wearables-compania-2806777.jpg' alt='Apple Watch Ultra, el salto más importante en wearables de la compañía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-caracteristicas-novedades-precio-1120859'>Nuevos iPhone 14 y iPhone 14 Plus, novedades y nuevas características del iPhone más continuista</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-caracteristicas-novedades-precio-1120859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantallas-2806807.jpg' alt='Nuevos iPhone 14 y iPhone 14 Plus, novedades y nuevas características del iPhone más continuista' />
     </a>
 </div>
 
