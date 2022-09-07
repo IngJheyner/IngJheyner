@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuidado-vinted-wallapop-funciona-timo-moda-osi-1120735'>Cuidado en Vinted y Wallapop, así funciona el timo de moda según la OSI</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuidado-vinted-wallapop-funciona-timo-moda-osi-1120735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuidado-vinted-wallapop-funciona-timo-moda-osi-2805871.jpg' alt='Cuidado en Vinted y Wallapop, así funciona el timo de moda según la OSI' />
+    <h4><a href='https://computerhoy.com/noticias/life/desayuno-todas-manana-lleva-tomando-humanidad-hace-5500-anos-1120847'>Tu desayuno de todas las mañana lo lleva tomando la humanidad desde hace 5.500 años</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desayuno-todas-manana-lleva-tomando-humanidad-hace-5500-anos-1120847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/desayuno-perfecto-quema-calorias-propuesto-medico-nutricionista-2482669.jpg' alt='Tu desayuno de todas las mañana lo lleva tomando la humanidad desde hace 5.500 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/puedes-arreglar-windows-11-webcam-ve-borrosa-1113075'>Así puedes arreglar en Windows 11 la webcam si se ve borrosa </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/puedes-arreglar-windows-11-webcam-ve-borrosa-1113075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/webcam-2792501.jpg' alt='Así puedes arreglar en Windows 11 la webcam si se ve borrosa ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801'>QRishing, los peligros de escanear un código QR con la cámara de tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/qrishing-peligros-escanear-codigo-qr-camara-movil-1120801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/codigo-qr-2181045.jpg' alt='QRishing, los peligros de escanear un código QR con la cámara de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-7-septiembre-2022-1120003'>Se desploma el precio del móvil Xiaomi más bestial: con Snapdragon 8 Gen 1 y ahora 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12-oferta-7-septiembre-2022-1120003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg' alt='Se desploma el precio del móvil Xiaomi más bestial: con Snapdragon 8 Gen 1 y ahora 100 euros más barato' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-7-septiembre-2022-1120239'>El precio del Xiaomi Redmi Note 11 Pro cae por fin y se acerca a los 200 euros gracias a un código descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-pro-oferta-7-septiembre-2022-1120239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-redmi-note-11-pro-2804947.jpg' alt='El precio del Xiaomi Redmi Note 11 Pro cae por fin y se acerca a los 200 euros gracias a un código descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709'>La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-1120709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elegante-base-carga-qi-lidl-iphone-airpods-apple-watch-precio-derribo-2805795.jpg' alt='La elegante base de carga Qi de LIDL para iPhone, Airpods y Apple Watch a precio de derribo' />
+    <h4><a href='https://computerhoy.com/noticias/gaming/ps5-recibe-actualizacion-soporte-1440p-bienvenidos-monitores-gaming-1120837'>La PS5 recibe la actualización con soporte 1.440p, bienvenidos monitores gaming</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/ps5-recibe-actualizacion-soporte-1440p-bienvenidos-monitores-gaming-1120837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140495.jpg' alt='La PS5 recibe la actualización con soporte 1.440p, bienvenidos monitores gaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727'>Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/herramienta-hacker-peligrosa-te-roba-todos-inicios-sesion-1120727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hacker-2606589.jpg' alt='Así es la herramienta hacker más peligrosa del momento: te roba todos tus inicios de sesión' />
+    <h4><a href='https://computerhoy.com/reportajes/motor/5-errores-evitar-hora-comprar-coche-hibrido-enchufable-phev-1111883'>Los 5 errores que evitar a la hora de comprar un coche híbrido enchufable (PHEV)</a></h4>
+    <a href='https://computerhoy.com/reportajes/motor/5-errores-evitar-hora-comprar-coche-hibrido-enchufable-phev-1111883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/hibrido-enchufable-2790245.jpg' alt='Los 5 errores que evitar a la hora de comprar un coche híbrido enchufable (PHEV)' />
     </a>
 </div>
 
