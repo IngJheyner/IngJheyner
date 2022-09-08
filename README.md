@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007'>Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías</a></h4>
+    <a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sales-andar-como-ejercicio-debes-cambiar-quemar-calorias-2807075.jpg' alt='Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977'>Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981'>Así funciona el servicio de emergencias vía satelite del iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/servicio-emergencias-sos-satelite-iphone-14-1120981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg' alt='Así funciona el servicio de emergencias vía satelite del iPhone 14' />
     </a>
 </div>
 
