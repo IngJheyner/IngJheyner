@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-comprar-nuevos-iphone-14-espana-1121231'>¿Cuándo podrás comprar los nuevos iPhone 14 en España?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-comprar-nuevos-iphone-14-espana-1121231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/colores-2807027.jpg' alt='¿Cuándo podrás comprar los nuevos iPhone 14 en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg' alt='5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653'>Microondas con grill: estos son los mejores modelos para sacar el máximo partido</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microondas-grill-2805729.jpg' alt='Microondas con grill: estos son los mejores modelos para sacar el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007'>Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías</a></h4>
-    <a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sales-andar-como-ejercicio-debes-cambiar-quemar-calorias-2807075.jpg' alt='Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
     </a>
 </div>
 
