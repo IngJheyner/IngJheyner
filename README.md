@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371'>El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-notch-dynamic-island-iphone-14-pro-pro-max-no-algo-tan-innovador-como-creiamos-1121357'>El nuevo notch con Dynamic Island de los iPhone 14 pro y Pro Max no es algo tan innovador como creíamos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-notch-dynamic-island-iphone-14-pro-pro-max-no-algo-tan-innovador-como-creiamos-1121357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='El nuevo notch con Dynamic Island de los iPhone 14 pro y Pro Max no es algo tan innovador como creíamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881'>Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg' alt='Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311'>La nueva actualización de WhatsApp se centrará en nuestra privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aplicacion-whatsapp-2493843.jpg' alt='La nueva actualización de WhatsApp se centrará en nuestra privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275'>El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799'>Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14' />
     </a>
 </div>
 
