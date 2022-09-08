@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271'>Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/vez-apple-presentaba-iphone-14-familia-steve-jobs-publica-memorias-mitico-fundador-1121241'>A la vez que Apple presentaba el iPhone 14, la familia de Steve Jobs publica las memorias del mítico fundador</a></h4>
+    <a href='https://computerhoy.com/noticias/life/vez-apple-presentaba-iphone-14-familia-steve-jobs-publica-memorias-mitico-fundador-1121241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/legado-steve-jobs-perdura-10-anos-despues-adios-productos-innovaciones-inspiracion-revoluciono-industria-influyo-millones-personas-2491839.jpg' alt='A la vez que Apple presentaba el iPhone 14, la familia de Steve Jobs publica las memorias del mítico fundador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg' alt='5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2807273.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653'>Microondas con grill: estos son los mejores modelos para sacar el máximo partido</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microondas-grill-2805729.jpg' alt='Microondas con grill: estos son los mejores modelos para sacar el máximo partido' />
     </a>
 </div>
 
