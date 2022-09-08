@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2807273.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653'>Microondas con grill: estos son los mejores modelos para sacar el máximo partido</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-microondas-grill-1120653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/microondas-grill-2805729.jpg' alt='Microondas con grill: estos son los mejores modelos para sacar el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007'>Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías</a></h4>
     <a href='https://computerhoy.com/noticias/life/andar-como-ejercicio-quemar-calorias-1121007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sales-andar-como-ejercicio-debes-cambiar-quemar-calorias-2807075.jpg' alt='Si sales a andar como ejercicio, esto es lo que debes cambiar para quemar más calorías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933'>Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg' alt='Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-8-carecteristicas-novedades-precio-1120865'>Apple Watch Series 8: nueva generación, pequeña evolución</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-watch-series-8-carecteristicas-novedades-precio-1120865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-2806647.jpg' alt='Apple Watch Series 8: nueva generación, pequeña evolución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977'>Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mensajes-desaparecen-pueden-guardar-nueva-funcion-whatsapp-tanto-confusa-1120977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-2309209.jpg' alt='Mensajes que desaparecen que se pueden guardar, la nueva función de WhatsApp un tanto confusa' />
     </a>
 </div>
 
