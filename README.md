@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275'>El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799'>Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271'>Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-comprar-nuevos-iphone-14-espana-1121231'>¿Cuándo podrás comprar los nuevos iPhone 14 en España?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-podras-comprar-nuevos-iphone-14-espana-1121231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/colores-2807027.jpg' alt='¿Cuándo podrás comprar los nuevos iPhone 14 en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg' alt='5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
     </a>
 </div>
 
