@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-1121565'>El ex CEO de Disney vaticina las plataformas de streaming que desaparecerán, y son malas noticias para los fans de los dragones</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-1121565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='El ex CEO de Disney vaticina las plataformas de streaming que desaparecerán, y son malas noticias para los fans de los dragones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315'>Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-carpetas-mochila-escolar-2807523.jpg' alt='Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497'>Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/talgo-avril-2807741.jpg' alt='Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455'>NVIDIA lo hace oficial: comienza la campaña de las RTX 4000</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='NVIDIA lo hace oficial: comienza la campaña de las RTX 4000' />
     </a>
 </div>
 
