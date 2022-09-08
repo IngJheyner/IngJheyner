@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881'>Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg' alt='Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/guia-cocinar-freidora-aceite-temperatura-tiempo-principales-alimentos-904935'>Guía para cocinar en la freidora sin aceite: temperatura y tiempo para los principales alimentos</a></h4>
+    <a href='https://computerhoy.com/noticias/life/guia-cocinar-freidora-aceite-temperatura-tiempo-principales-alimentos-904935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Guía para cocinar en la freidora sin aceite: temperatura y tiempo para los principales alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311'>La nueva actualización de WhatsApp se centrará en nuestra privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aplicacion-whatsapp-2493843.jpg' alt='La nueva actualización de WhatsApp se centrará en nuestra privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275'>El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-pro-lleva-pantalla-oled-samsung-mejor-galaxy-s22-ultra-1121275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='El iPhone 14 Pro lleva una pantalla OLED de Samsung... que es mejor que la del Galaxy S22 Ultra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799'>Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/sigue-mereciendo-pena-comprar-iphone-13-1120799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492371.jpg' alt='Por qué sigue mereciendo la pena comprar el iPhone 13 en lugar del nuevo iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271'>Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/twitter-ya-sabe-numero-veces-vamos-poder-editar-tuits-1121271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg' alt='Twitter ya sabe hasta el número de veces que vamos a poder editar los tuits' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/vez-apple-presentaba-iphone-14-familia-steve-jobs-publica-memorias-mitico-fundador-1121241'>A la vez que Apple presentaba el iPhone 14, la familia de Steve Jobs publica las memorias del mítico fundador</a></h4>
-    <a href='https://computerhoy.com/noticias/life/vez-apple-presentaba-iphone-14-familia-steve-jobs-publica-memorias-mitico-fundador-1121241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/legado-steve-jobs-perdura-10-anos-despues-adios-productos-innovaciones-inspiracion-revoluciono-industria-influyo-millones-personas-2491839.jpg' alt='A la vez que Apple presentaba el iPhone 14, la familia de Steve Jobs publica las memorias del mítico fundador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
     </a>
 </div>
 
