@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315'>Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-carpetas-mochila-escolar-2807523.jpg' alt='Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-bionic-a16-iphone-14-pro-5-lento-predecesor-1121489'>El procesador Bionic A16 de los iPhone 14 Pro es un 5% más lento que su predecesor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-bionic-a16-iphone-14-pro-5-lento-predecesor-1121489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/a16-2806927.jpg' alt='El procesador Bionic A16 de los iPhone 14 Pro es un 5% más lento que su predecesor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455'>NVIDIA lo hace oficial: comienza la campaña de las RTX 4000</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='NVIDIA lo hace oficial: comienza la campaña de las RTX 4000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247'>iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-2807689.jpg' alt='iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425'>Cuándo sale iOS 16 y cómo instalarlo en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Cuándo sale iOS 16 y cómo instalarlo en tu iPhone' />
     </a>
 </div>
 
