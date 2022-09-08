@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137'>HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/css3-2804679.jpg' alt='HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247'>iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-2807689.jpg' alt='iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429'>Cómo integrar un mapa desde Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo integrar un mapa desde Google Docs' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425'>Cuándo sale iOS 16 y cómo instalarlo en tu iPhone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Cuándo sale iOS 16 y cómo instalarlo en tu iPhone' />
     </a>
 </div>
 
@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-sony-xperia-pro-quiere-ser-monstruo-fotografia-1121409'>El nuevo Sony Xperia Pro quiere ser un monstruo de la fotografía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-sony-xperia-pro-quiere-ser-monstruo-fotografia-1121409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xperia-1-iv-2698407.jpg' alt='El nuevo Sony Xperia Pro quiere ser un monstruo de la fotografía' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137'>HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/css3-2804679.jpg' alt='HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371'>El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429'>Cómo integrar un mapa desde Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo integrar un mapa desde Google Docs' />
     </a>
 </div>
 
