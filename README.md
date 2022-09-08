@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497'>Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía</a></h4>
     <a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/talgo-avril-2807741.jpg' alt='Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425'>Cuándo sale iOS 16 y cómo instalarlo en tu iPhone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/cuando-sale-ios-16-como-instalarlo-iphone-1121425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ios-16-2703651.jpg' alt='Cuándo sale iOS 16 y cómo instalarlo en tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387'>Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes' />
     </a>
 </div>
 
