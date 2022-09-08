@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737'>5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-baratos-alternativa-apple-watch-ultra-1120737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg' alt='5 relojes más baratos que el Apple Watch Ultra y que pueden plantarle cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217'>34 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/34-noticias-tecnologia-comenzar-manana-informado-ultimo-1121217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/34-noticias-tecnologia-comenzar-manana-informado-ultimo-2807273.jpg' alt='34 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933'>Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-sony-wh-1000xm5-mejor-cancelacion-ruido-oferta-1120933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg' alt='Acaban de salir, pero ya puedes comprar con descuento los nuevos auriculares Sony WH-1000XM5 con la mejor cancelación de ruido' />
     </a>
 </div>
 
