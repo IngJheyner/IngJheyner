@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-descuento-1121577'>¡Descuentazo del 75% en Disney+! Apúntate un mes por solo 1,99 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-descuento-1121577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-75-disney-apuntate-mes-solo-199-euros-2807863.jpg' alt='¡Descuentazo del 75% en Disney+! Apúntate un mes por solo 1,99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573'>La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/coches-circulacion-2807859.jpg' alt='La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-1121563'>Motorola Edge Edge 30 Ultra, Fusion y Neo son oficiales: 200 megapíxeles, carga rápida de 125 W para la gama alta de Motorola</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-1121563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-2807851.jpg' alt='Motorola Edge Edge 30 Ultra, Fusion y Neo son oficiales: 200 megapíxeles, carga rápida de 125 W para la gama alta de Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/opinion-iphone-14-hija-steve-jobs-no-gustara-apple-1121571'>La opinión sobre el iPhone 14 de la hija de Steve Jobs que no gustará en Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/opinion-iphone-14-hija-steve-jobs-no-gustara-apple-1121571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='La opinión sobre el iPhone 14 de la hija de Steve Jobs que no gustará en Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-1121565'>El ex CEO de Disney vaticina las plataformas de streaming que desaparecerán, y son malas noticias para los fans de los dragones</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-1121565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ex-ceo-disney-vaticina-plataformas-streaming-desapareceran-son-malas-noticias-fans-dragones-2807853.jpg' alt='El ex CEO de Disney vaticina las plataformas de streaming que desaparecerán, y son malas noticias para los fans de los dragones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315'>Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/listas/life/rebajas-material-escolar-papeleria-amazon-1121315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-carpetas-mochila-escolar-2807523.jpg' alt='Atención, padres: rebajas en material escolar y papelería en Amazon España justo en la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-bionic-a16-iphone-14-pro-5-lento-predecesor-1121489'>El procesador Bionic A16 de los iPhone 14 Pro es un 5% más lento que su predecesor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-bionic-a16-iphone-14-pro-5-lento-predecesor-1121489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/a16-2806927.jpg' alt='El procesador Bionic A16 de los iPhone 14 Pro es un 5% más lento que su predecesor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235'>iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/todo-ios-16-nuevas-funciones-iphone-compatibles-1114235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='iOS 16 descubre todas las nuevas funciones, iPhone compatibles y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497'>Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/talgo-avril-2807741.jpg' alt='Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía' />
     </a>
 </div>
 
