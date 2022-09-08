@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137'>HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/css3-2804679.jpg' alt='HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429'>Cómo integrar un mapa desde Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo integrar un mapa desde Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387'>Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-sony-xperia-pro-quiere-ser-monstruo-fotografia-1121409'>El nuevo Sony Xperia Pro quiere ser un monstruo de la fotografía</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-sony-xperia-pro-quiere-ser-monstruo-fotografia-1121409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xperia-1-iv-2698407.jpg' alt='El nuevo Sony Xperia Pro quiere ser un monstruo de la fotografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371'>El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/principio-fin-tarjetas-sim-iphone-estados-unidos-ya-no-tendran-ranura-1121371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-sujetando-movil-iphone-13-2802009.jpg' alt='El principio del fin de las tarjetas SIM, los iPhone para Estados Unidos ya no tendrán ranura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-notch-dynamic-island-iphone-14-pro-pro-max-no-algo-tan-innovador-como-creiamos-1121357'>El nuevo notch con Dynamic Island de los iPhone 14 pro y Pro Max no es algo tan innovador como creíamos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-notch-dynamic-island-iphone-14-pro-pro-max-no-algo-tan-innovador-como-creiamos-1121357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='El nuevo notch con Dynamic Island de los iPhone 14 pro y Pro Max no es algo tan innovador como creíamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881'>Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/stock-playstation-5-oferta-8-septiembre-2022-1120881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140465.jpg' alt='Stock de PS5, y parece que en abundancia: esta tienda vende un pack con consola, auriculares y tres juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/guia-cocinar-freidora-aceite-temperatura-tiempo-principales-alimentos-904935'>Guía para cocinar en la freidora sin aceite: temperatura y tiempo para los principales alimentos</a></h4>
-    <a href='https://computerhoy.com/noticias/life/guia-cocinar-freidora-aceite-temperatura-tiempo-principales-alimentos-904935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/freidora-aceite-philips-2398897.jpg' alt='Guía para cocinar en la freidora sin aceite: temperatura y tiempo para los principales alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311'>La nueva actualización de WhatsApp se centrará en nuestra privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-whatsapp-centrara-privacidad-1121311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/aplicacion-whatsapp-2493843.jpg' alt='La nueva actualización de WhatsApp se centrará en nuestra privacidad' />
     </a>
 </div>
 
