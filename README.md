@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497'>Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/renfe-rompe-record-velocidad-mitico-talgo-nuevo-tren-compania-1121497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/talgo-avril-2807741.jpg' alt='Renfe rompe el récord de velocidad del mítico Talgo: así es el nuevo tren de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455'>NVIDIA lo hace oficial: comienza la campaña de las RTX 4000</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/nvidia-hace-oficial-comienza-campana-rtx-4000-1121455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/tarjeta-grafica-nvidia-rtx-gaming-2424963.jpg' alt='NVIDIA lo hace oficial: comienza la campaña de las RTX 4000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247'>iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-1121247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-2807689.jpg' alt='iPhone 14 vs iPhone 13: cámara, batería, precio y principales diferencias, ¿merece la pena el cambio?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387'>Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-ya-solo-vende-iphone-5g-baja-precio-versiones-siguen-siendo-muy-interesantes-1121387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/iphone-13-2635003.jpg' alt='Apple ya solo vende iPhone 5G y baja el precio de versiones que siguen siendo muy interesantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137'>HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/html5-css3-todo-necesario-desarrollo-web-solo-curso-online-tiene-110000-estudiantes-1120137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/css3-2804679.jpg' alt='HTML5, CSS3 y todo lo necesario para desarrollo web en un solo curso online: tiene más de 110.000 estudiantes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429'>Cómo integrar un mapa desde Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-integrar-mapa-google-docs-1121429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Cómo integrar un mapa desde Google Docs' />
     </a>
 </div>
 
