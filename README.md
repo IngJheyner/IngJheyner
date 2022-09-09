@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1121833'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1121833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2808179.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829'>Trucos "a la francesa" para eliminar los olores de fritanga en casa</a></h4>
     <a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trucos-francesa-eliminar-olores-fritanga-casa-2808135.jpg' alt='Trucos "a la francesa" para eliminar los olores de fritanga en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/netflix-anade-10-juegos-movil-dos-exclusivos-1121593'>Netflix añade otros 10 juegos de móvil a su catálogo, incluyendo dos exclusivos</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/netflix-anade-10-juegos-movil-dos-exclusivos-1121593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-anade-otros-10-juegos-movil-catalogo-2807877.jpg' alt='Netflix añade otros 10 juegos de móvil a su catálogo, incluyendo dos exclusivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-descuento-1121577'>¡Descuentazo del 75% en Disney+! Apúntate un mes por solo 1,99 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-descuento-1121577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-75-disney-apuntate-mes-solo-199-euros-2807863.jpg' alt='¡Descuentazo del 75% en Disney+! Apúntate un mes por solo 1,99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573'>La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/coches-circulacion-2807859.jpg' alt='La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas' />
     </a>
 </div>
 
