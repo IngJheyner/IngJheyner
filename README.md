@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronto-podremos-hacer-oficialmente-repost-instagram-1121857'>Pronto podremos hacer, oficialmente, repost en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pronto-podremos-hacer-oficialmente-repost-instagram-1121857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-repost-2808199.jpg' alt='Pronto podremos hacer, oficialmente, repost en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-musica-smartwatch-wear-os-apple-watch-1046529'>Cómo descargar música en tu smartwatch Wear OS o Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-musica-smartwatch-wear-os-apple-watch-1046529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/spotify-smartwatch-2676821.jpg' alt='Cómo descargar música en tu smartwatch Wear OS o Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423'>Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/comparativa-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-1121423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg' alt='Fire TV Stick 4K Max vs Fire TV Stick 4K de Amazon: diferencias y cuál es la mejor compra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-tv-f2-2716105.jpg' alt='Mejores televisores 4K que puedes comprar en 2022 según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829'>Trucos "a la francesa" para eliminar los olores de fritanga en casa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trucos-francesa-eliminar-olores-fritanga-casa-2808135.jpg' alt='Trucos "a la francesa" para eliminar los olores de fritanga en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/focus-timer-reloj-arena-inteligente-pomodoro-1121597'>El reloj de arena inteligente que te ayuda a rendir más en el trabajo o los estudios (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/focus-timer-reloj-arena-inteligente-pomodoro-1121597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662675303389-2807885.jpg' alt='El reloj de arena inteligente que te ayuda a rendir más en el trabajo o los estudios (vídeo)' />
     </a>
 </div>
 
