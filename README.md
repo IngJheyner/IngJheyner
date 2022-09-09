@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103'>Xiaomi lanza una almohada inteligente con inteligencia artificial para ayudarte a dormir mejor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/almohada-inteligente-xiaomi-2808867.jpg' alt='Xiaomi lanza una almohada inteligente con inteligencia artificial para ayudarte a dormir mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091'>Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-cobra-abuelo-muy-loco-boxeador-1122009'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una cobra, un abuelo muy loco y un boxeador</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-cobra-abuelo-muy-loco-boxeador-1122009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-9-septiembre-2022-2808577.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una cobra, un abuelo muy loco y un boxeador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095'>Dónde puedes comprar los iPhone 14 con ofertas y regalos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Dónde puedes comprar los iPhone 14 con ofertas y regalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-1122081'>Apple vuelve a liarla con sus precios desorbitados: tras el iTrapo llega la iCorrea para los AirPods</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-1122081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-2808885.jpg' alt='Apple vuelve a liarla con sus precios desorbitados: tras el iTrapo llega la iCorrea para los AirPods' />
     </a>
 </div>
 
