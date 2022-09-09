@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-creadores-contenido-ofrezcan-cursos-dentro-plataforma-1121915'>YouTube permitirá que los creadores de contenido ofrezcan cursos dentro de la plataforma</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-creadores-contenido-ofrezcan-cursos-dentro-plataforma-1121915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mayor-plataforma-podcast-no-fuese-solo-audio-youtube-puede-todo-2800101.jpg' alt='YouTube permitirá que los creadores de contenido ofrezcan cursos dentro de la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-instalar-configurar-utorrent-guia-inicio-completa-32805'>Cómo instalar y configurar uTorrent: guía de inicio completa</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-instalar-configurar-utorrent-guia-inicio-completa-32805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/08/117009-como-instalar-configurar-utorrent-guia-inicio-completa.jpg' alt='Cómo instalar y configurar uTorrent: guía de inicio completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169'>El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620743.jpg' alt='El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/misterio-terrorifica-mujer-siempre-sale-imagenes-generadas-ia-1121873'>El misterio de la terrorífica mujer que siempre sale en imágenes generadas por IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/misterio-terrorifica-mujer-siempre-sale-imagenes-generadas-ia-1121873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/misterio-mujer-horrorosa-2808239.jpg' alt='El misterio de la terrorífica mujer que siempre sale en imágenes generadas por IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/xx-trucos-google-sheets-te-haran-ser-productivo-1105973'>Los 10 trucos de Google Sheets que te harán ser más productivo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/xx-trucos-google-sheets-te-haran-ser-productivo-1105973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-sheets-2779873.jpg' alt='Los 10 trucos de Google Sheets que te harán ser más productivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-mejorara-calidad-llamada-telefono-todos-android-1121867'>Google mejorará la calidad de llamada de teléfono en todos los Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-mejorara-calidad-llamada-telefono-todos-android-1121867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg' alt='Google mejorará la calidad de llamada de teléfono en todos los Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-75-anos-utilizo-primera-vez-termino-bug-tecnologia-1121859'>Hace 75 años que se utilizó por primera vez el término bug en tecnología</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-75-anos-utilizo-primera-vez-termino-bug-tecnologia-1121859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/programacion-javascript-2640901.jpg' alt='Hace 75 años que se utilizó por primera vez el término bug en tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pronto-podremos-hacer-oficialmente-repost-instagram-1121857'>Pronto podremos hacer, oficialmente, repost en Instagram</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pronto-podremos-hacer-oficialmente-repost-instagram-1121857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/instagram-repost-2808199.jpg' alt='Pronto podremos hacer, oficialmente, repost en Instagram' />
     </a>
 </div>
 
