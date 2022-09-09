@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-cosori-arrasa-ventas-oferta-47l-capacidad-1121903'>La freidora Cosori que arrasa en ventas está en oferta con 4,7L de capacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-cosori-arrasa-ventas-oferta-47l-capacidad-1121903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-freidora-aire-47l-2808289.jpg' alt='La freidora Cosori que arrasa en ventas está en oferta con 4,7L de capacidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091'>Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045'>Los mejores usos que le puedes dar a tu viejo iPod</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Los mejores usos que le puedes dar a tu viejo iPod' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-grafitero-multiverso-dios-1122011'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un grafitero, un multiverso y un dios</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-grafitero-multiverso-dios-1122011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-fin-semana-9-septiembre-2022-2808685.jpg' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un grafitero, un multiverso y un dios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/congreso-diputados-hace-copia-pega-web-apple-diputados-tengan-iphone-13-pro-1121997'>El Congreso de los Diputados hace un copia/pega de la web de Apple para que los diputados tengan sus iPhone 13 Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/congreso-diputados-hace-copia-pega-web-apple-diputados-tengan-iphone-13-pro-1121997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='El Congreso de los Diputados hace un copia/pega de la web de Apple para que los diputados tengan sus iPhone 13 Pro' />
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-cobra-abuelo-muy-loco-boxeador-1122009'>Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una cobra, un abuelo muy loco y un boxeador</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-disney-cobra-abuelo-muy-loco-boxeador-1122009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-9-septiembre-2022-2808577.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Disney+: una cobra, un abuelo muy loco y un boxeador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/circular-hub-como-comprar-ikea-50-descuento-1121985'>Circular Hub o cómo comprar en IKEA con hasta un 50% de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/life/circular-hub-como-comprar-ikea-50-descuento-1121985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='Circular Hub o cómo comprar en IKEA con hasta un 50% de descuento' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095'>Dónde puedes comprar los iPhone 14 con ofertas y regalos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/donde-comprar-iphone-14-iphone-14-plus-iphone-14-pro-iphone-14-pro-max-1122095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Dónde puedes comprar los iPhone 14 con ofertas y regalos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-construye-nevera-cuantica-grande-mundo-100-veces-fria-espacio-exterior-1121983'>IBM construye la "nevera cuántica" más grande del mundo: 100 veces más fría que el espacio exterior</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ibm-construye-nevera-cuantica-grande-mundo-100-veces-fria-espacio-exterior-1121983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ibm-cuantico-2808443.jpg' alt='IBM construye la "nevera cuántica" más grande del mundo: 100 veces más fría que el espacio exterior' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-1122081'>Apple vuelve a liarla con sus precios desorbitados: tras el iTrapo llega la iCorrea para los AirPods</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-1122081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-vuelve-liarla-precios-desorbitados-itrapo-llega-icorrea-airpods-2808885.jpg' alt='Apple vuelve a liarla con sus precios desorbitados: tras el iTrapo llega la iCorrea para los AirPods' />
     </a>
 </div>
 
