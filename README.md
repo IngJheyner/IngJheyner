@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143'>La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/xiaomi-mi-smart-scale-2.jpg' alt='La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141'>Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662747631924-2809189.jpg' alt='Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091'>Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta' />
     </a>
 </div>
 
