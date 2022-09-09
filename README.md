@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151'>Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg' alt='Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143'>La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/xiaomi-mi-smart-scale-2.jpg' alt='La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103'>Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/almohada-inteligente-xiaomi-2808867.jpg' alt='Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969'>Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-saturacion-oxigeno-sangre-spo2-mejores-comprar-756969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/fitbit-sense-2137911.jpg' alt='Relojes que miden la saturación de oxígeno en sangre (SpO2): estos son los mejores que puedes comprar' />
     </a>
 </div>
 
