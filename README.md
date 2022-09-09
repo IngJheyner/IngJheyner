@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141'>Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662747631924-2809189.jpg' alt='Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-servicios-pone-fin-era-moviles-2-gb-ram-1122121'>Google actualiza los requisitos mínimos para sus servicios y pone fin a la era de móviles con 2 GB de RAM</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-servicios-pone-fin-era-moviles-2-gb-ram-1122121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google actualiza los requisitos mínimos para sus servicios y pone fin a la era de móviles con 2 GB de RAM' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103'>Xiaomi lanza una almohada inteligente con inteligencia artificial para ayudarte a dormir mejor</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103'>Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/almohada-inteligente-xiaomi-2808867.jpg' alt='Xiaomi lanza una almohada inteligente con inteligencia artificial para ayudarte a dormir mejor' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/almohada-inteligente-xiaomi-2808867.jpg' alt='Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091'>Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reparar-apple-watch-ultra-te-va-costar-mitad-precio-venta-1122091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg' alt='Reparar un Apple Watch Ultra te va a costar más de la mitad de su precio de venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-grafitero-multiverso-dios-1122011'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un grafitero, un multiverso y un dios</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-disney-grafitero-multiverso-dios-1122011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-fin-semana-9-septiembre-2022-2808685.jpg' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: un grafitero, un multiverso y un dios' />
     </a>
 </div>
 
