@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-cosori-arrasa-ventas-oferta-47l-capacidad-1121903'>La freidora Cosori que arrasa en ventas está en oferta con 4,7L de capacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-cosori-arrasa-ventas-oferta-47l-capacidad-1121903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-freidora-aire-47l-2808289.jpg' alt='La freidora Cosori que arrasa en ventas está en oferta con 4,7L de capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045'>Los mejores usos que le puedes dar a tu viejo iPod</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Los mejores usos que le puedes dar a tu viejo iPod' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ibm-construye-nevera-cuantica-grande-mundo-100-veces-fria-espacio-exterior-1121983'>IBM construye la "nevera cuántica" más grande del mundo: 100 veces más fría que el espacio exterior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ibm-construye-nevera-cuantica-grande-mundo-100-veces-fria-espacio-exterior-1121983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ibm-cuantico-2808443.jpg' alt='IBM construye la "nevera cuántica" más grande del mundo: 100 veces más fría que el espacio exterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-9-septiembre-2022-1120045'>Reloj y pulsera Xiaomi a precio de derribo: cuesta 30 euros y puede superar a la Mi Band</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-9-septiembre-2022-1120045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591277.jpg' alt='Reloj y pulsera Xiaomi a precio de derribo: cuesta 30 euros y puede superar a la Mi Band' />
     </a>
 </div>
 
