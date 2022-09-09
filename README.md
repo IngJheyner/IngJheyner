@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829'>Trucos "a la francesa" para eliminar los olores de fritanga en casa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/trucos-eliminar-olores-fritanga-casa-1121829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/trucos-francesa-eliminar-olores-fritanga-casa-2808135.jpg' alt='Trucos "a la francesa" para eliminar los olores de fritanga en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/focus-timer-reloj-arena-inteligente-pomodoro-1121597'>El reloj de arena inteligente que te ayuda a rendir más en el trabajo o los estudios (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/focus-timer-reloj-arena-inteligente-pomodoro-1121597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662675303389-2807885.jpg' alt='El reloj de arena inteligente que te ayuda a rendir más en el trabajo o los estudios (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573'>La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/dgt-aclara-significado-matriculas-verdes-quienes-estan-obligados-utilizarlas-1121573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/coches-circulacion-2807859.jpg' alt='La DGT aclara el significado de las matrículas verdes y quiénes están obligados a utilizarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-1121563'>Motorola Edge 30 Ultra, Fusion y Neo son oficiales: 200 megapíxeles, carga rápida de 125 W para la gama alta de Motorola</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-1121563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-edge-edge-30-ultra-fusion-neo-son-oficiales-200-megapixeles-carga-rapida-125-w-gama-alta-motorola-2807851.jpg' alt='Motorola Edge 30 Ultra, Fusion y Neo son oficiales: 200 megapíxeles, carga rápida de 125 W para la gama alta de Motorola' />
     </a>
 </div>
 
