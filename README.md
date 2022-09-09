@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045'>Los mejores usos que le puedes dar a tu viejo iPod</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-usos-puedes-dar-viejo-ipod-1122045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ipod-2699009.jpg' alt='Los mejores usos que le puedes dar a tu viejo iPod' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/congreso-diputados-hace-copia-pega-web-apple-diputados-tengan-iphone-13-pro-1121997'>El Congreso de los Diputados hace un copia/pega de la web de Apple para que los diputados tengan sus iPhone 13 Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/congreso-diputados-hace-copia-pega-web-apple-diputados-tengan-iphone-13-pro-1121997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg' alt='El Congreso de los Diputados hace un copia/pega de la web de Apple para que los diputados tengan sus iPhone 13 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/circular-hub-como-comprar-ikea-50-descuento-1121985'>Circular Hub o cómo comprar en IKEA con hasta un 50% de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/life/circular-hub-como-comprar-ikea-50-descuento-1121985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ikea-2601637.jpg' alt='Circular Hub o cómo comprar en IKEA con hasta un 50% de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-9-septiembre-2022-1120045'>Reloj y pulsera Xiaomi a precio de derribo: cuesta 30 euros y puede superar a la Mi Band</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-smart-band-pro-oferta-9-septiembre-2022-1120045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-smart-band-pro-2591277.jpg' alt='Reloj y pulsera Xiaomi a precio de derribo: cuesta 30 euros y puede superar a la Mi Band' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-demo-interconexion-wi-fi-7-alcanza-5-gbps-1121965'>Primera demo de interconexión Wi-Fi 7 alcanza los 5 Gbps: 5 veces la velocidad por cable</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primera-demo-interconexion-wi-fi-7-alcanza-5-gbps-1121965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg' alt='Primera demo de interconexión Wi-Fi 7 alcanza los 5 Gbps: 5 veces la velocidad por cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-redmi-pad-variantes-precio-caracteristicas-tecnicas-1121961'>Esto es lo que sabemos de la Redmi Pad: variantes, precio y características técnicas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-redmi-pad-variantes-precio-caracteristicas-tecnicas-1121961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-5g-2808417.jpg' alt='Esto es lo que sabemos de la Redmi Pad: variantes, precio y características técnicas' />
     </a>
 </div>
 
