@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primera-demo-interconexion-wi-fi-7-alcanza-5-gbps-1121965'>Primera demo de interconexión Wi-Fi 7 alcanza los 5 Gbps: 5 veces la velocidad por cable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primera-demo-interconexion-wi-fi-7-alcanza-5-gbps-1121965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg' alt='Primera demo de interconexión Wi-Fi 7 alcanza los 5 Gbps: 5 veces la velocidad por cable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sabemos-redmi-pad-variantes-precio-caracteristicas-tecnicas-1121961'>Esto es lo que sabemos de la Redmi Pad: variantes, precio y características técnicas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sabemos-redmi-pad-variantes-precio-caracteristicas-tecnicas-1121961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/redmi-pad-5g-2808417.jpg' alt='Esto es lo que sabemos de la Redmi Pad: variantes, precio y características técnicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-creadores-contenido-ofrezcan-cursos-dentro-plataforma-1121915'>YouTube permitirá que los creadores de contenido ofrezcan cursos dentro de la plataforma</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-permitira-creadores-contenido-ofrezcan-cursos-dentro-plataforma-1121915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mayor-plataforma-podcast-no-fuese-solo-audio-youtube-puede-todo-2800101.jpg' alt='YouTube permitirá que los creadores de contenido ofrezcan cursos dentro de la plataforma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169'>El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620743.jpg' alt='El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/misterio-terrorifica-mujer-siempre-sale-imagenes-generadas-ia-1121873'>El misterio de la terrorífica mujer que siempre sale en imágenes generadas por IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/misterio-terrorifica-mujer-siempre-sale-imagenes-generadas-ia-1121873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/misterio-mujer-horrorosa-2808239.jpg' alt='El misterio de la terrorífica mujer que siempre sale en imágenes generadas por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xx-trucos-google-sheets-te-haran-ser-productivo-1105973'>Los 10 trucos de Google Sheets que te harán ser más productivo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xx-trucos-google-sheets-te-haran-ser-productivo-1105973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-sheets-2779873.jpg' alt='Los 10 trucos de Google Sheets que te harán ser más productivo' />
     </a>
 </div>
 
