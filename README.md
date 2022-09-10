@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/personas-fueron-encarceladas-culpa-traductor-1122461'>Lost in translation: personas que fueron encarceladas por culpa del traductor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/personas-fueron-encarceladas-culpa-traductor-1122461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/lost-translation.jpg' alt='Lost in translation: personas que fueron encarceladas por culpa del traductor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-pixel-plegable-tableta-pro-1122499'>Google estaría trabajando en un Pixel plegable y en una tableta Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-pixel-plegable-tableta-pro-1122499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765525.jpg' alt='Google estaría trabajando en un Pixel plegable y en una tableta Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451'>Cómo saber si alguien te ha bloqueado en Discord</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bloqueado-2774147.jpg' alt='Cómo saber si alguien te ha bloqueado en Discord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453'>Estamos ante el verano más caluroso registrado en toda la historia en Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ola-calor-2809665.jpg' alt='Estamos ante el verano más caluroso registrado en toda la historia en Europa' />
     </a>
 </div>
 
