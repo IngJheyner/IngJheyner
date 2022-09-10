@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451'>Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nakedpak-plato-espaguetis-escondido-dentro-salchicha-video-1122459'>NakedPak: el plato de espaguetis escondido dentro de una salchicha (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nakedpak-plato-espaguetis-escondido-dentro-salchicha-video-1122459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662768856134-2809675.jpg' alt='NakedPak: el plato de espaguetis escondido dentro de una salchicha (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/respira-aire-limpio-todas-horas-casi-mitad-precio-purificador-dyson-precio-chollo-1122435'>Respira aire limpio a todas horas y casi a mitad de precio: este purificador Dyson, a precio de chollo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/respira-aire-limpio-todas-horas-casi-mitad-precio-purificador-dyson-precio-chollo-1122435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/purificador-aire-dyson-bp01-pure-cool-me-2809637.jpg' alt='Respira aire limpio a todas horas y casi a mitad de precio: este purificador Dyson, a precio de chollo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753'>7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/john-carter-2804121.jpg' alt='7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/has-recibido-actualizacion-android-auto-no-ti-1122417'>Si has recibido esta actualización de Android Auto, no es para ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/has-recibido-actualizacion-android-auto-no-ti-1122417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Si has recibido esta actualización de Android Auto, no es para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409'>Samsung se burla del iPhone 14 para promocionar sus propios productos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Samsung se burla del iPhone 14 para promocionar sus propios productos' />
     </a>
 </div>
 
