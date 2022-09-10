@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/relojes-oxigeno-sangre-vo2-max-baratos-719127'>Cinco relojes que miden el oxígeno en sangre (VO2 máx) pero que son más baratos que el Apple Watch Series 8</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/relojes-oxigeno-sangre-vo2-max-baratos-719127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Cinco relojes que miden el oxígeno en sangre (VO2 máx) pero que son más baratos que el Apple Watch Series 8' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101'>Los 4 trucos más sencillos para acelerar Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Los 4 trucos más sencillos para acelerar Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-repetidor-wifi-mejorar-conexion-internet-1119101'>Errores que no debes cometer al comprar un repetidor WiFi para mejorar tu conexión a Internet </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-repetidor-wifi-mejorar-conexion-internet-1119101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tipos-repetidor-wifi-cual-comprar-2019_1.jpg' alt='Errores que no debes cometer al comprar un repetidor WiFi para mejorar tu conexión a Internet ' />
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g42-review-opinion-1108491'>Motorola G42, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g42-review-opinion-1108491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-g42-analisis-opinion-2801901.jpg' alt='Motorola G42, análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-lavadora-1118765'>Errores que no debes cometer al comprar una lavadora</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-lavadora-1118765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lavadora-2802385.jpg' alt='Errores que no debes cometer al comprar una lavadora' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633'>El futuro se pliega ante nosotros, aunque no siempre lo veas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801571.jpg' alt='El futuro se pliega ante nosotros, aunque no siempre lo veas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-nace-tornado-10-metros-distancia-vivo-directo-video-1121297'>Así nace un tornado a 10 metros de distancia, en vívo y en directo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-nace-tornado-10-metros-distancia-vivo-directo-video-1121297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nace-tornado-10-metros-distancia-vivo-directo-video-2807369.jpg' alt='Así nace un tornado a 10 metros de distancia, en vívo y en directo (vídeo)' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/afeitando-cd-mejora-calidad-sonido-1121875'>¿Afeitar un CD mejora la calidad de sonido?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/afeitando-cd-mejora-calidad-sonido-1121875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/afeitando-cd-mejora-calidad-sonido-2808243.jpg' alt='¿Afeitar un CD mejora la calidad de sonido?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151'>Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg' alt='Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-iphone-14-1121975'>Mejores cargadores para el iPhone 14: carga rápida, inalámbrica y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-iphone-14-1121975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargadores-iphone-14-2808561.jpg' alt='Mejores cargadores para el iPhone 14: carga rápida, inalámbrica y más' />
     </a>
 </div>
 
