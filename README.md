@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935'>Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451'>Cómo saber si alguien te ha bloqueado en Discord</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bloqueado-2774147.jpg' alt='Cómo saber si alguien te ha bloqueado en Discord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453'>Estamos ante el verano más caluroso registrado en toda la historia en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ola-calor-2809665.jpg' alt='Estamos ante el verano más caluroso registrado en toda la historia en Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nakedpak-plato-espaguetis-escondido-dentro-salchicha-video-1122459'>NakedPak: el plato de espaguetis escondido dentro de una salchicha (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/nakedpak-plato-espaguetis-escondido-dentro-salchicha-video-1122459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662768856134-2809675.jpg' alt='NakedPak: el plato de espaguetis escondido dentro de una salchicha (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/respira-aire-limpio-todas-horas-casi-mitad-precio-purificador-dyson-precio-chollo-1122435'>Respira aire limpio a todas horas y casi a mitad de precio: este purificador Dyson, a precio de chollo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/respira-aire-limpio-todas-horas-casi-mitad-precio-purificador-dyson-precio-chollo-1122435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/purificador-aire-dyson-bp01-pure-cool-me-2809637.jpg' alt='Respira aire limpio a todas horas y casi a mitad de precio: este purificador Dyson, a precio de chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-zoom-optico-continuo-futuro-movil-ya-probando-vivo-1122431'>Cámara con zoom óptico continuo, el futuro móvil que ya está probando Vivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/camara-zoom-optico-continuo-futuro-movil-ya-probando-vivo-1122431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752961.jpg' alt='Cámara con zoom óptico continuo, el futuro móvil que ya está probando Vivo' />
     </a>
 </div>
 
