@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753'>7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/john-carter-2804121.jpg' alt='7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/has-recibido-actualizacion-android-auto-no-ti-1122417'>Si has recibido esta actualización de Android Auto, no es para ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/has-recibido-actualizacion-android-auto-no-ti-1122417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg' alt='Si has recibido esta actualización de Android Auto, no es para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409'>Samsung se burla del iPhone 14 para promocionar sus propios productos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Samsung se burla del iPhone 14 para promocionar sus propios productos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101'>Los 4 trucos más sencillos para acelerar Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Los 4 trucos más sencillos para acelerar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/motorola-g42-review-opinion-1108491'>Motorola G42, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/motorola-g42-review-opinion-1108491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/motorola-g42-analisis-opinion-2801901.jpg' alt='Motorola G42, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633'>El futuro se pliega ante nosotros, aunque no siempre lo veas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801571.jpg' alt='El futuro se pliega ante nosotros, aunque no siempre lo veas' />
     </a>
 </div>
 
