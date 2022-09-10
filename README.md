@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409'>Samsung se burla del iPhone 14 para promocionar sus propios productos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-burla-iphone-14-promocionar-propios-productos-1122409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Samsung se burla del iPhone 14 para promocionar sus propios productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-dorking-1112217'>Qué es Google Dorking </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/google-dorking-1112217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662659294518-2807841.jpg' alt='Qué es Google Dorking ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101'>Los 4 trucos más sencillos para acelerar Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/4-trucos-sencillos-acelerar-windows-11-1120101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/windows-11-2741127.jpg' alt='Los 4 trucos más sencillos para acelerar Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633'>El futuro se pliega ante nosotros, aunque no siempre lo veas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/futuro-pliega-nosotros-aunque-no-siempre-veas-1119633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/impresiones-lg-oled-flex-2801571.jpg' alt='El futuro se pliega ante nosotros, aunque no siempre lo veas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/afeitando-cd-mejora-calidad-sonido-1121875'>¿Afeitar un CD mejora la calidad de sonido?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/afeitando-cd-mejora-calidad-sonido-1121875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/afeitando-cd-mejora-calidad-sonido-2808243.jpg' alt='¿Afeitar un CD mejora la calidad de sonido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-iphone-14-1121975'>Mejores cargadores para el iPhone 14: carga rápida, inalámbrica y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-iphone-14-1121975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargadores-iphone-14-2808561.jpg' alt='Mejores cargadores para el iPhone 14: carga rápida, inalámbrica y más' />
     </a>
 </div>
 
