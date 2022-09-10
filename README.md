@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453'>Estamos ante el verano más caluroso registrado en toda la historia en Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ola-calor-2809665.jpg' alt='Estamos ante el verano más caluroso registrado en toda la historia en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451'>Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/camara-zoom-optico-continuo-futuro-movil-ya-probando-vivo-1122431'>Cámara con zoom óptico continuo, el futuro móvil que ya está probando Vivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/camara-zoom-optico-continuo-futuro-movil-ya-probando-vivo-1122431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/vivo-x80-pro-2752961.jpg' alt='Cámara con zoom óptico continuo, el futuro móvil que ya está probando Vivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753'>7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-seguramente-te-acuerdas-protagonista-pero-no-historia-cuentan-1119753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/john-carter-2804121.jpg' alt='7 películas de las que seguramente te acuerdas del protagonista, pero no de la historia que cuentan' />
     </a>
 </div>
 
