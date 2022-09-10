@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-pixel-plegable-tableta-pro-1122499'>Google estaría trabajando en un Pixel plegable y en una tableta Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-pixel-plegable-tableta-pro-1122499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765525.jpg' alt='Google estaría trabajando en un Pixel plegable y en una tableta Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-chromecast-barato-diseno-identico-actual-1122493'>Así sería el nuevo Chromecast barato, y su diseño es idéntico al actual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-chromecast-barato-diseno-identico-actual-1122493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Así sería el nuevo Chromecast barato, y su diseño es idéntico al actual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453'>Estamos ante el verano más caluroso registrado en toda la historia en Europa</a></h4>
     <a href='https://computerhoy.com/noticias/life/estamos-verano-caluroso-registrado-toda-historia-europa-1122453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ola-calor-2809665.jpg' alt='Estamos ante el verano más caluroso registrado en toda la historia en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451'>Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-podria-apostar-estrenos-capitulos-semanales-nuevas-series-1122451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg' alt='Netflix podría apostar por estrenos de capítulos semanales en sus nuevas series' />
     </a>
 </div>
 
