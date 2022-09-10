@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/relojes-oxigeno-sangre-vo2-max-baratos-719127'>Cinco relojes que miden el oxígeno en sangre (VO2 máx) pero que son más baratos que el Apple Watch Series 8</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/relojes-oxigeno-sangre-vo2-max-baratos-719127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-vistiendo-reloj-inteligente-muneca-2808277.jpg' alt='Cinco relojes que miden el oxígeno en sangre (VO2 máx) pero que son más baratos que el Apple Watch Series 8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-repetidor-wifi-mejorar-conexion-internet-1119101'>Errores que no debes cometer al comprar un repetidor WiFi para mejorar tu conexión a Internet </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-repetidor-wifi-mejorar-conexion-internet-1119101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/tipos-repetidor-wifi-cual-comprar-2019_1.jpg' alt='Errores que no debes cometer al comprar un repetidor WiFi para mejorar tu conexión a Internet ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-lavadora-1118765'>Errores que no debes cometer al comprar una lavadora</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-lavadora-1118765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lavadora-2802385.jpg' alt='Errores que no debes cometer al comprar una lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-nace-tornado-10-metros-distancia-vivo-directo-video-1121297'>Así nace un tornado a 10 metros de distancia, en vívo y en directo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-nace-tornado-10-metros-distancia-vivo-directo-video-1121297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nace-tornado-10-metros-distancia-vivo-directo-video-2807369.jpg' alt='Así nace un tornado a 10 metros de distancia, en vívo y en directo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151'>Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-arc-especificaciones-oficiales-1122151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg' alt='Intel revela las especificaciones oficiales de todas las tarjetas Intel ARC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143'>La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chollo-bascula-inteligente-xiaomi-menos-10-euros-1122143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/xiaomi-mi-smart-scale-2.jpg' alt='La báscula inteligente de Xiaomi por menos de 10 euros: un chollo que no puedes dejar escapar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141'>Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/salvar-al-rey-documental-hbo-max-1122141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1662747631924-2809189.jpg' alt='Un esperado documental de HBO Max ha llegado y desde el primer día está sembrando polémica en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-servicios-pone-fin-era-moviles-2-gb-ram-1122121'>Google actualiza los requisitos mínimos para sus servicios y pone fin a la era de móviles con 2 GB de RAM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-actualiza-requisitos-minimos-servicios-pone-fin-era-moviles-2-gb-ram-1122121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg' alt='Google actualiza los requisitos mínimos para sus servicios y pone fin a la era de móviles con 2 GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103'>Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-lanza-almohada-inteligente-inteligencia-artificial-ayudarte-dormir-mejor-1122103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/almohada-inteligente-xiaomi-2808867.jpg' alt='Xiaomi lanza una almohada inteligente con IA para ayudarte a dormir mejor' />
     </a>
 </div>
 
