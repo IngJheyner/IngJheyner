@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-te-sientes-triste-1122457'>Los mejores ejercicios si te sientes triste</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-te-sientes-triste-1122457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-te-sientes-tristes-2809667.jpg' alt='Los mejores ejercicios si te sientes triste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/personas-fueron-encarceladas-culpa-traductor-1122461'>Lost in translation: personas que fueron encarceladas por culpa del traductor</a></h4>
     <a href='https://computerhoy.com/noticias/life/personas-fueron-encarceladas-culpa-traductor-1122461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/lost-translation.jpg' alt='Lost in translation: personas que fueron encarceladas por culpa del traductor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935'>Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451'>Cómo saber si alguien te ha bloqueado en Discord</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-saber-alguien-te-ha-bloqueado-discord-1102451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/bloqueado-2774147.jpg' alt='Cómo saber si alguien te ha bloqueado en Discord' />
     </a>
 </div>
 
