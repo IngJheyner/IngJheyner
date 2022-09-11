@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949'>Cortando el césped al estilo Star Wars: con rayos láser (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cortando-cesped-estilo-star-wars-rayos-laser-2808359.jpg' alt='Cortando el césped al estilo Star Wars: con rayos láser (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815'>Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/assassins-creed-mirage-2810007.jpg' alt='Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813'>El telescopio James Webb fotografía su primer exoplaneta</a></h4>
     <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='El telescopio James Webb fotografía su primer exoplaneta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803'>The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mandalorian-3-indiana-jones-5-percy-jackson-todo-ha-presentado-disney-marvel-lucasfilm-d23-expo-2810147.jpg' alt='The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-configuracion-multipantalla-windows-11-1093559'>Cómo organizar tu configuración multipantalla en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-configuracion-multipantalla-windows-11-1093559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-pantallas-2758955.jpg' alt='Cómo organizar tu configuración multipantalla en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779'>Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento' />
     </a>
 </div>
 
