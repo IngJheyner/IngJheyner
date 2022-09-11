@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813'>El telescopio James Webb fotografía su primer exoplaneta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='El telescopio James Webb fotografía su primer exoplaneta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811'>Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/venga-chiste-rtx-3060-pone-venta-25-febrero-2232867.jpg' alt='Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779'>Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revisara-todas-resenas-play-store-antes-publicarlas-1122775'>Google revisará todas las reseñas de la Play Store antes de publicarlas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-revisara-todas-resenas-play-store-antes-publicarlas-1122775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg' alt='Google revisará todas las reseñas de la Play Store antes de publicarlas' />
     </a>
 </div>
 
