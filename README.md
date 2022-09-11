@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779'>Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-revisara-todas-resenas-play-store-antes-publicarlas-1122775'>Google revisará todas las reseñas de la Play Store antes de publicarlas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-revisara-todas-resenas-play-store-antes-publicarlas-1122775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg' alt='Google revisará todas las reseñas de la Play Store antes de publicarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-libros-sonamos-haga-serie-adaptacion-anillos-poder-1120849'>6 libros con los que soñamos que se haga una serie tras la adaptación de Los anillos de poder</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/6-libros-sonamos-haga-serie-adaptacion-anillos-poder-1120849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blacksad-2806587.jpg' alt='6 libros con los que soñamos que se haga una serie tras la adaptación de Los anillos de poder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-alia-ubisoft-tres-nuevos-juegos-vas-poder-disfrutar-gratis-eres-suscriptor-1122751'>Netflix se alía con Ubisoft para tres nuevos juegos que vas a poder disfrutar gratis si eres suscriptor</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-alia-ubisoft-tres-nuevos-juegos-vas-poder-disfrutar-gratis-eres-suscriptor-1122751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-2810051.jpg' alt='Netflix se alía con Ubisoft para tres nuevos juegos que vas a poder disfrutar gratis si eres suscriptor' />
     </a>
 </div>
 
