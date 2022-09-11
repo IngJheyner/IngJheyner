@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803'>The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mandalorian-3-indiana-jones-5-percy-jackson-todo-ha-presentado-disney-marvel-lucasfilm-d23-expo-2810147.jpg' alt='The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-configuracion-multipantalla-windows-11-1093559'>Cómo organizar tu configuración multipantalla en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-organizar-configuracion-multipantalla-windows-11-1093559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dos-pantallas-2758955.jpg' alt='Cómo organizar tu configuración multipantalla en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779'>Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-apple-pudo-guardar-secreto-dynamic-island-ultimo-momento-1122779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Así es como Apple pudo guardar el secreto de Dynamic Island hasta el último momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-realme-bestia-potencia-i5-solo-599-euros-1122761'>Este portátil de realme es una bestia de potencia con i5 y por solo 599 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-realme-bestia-potencia-i5-solo-599-euros-1122761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-book-prime-2810069.jpg' alt='Este portátil de realme es una bestia de potencia con i5 y por solo 599 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mercadona-obligada-intervenir-parar-peligroso-bulo-1122757'>Mercadona obligada a intervenir para parar un peligroso bulo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mercadona-obligada-intervenir-parar-peligroso-bulo-1122757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona obligada a intervenir para parar un peligroso bulo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/6-libros-sonamos-haga-serie-adaptacion-anillos-poder-1120849'>6 libros con los que soñamos que se haga una serie tras la adaptación de Los anillos de poder</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/6-libros-sonamos-haga-serie-adaptacion-anillos-poder-1120849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/blacksad-2806587.jpg' alt='6 libros con los que soñamos que se haga una serie tras la adaptación de Los anillos de poder' />
     </a>
 </div>
 
