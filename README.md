@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409'>¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/oppo-reno-8-pro-review-opinion-1120109'>Oppo Reno 8 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-reno-8-pro-review-opinion-1120109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg' alt='Oppo Reno 8 Pro, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495'>Ahora hasta los robots podrán hacerte la manicura en unos minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ahora-robots-podran-hacerte-manicura-minutos-2809737.jpg' alt='Ahora hasta los robots podrán hacerte la manicura en unos minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497'>El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/valle-muerte-2809741.jpg' alt='El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre' />
     </a>
 </div>
 
