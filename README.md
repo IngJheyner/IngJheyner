@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495'>Ahora hasta los robots podrán hacerte la manicura en unos minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ahora-robots-podran-hacerte-manicura-minutos-2809737.jpg' alt='Ahora hasta los robots podrán hacerte la manicura en unos minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497'>El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre</a></h4>
     <a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/valle-muerte-2809741.jpg' alt='El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-horno-cocina-electrico-1118823'>Errores que no debes cometer al comprar un horno de cocina eléctrico</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-horno-cocina-electrico-1118823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/horno-electrico-2250739.jpg' alt='Errores que no debes cometer al comprar un horno de cocina eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rubber-ducky-usb-hackers-1122505'>Rubber Ducky, el USB para hackers que toma el control del un PC y extrae datos y contraseñas en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rubber-ducky-usb-hackers-1122505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rubber-ducky-usb-hackers-toma-control-pc-extrae-datos-contrasenas-segundos-2809795.jpg' alt='Rubber Ducky, el USB para hackers que toma el control del un PC y extrae datos y contraseñas en segundos' />
     </a>
 </div>
 
