@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-ordenador-windows-no-responde-1121261'>Cómo arreglar un ordenador Windows que no responde</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-ordenador-windows-no-responde-1121261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/enfado-ordenador-2807313.jpg' alt='Cómo arreglar un ordenador Windows que no responde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409'>¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-baratos-1122065'>Estos son los mejores discos duros baratos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-baratos-1122065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disco-duro-abierto-2808907.jpg' alt='Estos son los mejores discos duros baratos que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495'>Ahora hasta los robots podrán hacerte la manicura en unos minutos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ahora-robots-podran-hacerte-manicura-minutos-2809737.jpg' alt='Ahora hasta los robots podrán hacerte la manicura en unos minutos' />
     </a>
 </div>
 
