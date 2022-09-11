@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno-8-pro-review-opinion-1120109'>Oppo Reno 8 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno-8-pro-review-opinion-1120109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-oppo-reno-8-pro-2809153.jpg' alt='Oppo Reno 8 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-puedes-hacer-gamer-1108275'>Los mejores regalos que puedes hacer a un gamer </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-puedes-hacer-gamer-1108275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ea-propone-dejar-usar-termino-gamer-porque-considera-anticuado-explica-2419367.jpg' alt='Los mejores regalos que puedes hacer a un gamer ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497'>El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre</a></h4>
     <a href='https://computerhoy.com/noticias/life/valle-muerte-california-ha-alcanzado-53-degc-record-calor-historico-septiembre-1122497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/valle-muerte-2809741.jpg' alt='El Valle de la Muerte en California ha alcanzado los 53 °C: récord de calor histórico en septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-fotos-google-photos-como-salvapantallas-android-1067785'>Cómo utilizar tus fotos de Google Photos como salvapantallas en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-fotos-google-photos-como-salvapantallas-android-1067785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-fotos-tendra-nuevo-editor-videos-tambien-trae-novedades-google-one-2230171.jpg' alt='Cómo utilizar tus fotos de Google Photos como salvapantallas en Android' />
     </a>
 </div>
 
