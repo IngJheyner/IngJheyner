@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-puedes-hacer-gamer-1108275'>Los mejores regalos que puedes hacer a un gamer </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-regalos-puedes-hacer-gamer-1108275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ea-propone-dejar-usar-termino-gamer-porque-considera-anticuado-explica-2419367.jpg' alt='Los mejores regalos que puedes hacer a un gamer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-baratos-1122065'>Estos son los mejores discos duros baratos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-baratos-1122065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disco-duro-abierto-2808907.jpg' alt='Estos son los mejores discos duros baratos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495'>Ahora hasta los robots podrán hacerte la manicura en unos minutos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-robots-podran-hacerte-manicura-minutos-1122495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ahora-robots-podran-hacerte-manicura-minutos-2809737.jpg' alt='Ahora hasta los robots podrán hacerte la manicura en unos minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-fotos-google-photos-como-salvapantallas-android-1067785'>Cómo utilizar tus fotos de Google Photos como salvapantallas en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-utilizar-fotos-google-photos-como-salvapantallas-android-1067785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-fotos-tendra-nuevo-editor-videos-tambien-trae-novedades-google-one-2230171.jpg' alt='Cómo utilizar tus fotos de Google Photos como salvapantallas en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/stable-diffusion-inteligencia-artificial-personajes-videojuegos-personas-reales-1121919'>Esta IA convierte a los personajes de los videojuegos en personas reales, y puedes usarla tú</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/stable-diffusion-inteligencia-artificial-personajes-videojuegos-personas-reales-1121919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ia-convierte-personajes-videojuegos-personas-reales-puedes-usarla-2808317.jpg' alt='Esta IA convierte a los personajes de los videojuegos en personas reales, y puedes usarla tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-horno-cocina-electrico-1118823'>Errores que no debes cometer al comprar un horno de cocina eléctrico</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-horno-cocina-electrico-1118823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/horno-electrico-2250739.jpg' alt='Errores que no debes cometer al comprar un horno de cocina eléctrico' />
     </a>
 </div>
 
