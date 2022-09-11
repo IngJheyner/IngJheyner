@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-realme-bestia-potencia-i5-solo-599-euros-1122761'>Este portátil de realme es una bestia de potencia con i5 y por solo 599 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-realme-bestia-potencia-i5-solo-599-euros-1122761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-book-prime-2810069.jpg' alt='Este portátil de realme es una bestia de potencia con i5 y por solo 599 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mercadona-obligada-intervenir-parar-peligroso-bulo-1122757'>Mercadona obligada a intervenir para parar un peligroso bulo</a></h4>
     <a href='https://computerhoy.com/noticias/life/mercadona-obligada-intervenir-parar-peligroso-bulo-1122757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/mercadona-2716665.jpg' alt='Mercadona obligada a intervenir para parar un peligroso bulo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-ordenador-windows-no-responde-1121261'>Cómo arreglar un ordenador Windows que no responde</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-arreglar-ordenador-windows-no-responde-1121261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/enfado-ordenador-2807313.jpg' alt='Cómo arreglar un ordenador Windows que no responde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409'>¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/danan-archivos-windows-te-contamos-como-solucionarlo-1110409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/archivos-2573565.jpg' alt='¿Por qué se dañan los archivos de Windows? Te contamos cómo solucionarlo' />
     </a>
 </div>
 
