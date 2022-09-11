@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rubber-ducky-usb-hackers-1122505'>Rubber Ducky, el USB para hackers que toma el control del un PC y extrae datos y contraseñas en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rubber-ducky-usb-hackers-1122505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rubber-ducky-usb-hackers-toma-control-pc-extrae-datos-contrasenas-segundos-2809795.jpg' alt='Rubber Ducky, el USB para hackers que toma el control del un PC y extrae datos y contraseñas en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-te-sientes-triste-1122457'>Los mejores ejercicios si te sientes triste</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-te-sientes-triste-1122457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-te-sientes-tristes-2809667.jpg' alt='Los mejores ejercicios si te sientes triste' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-chromecast-barato-diseno-identico-actual-1122493'>Así sería el nuevo Chromecast barato, y su diseño es idéntico al actual</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/seria-nuevo-chromecast-barato-diseno-identico-actual-1122493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2105163.jpg' alt='Así sería el nuevo Chromecast barato, y su diseño es idéntico al actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935'>Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iphone-14-sin-stock-mejores-alternativas-1121935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2801863.jpg' alt='Ya no hay stock de iPhone 14, ¿dónde puedes comprar la mejor alternativa?' />
     </a>
 </div>
 
