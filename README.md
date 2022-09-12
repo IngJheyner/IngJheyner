@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2810403.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bicicleta-plegable-electrica-2810151.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817'>Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/apple-store.jpg' alt='Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815'>Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/assassins-creed-mirage-2810007.jpg' alt='Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813'>El telescopio James Webb fotografía su primer exoplaneta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/telescopio-james-webb-fotografia-primer-exoplaneta-1122813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/exoplaneta-satelites-galaxia.jpg' alt='El telescopio James Webb fotografía su primer exoplaneta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811'>Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/venga-chiste-rtx-3060-pone-venta-25-febrero-2232867.jpg' alt='Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC' />
     </a>
 </div>
 
