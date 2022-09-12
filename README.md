@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325'>Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311'>Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intermitentes-bicicleta-2811077.jpg' alt='Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279'>Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo</a></h4>
     <a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/opinion-motorola-edge-30-ultra-2811007.jpg' alt='Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225'>HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hp-nuevos-equipos-2810869.jpg' alt='HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más' />
     </a>
 </div>
 
