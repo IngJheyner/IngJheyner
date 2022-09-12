@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053'>China descubre en un nuevo mineral y un nuevo combustible... en la Luna</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='China descubre en un nuevo mineral y un nuevo combustible... en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-baterias-todos-iphone-14-hay-sorpresa-no-grande-todos-modelos-1123037'>Estas son las baterías de todos los iPhone 14 y hay sorpresa: no es más grande en todos los modelos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-baterias-todos-iphone-14-hay-sorpresa-no-grande-todos-modelos-1123037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-bateria-2810417.jpg' alt='Estas son las baterías de todos los iPhone 14 y hay sorpresa: no es más grande en todos los modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-grabar-pantalla-windows-mac-android-ios-1110283'>Cómo podemos grabar la pantalla en Windows, Mac, Android y iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-grabar-pantalla-windows-mac-android-ios-1110283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ordenador-windows-11-2787449.jpg' alt='Cómo podemos grabar la pantalla en Windows, Mac, Android y iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tarjetas-graficas-stock-bajando-precio-1122807'>Tarjetas gráficas en stock y bajando de precio: estas son las mejores GPU para tu PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tarjetas-graficas-stock-bajando-precio-1122807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg' alt='Tarjetas gráficas en stock y bajando de precio: estas son las mejores GPU para tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2810403.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bicicleta-plegable-electrica-2810151.jpg' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817'>Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/apple-store.jpg' alt='Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949'>Cortando el césped al estilo Star Wars: con rayos láser (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cortando-cesped-estilo-star-wars-rayos-laser-2808359.jpg' alt='Cortando el césped al estilo Star Wars: con rayos láser (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815'>Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/juega-gratis-un-mes-ubisoft-plus-1122815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/assassins-creed-mirage-2810007.jpg' alt='Juega gratis a todos los juegos de Ubisoft durante un mes en tu PC, en el móvil desde la nube... y en los televisores Samsung' />
     </a>
 </div>
 
