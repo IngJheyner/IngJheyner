@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/coffeeb-bolas-cafe-sin-capsulas-video-1123423'>CoffeeB, el café en cápsulas, sin cápsulas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/coffeeb-bolas-cafe-sin-capsulas-video-1123423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663009250775-2811275.jpg' alt='CoffeeB, el café en cápsulas, sin cápsulas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-copia-telegram-dentro-poco-podran-editar-mensajes-ya-enviados-1123419'>WhatsApp copia a Telegram y dentro de poco se podrán editar mensajes ya enviados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-copia-telegram-dentro-poco-podran-editar-mensajes-ya-enviados-1123419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp copia a Telegram y dentro de poco se podrán editar mensajes ya enviados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405'>Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391'>Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-2811221.jpg' alt='Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-borrar-historial-netflix-1123399'>Cómo ocultar a tus familiares lo que estás viendo en Netflix con un par de clics</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-borrar-historial-netflix-1123399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-ocultar-familiares-estas-viendo-netflix-par-clics-2811219.jpg' alt='Cómo ocultar a tus familiares lo que estás viendo en Netflix con un par de clics' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397'>Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?' />
     </a>
 </div>
 
