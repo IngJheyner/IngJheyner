@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205'>Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-meter-casa-alimentar-hidratar-mascotas-1123159'>Xiaomi se quiere meter en nuestra casa para alimentar e hidratar a nuestras mascotas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-meter-casa-alimentar-hidratar-mascotas-1123159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-pet-fountain-2810717.jpg' alt='Xiaomi se quiere meter en nuestra casa para alimentar e hidratar a nuestras mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualiza-tanto-windows-como-gestionarlo-manera-eficiente-1123179'>Por qué se actualiza tanto Windows y cómo gestionarlo de manera eficiente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualiza-tanto-windows-como-gestionarlo-manera-eficiente-1123179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/windows-update-2143755.jpg' alt='Por qué se actualiza tanto Windows y cómo gestionarlo de manera eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/stock-ps5-aliexpress-plaza-12-septiembre-2022-1123087'>Aquí hay stock de PS5 suficiente y con envío exprés desde España</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/stock-ps5-aliexpress-plaza-12-septiembre-2022-1123087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140441.jpg' alt='Aquí hay stock de PS5 suficiente y con envío exprés desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-carga-rapida-quien-es-quien-cual-tiene-tu-movil-305883'>Guía de carga rápida: quién es quién y cuál tiene tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-carga-rapida-quien-es-quien-cual-tiene-tu-movil-305883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cargar-moviles.jpg' alt='Guía de carga rápida: quién es quién y cuál tiene tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-moviles-gaming-xperia-stream-1123139'>Sony se sube al carro de los móviles gaming con el Xperia Stream</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-moviles-gaming-xperia-stream-1123139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sony-xperia-stream-2810601.jpg' alt='Sony se sube al carro de los móviles gaming con el Xperia Stream' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085'>Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-oculus-quest-2-2164781.jpg' alt='Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061'>Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ssd-patriot-2810445.jpg' alt='Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943'>Samsung Galaxy Watch 5 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg' alt='Samsung Galaxy Watch 5 Pro, análisis y opinión' />
     </a>
 </div>
 
