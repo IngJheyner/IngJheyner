@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-carga-rapida-quien-es-quien-cual-tiene-tu-movil-305883'>Guía de carga rápida: quién es quién y cuál tiene tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-carga-rapida-quien-es-quien-cual-tiene-tu-movil-305883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/cargar-moviles.jpg' alt='Guía de carga rápida: quién es quién y cuál tiene tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-moviles-gaming-xperia-stream-1123139'>Sony se sube al carro de los móviles gaming con el Xperia Stream</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sony-sube-carro-moviles-gaming-xperia-stream-1123139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sony-xperia-stream-2810601.jpg' alt='Sony se sube al carro de los móviles gaming con el Xperia Stream' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085'>Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-oculus-quest-2-2164781.jpg' alt='Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943'>Samsung Galaxy Watch 5 Pro, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg' alt='Samsung Galaxy Watch 5 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/drift-mandos-playstation-5-como-puedes-arreglarlo-1123069'>Qué es el drift en los mandos de PlayStation 5 y cómo puedes arreglarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/drift-mandos-playstation-5-como-puedes-arreglarlo-1123069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Qué es el drift en los mandos de PlayStation 5 y cómo puedes arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067'>Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos' />
     </a>
 </div>
 
