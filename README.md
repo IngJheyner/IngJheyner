@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405'>Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-oferta-1123353'>El iPhone 13 baja de precio en esta oferta, y tiene poco que envidiar al iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-oferta-1123353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492363.jpg' alt='El iPhone 13 baja de precio en esta oferta, y tiene poco que envidiar al iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391'>Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-2811221.jpg' alt='Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397'>Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-1123395'>Descubren en Alemania una especie desconocida de dinosaurio que pasó inadvertida durante 100 años en un museo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-1123395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-2811213.jpg' alt='Descubren en Alemania una especie desconocida de dinosaurio que pasó inadvertida durante 100 años en un museo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349'>Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg' alt='Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider' />
     </a>
 </div>
 
