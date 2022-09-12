@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479'>7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg' alt='7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mickey-mouse-2024--dominio-publico-mschf-920483'>En 2024 Mickey Mouse será de dominio público (en Estados Unidos), y ya están vendiendo figuras libres de derechos</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/mickey-mouse-2024--dominio-publico-mschf-920483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/mejores-cortos-mickey-mouse-1950713.jpg' alt='En 2024 Mickey Mouse será de dominio público (en Estados Unidos), y ya están vendiendo figuras libres de derechos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325'>Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295'>Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-procesador-6-ghz-ya-oficial-intel-han-dejado-entrever-overclock-8-ghz-1123269'>El primer procesador a 6 GHz ya es oficial, es Intel, y han dejado entrever un overclock a 8 GHz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-procesador-6-ghz-ya-oficial-intel-han-dejado-entrever-overclock-8-ghz-1123269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='El primer procesador a 6 GHz ya es oficial, es Intel, y han dejado entrever un overclock a 8 GHz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279'>Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo</a></h4>
-    <a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/opinion-motorola-edge-30-ultra-2811007.jpg' alt='Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo' />
     </a>
 </div>
 
