@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053'>China descubre en un nuevo mineral y un nuevo combustible... en la Luna</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061'>Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ssd-patriot-2810445.jpg' alt='Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943'>Samsung Galaxy Watch 5 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/samsung-galaxy-watch-5-pro-review-opinion-1121943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809259.jpg' alt='Samsung Galaxy Watch 5 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/drift-mandos-playstation-5-como-puedes-arreglarlo-1123069'>Qué es el drift en los mandos de PlayStation 5 y cómo puedes arreglarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/drift-mandos-playstation-5-como-puedes-arreglarlo-1123069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/playstation-5-2640605.jpg' alt='Qué es el drift en los mandos de PlayStation 5 y cómo puedes arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067'>Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053'>China descubre un nuevo mineral y un nuevo combustible... en la Luna</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='China descubre en un nuevo mineral y un nuevo combustible... en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-baterias-todos-iphone-14-hay-sorpresa-no-grande-todos-modelos-1123037'>Estas son las baterías de todos los iPhone 14 y hay sorpresa: no es más grande en todos los modelos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-baterias-todos-iphone-14-hay-sorpresa-no-grande-todos-modelos-1123037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-bateria-2810417.jpg' alt='Estas son las baterías de todos los iPhone 14 y hay sorpresa: no es más grande en todos los modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-grabar-pantalla-windows-mac-android-ios-1110283'>Cómo podemos grabar la pantalla en Windows, Mac, Android y iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-podemos-grabar-pantalla-windows-mac-android-ios-1110283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ordenador-windows-11-2787449.jpg' alt='Cómo podemos grabar la pantalla en Windows, Mac, Android y iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tarjetas-graficas-stock-bajando-precio-1122807'>Tarjetas gráficas en stock y bajando de precio: estas son las mejores GPU para tu PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tarjetas-graficas-stock-bajando-precio-1122807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg' alt='Tarjetas gráficas en stock y bajando de precio: estas son las mejores GPU para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019'>35 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/35-noticias-tecnologia-comenzar-manana-informado-ultimo-1123019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/35-noticias-tecnologia-comenzar-manana-informado-ultimo-2810403.jpg' alt='35 noticias de tecnología para comenzar la mañana informado de lo último' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='China descubre un nuevo mineral y un nuevo combustible... en la Luna' />
     </a>
 </div>
 
