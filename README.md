@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817'>Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/rusos-comprar-iphone-14-otros-productos-embargados-1122817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/apple-store.jpg' alt='Así se las apañan los rusos para comprar el iPhone 14 y otros productos embargados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949'>Cortando el césped al estilo Star Wars: con rayos láser (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/cortando-cesped-rayos-laser-video-1121949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cortando-cesped-estilo-star-wars-rayos-laser-2808359.jpg' alt='Cortando el césped al estilo Star Wars: con rayos láser (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811'>Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevas-tarjetas-rtx-3000-nvidia-baratas-competir-intel-arc-1122811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/venga-chiste-rtx-3060-pone-venta-25-febrero-2232867.jpg' alt='Se filtran nuevas tarjetas RTX 3000 de NVIDIA baratas, para competir con Intel ARC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803'>The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mandalorian-3-indiana-jones-5-percy-jackson-d23-expo-1122803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mandalorian-3-indiana-jones-5-percy-jackson-todo-ha-presentado-disney-marvel-lucasfilm-d23-expo-2810147.jpg' alt='The Mandalorian 3, Indiana Jones 5, Percy Jackson y más: todo lo que ha presentado Disney, Marvel y Lucasfilm es la D23 Expo' />
     </a>
 </div>
 
