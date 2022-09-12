@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349'>Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg' alt='Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479'>7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg' alt='7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311'>Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad</a></h4>
     <a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intermitentes-bicicleta-2811077.jpg' alt='Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295'>Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato' />
     </a>
 </div>
 
