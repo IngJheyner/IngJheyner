@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085'>Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/son-quest-pro-gafas-realidad-virtual-facebook-quieren-abrir-camino-metaverso-1123085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/analisis-oculus-quest-2-2164781.jpg' alt='Así son las Quest Pro, las gafas de realidad virtual de Facebook que quieren abrir el camino del metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061'>Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-patriot-oferta-amazon-12-septiembre-2022-1123061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ssd-patriot-2810445.jpg' alt='Resucita tu ordenador con un SSD increíblemente barato: cuesta solo 16 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067'>Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos</a></h4>
     <a href='https://computerhoy.com/noticias/hoy-podras-instalar-oficialmente-ios-16-watch-os-9-como-cuando-dispositivos-1123067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='Hoy podrás instalar oficialmente iOS 16 y Watch OS 9: cómo, cuándo y en qué dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053'>China descubre un nuevo mineral y un nuevo combustible... en la Luna</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/china-descubre-nuevo-mineral-nuevo-combustible-luna-1123053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/casi-puedes-tocar-luna-foto-detallada-jamas-capturada-2795707.jpg' alt='China descubre un nuevo mineral y un nuevo combustible... en la Luna' />
     </a>
 </div>
 
