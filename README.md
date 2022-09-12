@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279'>Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo</a></h4>
+    <a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/opinion-motorola-edge-30-ultra-2811007.jpg' alt='Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225'>HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hp-nuevos-equipos-2810869.jpg' alt='HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/silenciador-gamers-mordaza-inteligente-conexion-bluetooth-1123199'>El silenciador para gamers, bozal inteligente con conexión bluetooth</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/silenciador-gamers-mordaza-inteligente-conexion-bluetooth-1123199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silenciador-gamers-2810855.jpg' alt='El silenciador para gamers, bozal inteligente con conexión bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205'>Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi' />
     </a>
 </div>
 
