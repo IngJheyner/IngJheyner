@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311'>Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intermitentes-bicicleta-2811077.jpg' alt='Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295'>Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtrados-todos-detalles-nuevo-chromecast-hd-chromecast-barato-1123295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg' alt='Filtrados todos los detalles del nuevo Chromecast HD o Chromecast barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-procesador-6-ghz-ya-oficial-intel-han-dejado-entrever-overclock-8-ghz-1123269'>El primer procesador a 6 GHz ya es oficial, es Intel, y han dejado entrever un overclock a 8 GHz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-procesador-6-ghz-ya-oficial-intel-han-dejado-entrever-overclock-8-ghz-1123269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/intel-lanza-nueva-bestia-escritorio-16-nucleos-24-hilos-procesamiento-550-ghz-nuevo-i9-12900ks-2658547.jpg' alt='El primer procesador a 6 GHz ya es oficial, es Intel, y han dejado entrever un overclock a 8 GHz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279'>Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo</a></h4>
     <a href='https://computerhoy.com/noticias/primeras-impresiones-opinion-motorola-edge-30-ultra-fusion-neo-1123279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/opinion-motorola-edge-30-ultra-2811007.jpg' alt='Primeras impresiones del Motorola Edge 30 Ultra, Fusion y Neo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225'>HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hp-nuevos-equipos-2810869.jpg' alt='HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/mitica-riverside-decathlon-ahora-electrica-tiene-brutal-precio-oferta-1121385'>La mítica Riverside de Decathlon ahora es eléctrica y tiene un brutal precio en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/mitica-riverside-decathlon-ahora-electrica-tiene-brutal-precio-oferta-1121385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/riverside-ebike-2807531.jpg' alt='La mítica Riverside de Decathlon ahora es eléctrica y tiene un brutal precio en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/esperado-cambio-ethereum-amenaza-impactar-bitcoin-todo-ecosistema-criptomonedas-1123245'>El esperado cambio en Ethereum que amenaza con impactar en Bitcoin y todo el ecosistema de las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/esperado-cambio-ethereum-amenaza-impactar-bitcoin-todo-ecosistema-criptomonedas-1123245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg' alt='El esperado cambio en Ethereum que amenaza con impactar en Bitcoin y todo el ecosistema de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/silenciador-gamers-mordaza-inteligente-conexion-bluetooth-1123199'>El silenciador para gamers, bozal inteligente con conexión bluetooth</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/silenciador-gamers-mordaza-inteligente-conexion-bluetooth-1123199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silenciador-gamers-2810855.jpg' alt='El silenciador para gamers, bozal inteligente con conexión bluetooth' />
     </a>
 </div>
 
