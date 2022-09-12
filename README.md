@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225'>HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hp-acaba-presentar-nuevo-catalogo-cara-2023-ordenadores-pantallas-webcam-portatiles-mucho-1123225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hp-nuevos-equipos-2810869.jpg' alt='HP acaba de presentar su nuevo catálogo de cara a 2023: ordenadores, pantallas, webcam, portátiles y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/mitica-riverside-decathlon-ahora-electrica-tiene-brutal-precio-oferta-1121385'>La mítica Riverside de Decathlon ahora es eléctrica y tiene un brutal precio en oferta</a></h4>
     <a href='https://computerhoy.com/noticias/motor/mitica-riverside-decathlon-ahora-electrica-tiene-brutal-precio-oferta-1121385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/riverside-ebike-2807531.jpg' alt='La mítica Riverside de Decathlon ahora es eléctrica y tiene un brutal precio en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205'>Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-disponible-android-tenia-pasar-ha-hecho-movil-xiaomi-1123205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Dynamic Island disponible para Android, tenía que pasar y lo ha hecho en un móvil Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-meter-casa-alimentar-hidratar-mascotas-1123159'>Xiaomi se quiere meter en nuestra casa para alimentar e hidratar a nuestras mascotas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-meter-casa-alimentar-hidratar-mascotas-1123159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-pet-fountain-2810717.jpg' alt='Xiaomi se quiere meter en nuestra casa para alimentar e hidratar a nuestras mascotas' />
     </a>
 </div>
 
