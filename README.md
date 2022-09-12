@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391'>Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-1123391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-saca-pecho-muestra-flex-g-smartphone-tablet-pantalla-pliega-dos-veces-2811221.jpg' alt='Samsung saca pecho y muestra Flex G: un smartphone y una tablet con pantalla que se pliega dos veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-borrar-historial-netflix-1123399'>Cómo ocultar a tus familiares lo que estás viendo en Netflix con un par de clics</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-borrar-historial-netflix-1123399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-ocultar-familiares-estas-viendo-netflix-par-clics-2811219.jpg' alt='Cómo ocultar a tus familiares lo que estás viendo en Netflix con un par de clics' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397'>Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/millones-iphone-entran-riesgo-seguridad-partir-hoy-ellos-1123397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724101.jpg' alt='Millones de iPhone entran en riesgo de seguridad a partir de hoy: ¿es el tuyo uno de ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-1123395'>Descubren en Alemania una especie desconocida de dinosaurio que pasó inadvertida durante 100 años en un museo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-1123395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descubren-alemania-especie-desconocida-dinosaurio-paso-inadvertida-durante-100-anos-museo-2811213.jpg' alt='Descubren en Alemania una especie desconocida de dinosaurio que pasó inadvertida durante 100 años en un museo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349'>Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-1123349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtra-diseno-oneplus-11-pro-dejando-ver-regreso-alert-slider-2811183.jpg' alt='Se filtra el diseño del OnePlus 11 Pro dejando ver el regreso del Alert Slider' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479'>7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-chromebooks-baratos-nuevo-curso-escolar-1102479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg' alt='7 Chromebooks para todos los presupuestos que son perfectos para el nuevo curso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/mickey-mouse-2024--dominio-publico-mschf-920483'>En 2024 Mickey Mouse será de dominio público (en Estados Unidos), y ya están vendiendo figuras libres de derechos</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/mickey-mouse-2024--dominio-publico-mschf-920483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/mejores-cortos-mickey-mouse-1950713.jpg' alt='En 2024 Mickey Mouse será de dominio público (en Estados Unidos), y ya están vendiendo figuras libres de derechos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325'>Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hay-luz-final-tunel-estados-unidos-eliminaria-algunas-restricciones-huawei-1123325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-mate-50-mate-50-pro-conexion-satelite-snapdragon-8-gen-1-unas-camaras-prometen-2805287.jpg' alt='Hay luz al final del túnel: Estados Unidos eliminaría algunas restricciones a Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311'>Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/intermitentes-puedes-anadir-bici-patinete-mejorar-visibilidad-1123311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intermitentes-bicicleta-2811077.jpg' alt='Los intermitentes que puedes añadir a tu bici o patinete y para mejorar tu visibilidad' />
     </a>
 </div>
 
