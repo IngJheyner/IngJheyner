@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211'>Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-airpods-max-2810825.jpg' alt='Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815'>La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-2811881.jpg' alt='La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861'>Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/deciden-dar-vuelta-mundo-hijos-guarden-recuerdos-antes-perder-vista-enfermedad-1123831'>Deciden dar la vuelta al mundo para que sus hijos guarden recuerdos antes de perder la vista por una enfermedad</a></h4>
+    <a href='https://computerhoy.com/noticias/life/deciden-dar-vuelta-mundo-hijos-guarden-recuerdos-antes-perder-vista-enfermedad-1123831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg' alt='Deciden dar la vuelta al mundo para que sus hijos guarden recuerdos antes de perder la vista por una enfermedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795'>Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pixelbook.jpg' alt='Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coches-empiezan-levitar-autopista-bajan-radicalmente-consumo-ultima-investigacion-china-1123783'>Coches que empiezan a levitar en autopista y bajan radicalmente en consumo, la última investigación china</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coches-empiezan-levitar-autopista-bajan-radicalmente-consumo-ultima-investigacion-china-1123783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/infografia-coche-levitando-2810837.jpg' alt='Coches que empiezan a levitar en autopista y bajan radicalmente en consumo, la última investigación china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-pet-food-feeder-oferta-13-septiembre-2022-1123195'>¿Fan de Xiaomi y con mascota? Ya venden su comedero y bebedero inteligentes en Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-pet-food-feeder-oferta-13-septiembre-2022-1123195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-pet-food-feeder-2810751.jpg' alt='¿Fan de Xiaomi y con mascota? Ya venden su comedero y bebedero inteligentes en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765'>El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757'>El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nissan-leaf-2022-2625179.jpg' alt='El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías' />
     </a>
 </div>
 
