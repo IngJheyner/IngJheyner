@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937'>La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-2812069.jpg' alt='La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883'>Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero</a></h4>
+    <a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/energia-solar-2812061.jpg' alt='Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211'>Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-airpods-max-2810825.jpg' alt='Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861'>Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/deciden-dar-vuelta-mundo-hijos-guarden-recuerdos-antes-perder-vista-enfermedad-1123831'>Deciden dar la vuelta al mundo para que sus hijos guarden recuerdos antes de perder la vista por una enfermedad</a></h4>
-    <a href='https://computerhoy.com/noticias/life/deciden-dar-vuelta-mundo-hijos-guarden-recuerdos-antes-perder-vista-enfermedad-1123831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg' alt='Deciden dar la vuelta al mundo para que sus hijos guarden recuerdos antes de perder la vista por una enfermedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795'>Google cancela el PixelBook 2, el futuro de los Chromebooks en entredicho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pixelbook.jpg' alt='Google cancela el PixelBook 2, el futuro de los Chromebooks en entredicho' />
     </a>
 </div>
 
