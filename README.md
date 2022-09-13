@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729'>Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-2811703.jpg' alt='Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-modo-incognito-no-aparecer-online-1123735'>WhatsApp ya está probando un modo incógnito para no aparecer online</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-modo-incognito-no-aparecer-online-1123735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp ya está probando un modo incógnito para no aparecer online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695'>Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/super-mario-bros.jpg' alt='Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727'>Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg' alt='Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/reddit-guia-completa-tutorial-746485'>Qué es Reddit y cómo funciona: guía para convertirte en un experto del foro más importante del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/reddit-guia-completa-tutorial-746485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reddit-2519927.jpg' alt='Qué es Reddit y cómo funciona: guía para convertirte en un experto del foro más importante del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679'>Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-2520659.jpg' alt='Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia' />
     </a>
 </div>
 
