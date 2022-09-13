@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795'>Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pixelbook.jpg' alt='Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coches-empiezan-levitar-autopista-bajan-radicalmente-consumo-ultima-investigacion-china-1123783'>Coches que empiezan a levitar en autopista y bajan radicalmente en consumo, la última investigación china</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coches-empiezan-levitar-autopista-bajan-radicalmente-consumo-ultima-investigacion-china-1123783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/infografia-coche-levitando-2810837.jpg' alt='Coches que empiezan a levitar en autopista y bajan radicalmente en consumo, la última investigación china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-pet-food-feeder-oferta-13-septiembre-2022-1123195'>¿Fan de Xiaomi y con mascota? Ya venden su comedero y bebedero inteligentes en Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-smart-pet-food-feeder-oferta-13-septiembre-2022-1123195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-pet-food-feeder-2810751.jpg' alt='¿Fan de Xiaomi y con mascota? Ya venden su comedero y bebedero inteligentes en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765'>El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas</a></h4>
     <a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757'>El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías</a></h4>
     <a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nissan-leaf-2022-2625179.jpg' alt='El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729'>Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-2811703.jpg' alt='Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-modo-incognito-no-aparecer-online-1123735'>WhatsApp ya está probando un modo incógnito para no aparecer online</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-modo-incognito-no-aparecer-online-1123735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2731207.jpg' alt='WhatsApp ya está probando un modo incógnito para no aparecer online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695'>Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/super-mario-bros.jpg' alt='Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo' />
     </a>
 </div>
 
