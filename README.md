@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031'>Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-2812369.jpg' alt='Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051'>Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/creadores-dark-tienen-listo-nuevo-misterio-netflix-1899-2812361.jpg' alt='Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/planeta-vas-poder-celebrar-3000-cumpleanos-1124043'>En este planeta vas a poder celebrar más de 3000 cumpleaños</a></h4>
+    <a href='https://computerhoy.com/noticias/life/planeta-vas-poder-celebrar-3000-cumpleanos-1124043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/planetas-2812359.jpg' alt='En este planeta vas a poder celebrar más de 3000 cumpleaños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017'>Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg' alt='Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039'>Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724099.jpg' alt='Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-roban-contrasenas-teclado-sonido-teclas-1124033'>Cuidado si tienes este tipo de teclado: los hackers roban contraseñas por el sonido de sus teclas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hackers-roban-contrasenas-teclado-sonido-teclas-1124033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/teclado-mecanico-1842087.jpg' alt='Cuidado si tienes este tipo de teclado: los hackers roban contraseñas por el sonido de sus teclas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955'>Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-2812071.jpg' alt='Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951'>La OCU es clara: esta es la legislación para devolver productos comprados por internet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='La OCU es clara: esta es la legislación para devolver productos comprados por internet' />
     </a>
 </div>
 
