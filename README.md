@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951'>La OCU es clara: esta es la legislación para devolver productos comprados por internet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='La OCU es clara: esta es la legislación para devolver productos comprados por internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-poco-m4-pro-4g-2639447.jpg' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959'>Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524053.jpg' alt='Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883'>Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero</a></h4>
     <a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/energia-solar-2812061.jpg' alt='Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211'>Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-airpods-max-oferta-13-septiembre-2022-1123211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-airpods-max-2810825.jpg' alt='Los AirPods Max son 178 euros más baratos con esta ambiciosa rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815'>La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-2811881.jpg' alt='La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision' />
     </a>
 </div>
 
