@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067'>Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg' alt='Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047'>Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/haier-washpass-lavadora-inteligencia-artificial-detecta-pide-detergente-gracias-servicio-suscripcion-2812371.jpg' alt='Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045'>Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-2812373.jpg' alt='Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057'>El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779333.jpg' alt='El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031'>Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-2812369.jpg' alt='Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051'>Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/creadores-dark-tienen-listo-nuevo-misterio-netflix-1899-2812361.jpg' alt='Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899' />
     </a>
 </div>
 
