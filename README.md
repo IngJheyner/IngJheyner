@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017'>Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg' alt='Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039'>Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724099.jpg' alt='Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hackers-roban-contrasenas-teclado-sonido-teclas-1124033'>Cuidado si tienes este tipo de teclado: los hackers roban contraseñas por el sonido de sus teclas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hackers-roban-contrasenas-teclado-sonido-teclas-1124033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/teclado-mecanico-1842087.jpg' alt='Cuidado si tienes este tipo de teclado: los hackers roban contraseñas por el sonido de sus teclas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955'>Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-2812071.jpg' alt='Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951'>La OCU es clara: esta es la legislación para devolver productos comprados por internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='La OCU es clara: esta es la legislación para devolver productos comprados por internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121'>Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-moviles-pantalla-amoled-baratos-2019-522121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-poco-m4-pro-4g-2639447.jpg' alt='Los 5 móviles con pantalla AMOLED más baratos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959'>Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524053.jpg' alt='Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937'>La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-2812069.jpg' alt='La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13' />
     </a>
 </div>
 
