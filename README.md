@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765'>El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-gratuito-legal-ver-donde-estan-radares-velolaser-evitar-multas-1123765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radar-velolaser-2628189.jpg' alt='El mapa gratuito y legal en el que ver dónde están los radares Veloláser y evitar multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757'>El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/coche-nissan-leaf-electrico-ya-puede-usarse-dar-luz-casa-usando-baterias-1123757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nissan-leaf-2022-2625179.jpg' alt='El coche Nissan Leaf eléctrico ya puede usarse para dar luz a tu casa usando sus baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729'>Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-1123729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-promete-carga-optimizada-ios-16-usar-energia-renovable-como-funciona-2811703.jpg' alt='Apple promete una carga optimizada en iOS 16 para usar energía renovable, ¿cómo funciona?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695'>Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/super-mario-bros.jpg' alt='Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-13-septiembre-2022-1123145'>Ryzen 7 y SSD en la palma de la mano: este Mini PC con Windows es sorprendentemente potente y barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-13-septiembre-2022-1123145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chuwi-larkbox-x-2810607.jpg' alt='Ryzen 7 y SSD en la palma de la mano: este Mini PC con Windows es sorprendentemente potente y barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727'>Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg' alt='Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia' />
     </a>
 </div>
 
