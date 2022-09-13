@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679'>Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-2520659.jpg' alt='Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079'>Walkie talkies profesionales: estos son los mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/walkie-talkie-2810647.jpg' alt='Walkie talkies profesionales: estos son los mejores modelos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2811507.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655'>Por qué el dolor aumenta por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dolor-aumenta-noche-2811505.jpg' alt='Por qué el dolor aumenta por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-model-y-barato-llega-espana-entra-plan-moves-iii-1123653'>El Tesla Model Y más barato llega a España, y entra en el Plan Moves III</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-model-y-barato-llega-espana-entra-plan-moves-iii-1123653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/tesla-model-1855169.jpg' alt='El Tesla Model Y más barato llega a España, y entra en el Plan Moves III' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429'>La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg' alt='La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta' />
     </a>
 </div>
 
