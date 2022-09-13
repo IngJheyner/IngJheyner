@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959'>Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fin-sabras-airpods-son-oficiales-falsos-notificara-apple-1123959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524053.jpg' alt='Por fin sabrás si tus AirPods son oficiales o falsos: así lo notificará Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937'>La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-2812069.jpg' alt='La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815'>La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-1123815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/webcam-integrada-portatiles-futuro-4k-hdr-ia-mano-omnivision-2811881.jpg' alt='La webcam integrada de los portátiles del futuro, 4K, HDR y con IA de la mano de Omnivision' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861'>Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/intel-acaba-filtrar-querer-especificaciones-13a-gen-1123861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/intel-anuncia-chip-minar-criptomonedas-1000-veces-rapido-tarjetas-graficas-2614049.jpg' alt='Intel acaba de filtrar, sin querer, las especificaciones de su 13ª Gen' />
     </a>
 </div>
 
