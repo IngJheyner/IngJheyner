@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-model-y-barato-llega-espana-entra-plan-moves-iii-1123653'>El Tesla Model Y más barato llega a España, y entra en el Plan Moves III</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-model-y-barato-llega-espana-entra-plan-moves-iii-1123653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/tesla-model-1855169.jpg' alt='El Tesla Model Y más barato llega a España, y entra en el Plan Moves III' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429'>La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg' alt='La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405'>Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/android-13-permitira-llevar-control-exhaustivo-bateria-movil-1123405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-13-disponible-ya-algunos-google-pixel-antes-extenderse-todo-ecosistema-android-2786579.jpg' alt='Android 13 permitirá llevar un control más exhaustivo de la batería de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-oferta-1123353'>El iPhone 13 baja de precio en esta oferta, y tiene poco que envidiar al iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/iphone-13-baja-precio-oferta-1123353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-iphone-13-2492363.jpg' alt='El iPhone 13 baja de precio en esta oferta, y tiene poco que envidiar al iPhone 14' />
     </a>
 </div>
 
