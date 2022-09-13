@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955'>Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-1123955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantalla-mayor-resolucion-carga-usb-c-doble-almacenamiento-nuevo-kindle-2812071.jpg' alt='Pantalla con mayor resolución, carga por USB-C y el doble de almacenamiento para el nuevo Kindle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951'>La OCU es clara: esta es la legislación para devolver productos comprados por internet</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ocu-clara-legislacion-devolver-productos-comprados-internet-1123951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cajas-compras-online-2636119.jpg' alt='La OCU es clara: esta es la legislación para devolver productos comprados por internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937'>La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estrategia-apple-fracasa-reservas-iphone-14-plus-han-bajado-respecto-version-mini-iphone-13-1123937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-2812069.jpg' alt='La estrategia de Apple fracasa: las reservas del iPhone 14 Plus han bajado con respecto a la versión Mini de iPhone 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883'>Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero</a></h4>
-    <a href='https://computerhoy.com/noticias/life/espejos-espacio-apuntando-tierra-generar-energia-nueva-formula-ingeniero-1123883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/energia-solar-2812061.jpg' alt='Espejos en el espacio apuntando hacia la Tierra para generar energía es la nueva fórmula de este ingeniero' />
     </a>
 </div>
 
