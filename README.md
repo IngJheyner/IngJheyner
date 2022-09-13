@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695'>Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/super-mario-bros-cumple-37-anos-primer-juego-fontanero-popular-nintendo-1123695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/super-mario-bros.jpg' alt='Super Mario Bros cumple 37 años, el primer juego del fontanero más popular de Nintendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-13-septiembre-2022-1123145'>Ryzen 7 y SSD en la palma de la mano: este Mini PC con Windows es sorprendentemente potente y barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chuwi-larkbox-x-oferta-13-septiembre-2022-1123145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chuwi-larkbox-x-2810607.jpg' alt='Ryzen 7 y SSD en la palma de la mano: este Mini PC con Windows es sorprendentemente potente y barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727'>Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dia-programador-2022-significado-5-influyentes-programadores-historia-1123727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programacion-java-2789481.jpg' alt='Día del Programador 2022: significado y 5 de los más influyentes programadores de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/reddit-guia-completa-tutorial-746485'>Qué es Reddit y cómo funciona: guía para convertirte en un experto del foro más importante del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/reddit-guia-completa-tutorial-746485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/reddit-2519927.jpg' alt='Qué es Reddit y cómo funciona: guía para convertirte en un experto del foro más importante del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679'>Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/miniserie-hbo-max-da-sorpresa-arrasar-emmy-2022-donde-juego-calamar-ha-hecho-historia-1123679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-2520659.jpg' alt='Una miniserie de HBO Max da la sorpresa al arrasar en los Emmy 2022, donde El juego del calamar ha hecho historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079'>Walkie talkies profesionales: estos son los mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/walkie-talkie-2810647.jpg' alt='Walkie talkies profesionales: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2811507.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-deportes-extremos-aventura-senderismo-804179'>Estos son los mejores relojes inteligentes para deportes extremos, de aventura y senderismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-deportes-extremos-aventura-senderismo-804179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-montana-2810473.jpg' alt='Estos son los mejores relojes inteligentes para deportes extremos, de aventura y senderismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655'>Por qué el dolor aumenta por la noche</a></h4>
-    <a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dolor-aumenta-noche-2811505.jpg' alt='Por qué el dolor aumenta por la noche' />
     </a>
 </div>
 
