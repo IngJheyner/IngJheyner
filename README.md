@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795'>Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795'>Google cancela el PixelBook 2, el futuro de los Chromebooks en entredicho</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-cancela-pixelbook-2-futuro-chomebooks-entredicho-1123795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pixelbook.jpg' alt='Google cancela el PixelBook 2, el futuro de los Chomebooks en entredicho' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/pixelbook.jpg' alt='Google cancela el PixelBook 2, el futuro de los Chromebooks en entredicho' />
     </a>
 </div>
 
