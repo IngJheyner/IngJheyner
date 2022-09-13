@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657'>31 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/31-noticias-tecnologia-comenzar-manana-informado-ultimo-1123657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/31-noticias-tecnologia-comenzar-manana-informado-ultimo-2811507.jpg' alt='31 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-deportes-extremos-aventura-senderismo-804179'>Estos son los mejores relojes inteligentes para deportes extremos, de aventura y senderismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-deportes-extremos-aventura-senderismo-804179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-montana-2810473.jpg' alt='Estos son los mejores relojes inteligentes para deportes extremos, de aventura y senderismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655'>Por qué el dolor aumenta por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/life/por-que-dolor-aumenta-noche-1123655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dolor-aumenta-noche-2811505.jpg' alt='Por qué el dolor aumenta por la noche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429'>La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/zotac-rtx-4090-fotos-ocupa-4-slots-disipador-grande-1123429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-bestia-ocupa-4-slots-disipador-grande-tarjeta-2811281.jpg' alt='La RTX 4090, en fotos: una bestia que ocupa 4 slots y su disipador es más grande que la tarjeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/coffeeb-bolas-cafe-sin-capsulas-video-1123423'>CoffeeB, el café en cápsulas, sin cápsulas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/coffeeb-bolas-cafe-sin-capsulas-video-1123423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663009250775-2811275.jpg' alt='CoffeeB, el café en cápsulas, sin cápsulas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-copia-telegram-dentro-poco-podran-editar-mensajes-ya-enviados-1123419'>WhatsApp copia a Telegram y dentro de poco se podrán editar mensajes ya enviados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-copia-telegram-dentro-poco-podran-editar-mensajes-ya-enviados-1123419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2803159.jpg' alt='WhatsApp copia a Telegram y dentro de poco se podrán editar mensajes ya enviados' />
     </a>
 </div>
 
