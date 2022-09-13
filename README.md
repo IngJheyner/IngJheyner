@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045'>Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-2812373.jpg' alt='Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041'>Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057'>El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779333.jpg' alt='El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031'>Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-1124031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/consigue-instalar-android-auto-viejo-coche-tablet-antigua-ya-no-usaba-2812369.jpg' alt='Consigue instalar Android Auto en su viejo coche con una tablet antigua que ya no usaba' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051'>Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/1899-serie-netflix-1124051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/creadores-dark-tienen-listo-nuevo-misterio-netflix-1899-2812361.jpg' alt='Los creadores de Dark tienen listo un nuevo misterio para Netflix: 1899' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/planeta-vas-poder-celebrar-3000-cumpleanos-1124043'>En este planeta vas a poder celebrar más de 3000 cumpleaños</a></h4>
-    <a href='https://computerhoy.com/noticias/life/planeta-vas-poder-celebrar-3000-cumpleanos-1124043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/planetas-2812359.jpg' alt='En este planeta vas a poder celebrar más de 3000 cumpleaños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017'>Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ver-lista-iptv-7000-canales-gratis-todo-mundo-1124017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/iptv-mala-idea-utilizarlo_1.jpg' alt='Cómo ver la lista IPTV con 7.000 canales gratis de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039'>Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-ios-16-te-permitira-personalizar-actualizaciones-seguridad-eso-puede-ser-peligroso-1124039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ios-16-2724099.jpg' alt='Ahora iOS 16 te permitirá personalizar las actualizaciones de seguridad, y eso puede ser peligroso' />
     </a>
 </div>
 
