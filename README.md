@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409'>Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-beta-ya-permite-importacion-copias-seguridad-dispositivos-1124421'>WhatsApp beta ya permite la importación de copias de seguridad entre dispositivos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-beta-ya-permite-importacion-copias-seguridad-dispositivos-1124421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp beta ya permite la importación de copias de seguridad entre dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-cree-tener-solucion-problemas-contrasenas-netflix-1124415'>Adobe cree tener la solución a los problemas de contraseñas de Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-cree-tener-solucion-problemas-contrasenas-netflix-1124415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='Adobe cree tener la solución a los problemas de contraseñas de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/flickr-actualiza-dar-cabida-nueva-fotografia-1124391'>Flickr se actualiza para dar cabida a la nueva fotografía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/flickr-actualiza-dar-cabida-nueva-fotografia-1124391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/publicidad-flickr-periodico-irani.jpg' alt='Flickr se actualiza para dar cabida a la nueva fotografía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-14-septiembre-2022-1123693'>Este móvil de Google es el rival de los iPhone SE y los supera en muchas cosas, especialmente en el precio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6a-oferta-14-septiembre-2022-1123693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765527.jpg' alt='Este móvil de Google es el rival de los iPhone SE y los supera en muchas cosas, especialmente en el precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-integrara-proceso-3-nm-nuevos-m3-mac-a17-iphone-15-pro-1124369'>Apple integrará el proceso de 3 nm en sus nuevos M3 para los Mac y A17 para el iPhone 15 Pro </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-integrara-proceso-3-nm-nuevos-m3-mac-a17-iphone-15-pro-1124369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/chips-2643993.jpg' alt='Apple integrará el proceso de 3 nm en sus nuevos M3 para los Mac y A17 para el iPhone 15 Pro ' />
     </a>
 </div>
 
