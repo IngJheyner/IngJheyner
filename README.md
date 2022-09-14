@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759'>Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/create-potts-stylance-2811863.jpg' alt='Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162'>Consejos y trucos para comprar billetes de avión baratos para tus viajes</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/237554-consejos-trucos-comprar-billetes-avion-baratos.jpg' alt='Consejos y trucos para comprar billetes de avión baratos para tus viajes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541'>Matter está dejándose ver en Android, el estándar smarthome para todos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Matter está dejándose ver en Android, el estándar smarthome para todos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073'>Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg' alt='Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores' />
     </a>
 </div>
 
