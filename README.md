@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073'>Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg' alt='Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/cpu-iphone-14-pro-17-rapida-iphone-13-pro-antutu-1124537'>La CPU de los iPhone 14 Pro es un 17 % más rápida que la del iPhone 13 Pro, según AnTuTu</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/cpu-iphone-14-pro-17-rapida-iphone-13-pro-antutu-1124537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-2807689.jpg' alt='La CPU de los iPhone 14 Pro es un 17 % más rápida que la del iPhone 13 Pro, según AnTuTu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-marca-hito-conectividad-6g-velocidades-1-terabit-s-mucho-cerca-1124515'>LG marca hito de conectividad 6G, velocidades de hasta 1 terabit/s mucho más cerca</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/lg-marca-hito-conectividad-6g-velocidades-1-terabit-s-mucho-cerca-1124515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/conexion-2813111.jpg' alt='LG marca hito de conectividad 6G, velocidades de hasta 1 terabit/s mucho más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-2809559.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473'>Los SSD son mucho más fiables que los discos duros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Los SSD son mucho más fiables que los discos duros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-algunos-rumores-ya-circulan-nueva-serie-oppo-find-x6-1124481'>Estos son algunos de los rumores que ya circulan sobre la nueva serie OPPO Find X6</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-algunos-rumores-ya-circulan-nueva-serie-oppo-find-x6-1124481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-oppo-find-x5-lite-2693669.jpg' alt='Estos son algunos de los rumores que ya circulan sobre la nueva serie OPPO Find X6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-31-nuevos-emojis-unicode-llegaran-android-estan-pendientes-aprobacion-1124445'>Estos son los 31 nuevos emojis Unicode que llegarán a Android, están pendientes de aprobación</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-31-nuevos-emojis-unicode-llegaran-android-estan-pendientes-aprobacion-1124445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emoji-2812905.jpg' alt='Estos son los 31 nuevos emojis Unicode que llegarán a Android, están pendientes de aprobación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725'>Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€</a></h4>
-    <a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-gaming-ikea-utespelare-2811615.jpg' alt='Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€' />
     </a>
 </div>
 
