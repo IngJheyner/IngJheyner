@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663'>Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg' alt='Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-pro-5g-8-gb-ram-a-mitad-precio-1124653'>Atento a este chollo: OnePlus 9 Pro 5G con 8 GB de RAM baja un 50%, se queda en solo 455 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-pro-5g-8-gb-ram-a-mitad-precio-1124653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279801.jpg' alt='Atento a este chollo: OnePlus 9 Pro 5G con 8 GB de RAM baja un 50%, se queda en solo 455 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-discovery-fusion-despidos-1124645'>Warner sigue reestructurándose en una de sus fusiones más complicadas</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/warner-discovery-fusion-despidos-1124645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/warner-sigue-reestructurandose-fusiones-complicadas-2813495.jpg' alt='Warner sigue reestructurándose en una de sus fusiones más complicadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169'>El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620743.jpg' alt='El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max' />
     </a>
 </div>
 
