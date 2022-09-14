@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169'>El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-s22-ultra-5g-oferta-9-septiembre-2022-1120169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620743.jpg' alt='El móvil más potente de Samsung tiene casi 300 euros de descuento y ya es mucho más barato que el iPhone 13 Pro Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/conoce-significado-nuevas-lineas-blancas-azules-limitan-aparcamientos-1124587'>Conoce el significado de las nuevas líneas blancas y azules que limitan los aparcamientos</a></h4>
     <a href='https://computerhoy.com/noticias/motor/conoce-significado-nuevas-lineas-blancas-azules-limitan-aparcamientos-1124587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/significan-nuevas-lineas-azules-aparcamientos-calles-madrid-2813299.jpg' alt='Conoce el significado de las nuevas líneas blancas y azules que limitan los aparcamientos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162'>Consejos y trucos para comprar billetes de avión baratos para tus viajes</a></h4>
     <a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/237554-consejos-trucos-comprar-billetes-avion-baratos.jpg' alt='Consejos y trucos para comprar billetes de avión baratos para tus viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575'>Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/usa-camaras-vigilancia-ia-logra-identificar-influencers-instagram-2813257.jpg' alt='Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad' />
     </a>
 </div>
 
