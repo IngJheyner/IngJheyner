@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541'>Matter está dejándose ver en Android, el estándar smarthome para todos </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Matter está dejándose ver en Android, el estándar smarthome para todos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073'>Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg' alt='Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-2809559.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473'>Los SSD son mucho más fiables que los discos duros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Los SSD son mucho más fiables que los discos duros' />
     </a>
 </div>
 
