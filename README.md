@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/conoce-significado-nuevas-lineas-blancas-azules-limitan-aparcamientos-1124587'>Conoce el significado de las nuevas líneas blancas y azules que limitan los aparcamientos</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/conoce-significado-nuevas-lineas-blancas-azules-limitan-aparcamientos-1124587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/significan-nuevas-lineas-azules-aparcamientos-calles-madrid-2813299.jpg' alt='Conoce el significado de las nuevas líneas blancas y azules que limitan los aparcamientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-pixel-gama-alta-formato-diferente-1124621'>Google estaría trabajando en un nuevo Pixel de gama alta con un formato diferente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-estaria-trabajando-nuevo-pixel-gama-alta-formato-diferente-1124621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604437.jpg' alt='Google estaría trabajando en un nuevo Pixel de gama alta con un formato diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759'>Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-cafeteras-capsulas-nespresso-1123759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/create-potts-stylance-2811863.jpg' alt='Cafeteras de cápsulas Nespresso: estas son las mejores que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575'>Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/usa-camaras-vigilancia-ia-logra-identificar-influencers-instagram-2813257.jpg' alt='Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/webcam-brio-5000-auriculares-zone-vibe-son-perifericos-logitech-vuelta-trabajo-1124557'>Webcam Brio 500 y auriculares Zone Vibe: así son los periféricos de Logitech para la vuelta al trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/webcam-brio-5000-auriculares-zone-vibe-son-perifericos-logitech-vuelta-trabajo-1124557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/webcam-brio-5000-auriculares-zone-vibe-2813227.jpg' alt='Webcam Brio 500 y auriculares Zone Vibe: así son los periféricos de Logitech para la vuelta al trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541'>Matter está dejándose ver en Android, el estándar smarthome para todos </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Matter está dejándose ver en Android, el estándar smarthome para todos ' />
     </a>
 </div>
 
