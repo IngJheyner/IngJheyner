@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-2809559.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473'>Los SSD son mucho más fiables que los discos duros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ssd-son-mucho-fiables-discos-duros-1124473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/western-digital-sn750-ssd-2536571.jpg' alt='Los SSD son mucho más fiables que los discos duros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-algunos-rumores-ya-circulan-nueva-serie-oppo-find-x6-1124481'>Estos son algunos de los rumores que ya circulan sobre la nueva serie OPPO Find X6</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-algunos-rumores-ya-circulan-nueva-serie-oppo-find-x6-1124481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-oppo-find-x5-lite-2693669.jpg' alt='Estos son algunos de los rumores que ya circulan sobre la nueva serie OPPO Find X6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-son-31-nuevos-emojis-unicode-llegaran-android-estan-pendientes-aprobacion-1124445'>Estos son los 31 nuevos emojis Unicode que llegarán a Android, están pendientes de aprobación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-son-31-nuevos-emojis-unicode-llegaran-android-estan-pendientes-aprobacion-1124445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emoji-2812905.jpg' alt='Estos son los 31 nuevos emojis Unicode que llegarán a Android, están pendientes de aprobación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725'>Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€</a></h4>
     <a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-gaming-ikea-utespelare-2811615.jpg' alt='Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409'>Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-beta-ya-permite-importacion-copias-seguridad-dispositivos-1124421'>WhatsApp beta ya permite la importación de copias de seguridad entre dispositivos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-beta-ya-permite-importacion-copias-seguridad-dispositivos-1124421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='WhatsApp beta ya permite la importación de copias de seguridad entre dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-cree-tener-solucion-problemas-contrasenas-netflix-1124415'>Adobe cree tener la solución a los problemas de contraseñas de Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adobe-cree-tener-solucion-problemas-contrasenas-netflix-1124415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/netflix-2746137.jpg' alt='Adobe cree tener la solución a los problemas de contraseñas de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/puedes-explorar-espacio-sofa-gracias-nasa-1124377'>Así puedes explorar el espacio desde tu sofá gracias a la NASA</a></h4>
-    <a href='https://computerhoy.com/noticias/life/puedes-explorar-espacio-sofa-gracias-nasa-1124377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-explorar-espacio-sofa-gracias-nasa-2812747.jpg' alt='Así puedes explorar el espacio desde tu sofá gracias a la NASA' />
     </a>
 </div>
 
