@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1124321'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1124321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2812683.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/comprar-iphone-14-100-euros-descuento-1123731'>Cómo conseguir el iPhone 14 más barato con 100 euros de descuento desde ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/comprar-iphone-14-100-euros-descuento-1123731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='Cómo conseguir el iPhone 14 más barato con 100 euros de descuento desde ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/convierte-planta-algodon-camiseta-video-1124319'>Así se convierte una planta de algodón en una camiseta (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/convierte-planta-algodon-camiseta-video-1124319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663114272302-2812681.jpg' alt='Así se convierte una planta de algodón en una camiseta (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047'>Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/haier-washpass-lavadora-inteligencia-artificial-detecta-pide-detergente-gracias-servicio-suscripcion-2812371.jpg' alt='Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045'>Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-1124045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynabook-satellite-pro-c30-k-portatil-modulo-cifrado-pantalla-13-pulgadas-2812373.jpg' alt='Dynabook Satellite Pro C30-K, así es el portátil con módulo de cifrado y pantalla de 13 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041'>Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google' />
     </a>
 </div>
 
