@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejor-momento-comprar-radiadores-baratos-1123271'>Se acerca el otoño y es el mejor momento para comprar estos radiadores antes de que suban de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejor-momento-comprar-radiadores-baratos-1123271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/xiaomi-mi-smart-space-heater-s-2153819.jpg' alt='Se acerca el otoño y es el mejor momento para comprar estos radiadores antes de que suban de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1124321'>28 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/28-noticias-tecnologia-comenzar-manana-informado-ultimo-1124321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/28-noticias-tecnologia-comenzar-manana-informado-ultimo-2812683.jpg' alt='28 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067'>Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg' alt='Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047'>Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/haier-washpass-lavadora-inteligente-detecta-pide-detergente-gracias-servicio-suscripcion-1124047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/haier-washpass-lavadora-inteligencia-artificial-detecta-pide-detergente-gracias-servicio-suscripcion-2812371.jpg' alt='Haier Washpass: una lavadora inteligente que detecta y pide detergente gracias a su servicio de suscripción' />
     </a>
 </div>
 
