@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725'>Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€</a></h4>
+    <a href='https://computerhoy.com/noticias/life/silla-gaming-ikea-utespelare-oferta-14-septiembre-2022-1123725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-gaming-ikea-utespelare-2811615.jpg' alt='Esta silla gaming de IKEA es más barata que otras alternativas, sobre todo porque está rebajada en 30€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409'>Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hit-island-primer-juego-dynamic-island-iphone-14-pro-pro-max-1124409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806909.jpg' alt='Hit the Island: así es el primer juego de Dynamic Island en los iPhone 14 Pro y Pro Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/puedes-explorar-espacio-sofa-gracias-nasa-1124377'>Así puedes explorar el espacio desde tu sofá gracias a la NASA</a></h4>
     <a href='https://computerhoy.com/noticias/life/puedes-explorar-espacio-sofa-gracias-nasa-1124377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-explorar-espacio-sofa-gracias-nasa-2812747.jpg' alt='Así puedes explorar el espacio desde tu sofá gracias a la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/flickr-actualiza-dar-cabida-nueva-fotografia-1124391'>Flickr se actualiza para dar cabida a la nueva fotografía</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/flickr-actualiza-dar-cabida-nueva-fotografia-1124391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/publicidad-flickr-periodico-irani.jpg' alt='Flickr se actualiza para dar cabida a la nueva fotografía' />
     </a>
 </div>
 
