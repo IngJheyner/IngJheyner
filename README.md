@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162'>Consejos y trucos para comprar billetes de avión baratos para tus viajes</a></h4>
+    <a href='https://computerhoy.com/noticias/life/consejos-trucos-comprar-billetes-avion-baratos-62162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/237554-consejos-trucos-comprar-billetes-avion-baratos.jpg' alt='Consejos y trucos para comprar billetes de avión baratos para tus viajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575'>Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/alguien-logra-identificar-momentos-exactos-fotos-influencers-gracias-ia-camaras-seguridad-1124575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/usa-camaras-vigilancia-ia-logra-identificar-influencers-instagram-2813257.jpg' alt='Alguien logra identificar los momentos exactos de las fotos de influencers gracias a IA y cámaras de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/webcam-brio-5000-auriculares-zone-vibe-son-perifericos-logitech-vuelta-trabajo-1124557'>Webcam Brio 500 y auriculares Zone Vibe: así son los periféricos de Logitech para la vuelta al trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/webcam-brio-5000-auriculares-zone-vibe-son-perifericos-logitech-vuelta-trabajo-1124557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/webcam-brio-5000-auriculares-zone-vibe-2813227.jpg' alt='Webcam Brio 500 y auriculares Zone Vibe: así son los periféricos de Logitech para la vuelta al trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541'>Matter está dejándose ver en Android, el estándar smarthome para todos </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/matter-dejandose-ver-android-estandar-smarthome-todos-1124541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/smart-home-ikea-2598701.jpg' alt='Matter está dejándose ver en Android, el estándar smarthome para todos ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073'>Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-black-edicion-creadores-1124073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg' alt='Desembarco de cámaras de acción: GoPro presenta las nuevas HERO11 Black, HERO11 Black Mini y HERO11 Black Edición para creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/cpu-iphone-14-pro-17-rapida-iphone-13-pro-antutu-1124537'>La CPU de los iPhone 14 Pro es un 17 % más rápida que la del iPhone 13 Pro, según AnTuTu</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/cpu-iphone-14-pro-17-rapida-iphone-13-pro-antutu-1124537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-vs-iphone-13-camara-bateria-precio-principales-diferencias-merece-pena-cambio-2807689.jpg' alt='La CPU de los iPhone 14 Pro es un 17 % más rápida que la del iPhone 13 Pro, según AnTuTu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/lg-marca-hito-conectividad-6g-velocidades-1-terabit-s-mucho-cerca-1124515'>LG marca hito de conectividad 6G, velocidades de hasta 1 terabit/s mucho más cerca</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/lg-marca-hito-conectividad-6g-velocidades-1-terabit-s-mucho-cerca-1124515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/conexion-2813111.jpg' alt='LG marca hito de conectividad 6G, velocidades de hasta 1 terabit/s mucho más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-2809559.jpg' alt='Los 5 mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
     </a>
 </div>
 
