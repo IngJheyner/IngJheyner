@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/convierte-planta-algodon-camiseta-video-1124319'>Así se convierte una planta de algodón en una camiseta (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/convierte-planta-algodon-camiseta-video-1124319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663114272302-2812681.jpg' alt='Así se convierte una planta de algodón en una camiseta (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067'>Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/phishing-steam-browser-in-the-browser-1124067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg' alt='Con la peligrosa técnica browser-in-the-browser están robado cuentas de Steam que valen más de 300.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041'>Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hombre-capaz-encontrar-cualquier-lugar-google-maps-rapido-propio-google-1124041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/google-maps-2757219.jpg' alt='Este hombre es capaz de encontrar cualquier lugar en Google Maps más rápido que el propio Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057'>El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/macbook-air-chip-m2-512-gb-almacenamiento-200-euros-descuento-1124057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779333.jpg' alt='El nuevo MacBook Air con chip M2 y 512 GB de almacenamiento, rebajado 224 euros' />
     </a>
 </div>
 
