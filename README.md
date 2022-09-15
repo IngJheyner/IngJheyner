@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263'>Shiba Inu en peligro a punto de alcanzar su punto de no retorno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Shiba Inu en peligro a punto de alcanzar su punto de no retorno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-demasiado-barata-ofrece-ceo-disney-subida-precios-1125283'>Disney+ es demasiado barata para lo que ofrece y debería subir de precio, avisa el CEO de Disney</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-demasiado-barata-ofrece-ceo-disney-subida-precios-1125283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-demasiado-barata-ofrece-deberia-encarecerse-avisa-ceo-disney-2814735.jpg' alt='Disney+ es demasiado barata para lo que ofrece y debería subir de precio, avisa el CEO de Disney' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277'>La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241'>Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-2814643.jpg' alt='Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-amazon-kindle-1124479'>Amazon Kindle ahora es más caro, ¿qué alternativa es la mejor?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-amazon-kindle-1124479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg' alt='Amazon Kindle ahora es más caro, ¿qué alternativa es la mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181'>Cómo ordenar alfabéticamente listas y párrafos en Google Docs</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo ordenar alfabéticamente listas y párrafos en Google Docs' />
     </a>
 </div>
 
