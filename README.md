@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-disponible-adaptacion-netflix-videojuego-anime-cyberpunk-100-rotten-tomatoes-1125047'>Ya disponible la adaptación de Netflix del videojuego de anime Cyberpunk, un 100% en Rotten Tomatoes</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/ya-disponible-adaptacion-netflix-videojuego-anime-cyberpunk-100-rotten-tomatoes-1125047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cyberpunk-2814105.jpg' alt='Ya disponible la adaptación de Netflix del videojuego de anime Cyberpunk, un 100% en Rotten Tomatoes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/necesitaras-nueva-caja-nuevas-rtx-4090-nvidia-cuatro-slots-modelo-lenovo-1125079'>Necesitarás una nueva caja para las nuevas RTX 4090 de NVIDIA, cuatro slots para el modelo de Lenovo</a></h4>
+    <a href='https://computerhoy.com/noticias/necesitaras-nueva-caja-nuevas-rtx-4090-nvidia-cuatro-slots-modelo-lenovo-1125079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378471.jpg' alt='Necesitarás una nueva caja para las nuevas RTX 4090 de NVIDIA, cuatro slots para el modelo de Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/python-curso-online-georgia-tech-1120025'>Python desde cero: este curso online de Georgia Tech te meterá en el sector en solo cinco meses, y con certificado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/python-curso-online-georgia-tech-1120025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/python-lenguaje-programacion-2587785.jpg' alt='Python desde cero: este curso online de Georgia Tech te meterá en el sector en solo cinco meses, y con certificado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-1125035'>La red Ethereum ya ha dejado de gastar tanta energía como Chile</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-1125035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-2814101.jpg' alt='La red Ethereum ya ha dejado de gastar tanta energía como Chile' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ethereum-2814151.jpg' alt='La red Ethereum ya ha dejado de gastar tanta energía como Chile' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/whatsapp-dara-giro-inesperado-proximo-proyecto-cortometraje-12-minutos-1125007'>WhatsApp dará un giro inesperado con su próximo proyecto: un cortometraje de 12 minutos</a></h4>
     <a href='https://computerhoy.com/noticias/whatsapp-dara-giro-inesperado-proximo-proyecto-cortometraje-12-minutos-1125007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2814053.jpg' alt='WhatsApp dará un giro inesperado con su próximo proyecto: un cortometraje de 12 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/antutu-guia-entender-todas-puntuaciones-benchmark-ofrece-aplicacion-369129'> AnTuTu: guía para entender todas las puntuaciones de benchmark que ofrece esta aplicación</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/antutu-guia-entender-todas-puntuaciones-benchmark-ofrece-aplicacion-369129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/_DSC0853.jpg' alt=' AnTuTu: guía para entender todas las puntuaciones de benchmark que ofrece esta aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-estacion-internacional-expulsa-basura-queme-atmosfera-1124951'>Así es como la Estación Internacional expulsa la basura para que se queme en la atmósfera</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-estacion-internacional-expulsa-basura-queme-atmosfera-1124951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-estacion-internacional-expulsa-basura-queme-atmosfera-2813863.jpg' alt='Así es como la Estación Internacional expulsa la basura para que se queme en la atmósfera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/probadores-virtuales-nuevas-aplicaciones-te-dejan-ver-como-te-quedara-prenda-tener-ir-tienda-ropa-1124967'>Probadores virtuales, aplicaciones que te muestran cómo te quedará una prenda sin tener que ir a la tienda</a></h4>
-    <a href='https://computerhoy.com/noticias/probadores-virtuales-nuevas-aplicaciones-te-dejan-ver-como-te-quedara-prenda-tener-ir-tienda-ropa-1124967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comprar-ropa-2269939.jpg' alt='Probadores virtuales, aplicaciones que te muestran cómo te quedará una prenda sin tener que ir a la tienda' />
     </a>
 </div>
 
