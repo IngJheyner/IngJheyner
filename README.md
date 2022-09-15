@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295'>Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-46-aspiradora-inalambrica-xiaomi-2814767.jpg' alt='Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263'>Shiba Inu en peligro a punto de alcanzar su punto de no retorno</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Shiba Inu en peligro a punto de alcanzar su punto de no retorno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275'>Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241'>Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-2814643.jpg' alt='Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?' />
     </a>
 </div>
 
