@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-625-computer-hoy-1118329'>¡Ya está en tu quiosco el número 625 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-625-computer-hoy-1118329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/computer-hoy-625-2801823.jpg' alt='¡Ya está en tu quiosco el número 625 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aire-cosori-1123227'>Freidoras de aire Cosori: estos son sus mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aire-cosori-1123227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aceite-xxl-cosori-dualblaze-2810865.jpg' alt='Freidoras de aire Cosori: estos son sus mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901'>Los mejores ejercicios si estás furioso</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-cuando-estas-furioso-2813739.jpg' alt='Los mejores ejercicios si estás furioso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899'>Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663201092278-2813735.jpg' alt='Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)' />
     </a>
 </div>
 
