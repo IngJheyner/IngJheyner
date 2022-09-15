@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295'>Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-46-aspiradora-inalambrica-xiaomi-2814767.jpg' alt='Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277'>La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275'>Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas' />
     </a>
 </div>
 
