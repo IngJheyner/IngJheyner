@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vpn-rapidas-oferta-menos-5-euros-mes-1119463'>Una de las VPN más rápidas está en oferta por menos de 5€ al mes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vpn-rapidas-oferta-menos-5-euros-mes-1119463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg' alt='Una de las VPN más rápidas está en oferta por menos de 5€ al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hoy-cumple-25-anos-googlecom-nacimiento-gigante-tech-1124929'>Hoy cumple 25 años google.com, el nacimiento de un gigante tech</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hoy-cumple-25-anos-googlecom-nacimiento-gigante-tech-1124929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2813761.jpg' alt='Hoy cumple 25 años google.com, el nacimiento de un gigante tech' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-625-computer-hoy-1118329'>¡Ya está en tu quiosco el número 625 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-quiosco-numero-625-computer-hoy-1118329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/computer-hoy-625-2801823.jpg' alt='¡Ya está en tu quiosco el número 625 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2813743.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867'>Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg' alt='Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901'>Los mejores ejercicios si estás furioso</a></h4>
-    <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-cuando-estas-furioso-2813739.jpg' alt='Los mejores ejercicios si estás furioso' />
     </a>
 </div>
 
