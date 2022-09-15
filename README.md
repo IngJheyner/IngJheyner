@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185'>Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/call-duty-warzone-mobile-2814435.jpg' alt='Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143'>Cuánto tiempo dura la anestesia del dentista</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dentista-2814427.jpg' alt='Cuánto tiempo dura la anestesia del dentista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113'>El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817'>Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-m40-pro-2555317.jpg' alt='Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar' />
     </a>
 </div>
 
