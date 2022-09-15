@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277'>La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275'>Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/luces-v-16-dgt-todas-funciones-obligatorias-llegan-tiendas-1125275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dispositivo-v16-2390151.jpg' alt='Las luces V-16 de la DGT con todas las funciones obligatorias llegan a las tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241'>Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-2814643.jpg' alt='Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181'>Cómo ordenar alfabéticamente listas y párrafos en Google Docs</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo ordenar alfabéticamente listas y párrafos en Google Docs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185'>Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/call-duty-warzone-mobile-2814435.jpg' alt='Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143'>Cuánto tiempo dura la anestesia del dentista</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dentista-2814427.jpg' alt='Cuánto tiempo dura la anestesia del dentista' />
     </a>
 </div>
 
