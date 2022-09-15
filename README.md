@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2813743.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867'>Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/topes-gama-mas-baratos-iphone-14-pro-max-1123867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620965.jpg' alt='Topes de gama que son más baratos que el iPhone 14 Pro Max y que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901'>Los mejores ejercicios si estás furioso</a></h4>
     <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-cuando-estas-furioso-2813739.jpg' alt='Los mejores ejercicios si estás furioso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663'>Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg' alt='Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-pro-5g-8-gb-ram-a-mitad-precio-1124653'>Atento a este chollo: OnePlus 9 Pro 5G con 8 GB de RAM baja un 50%, se queda en solo 455 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oneplus-9-pro-5g-8-gb-ram-a-mitad-precio-1124653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-analisis-opinion-2279801.jpg' alt='Atento a este chollo: OnePlus 9 Pro 5G con 8 GB de RAM baja un 50%, se queda en solo 455 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-bebe-deje-llorar-1124625'>Cómo conseguir que un bebé deje de llorar, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-conseguir-bebe-deje-llorar-1124625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-conseguir-bebe-deje-llorar-ciencia-2813341.jpg' alt='Cómo conseguir que un bebé deje de llorar, según la ciencia' />
     </a>
 </div>
 
