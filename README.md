@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143'>Cuánto tiempo dura la anestesia del dentista</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dentista-2814427.jpg' alt='Cuánto tiempo dura la anestesia del dentista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-vivo-x-fold-nuevas-especificaciones-plegable-chino-1125157'>Ya sabemos cómo será el Vivo X Fold+: nuevas especificaciones del plegable chino</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-vivo-x-fold-nuevas-especificaciones-plegable-chino-1125157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='Ya sabemos cómo será el Vivo X Fold+: nuevas especificaciones del plegable chino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131'>Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817'>Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-m40-pro-2555317.jpg' alt='Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/6-alternativas-hacer-ejercicio-casa-lloviendo-quieres-ponerte-forma-1125103'>6 alternativas para hacer ejercicio en casa si está lloviendo y quieres ponerte en forma</a></h4>
-    <a href='https://computerhoy.com/noticias/life/6-alternativas-hacer-ejercicio-casa-lloviendo-quieres-ponerte-forma-1125103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/deporte-casa-2128835.jpg' alt='6 alternativas para hacer ejercicio en casa si está lloviendo y quieres ponerte en forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/6-originales-fondos-pantalla-iphone-always-display-ios-16-1125081'>6 originales fondos de pantalla para iPhone y el Always-on Display de iOS 16</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/6-originales-fondos-pantalla-iphone-always-display-ios-16-1125081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fondos-pantalla-2814205.jpg' alt='6 originales fondos de pantalla para iPhone y el Always-on Display de iOS 16' />
     </a>
 </div>
 
