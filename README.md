@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-1125035'>La red Ethereum ya ha dejado de gastar tanta energía como Chile</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-1125035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/red-ethereum-ya-ha-dejado-gastar-tanta-energia-como-chile-2814101.jpg' alt='La red Ethereum ya ha dejado de gastar tanta energía como Chile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/whatsapp-dara-giro-inesperado-proximo-proyecto-cortometraje-12-minutos-1125007'>WhatsApp dará un giro inesperado con su próximo proyecto: un cortometraje de 12 minutos</a></h4>
+    <a href='https://computerhoy.com/noticias/whatsapp-dara-giro-inesperado-proximo-proyecto-cortometraje-12-minutos-1125007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2814053.jpg' alt='WhatsApp dará un giro inesperado con su próximo proyecto: un cortometraje de 12 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/antutu-guia-entender-todas-puntuaciones-benchmark-ofrece-aplicacion-369129'> AnTuTu: guía para entender todas las puntuaciones de benchmark que ofrece esta aplicación</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/antutu-guia-entender-todas-puntuaciones-benchmark-ofrece-aplicacion-369129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/_DSC0853.jpg' alt=' AnTuTu: guía para entender todas las puntuaciones de benchmark que ofrece esta aplicación' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/probadores-virtuales-nuevas-aplicaciones-te-dejan-ver-como-te-quedara-prenda-tener-ir-tienda-ropa-1124967'>Probadores virtuales, las nuevas aplicaciones que te dejan ver cómo te quedará una prenda sin tener que ir a la tienda de ropa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/probadores-virtuales-nuevas-aplicaciones-te-dejan-ver-como-te-quedara-prenda-tener-ir-tienda-ropa-1124967'>Probadores virtuales, aplicaciones que te muestran cómo te quedará una prenda sin tener que ir a la tienda</a></h4>
     <a href='https://computerhoy.com/noticias/probadores-virtuales-nuevas-aplicaciones-te-dejan-ver-como-te-quedara-prenda-tener-ir-tienda-ropa-1124967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comprar-ropa-2269939.jpg' alt='Probadores virtuales, las nuevas aplicaciones que te dejan ver cómo te quedará una prenda sin tener que ir a la tienda de ropa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-planeando-librarse-botones-fisicos-proximos-galaxy-s-1124939'>Samsung ya está planeando librarse de los botones físicos en sus próximos Galaxy S</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-ya-planeando-librarse-botones-fisicos-proximos-galaxy-s-1124939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-s22-analisis-opinion-2627365.jpg' alt='Samsung ya está planeando librarse de los botones físicos en sus próximos Galaxy S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vpn-rapidas-oferta-menos-5-euros-mes-1119463'>Una de las VPN más rápidas está en oferta por menos de 5€ al mes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vpn-rapidas-oferta-menos-5-euros-mes-1119463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-portatil-pantalla-vpn-2801007.jpg' alt='Una de las VPN más rápidas está en oferta por menos de 5€ al mes' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/comprar-ropa-2269939.jpg' alt='Probadores virtuales, aplicaciones que te muestran cómo te quedará una prenda sin tener que ir a la tienda' />
     </a>
 </div>
 
