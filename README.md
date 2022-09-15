@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307'>El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-2814789.jpg' alt='El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-1125317'>En España nos gastamos cuatro veces más en bares que en el mantenimiento del coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-1125317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-2814787.jpg' alt='En España nos gastamos cuatro veces más en bares que en el mantenimiento del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263'>Shiba Inu en peligro a punto de alcanzar su punto de no retorno</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/shiba-inu-peligro-punto-alcanzar-punto-no-retorno-1125263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg' alt='Shiba Inu en peligro a punto de alcanzar su punto de no retorno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-demasiado-barata-ofrece-ceo-disney-subida-precios-1125283'>Disney+ es demasiado barata para lo que ofrece y debería subir de precio, avisa el CEO de Disney</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/disney-plus-demasiado-barata-ofrece-ceo-disney-subida-precios-1125283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-demasiado-barata-ofrece-deberia-encarecerse-avisa-ceo-disney-2814735.jpg' alt='Disney+ es demasiado barata para lo que ofrece y debería subir de precio, avisa el CEO de Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277'>La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/opcion-ios-16-te-hace-escribir-rapido-pero-casi-todo-mundo-tiene-desactivada-1125277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resumen-novedades-ios-16-2723575.jpg' alt='La opción de iOS 16 que te hace escribir más rápido pero que casi todo el mundo tiene desactivada' />
     </a>
 </div>
 
