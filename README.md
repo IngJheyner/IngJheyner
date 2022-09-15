@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131'>Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113'>El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817'>Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tablet-china-solo-161-euros-ideal-jugar-ver-series-trabajar-1123817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-m40-pro-2555317.jpg' alt='Esta tablet china de solo 161 euros es ideal para jugar, ver series y hasta para trabajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/6-originales-fondos-pantalla-iphone-always-display-ios-16-1125081'>6 originales fondos de pantalla para iPhone y el Always-on Display de iOS 16</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/6-originales-fondos-pantalla-iphone-always-display-ios-16-1125081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fondos-pantalla-2814205.jpg' alt='6 originales fondos de pantalla para iPhone y el Always-on Display de iOS 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/ya-disponible-adaptacion-netflix-videojuego-anime-cyberpunk-100-rotten-tomatoes-1125047'>Ya disponible la adaptación de Netflix del videojuego de anime Cyberpunk, un 100% en Rotten Tomatoes</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/ya-disponible-adaptacion-netflix-videojuego-anime-cyberpunk-100-rotten-tomatoes-1125047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cyberpunk-2814105.jpg' alt='Ya disponible la adaptación de Netflix del videojuego de anime Cyberpunk, un 100% en Rotten Tomatoes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/necesitaras-nueva-caja-nuevas-rtx-4090-nvidia-cuatro-slots-modelo-lenovo-1125079'>Necesitarás una nueva caja para las nuevas RTX 4090 de NVIDIA, cuatro slots para el modelo de Lenovo</a></h4>
-    <a href='https://computerhoy.com/noticias/necesitaras-nueva-caja-nuevas-rtx-4090-nvidia-cuatro-slots-modelo-lenovo-1125079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-rtx-3070-ti-2378471.jpg' alt='Necesitarás una nueva caja para las nuevas RTX 4090 de NVIDIA, cuatro slots para el modelo de Lenovo' />
     </a>
 </div>
 
