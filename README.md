@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241'>Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-1125241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/adobe-elimina-competencia-compra-figma-dejara-ser-gratis-2814643.jpg' alt='Adobe elimina su competencia y compra Figma: ¿dejará de ser gratis?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-amazon-kindle-1124479'>Amazon Kindle ahora es más caro, ¿qué alternativa es la mejor?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-amazon-kindle-1124479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg' alt='Amazon Kindle ahora es más caro, ¿qué alternativa es la mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181'>Cómo ordenar alfabéticamente listas y párrafos en Google Docs</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-ordenar-alfabeticamente-listas-parrafos-google-docs-1125181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-docs-2248473.jpg' alt='Cómo ordenar alfabéticamente listas y párrafos en Google Docs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185'>Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/call-duty-warzone-mobile-puedes-apuntarte-ser-primero-probarlo-1125185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/call-duty-warzone-mobile-2814435.jpg' alt='Call of Duty Warzone Mobile, así puedes apuntarte para ser el primero en probarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143'>Cuánto tiempo dura la anestesia del dentista</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-dura-anestesia-dentista-1125143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dentista-2814427.jpg' alt='Cuánto tiempo dura la anestesia del dentista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-vivo-x-fold-nuevas-especificaciones-plegable-chino-1125157'>Ya sabemos cómo será el Vivo X Fold+: nuevas especificaciones del plegable chino</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-sabemos-como-sera-vivo-x-fold-nuevas-especificaciones-plegable-chino-1125157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/vivo-x-fold-ha-filtrado-completo-dias-antes-presentacion-oficial-2659519.jpg' alt='Ya sabemos cómo será el Vivo X Fold+: nuevas especificaciones del plegable chino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131'>Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/confirman-bateria-pequena-funcionamiento-dynamic-island-iphone-14-pro-max-despiece-1125131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='Se confirman batería más pequeña y funcionamiento de Dynamic Island de un iPhone 14 Pro Max tras su despiece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113'>El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/minado-ethereum-ha-muerto-mejores-alternativas-quieres-seguir-minando-gpu-1125113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mineria-criptomonedas-2761315.jpg' alt='El minado de Ethereum ha muerto, las mejores alternativas si quieres seguir minando con tu GPU' />
     </a>
 </div>
 
