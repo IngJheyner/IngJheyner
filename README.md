@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aire-cosori-1123227'>Freidoras de aire Cosori: estos son sus mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aire-cosori-1123227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aceite-xxl-cosori-dualblaze-2810865.jpg' alt='Freidoras de aire Cosori: estos son sus mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905'>25 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/25-noticias-tecnologia-comenzar-manana-informado-ultimo-1124905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/25-noticias-tecnologia-comenzar-manana-informado-ultimo-2813743.jpg' alt='25 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899'>Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663201092278-2813735.jpg' alt='Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663'>Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg' alt='Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad' />
     </a>
 </div>
 
