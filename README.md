@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves' />
     </a>
 </div>
 
