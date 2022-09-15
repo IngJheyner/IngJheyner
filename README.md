@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901'>Los mejores ejercicios si estás furioso</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mejores-ejercicios-si-estas-furioso-1124901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-cuando-estas-furioso-2813739.jpg' alt='Los mejores ejercicios si estás furioso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899'>Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/wicked-egg-juguete-entusiasma-mascotas-porque-suelta-chuches-divierten-video-1124899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663201092278-2813735.jpg' alt='Wicked Egg, el juguete que entusiasma a las mascotas porque suelta chuches si se divierten (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663'>Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/compras-dentro-apps-suben-precios-app-store-google-play-privacidad-1124663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg' alt='Las compras dentro de las apps suben un 30% más en la App Store que en Google Play, y echan la culpa a la privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/como-conseguir-bebe-deje-llorar-1124625'>Cómo conseguir que un bebé deje de llorar, según la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-conseguir-bebe-deje-llorar-1124625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-conseguir-bebe-deje-llorar-ciencia-2813341.jpg' alt='Cómo conseguir que un bebé deje de llorar, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-cargar-iphone-nueva-bateria-externa-1124623'>Xiaomi quiere cargar tu iPhone con su nueva batería externa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-quiere-cargar-iphone-nueva-bateria-externa-1124623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-quiere-cargar-iphone-nueva-bateria-externa-2813413.jpg' alt='Xiaomi quiere cargar tu iPhone con su nueva batería externa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/warner-discovery-fusion-despidos-1124645'>Warner sigue reestructurándose en una de sus fusiones más complicadas</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/warner-discovery-fusion-despidos-1124645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/warner-sigue-reestructurandose-fusiones-complicadas-2813495.jpg' alt='Warner sigue reestructurándose en una de sus fusiones más complicadas' />
     </a>
 </div>
 
