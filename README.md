@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657'>Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental</a></h4>
+    <a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-te-sientes-tristes-2809667.jpg' alt='Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653'>Si tienes cuenta en Uber, preocúpate</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/uber-oficinas-2758683.jpg' alt='Si tienes cuenta en Uber, preocúpate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609'>Estas son las novedades de Google Lens que llegan a Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Estas son las novedades de Google Lens que llegan a Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-tado-cabezal-termostatico-oferta-1124979'>Ni un grado de más o de menos: controla la temperatura de cada habitación con este sistema de termostato y válvulas para radiadores en oferta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/kit-tado-cabezal-termostatico-oferta-1124979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cabezal-termostatico-inteligente-tado-2813929.jpg' alt='Ni un grado de más o de menos: controla la temperatura de cada habitación con este sistema de termostato y válvulas para radiadores en oferta' />
     </a>
 </div>
 
