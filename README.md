@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835'>Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-2749225.jpg' alt='Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415'>10 móviles Android de gama alta que hemos probado últimamente y que recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='10 móviles Android de gama alta que hemos probado últimamente y que recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2815571.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749'>Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-2815533.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-renueva-linea-entrada-5g-nuevo-galaxy-a23-1125773'>Samsung renueva su línea de entrada 5G con el nuevo Galaxy A23</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-renueva-linea-entrada-5g-nuevo-galaxy-a23-1125773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a23-5g-2815761.jpg' alt='Samsung renueva su línea de entrada 5G con el nuevo Galaxy A23' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo tarda en cocerse un huevo' />
     </a>
 </div>
 
