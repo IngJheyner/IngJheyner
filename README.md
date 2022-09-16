@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-tendra-dos-variantes-dependiendo-velocidad-1125571'>El Snapdragon 8 Gen 2 tendrá dos variantes dependiendo de su velocidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-tendra-dos-variantes-dependiendo-velocidad-1125571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2815061.jpg' alt='El Snapdragon 8 Gen 2 tendrá dos variantes dependiendo de su velocidad' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653'>Si tienes cuenta en Uber, preocúpate</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/uber-oficinas-2758683.jpg' alt='Si tienes cuenta en Uber, preocúpate' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959'>Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813879.jpg' alt='Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629'>Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-vuelve-convertirse-pesadilla-usuarios-android-auto-2781593.jpg' alt='Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2815043.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387'>Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stream-deck-2663529.jpg' alt='Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes de 2022: Honeywell, Nest y más modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg' alt='Mejores termostatos inteligentes de 2022: Honeywell, Nest y más modelos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609'>Estas son las novedades de Google Lens que llegan a Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Estas son las novedades de Google Lens que llegan a Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543'>Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor</a></h4>
-    <a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frutas-no-deben-mezclar-no-quieres-acabar-dolor-estomago-algo-peor-2815041.jpg' alt='Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/kit-tado-cabezal-termostatico-oferta-1124979'>Ni un grado de más o de menos: controla la temperatura de cada habitación con este sistema de termostato y válvulas para radiadores en oferta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/kit-tado-cabezal-termostatico-oferta-1124979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cabezal-termostatico-inteligente-tado-2813929.jpg' alt='Ni un grado de más o de menos: controla la temperatura de cada habitación con este sistema de termostato y válvulas para radiadores en oferta' />
     </a>
 </div>
 
