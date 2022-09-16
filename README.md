@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881'>Netflix recorta plantilla en su departamento de Animación, mientras todos esperan conocer sus nuevos planes de suscripción</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893'>Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-conseguir-5eu-gratis-amazon-escuchar-podcast-2815921.jpg' alt='Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887'>El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-2815915.jpg' alt='El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-always-iphone-ios-16-no-siempre-encendida-1125863'>La pantalla Always-On de iPhone en iOS 16 no siempre está encendida</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-always-iphone-ios-16-no-siempre-encendida-1125863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantalla-always-iphone-ios-16-no-siempre-encendida-2815883.jpg' alt='La pantalla Always-On de iPhone en iOS 16 no siempre está encendida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881'>Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='Netflix recorta plantilla en su departamento de Animación, mientras todos esperan conocer sus nuevos planes de suscripción' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879'>Microsoft Defender deja de ser el antivirus más fiable para Windows</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Microsoft Defender deja de ser el antivirus más fiable para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/accidente-boeing-727-te-muestra-asientos-no-debes-elegir-cuando-compras-billete-avion-1125877'>Este accidente de un Boeing 727 te muestra los asientos que no debes elegir cuando compras un billete de avión</a></h4>
-    <a href='https://computerhoy.com/noticias/life/accidente-boeing-727-te-muestra-asientos-no-debes-elegir-cuando-compras-billete-avion-1125877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/boeing-727-2815891.jpg' alt='Este accidente de un Boeing 727 te muestra los asientos que no debes elegir cuando compras un billete de avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835'>Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-2749225.jpg' alt='Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415'>10 móviles Android de gama alta que hemos probado últimamente y que recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='10 móviles Android de gama alta que hemos probado últimamente y que recomendamos' />
     </a>
 </div>
 
