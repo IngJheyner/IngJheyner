@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625'>La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-pide-nombres-proxima-mision-urano-ya-te-puedes-imaginar-respuestas-2815189.jpg' alt='La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987'>TomTato, la planta que da tomates y patatas a la vez</a></h4>
     <a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tomtato-planta-da-tomates-patatas-mismo-tiempo-2813931.jpg' alt='TomTato, la planta que da tomates y patatas a la vez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893'>Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-conseguir-5eu-gratis-amazon-escuchar-podcast-2815921.jpg' alt='Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887'>El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-2815915.jpg' alt='El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano' />
     </a>
 </div>
 
