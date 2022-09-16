@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-tendra-dos-variantes-dependiendo-velocidad-1125571'>El Snapdragon 8 Gen 2 tendrá dos variantes dependiendo de su velocidad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/snapdragon-8-gen-2-tendra-dos-variantes-dependiendo-velocidad-1125571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2815061.jpg' alt='El Snapdragon 8 Gen 2 tendrá dos variantes dependiendo de su velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959'>Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813879.jpg' alt='Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543'>Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor</a></h4>
     <a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frutas-no-deben-mezclar-no-quieres-acabar-dolor-estomago-algo-peor-2815041.jpg' alt='Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541'>EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663284895582-2815039.jpg' alt='EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)' />
     </a>
 </div>
 
