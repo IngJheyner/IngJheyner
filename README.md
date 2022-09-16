@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707'>¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-gamestop-new-york-stock-exchange-2753713.jpg' alt='¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843'>Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657'>Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental</a></h4>
     <a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-te-sientes-tristes-2809667.jpg' alt='Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629'>Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-vuelve-convertirse-pesadilla-usuarios-android-auto-2781593.jpg' alt='Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387'>Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/stream-deck-guia-todos-secretos-dispositivo-favorito-streamers-1038387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/stream-deck-2663529.jpg' alt='Stream Deck: guía y todos los secretos del dispositivo favorito de los streamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609'>Estas son las novedades de Google Lens que llegan a Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estas-son-novedades-google-lens-llegan-android-1125609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/usar-google-lens-traducir-textos-2184413.jpg' alt='Estas son las novedades de Google Lens que llegan a Android' />
     </a>
 </div>
 
