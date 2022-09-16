@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405'>Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg' alt='Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-1125731'>Esta desconocida fruta podría ser la solución a la crisis alimentaria por el cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/life/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-1125731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-2815443.jpg' alt='Esta desconocida fruta podría ser la solución a la crisis alimentaria por el cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-tiene-recorrer-coche-electrico-ser-ecologico-gasolina-1125699'>Cuántos kilómetros tiene que recorrer un coche eléctrico para ser más ecológico que uno de gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-tiene-recorrer-coche-electrico-ser-ecologico-gasolina-1125699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760825.jpg' alt='Cuántos kilómetros tiene que recorrer un coche eléctrico para ser más ecológico que uno de gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707'>¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-gamestop-new-york-stock-exchange-2753713.jpg' alt='¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843'>Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657'>Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental</a></h4>
-    <a href='https://computerhoy.com/noticias/hacer-ejercicio-no-solo-bueno-corazon-tambien-salud-mental-1125657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-ejercicios-te-sientes-tristes-2809667.jpg' alt='Hacer ejercicio no es solo bueno para tu corazón, también para tu salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653'>Si tienes cuenta en Uber, preocúpate</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tienes-cuenta-uber-preocupate-1125653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/uber-oficinas-2758683.jpg' alt='Si tienes cuenta en Uber, preocúpate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629'>Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-seleccionar-google-maps-android-auto-ruta-barata-tipo-coche-1125629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/google-maps-vuelve-convertirse-pesadilla-usuarios-android-auto-2781593.jpg' alt='Cómo seleccionar en Google Maps y Android Auto la ruta más barata según tu tipo de coche' />
     </a>
 </div>
 
