@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987'>TomTato, la planta que da tomates y patatas a la vez</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tomtato-planta-da-tomates-patatas-mismo-tiempo-2813931.jpg' alt='TomTato, la planta que da tomates y patatas a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-intel-pentium-intel-celeron-adios-1125899'>El fin de una era: tras 30 años con nosotros, ya no habrá más procesadores Intel Pentium e Intel Celeron</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/procesador-intel-pentium-intel-celeron-adios-1125899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fin-era-ya-no-habra-procesadores-pentium-celeron-2815943.jpg' alt='El fin de una era: tras 30 años con nosotros, ya no habrá más procesadores Intel Pentium e Intel Celeron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889'>La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura</a></h4>
     <a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-2815917.jpg' alt='La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887'>El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-1125887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-grafitero-hp-pinta-suelo-donde-construir-paredes-plano-2815915.jpg' alt='El robot grafitero de HP que pinta en el suelo dónde construir las paredes según el plano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pantalla-always-iphone-ios-16-no-siempre-encendida-1125863'>La pantalla Always-On de iPhone en iOS 16 no siempre está encendida</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pantalla-always-iphone-ios-16-no-siempre-encendida-1125863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pantalla-always-iphone-ios-16-no-siempre-encendida-2815883.jpg' alt='La pantalla Always-On de iPhone en iOS 16 no siempre está encendida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881'>Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción' />
     </a>
 </div>
 
