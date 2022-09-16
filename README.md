@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881'>Netflix recorta plantilla en su departamento de Animación, mientras todos esperan conocer sus nuevos planes de suscripción</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='Netflix recorta plantilla en su departamento de Animación, mientras todos esperan conocer sus nuevos planes de suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879'>Microsoft Defender deja de ser el antivirus más fiable para Windows</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Microsoft Defender deja de ser el antivirus más fiable para Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/accidente-boeing-727-te-muestra-asientos-no-debes-elegir-cuando-compras-billete-avion-1125877'>Este accidente de un Boeing 727 te muestra los asientos que no debes elegir cuando compras un billete de avión</a></h4>
+    <a href='https://computerhoy.com/noticias/life/accidente-boeing-727-te-muestra-asientos-no-debes-elegir-cuando-compras-billete-avion-1125877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/boeing-727-2815891.jpg' alt='Este accidente de un Boeing 727 te muestra los asientos que no debes elegir cuando compras un billete de avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835'>Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-conoce-como-seran-xiaomi-12t-12t-pro-prometen-ser-guerreros-1125835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-2749225.jpg' alt='Ya se conoce cómo serán los Xiaomi 12T y 12T Pro, prometen ser guerreros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415'>10 móviles Android de gama alta que hemos probado últimamente y que recomendamos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/moviles-android-gama-alta-recomendamos-1093415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/galeria-review-vivo-x80-pro-2752589.jpg' alt='10 móviles Android de gama alta que hemos probado últimamente y que recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2815571.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-preocupes-alguien-ve-pestanas-incognito-chrome-google-ya-protege-biometria-1125817'>No te preocupes por si alguien ve tus pestañas de incógnito en Chrome, Google ya las protege con tu biometría</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-te-preocupes-alguien-ve-pestanas-incognito-chrome-google-ya-protege-biometria-1125817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='No te preocupes por si alguien ve tus pestañas de incógnito en Chrome, Google ya las protege con tu biometría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749'>Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-2815533.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL' />
     </a>
 </div>
 
