@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889'>La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-2815917.jpg' alt='La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893'>Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-conseguir-5eu-gratis-amazon-escuchar-podcast-2815921.jpg' alt='Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881'>Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/netflix-recorta-plantilla-departamento-animacion-planes-publicidad-suscripcion-1125881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nueva-pelicula-animacion-netflix-nos-gustaria-haber-visto-cine-2758199.jpg' alt='Netflix recorta plantilla en su departamento de Animación, mientras todos esperan sus nuevos planes de suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879'>Microsoft Defender deja de ser el antivirus más fiable para Windows</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/microsoft-defender-deja-ser-antivirus-fiable-windows-1125879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/microsoft-defender-2648201.jpg' alt='Microsoft Defender deja de ser el antivirus más fiable para Windows' />
     </a>
 </div>
 
