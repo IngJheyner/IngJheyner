@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761'>Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-hbo-max-prime-video-anime-crimenes-criada-1125761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-fin-semana-2815571.jpg' alt='Qué series ver este fin de semana en Netflix, HBO Max y Prime Video: un anime, unos crímenes y una criada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-preocupes-alguien-ve-pestanas-incognito-chrome-google-ya-protege-biometria-1125817'>No te preocupes por si alguien ve tus pestañas de incógnito en Chrome, Google ya las protege con tu biometría</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-te-preocupes-alguien-ve-pestanas-incognito-chrome-google-ya-protege-biometria-1125817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='No te preocupes por si alguien ve tus pestañas de incógnito en Chrome, Google ya las protege con tu biometría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749'>Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-1125749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-movistarplus-hbo-max-netflix-venom-anime-navy-seal-2815533.jpg' alt='Qué películas ver este fin de semana en MovistarPlus+, HBO Max y Netflix: Venom, anime y los Navy SEAL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-renueva-linea-entrada-5g-nuevo-galaxy-a23-1125773'>Samsung renueva su línea de entrada 5G con el nuevo Galaxy A23</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/samsung-renueva-linea-entrada-5g-nuevo-galaxy-a23-1125773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-a23-5g-2815761.jpg' alt='Samsung renueva su línea de entrada 5G con el nuevo Galaxy A23' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo tarda en cocerse un huevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741'>Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-2815581.jpg' alt='Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405'>Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg' alt='Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-1125731'>Esta desconocida fruta podría ser la solución a la crisis alimentaria por el cambio climático</a></h4>
-    <a href='https://computerhoy.com/noticias/life/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-1125731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desconocida-fruta-podria-ser-solucion-crisis-alimentaria-cambio-climatico-2815443.jpg' alt='Esta desconocida fruta podría ser la solución a la crisis alimentaria por el cambio climático' />
     </a>
 </div>
 
