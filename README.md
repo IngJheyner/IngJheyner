@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2815043.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes de 2022: Honeywell, Nest y más modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-nest-learning-thermostat-2813899.jpg' alt='Mejores termostatos inteligentes de 2022: Honeywell, Nest y más modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543'>Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor</a></h4>
     <a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frutas-no-deben-mezclar-no-quieres-acabar-dolor-estomago-algo-peor-2815041.jpg' alt='Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541'> EXOlung, respira bajo el agua sin equipo de buceo (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541'>EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663284895582-2815039.jpg' alt=' EXOlung, respira bajo el agua sin equipo de buceo (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663284895582-2815039.jpg' alt='EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307'>El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-2814789.jpg' alt='El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-1125317'>En España nos gastamos cuatro veces más en bares que en el mantenimiento del coche</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-1125317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espana-nos-gastamos-cuatro-veces-bares-mantener-coche-2814787.jpg' alt='En España nos gastamos cuatro veces más en bares que en el mantenimiento del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves' />
     </a>
 </div>
 
