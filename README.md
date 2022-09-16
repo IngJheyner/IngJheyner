@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959'>Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/nuevo-kindle-2022-5-motivos-promete-ser-mejor-lector-ebooks-momento-1124959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813879.jpg' alt='Nuevo Kindle 2022: 5 motivos por los que promete ser el mejor lector de ebooks del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1125545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2815043.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541'>EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663284895582-2815039.jpg' alt='EXOlung, respira bajo el agua sin bombona de oxígeno (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307'>El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-1125307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x40-5g-ya-oficial-llega-procesador-gama-media-junto-pantalla-oled-120-hz-2814789.jpg' alt='El Honor X40 5G ya es oficial y llega con un procesador de gama media junto con una pantalla OLED de 120 Hz' />
     </a>
 </div>
 
