@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/huevo-cocido-2103985.jpg' alt='Cuánto tiempo tarda en cocerse un huevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741'>Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-2815581.jpg' alt='Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-tiene-recorrer-coche-electrico-ser-ecologico-gasolina-1125699'>Cuántos kilómetros tiene que recorrer un coche eléctrico para ser más ecológico que uno de gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/motor/cuantos-kilometros-tiene-recorrer-coche-electrico-ser-ecologico-gasolina-1125699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/coche-electrico-2760825.jpg' alt='Cuántos kilómetros tiene que recorrer un coche eléctrico para ser más ecológico que uno de gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707'>¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-gamestop-new-york-stock-exchange-2753713.jpg' alt='¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop' />
     </a>
 </div>
 
