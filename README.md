@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741'>Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-1125741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/todavia-pronto-rendir-100-clase-web-te-ayuda-resumir-trabajo-2815581.jpg' alt='Si todavía es pronto para rendir al 100% en clase esta web te ayuda a resumir tu trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405'>Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-cargador-inalambrico-iphone-14-oferta-1124405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg' alt='Uno de los mejores cargadores para el iPhone (también el iPhone 14) está en oferta a precio de derribo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707'>¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/trolear-wall-street-estafa-proxima-serie-documental-netflix-analiza-caso-gamestop-1125707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/logo-gamestop-new-york-stock-exchange-2753713.jpg' alt='¿Trolear Wall Street o una estafa? La próxima serie documental de Netflix analiza el caso GameStop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843'>Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-pixel-6-pro-alternativa-iphone-14-pro-oferta-1123843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604425.jpg' alt='Este es el sorprendente móvil de Google que planta cara a los iPhone 14 Pro y que cuesta prácticamente la mitad' />
     </a>
 </div>
 
