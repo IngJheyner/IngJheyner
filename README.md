@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543'>Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor</a></h4>
+    <a href='https://computerhoy.com/noticias/life/frutas-no-debes-mezclar-dolor-estomago-acidez-1125543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frutas-no-deben-mezclar-no-quieres-acabar-dolor-estomago-algo-peor-2815041.jpg' alt='Frutas que no se deben mezclar si no quieres acabar con dolor de estómago, o algo peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541'> EXOlung, respira bajo el agua sin equipo de buceo (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/exolung-respirar-bajo-agua-sin-equipo-buceo-video-1125541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663284895582-2815039.jpg' alt=' EXOlung, respira bajo el agua sin equipo de buceo (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311'>Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ordenador-lenovo-vulnerabilidad-actualizar-bios-1125311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/analisis-lenovo-legion-slim-7-gen-6-2738389.jpg' alt='Si tienes un ordenador Lenovo, debes actualizarlo inmediatamente para tapar seis vulnerabilidades graves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295'>Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aspiradora-inalambrica-mano-xiaomi-oferta-1125295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/descuentazo-46-aspiradora-inalambrica-xiaomi-2814767.jpg' alt='Descuentazo del 46% en esta aspiradora inalámbrica de mano de Xiaomi' />
     </a>
 </div>
 
