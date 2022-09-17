@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869'>Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/1-2-movil-2808235.jpg' alt='Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223'>No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741'>Los mejores accesorios tech para cuidar a tu gato</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/accesorios-tech-gatos-2810031.jpg' alt='Los mejores accesorios tech para cuidar a tu gato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189'>No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/playstation-vr-2346599.jpg' alt='No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony' />
     </a>
 </div>
 
