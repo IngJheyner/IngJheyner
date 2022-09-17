@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223'>No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217'>El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-utilizando-ordenador-2816417.jpg' alt='El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189'>No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/playstation-vr-2346599.jpg' alt='No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185'>Constantine regresará al cine con una secuela, y con Keanu Reeves como protagonista</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/constantine-keanu-reeves-2816337.jpg' alt='Constantine regresará al cine con una secuela, y con Keanu Reeves como protagonista' />
     </a>
 </div>
 
