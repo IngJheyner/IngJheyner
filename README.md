@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045'>Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-electric-scooter-pro-2-2503287.jpg' alt='Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-directorio-descarga-defecto-navegadores-web-populares-1120243'>Cómo cambiar el directorio de descarga por defecto en los navegadores web más populares</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-directorio-descarga-defecto-navegadores-web-populares-1120243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/directorio-descarga-navegadores-web-2804955.jpg' alt='Cómo cambiar el directorio de descarga por defecto en los navegadores web más populares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-1115565'>Todo lo que debes saber antes de comprar un cargador USB</a></h4>
     <a href='https://computerhoy.com/guia-compra/cargador-usb-1115565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='Todo lo que debes saber antes de comprar un cargador USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257'>Errores que debes evitar al comprar una freidora de aire</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aceite-freidora-aire-pollo-frito-2711549.jpg' alt='Errores que debes evitar al comprar una freidora de aire' />
     </a>
 </div>
 
