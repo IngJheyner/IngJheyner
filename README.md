@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217'>El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-utilizando-ordenador-2816417.jpg' alt='El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-pro-2506545.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741'>Los mejores accesorios tech para cuidar a tu gato</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/accesorios-tech-gatos-2810031.jpg' alt='Los mejores accesorios tech para cuidar a tu gato' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185'>Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185'>Constantine regresará al cine con una secuela, y con Keanu Reeves como protagonista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/constantine-keanu-reeves-2816337.jpg' alt='Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-ligera-puedes-llevar-cualquier-parte-tiene-100-euros-descuento-1126171'>Esta bicicleta eléctrica ligera la puedes llevar a cualquier parte y tiene 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-ligera-puedes-llevar-cualquier-parte-tiene-100-euros-descuento-1126171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hitway-bicicleta-electrica-2816271.jpg' alt='Esta bicicleta eléctrica ligera la puedes llevar a cualquier parte y tiene 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-book-s-124-review-opinion-1123105'>Xiaomi Book S 12,4", análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-book-s-124-review-opinion-1123105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-xiaomi-book-s-2814821.jpg' alt='Xiaomi Book S 12,4", análisis y opinión' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/constantine-keanu-reeves-2816337.jpg' alt='Constantine regresará al cine con una secuela, y con Keanu Reeves como protagonista' />
     </a>
 </div>
 
