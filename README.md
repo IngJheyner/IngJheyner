@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mala-idea-ahorrar-hora-comprar-fuente-alimentacion-1120961'>Por qué es mala idea ahorrar a la hora de comprar una fuente de alimentación</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mala-idea-ahorrar-hora-comprar-fuente-alimentacion-1120961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-dentro-2806633.jpg' alt='Por qué es mala idea ahorrar a la hora de comprar una fuente de alimentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/sandi-retrete-no-necesita-agua-video-1126111'>Sandi, el retrete que no necesita agua (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/sandi-retrete-no-necesita-agua-video-1126111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663391616562-2816183.jpg' alt='Sandi, el retrete que no necesita agua (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045'>Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/patinete-xiaomi-pro-2-merece-pena-caracteristicas-precio-alternativas-1125045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/xiaomi-mi-electric-scooter-pro-2-2503287.jpg' alt='Patinete Xiaomi Pro 2: ¿merece la pena? Características, precio y alternativas' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-pelar-patatas-sin-esfuerzo-sin-cuchillo-1126109'>Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándola al máximo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/como-pelar-patatas-sin-esfuerzo-sin-cuchillo-1126109'>Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándolas al máximo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-pelar-patatas-sin-esfuerzo-sin-cuchillo-1126109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/patatas-2261363.jpg' alt='Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándola al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Estos son los mejores móviles de Google que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-1115565'>Todo lo que debes saber antes de comprar un cargador USB</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cargador-usb-1115565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='Todo lo que debes saber antes de comprar un cargador USB' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/patatas-2261363.jpg' alt='Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándolas al máximo' />
     </a>
 </div>
 
