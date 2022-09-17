@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741'>Los mejores accesorios tech para cuidar a tu gato</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/accesorios-tech-gatos-2810031.jpg' alt='Los mejores accesorios tech para cuidar a tu gato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189'>No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/no-podras-usar-juegos-originales-playstation-vr-nuevo-sistema-realidad-virtual-sony-1126189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/playstation-vr-2346599.jpg' alt='No podrás usar tus juegos originales de la PlayStation VR con el nuevo sistema de realidad virtual de Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185'>Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/constantine-keanu-reeves-2816337.jpg' alt='Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/xiaomi-book-s-124-review-opinion-1123105'>Xiaomi Book S 12,4", análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-book-s-124-review-opinion-1123105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-xiaomi-book-s-2814821.jpg' alt='Xiaomi Book S 12,4", análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bill-gates-elon-musk-steve-jobs-compartian-rasgo-personalidad-clave-entender-exito-1126165'>Bill Gates, Elon Musk y Steve Jobs compartían un rasgo de personalidad clave para entender su éxito</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bill-gates-elon-musk-steve-jobs-compartian-rasgo-personalidad-clave-entender-exito-1126165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-bill-gates-steve-jobs-2816263.jpg' alt='Bill Gates, Elon Musk y Steve Jobs compartían un rasgo de personalidad clave para entender su éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-disney-ha-rodado-remake-ultimos-anos-1123991'>7 películas de las que Disney ha rodado un remake en los últimos años</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-disney-ha-rodado-remake-ultimos-anos-1123991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/rey-leon-2019-2786259.jpg' alt='7 películas de las que Disney ha rodado un remake en los últimos años' />
     </a>
 </div>
 
