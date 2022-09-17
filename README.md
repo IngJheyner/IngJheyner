@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces famosas por IA</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/evga-rompe-nvidia-deja-negocio-gpu-te-afecta-1126141'>EVGA rompe con NVIDIA y deja el negocio de las GPU, y así te afecta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/evga-rompe-nvidia-deja-negocio-gpu-te-afecta-1126141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-3090-2816235.jpg' alt='EVGA rompe con NVIDIA y deja el negocio de las GPU, y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/silla-oficina-ataud-1125685'>Las sillas de oficina con las que muchos se sentirán identificados en el trabajo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/silla-oficina-ataud-1125685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sillas-oficina-muchos-sentiran-identificados-trabajo-2815319.jpg' alt='Las sillas de oficina con las que muchos se sentirán identificados en el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hablando-2810873.jpg' alt='Cómo funciona FakeYou: manda audios con voces famosas por IA' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hablando-2810873.jpg' alt='Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/amazon-echo-show-15-analisis-opinion-1124029'>Amazon Echo Show 15: análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/amazon-echo-show-15-analisis-opinion-1124029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-show-15-2812295.jpg' alt='Amazon Echo Show 15: análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/2022-tiene-llegar-apple-reinventar-notch-1123365'>2022 y tiene que llegar Apple a reinventar el notch </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/2022-tiene-llegar-apple-reinventar-notch-1123365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-x-samsung-2811151.jpg' alt='2022 y tiene que llegar Apple a reinventar el notch ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mala-idea-ahorrar-hora-comprar-fuente-alimentacion-1120961'>Por qué es mala idea ahorrar a la hora de comprar una fuente de alimentación</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mala-idea-ahorrar-hora-comprar-fuente-alimentacion-1120961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ordenador-dentro-2806633.jpg' alt='Por qué es mala idea ahorrar a la hora de comprar una fuente de alimentación' />
     </a>
 </div>
 
