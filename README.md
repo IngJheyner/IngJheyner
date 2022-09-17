@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/cargador-usb-1115565'>Todo lo que debes saber antes de comprar un cargador USB</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cargador-usb-1115565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargador-usb-30w-yeonphom-2390663.jpg' alt='Todo lo que debes saber antes de comprar un cargador USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257'>Errores que debes evitar al comprar una freidora de aire</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aceite-freidora-aire-pollo-frito-2711549.jpg' alt='Errores que debes evitar al comprar una freidora de aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625'>La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-pide-nombres-proxima-mision-urano-ya-te-puedes-imaginar-respuestas-2815189.jpg' alt='La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987'>TomTato, la planta que da tomates y patatas a la vez</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tomtato-planta-da-tomates-patatas-1124987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tomtato-planta-da-tomates-patatas-mismo-tiempo-2813931.jpg' alt='TomTato, la planta que da tomates y patatas a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/procesador-intel-pentium-intel-celeron-adios-1125899'>El fin de una era: tras 30 años con nosotros, ya no habrá más procesadores Intel Pentium e Intel Celeron</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/procesador-intel-pentium-intel-celeron-adios-1125899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fin-era-ya-no-habra-procesadores-pentium-celeron-2815943.jpg' alt='El fin de una era: tras 30 años con nosotros, ya no habrá más procesadores Intel Pentium e Intel Celeron' />
     </a>
 </div>
 
