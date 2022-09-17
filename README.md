@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/peligro-confiarse-cajas-radares-vacias-dgt-1126149'>El peligro de confiarse de las cajas de radares vacías de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/peligro-confiarse-cajas-radares-vacias-dgt-1126149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='El peligro de confiarse de las cajas de radares vacías de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-s95b-oled-55-review-opinion-1124503'>Samsung S95B OLED de 55”, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-s95b-oled-55-review-opinion-1124503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-s95b-oled-analisis-opinion-2813465.jpg' alt='Samsung S95B OLED de 55”, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/evga-rompe-nvidia-deja-negocio-gpu-te-afecta-1126141'>EVGA rompe con NVIDIA y deja el negocio de las GPU, y así te afecta</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/evga-rompe-nvidia-deja-negocio-gpu-te-afecta-1126141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-3090-2816235.jpg' alt='EVGA rompe con NVIDIA y deja el negocio de las GPU, y así te afecta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hablando-2810873.jpg' alt='Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079'>Walkie talkies profesionales: estos son los mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-walkie-talkies-profesionales-1123079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/walkie-talkie-2810647.jpg' alt='Walkie talkies profesionales: estos son los mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/amazon-echo-show-15-analisis-opinion-1124029'>Amazon Echo Show 15: análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/amazon-echo-show-15-analisis-opinion-1124029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-echo-show-15-2812295.jpg' alt='Amazon Echo Show 15: análisis y opinión' />
     </a>
 </div>
 
