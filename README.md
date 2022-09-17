@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185'>Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/constantine-regresara-cine-secuela-keane-reeves-como-protagonista-1126185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/constantine-keanu-reeves-2816337.jpg' alt='Constantine regresará al cine con una secuela, y con Keane Reeves como protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-ligera-puedes-llevar-cualquier-parte-tiene-100-euros-descuento-1126171'>Esta bicicleta eléctrica ligera la puedes llevar a cualquier parte y tiene 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bicicleta-electrica-ligera-puedes-llevar-cualquier-parte-tiene-100-euros-descuento-1126171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hitway-bicicleta-electrica-2816271.jpg' alt='Esta bicicleta eléctrica ligera la puedes llevar a cualquier parte y tiene 100 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-disney-ha-rodado-remake-ultimos-anos-1123991'>7 películas de las que Disney ha rodado un remake en los últimos años</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-disney-ha-rodado-remake-ultimos-anos-1123991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/rey-leon-2019-2786259.jpg' alt='7 películas de las que Disney ha rodado un remake en los últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/peligro-confiarse-cajas-radares-vacias-dgt-1126149'>El peligro de confiarse de las cajas de radares vacías de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/peligro-confiarse-cajas-radares-vacias-dgt-1126149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg' alt='El peligro de confiarse de las cajas de radares vacías de la DGT' />
     </a>
 </div>
 
