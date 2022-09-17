@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-se-portatil-microsoft-precio-fecha-lanzamiento-espana-1126107'>Surface Laptop SE, el portátil de 299 euros de Microsoft, llega a España a finales de año</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-se-portatil-microsoft-precio-fecha-lanzamiento-espana-1126107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/surface-laptop-portatil-299-euros-microsoft-llega-espana-finales-ano-2816177.jpg' alt='Surface Laptop SE, el portátil de 299 euros de Microsoft, llega a España a finales de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625'>La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-pide-nombres-proxima-mision-urano-ya-te-puedes-imaginar-respuestas-2815189.jpg' alt='La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889'>La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura</a></h4>
     <a href='https://computerhoy.com/noticias/life/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-1125889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/botella-termica-lidl-no-quemarte-helarte-beber-pantalla-led-temperatura-2815917.jpg' alt='La botella térmica de LIDL para no quemarte/helarte al beber, con pantalla LED con temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893'>Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/cinco-euros-gratis-amazon-escuchar-podcast-1125893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-conseguir-5eu-gratis-amazon-escuchar-podcast-2815921.jpg' alt='Así puedes conseguir 5€ gratis en Amazon al escuchar un podcast' />
     </a>
 </div>
 
