@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-directorio-descarga-defecto-navegadores-web-populares-1120243'>Cómo cambiar el directorio de descarga por defecto en los navegadores web más populares</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-directorio-descarga-defecto-navegadores-web-populares-1120243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/directorio-descarga-navegadores-web-2804955.jpg' alt='Cómo cambiar el directorio de descarga por defecto en los navegadores web más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-pelar-patatas-sin-esfuerzo-sin-cuchillo-1126109'>Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándola al máximo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-pelar-patatas-sin-esfuerzo-sin-cuchillo-1126109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/patatas-2261363.jpg' alt='Cómo pelar patatas sin esfuerzo y sin cuchillo, aprovechándola al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-pixel-6-pro-analisis-opinion-2604407.jpg' alt='Estos son los mejores móviles de Google que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257'>Errores que debes evitar al comprar una freidora de aire</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-debes-evitar-comprar-freidora-aire-1113257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aceite-freidora-aire-pollo-frito-2711549.jpg' alt='Errores que debes evitar al comprar una freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-se-portatil-microsoft-precio-fecha-lanzamiento-espana-1126107'>Surface Laptop SE, el portátil de 299 euros de Microsoft, llega a España a finales de año</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/surface-laptop-se-portatil-microsoft-precio-fecha-lanzamiento-espana-1126107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/surface-laptop-portatil-299-euros-microsoft-llega-espana-finales-ano-2816177.jpg' alt='Surface Laptop SE, el portátil de 299 euros de Microsoft, llega a España a finales de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625'>La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-nombres-mision-sonda-urano-1125625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-pide-nombres-proxima-mision-urano-ya-te-puedes-imaginar-respuestas-2815189.jpg' alt='La NASA pide nombres para la misión que enviará una sonda a Urano, y ya te puedes imaginar las respuestas...' />
     </a>
 </div>
 
