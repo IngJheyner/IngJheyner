@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427'>Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven</a></h4>
+    <a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/grupo-sanguineo-mayor-riesgo-sufrir-ictus-antes-60-anos-2816643.jpg' alt='Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511'>Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009'>7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/operacion-swordfish-2812331.jpg' alt='7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/color-sol-respuesta-astronauta-nasa-te-dejara-muy-sorprendido-1126473'>¿De qué color es el Sol? La respuesta de este astronauta de la NASA te dejará muy sorprendido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/color-sol-respuesta-astronauta-nasa-te-dejara-muy-sorprendido-1126473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sol-2816787.jpg' alt='¿De qué color es el Sol? La respuesta de este astronauta de la NASA te dejará muy sorprendido' />
     </a>
 </div>
 
