@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/como-instalar-half-life-2-vr-mod-realidad-virtual-1126547'>Cómo instalar gratis Half-Life 2: VR Mod y jugar al mítico juego en realidad virtual</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/como-instalar-half-life-2-vr-mod-realidad-virtual-1126547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-instalar-gratis-half-life-2-vr-mod-jugar-mitico-juego-dentro-2816963.jpg' alt='Cómo instalar gratis Half-Life 2: VR Mod y jugar al mítico juego en realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-todos-modelos-iphone-15-1126543'>La Dynamic Island se extenderá a todos los modelos de iPhone 15</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-todos-modelos-iphone-15-1126543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-extendera-todos-modelos-iphone-15-2816937.jpg' alt='La Dynamic Island se extenderá a todos los modelos de iPhone 15' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537'>RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuidado-entrar-enlaces-promocionales-videos-youtube-algunos-son-malware-2816917.jpg' alt='RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427'>Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven</a></h4>
-    <a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/grupo-sanguineo-mayor-riesgo-sufrir-ictus-antes-60-anos-2816643.jpg' alt='Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven' />
     </a>
 </div>
 
