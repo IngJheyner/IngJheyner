@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-todos-modelos-iphone-15-1126543'>La Dynamic Island se extenderá a todos los modelos de iPhone 15</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-todos-modelos-iphone-15-1126543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-extendera-todos-modelos-iphone-15-2816937.jpg' alt='La Dynamic Island se extenderá a todos los modelos de iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425'>Todo lo que tienes que saber para comprar una carcasa para iPhone 14</a></h4>
     <a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='Todo lo que tienes que saber para comprar una carcasa para iPhone 14' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427'>Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven</a></h4>
     <a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/grupo-sanguineo-mayor-riesgo-sufrir-ictus-antes-60-anos-2816643.jpg' alt='Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511'>Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona' />
     </a>
 </div>
 
