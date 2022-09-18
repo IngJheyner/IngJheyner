@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ufs-40-ventajas-va-traer-mundo-smartphones-1112725'>Qué es UFS 4.0 y qué ventajas va a traer al mundo de los smartphones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ufs-40-ventajas-va-traer-mundo-smartphones-1112725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663410524607-2816245.jpg' alt='Qué es UFS 4.0 y qué ventajas va a traer al mundo de los smartphones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809'>JBL Boombox 3, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/jbl-boombox-3-2810199.jpg' alt='JBL Boombox 3, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-865-ofertas-1125823'>Estos son los mejores móviles con Snapdragon 865: rendimiento top al borde de la gama alta</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-865-ofertas-1125823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1958121.jpg' alt='Estos son los mejores móviles con Snapdragon 865: rendimiento top al borde de la gama alta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/robot-entrega-alimentos-entra-escena-crimen-sorpresa-policia-1126219'>Este robot de entrega de alimentos entra en la escena de un crimen ante la sorpresa de la policía</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/robot-entrega-alimentos-entra-escena-crimen-sorpresa-policia-1126219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-entrega-alimentos-irrumpe-escena-policial-sorpresa-autoridades-2816419.jpg' alt='Este robot de entrega de alimentos entra en la escena de un crimen ante la sorpresa de la policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-muestra-pesimista-futuro-civilizacion-debido-cambio-climatico-1126221'>Bill Gates se muestra pesimista por el futuro de la civilización debido al cambio climático</a></h4>
-    <a href='https://computerhoy.com/noticias/life/bill-gates-muestra-pesimista-futuro-civilizacion-debido-cambio-climatico-1126221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2816421.jpg' alt='Bill Gates se muestra pesimista por el futuro de la civilización debido al cambio climático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-funda-movil-1122393'>Los errores que no debes cometer al comprar una funda para tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-funda-movil-1122393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fundas-movil-2809511.jpg' alt='Los errores que no debes cometer al comprar una funda para tu móvil' />
     </a>
 </div>
 
