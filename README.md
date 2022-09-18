@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-frigorifico-1118793'>Errores que no debes cometer al comprar un frigorífico</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-frigorifico-1118793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frigorifico-2802455.jpg' alt='Errores que no debes cometer al comprar un frigorífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869'>Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/1-2-movil-2808235.jpg' alt='Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-pro-2506545.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741'>Los mejores accesorios tech para cuidar a tu gato</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-tech-cuidar-gato-1122741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/accesorios-tech-gatos-2810031.jpg' alt='Los mejores accesorios tech para cuidar a tu gato' />
     </a>
 </div>
 
