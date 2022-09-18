@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009'>7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/operacion-swordfish-2812331.jpg' alt='7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/color-sol-respuesta-astronauta-nasa-te-dejara-muy-sorprendido-1126473'>¿De qué color es el Sol? La respuesta de este astronauta de la NASA te dejará muy sorprendido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/color-sol-respuesta-astronauta-nasa-te-dejara-muy-sorprendido-1126473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/sol-2816787.jpg' alt='¿De qué color es el Sol? La respuesta de este astronauta de la NASA te dejará muy sorprendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745'>realme Watch 3, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815517.jpg' alt='realme Watch 3, análisis y opinión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715'>¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/quien-artemisa-nombre-mision-nasa-luna-tiene-significado-muy-profundo-2815377.jpg' alt='¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ufs-40-ventajas-va-traer-mundo-smartphones-1112725'>Qué es UFS 4.0 y qué ventajas va a traer al mundo de los smartphones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ufs-40-ventajas-va-traer-mundo-smartphones-1112725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663410524607-2816245.jpg' alt='Qué es UFS 4.0 y qué ventajas va a traer al mundo de los smartphones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809'>JBL Boombox 3, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/jbl-boombox-3-2810199.jpg' alt='JBL Boombox 3, análisis y opinión' />
     </a>
 </div>
 
