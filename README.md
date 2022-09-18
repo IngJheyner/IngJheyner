@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/bill-gates-muestra-pesimista-futuro-civilizacion-debido-cambio-climatico-1126221'>Bill Gates se muestra pesimista por el futuro de la civilización debido al cambio climático</a></h4>
+    <a href='https://computerhoy.com/noticias/life/bill-gates-muestra-pesimista-futuro-civilizacion-debido-cambio-climatico-1126221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2816421.jpg' alt='Bill Gates se muestra pesimista por el futuro de la civilización debido al cambio climático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-funda-movil-1122393'>Los errores que no debes cometer al comprar una funda para tu móvil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-funda-movil-1122393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fundas-movil-2809511.jpg' alt='Los errores que no debes cometer al comprar una funda para tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/dyson-v15-detect-2468857.jpg' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-frigorifico-1118793'>Errores que no debes cometer al comprar un frigorífico</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/errores-no-debes-cometer-comprar-frigorifico-1118793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/frigorifico-2802455.jpg' alt='Errores que no debes cometer al comprar un frigorífico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869'>Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-1-2-rtve-directo-movil-tablet-ios-android-tdt-1121869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/1-2-movil-2808235.jpg' alt='Cómo ver La 1 y La 2 de RTVE en directo en tu móvil o tablet (iOS / Android) sin TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223'>No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/no-te-instales-actualizacion-iphone-14-pro-romperas-gps-1126223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='No te instales esta actualización en tu iPhone 14 Pro o romperás el GPS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217'>El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reflejo-cristales-gafas-puede-desvelar-informacion-videollamadas-sepas-estudio-1126217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hombre-utilizando-ordenador-2816417.jpg' alt='El reflejo en los cristales de las gafas puede desvelar información en las videollamadas sin que lo sepas, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-pro-2506545.jpg' alt='Estas son las mejores tablets para estudiantes de 2022' />
     </a>
 </div>
 
