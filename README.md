@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745'>realme Watch 3, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815517.jpg' alt='realme Watch 3, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461'>Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telegram-2816779.jpg' alt='Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715'>¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo</a></h4>
     <a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/quien-artemisa-nombre-mision-nasa-luna-tiene-significado-muy-profundo-2815377.jpg' alt='¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809'>JBL Boombox 3, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/jbl-boombox-3-analisis-opinion-1122809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/jbl-boombox-3-2810199.jpg' alt='JBL Boombox 3, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-865-ofertas-1125823'>Estos son los mejores móviles con Snapdragon 865: rendimiento top al borde de la gama alta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-865-ofertas-1125823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/poco-f2-pro-analisis-opinion-1958121.jpg' alt='Estos son los mejores móviles con Snapdragon 865: rendimiento top al borde de la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/ralentiza-portatil-necesitas-arreglarlo-1123691'>Por qué se ralentiza tu portátil y qué necesitas para arreglarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/ralentiza-portatil-necesitas-arreglarlo-1123691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg' alt='Por qué se ralentiza tu portátil y qué necesitas para arreglarlo' />
     </a>
 </div>
 
