@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/filtran-90-supuestos-videos-gta-6-10000-lineas-codigo-luce-videojuego-esperado-1126507'>Se filtran 90 supuestos vídeos de GTA 6 y 10.000 líneas de código: así luce el videojuego más esperado</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/filtran-90-supuestos-videos-gta-6-10000-lineas-codigo-luce-videojuego-esperado-1126507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gta-v-roleplay-2688499.jpg' alt='Se filtran 90 supuestos vídeos de GTA 6 y 10.000 líneas de código: así luce el videojuego más esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485'>Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aire-aceite-cecotec-2816797.jpg' alt='Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745'>realme Watch 3, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/realme-watch-3-review-opinion-1125745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/realme-watch-3-analisis-opinion-2815517.jpg' alt='realme Watch 3, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461'>Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telegram-2816779.jpg' alt='Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más' />
     </a>
 </div>
 
