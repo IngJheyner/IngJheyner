@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-sexta-directo-movil-tablet-ios-android-tdt-1120789'>Cómo ver La Sexta en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-sexta-directo-movil-tablet-ios-android-tdt-1120789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/movil-lasexta-2806293.jpg' alt='Cómo ver La Sexta en directo en tu móvil o tablet (iOS / Android) sin TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/monitor-asrock-phantom-gaming-antena-wifi-1126553'>Este monitor viene con una antena que duplica la señal WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/monitor-asrock-phantom-gaming-antena-wifi-1126553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monitor-viene-antena-triplica-senal-wifi-2816983.jpg' alt='Este monitor viene con una antena que duplica la señal WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/como-instalar-half-life-2-vr-mod-realidad-virtual-1126547'>Cómo instalar gratis Half-Life 2: VR Mod y jugar al mítico juego en realidad virtual</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/como-instalar-half-life-2-vr-mod-realidad-virtual-1126547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-instalar-gratis-half-life-2-vr-mod-jugar-mitico-juego-dentro-2816963.jpg' alt='Cómo instalar gratis Half-Life 2: VR Mod y jugar al mítico juego en realidad virtual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425'>Todo lo que tienes que saber para comprar una carcasa para iPhone 14</a></h4>
     <a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='Todo lo que tienes que saber para comprar una carcasa para iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703'>Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2022?</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524101.jpg' alt='Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537'>RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuidado-entrar-enlaces-promocionales-videos-youtube-algunos-son-malware-2816917.jpg' alt='RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube' />
     </a>
 </div>
 
