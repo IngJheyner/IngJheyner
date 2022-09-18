@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425'>Todo lo que tienes que saber para comprar una carcasa para iPhone 14</a></h4>
+    <a href='https://computerhoy.com/guia-compra/carcasa-iphone-14-1122425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806887.jpg' alt='Todo lo que tienes que saber para comprar una carcasa para iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703'>Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2022?</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-apple-cual-es-mejor-533703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524101.jpg' alt='Me quiero comprar unos auriculares Apple, ¿cuáles son los mejores en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537'>RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/redline-malware-sube-videos-enlaces-infectados-canal-youtube-1126537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cuidado-entrar-enlaces-promocionales-videos-youtube-algunos-son-malware-2816917.jpg' alt='RedLine, el malware que sube vídeos con enlaces infectados a tu canal de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427'>Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven</a></h4>
     <a href='https://computerhoy.com/noticias/life/grupo-sanguineo-mayor-riesgo-sufrir-ictus-joven-1126427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/grupo-sanguineo-mayor-riesgo-sufrir-ictus-antes-60-anos-2816643.jpg' alt='Este es el grupo sanguíneo con mayor riesgo de sufrir un ictus de joven' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511'>Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nueva-funcion-seguridad-autocompletar-contrasenas-llegara-chrome-funciona-1126511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/google-chrome-seguridad-2577995.jpg' alt='Esta nueva función de seguridad para autocompletar contraseñas llegará a Chrome y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/filtran-90-supuestos-videos-gta-6-10000-lineas-codigo-luce-videojuego-esperado-1126507'>Se filtran 90 supuestos vídeos de GTA 6 y 10.000 líneas de código: así luce el videojuego más esperado</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/filtran-90-supuestos-videos-gta-6-10000-lineas-codigo-luce-videojuego-esperado-1126507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gta-v-roleplay-2688499.jpg' alt='Se filtran 90 supuestos vídeos de GTA 6 y 10.000 líneas de código: así luce el videojuego más esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485'>Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aire-aceite-cecotec-2816797.jpg' alt='Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009'>7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/operacion-swordfish-2812331.jpg' alt='7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza' />
     </a>
 </div>
 
