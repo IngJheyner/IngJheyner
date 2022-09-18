@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485'>Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/freidora-aire-5l-acero-inoxidable-oferta-7990-euros-1126485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/freidora-aire-aceite-cecotec-2816797.jpg' alt='Esta freidora de aire de 5L en acero inoxidable en oferta por 79,90 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009'>7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-aberraciones-tecnologicas-tan-imposibles-dan-poco-verguenza-1124009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/operacion-swordfish-2812331.jpg' alt='7 películas con aberraciones tecnológicas tan imposibles que hasta dan un poco de vergüenza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461'>Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-telegram-reacciones-infinitas-estados-emoji-mucho-1126461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telegram-2816779.jpg' alt='Actualización para Telegram: reacciones infinitas, estados de emoji y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715'>¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/quien-es-artemisa-1125715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/quien-artemisa-nombre-mision-nasa-luna-tiene-significado-muy-profundo-2815377.jpg' alt='¿Quién es Artemisa? El nombre de la misión de la NASA a la Luna, tiene un significado muy profundo' />
     </a>
 </div>
 
