@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-google-maps-android-ios-1126887'>Las 7 mejores alternativas a Google Maps en Android e iOS</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-google-maps-android-ios-1126887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-mejores-alternativas-google-maps-android-ios-2817485.jpg' alt='Las 7 mejores alternativas a Google Maps en Android e iOS' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991'>El Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x6-2817753.jpg' alt='El Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/mapa-muestra-evolucion-invasion-rusa-avance-guerra-ucrania-1126883'>El mapa que muestra la evolución de la invasión rusa y el avance de la guerra en Ucrania</a></h4>
-    <a href='https://computerhoy.com/noticias/mapa-muestra-evolucion-invasion-rusa-avance-guerra-ucrania-1126883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg' alt='El mapa que muestra la evolución de la invasión rusa y el avance de la guerra en Ucrania' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-1125729'>Di adiós a Alexa y hola a Siri: el altavoz inteligente de Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-homepod-mini-oferta-1125729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-homepod-mini-2815439.jpg' alt='Di adiós a Alexa y hola a Siri: el altavoz inteligente de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-7s-reloj-deportivo-oferta-1125013'>Primeras ofertas en el Garmin Fenix 7S, uno de los relojes deportivos más buscados por runners y triatletas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-7s-reloj-deportivo-oferta-1125013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7s-2591049.jpg' alt='Primeras ofertas en el Garmin Fenix 7S, uno de los relojes deportivos más buscados por runners y triatletas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/filtra-rendimiento-configuracion-procesador-tensor-g2-pixel-7-pro-poca-mejora-1126969'>Se filtra el rendimiento y configuración del procesador Tensor G2 del Pixel 7 Pro: poca mejora</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/filtra-rendimiento-configuracion-procesador-tensor-g2-pixel-7-pro-poca-mejora-1126969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-7-google-tablet-google-wallet-todas-novedades-software-google-i-ano-2699771.jpg' alt='Se filtra el rendimiento y configuración del procesador Tensor G2 del Pixel 7 Pro: poca mejora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861'>El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2817397.jpg' alt='El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima' />
+    <h4><a href='https://computerhoy.com/noticias/life/llega-luz-v16-geolocalizada-dgt-podras-seguir-utilizando-v16-actual-triangulos-emergencia-1126941'>Llega la luz V16 geolocalizada de la DGT: ¿podrás seguir utilizando tu V16 actual o los triángulos de emergencia?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/llega-luz-v16-geolocalizada-dgt-podras-seguir-utilizando-v16-actual-triangulos-emergencia-1126941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/baliza-emergencia-flashled-v16-2745629.jpg' alt='Llega la luz V16 geolocalizada de la DGT: ¿podrás seguir utilizando tu V16 actual o los triángulos de emergencia?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057'>Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-conseguido-implementar-conexion-satelite-iphone-14-1126935'>Así es como Apple ha conseguido implementar la conexión satélite en los iPhone 14</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-conseguido-implementar-conexion-satelite-iphone-14-1126935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg' alt='Así es como Apple ha conseguido implementar la conexión satélite en los iPhone 14' />
     </a>
 </div>
 
