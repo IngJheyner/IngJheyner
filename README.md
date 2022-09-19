@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-nombre-usb-c-otras-posibles-caracteristicas-futuros-iphone-15-1127143'>Nuevo nombre, USB-C y otras posibles características de los futuros iPhone 15</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-nombre-usb-c-otras-posibles-caracteristicas-futuros-iphone-15-1127143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Nuevo nombre, USB-C y otras posibles características de los futuros iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-secretos-filtrados-precios-colores-google-pixel-watch-1127121'>Se acabaron los secretos: filtrados los precios y colores del Google Pixel Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acabaron-secretos-filtrados-precios-colores-google-pixel-watch-1127121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Se acabaron los secretos: filtrados los precios y colores del Google Pixel Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-emojis-utilizas-diario-whatsapp-no-significan-piensas-1127137'>5 emojis que utilizas a diario en WhatsApp y que no significan lo que piensas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/5-emojis-utilizas-diario-whatsapp-no-significan-piensas-1127137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg' alt='5 emojis que utilizas a diario en WhatsApp y que no significan lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459'>Qué es IPTV, cómo funciona, Kodi y mejores listas de canales de TV gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg' alt='Qué es IPTV, cómo funciona, Kodi y mejores listas de canales de TV gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847'>Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487729.jpg' alt='Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-deja-ver-mostrando-parte-diseno-especificaciones-1127095'>El Xiaomi 13 Pro se deja ver mostrando parte de su diseño y sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-deja-ver-mostrando-parte-diseno-especificaciones-1127095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-2749225.jpg' alt='El Xiaomi 13 Pro se deja ver mostrando parte de su diseño y sus especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073'>Cómo ver online un expediente de incapacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-ruedas-2817925.jpg' alt='Cómo ver online un expediente de incapacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuestas-llegaran-whatsapp-navegador-whatsapp-web-beta-1127075'>Las encuestas llegarán a WhatsApp vía el navegador con WhatsApp Web beta</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/encuestas-llegaran-whatsapp-navegador-whatsapp-web-beta-1127075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/relacion-pareja-whatsapp-2799893.jpg' alt='Las encuestas llegarán a WhatsApp vía el navegador con WhatsApp Web beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069'>Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo</a></h4>
-    <a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo' />
     </a>
 </div>
 
