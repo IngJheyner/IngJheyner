@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847'>Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487729.jpg' alt='Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-deja-ver-mostrando-parte-diseno-especificaciones-1127095'>El Xiaomi 13 Pro se deja ver mostrando parte de su diseño y sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-13-pro-deja-ver-mostrando-parte-diseno-especificaciones-1127095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/xiaomi-12s-2749225.jpg' alt='El Xiaomi 13 Pro se deja ver mostrando parte de su diseño y sus especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073'>Cómo ver online un expediente de incapacidad</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-ruedas-2817925.jpg' alt='Cómo ver online un expediente de incapacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069'>Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo</a></h4>
     <a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063'>El gran punto débil del iPhone 14 Pro Max: más de 1 hora y media en cargar le deja muy por detrás de la competencia</a></h4>
-    <a href='https://computerhoy.com/noticias/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='El gran punto débil del iPhone 14 Pro Max: más de 1 hora y media en cargar le deja muy por detrás de la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fuentes-alimentacion-atx-30-todo-tienes-saber-nuevo-estandar-1126995'>Fuentes de alimentación ATX 3.0, todo lo que tienes que saber del nuevo estándar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fuentes-alimentacion-atx-30-todo-tienes-saber-nuevo-estandar-1126995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fuente-alimentacion-2817891.jpg' alt='Fuentes de alimentación ATX 3.0, todo lo que tienes que saber del nuevo estándar' />
     </a>
 </div>
 
