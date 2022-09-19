@@ -50,8 +50,32 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063'>El gran punto débil del iPhone 14 Pro Max: más de 1 hora y media en cargar le deja muy por detrás de la competencia</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063' target='_blank'>
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073'>Cómo ver online un expediente de incapacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-ver-online-expediente-incapacidad-1127073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/silla-ruedas-2817925.jpg' alt='Cómo ver online un expediente de incapacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/encuestas-llegaran-whatsapp-navegador-whatsapp-web-beta-1127075'>Las encuestas llegarán a WhatsApp vía el navegador con WhatsApp Web beta</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/encuestas-llegaran-whatsapp-navegador-whatsapp-web-beta-1127075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/relacion-pareja-whatsapp-2799893.jpg' alt='Las encuestas llegarán a WhatsApp vía el navegador con WhatsApp Web beta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069'>Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo</a></h4>
+    <a href='https://computerhoy.com/noticias/android-auto-81-final-disponible-todo-mundo-puedes-probarlo-1127069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-google-va-revolucionar-android-auto-verano-2701855.jpg' alt='Android Auto 8.1 final disponible para todo el mundo, así puedes probarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063'>El gran punto débil del iPhone 14 Pro Max: más de 1 hora y media en cargar le deja muy por detrás de la competencia</a></h4>
+    <a href='https://computerhoy.com/noticias/gran-punto-debil-iphone-14-pro-max-1-hora-media-cargar-deja-muy-detras-competencia-1127063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='El gran punto débil del iPhone 14 Pro Max: más de 1 hora y media en cargar le deja muy por detrás de la competencia' />
     </a>
 </div>
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fuentes-alimentacion-atx-30-todo-tienes-saber-nuevo-estandar-1126995'>Fuentes de alimentación ATX 3.0, todo lo que tienes que saber del nuevo estándar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fuentes-alimentacion-atx-30-todo-tienes-saber-nuevo-estandar-1126995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fuente-alimentacion-2817891.jpg' alt='Fuentes de alimentación ATX 3.0, todo lo que tienes que saber del nuevo estándar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-telefonos-android-conseguiras-reducir-estres-ansiedad-1119599'>Los mejores juegos para teléfonos Android con los que conseguirás reducir el estrés y la ansiedad</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-juegos-telefonos-android-conseguiras-reducir-estres-ansiedad-1119599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-juegos-telefonos-android-conseguiras-reducir-estres-ansiedad-2817623.jpg' alt='Los mejores juegos para teléfonos Android con los que conseguirás reducir el estrés y la ansiedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/galaxy-tab-active4-pro-nueva-tablet-resistente-android-samsung-1127003'>Galaxy Tab Active4 Pro, la nueva tablet resistente Android de Samsung</a></h4>
-    <a href='https://computerhoy.com/noticias/galaxy-tab-active4-pro-nueva-tablet-resistente-android-samsung-1127003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-tab-active4-pro-2817781.jpg' alt='Galaxy Tab Active4 Pro, la nueva tablet resistente Android de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991'>El nuevo smartphone Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x6-2817753.jpg' alt='El nuevo smartphone Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones' />
     </a>
 </div>
 
