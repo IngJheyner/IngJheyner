@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-google-maps-android-ios-1126887'>Las 7 mejores alternativas a Google Maps en Android e iOS</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/7-mejores-alternativas-google-maps-android-ios-1126887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-mejores-alternativas-google-maps-android-ios-2817485.jpg' alt='Las 7 mejores alternativas a Google Maps en Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/mapa-muestra-evolucion-invasion-rusa-avance-guerra-ucrania-1126883'>El mapa que muestra la evolución de la invasión rusa y el avance de la guerra en Ucrania</a></h4>
+    <a href='https://computerhoy.com/noticias/mapa-muestra-evolucion-invasion-rusa-avance-guerra-ucrania-1126883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/portatil-militar-2119633.jpg' alt='El mapa que muestra la evolución de la invasión rusa y el avance de la guerra en Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-7s-reloj-deportivo-oferta-1125013'>Primeras ofertas en el Garmin Fenix 7S, uno de los relojes deportivos más buscados por runners y triatletas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/garmin-fenix-7s-reloj-deportivo-oferta-1125013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7s-2591049.jpg' alt='Primeras ofertas en el Garmin Fenix 7S, uno de los relojes deportivos más buscados por runners y triatletas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861'>El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2817397.jpg' alt='El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057'>Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/molestos-ruidos-movimientos-camara-iphone-14-pro-pro-max-usar-apps-terceros-apuntan-problema-software-1126835'>Los molestos ruidos y movimientos de cámara del iPhone 14 Pro y Pro Max al usar apps de terceros apuntan a problema software</a></h4>
-    <a href='https://computerhoy.com/noticias/molestos-ruidos-movimientos-camara-iphone-14-pro-pro-max-usar-apps-terceros-apuntan-problema-software-1126835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/camara-principal-iphone-14-pro-2806933.jpg' alt='Los molestos ruidos y movimientos de cámara del iPhone 14 Pro y Pro Max al usar apps de terceros apuntan a problema software' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aumentan-casos-inhibidores-gps-robo-camiones-barcos-derribo-drones-1126819'>Aumentan los casos de inhibidores de GPS para el robo de camiones, barcos o derribo de drones </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aumentan-casos-inhibidores-gps-robo-camiones-barcos-derribo-drones-1126819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/satelite-gps-global-positioning-system-1879517.png' alt='Aumentan los casos de inhibidores de GPS para el robo de camiones, barcos o derribo de drones ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795'>Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9</a></h4>
-    <a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613499.jpg' alt='Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9' />
     </a>
 </div>
 
