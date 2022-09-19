@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169'>Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173'>Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147'>Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-bourne-hbo-max-1127161'>La saga Bourne cumple 20 años y lo celebra estrenando las cinco películas en HBO Max</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-bourne-hbo-max-1127161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/saga-accion-marco-2000-llega-hbo-max-completo-todo-bourne-2818083.jpg' alt='La saga Bourne cumple 20 años y lo celebra estrenando las cinco películas en HBO Max' />
     </a>
 </div>
 
