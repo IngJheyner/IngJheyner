@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991'>El Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x6-2817753.jpg' alt='El Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones' />
+    <h4><a href='https://computerhoy.com/noticias/galaxy-tab-active4-pro-nueva-tablet-resistente-android-samsung-1127003'>Galaxy Tab Active4 Pro, la nueva tablet resistente Android de Samsung</a></h4>
+    <a href='https://computerhoy.com/noticias/galaxy-tab-active4-pro-nueva-tablet-resistente-android-samsung-1127003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/galaxy-tab-active4-pro-2817781.jpg' alt='Galaxy Tab Active4 Pro, la nueva tablet resistente Android de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991'>El nuevo smartphone Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones</a></h4>
+    <a href='https://computerhoy.com/noticias/honor-x6-contara-triple-camara-50-mp-bateria-5000-mah-filtraciones-1126991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/honor-x6-2817753.jpg' alt='El nuevo smartphone Honor X6 contará con una triple cámara de 50 MP y batería de 5000 mAh, según filtraciones' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/llega-luz-v16-geolocalizada-dgt-podras-seguir-utilizando-v16-actual-triangulos-emergencia-1126941'>Llega la luz V16 geolocalizada de la DGT: ¿podrás seguir utilizando tu V16 actual o los triángulos de emergencia?</a></h4>
     <a href='https://computerhoy.com/noticias/life/llega-luz-v16-geolocalizada-dgt-podras-seguir-utilizando-v16-actual-triangulos-emergencia-1126941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/baliza-emergencia-flashled-v16-2745629.jpg' alt='Llega la luz V16 geolocalizada de la DGT: ¿podrás seguir utilizando tu V16 actual o los triángulos de emergencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-conseguido-implementar-conexion-satelite-iphone-14-1126935'>Así es como Apple ha conseguido implementar la conexión satélite en los iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-apple-ha-conseguido-implementar-conexion-satelite-iphone-14-1126935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg' alt='Así es como Apple ha conseguido implementar la conexión satélite en los iPhone 14' />
     </a>
 </div>
 
