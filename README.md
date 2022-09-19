@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861'>El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/motivo-cientificos-ensenan-reir-robots-aunque-ahora-mismo-grima-1126861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2817397.jpg' alt='El motivo por el que los científicos enseñan a reír a robots, aunque ahora mismo dé grima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057'>Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-stadia-guia-compra-532057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/google-stadia_0.jpg' alt='Qué es Google Stadia: todo lo que debes saber sobre la plataforma de videojuegos de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/molestos-ruidos-movimientos-camara-iphone-14-pro-pro-max-usar-apps-terceros-apuntan-problema-software-1126835'>Los molestos ruidos y movimientos de cámara del iPhone 14 Pro y Pro Max al usar apps de terceros apuntan a problema software</a></h4>
+    <a href='https://computerhoy.com/noticias/molestos-ruidos-movimientos-camara-iphone-14-pro-pro-max-usar-apps-terceros-apuntan-problema-software-1126835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/camara-principal-iphone-14-pro-2806933.jpg' alt='Los molestos ruidos y movimientos de cámara del iPhone 14 Pro y Pro Max al usar apps de terceros apuntan a problema software' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aumentan-casos-inhibidores-gps-robo-camiones-barcos-derribo-drones-1126819'>Aumentan los casos de inhibidores de GPS para el robo de camiones, barcos o derribo de drones </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aumentan-casos-inhibidores-gps-robo-camiones-barcos-derribo-drones-1126819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/satelite-gps-global-positioning-system-1879517.png' alt='Aumentan los casos de inhibidores de GPS para el robo de camiones, barcos o derribo de drones ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795'>Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9</a></h4>
     <a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613499.jpg' alt='Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/no-uses-tiktok-como-buscador-20-veces-llegas-informacion-erronea-falsa-1126787'>No uses TikTok como buscador, el 20% de las veces llegas a información errónea o falsa</a></h4>
-    <a href='https://computerhoy.com/noticias/no-uses-tiktok-como-buscador-20-veces-llegas-informacion-erronea-falsa-1126787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-2817213.jpg' alt='No uses TikTok como buscador, el 20% de las veces llegas a información errónea o falsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-amazon-1125005'>Por debajo de 300 euros y con buena cámara: este móvil Samsung que hemos probado tiene 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-amazon-1125005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a33-2686681.jpg' alt='Por debajo de 300 euros y con buena cámara: este móvil Samsung que hemos probado tiene 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779'>ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa</a></h4>
-    <a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rog-phone-6d-2817179.jpg' alt='ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
     </a>
 </div>
 
