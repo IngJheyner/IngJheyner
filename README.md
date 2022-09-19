@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163'>Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-series-8-2818097.jpg' alt='Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147'>Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-bourne-hbo-max-1127161'>La saga Bourne cumple 20 años y lo celebra estrenando las cinco películas en HBO Max</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-bourne-hbo-max-1127161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/saga-accion-marco-2000-llega-hbo-max-completo-todo-bourne-2818083.jpg' alt='La saga Bourne cumple 20 años y lo celebra estrenando las cinco películas en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-nombre-usb-c-otras-posibles-caracteristicas-futuros-iphone-15-1127143'>Nuevo nombre, USB-C y otras posibles características de los futuros iPhone 15</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevo-nombre-usb-c-otras-posibles-caracteristicas-futuros-iphone-15-1127143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-2806889.jpg' alt='Nuevo nombre, USB-C y otras posibles características de los futuros iPhone 15' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acabaron-secretos-filtrados-precios-colores-google-pixel-watch-1127121'>Se acabaron los secretos: filtrados los precios y colores del Google Pixel Watch</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acabaron-secretos-filtrados-precios-colores-google-pixel-watch-1127121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-pixel-buds-pro-primer-reloj-compania-llega-junto-auriculares-audio-espacial-2699763.jpg' alt='Se acabaron los secretos: filtrados los precios y colores del Google Pixel Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/5-emojis-utilizas-diario-whatsapp-no-significan-piensas-1127137'>5 emojis que utilizas a diario en WhatsApp y que no significan lo que piensas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/5-emojis-utilizas-diario-whatsapp-no-significan-piensas-1127137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg' alt='5 emojis que utilizas a diario en WhatsApp y que no significan lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459'>Qué es IPTV, cómo funciona, Kodi y mejores listas de canales de TV gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg' alt='Qué es IPTV, cómo funciona, Kodi y mejores listas de canales de TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847'>Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oportunidad-liquidacion-modelos-iphone-1126847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/analisis-iphone-13-pro-2487729.jpg' alt='Si quieres un iPhone esta es tu oportunidad: liquidación de iPhone desde 500 euros' />
     </a>
 </div>
 
