@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779'>ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa</a></h4>
+    <a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rog-phone-6d-2817179.jpg' alt='ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/rover-perseverance-materia-organica-vida-marte-1126225'>El rover Perseverance encuentra una gran concentración de materia orgánica que puede ser clave para saber si hubo vida en Marte</a></h4>
     <a href='https://computerhoy.com/noticias/life/rover-perseverance-materia-organica-vida-marte-1126225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rover-perseverance-encuentra-materia-organica-puede-ser-clave-saber-hubo-vida-marte-2816461.jpg' alt='El rover Perseverance encuentra una gran concentración de materia orgánica que puede ser clave para saber si hubo vida en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-sexta-directo-movil-tablet-ios-android-tdt-1120789'>Cómo ver La Sexta en directo en tu móvil o tablet (iOS / Android) sin TDT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-ver-sexta-directo-movil-tablet-ios-android-tdt-1120789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/movil-lasexta-2806293.jpg' alt='Cómo ver La Sexta en directo en tu móvil o tablet (iOS / Android) sin TDT' />
     </a>
 </div>
 
