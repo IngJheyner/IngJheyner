@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795'>Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9</a></h4>
+    <a href='https://computerhoy.com/noticias/microsoft-podria-dar-salto-arm-equipo-convertible-surface-pro-9-1126795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613499.jpg' alt='Microsoft podría dar el salto a ARM con su equipo convertible Surface Pro 9' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/no-uses-tiktok-como-buscador-20-veces-llegas-informacion-erronea-falsa-1126787'>No uses TikTok como buscador, el 20% de las veces llegas a información errónea o falsa</a></h4>
+    <a href='https://computerhoy.com/noticias/no-uses-tiktok-como-buscador-20-veces-llegas-informacion-erronea-falsa-1126787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-2817213.jpg' alt='No uses TikTok como buscador, el 20% de las veces llegas a información errónea o falsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-amazon-1125005'>Por debajo de 300 euros y con buena cámara: este móvil Samsung que hemos probado tiene 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/samsung-galaxy-a33-5g-oferta-amazon-1125005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-galaxy-a33-2686681.jpg' alt='Por debajo de 300 euros y con buena cámara: este móvil Samsung que hemos probado tiene 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779'>ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa</a></h4>
     <a href='https://computerhoy.com/noticias/rog-phone-6d-ultimo-smartphone-gaming-top-marca-taiwanesa-1126779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rog-phone-6d-2817179.jpg' alt='ROG Phone 6D, así es el último smartphone gaming TOP de la marca taiwanesa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441'>Mejores comederos automáticos para perros y gatos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-comederos-automaticos-perros-gatos-1012441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/comedero-gatos-mascotas-2616523.jpg' alt='Mejores comederos automáticos para perros y gatos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1126755'>36 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/36-noticias-tecnologia-comenzar-manana-informado-ultimo-1126755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/36-noticias-tecnologia-comenzar-manana-informado-ultimo-2817165.jpg' alt='36 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-suunto-1126477'>Relojes Suunto: estos son los mejores que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-suunto-1126477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg' alt='Relojes Suunto: estos son los mejores que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/rover-perseverance-materia-organica-vida-marte-1126225'>El rover Perseverance encuentra una gran concentración de materia orgánica que puede ser clave para saber si hubo vida en Marte</a></h4>
-    <a href='https://computerhoy.com/noticias/life/rover-perseverance-materia-organica-vida-marte-1126225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rover-perseverance-encuentra-materia-organica-puede-ser-clave-saber-hubo-vida-marte-2816461.jpg' alt='El rover Perseverance encuentra una gran concentración de materia orgánica que puede ser clave para saber si hubo vida en Marte' />
     </a>
 </div>
 
