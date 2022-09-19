@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187'>La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fusion-ethereum-no-consigue-efecto-deseado-precio-como-bitcoin-derrumba-2818115.jpg' alt='La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169'>Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163'>Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-series-8-2818097.jpg' alt='Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147'>Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ultimos-rumores-apuntan-pronto-veremos-nuevos-modelos-ipad-pro-1127147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ipad-pro-11-pulgadas-2532657.jpg' alt='Los últimos rumores apuntan a que pronto veremos nuevos modelos de iPad Pro' />
     </a>
 </div>
 
