@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2818355.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-dominar-microsoft-office-1126953'>Mejores cursos para aprender a dominar Microsoft Office nivel dios</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-dominar-microsoft-office-1126953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-usando-portatil-programas-office-2817693.jpg' alt='Mejores cursos para aprender a dominar Microsoft Office nivel dios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423'>El método 4-7-8 para dormirte más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg' alt='El método 4-7-8 para dormirte más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187'>La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fusion-ethereum-no-consigue-efecto-deseado-precio-como-bitcoin-derrumba-2818115.jpg' alt='La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169'>Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chrome-edge-estarian-enviando-informacion-contrasenas-culpa-tiene-corrector-texto-1127169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg' alt='Chrome y Edge estarían enviando información de contraseñas y la culpa la tiene el corrector de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173'>Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros' />
     </a>
 </div>
 
