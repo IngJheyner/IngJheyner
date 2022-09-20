@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665'>Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg' alt='Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657'>Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-y35-2818985.jpg' alt='Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635'>Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/top-gear-2818993.jpg' alt='Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
     <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/guia-consejos-comprar-radiador-aceite-invierno-2818929.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ethereum-cayendo-picado-despues-tan-esperada-fusion-1127579'>Por qué Ethereum está cayendo en picado después de la tan esperada fusión</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ethereum-cayendo-picado-despues-tan-esperada-fusion-1127579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Por qué Ethereum está cayendo en picado después de la tan esperada fusión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829'>Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/asus-f515ea-bq2137-2817261.jpg' alt='Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros' />
     </a>
 </div>
 
