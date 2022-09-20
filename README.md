@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-caracteristica-iphone-14-encuentra-interior-1127811'>La mejor característica del iPhone 14 se encuentra en su interior</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-caracteristica-iphone-14-encuentra-interior-1127811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='La mejor característica del iPhone 14 se encuentra en su interior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805'>YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dislike-youtube-2537793.jpg' alt='YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cd-projekt-red-exito-witcher-cyberpunk-edgerunners-1127831'>Netflix y CD Projekt Red observan que el éxito de The Witcher se repite con Cyberpunk: Edgerunners</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cd-projekt-red-exito-witcher-cyberpunk-edgerunners-1127831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagenes-cyberpunk-edgerunners-2812313.jpg' alt='Netflix y CD Projekt Red observan que el éxito de The Witcher se repite con Cyberpunk: Edgerunners' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/curiosa-razon-nasa-utiliza-siempre-reloj-cuenta-atras-todos-lanzamientos-1127823'>La curiosa razón por la que la NASA utiliza siempre un reloj de cuenta atrás en todos sus lanzamientos</a></h4>
     <a href='https://computerhoy.com/noticias/life/curiosa-razon-nasa-utiliza-siempre-reloj-cuenta-atras-todos-lanzamientos-1127823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lanzamiento-nasa-2819351.jpg' alt='La curiosa razón por la que la NASA utiliza siempre un reloj de cuenta atrás en todos sus lanzamientos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/conexion-satelite-no-tardaria-llegar-moviles-android-seria-gracias-samsung-1127771'>La conexión por satélite no tardaría en llegar a los móviles Android y sería gracias a Samsung</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/conexion-satelite-no-tardaria-llegar-moviles-android-seria-gracias-samsung-1127771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-samsung-galaxy-s22-ultra-2620745.jpg' alt='La conexión por satélite no tardaría en llegar a los móviles Android y sería gracias a Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/alguien-recibe-error-250000-dolares-google-casi-tiene-rogar-devolverlos-1127819'>Alguien recibe por error 250.000 dólares de Google y casi tiene que rogar para devolverlos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/alguien-recibe-error-250000-dolares-google-casi-tiene-rogar-devolverlos-1127819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2819349.jpg' alt='Alguien recibe por error 250.000 dólares de Google y casi tiene que rogar para devolverlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-cuanto-paro-tengo-acumulado-1127687'>Cómo saber cuánto paro tengo acumulado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-cuanto-paro-tengo-acumulado-1127687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/paro-2819331.jpg' alt='Cómo saber cuánto paro tengo acumulado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/dgt-saca-pecho-numeros-medidas-polemicas-ultimos-anos-1127767'>La DGT saca pecho (y números) por una de sus medidas más polémicas de los últimos años</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/dgt-saca-pecho-numeros-medidas-polemicas-ultimos-anos-1127767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/kamikazes-volante-denuncian-dgt-2423207.jpg' alt='La DGT saca pecho (y números) por una de sus medidas más polémicas de los últimos años' />
     </a>
 </div>
 
