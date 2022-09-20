@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717'>Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-supecargador-250kw-2554841.jpg' alt='Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-1119623'>7 aplicaciones Android con las que enviar archivos a un ordenador sin necesidad de utilizar un cable de datos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-1119623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-2819043.jpg' alt='7 aplicaciones Android con las que enviar archivos a un ordenador sin necesidad de utilizar un cable de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699'>Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hormigas-2486513.jpg' alt='Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665'>Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg' alt='Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657'>Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-y35-2818985.jpg' alt='Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635'>Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/top-gear-2818993.jpg' alt='Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595'>Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-sorpaso-precio-diesel-gasolina-espana-2794027.jpg' alt='Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
-    <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/guia-consejos-comprar-radiador-aceite-invierno-2818929.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
     </a>
 </div>
 
