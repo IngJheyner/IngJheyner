@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565'>Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación</a></h4>
+    <a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bailar-2818679.jpg' alt='Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/compartir-documentos-whatsapp-va-ser-sencillo-descriptivo-1127561'>Compartir documentos en WhatsApp va a ser más sencillo y descriptivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/compartir-documentos-whatsapp-va-ser-sencillo-descriptivo-1127561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Compartir documentos en WhatsApp va a ser más sencillo y descriptivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-1127515'>El mapa que te muestra las revueltas, batallas y guerras que ha habido, históricamente, en tu barrio</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-1127515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-2818487.jpg' alt='El mapa que te muestra las revueltas, batallas y guerras que ha habido, históricamente, en tu barrio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kahoot-2700547.jpg' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-subida-precios-app-store-partir-mes-viene-incluida-europa-1127473'>Apple anuncia una subida de precios en su App Store a partir del mes que viene, incluida Europa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-subida-precios-app-store-partir-mes-viene-incluida-europa-1127473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg' alt='Apple anuncia una subida de precios en su App Store a partir del mes que viene, incluida Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-telegram-llega-monton-novedades-emojis-mejoras-app-1127463'>La nueva actualización de Telegram llega con un montón de novedades: más emojis y mejoras en la app</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-telegram-llega-monton-novedades-emojis-mejoras-app-1127463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telegram-2818393.jpg' alt='La nueva actualización de Telegram llega con un montón de novedades: más emojis y mejoras en la app' />
     </a>
 </div>
 
