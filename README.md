@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-subida-precios-app-store-partir-mes-viene-incluida-europa-1127473'>Apple anuncia una subida de precios en su App Store a partir del mes que viene, incluida Europa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-anuncia-subida-precios-app-store-partir-mes-viene-incluida-europa-1127473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg' alt='Apple anuncia una subida de precios en su App Store a partir del mes que viene, incluida Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-telegram-llega-monton-novedades-emojis-mejoras-app-1127463'>La nueva actualización de Telegram llega con un montón de novedades: más emojis y mejoras en la app</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nueva-actualizacion-telegram-llega-monton-novedades-emojis-mejoras-app-1127463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telegram-2818393.jpg' alt='La nueva actualización de Telegram llega con un montón de novedades: más emojis y mejoras en la app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-33-anos-apple-lanzaba-primer-portatil-tan-solo-7-kilos-macintosh-portable-1127445'>Hace 33 años Apple lanzaba su primer portátil de tan solo 7 kilos: Macintosh Portable</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-33-anos-apple-lanzaba-primer-portatil-tan-solo-7-kilos-macintosh-portable-1127445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/hace-33-anos-apple-lanzaba-primer-portatil-tan-solo-7-kilos-macintosh-portable-2818385.jpg' alt='Hace 33 años Apple lanzaba su primer portátil de tan solo 7 kilos: Macintosh Portable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dxomark-dice-revela-gran-secreto-smartphones-analizan-1127459'>DxOMark dice revela el gran secreto de los smartphones que analizan</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dxomark-dice-revela-gran-secreto-smartphones-analizan-1127459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-galaxy-s22-ultra-2620967.jpg' alt='DxOMark dice revela el gran secreto de los smartphones que analizan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-libros-regalar-kindle-alternativas-782113'>Los mejores lectores de libros para regalar: los Kindle y otras alternativas que merecen la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-libros-regalar-kindle-alternativas-782113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-leyendo-ebook-lector-libros-electronicos-cerca-piscina-2817861.jpg' alt='Los mejores lectores de libros para regalar: los Kindle y otras alternativas que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/conoce-portatiles-intel-evo-viviendo-experiencia-unica-corte-ingles-callao-1124385'>Conoce los portátiles Intel Evo viviendo una experiencia única en El Corte Inglés Callao</a></h4>
-    <a href='https://computerhoy.com/patrocinado/tecnologia/conoce-portatiles-intel-evo-viviendo-experiencia-unica-corte-ingles-callao-1124385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/evolutionexperience-intel-evo-corte-ingles-callao-2817463.jpg' alt='Conoce los portátiles Intel Evo viviendo una experiencia única en El Corte Inglés Callao' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2818355.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-dominar-microsoft-office-1126953'>Mejores cursos para aprender a dominar Microsoft Office nivel dios</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cursos-dominar-microsoft-office-1126953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-usando-portatil-programas-office-2817693.jpg' alt='Mejores cursos para aprender a dominar Microsoft Office nivel dios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423'>El método 4-7-8 para dormirte más rápido</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg' alt='El método 4-7-8 para dormirte más rápido' />
     </a>
 </div>
 
