@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423'>El método 4-7-8 para dormirte más rápido</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg' alt='El método 4-7-8 para dormirte más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/byblock-residuos-plasticos-convertidos-ladrillos-construccion-1127421'>ByBlock, residuos plásticos convertidos en ladrillos para la construcción más resistentes que los originales</a></h4>
+    <a href='https://computerhoy.com/noticias/life/byblock-residuos-plasticos-convertidos-ladrillos-construccion-1127421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663632267677-2818351.jpg' alt='ByBlock, residuos plásticos convertidos en ladrillos para la construcción más resistentes que los originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187'>La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fusion-ethereum-no-consigue-efecto-deseado-precio-como-bitcoin-derrumba-2818115.jpg' alt='La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173'>Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazfit-bip-3-reloj-estilo-apple-watch-barato-1127173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/amazfit-bip-3-2742073.jpg' alt='Amazfit Bip 3, el reloj estilo Apple Watch a precio de pulsera de actividad, solo 55 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/descubierto-grave-problema-seguridad-microsoft-teams-pone-peligro-miles-cuentas-1127155'>Descubierto un grave problema de seguridad en Microsoft Teams que pone en peligro miles de cuentas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/descubierto-grave-problema-seguridad-microsoft-teams-pone-peligro-miles-cuentas-1127155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/microsoft-teams-2010669.jpg' alt='Descubierto un grave problema de seguridad en Microsoft Teams que pone en peligro miles de cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163'>Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/primeras-impresiones-apple-watch-series-8-atrae-ve-pero-conquista-no-muestra-1127163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-series-8-2818097.jpg' alt='Primeras impresiones del Apple Watch Series 8: atrae por lo que se ve, pero conquista por lo que no muestra' />
     </a>
 </div>
 
