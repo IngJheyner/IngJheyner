@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845'>Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-streaming-2819445.jpg' alt='Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-gran-actualizacion-cambios-importantes-1127817'>Windows 11 estrena su gran actualización con cambios importantes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/windows-11-estrena-gran-actualizacion-cambios-importantes-1127817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-estrena-gran-actualizacion-cambios-importantes-2819437.jpg' alt='Windows 11 estrena su gran actualización con cambios importantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805'>YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dislike-youtube-2537793.jpg' alt='YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/netflix-cd-projekt-red-exito-witcher-cyberpunk-edgerunners-1127831'>Netflix y CD Projekt Red observan que el éxito de The Witcher se repite con Cyberpunk: Edgerunners</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/netflix-cd-projekt-red-exito-witcher-cyberpunk-edgerunners-1127831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagenes-cyberpunk-edgerunners-2812313.jpg' alt='Netflix y CD Projekt Red observan que el éxito de The Witcher se repite con Cyberpunk: Edgerunners' />
     </a>
 </div>
 
