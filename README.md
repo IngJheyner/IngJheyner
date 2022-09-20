@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-criptomoneda-luna-dice-no-huyendo-aunque-nadie-sabe-donde-1127711'>El creador de la criptomoneda Luna dice que no está huyendo aunque nadie sabe dónde está</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/creador-criptomoneda-luna-dice-no-huyendo-aunque-nadie-sabe-donde-1127711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='El creador de la criptomoneda Luna dice que no está huyendo aunque nadie sabe dónde está' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/son-rtx-4000-nvidia-modelos-fecha-lanzamiento-precios-especificaciones-1127731'>Así son las RTX 4000 de NVIDIA: modelos, fecha de lanzamiento, precios y especificaciones</a></h4>
+    <a href='https://computerhoy.com/noticias/son-rtx-4000-nvidia-modelos-fecha-lanzamiento-precios-especificaciones-1127731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-nvidia-2819219.jpg' alt='Así son las RTX 4000 de NVIDIA: modelos, fecha de lanzamiento, precios y especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717'>Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico</a></h4>
     <a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-supecargador-250kw-2554841.jpg' alt='Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699'>Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hormigas-2486513.jpg' alt='Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665'>Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-1127665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/artistas-herramientas-inteligencia-artificial-guerra-ha-comenzado-2819025.jpg' alt='Artistas contra las herramientas de Inteligencia artificial: la guerra ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657'>Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/vivo-y35-y22s-y16-son-nuevos-smartphones-gama-media-compania-china-1127657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-y35-2818985.jpg' alt='Vivo Y35, Y22s e Y16: así son los nuevos smartphones de gama media de la compañía china' />
     </a>
 </div>
 
