@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-libros-regalar-kindle-alternativas-782113'>Los mejores lectores de libros para regalar: los Kindle y otras alternativas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-lectores-libros-regalar-kindle-alternativas-782113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mujer-leyendo-ebook-lector-libros-electronicos-cerca-piscina-2817861.jpg' alt='Los mejores lectores de libros para regalar: los Kindle y otras alternativas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/tecnologia/conoce-portatiles-intel-evo-viviendo-experiencia-unica-corte-ingles-callao-1124385'>Conoce los portátiles Intel Evo viviendo una experiencia única en El Corte Inglés Callao</a></h4>
+    <a href='https://computerhoy.com/patrocinado/tecnologia/conoce-portatiles-intel-evo-viviendo-experiencia-unica-corte-ingles-callao-1124385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/evolutionexperience-intel-evo-corte-ingles-callao-2817463.jpg' alt='Conoce los portátiles Intel Evo viviendo una experiencia única en El Corte Inglés Callao' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425'>32 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/32-noticias-tecnologia-comenzar-manana-informado-ultimo-1127425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/32-noticias-tecnologia-comenzar-manana-informado-ultimo-2818355.jpg' alt='32 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423'>El método 4-7-8 para dormirte más rápido</a></h4>
     <a href='https://computerhoy.com/noticias/life/metodo-4-7-8-dormirte-rapido-1127423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg' alt='El método 4-7-8 para dormirte más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/byblock-residuos-plasticos-convertidos-ladrillos-construccion-1127421'>ByBlock, residuos plásticos convertidos en ladrillos para la construcción más resistentes que los originales</a></h4>
-    <a href='https://computerhoy.com/noticias/life/byblock-residuos-plasticos-convertidos-ladrillos-construccion-1127421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663632267677-2818351.jpg' alt='ByBlock, residuos plásticos convertidos en ladrillos para la construcción más resistentes que los originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187'>La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fusion-ethereum-efecto-caida-cotizacion-bitcoin-1127187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fusion-ethereum-no-consigue-efecto-deseado-precio-como-bitcoin-derrumba-2818115.jpg' alt='La Fusión de Ethereum no consigue el efecto deseado: su cotización, como la del Bitcoin, se derrumba aún más' />
     </a>
 </div>
 
