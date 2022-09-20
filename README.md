@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-cuanto-paro-tengo-acumulado-1127687'>Cómo saber cuánto paro tengo acumulado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-cuanto-paro-tengo-acumulado-1127687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/paro-2819331.jpg' alt='Cómo saber cuánto paro tengo acumulado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-saca-pecho-numeros-medidas-polemicas-ultimos-anos-1127767'>La DGT saca pecho (y números) por una de sus medidas más polémicas de los últimos años</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-saca-pecho-numeros-medidas-polemicas-ultimos-anos-1127767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/kamikazes-volante-denuncian-dgt-2423207.jpg' alt='La DGT saca pecho (y números) por una de sus medidas más polémicas de los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
+    <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/guia-consejos-comprar-radiador-aceite-invierno-2818929.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/creador-criptomoneda-luna-dice-no-huyendo-aunque-nadie-sabe-donde-1127711'>El creador de la criptomoneda Luna dice que no está huyendo aunque nadie sabe dónde está</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/creador-criptomoneda-luna-dice-no-huyendo-aunque-nadie-sabe-donde-1127711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-fundador-terra-pretende-rescatar-criptomoneda-extincion-2700315.jpg' alt='El creador de la criptomoneda Luna dice que no está huyendo aunque nadie sabe dónde está' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/son-rtx-4000-nvidia-modelos-fecha-lanzamiento-precios-especificaciones-1127731'>Así son las RTX 4000 de NVIDIA: modelos, fecha de lanzamiento, precios y especificaciones</a></h4>
     <a href='https://computerhoy.com/noticias/son-rtx-4000-nvidia-modelos-fecha-lanzamiento-precios-especificaciones-1127731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4090-nvidia-2819219.jpg' alt='Así son las RTX 4000 de NVIDIA: modelos, fecha de lanzamiento, precios y especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717'>Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/tesla-sube-precio-supercargadores-encarecen-viajes-carga-rapida-coche-electrico-1127717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-supecargador-250kw-2554841.jpg' alt='Tesla sube el precio de sus supercargadores, se encarecen los viajes y la carga rápida del coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-1119623'>7 aplicaciones Android con las que enviar archivos a un ordenador sin necesidad de utilizar un cable de datos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-1119623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-aplicaciones-android-enviar-archivos-ordenador-necesidad-utilizar-cable-datos-2819043.jpg' alt='7 aplicaciones Android con las que enviar archivos a un ordenador sin necesidad de utilizar un cable de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699'>Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuantas-hormigas-hay-tierra-cuanto-pesan-preguntas-ya-nos-ha-respondido-ciencia-1127699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/hormigas-2486513.jpg' alt='Cuántas hormigas hay en la Tierra y cuánto pesan, preguntas que ya nos ha respondido la ciencia' />
     </a>
 </div>
 
