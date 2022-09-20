@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635'>Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/pluto-tv-estrena-maraton-48h-cuatro-nuevas-temporadas-top-gear-1127635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/top-gear-2818993.jpg' alt='Pluto TV estrena maratón de 48h con cuatro nuevas temporadas de Top Gear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595'>Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina</a></h4>
     <a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-sorpaso-precio-diesel-gasolina-espana-2794027.jpg' alt='Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829'>Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/asus-f515ea-bq2137-2817261.jpg' alt='Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565'>Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación</a></h4>
-    <a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bailar-2818679.jpg' alt='Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación' />
     </a>
 </div>
 
