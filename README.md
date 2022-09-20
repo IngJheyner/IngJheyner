@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595'>Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina</a></h4>
+    <a href='https://computerhoy.com/noticias/life/dos-grandes-razones-diesel-caro-comparamos-gasolina-1127595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/nuevo-sorpaso-precio-diesel-gasolina-espana-2794027.jpg' alt='Dos grandes razones por las que el diésel está más caro si comparamos con la gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/radiador-aceite-961241'>Guía y consejos para comprar un radiador de aceite para el invierno</a></h4>
+    <a href='https://computerhoy.com/guia-compra/radiador-aceite-961241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/guia-consejos-comprar-radiador-aceite-invierno-2818929.jpg' alt='Guía y consejos para comprar un radiador de aceite para el invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ethereum-cayendo-picado-despues-tan-esperada-fusion-1127579'>Por qué Ethereum está cayendo en picado después de la tan esperada fusión</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ethereum-cayendo-picado-despues-tan-esperada-fusion-1127579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/ethereum-2579053.jpg' alt='Por qué Ethereum está cayendo en picado después de la tan esperada fusión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829'>Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/oferta-portatil-asus-f515ea-bq2137-1126829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/asus-f515ea-bq2137-2817261.jpg' alt='Intel Core i3 y SSD en un portátil brutalmente barato que cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565'>Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación</a></h4>
     <a href='https://computerhoy.com/noticias/life/no-sabes-bailar-ritmo-musica-tranquilo-cosa-genes-investigacion-1127565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bailar-2818679.jpg' alt='Si no sabes bailar al ritmo de la música, tranquilo, es cosa de tus genes según una investigación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/compartir-documentos-whatsapp-va-ser-sencillo-descriptivo-1127561'>Compartir documentos en WhatsApp va a ser más sencillo y descriptivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/compartir-documentos-whatsapp-va-ser-sencillo-descriptivo-1127561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Compartir documentos en WhatsApp va a ser más sencillo y descriptivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-1127515'>El mapa que te muestra las revueltas, batallas y guerras que ha habido, históricamente, en tu barrio</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-1127515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-2818487.jpg' alt='El mapa que te muestra las revueltas, batallas y guerras que ha habido, históricamente, en tu barrio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-excesivos-mensajes-copy-paste-ios-16-iphone-14-1127513'>Apple y los excesivos mensajes copy / paste en iOS 16 y sus iPhone 14</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-excesivos-mensajes-copy-paste-ios-16-iphone-14-1127513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-pro-max-2814331.jpg' alt='Apple y los excesivos mensajes copy / paste en iOS 16 y sus iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/kahoot-2700547.jpg' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2022' />
     </a>
 </div>
 
