@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451'>La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/crown-4-2128783.jpg' alt='La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373'>Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-2820521.jpg' alt='Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437'>Ahora vas a saber la verdadera razón por la que debes activar el modo avión durante un vuelo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg' alt='Ahora vas a saber la verdadera razón por la que debes activar el modo avión durante un vuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435'>Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disquetes-2820513.jpg' alt='Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221'>Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logi-g-cloud-2819981.jpg' alt='Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-1128391'>Nuevos devolo Repeater 3000 y 5400: así son los estos repetidores inteligentes WiFi 6 Mesh</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-1128391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-2820469.jpg' alt='Nuevos devolo Repeater 3000 y 5400: así son los estos repetidores inteligentes WiFi 6 Mesh' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/poco-watch-analisis-opinion-2777945.jpg' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-entra-lleno-mundo-streaming-microfono-profesional-luz-auriculares-1128327'>Logitech entra de lleno en el mundo de streaming con un micrófono profesional, luz y auriculares</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-entra-lleno-mundo-streaming-microfono-profesional-luz-auriculares-1128327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logitech-blue-sona-litra-beam-2820311.jpg' alt='Logitech entra de lleno en el mundo de streaming con un micrófono profesional, luz y auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-registro-salud-ahora-verano-punto-terminar-1119601'>Las mejores aplicaciones Android para llevar un registro de tu salud ahora que el verano está a punto de terminar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-llevar-registro-salud-ahora-verano-punto-terminar-1119601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-aplicaciones-android-llevar-registro-salud-ahora-verano-punto-terminar-2819085.jpg' alt='Las mejores aplicaciones Android para llevar un registro de tu salud ahora que el verano está a punto de terminar' />
     </a>
 </div>
 
