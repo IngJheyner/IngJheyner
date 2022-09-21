@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453'>Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451'>La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/crown-4-2128783.jpg' alt='La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437'>Ahora vas a saber la verdadera razón por la que debes activar el modo avión durante un vuelo</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437'>Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg' alt='Ahora vas a saber la verdadera razón por la que debes activar el modo avión durante un vuelo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg' alt='Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435'>Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disquetes-2820513.jpg' alt='Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221'>Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logi-g-cloud-2819981.jpg' alt='Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass' />
     </a>
 </div>
 
