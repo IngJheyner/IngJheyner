@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467'>El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-nest-wifi-2232987.jpg' alt='El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453'>Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437'>Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg' alt='Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435'>Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sorprendentes-clientes-ultimas-tiendas-mundo-sigue-vendiendo-disquetes-1128435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disquetes-2820513.jpg' alt='Los sorprendentes clientes de una de las últimas tiendas del mundo que sigue vendiendo disquetes' />
     </a>
 </div>
 
