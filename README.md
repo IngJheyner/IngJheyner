@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805'>Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/spotify-1992105.jpg' alt='Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139'>Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bateria-2819787.jpg' alt='Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bancos-imagenes-declaran-guerra-inteligencia-artificial-1128155'>Los bancos de imágenes le declaran la guerra a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bancos-imagenes-declaran-guerra-inteligencia-artificial-1128155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='Los bancos de imágenes le declaran la guerra a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869'>Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249033.jpg' alt='Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109'>Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/andor-2775117.jpg' alt='Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/windows-11-ya-tiene-gran-actualizacion-puedes-descargarla-1128119'>Windows 11 ya tiene su gran actualización de 2022: así puedes descargarla</a></h4>
-    <a href='https://computerhoy.com/noticias/windows-11-ya-tiene-gran-actualizacion-puedes-descargarla-1128119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Windows 11 ya tiene su gran actualización de 2022: así puedes descargarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089'>Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-quiere-sepas-musica-tienes-descargada-dispositivo-nuevo-diseno-2317631.jpg' alt='Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093'>TikTok estrena nueva aplicación copiándose de la originalidad de otra red social</a></h4>
-    <a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-now-2819671.jpg' alt='TikTok estrena nueva aplicación copiándose de la originalidad de otra red social' />
     </a>
 </div>
 
