@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089'>Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-quiere-sepas-musica-tienes-descargada-dispositivo-nuevo-diseno-2317631.jpg' alt='Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093'>TikTok estrena nueva aplicación copiándose de la originalidad de otra red social</a></h4>
+    <a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-now-2819671.jpg' alt='TikTok estrena nueva aplicación copiándose de la originalidad de otra red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/semana-pccustom-pccomponentes-mejores-ofertas-1127533'>Semana PcCustom en PcComponentes: montaje de PC gratis y muchos modelos en oferta</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/semana-pccustom-pccomponentes-mejores-ofertas-1127533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg' alt='Semana PcCustom en PcComponentes: montaje de PC gratis y muchos modelos en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1128071'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1128071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2819655.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825'>Radiador toallero: cuáles son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radiador-toallero-electrico-egso-2602847.jpg' alt='Radiador toallero: cuáles son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-blanquear-lana-ha-vuelto-amarillenta-1128069'>Cómo blanquear la lana que se ha vuelto amarillenta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-blanquear-lana-ha-vuelto-amarillenta-1128069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/como-blanquear-lana-ha-vuelto-amarillenta-2819653.jpg' alt='Cómo blanquear la lana que se ha vuelto amarillenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikago-calentador-electrico-inteligente-bebidas-infrarrojos-video-1128067'>El calentador inteligente de bebidas por infrarrojos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ikago-calentador-electrico-inteligente-bebidas-infrarrojos-video-1128067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663721651297-2819651.jpg' alt='El calentador inteligente de bebidas por infrarrojos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845'>Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-streaming-2819445.jpg' alt='Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil' />
     </a>
 </div>
 
