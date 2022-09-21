@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ikago-calentador-electrico-inteligente-bebidas-infrarrojos-video-1128067'>El calentador inteligente de bebidas por infrarrojos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ikago-calentador-electrico-inteligente-bebidas-infrarrojos-video-1128067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663721651297-2819651.jpg' alt='El calentador inteligente de bebidas por infrarrojos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845'>Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/stream-card-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-portatil-1127845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-convierte-nintendo-switch-steam-deck-jugar-todos-juegos-steam-streaming-2819445.jpg' alt='Esta tarjeta convierte tu Nintendo Switch en una Steam Deck para jugar a todos los juegos de Steam en portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-caracteristica-iphone-14-encuentra-interior-1127811'>La mejor característica del iPhone 14 se encuentra en su interior</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mejor-caracteristica-iphone-14-encuentra-interior-1127811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='La mejor característica del iPhone 14 se encuentra en su interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805'>YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/youtube-te-mostrara-temas-no-te-interesan-mucho-uses-boton-no-me-gusta-1127805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/dislike-youtube-2537793.jpg' alt='YouTube te mostrará temas que no te interesan por mucho que uses el botón ‘no me gusta’' />
     </a>
 </div>
 
