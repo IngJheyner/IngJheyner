@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221'>Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logi-g-cloud-2819981.jpg' alt='Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-1128391'>Nuevos devolo Repeater 3000 y 5400: así son los estos repetidores inteligentes WiFi 6 Mesh</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-1128391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevos-devolo-repeater-3000-5400-son-estos-repetidores-inteligentes-wifi-6-mesh-2820469.jpg' alt='Nuevos devolo Repeater 3000 y 5400: así son los estos repetidores inteligentes WiFi 6 Mesh' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-entra-lleno-mundo-streaming-microfono-profesional-luz-auriculares-1128327'>Logitech entra de lleno en el mundo de streaming con un micrófono profesional, luz y auriculares</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/logitech-entra-lleno-mundo-streaming-microfono-profesional-luz-auriculares-1128327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logitech-blue-sona-litra-beam-2820311.jpg' alt='Logitech entra de lleno en el mundo de streaming con un micrófono profesional, luz y auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221'>Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/logitech-g-cloud-primeras-impresiones-consola-nube-logitech-1128221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logi-g-cloud-2819981.jpg' alt='Logitech G Cloud: primeras impresiones de la consola para juegos por streaming Steam, GeForce Now y Xbox GamePass' />
     </a>
 </div>
 
