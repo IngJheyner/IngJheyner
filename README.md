@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869'>Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249033.jpg' alt='Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109'>Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/andor-2775117.jpg' alt='Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/windows-11-ya-tiene-gran-actualizacion-puedes-descargarla-1128119'>Windows 11 ya tiene su gran actualización de 2022: así puedes descargarla</a></h4>
+    <a href='https://computerhoy.com/noticias/windows-11-ya-tiene-gran-actualizacion-puedes-descargarla-1128119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-22h2-2711631.jpg' alt='Windows 11 ya tiene su gran actualización de 2022: así puedes descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089'>Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/spotify-no-quiere-leas-libros-quiere-escuches-comienza-guerra-audible-1128089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spotify-quiere-sepas-musica-tienes-descargada-dispositivo-nuevo-diseno-2317631.jpg' alt='Spotify no quiere que leas libros, quiere que escuches: comienza la guerra con Audible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093'>TikTok estrena nueva aplicación copiándose de la originalidad de otra red social</a></h4>
     <a href='https://computerhoy.com/noticias/tiktok-estrena-nueva-aplicacion-copiandose-originalidad-otra-red-social-1128093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-now-2819671.jpg' alt='TikTok estrena nueva aplicación copiándose de la originalidad de otra red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/semana-pccustom-pccomponentes-mejores-ofertas-1127533'>Semana PcCustom en PcComponentes: montaje de PC gratis y muchos modelos en oferta</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/semana-pccustom-pccomponentes-mejores-ofertas-1127533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjeta-grafica-gigabyte-nvidia-pc-gaming-2810191.jpg' alt='Semana PcCustom en PcComponentes: montaje de PC gratis y muchos modelos en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1128071'>30 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/30-noticias-tecnologia-comenzar-manana-informado-ultimo-1128071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/30-noticias-tecnologia-comenzar-manana-informado-ultimo-2819655.jpg' alt='30 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825'>Radiador toallero: cuáles son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/radiador-toallero-mejores-puedes-comprar-1004825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/radiador-toallero-electrico-egso-2602847.jpg' alt='Radiador toallero: cuáles son los mejores que puedes comprar' />
     </a>
 </div>
 
