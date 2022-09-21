@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893'>Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-2-2817443.jpg' alt='Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-creacion-avatares-estilo-facebook-1128179'>WhatsApp ya está probando la creación de avatares al estilo Facebook</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-creacion-avatares-estilo-facebook-1128179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2819831.jpg' alt='WhatsApp ya está probando la creación de avatares al estilo Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175'>Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/holograma-2515841.jpg' alt='Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805'>Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/spotify-1992105.jpg' alt='Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139'>Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bateria-2819787.jpg' alt='Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bancos-imagenes-declaran-guerra-inteligencia-artificial-1128155'>Los bancos de imágenes le declaran la guerra a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bancos-imagenes-declaran-guerra-inteligencia-artificial-1128155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-2728881.jpg' alt='Los bancos de imágenes le declaran la guerra a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869'>Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/auriculares-samsung-galaxy-buds-pro-oferta-1126869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-samsung-galaxy-buds-pro-2249033.jpg' alt='Estos auriculares Pro de Samsung son rivales de los AirPods Pro y cuestan menos de la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109'>Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/andor-ha-llegado-disney-seguir-ampliando-universo-star-wars-todo-apunta-sera-gran-serie-1128109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/andor-2775117.jpg' alt='Andor ha llegado a Disney+ para seguir ampliando el universo Star Wars y todo apunta a que será una gran serie' />
     </a>
 </div>
 
