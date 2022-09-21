@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-deteccion-accidentes-iphone-14-youtuber-ha-comprobado-1128293'>Así funciona la detección de accidentes del iPhone 14, ¡un youtuber lo ha comprobado!</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-deteccion-accidentes-iphone-14-youtuber-ha-comprobado-1128293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2820241.jpg' alt='Así funciona la detección de accidentes del iPhone 14, ¡un youtuber lo ha comprobado!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-estas-alguna-lista-morosos-1128277'>Cómo saber si estás en alguna lista de morosos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-estas-alguna-lista-morosos-1128277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/billetes-1936571.jpg' alt='Cómo saber si estás en alguna lista de morosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/dgt-avisa-peligros-sentarse-postura-coche-1128229'>La DGT avisa sobre los peligros de sentarse con esta postura en el coche</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/dgt-avisa-peligros-sentarse-postura-coche-1128229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dgt-avisa-peligros-sentarse-postura-coche-2819917.jpg' alt='La DGT avisa sobre los peligros de sentarse con esta postura en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-nuevo-smartphone-plegable-marca-ya-tiene-fecha-presentacion-1128249'>Vivo X Fold+, el nuevo smartphone plegable de la marca, ya tiene fecha de presentación</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-nuevo-smartphone-plegable-marca-ya-tiene-fecha-presentacion-1128249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x-fold-2819941.jpg' alt='Vivo X Fold+, el nuevo smartphone plegable de la marca, ya tiene fecha de presentación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/calienta-cargador-movil-portatil-cuando-deberias-empezar-preocuparte-1128235'>Por qué se calienta el cargador del móvil o portátil y cuándo deberías empezar a preocuparte</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/calienta-cargador-movil-portatil-cuando-deberias-empezar-preocuparte-1128235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargadores-rapidos-pared-usb-2390755.jpg' alt='Por qué se calienta el cargador del móvil o portátil y cuándo deberías empezar a preocuparte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-oferta-1128173'>El Xiaomi Redmi Note 11 de 128 GB está rebajado muy por debajo de los 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-oferta-1128173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='El Xiaomi Redmi Note 11 de 128 GB está rebajado muy por debajo de los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartphone-enrollable-funcional-lg-no-llego-ver-luz-1128225'>Así es el smartphone enrollable y funcional de LG que no llegó a ver la luz</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/smartphone-enrollable-funcional-lg-no-llego-ver-luz-1128225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lg-rollable-2819923.jpg' alt='Así es el smartphone enrollable y funcional de LG que no llegó a ver la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205'>Huawei Nova Y70, ¿alguien ha dicho batería? </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-nova-y70-2819847.jpg' alt='Huawei Nova Y70, ¿alguien ha dicho batería? ' />
     </a>
 </div>
 
