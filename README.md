@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-nuevo-smartphone-plegable-marca-ya-tiene-fecha-presentacion-1128249'>Vivo X Fold+, el nuevo smartphone plegable de la marca, ya tiene fecha de presentación</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/vivo-x-fold-nuevo-smartphone-plegable-marca-ya-tiene-fecha-presentacion-1128249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x-fold-2819941.jpg' alt='Vivo X Fold+, el nuevo smartphone plegable de la marca, ya tiene fecha de presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/calienta-cargador-movil-portatil-cuando-deberias-empezar-preocuparte-1128235'>Por qué se calienta el cargador del móvil o portátil y cuándo deberías empezar a preocuparte</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/calienta-cargador-movil-portatil-cuando-deberias-empezar-preocuparte-1128235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/cargadores-rapidos-pared-usb-2390755.jpg' alt='Por qué se calienta el cargador del móvil o portátil y cuándo deberías empezar a preocuparte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-oferta-1128173'>El Xiaomi Redmi Note 11 de 128 GB está rebajado muy por debajo de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-redmi-note-11-oferta-1128173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643149.jpg' alt='El Xiaomi Redmi Note 11 de 128 GB está rebajado muy por debajo de los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/smartphone-enrollable-funcional-lg-no-llego-ver-luz-1128225'>Así es el smartphone enrollable y funcional de LG que no llegó a ver la luz</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/smartphone-enrollable-funcional-lg-no-llego-ver-luz-1128225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lg-rollable-2819923.jpg' alt='Así es el smartphone enrollable y funcional de LG que no llegó a ver la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205'>Huawei Nova Y70, ¿alguien ha dicho batería? </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-nova-y70-2819847.jpg' alt='Huawei Nova Y70, ¿alguien ha dicho batería? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/aprenderse-google-maps-memoria-mejor-geoguessr-desvela-trucos-conseguirlo-1128197'>¿Aprenderse Google Maps de memoria? El mejor GeoGuessr desvela sus trucos para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/aprenderse-google-maps-memoria-mejor-geoguessr-desvela-trucos-conseguirlo-1128197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/geoguessr-2819919.jpg' alt='¿Aprenderse Google Maps de memoria? El mejor GeoGuessr desvela sus trucos para conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893'>Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-2-2817443.jpg' alt='Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-creacion-avatares-estilo-facebook-1128179'>WhatsApp ya está probando la creación de avatares al estilo Facebook</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/whatsapp-ya-probando-creacion-avatares-estilo-facebook-1128179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2819831.jpg' alt='WhatsApp ya está probando la creación de avatares al estilo Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175'>Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/holograma-2515841.jpg' alt='Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone' />
     </a>
 </div>
 
