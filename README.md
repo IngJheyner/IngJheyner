@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205'>Huawei Nova Y70, ¿alguien ha dicho batería? </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huawei-nova-y70-alguien-ha-dicho-bateria-1128205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huawei-nova-y70-2819847.jpg' alt='Huawei Nova Y70, ¿alguien ha dicho batería? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/aprenderse-google-maps-memoria-mejor-geoguessr-desvela-trucos-conseguirlo-1128197'>¿Aprenderse Google Maps de memoria? El mejor GeoGuessr desvela sus trucos para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/aprenderse-google-maps-memoria-mejor-geoguessr-desvela-trucos-conseguirlo-1128197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/geoguessr-2819919.jpg' alt='¿Aprenderse Google Maps de memoria? El mejor GeoGuessr desvela sus trucos para conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893'>Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-deportivo-casi-indestructible-tiene-24-dias-bateria-brutal-descuento-1126893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-2-2817443.jpg' alt='Este reloj deportivo casi indestructible tiene 24 días de batería y un brutal descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175'>Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/videollamadas-holograficas-cerca-parece-pruebas-concepto-movistar-orange-vodafone-1128175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/holograma-2515841.jpg' alt='Videollamadas holográficas, más cerca de lo que parece: pruebas de concepto de Movistar, Orange y Vodafone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805'>Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/spotify-guia-fondo-escuchar-canciones-355805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/spotify-1992105.jpg' alt='Spotify en 2022: guía para sacar todo el provecho a la mayor plataforma de música y podcast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139'>Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/baterias-futuro-coche-electrico-ya-estan-aqui-carga-completa-3-minutos-1128139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bateria-2819787.jpg' alt='Las baterías del futuro coche eléctrico ya están aquí, ¡carga completa en 3 minutos!' />
     </a>
 </div>
 
