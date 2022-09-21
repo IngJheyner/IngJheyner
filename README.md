@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479'>La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren guerra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-2820569.jpg' alt='La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467'>El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-nest-wifi-2232987.jpg' alt='El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373'>Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-2820521.jpg' alt='Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437'>Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ahora-vas-saber-verdadera-razon-debes-activar-modo-avion-durante-vuelo-1128437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/modo-avion-2820515.jpg' alt='Esta es la verdadera razón por la que debes activar el modo avión durante un vuelo' />
     </a>
 </div>
 
