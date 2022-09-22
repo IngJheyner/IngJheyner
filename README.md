@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691'>Qué es la ansiedad otoñal, y algunos consejos para combatirla</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ansiedad-otonal-algunos-consejos-combatirla-2820875.jpg' alt='Qué es la ansiedad otoñal, y algunos consejos para combatirla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483'>Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663799574974-2820575.jpg' alt='Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453'>Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451'>La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/crown-4-2128783.jpg' alt='La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016' />
     </a>
 </div>
 
