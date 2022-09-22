@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039'>El reestreno de Avatar en los cines llega con una gran sorpresa</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/policia-pone-seria-ultima-broma-evitar-multas-dgt-1129013'>La Policía se pone seria ante la última broma para evitar multas de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/life/policia-pone-seria-ultima-broma-evitar-multas-dgt-1129013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/policia-pone-seria-ultima-broma-evitar-multas-dgt-2821961.jpg' alt='La Policía se pone seria ante la última broma para evitar multas de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/recrean-efecto-tendria-detonar-todas-bombas-nucleares-existentes-mismo-tiempo-1129043'>Recrean el efecto que tendría detonar todas las bombas nucleares existentes al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/recrean-efecto-tendria-detonar-todas-bombas-nucleares-existentes-mismo-tiempo-1129043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bomba-nuclear-2821977.jpg' alt='Recrean el efecto que tendría detonar todas las bombas nucleares existentes al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041'>La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/alimentos-envasados-2821971.jpg' alt='La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039'>El reestreno de Avatar en los cines llega con sorpresa</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/avatar-2366079.jpg' alt='El reestreno de Avatar en los cines llega con una gran sorpresa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/avatar-2366079.jpg' alt='El reestreno de Avatar en los cines llega con sorpresa' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417'>¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/armageddon-como-ver-online-choque-nave-nasa-asteroide-2821897.jpg' alt='¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-iphone-14-pro-review-opinion-1129003'>Apple iPhone 14 Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-iphone-14-pro-review-opinion-1129003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Apple iPhone 14 Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-iphone-14-review-opinion-1128801'>Apple iPhone 14, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-iphone-14-review-opinion-1128801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg' alt='Apple iPhone 14, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-2820911.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
     </a>
 </div>
 
