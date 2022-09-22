@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551'>Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x80-lite-5g-procesador-dimensity-camara-64-mpx-pantalla-amoled-1128949'>Así es el nuevo Vivo X80 Lite 5G: procesador Dimensity, cámara de 64 Mpx y pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x80-lite-5g-procesador-dimensity-camara-64-mpx-pantalla-amoled-1128949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x80-lite-5g-2821469.jpg' alt='Así es el nuevo Vivo X80 Lite 5G: procesador Dimensity, cámara de 64 Mpx y pantalla AMOLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779'>Cómo saber si una joya es realmente de plata</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/anillo-joyas-2342999.jpg' alt='Cómo saber si una joya es realmente de plata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887'>Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost</a></h4>
     <a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753'>Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690267.jpg' alt='Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863'>Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid</a></h4>
-    <a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/significan-nuevas-lineas-azules-aparcamientos-calles-madrid-2813299.jpg' alt='Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid' />
     </a>
 </div>
 
