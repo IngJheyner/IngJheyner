@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753'>Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690267.jpg' alt='Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863'>Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid</a></h4>
+    <a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/significan-nuevas-lineas-azules-aparcamientos-calles-madrid-2813299.jpg' alt='Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837'>La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806905.jpg' alt='La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585'>Los mejores servidores Emule de 2022 que siguen funcionando</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/emule-2019.jpg' alt='Los mejores servidores Emule de 2022 que siguen funcionando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835'>El secreto del iPhone 14 que Apple no te ha querido contar</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='El secreto del iPhone 14 que Apple no te ha querido contar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-1128469'>Ninebot, Segway o NIU, estos son sus mejores patinetes eléctricos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-1128469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-2820561.jpg' alt='Ninebot, Segway o NIU, estos son sus mejores patinetes eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817'>Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789'>Ya puedes comprobar online si tus fotos se han usado para entrenar una IA</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2821149.jpg' alt='Ya puedes comprobar online si tus fotos se han usado para entrenar una IA' />
     </a>
 </div>
 
