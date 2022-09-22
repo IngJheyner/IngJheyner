@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059'>El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale en España</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/visor-realidad-virtual-ligero-pico-4-tiene-todo-comerse-quest-2-sale-espana-2821989.jpg' alt='El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-sense-reloj-deportivo-enfocado-salud-oferta-1129047'>Fitbit Sense, el reloj deportivo enfocado a la salud, recibe un descuento de 40 euros </a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/fitbit-sense-reloj-deportivo-enfocado-salud-oferta-1129047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/fitbit-sense-analisis-opinion-2222841.jpg' alt='Fitbit Sense, el reloj deportivo enfocado a la salud, recibe un descuento de 40 euros ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041'>La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?</a></h4>
     <a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/alimentos-envasados-2821971.jpg' alt='La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039'>El reestreno de Avatar en los cines llega con sorpresa</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/avatar-2366079.jpg' alt='El reestreno de Avatar en los cines llega con sorpresa' />
     </a>
 </div>
 
