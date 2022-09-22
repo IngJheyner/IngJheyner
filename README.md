@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817'>Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789'>Ya puedes comprobar online si tus fotos se han usado para entrenar una IA</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2821149.jpg' alt='Ya puedes comprobar online si tus fotos se han usado para entrenar una IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879'>Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265'>Cómo instalar la actualización Windows 11 22H2: novedades y mejoras</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo instalar la actualización Windows 11 22H2: novedades y mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/matriculas-letra-m-1128783'>Ya se ha producido el esperado cambio en las matrículas, y hay algunas curiosidades </a></h4>
-    <a href='https://computerhoy.com/noticias/motor/matriculas-letra-m-1128783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ya-ha-producido-esperado-cambio-matriculas-hay-algunas-curiosidades-2821023.jpg' alt='Ya se ha producido el esperado cambio en las matrículas, y hay algunas curiosidades ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-protegernos-contenido-no-deseado-md-nuevo-filtro-1128745'>Instagram quiere protegernos de contenido no deseado en los MD con este nuevo filtro</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-protegernos-contenido-no-deseado-md-nuevo-filtro-1128745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Instagram quiere protegernos de contenido no deseado en los MD con este nuevo filtro' />
     </a>
 </div>
 
