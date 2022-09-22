@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479'>La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren guerra</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483'>Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663799574974-2820575.jpg' alt='Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479'>La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra</a></h4>
     <a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-2820569.jpg' alt='La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren guerra' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-2820569.jpg' alt='La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451'>La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/the-crown-netflix-muerte-isabel-ii-1128451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/crown-4-2128783.jpg' alt='La muerte de Isabel II vuelve a meter en el Top 10 de Netflix una serie estrenada en 2016' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373'>Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-1128373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-8-hd-mayor-potencia-autonomia-renovacion-tablet-economica-amazon-2820521.jpg' alt='Amazon Fire 8 HD: mayor potencia y autonomía en la renovación de la tablet económica de Amazon' />
     </a>
 </div>
 
