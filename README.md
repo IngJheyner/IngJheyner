@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417'>¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/armageddon-como-ver-online-choque-nave-nasa-asteroide-2821897.jpg' alt='¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-iphone-14-pro-review-opinion-1129003'>Apple iPhone 14 Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-iphone-14-pro-review-opinion-1129003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg' alt='Apple iPhone 14 Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-iphone-14-review-opinion-1128801'>Apple iPhone 14, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-iphone-14-review-opinion-1128801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg' alt='Apple iPhone 14, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-2820911.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993'>Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x-fold-2821677.jpg' alt='Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771'>Todos los modelos de iPhone y Android que se quedarán sin WhatsApp en unos días</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Todos los modelos de iPhone y Android que se quedarán sin WhatsApp en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963'>Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551'>Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google' />
     </a>
 </div>
 
