@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-2820911.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993'>Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x-fold-2821677.jpg' alt='Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771'>Todos los modelos de iPhone y Android que se quedarán sin WhatsApp en unos días</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/todos-modelos-iphone-android-quedaran-whatsapp-dias-1112771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-2812871.jpg' alt='Todos los modelos de iPhone y Android que se quedarán sin WhatsApp en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963'>Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551'>Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x80-lite-5g-procesador-dimensity-camara-64-mpx-pantalla-amoled-1128949'>Así es el nuevo Vivo X80 Lite 5G: procesador Dimensity, cámara de 64 Mpx y pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-vivo-x80-lite-5g-procesador-dimensity-camara-64-mpx-pantalla-amoled-1128949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x80-lite-5g-2821469.jpg' alt='Así es el nuevo Vivo X80 Lite 5G: procesador Dimensity, cámara de 64 Mpx y pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779'>Cómo saber si una joya es realmente de plata</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/anillo-joyas-2342999.jpg' alt='Cómo saber si una joya es realmente de plata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877'>Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dyson-2821235.jpg' alt='Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo' />
     </a>
 </div>
 
