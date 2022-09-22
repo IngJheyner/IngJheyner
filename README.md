@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963'>Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-pedir-google-elimine-informacion-sea-demasiado-personal-resultados-busqueda-1128963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/google-2726445.jpg' alt='Ya puedes pedir a Google que elimine información tuya que sea demasiado personal de sus resultados de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551'>Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-1121551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-google-tv-hd-version-economica-reproductor-inteligente-google-2821565.jpg' alt='Chromecast con Google TV (HD): así es la versión económica del reproductor inteligente de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877'>Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo</a></h4>
     <a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dyson-2821235.jpg' alt='Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887'>Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost' />
     </a>
 </div>
 
