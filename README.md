@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717'>La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 </a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4000-nvidia-2819179.jpg' alt='La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237'>Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ring-video-doorbell-wired-2820045.jpg' alt='Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691'>Qué es la ansiedad otoñal, y algunos consejos para combatirla</a></h4>
     <a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ansiedad-otonal-algunos-consejos-combatirla-2820875.jpg' alt='Qué es la ansiedad otoñal, y algunos consejos para combatirla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483'>Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663799574974-2820575.jpg' alt='Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)' />
     </a>
 </div>
 
