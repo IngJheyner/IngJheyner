@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/google-lanza-nueva-herramienta-noticias-espana-1128723'>Así es Google News Showcase, la nueva herramienta de noticias en España</a></h4>
+    <a href='https://computerhoy.com/noticias/google-lanza-nueva-herramienta-noticias-espana-1128723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/news-showcase-google-2820945.jpg' alt='Así es Google News Showcase, la nueva herramienta de noticias en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717'>La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 </a></h4>
     <a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4000-nvidia-2819179.jpg' alt='La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691'>Qué es la ansiedad otoñal, y algunos consejos para combatirla</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ansiedad-otonal-algunos-consejos-combatirla-2820875.jpg' alt='Qué es la ansiedad otoñal, y algunos consejos para combatirla' />
     </a>
 </div>
 
