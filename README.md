@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779'>Cómo saber si una joya es realmente de plata</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-joya-realmente-plata-1128779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/anillo-joyas-2342999.jpg' alt='Cómo saber si una joya es realmente de plata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877'>Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo</a></h4>
     <a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dyson-2821235.jpg' alt='Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863'>Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid</a></h4>
     <a href='https://computerhoy.com/noticias/life/son-calles-zonas-alta-rotacion-comienzan-verse-ciudades-como-madrid-1128863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/significan-nuevas-lineas-azules-aparcamientos-calles-madrid-2813299.jpg' alt='Qué son las calles o zonas de alta rotación que comienzan a verse en ciudades como Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837'>La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806905.jpg' alt='La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android' />
     </a>
 </div>
 
