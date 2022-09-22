@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877'>Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/olvidate-molesto-pelo-mascotas-nuevo-kit-anti-enredo-1128877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dyson-2821235.jpg' alt='Olvídate del molesto pelo de tus mascotas con este nuevo kit anti-enredo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887'>Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/desmontando-mitos-mentiras-gasolina-barata-gasolineras-low-cost-1128887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/gasolinera-2737461.jpg' alt='Desmontando mitos y mentiras sobre la gasolina barata y las gasolineras low cost' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753'>Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-windows-samsung-galaxy-book2-pro-oferta-amazon-1128753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-book2-pro-2690267.jpg' alt='Samsung va a por los MacBook Pro: su portátil con Windows es sorprendentemente potente y además mucho más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837'>La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dynamic-island-iphone-14-ya-disponible-cualquier-movil-android-1128837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/dynamic-island-2806905.jpg' alt='La Dynamic Island de iPhone 14 ya está disponible para cualquier móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585'>Los mejores servidores Emule de 2022 que siguen funcionando</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/emule-2019.jpg' alt='Los mejores servidores Emule de 2022 que siguen funcionando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835'>El secreto del iPhone 14 que Apple no te ha querido contar</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='El secreto del iPhone 14 que Apple no te ha querido contar' />
     </a>
 </div>
 
