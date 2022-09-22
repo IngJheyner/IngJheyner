@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2820877.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691'>Qué es la ansiedad otoñal, y algunos consejos para combatirla</a></h4>
     <a href='https://computerhoy.com/noticias/life/ansiedad-otonal-consejos-combatirla-1128691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ansiedad-otonal-algunos-consejos-combatirla-2820875.jpg' alt='Qué es la ansiedad otoñal, y algunos consejos para combatirla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479'>La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra</a></h4>
     <a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-2820569.jpg' alt='La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467'>El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/router-nest-wifi-google-descuento-mitad-precio-1128467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-nest-wifi-2232987.jpg' alt='El router Nest WiFi de Google baja de precio un 57%, solo cuesta 69 euros y mejorará el alcance y la velocidad de tu red' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453'>Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/4-caracteristicas-ios-16-tienes-desactivar-no-quieres-acabar-tarifa-datos-1128453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg' alt='Las 4 características de iOS 16 que tienes que desactivar si no quieres acabar con tu tarifa de datos' />
     </a>
 </div>
 
