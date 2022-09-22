@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237'>Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ring-video-doorbell-wired-2820045.jpg' alt='Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2820877.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483'>Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/life/disperseed-bola-semillas-impresa-3d-regenera-bosques-incendio-video-1128483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663799574974-2820575.jpg' alt='Estudiantes valencianos inventan una bola de semillas impresa en 3D que regenera los bosques tras un incendio (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479'>La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-1128479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/busqueda-google-como-romperse-brazo-dispara-rusia-jovenes-no-quieren-guerra-2820569.jpg' alt='La búsqueda en Google sobre 'cómo romperse un brazo' es trending topic en Rusia: los jóvenes no quieren ir a la guerra' />
     </a>
 </div>
 
