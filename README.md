@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/google-lanza-nueva-herramienta-noticias-espana-1128723'>Así es Google News Showcase, la nueva herramienta de noticias en España</a></h4>
-    <a href='https://computerhoy.com/noticias/google-lanza-nueva-herramienta-noticias-espana-1128723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/news-showcase-google-2820945.jpg' alt='Así es Google News Showcase, la nueva herramienta de noticias en España' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879'>Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717'>La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 </a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/arquitectura-interna-gpu-geforce-rtx-4090-nvidia-muestra-capaz-chip-ad102-1128717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/rtx-4000-nvidia-2819179.jpg' alt='La arquitectura interna de la GPU GeForce RTX 4090 de NVIDIA muestra de lo que es capaz el chip AD102 ' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-chromebook-modular-actualizable-podras-tener-dia-terminos-hardware-funcionalidades-1128781'>El primer Chromebook modular actualizable que podrás tener al día en términos de hardware y funcionalidades</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/primer-chromebook-modular-actualizable-podras-tener-dia-terminos-hardware-funcionalidades-1128781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromebook-framework-2821037.jpg' alt='El primer Chromebook modular actualizable que podrás tener al día en términos de hardware y funcionalidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237'>Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-timbres-inalambricos-1128237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ring-video-doorbell-wired-2820045.jpg' alt='Mejores timbres inalámbricos de 2022: Xiaomi, Amazon y mucho más' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265'>Cómo instalar la actualización Windows 11 22H2: novedades y mejoras</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo instalar la actualización Windows 11 22H2: novedades y mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1128693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2820877.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    <h4><a href='https://computerhoy.com/noticias/motor/matriculas-letra-m-1128783'>Ya se ha producido el esperado cambio en las matrículas, y hay algunas curiosidades </a></h4>
+    <a href='https://computerhoy.com/noticias/motor/matriculas-letra-m-1128783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ya-ha-producido-esperado-cambio-matriculas-hay-algunas-curiosidades-2821023.jpg' alt='Ya se ha producido el esperado cambio en las matrículas, y hay algunas curiosidades ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/apple-ipad-9a-generacion-analisis-opinion-2562507.jpg' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2022' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-protegernos-contenido-no-deseado-md-nuevo-filtro-1128745'>Instagram quiere protegernos de contenido no deseado en los MD con este nuevo filtro</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/instagram-quiere-protegernos-contenido-no-deseado-md-nuevo-filtro-1128745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/take-break-instagram-2553891.jpg' alt='Instagram quiere protegernos de contenido no deseado en los MD con este nuevo filtro' />
     </a>
 </div>
 
