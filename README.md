@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039'>El reestreno de Avatar en los cines llega con una gran sorpresa</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/reestreno-avatar-cines-llega-gran-sorpresa-1129039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/avatar-2366079.jpg' alt='El reestreno de Avatar en los cines llega con una gran sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417'>¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/armageddon-como-ver-online-choque-nave-nasa-asteroide-1128417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/armageddon-como-ver-online-choque-nave-nasa-asteroide-2821897.jpg' alt='¡Armageddon! Cómo ver online el choque entre una nave de la NASA y un asteroide' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549'>Mejores bicicletas para hacer spinning en casa que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-1018549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-bicicletas-hacer-spinning-casa-puedes-comprar-2820911.jpg' alt='Mejores bicicletas para hacer spinning en casa que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993'>Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/vivo-nos-deja-ver-espana-ver-todo-arsenal-probamos-plegable-tablet-ultimo-iqoo-10-pro-1128993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/vivo-x-fold-2821677.jpg' alt='Vivo nos deja ver en España todo su arsenal: probamos su plegable, su tablet y su último iQoo 10 Pro' />
     </a>
 </div>
 
