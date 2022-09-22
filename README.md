@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585'>Los mejores servidores Emule de 2022 que siguen funcionando</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-servidores-emule-2019-siguen-funcionando-421585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/emule-2019.jpg' alt='Los mejores servidores Emule de 2022 que siguen funcionando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835'>El secreto del iPhone 14 que Apple no te ha querido contar</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/secreto-iphone-14-apple-no-te-ha-querido-contar-1128835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/familia-iphone-14-2811717.jpg' alt='El secreto del iPhone 14 que Apple no te ha querido contar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-1128469'>Ninebot, Segway o NIU, estos son sus mejores patinetes eléctricos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-1128469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ninebot-segway-niu-estos-son-mejores-patinetes-electricos-2820561.jpg' alt='Ninebot, Segway o NIU, estos son sus mejores patinetes eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817'>Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dentro-nada-podras-decir-como-estas-whatsapp-integracion-mensajes-voz-como-estado-1128817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/adios-audios-whatsapp-2468805.jpg' alt='Dentro de nada podrás decir cómo estás en WhatsApp: integración de mensajes de voz como estado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789'>Ya puedes comprobar online si tus fotos se han usado para entrenar una IA</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/ya-puedes-comprobar-online-fotos-han-usado-entrenar-ia-1128789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/robot-2821149.jpg' alt='Ya puedes comprobar online si tus fotos se han usado para entrenar una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879'>Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/windows-11-compatibilidad-requisitos-instalacion-actualizaciones-mejoras-1114879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/windows-11-2798545.jpg' alt='Windows 11: compatibilidad, requisitos de instalación, actualizaciones y mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/primer-chromebook-modular-actualizable-podras-tener-dia-terminos-hardware-funcionalidades-1128781'>El primer Chromebook modular actualizable que podrás tener al día en términos de hardware y funcionalidades</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/primer-chromebook-modular-actualizable-podras-tener-dia-terminos-hardware-funcionalidades-1128781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromebook-framework-2821037.jpg' alt='El primer Chromebook modular actualizable que podrás tener al día en términos de hardware y funcionalidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265'>Cómo instalar la actualización Windows 11 22H2: novedades y mejoras</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-actualizacion-windows-11-22h2-novedades-mejoras-1128265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-11-ordenador-portatil-2821013.jpg' alt='Cómo instalar la actualización Windows 11 22H2: novedades y mejoras' />
     </a>
 </div>
 
