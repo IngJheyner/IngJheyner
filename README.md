@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387'>El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/project-caviar-como-google-quiere-ofrecer-alternativa-gratuita-dolby-vision-atmos-1129377'>Project Caviar o cómo Google quiere ofrecer una alternativa gratuita a Dolby Vision y Atmos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/project-caviar-como-google-quiere-ofrecer-alternativa-gratuita-dolby-vision-atmos-1129377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2822395.jpg' alt='Project Caviar o cómo Google quiere ofrecer una alternativa gratuita a Dolby Vision y Atmos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359'>Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/zarya-dawn-2822303.jpg' alt='Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319'>Hace 133 años nació Nintendo en Japón como empresa de naipes</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nintendo-2822253.jpg' alt='Hace 133 años nació Nintendo en Japón como empresa de naipes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/sera-nuevo-modelo-playstation-5-prepara-sony-2023-1129335'>Así será el nuevo modelo de PlayStation 5 que prepara Sony para 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/sera-nuevo-modelo-playstation-5-prepara-sony-2023-1129335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140449.jpg' alt='Así será el nuevo modelo de PlayStation 5 que prepara Sony para 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505'>Estos son los mejores discos duros externos baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disco-duro-externo-junto-ordenador-portatil-2818589.jpg' alt='Estos son los mejores discos duros externos baratos que puedes comprar' />
     </a>
 </div>
 
