@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623'>La NASA descubre una nueva isla en el Pacífico con un futuro muy negro</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tenemos-nueva-isla-pacifico-pero-jamas-podras-visitarla-2823013.jpg' alt='La NASA descubre una nueva isla en el Pacífico con un futuro muy negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/listas-iptv-operadoras-ataques-ddos-1129619'>Las listas IPTV de canales de TV gratis podrían tener los días contados</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/listas-iptv-operadoras-ataques-ddos-1129619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/listas-iptv-canales-tv-gratis-podrian-tener-dias-contados-2823009.jpg' alt='Las listas IPTV de canales de TV gratis podrían tener los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-honor-magic-4-pro-2712973.jpg' alt='Estos son los mejores móviles Honor de 2022' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-2822661.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-1119607'>Las mejores aplicaciones para Android y iPhone con las que podrás saber las calorías de los alimentos</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-1119607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-2822813.jpg' alt='Las mejores aplicaciones para Android y iPhone con las que podrás saber las calorías de los alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421'>Cómo saber las audiencias de los canales de televisión (TV)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/television-2812921.jpg' alt='Cómo saber las audiencias de los canales de televisión (TV)' />
     </a>
 </div>
 
