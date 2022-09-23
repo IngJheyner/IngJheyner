@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547'>Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-ver-fin-semana-netflix-disney-atresplayer-2822861.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-2822661.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611'>7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-2822755.jpg' alt='7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517'>Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2822783.jpg' alt='Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo' />
     </a>
 </div>
 
