@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287'>El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663888827214-2822211.jpg' alt='El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059'>El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale en España</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/visor-realidad-virtual-ligero-pico-4-tiene-todo-comerse-quest-2-sale-espana-2821989.jpg' alt='El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/recrean-efecto-tendria-detonar-todas-bombas-nucleares-existentes-mismo-tiempo-1129043'>Recrean el efecto que tendría detonar todas las bombas nucleares existentes al mismo tiempo</a></h4>
     <a href='https://computerhoy.com/noticias/life/recrean-efecto-tendria-detonar-todas-bombas-nucleares-existentes-mismo-tiempo-1129043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bomba-nuclear-2821977.jpg' alt='Recrean el efecto que tendría detonar todas las bombas nucleares existentes al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041'>La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ocu-aclara-polemica-peso-alimentos-cuando-normal-cuando-estafa-1129041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/alimentos-envasados-2821971.jpg' alt='La OCU aclara la polémica con el peso de los alimentos: ¿cuándo es normal y cuándo una estafa?' />
     </a>
 </div>
 
