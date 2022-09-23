@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421'>Cómo saber las audiencias de los canales de televisión (TV)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/television-2812921.jpg' alt='Cómo saber las audiencias de los canales de televisión (TV)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611'>7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-2822755.jpg' alt='7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517'>Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2822783.jpg' alt='Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293'>Los 25 mejores juegos de estrategia para PC de la historia</a></h4>
     <a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/starcraft-ii-wings-liberty-1866579.jpg' alt='Los 25 mejores juegos de estrategia para PC de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-companion-mode-whatsapp-podemos-linkar-tablet-1129437'>Así funciona el nuevo companion mode de WhatsApp que podemos linkar en una tablet</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-companion-mode-whatsapp-podemos-linkar-tablet-1129437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='Así funciona el nuevo companion mode de WhatsApp que podemos linkar en una tablet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471'>16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/16-gb-ram-gtx-1650-precio-derribo-portatil-gaming-sorprendentemente-barato-2820563.jpg' alt='16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato' />
     </a>
 </div>
 
