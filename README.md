@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517'>Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2822783.jpg' alt='Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-potentes-samsung-rompe-barrera-200-euros-1127575'>Uno de los móviles más baratos y potentes de Samsung rompe la barrera de los 200 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-potentes-samsung-rompe-barrera-200-euros-1127575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-m23-2818675.jpg' alt='Uno de los móviles más baratos y potentes de Samsung rompe la barrera de los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293'>Los 25 mejores juegos de estrategia para PC de la historia</a></h4>
     <a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/starcraft-ii-wings-liberty-1866579.jpg' alt='Los 25 mejores juegos de estrategia para PC de la historia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471'>16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/16-gb-ram-gtx-1650-precio-derribo-portatil-gaming-sorprendentemente-barato-2820563.jpg' alt='16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-oficializa-filtracion-pixel-watch-antes-lanzamiento-1129405'>Google oficializa la filtración: así es el Pixel Watch antes de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/google-oficializa-filtracion-pixel-watch-antes-lanzamiento-1129405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-watch-2822401.jpg' alt='Google oficializa la filtración: así es el Pixel Watch antes de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387'>El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años' />
     </a>
 </div>
 
