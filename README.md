@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359'>Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/zarya-dawn-2822303.jpg' alt='Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-honor-70-oferta-codigo-descuento-1127523'>Este móvil de Honor es de gama alta, pero su precio es sorprendentemente bajo gracias a un código descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/movil-honor-70-oferta-codigo-descuento-1127523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798863.jpg' alt='Este móvil de Honor es de gama alta, pero su precio es sorprendentemente bajo gracias a un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319'>Hace 133 años nació Nintendo en Japón como empresa de naipes</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nintendo-2822253.jpg' alt='Hace 133 años nació Nintendo en Japón como empresa de naipes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gaming/sera-nuevo-modelo-playstation-5-prepara-sony-2023-1129335'>Así será el nuevo modelo de PlayStation 5 que prepara Sony para 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/gaming/sera-nuevo-modelo-playstation-5-prepara-sony-2023-1129335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-ps5-computerhoy-2140449.jpg' alt='Así será el nuevo modelo de PlayStation 5 que prepara Sony para 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505'>Estos son los mejores discos duros externos baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disco-duro-externo-junto-ordenador-portatil-2818589.jpg' alt='Estos son los mejores discos duros externos baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2822215.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-air-purifier-4-compact-2820957.jpg' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-combatir-soledad-1129289'>Cosas que puedes hacer si te sientes solo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-combatir-soledad-1129289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosas-puedes-hacer-te-sientes-solo-2822213.jpg' alt='Cosas que puedes hacer si te sientes solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287'>El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663888827214-2822211.jpg' alt='El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)' />
     </a>
 </div>
 
