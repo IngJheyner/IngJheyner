@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505'>Estos son los mejores discos duros externos baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-discos-duros-externos-baratos-1127505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disco-duro-externo-junto-ordenador-portatil-2818589.jpg' alt='Estos son los mejores discos duros externos baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2822215.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287'>El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/silent-ventus-dron-propulsion-iones-video-1129287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663888827214-2822211.jpg' alt='El primer dron con propulsión de iones está listo para repartir paquetes (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059'>El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale a la venta en España</a></h4>
-    <a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/visor-realidad-virtual-ligero-pico-4-tiene-todo-comerse-quest-2-sale-espana-2821989.jpg' alt='El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale a la venta en España' />
     </a>
 </div>
 
