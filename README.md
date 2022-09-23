@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-2822661.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-1119607'>Las mejores aplicaciones para Android y iPhone con las que podrás saber las calorías de los alimentos</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-1119607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mejores-aplicaciones-android-iphone-podras-saber-calorias-alimentos-2822813.jpg' alt='Las mejores aplicaciones para Android y iPhone con las que podrás saber las calorías de los alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421'>Cómo saber las audiencias de los canales de televisión (TV)</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/television-2812921.jpg' alt='Cómo saber las audiencias de los canales de televisión (TV)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517'>Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/almohadillas-silicona-airpods-pro-2-no-son-compatibles-version-anterior-apple-comenta-motivo-1129517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/airpods-pro-2-2822783.jpg' alt='Las almohadillas de silicona de los AirPods Pro 2 no son compatibles con la versión anterior, Apple comenta el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-potentes-samsung-rompe-barrera-200-euros-1127575'>Uno de los móviles más baratos y potentes de Samsung rompe la barrera de los 200 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/moviles-baratos-potentes-samsung-rompe-barrera-200-euros-1127575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-m23-2818675.jpg' alt='Uno de los móviles más baratos y potentes de Samsung rompe la barrera de los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293'>Los 25 mejores juegos de estrategia para PC de la historia</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/starcraft-ii-wings-liberty-1866579.jpg' alt='Los 25 mejores juegos de estrategia para PC de la historia' />
     </a>
 </div>
 
