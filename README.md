@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291'>29 noticias de tecnología para comenzar la mañana informado de lo último</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/29-noticias-tecnologia-comenzar-manana-informado-ultimo-1129291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/29-noticias-tecnologia-comenzar-manana-informado-ultimo-2822215.jpg' alt='29 noticias de tecnología para comenzar la mañana informado de lo último' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire baratos que puedes comprar en 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/xiaomi-smart-air-purifier-4-compact-2820957.jpg' alt='Estos son los mejores purificadores de aire baratos que puedes comprar en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-combatir-soledad-1129289'>Cosas que puedes hacer si te sientes solo</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-combatir-soledad-1129289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosas-puedes-hacer-te-sientes-solo-2822213.jpg' alt='Cosas que puedes hacer si te sientes solo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059'>El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale a la venta en España</a></h4>
     <a href='https://computerhoy.com/noticias/gaming/gafas-realidad-virtual-pico-4-precio-caracteristicas-fecha-lanzamiento-1129059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/visor-realidad-virtual-ligero-pico-4-tiene-todo-comerse-quest-2-sale-espana-2821989.jpg' alt='El visor de realidad virtual más ligero, Pico 4, lo tiene todo para comerse a las Quest 2, y sale a la venta en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/fitbit-sense-reloj-deportivo-enfocado-salud-oferta-1129047'>Fitbit Sense, el reloj deportivo enfocado a la salud, recibe un descuento de 40 euros </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/fitbit-sense-reloj-deportivo-enfocado-salud-oferta-1129047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/fitbit-sense-analisis-opinion-2222841.jpg' alt='Fitbit Sense, el reloj deportivo enfocado a la salud, recibe un descuento de 40 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/policia-pone-seria-ultima-broma-evitar-multas-dgt-1129013'>La Policía se pone seria ante la última broma para evitar multas de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/life/policia-pone-seria-ultima-broma-evitar-multas-dgt-1129013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/policia-pone-seria-ultima-broma-evitar-multas-dgt-2821961.jpg' alt='La Policía se pone seria ante la última broma para evitar multas de la DGT' />
     </a>
 </div>
 
