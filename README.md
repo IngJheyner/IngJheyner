@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293'>Los 25 mejores juegos de estrategia para PC de la historia</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/20-mejores-juegos-estrategia-pc-370293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/starcraft-ii-wings-liberty-1866579.jpg' alt='Los 25 mejores juegos de estrategia para PC de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-companion-mode-whatsapp-podemos-linkar-tablet-1129437'>Así funciona el nuevo companion mode de WhatsApp que podemos linkar en una tablet</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/funciona-nuevo-companion-mode-whatsapp-podemos-linkar-tablet-1129437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/whatsapp-2737425.jpg' alt='Así funciona el nuevo companion mode de WhatsApp que podemos linkar en una tablet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471'>16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/16-gb-ram-gtx-1650-precio-derribo-portatil-gaming-sorprendentemente-barato-2820563.jpg' alt='16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387'>El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/project-caviar-como-google-quiere-ofrecer-alternativa-gratuita-dolby-vision-atmos-1129377'>Project Caviar o cómo Google quiere ofrecer una alternativa gratuita a Dolby Vision y Atmos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/project-caviar-como-google-quiere-ofrecer-alternativa-gratuita-dolby-vision-atmos-1129377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-2822395.jpg' alt='Project Caviar o cómo Google quiere ofrecer una alternativa gratuita a Dolby Vision y Atmos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359'>Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/zarya-dawn-2822303.jpg' alt='Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene' />
     </a>
 </div>
 
