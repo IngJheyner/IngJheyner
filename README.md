@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457'>Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta</a></h4>
+    <a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espectacular-video-caida-libre-edificio-alto-planeta-2822581.jpg' alt='Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637'>Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estudio-ha-analizado-habitos-consumo-streaming-datos-son-muy-preocupantes-netflix-2823021.jpg' alt='Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631'>El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623'>La NASA descubre una nueva isla en el Pacífico con un futuro muy negro</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tenemos-nueva-isla-pacifico-pero-jamas-podras-visitarla-2823013.jpg' alt='La NASA descubre una nueva isla en el Pacífico con un futuro muy negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/listas-iptv-operadoras-ataques-ddos-1129619'>Las listas IPTV de canales de TV gratis podrían tener los días contados</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/listas-iptv-operadoras-ataques-ddos-1129619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/listas-iptv-canales-tv-gratis-podrian-tener-dias-contados-2823009.jpg' alt='Las listas IPTV de canales de TV gratis podrían tener los días contados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor de 2022</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-honor-magic-4-pro-2712973.jpg' alt='Estos son los mejores móviles Honor de 2022' />
     </a>
 </div>
 
