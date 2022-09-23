@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631'>El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-email-utiliza-whatsapp-como-gancho-1129625'>La Guardia Civil alerta de una nueva estafa por email que utiliza WhatsApp como gancho</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-email-utiliza-whatsapp-como-gancho-1129625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/whastsapp%20web.jpg' alt='La Guardia Civil alerta de una nueva estafa por email que utiliza WhatsApp como gancho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623'>La NASA descubre una nueva isla en el Pacífico con un futuro muy negro</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tenemos-nueva-isla-pacifico-pero-jamas-podras-visitarla-2823013.jpg' alt='La NASA descubre una nueva isla en el Pacífico con un futuro muy negro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor de 2022</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-honor-magic-4-pro-2712973.jpg' alt='Estos son los mejores móviles Honor de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547'>Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-ver-fin-semana-netflix-disney-atresplayer-2822861.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453'>Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-1129453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/peliculas-ver-fin-semana-netflix-movistarplus-filmin-batalla-campal-jennifer-lopez-crisis-treinta-2822661.jpg' alt='Qué películas ver este fin de semana en Netflix, MovistarPlus+ y Filmin: una batalla campal, Jennifer López y la crisis de los treinta' />
     </a>
 </div>
 
