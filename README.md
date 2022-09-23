@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811'>Estos son los mejores móviles Honor de 2022</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-honor-1128811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/galeria-review-honor-magic-4-pro-2712973.jpg' alt='Estos son los mejores móviles Honor de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547'>Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/series-ver-fin-semana-netflix-disney-atresplayer-unas-amigas-resistencia-asesinato-1129547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/series-ver-fin-semana-netflix-disney-atresplayer-2822861.jpg' alt='Qué series ver este fin de semana en Netflix, Disney+ y Atresplayer: unas amigas, una resistencia y un asesinato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421'>Cómo saber las audiencias de los canales de televisión (TV)</a></h4>
     <a href='https://computerhoy.com/tutoriales/life/como-saber-audiencias-canales-television-tv-1129421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/television-2812921.jpg' alt='Cómo saber las audiencias de los canales de televisión (TV)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611'>7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-1119611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/7-aplicaciones-android-iphone-estaras-siempre-informado-horoscopo-2822755.jpg' alt='7 aplicaciones para Android y iPhone con las que estarás siempre informado de tu horóscopo' />
     </a>
 </div>
 
