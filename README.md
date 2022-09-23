@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471'>16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/portatil-gaming-asus-tuf-f15-oferta-1128471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/16-gb-ram-gtx-1650-precio-derribo-portatil-gaming-sorprendentemente-barato-2820563.jpg' alt='16 GB de RAM y GTX 1650 a precio de derribo: este portátil gaming es sorprendentemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/google-oficializa-filtracion-pixel-watch-antes-lanzamiento-1129405'>Google oficializa la filtración: así es el Pixel Watch antes de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/google-oficializa-filtracion-pixel-watch-antes-lanzamiento-1129405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pixel-watch-2822401.jpg' alt='Google oficializa la filtración: así es el Pixel Watch antes de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387'>El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/telescopio-james-webb-nasa-consigue-primera-imagen-nitida-neptuno-30-anos-1129387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg' alt='El telescopio James Webb de la NASA consigue la primera imagen nítida de Neptuno en 30 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359'>Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/acaba-otorgar-primer-copyright-conocido-imagen-generada-ai-implicaciones-eso-tiene-1129359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/zarya-dawn-2822303.jpg' alt='Se acaba de otorgar el primer copyright conocido por una imagen generada por AI y las implicaciones que eso tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/movil-honor-70-oferta-codigo-descuento-1127523'>Este móvil de Honor es de gama alta, pero su precio es sorprendentemente bajo gracias a un código descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/movil-honor-70-oferta-codigo-descuento-1127523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798863.jpg' alt='Este móvil de Honor es de gama alta, pero su precio es sorprendentemente bajo gracias a un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319'>Hace 133 años nació Nintendo en Japón como empresa de naipes</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/hace-133-anos-nacio-nintendo-japon-como-empresa-naipes-1129319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nintendo-2822253.jpg' alt='Hace 133 años nació Nintendo en Japón como empresa de naipes' />
     </a>
 </div>
 
