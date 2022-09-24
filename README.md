@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-ideapad-5i-pro-review-opinion-1125053'>Lenovo IdeaPad 5i Pro, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-ideapad-5i-pro-review-opinion-1125053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lenovo-ideapad-5-pro-analsis-opinion-2814333.jpg' alt='Lenovo IdeaPad 5i Pro, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839'>Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT</a></h4>
     <a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-caminar-carretera-pero-siguiendo-estas-reglas-dgt-2823207.jpg' alt='Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/electrodomesticos-gastan-mas-peligro-modo-reposo-ocu-1129837'>Los electrodomésticos que más gastan, los que menos y los que son un peligro en modo reposo, según la OCU</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/electrodomesticos-gastan-mas-peligro-modo-reposo-ocu-1129837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/electrodomesticos-gastan-menos-son-peligro-modo-reposo-ocu-2823205.jpg' alt='Los electrodomésticos que más gastan, los que menos y los que son un peligro en modo reposo, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
-    <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
     </a>
 </div>
 
