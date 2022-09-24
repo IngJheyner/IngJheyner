@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833'>Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791'>Patinetes eléctricos para niños: todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/patinetes-electricos-2819309.jpg' alt='Patinetes eléctricos para niños: todo lo que necesitas saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637'>Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estudio-ha-analizado-habitos-consumo-streaming-datos-son-muy-preocupantes-netflix-2823021.jpg' alt='Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631'>El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros' />
     </a>
 </div>
 
