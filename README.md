@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-plegable-cuando-haces-pop-ya-no-hay-stop-1116487'>Con un móvil plegable, cuando haces pop... ya no hay stop</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/movil-plegable-cuando-haces-pop-ya-no-hay-stop-1116487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Con un móvil plegable, cuando haces pop... ya no hay stop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/electrodomesticos-gastan-mas-peligro-modo-reposo-ocu-1129837'>Los electrodomésticos que más gastan, los que menos y los que son un peligro en modo reposo, según la OCU</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/electrodomesticos-gastan-mas-peligro-modo-reposo-ocu-1129837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/electrodomesticos-gastan-menos-son-peligro-modo-reposo-ocu-2823205.jpg' alt='Los electrodomésticos que más gastan, los que menos y los que son un peligro en modo reposo, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
+    <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/barco-volador-ilusion-optica-1129385'>Este "barco volador" no es una imagen manipulada, pero sí una espectacular ilusión óptica, ¿cómo se produce?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/barco-volador-ilusion-optica-1129385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/barco-volador-no-imagen-manipulada-pero-espectacular-ilusion-optica-como-produce-2822349.jpg' alt='Este "barco volador" no es una imagen manipulada, pero sí una espectacular ilusión óptica, ¿cómo se produce?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833'>Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791'>Patinetes eléctricos para niños: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/patinetes-electricos-2819309.jpg' alt='Patinetes eléctricos para niños: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-camara-200-mpx-fotos-1129639'>Se filtran las fotos del Xiaomi 12T y 12T Pro y se confirma la cámara a 200 Mpx, entre otras cosas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-camara-200-mpx-fotos-1129639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtran-renders-xioami-12t-12t-pro-confirma-camara-200-mpx-otras-cosas-2823023.jpg' alt='Se filtran las fotos del Xiaomi 12T y 12T Pro y se confirma la cámara a 200 Mpx, entre otras cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457'>Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta</a></h4>
-    <a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espectacular-video-caida-libre-edificio-alto-planeta-2822581.jpg' alt='Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637'>Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/encuesta-netflix-suscriptores-cancelar-suscripcion-1129637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/estudio-ha-analizado-habitos-consumo-streaming-datos-son-muy-preocupantes-netflix-2823021.jpg' alt='Un estudio ha analizado los hábitos de consumo del streaming y los datos son muy preocupantes para Netflix' />
     </a>
 </div>
 
