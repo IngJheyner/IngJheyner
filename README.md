@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873'>A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155'>Aplicaciones para el control de la menstruación: estas son mis 3 favoritas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/aplicaciones-control-menstruacion-estas-son-3-favoritas-2816401.jpg' alt='Aplicaciones para el control de la menstruación: estas son mis 3 favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-telefonos-samsung-recibiran-android-13-antes-2023-1129871'>Estos serían todos los teléfonos Samsung que recibirán Android 13 antes de 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-telefonos-samsung-recibiran-android-13-antes-2023-1129871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802987.jpg' alt='Estos serían todos los teléfonos Samsung que recibirán Android 13 antes de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-hace-tecla-fn-windows-10-11-1123829'>Cómo cambiar qué hace la tecla Fn en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-hace-tecla-fn-windows-10-11-1123829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fn-2811873.jpg' alt='Cómo cambiar qué hace la tecla Fn en Windows 10 y 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783'>Cómo mejorar la señal WiFi y aumentar la cobertura en casa</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg' alt='Cómo mejorar la señal WiFi y aumentar la cobertura en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tecnologia/lenovo-ideapad-5i-pro-review-opinion-1125053'>Lenovo IdeaPad 5i Pro, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/tecnologia/lenovo-ideapad-5i-pro-review-opinion-1125053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/lenovo-ideapad-5-pro-analsis-opinion-2814333.jpg' alt='Lenovo IdeaPad 5i Pro, análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839'>Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-caminar-carretera-pero-siguiendo-estas-reglas-dgt-2823207.jpg' alt='Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-hemos-probado-sony-xiaomi-jbl-1129317'>Estos son los mejores altavoces Bluetooth que hemos probado: Sony, Xiaomi, JBL y más marcas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-hemos-probado-sony-xiaomi-jbl-1129317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-srs-xb23-analisis-opinion-2778433.jpg' alt='Estos son los mejores altavoces Bluetooth que hemos probado: Sony, Xiaomi, JBL y más marcas' />
     </a>
 </div>
 
