@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839'>Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/normas-caminar-carretera-dgt-1129839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/puedes-caminar-carretera-pero-siguiendo-estas-reglas-dgt-2823207.jpg' alt='Sí puedes caminar por una carretera, pero siguiendo estas reglas de la DGT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-hemos-probado-sony-xiaomi-jbl-1129317'>Estos son los mejores altavoces Bluetooth que hemos probado: Sony, Xiaomi, JBL y más marcas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-altavoces-bluetooth-hemos-probado-sony-xiaomi-jbl-1129317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/sony-srs-xb23-analisis-opinion-2778433.jpg' alt='Estos son los mejores altavoces Bluetooth que hemos probado: Sony, Xiaomi, JBL y más marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/movil-plegable-cuando-haces-pop-ya-no-hay-stop-1116487'>Con un móvil plegable, cuando haces pop... ya no hay stop</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/movil-plegable-cuando-haces-pop-ya-no-hay-stop-1116487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-galaxy-fold-4-2791571.jpg' alt='Con un móvil plegable, cuando haces pop... ya no hay stop' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/purificador-de-aire'>Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?</a></h4>
     <a href='https://computerhoy.com/guia-compra/purificador-de-aire' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/no-deberia-faltar-ninguna-casa-purificador-aire-inteligente-cupon-descuento-amazon-2624353.jpg' alt='Guía y consejos para comprar un purificador de aire, ¿cuáles son los mejores modelos en 2022?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/barco-volador-ilusion-optica-1129385'>Este "barco volador" no es una imagen manipulada, pero sí una espectacular ilusión óptica, ¿cómo se produce?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/barco-volador-ilusion-optica-1129385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/barco-volador-no-imagen-manipulada-pero-espectacular-ilusion-optica-como-produce-2822349.jpg' alt='Este "barco volador" no es una imagen manipulada, pero sí una espectacular ilusión óptica, ¿cómo se produce?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833'>Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/bitcoin-igual-cualquier-otra-criptomoneda-1129833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-2530193.jpg' alt='Los expertos advierten: “no te engañes, Bitcoin es igual que cualquier otra criptomoneda”' />
     </a>
 </div>
 
