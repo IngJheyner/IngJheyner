@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887'>Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/powerbeats-pro-apple-2823331.jpg' alt='Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-1129881'>Uno de los huevos de pascua más populares de Google Maps acaba de desaparecer por esta razón</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-1129881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-2823317.jpg' alt='Uno de los huevos de pascua más populares de Google Maps acaba de desaparecer por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801'>7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/15-mejores-series-netflix-espana-que-podemos-ver-2018_6.jpg' alt='7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873'>A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155'>Aplicaciones para el control de la menstruación: estas son mis 3 favoritas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/aplicaciones-control-menstruacion-estas-son-3-favoritas-2816401.jpg' alt='Aplicaciones para el control de la menstruación: estas son mis 3 favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-telefonos-samsung-recibiran-android-13-antes-2023-1129871'>Estos serían todos los teléfonos Samsung que recibirán Android 13 antes de 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-serian-todos-telefonos-samsung-recibiran-android-13-antes-2023-1129871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802987.jpg' alt='Estos serían todos los teléfonos Samsung que recibirán Android 13 antes de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-hace-tecla-fn-windows-10-11-1123829'>Cómo cambiar qué hace la tecla Fn en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-hace-tecla-fn-windows-10-11-1123829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/fn-2811873.jpg' alt='Cómo cambiar qué hace la tecla Fn en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783'>Cómo mejorar la señal WiFi y aumentar la cobertura en casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg' alt='Cómo mejorar la señal WiFi y aumentar la cobertura en casa' />
     </a>
 </div>
 
