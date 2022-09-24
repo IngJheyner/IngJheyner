@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791'>Patinetes eléctricos para niños: todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/patinetes-electricos-ninos-1127791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/patinetes-electricos-2819309.jpg' alt='Patinetes eléctricos para niños: todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-camara-200-mpx-fotos-1129639'>Se filtran las fotos del Xiaomi 12T y 12T Pro y se confirma la cámara a 200 Mpx, entre otras cosas</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/xiaomi-12t-12t-pro-camara-200-mpx-fotos-1129639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/filtran-renders-xioami-12t-12t-pro-confirma-camara-200-mpx-otras-cosas-2823023.jpg' alt='Se filtran las fotos del Xiaomi 12T y 12T Pro y se confirma la cámara a 200 Mpx, entre otras cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457'>Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta</a></h4>
     <a href='https://computerhoy.com/noticias/life/video-caida-libre-rascacielos-burj-khalifa-1129457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/espectacular-video-caida-libre-edificio-alto-planeta-2822581.jpg' alt='Un espectacular vídeo en caída libre desde el rascacielos más alto del planeta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631'>El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/reloj-samsung-galaxy-watch-5-descuento-50-euros-1129631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galaxy-watch-5-2781941.jpg' alt='El nuevo reloj Samsung Galaxy Watch 5 acaba de salir, pero ya puedes comprarlo con un descuento de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-email-utiliza-whatsapp-como-gancho-1129625'>La Guardia Civil alerta de una nueva estafa por email que utiliza WhatsApp como gancho</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guardia-civil-alerta-nueva-estafa-email-utiliza-whatsapp-como-gancho-1129625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/whastsapp%20web.jpg' alt='La Guardia Civil alerta de una nueva estafa por email que utiliza WhatsApp como gancho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623'>La NASA descubre una nueva isla en el Pacífico con un futuro muy negro</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nasa-descubre-nueva-isla-pacifico-futuro-muy-negro-1129623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tenemos-nueva-isla-pacifico-pero-jamas-podras-visitarla-2823013.jpg' alt='La NASA descubre una nueva isla en el Pacífico con un futuro muy negro' />
     </a>
 </div>
 
