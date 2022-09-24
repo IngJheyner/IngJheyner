@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415'>Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tres-millones-dolares-parada-autobus-rompes-cristal-3m-1129415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tres-millones-dolares-parada-autobus-rompes-cristal-te-quedas-2822409.jpg' alt='Tres millones de dólares en una parada de autobús: si rompes el cristal te los quedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza</a></h4>
     <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ocasion-no-debe-fallo-tecnico-2823435.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583'>Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/foto-movil-2815095.jpg' alt='Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909'>La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales' />
     </a>
 </div>
 
