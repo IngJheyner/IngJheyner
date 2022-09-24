@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931'>Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551'>7 móviles realme que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/5-moviles-realme-hemos-probado-recomendamos-1022551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-realme-gt-2-pro-2629659.jpg' alt='7 móviles realme que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583'>Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-webs-retos-fotograficos-moviles-diarios-mejorar-tecnica-camara-1125583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/foto-movil-2815095.jpg' alt='Las mejores webs de retos fotográficos móviles diarios para mejorar tu técnica con la cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909'>La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907'>Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruoso-2823363.jpg' alt='Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887'>Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/powerbeats-pro-apple-2823331.jpg' alt='Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-1129881'>Uno de los huevos de pascua más populares de Google Maps acaba de desaparecer por esta razón</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-1129881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/huevos-pascua-populares-google-maps-acaba-desaparecer-razon-2823317.jpg' alt='Uno de los huevos de pascua más populares de Google Maps acaba de desaparecer por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801'>7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/15-mejores-series-netflix-espana-que-podemos-ver-2018_6.jpg' alt='7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo' />
     </a>
 </div>
 
