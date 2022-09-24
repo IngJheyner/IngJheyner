@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941'>La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza</a></h4>
+    <a href='https://computerhoy.com/noticias/life/nasa-vuelve-retrasar-lanzamiento-artemis-i-ahora-debe-fuerza-naturaleza-1129941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nasa-vuelve-retrasar-lanzamiento-artemis-i-ocasion-no-debe-fallo-tecnico-2823435.jpg' alt='La NASA vuelve a retrasar el lanzamiento de la Artemis I, y ahora se debe a la fuerza de la naturaleza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931'>Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca</a></h4>
     <a href='https://computerhoy.com/noticias/life/toda-basura-ser-humano-ya-ha-dejado-marte-no-poca-1129931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/superficie-marte-2741179.jpg' alt='Esta es toda la basura que el ser humano ya ha dejado en Marte, y no es poca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909'>La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907'>Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruoso-2823363.jpg' alt='Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles' />
     </a>
 </div>
 
