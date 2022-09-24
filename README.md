@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909'>La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-coolwalk-android-auto-traeria-lavado-diseno-aplicaciones-musicales-1129909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2343833.jpg' alt='La actualización Coolwalk de Android Auto traería un lavado de diseño a las aplicaciones musicales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907'>Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruoso-2823363.jpg' alt='Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801'>7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/peliculas-series-carceles-puedes-ver-netflix-ahora-mismo-1127801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/02/15-mejores-series-netflix-espana-que-podemos-ver-2018_6.jpg' alt='7 películas y series sobre cárceles que puedes ver en Netflix ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873'>A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas' />
     </a>
 </div>
 
