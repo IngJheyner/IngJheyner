@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907'>Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/habra-nueva-pelicula-cloverfield-jj-abrams-como-productor-estos-son-primeros-detalles-1129907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/monstruoso-2823363.jpg' alt='Habrá una nueva película de Cloverfield con JJ Abrams como productor y estos son sus primeros detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887'>Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/estos-auriculares-beats-apple-son-perfectos-runners-ahora-100-euros-descuento-1129887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/powerbeats-pro-apple-2823331.jpg' alt='Estos auriculares Beats de Apple son perfectos para runners, y ahora con 100 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873'>A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas</a></h4>
     <a href='https://computerhoy.com/noticias/motor/estos-conductores-cambian-plazos-pasar-itv-tambien-podrian-anular-ciertas-multas-1129873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/itv-2475297.jpg' alt='A estos conductores se les cambian los plazos para pasar la ITV y también se les podrían anular ciertas multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155'>Aplicaciones para el control de la menstruación: estas son mis 3 favoritas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aplicaciones-control-menstruacion-estas-son-3-favoritas-1126155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/aplicaciones-control-menstruacion-estas-son-3-favoritas-2816401.jpg' alt='Aplicaciones para el control de la menstruación: estas son mis 3 favoritas' />
     </a>
 </div>
 
