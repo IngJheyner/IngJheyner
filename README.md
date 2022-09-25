@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras de chocolate llegan a los hogares (vídeo)</a></h4>
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras de chocolate llegan a los hogares (vídeo)' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras 3D de chocolate llegan a los hogares (vídeo)' />
     </a>
 </div>
 
