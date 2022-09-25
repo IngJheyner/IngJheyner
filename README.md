@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651'>Cómo medir distancias, superficies y recorridos en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-maps-lg-v50.jpg' alt='Cómo medir distancias, superficies y recorridos en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243'>La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-como-arreglarlo-1130243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/actualizacion-windows-11-22h2-destroza-rendimiento-tarjetas-graficas-nvidia-puedes-arreglarlo-2823987.jpg' alt='La actualización Windows 11 22H2 destroza el rendimiento de las tarjetas NVIDIA: así puedes arreglarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217'>Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/surface-pro-8-tablet-portatil-microsoft-ahora-300-euros-descuento-1130217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/microsoft-surface-pro-8-analisis-opinion-2613507.jpg' alt='Surface Pro 8: la tablet y portátil de Microsoft ahora con más de 300 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-aspirador-xiaomi-no-solo-aspira-barre-sino-friega-profundidad-1130203'>Este nuevo robot aspirador de Xiaomi no solo aspira y barre sino que friega en profundidad</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/nuevo-robot-aspirador-xiaomi-no-solo-aspira-barre-sino-friega-profundidad-1130203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mijia-robot-vacuum-cleaner-1s-2823869.jpg' alt='Este nuevo robot aspirador de Xiaomi no solo aspira y barre sino que friega en profundidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445'>7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/7-grandes-avances-tecnologicos-revolucionaron-mundo-cine-series-1128445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/camara-cine-2097067.jpg' alt='7 grandes avances tecnológicos que revolucionaron el mundo del cine y las series' />
     </a>
 </div>
 
