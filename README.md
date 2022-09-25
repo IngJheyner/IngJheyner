@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/conexion-satelital-moviles-1121531'>¿Qué es la Conexión Satelital en móviles?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/conexion-satelital-moviles-1121531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1663953661493-2822993.jpg' alt='¿Qué es la Conexión Satelital en móviles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929'>OnePlus 10T 5G, análisis y opinión</a></h4>
     <a href='https://computerhoy.com/analisis/tecnologia/oneplus-10t-5g-review-opinion-1129929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823469.jpg' alt='OnePlus 10T 5G, análisis y opinión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739'>Razones por la que deberías descartar el iPhone 14</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-deberias-descartar-iphone-14-1128739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-14-2806805.jpg' alt='Razones por la que deberías descartar el iPhone 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937'>Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio</a></h4>
-    <a href='https://computerhoy.com/noticias/life/nueva-ciudad-ecologica-japon-ha-empezado-construir-tokio-1129937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/ciudad-ecologica-futurista-japon-ha-empezado-construir-tokio-2823417.jpg' alt='Esta es la nueva ciudad ecológica que Japón ha empezado a construir en Tokio' />
     </a>
 </div>
 
