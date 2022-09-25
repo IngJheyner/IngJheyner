@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281'>El sueño de los golosos: las impresoras de chocolate llegan a los hogares (vídeo)</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mycusini-impresora-chocolate-1130281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/verticalimage1664140767995-2824101.jpg' alt='El sueño de los golosos: las impresoras de chocolate llegan a los hogares (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277'>Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos</a></h4>
     <a href='https://computerhoy.com/noticias/life/jupiter-mas-cerca-tierra-ultimos-59-anos-ver-lunas-simples-prismaticos-1130277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/delfin-jupiter-tamano-tierra-puedes-verlo-2219539.jpg' alt='Júpiter nunca ha estado tan cerca de la Tierra en los últimos 59 años, puedes ver sus lunas con unos prismáticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/router-wifi-6'>WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/router-wifi-6' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/xiaomi-mi-router-ax1800-2126365.jpg' alt='WiFi 6, todo lo que debes saber y los mejores routers compatibles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651'>Cómo medir distancias, superficies y recorridos en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-recorridos-google-maps-1127651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-maps-lg-v50.jpg' alt='Cómo medir distancias, superficies y recorridos en Google Maps' />
     </a>
 </div>
 
